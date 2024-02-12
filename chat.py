@@ -1,8 +1,6 @@
-
-#from openai import OpenAI
-import openai
-
 openai.api_key =='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'
+
+import openai
 from helpers import *
 
 
