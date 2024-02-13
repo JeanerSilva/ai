@@ -1,0 +1,131 @@
+Pergunta Original: 10.1 LAN    
+ 
+1. Subtópico:
+1. Definição e características de LAN (Local Area Network)
+Assertivas:
+1. Uma LAN é uma rede de computadores que abrange uma área geográfica limitada, como um prédio, campus universitário ou escritório.
+2. As LANs são projetadas para facilitar a comunicação e o compartilhamento de recursos entre os dispositivos conectados, como computadores, impressoras e servidores.
+3. As LANs utilizam protocolos de comunicação, como o Ethernet, para permitir a transferência de dados entre os dispositivos de rede.
+4. Uma das principais características de uma LAN é sua velocidade de transmissão de dados, que geralmente é alta para permitir transferências rápidas de arquivos e streaming de mídia.
+5. Uma LAN pode ser formada por um ou mais switches, que são dispositivos de rede responsáveis por conectar os dispositivos entre si.
+6. As LANs podem ser configuradas de forma cabeada, utilizando cabos de rede para interligar os dispositivos, ou de forma sem fio, utilizando tecnologias como Wi-Fi.
+7. Uma LAN pode ser configurada para permitir o acesso à Internet, por meio de um roteador que conecta a rede local à rede externa.
+8. As LANs podem ser protegidas por medidas de segurança, como firewalls e sistemas de autenticação, para garantir a confidencialidade e a integridade dos dados transmitidos.
+9. Uma LAN pode ser expandida ou conectada a outras redes, como WANs (Wide Area Networks) ou a Internet, por meio de roteadores ou gateways.
+10. As LANs são amplamente utilizadas em ambientes corporativos, escolas, hospitais e residências para possibilitar a comunicação e o compartilhamento de recursos entre os dispositivos conectados.
+
+2. Subtópico:
+2. Tipos de LAN: Ethernet, Token Ring, FDDI
+Assertivas:
+1. A Ethernet é um tipo de rede local (LAN) amplamente utilizado devido à sua alta velocidade de transmissão de dados.
+2. O Token Ring é um tipo de LAN que utiliza um token como sistema de controle de acesso ao meio de transmissão.
+3. O FDDI (Fiber Distributed Data Interface) é um tipo de LAN que utiliza fibra óptica como meio de transmissão e oferece alta velocidade e confiabilidade.
+4. A Ethernet é baseada em um esquema de acesso ao meio conhecido como CSMA/CD (Carrier Sense Multiple Access with Collision Detection).
+5. As redes Ethernet são normalmente implementadas utilizando cabos de par trançado ou cabos de fibra óptica.
+6. O Token Ring foi desenvolvido pela IBM e utiliza um formato de anel lógico para a transmissão de dados.
+7. O Token Ring emprega um esquema de controle de acesso ao meio chamado token passing, onde um token é passado de um nó para outro para conceder o direito de transmitir.
+8. O FDDI utiliza uma topologia em anel duplo para garantir alta disponibilidade e redundância de conexão.
+9. Para as redes Ethernet, a velocidade de transmissão mais comum é de 100 Mbps, embora existam também variantes de 1 Gbps e 10 Gbps.
+10. O FDDI permite a transmissão simultânea de dados em ambos os sentidos do anel, proporcionando maior capacidade de transmissão em comparação com outras tecnologias de LAN.
+
+3. Subtópico:
+3. Componentes de uma LAN: servidores, estações de trabalho, switches, roteadores
+Assertivas:
+1. Os servidores são componentes essenciais em uma LAN, responsáveis por armazenar e processar informações, serviços e recursos compartilhados pelos usuários da rede.
+2. As estações de trabalho são elementos fundamentais de uma LAN, representando os dispositivos utilizados pelos usuários para acessar os recursos disponibilizados pela rede.
+3. Os switches são equipamentos utilizados em uma LAN para conectar diferentes dispositivos, como servidores e estações de trabalho, permitindo a comunicação e o compartilhamento de informações entre eles.
+4. Os switches são responsáveis por segmentar a rede em diferentes portas, direcionando o tráfego de informações de forma eficiente e evitando congestionamentos.
+5. Os roteadores, por sua vez, são componentes utilizados em uma LAN para interconectar redes locais diferentes ou proporcionar o acesso à internet, permitindo a comunicação entre diferentes redes ou sub-redes.
+6. Os roteadores atuam como pontes entre as redes locais, encaminhando pacotes de dados para seus respectivos destinos, independentemente da distância que eles possam estar.
+7. A função principal dos roteadores é realizar o encaminhamento de pacotes de dados através de diferentes caminhos possíveis, escolhendo a rota mais eficiente e segura para que a informação chegue ao destino.
+8. Em uma LAN bem projetada, é comum utilizar switches para conectar os dispositivos dentro da mesma rede local, e roteadores para interconectar diferentes redes ou prover o acesso à internet.
+9. Os servidores podem ser configurados para fornecer serviços variados, como compartilhamento de arquivos, impressões, acesso a banco de dados, controle de acesso, entre outros.
+10. Uma infraestrutura de LAN eficiente, composta por servidores, estações de trabalho, switches e roteadores, é essencial para garantir a conectividade, segurança e desempenho adequados dentro de uma organização.
+
+4. Subtópico:
+4. Protocolos utilizados em LANs: TCP/IP, IPX/SPX
+Assertivas:
+1. O TCP/IP é um conjunto de protocolos amplamente utilizado em redes de computadores, incluindo as redes locais (LANs).
+2. O TCP/IP é composto pelos protocolos de camada de rede IP e de camada de transporte TCP/UDP.
+3. O IPX/SPX é um conjunto de protocolos de rede legado desenvolvido pela Novell, frequentemente utilizado em redes locais.
+4. O IPX/SPX utiliza um modelo de comunicação de camadas semelhante ao TCP/IP, com camada de transporte (SPX) e camada de rede (IPX).
+5. Tanto o TCP/IP quanto o IPX/SPX permitem o roteamento de pacotes entre diferentes redes, possibilitando a comunicação entre dispositivos em LANs distintas.
+6. O TCP/IP é o protocolo mais comumente utilizado em redes LAN devido à sua versatilidade, escalabilidade e suporte a uma ampla variedade de aplicativos e serviços.
+7. O IPX/SPX foi amplamente utilizado em redes locais anteriormente, principalmente em ambientes de computadores com sistema operacional Novell NetWare.
+8. O TCP/IP é composto por protocolos bem conhecidos, como o HTTP, SMTP, FTP e DNS, que desempenham funções essenciais na comunicação de dados entre dispositivos em LANs.
+9. O IPX/SPX foi gradualmente substituído pelo TCP/IP com o aumento da popularidade da Internet e a adoção generalizada deste conjunto de protocolos em redes LAN.
+10. No contexto das LANs, tanto o TCP/IP quanto o IPX/SPX são utilizados para garantir a troca de dados confiável e eficiente entre os dispositivos conectados em uma rede local.
+
+5. Subtópico:
+5. Topologias de rede em LANs: estrela, anel, barramento
+Assertivas:
+1. A topologia de rede em estrela é caracterizada por um ponto central, conhecido como hub ou switch, ao qual todos os dispositivos são conectados.
+2. Na topologia de rede em anel, os dispositivos são conectados em forma de anel, onde cada dispositivo está conectado ao próximo e comunica-se diretamente apenas com os dispositivos adjacentes.
+3. A topologia de rede em barramento é caracterizada por um único cabo de rede compartilhado por todos os dispositivos, onde os dados são transmitidos para todos os dispositivos conectados.
+4. Na topologia em estrela, caso o hub ou switch central falhe, todos os dispositivos conectados serão afetados e perderão a capacidade de se comunicar na rede.
+5. Na topologia em anel, a falha de um único dispositivo ou de um segmento de cabo pode interromper toda a comunicação na rede.
+6. A topologia em barramento permite uma fácil adição e remoção de dispositivos, uma vez que um novo dispositivo precisa apenas ser conectado ao cabo compartilhado.
+7. A topologia em estrela é amplamente utilizada em redes Ethernet, onde cada dispositivo é conectado ao switch central através de um cabo dedicado.
+8. A topologia em anel é geralmente usada em redes Token Ring, nas quais os dispositivos comunicam-se através de um token que é passado entre eles.
+9. A topologia em barramento é menos comum atualmente devido às limitações de escalabilidade e às vulnerabilidades de segurança inerentes à sua configuração física.
+10. Todas as três topologias de rede - estrela, anel e barramento - têm vantagens e desvantagens, e a escolha da melhor opção depende das necessidades e requisitos específicos de cada ambiente de rede.
+
+6. Subtópico:
+6. Segurança em redes LAN: firewalls e sistemas de detecção de intrusão 
+Assertivas:
+1. Os firewalls são dispositivos de segurança que atuam como uma barreira de proteção entre uma rede local (LAN) e a Internet.
+2. O firewall pode ser configurado para controlar o tráfego de entrada e saída, permitindo ou bloqueando determinados tipos de conexões.
+3. A principal função de um firewall é monitorar as comunicações de rede e filtrar o tráfego indesejado, potencialmente prejudicial ou não autorizado.
+4. Além do firewall, os sistemas de detecção de intrusão (IDS) são componentes importantes na segurança de redes LAN, pois ajudam a identificar atividades suspeitas ou maliciosas na rede.
+5. O IDS pode identificar tentativas de invasão e até mesmo ataques bem-sucedidos, emitindo alertas para que ações corretivas possam ser tomadas.
+6. Existem diferentes tipos de IDS, como o IDS com base em assinatura, que compara padrões de tráfego com uma base de dados de assinaturas conhecidas de ataques, e o IDS com base em anomalias, que monitora o tráfego em busca de atividades incomuns.
+7. Os firewalls podem ser implementados tanto por meio de hardware quanto de software, dependendo das necessidades e recursos disponíveis.
+8. Apesar de sua importância na segurança de redes LAN, os firewalls e sistemas de detecção de intrusão não são garantia absoluta de proteção, sendo necessário adotar outras práticas de segurança, como atualização de softwares e adoção de políticas de acesso restritas.
+9. Um firewall bem configurado e atualizado regularmente pode ajudar a prevenir ataques de hackers e proteger informações confidenciais em redes LAN.
+10. O monitoramento contínuo e a adequada manutenção dos firewalls e sistemas de detecção de intrusão são aspectos fundamentais para garantir a efetividade dessas tecnologias na segurança das redes LAN.
+
+7. Subtópico:
+7. Gerenciamento e monitoramento da rede LAN 
+Assertivas:
+1. O gerenciamento da rede LAN envolve a administração dos dispositivos de rede, como switches, roteadores e access points, visando garantir o seu correto funcionamento.
+2. O monitoramento da rede LAN consiste na análise de tráfego, desempenho e segurança dos dispositivos e serviços presentes na rede local.
+3. O gerenciamento da rede LAN é responsável por configurar e monitorar os protocolos de roteamento, como o OSPF e o EIGRP, a fim de manter a conectividade entre os dispositivos de rede.
+4. O monitoramento da rede LAN permite identificar possíveis gargalos de performance, permitindo a tomada de medidas corretivas para otimização da rede.
+5. O gerenciamento da rede LAN envolve a administração de endereços IP e a alocação deles para os dispositivos na rede.
+6. O monitoramento da rede LAN possibilita o acompanhamento em tempo real do consumo de banda e tráfego, permitindo a identificação de atividades suspeitas.
+7. O gerenciamento da rede LAN é fundamental para garantir a eficiência e a disponibilidade dos serviços de rede para os usuários da organização.
+8. O monitoramento da rede LAN auxilia na detecção de falhas e eventuais problemas de segurança, como ataques de negação de serviço ou intrusões.
+9. O gerenciamento da rede LAN envolve a criação de políticas de acesso e segurança para garantir a integridade dos dados e a privacidade das informações transmitidas.
+10. O monitoramento da rede LAN permite identificar possíveis fatores que causam latência na rede, auxiliando na otimização do desempenho dos serviços oferecidos.
+
+8. Subtópico:
+8. Configuração e instalação da rede local (LAN)
+Assertivas:
+1. A configuração da rede local (LAN) envolve a definição dos endereços IP dos dispositivos conectados.
+2. A instalação da rede local (LAN) geralmente requer a utilização de cabos Ethernet para a conexão dos dispositivos.
+3. A escolha adequada do tipo de cabo a ser utilizado na instalação da rede local (LAN) depende da distância que os dispositivos estarão um do outro.
+4. A criação de sub-redes é uma prática comum na configuração da rede local (LAN) para facilitar o gerenciamento dos dispositivos.
+5. Um switch é um equipamento essencial na configuração da rede local (LAN) para permitir a conexão de vários dispositivos em uma única rede.
+6. Um roteador pode ser utilizado na configuração da rede local (LAN) para conexão com a internet.
+7. A configuração de um servidor DHCP é necessária para atribuir automaticamente endereços IP aos dispositivos conectados à rede local (LAN).
+8. A configuração de regras de firewall é importante na rede local (LAN) para fortalecer a segurança dos dados transmitidos.
+9. A instalação de dispositivos de rede sem fio (Wi-Fi) é uma opção viável na configuração da rede local (LAN) para permitir a conexão de dispositivos móveis.
+10. A correta configuração dos protocolos de rede, como TCP/IP, é essencial na configuração da rede local (LAN) para garantir a comunicação entre os dispositivos.
+
+9. Subtópico:
+9. Conceitos básicos sobre VLAN (Virtual
+Assertivas:
+Local Area Network):
+
+1. A VLAN é uma rede local virtual que permite a segmentação de uma rede física em sub-redes lógicas independentes.
+2. Cada VLAN possui um identificador único, conhecido como VLAN ID, que permite o encaminhamento de pacotes entre VLANs.
+3. A VLAN é capaz de melhorar o desempenho e a segurança de uma rede, pois restringe o tráfego entre as sub-redes lógicas.
+4. A utilização de VLANs minimiza a necessidade de alterações físicas na rede, já que a segmentação é feita apenas no nível lógico.
+5. As VLANs podem ser configuradas em switches gerenciáveis, onde é possível criar e administrar diferentes VLANs.
+6. Uma VLAN padrão, conhecida como VLAN 1, é criada automaticamente em todos os switches e é utilizada para administração e gerenciamento.
+7. É possível realizar a comunicação entre VLANs utilizando roteadores, que atuam como intermediários entre as diferentes redes virtuais.
+8. A utilização de VLANs permite a divisão de uma rede em vários departamentos ou setores, isolando o tráfego e melhorando a segurança.
+9. Switches de camada 3 são necessários para permitir o roteamento inter-VLAN, possibilitando a comunicação direta entre as VLANs.
+10. A configuração de VLANs é uma prática de rede comum em ambientes corporativos, data centers e redes de campus para melhorar a eficiência e a segregação do tráfego.
+
+

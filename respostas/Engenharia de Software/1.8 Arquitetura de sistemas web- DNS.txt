@@ -1,0 +1,154 @@
+Pergunta Original: 1.8 Arquitetura de sistemas web- DNS   
+ 
+1. Subtópico:
+1. Conceitos básicos de DNS (Domain Name System)
+Assertivas:
+1. O DNS é um sistema de gerenciamento de nomes de domínio que converte endereços IP em nomes de domínio e vice-versa.
+2. O DNS facilita a navegação na Internet, permitindo que os usuários acessem sites por meio de nomes fáceis de lembrar, em vez de ter que digitar endereços IP numéricos.
+3. O DNS é essencial para o funcionamento da World Wide Web, pois permite a tradução de URLs em endereços IP.
+4. O DNS opera em uma hierarquia de servidores que são responsáveis por diferentes níveis de domínio, como os servidores raiz, servidores de domínio de topo (TLD) e servidores autoritativos de domínio (DNS).
+5. Os registros DNS são usados para armazenar informações sobre os recursos disponíveis em um domínio, como servidores de e-mail, servidores FTP e servidores web.
+6. O protocolo padrão usado pelo DNS para a resolução de nomes de domínio é o DNS protocol (UDP/IP) que opera na porta 53.
+7. Os servidores recursivos são responsáveis por resolver consultas DNS enviadas pelos clientes, buscando as informações necessárias nos servidores autoritativos.
+8. O DNS utiliza o cache para melhorar o desempenho das consultas, armazenando em memória informações de consultas anteriores.
+9. O DNS também suporta a utilização de registros de segurança, como o DNSSEC, para proteger a integridade e autenticidade das informações transmitidas.
+10. É possível configurar servidores DNS em diferentes tipos de arquiteturas, como a arquitetura master/slave, onde um servidor é responsável pela atualização e outros servidores replicam essas atualizações.
+
+2. Subtópico:
+2. Funcionamento e estrutura do DNS
+Assertivas:
+1. O DNS (Domain Name System) é responsável por traduzir nomes de domínio em endereços IP.
+2. O DNS utiliza uma estrutura hierárquica, com servidores de nomes distribuídos em diferentes níveis.
+3. O DNS funciona através do protocolo UDP, na porta padrão 53.
+4. O DNS utiliza consultas recursivas para encontrar o endereço IP correspondente a um determinado nome de domínio.
+5. Existem diferentes tipos de registros DNS, como A, CNAME, MX e NS, cada um com uma função específica.
+6. Os servidores DNS autoritativos são responsáveis por armazenar e fornecer informações sobre os registros de um determinado domínio.
+7. Os registros de zona são uma cópia dos registros autoritativos, armazenados nos servidores DNS secundários para garantir alta disponibilidade.
+8. O DNS cache é utilizado para armazenar temporariamente as resoluções de nomes de domínio, reduzindo o tempo de resposta das consultas subsequentes.
+9. O mecanismo de resolução de nomes do DNS permite a utilização de aliases, através do uso de registros CNAME.
+10. O funcionamento do DNS é fundamental para a navegação na Internet, pois permite aos usuários acessarem sites e recursos através de nomes de domínio de fácil memorização.
+
+3. Subtópico:
+3. Tipos de servidores DNS: primário, secundário e cache
+Assertivas:
+1.
+
+O servidor DNS primário é responsável por armazenar a autoridade sobre uma determinada zona DNS e atualizar suas informações.
+
+2. O servidor DNS secundário é responsável por receber as atualizações do servidor primário e manter uma cópia atualizada da zona DNS.
+
+3. O servidor DNS cache é responsável por armazenar temporariamente as respostas das consultas DNS, a fim de melhorar a eficiência e reduzir a carga de acesso aos servidores autoritativos.
+
+4. O servidor DNS primário é o único responsável por responder a consultas DNS e resolver nomes para endereços IP dentro de sua zona.
+
+5. O servidor DNS secundário entra em ação somente quando o servidor primário não está disponível, garantindo a continuidade do serviço DNS.
+
+6. O servidor DNS cache pode ser configurado para consultar outros servidores DNS caso não tenha a informação solicitada em seu cache.
+
+7. O servidor DNS primário é definido como o servidor preferencial nas configurações dos clientes DNS.
+
+8. O servidor DNS secundário possui uma cópia exata da zona DNS do servidor primário, o que garante redundância e permite a recuperação rápida em caso de falha.
+
+9. O servidor DNS cache é amplamente utilizado pelos provedores de internet para melhorar a velocidade de resposta das consultas DNS.
+
+10. A configuração correta e a sincronização adequada entre os servidores DNS primário e secundário são essenciais para garantir a disponibilidade do serviço de resolução de nomes.
+
+4. Subtópico:
+4. Registros DNS: A, AAAA, CNAME, MX, NS, SOA
+Assertivas:
+1. O registro A é responsável por mapear nomes de domínio para endereços IPv4.
+2. O registro AAAA é utilizado para mapear nomes de domínio para endereços IPv6.
+3. O registro CNAME é utilizado para criar um alias (apelido) para um determinado domínio.
+4. O registro MX é responsável por indicar o servidor de e-mail responsável pelo domínio.
+5. O registro NS é utilizado para informar os servidores de nomes autoritativos para um domínio.
+6. O registro SOA (Start of Authority) é utilizado para indicar a fonte de autoridade para um domínio, contendo informações como o tempo de vida do registro, entre outros.
+7. O registro A é obrigatório em um domínio, enquanto os registros AAAA, CNAME, MX, NS e SOA são opcionais.
+8. O registro A pode ter um único valor de endereço IP associado a ele.
+9. O registro AAAA pode ter vários valores de endereços IPv6 associados a ele.
+10. O registro MX pode ter múltiplos valores, onde a prioridade define a ordem de preferência dos servidores de e-mail.
+
+5. Subtópico:
+5. Zonas de autoridade no DNS
+Assertivas:
+1. As zonas de autoridade no DNS são responsáveis por armazenar informações sobre um ou mais domínios.
+2. Cada zona de autoridade tem um servidor DNS responsável por fornecer informações sobre o domínio correspondente.
+3. As zonas de autoridade são definidas pelo administrador do domínio.
+4. Uma zona de autoridade pode conter registros do tipo A, CNAME, MX, NS, entre outros.
+5. As zonas de autoridade permitem que os servidores DNS respondam a consultas sobre os domínios correspondentes.
+6. A atualização das zonas de autoridade é feita através de registros de recursos (RR) especificados no protocolo DNS.
+7. A criação de uma nova zona de autoridade geralmente requer configurações adicionais no servidor DNS.
+8. As zonas de autoridade podem ser divididas em subzonas, permitindo uma distribuição hierárquica das informações no DNS.
+9. Cada zona de autoridade é identificada por um nome único, conhecido como FQDN (Fully Qualified Domain Name).
+10. As zonas de autoridade ajudam a garantir a integridade e a disponibilidade das informações de domínios registrados no DNS.
+
+6. Subtópico:
+6. Processo de resolução de nomes no DNS 
+Assertivas:
+1. O processo de resolução de nomes no DNS é responsável por associar nomes de domínio a endereços IP.
+2. O processo de resolução de nomes no DNS utiliza o protocolo de comunicação UDP.
+3. O processo de resolução de nomes no DNS ocorre em várias etapas, incluindo consulta ao servidor raiz, consulta aos servidores de domínio de primeiro nível e consulta aos servidores autoritativos.
+4. O processo de resolução de nomes no DNS utiliza registros como A, AAAA, CNAME, MX, entre outros, para realizar a associação de nomes de domínio a endereços IP.
+5. O processo de resolução de nomes no DNS é baseado em hierarquia, sendo os servidores de domínio de primeiro nível responsáveis por determinados domínios.
+6. O processo de resolução de nomes no DNS é necessário para que os usuários possam acessar websites ou outros recursos de rede através de seus nomes de domínio.
+7. O processo de resolução de nomes no DNS envolve a consulta recursiva a servidores de nome até que se obtenha o resultado final.
+8. O processo de resolução de nomes no DNS pode ser influenciado por caches locais nos servidores de nome, a fim de agilizar consultas subsequentes.
+9. O processo de resolução de nomes no DNS pode utilizar o mecanismo de cache para armazenar informações atualizadas por um determinado período de tempo.
+10. O processo de resolução de nomes no DNS é extremamente importante para o funcionamento da internet, permitindo a navegação baseada em nomes de domínio ao invés de endereços IP.
+
+7. Subtópico:
+7. Configuração e administração do servidor DNS 
+Assertivas:
+1. A administração do servidor DNS é responsabilidade do administrador de rede.
+2. O servidor DNS é responsável por traduzir nomes de domínio em endereços IP.
+3. A configuração correta do servidor DNS é essencial para o funcionamento adequado da rede.
+4. O servidor DNS pode ser configurado para realizar o cache de consultas, melhorando a velocidade de resposta.
+5. A configuração correta das zonas DNS é fundamental para o correto funcionamento do servidor.
+6. É possível configurar o servidor DNS para redirecionar determinados domínios para outros servidores.
+7. O DNS permite o uso de registros MX para configurar servidores de e-mail.
+8. É importante realizar backups periódicos dos arquivos de configuração do servidor DNS.
+9. A administração do servidor DNS pode ser feita através de uma interface gráfica ou via linha de comando.
+10. O servidor DNS pode ser configurado para responder a consultas recursivas ou apenas consultas autoritativas.
+
+8. Subtópico:
+8. Segurança em DNS: ataques comuns e medidas preventivas 
+Assertivas:
+1. O phishing é um ataque comum em DNS, no qual os criminosos tentam obter informações confidenciais, como senhas, por meio de páginas falsas que se passam por sites legítimos.
+2. DNS spoofing é um ataque em que um invasor falsifica as informações de DNS para redirecionar os usuários para sites maliciosos ou controlados por ele.
+3. O envenenamento do cache DNS acontece quando informações falsas são armazenadas em um servidor DNS, o que pode resultar em redirecionamento para sites maliciosos.
+4. As medidas preventivas contra ataques de phishing incluem a educação dos usuários para que eles identifiquem e evitem clicar em links suspeitos em e-mails ou mensagens.
+5. Para se proteger contra ataques de DNS spoofing, é importante usar servidores DNS confiáveis e atualizados, além de implementar criptografia SSL/TLS nos sites.
+6. A auditoria regular das configurações e registros DNS é uma medida preventiva para evitar o envenenamento do cache DNS.
+7. O DNSSEC (Domain Name System Security Extensions) é uma tecnologia que adiciona segurança ao DNS, garantindo a autenticidade e integridade das informações de DNS.
+8. A adoção de firewalls e IDS/IPS (Intrusion Detection System/Intrusion Prevention System) pode ajudar a prevenir ataques de phishing e DNS spoofing.
+9. A configuração correta dos servidores DNS, como a remoção de registros desnecessários e a atualização de softwares, é uma medida preventiva para evitar vulnerabilidades e ataques.
+10. A atualização regular dos sistemas operacionais e softwares de rede é uma medida preventiva importante para evitar falhas de segurança que poderiam ser exploradas em ataques de DNS.
+
+9. Subtópico:
+9. Protocolos associados ao funcionamento do sistema DNS (UDP/TCP)
+Assertivas:
+1. O DNS é um protocolo de rede responsável pela tradução de nomes de domínio em endereços IP.
+2. O DNS utiliza principalmente o protocolo UDP (User Datagram Protocol) para as comunicações entre cliente e servidor.
+3. O protocolo UDP é utilizado para as requisições de resolução de nomes de domínio, garantindo uma comunicação mais rápida e eficiente.
+4. O protocolo TCP (Transmission Control Protocol) pode ser utilizado pelo DNS quando as respostas são muito grandes para serem transmitidas em um único pacote UDP.
+5. O DNS utiliza a porta 53 para a comunicação através do protocolo UDP.
+6. O DNS utiliza a porta 53 para a comunicação através do protocolo TCP.
+7. O protocolo TCP é utilizado para as transferências de zona do DNS entre servidores.
+8. O protocolo TCP possui mecanismos de controle de fluxo e confiabilidade, garantindo a integridade dos dados durante a transferência de zonas.
+9. O DNS utiliza o protocolo AXFR (Transferência de Zona Total) para transferir todas as informações de uma zona de DNS entre servidores.
+10. O DNS utiliza o protocolo IXFR (Transferência de Zona Incremental) para transferir apenas as informações alteradas em uma zona de DNS entre servidores.
+
+10. Subtópico:
+10. Ferramentas para diagnóstico e solução de problemas em sistemas base
+Assertivas:
+1. As ferramentas para diagnóstico e solução de problemas em sistemas base são essenciais para identificar e corrigir falhas e erros em um sistema de computador.
+2. Essas ferramentas permitem aos técnicos e especialistas em TI identificar a causa raiz de um problema de forma eficiente e precisa.
+3. O uso de ferramentas de diagnóstico pode contribuir para a melhoria do desempenho de um sistema base, ao identificar gargalos e otimizar recursos.
+4. As ferramentas de solução de problemas em sistemas base podem trabalhar com diferentes sistemas operacionais, como Windows, Linux, macOS, entre outros.
+5. Entre as principais ferramentas disponíveis no mercado estão o Wireshark, um sniffer de pacotes de rede, e o Process Monitor, que monitora as atividades de processos em um sistema operacional.
+6. O tcpdump é uma ferramenta poderosa para a análise de tráfego em redes de computadores, capaz de capturar e exibir informações detalhadas sobre pacotes de dados.
+7. O utilitário Memtest86+ é amplamente utilizado para testar a estabilidade da memória RAM de um sistema, identificando possíveis erros e problemas nesse componente.
+8. O Event Viewer, presente nos sistemas operacionais Windows, permite visualizar registros detalhados de eventos e erros ocorridos no sistema, auxiliando na identificação de problemas.
+9. O comando traceroute, utilizado em sistemas baseados em Unix, permite rastrear e mapear a rota de pacotes entre dois pontos em uma rede, auxiliando na identificação de falhas de conectividade.
+10. Por fim, as ferramentas de gerenciamento remoto, como o Terminal Services (Windows) e o SSH (Unix), permitem o acesso e controle remoto de sistemas, facilitando a solução de problemas e a manutenção.
+
+

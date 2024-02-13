@@ -1,0 +1,143 @@
+Pergunta Original: 12.16 Python- entrada e saída de dados   
+ 
+1. Subtópico:
+1. Conceitos básicos de Python: entrada e saída de dados
+Assertivas:
+1. Em Python, a função input() permite a entrada de dados pelo usuário por meio do teclado.
+2. A função print() em Python é utilizada para exibir informações na saída padrão.
+3. Para concatenar uma variável a uma string no momento de exibir uma mensagem, pode-se utilizar o operador de adição (+).
+4. Em Python, é possível formatar a saída dos dados utilizando a função format(), onde é possível especificar o tipo de dado a ser exibido.
+5. O comando input() sempre recebe dados em formato de string, independentemente do tipo de dado digitado pelo usuário.
+6. É possível utilizar o método split() para converter uma entrada de usuário em uma lista de strings, separando-as pelos espaços em branco padrão.
+7. Para realizar a entrada de dados em Python, o usuário precisa fornecer a informação e pressionar a tecla "Enter".
+8. Ao fazer a leitura de um número inteiro em Python, é recomendado utilizar a função int() para converter a string em um valor do tipo inteiro.
+9. O comando input() em Python pode ser utilizado para solicitar valores de ponto flutuante, bastando convertê-los utilizando a função float().
+10. As informações inseridas pelo usuário por meio da função input() podem ser armazenadas em variáveis para posterior processamento no programa.
+
+2. Subtópico:
+2. Uso da função input() para entrada de dados em Python
+Assertivas:
+1) A função input() é utilizada para obter dados de entrada do usuário em um programa Python.
+2) A função input() retorna uma string com o conteúdo digitado pelo usuário.
+3) Ao utilizar a função input(), o programa ficará aguardando o input do usuário até que uma entrada seja fornecida.
+4) É possível fornecer uma mensagem de instrução ao usuário utilizando a função input(), por exemplo: input("Digite um número: ").
+5) A função input() pode ser usada para receber entradas do usuário em qualquer tipo de dado, como números inteiros, ponto flutuante ou texto.
+6) Ao utilizar a função input(), é importante realizar tratamento de erros para garantir que o usuário informe dados válidos.
+7) Quando a função input() é utilizada sem atribuir o retorno a uma variável, o valor de entrada é perdido.
+8) É possível converter o valor fornecido pelo usuário na função input() para outro tipo de dado, utilizando funções de conversão como int(), float() ou str().
+9) A função input() é uma forma de interatividade entre o programa e o usuário, permitindo que este forneça dados personalizados durante a execução.
+10) O uso adequado da função input() em programas Python proporciona uma melhor experiência do usuário, permitindo personalização e interação.
+
+3. Subtópico:
+3. Uso da função print() para saída de dados em Python
+Assertivas:
+1. A função print() é utilizada em Python para exibir informações na tela.
+2. A função print() permite exibir valores de variáveis, strings e expressões.
+3. A função print() pode ser utilizada para exibir mensagens formatadas utilizando substituição de valores.
+4. A função print() em Python é uma função embutida, ou seja, não é necessário importar nenhuma biblioteca para utilizá-la.
+5. O uso da função print() seguido por parênteses vazios é uma forma de imprimir uma linha em branco.
+6. A função print() pode ser utilizada para exibir informações em diferentes formatos, como números inteiros, números de ponto flutuante, strings, entre outros.
+7. O uso da função print() seguido por uma lista como argumento exibe os elementos da lista individualmente.
+8. A função print() pode ser utilizada para escrever em um arquivo em Python, especificando o argumento file.
+9. É possível utilizar a função print() para exibir informações em cores diferentes no console, utilizando bibliotecas externas.
+10. Ao utilizar a função print() com múltiplos argumentos separados por vírgula, os valores são exibidos separados por um espaço em branco.
+
+4. Subtópico:
+4. Formatação da saída de dados com a função print()
+Assertivas:
+1. A função print() é utilizada para exibir dados na saída padrão.
+2. A função print() permite formatar a saída de dados utilizando argumentos opcionais.
+3. A função print() pode ser utilizada para exibir números, strings e outros tipos de dados.
+4. É possível utilizar a função print() para exibir valores formatados com uma quantidade específica de casas decimais.
+5. A função print() permite a exibição de múltiplos valores em uma única chamada.
+6. É possível utilizar a função print() para exibir dados formatados com espaçamento específico entre os valores.
+7. A função print() pode ser utilizada para formatar a saída de dados em linhas diferentes.
+8. A função print() pode ser utilizada para exibir dados em cores diferentes.
+9. É possível utilizar a função print() para exibir dados formatados em colunas alinhadas.
+10. A função print() permite a inclusão de caracteres de escape para formatação especial, como quebra de linha.
+
+5. Subtópico:
+5. Conversão entre tipos diferentes de dados na entrada e saída 
+Assertivas:
+1. A conversão entre tipos diferentes de dados na entrada e saída é uma operação comum em programação.
+2. A conversão de tipos de dados pode ser necessária para garantir a correta manipulação e armazenamento das informações.
+3. A conversão entre tipos diferentes de dados na entrada e saída pode gerar perda de informações, dependendo das limitações dos tipos envolvidos.
+4. A conversão entre tipos de dados diferentes pode ser realizada de forma implícita pelo compilador, desde que não ocorram ambiguidades.
+5. A conversão explícita de tipos de dados na entrada e saída pode ser realizada através de operadores ou funções específicas da linguagem de programação utilizada.
+6. A conversão de tipos pode ser necessária quando se realiza a leitura de um valor numérico como uma string, por exemplo.
+7. A conversão de tipos também pode ser necessária ao exibir um valor armazenado em uma variável de um tipo específico como um texto formatado.
+8. Ao realizar conversões entre tipos diferentes de dados, é importante levar em consideração a perda de precisão ou alteração na faixa de representação dos valores.
+9. A conversão incorreta de tipos de dados na entrada e saída pode levar a resultados inesperados ou erros de execução.
+10. A correta conversão de tipos de dados na entrada e saída é fundamental para garantir a consistência e integridade dos dados manipulados em um programa.
+
+6. Subtópico:
+6. Manipulação de arquivos para entrada e saída de dados em Python
+Assertivas:
+1. A manipulação de arquivos em Python permite a leitura e escrita de dados em diferentes formatos.
+2. A função open() é utilizada para abrir um arquivo em Python, permitindo especificar o modo de abertura (leitura, escrita, etc.).
+3. O método read() em um objeto de arquivo permite ler todo o conteúdo do arquivo de uma só vez.
+4. É possível ler o conteúdo de um arquivo linha a linha utilizando o método readline() em um objeto de arquivo.
+5. O método write() em um objeto de arquivo permite escrever dados em um arquivo aberto para escrita.
+6. Ao abrir um arquivo em modo de escrita (com a flag "w"), o conteúdo pré-existente no arquivo será sobrescrito.
+7. Utilizando a flag "a" ao abrir um arquivo, é possível adicionar conteúdo ao final do arquivo, preservando o conteúdo pré-existente.
+8. O método seek() permite posicionar o cursor de leitura ou escrita em uma posição específica dentro do arquivo.
+9. Após realizar operações de leitura ou escrita em um arquivo, é importante fechá-lo utilizando o método close() para liberar recursos do sistema.
+10. O módulo os, em Python, oferece funções e métodos para manipulação de arquivos, como renomear, mover e apagar arquivos no sistema operacional.
+
+7. Subtópico:
+7. Tratamento de exceções durante a entrada e saída de dados 
+Assertivas:
+1. Durante o tratamento de exceções, é possível lidar com erros que ocorrem durante a entrada e saída de dados.
+2. O tratamento de exceções permite que sejam implementadas ações específicas em caso de erros durante a entrada e saída de dados.
+3. O tratamento de exceções durante a entrada e saída de dados é uma prática recomendada para evitar que erros causem falhas graves no sistema.
+4. Durante a entrada e saída de dados, é possível utilizar mecanismos de tratamento de exceções para verificar a validade dos dados inseridos.
+5. O tratamento de exceções durante a entrada e saída de dados contribui para a correta execução das operações, reduzindo a possibilidade de erros e falhas.
+6. O tratamento de exceções durante a entrada e saída de dados permite que o programa possa se recuperar automaticamente de erros inesperados.
+7. Durante o tratamento de exceções na entrada e saída de dados, é possível fornecer mensagens de erro claras e informativas para o usuário do sistema.
+8. O tratamento de exceções durante a entrada e saída de dados possibilita a criação de códigos mais robustos e confiáveis.
+9. O tratamento de exceções durante a entrada e saída de dados é parte fundamental da programação defensiva, que visa evitar erros e garantir a estabilidade do sistema.
+10. O tratamento de exceções durante a entrada e saída de dados permite a execução de ações adequadas em caso de falhas, como por exemplo, fechar corretamente arquivos antes de encerrar o programa.
+
+8. Subtópico:
+8. Entrada e Saída com arquivos CSV em Python
+Assertivas:
+1. A biblioteca pandas em Python possui funcionalidades para leitura e escrita de arquivos CSV.
+2. Para realizar a leitura de um arquivo CSV em Python, é possível utilizar a função read_csv() do pandas.
+3. A função read_csv() do pandas lê um arquivo CSV e retorna um DataFrame contendo os dados.
+4. É possível especificar o separador utilizado no arquivo CSV ao utilizar a função read_csv() do pandas.
+5. A função to_csv() do pandas permite escrever um DataFrame em um arquivo CSV.
+6. Ao utilizar a função to_csv() do pandas, é possível definir o separador a ser utilizado no arquivo CSV gerado.
+7. É possível definir a codificação a ser utilizada na leitura e escrita de arquivos CSV em Python.
+8. A biblioteca csv em Python também oferece funcionalidades para manipulação de arquivos CSV.
+9. A biblioteca csv em Python fornece mecanismos para leitura e escrita de arquivos CSV de forma mais manual, sem o uso de um DataFrame.
+10. A biblioteca pandas em Python é amplamente utilizada para a manipulação de arquivos CSV devido à sua facilidade de uso e recursos avançados.
+
+9. Subtópico:
+9. Utilização do módulo sys para manipulação da entrada e saída padrão 
+Assertivas:
+1) O módulo `sys` é utilizado em Python para acessar recursos do interpretador.
+2) O módulo `sys` permite manipular a entrada padrão de um programa Python.
+3) O módulo `sys` possibilita redirecionar a saída padrão de um programa Python.
+4) O módulo `sys` fornece acesso ao argumento de linha de comando de um programa Python.
+5) O módulo `sys` permite interagir com o sistema operacional através de funções específicas.
+6) O módulo `sys` é uma biblioteca padrão em Python e não requer instalação adicional.
+7) O módulo `sys` contém a função `sys.stdin`, que permite ler dados da entrada padrão.
+8) O módulo `sys` contém a função `sys.stdout`, que permite escrever dados na saída padrão.
+9) O módulo `sys` contém a função `sys.stderr`, que permite lidar com erros e mensagens de exceção.
+10) O módulo `sys` é amplamente utilizado em programas Python que requerem manipulação de entrada e saída padrão de forma flexível e eficiente.
+
+10. Subtópico:
+10. Práticas seg
+Assertivas:
+1. As práticas seguras são essenciais para minimizar riscos e garantir a integridade física dos trabalhadores.
+2. O uso adequado de Equipamentos de Proteção Individual (EPI) é uma prática segura recomendada para prevenir acidentes de trabalho.
+3. A sinalização de segurança é uma prática essencial para orientar os trabalhadores e evitar acidentes.
+4. A manutenção regular de equipamentos e máquinas é uma prática segura para garantir o seu correto funcionamento e prevenir acidentes.
+5. Ações de treinamento e capacitação dos trabalhadores são práticas fundamentais para disseminar a cultura de segurança no ambiente de trabalho.
+6. A análise de riscos é uma prática recomendada para identificar e minimizar possíveis ameaças e perigos no ambiente laboral.
+7. A adoção de medidas preventivas adequadas é uma prática segura para prevenir acidentes de trabalho.
+8. A documentação e análise de acidentes passados são práticas importantes para identificar falhas e aprimorar a segurança no ambiente laboral.
+9. O cumprimento de normas e regulamentações específicas é uma prática essencial para garantir a segurança dos trabalhadores.
+10. A participação ativa dos trabalhadores na definição e implementação de práticas seguras é fundamental para o sucesso de uma cultura de segurança no ambiente de trabalho.
+
+

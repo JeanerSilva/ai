@@ -1,0 +1,129 @@
+Pergunta Original: 1.2 SQL   
+ 
+1. Subtópico:
+1.2.1 Conceitos básicos de SQL
+Assertivas:
+1) A linguagem SQL (Structured Query Language) é utilizada para realizar consultas e manipulações em bancos de dados relacionais.
+2) O SQL é uma linguagem declarativa, ou seja, o usuário descreve a operação que deseja realizar, sem necessidade de especificar os procedimentos internos.
+3) Em SQL, as declarações SELECT são utilizadas para recuperar informações de um banco de dados.
+4) O comando INSERT INTO é utilizado para inserir novos registros em uma tabela.
+5) O comando UPDATE é utilizado para atualizar os dados de um registro em uma tabela.
+6) O comando DELETE é utilizado para excluir registros de uma tabela.
+7) O comando CREATE TABLE é utilizado para criar uma nova tabela em um banco de dados.
+8) A cláusula WHERE é utilizada para filtrar os resultados de uma consulta, retornando apenas os registros que atendam às condições especificadas.
+9) O comando ALTER TABLE é utilizado para adicionar, modificar ou excluir colunas em uma tabela já existente.
+10) A cláusula ORDER BY é utilizada para ordenar os resultados de uma consulta de acordo com colunas especificadas.
+
+2. Subtópico:
+1.2.2 Comandos DDL (Data Definition Language): CREATE, ALTER, DROP
+Assertivas:
+1. O comando CREATE é utilizado para criar objetos no banco de dados, como tabelas, índices e visões.
+2. O comando ALTER é utilizado para realizar alterações em objetos já existentes no banco de dados, como modificar a estrutura de uma tabela.
+3. O comando DROP é utilizado para remover objetos do banco de dados, como tabelas, índices e visões.
+4. O comando CREATE TABLE é um exemplo de uso do comando CREATE, sendo utilizado para criar uma nova tabela no banco de dados.
+5. O comando ALTER TABLE é um exemplo de uso do comando ALTER, sendo utilizado para adicionar ou remover colunas em uma tabela já existente.
+6. O comando DROP TABLE é um exemplo de uso do comando DROP, sendo utilizado para remover uma tabela do banco de dados.
+7. O comando CREATE INDEX é um exemplo de uso do comando CREATE, sendo utilizado para criar um índice em uma tabela.
+8. O comando ALTER INDEX é um exemplo de uso do comando ALTER, sendo utilizado para modificar a estrutura de um índice já existente.
+9. O comando DROP INDEX é um exemplo de uso do comando DROP, sendo utilizado para remover um índice do banco de dados.
+10. Os comandos DDL são responsáveis pela definição, alteração e remoção de estruturas e objetos do banco de dados.
+
+3. Subtópico:
+1.2.3 Comandos DML (Data Manipulation Language): SELECT, INSERT, UPDATE, DELETE
+Assertivas:
+1. O comando SELECT é utilizado para realizar consultas em banco de dados.
+2. O comando INSERT é utilizado para inserir novos registros em tabelas do banco de dados.
+3. O comando UPDATE é utilizado para modificar registros existentes em tabelas do banco de dados.
+4. O comando DELETE é utilizado para remover registros de tabelas do banco de dados.
+5. O comando SELECT permite especificar quais colunas devem ser retornadas na consulta.
+6. O comando INSERT requer que sejam fornecidos valores para todas as colunas da tabela.
+7. O comando UPDATE permite especificar quais colunas devem ser modificadas nos registros.
+8. O comando DELETE remove todos os registros que correspondem a uma condição especificada.
+9. O comando SELECT suporta a utilização de cláusulas como WHERE, ORDER BY e GROUP BY para refinar a consulta.
+10. O comando INSERT pode ser utilizado para inserir múltiplos registros de uma vez utilizando a cláusula VALUES.
+
+4. Subtópico:
+1.2.4 Funções de agregação em SQL: COUNT, SUM, AVG, MAX e MIN
+Assertivas:
+1) A função COUNT em SQL retorna o número de registros em uma coluna específica de uma tabela.
+2) A função SUM em SQL retorna a soma dos valores em uma coluna específica de uma tabela.
+3) A função AVG em SQL retorna a média dos valores em uma coluna específica de uma tabela.
+4) A função MAX em SQL retorna o valor máximo em uma coluna específica de uma tabela.
+5) A função MIN em SQL retorna o valor mínimo em uma coluna específica de uma tabela.
+6) A função de agregação COUNT em SQL não considera valores NULL.
+7) A função de agregação SUM em SQL pode ser aplicada a colunas numéricas.
+8) A função de agregação AVG em SQL calcula a média aritmética dos valores em uma coluna numérica específica.
+9) A função de agregação MAX em SQL pode ser usada para encontrar a maior data em uma coluna de datas.
+10) A função de agregação MIN em SQL pode ser usada para encontrar o menor valor em uma coluna de caracteres.
+
+5. Subtópico:
+1.2.5 Cláusulas WHERE e JOIN em consultas SQL 
+Assertivas:
+1. A cláusula WHERE é utilizada para filtrar registros em uma consulta SQL.
+2. A cláusula WHERE permite combinar múltiplas condições utilizando operadores lógicos, como AND e OR.
+3. A cláusula WHERE pode ser utilizada para comparar valores de colunas com operadores de comparação, como igual (=), diferente (!=), maior que (>), menor que (<), entre outros.
+4. A cláusula JOIN é utilizada para combinar dados de duas ou mais tabelas em uma única consulta SQL.
+5. A cláusula JOIN pode ser utilizada para combinar registros com base em uma coluna compartilhada entre as tabelas.
+6. Existem diferentes tipos de joins, como INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL OUTER JOIN, que determinam como os registros são combinados entre as tabelas.
+7. O INNER JOIN retorna apenas os registros que possuem correspondência nas duas tabelas envolvidas na junção.
+8. O LEFT JOIN retorna todos os registros da tabela da esquerda e os registros correspondentes da tabela da direita.
+9. O RIGHT JOIN retorna todos os registros da tabela da direita e os registros correspondentes da tabela da esquerda.
+10. O FULL OUTER JOIN retorna todos os registros de ambas as tabelas, combinando os registros correspondentes e preenchendo com NULL nos casos em que não há correspondência.
+
+6. Subtópico:
+1.2.6 Subqueries e operadores de conjunto em SQL 
+Assertivas:
+1. As subqueries são consultas internas que podem ser usadas dentro de outras consultas SQL.
+2. As subqueries podem retornar um único valor, uma única linha ou várias linhas de resultado.
+3. Os operadores de conjunto em SQL são utilizados para combinar resultados de múltiplas consultas.
+4. O operador UNION é usado para combinar os resultados de duas ou mais consultas, eliminando duplicações.
+5. O operador UNION ALL é usado para combinar os resultados de duas ou mais consultas, permitindo a existência de duplicações.
+6. O operador INTERSECT é usado para retornar apenas os registros que são comuns a duas ou mais consultas.
+7. O operador EXCEPT é usado para retornar os registros da primeira consulta que não estão presentes na segunda consulta.
+8. As subqueries podem ser usadas em cláusulas SELECT, FROM, WHERE, HAVING, JOIN e EXISTS.
+9. As subqueries são úteis para realizar consultas que envolvam operações complexas, como correspondências em várias tabelas.
+10. Os operadores de conjunto e as subqueries são recursos poderosos do SQL que permitem manipular dados de forma flexível e eficiente.
+
+7. Subtópico:
+1.2.7 Triggers e Stored Procedures em SQL 
+Assertivas:
+1. Triggers em SQL são gatilhos que são acionados automaticamente em resposta a uma ação ocorrendo em uma tabela.
+2. As Triggers podem ser usadas para executar um conjunto de instruções SQL sempre que uma tabela é atualizada, inserida ou excluída.
+3. Uma Trigger pode ser definida para ser executada antes ou depois de uma ação ocorrer em uma tabela.
+4. Stored Procedures em SQL são blocos de código que podem ser armazenados no banco de dados e reutilizados sempre que necessário.
+5. O uso de Stored Procedures oferece uma maneira eficiente e segura de executar operações complexas no banco de dados.
+6. Uma Stored Procedure é compilada uma vez e reutilizada sempre que necessário, o que resulta em melhor desempenho em comparação com a execução de instruções SQL individuais.
+7. Triggers podem ser usadas em conjunto com Stored Procedures para automatizar processos complexos no banco de dados.
+8. Triggers e Stored Procedures podem ser escritos em diferentes linguagens de programação, como PL/SQL, T-SQL ou PL/pgSQL, dependendo do banco de dados que está sendo utilizado.
+9. Triggers e Stored Procedures são recursos poderosos para manutenção e integridade dos dados em um banco de dados.
+10. O conhecimento sobre Triggers e Stored Procedures é essencial para profissionais de bancos de dados que trabalham com SQL.
+
+8. Subtópico:
+1.2 8 Gerenciamento de transações e controle de concorrência em SQL 
+Assertivas:
+1. O gerenciamento de transações em SQL permite que um conjunto de operações seja tratado como uma unidade lógica e atomizada.
+2. O controle de concorrência em SQL é utilizado para gerenciar o acesso simultâneo de múltiplos usuários a uma base de dados.
+3. O controle de concorrência em SQL evita inconsistências nos dados causadas por operações concorrentes.
+4. O mecanismo de bloqueio em SQL é uma estratégia utilizada para controlar o acesso concorrente aos dados.
+5. O isolation level em SQL determina o nível de isolamento e consistência das transações no controle de concorrência.
+6. O isolation level "READ UNCOMMITTED" em SQL permite que uma transação leia dados ainda não confirmados.
+7. O isolation level "READ COMMITTED" em SQL garante que uma transação leia apenas dados confirmados e evite leituras sujas.
+8. O isolation level "REPEATABLE READ" em SQL garante que uma transação sempre leia as mesmas informações durante sua execução.
+9. O isolation level "SERIALIZABLE" em SQL garante que uma transação seja executada isoladamente, em série, sem sofrer interferências de outras transações.
+10. O controle de concorrência em SQL permite que transações sejam executadas de forma simultânea, mantendo a integridade e consistência dos dados.
+
+9. Subtópico:
+1 2 9
+Assertivas:
+1) O número 1 é o menor número inteiro positivo.
+2) O número 2 é um número par.
+3) A soma dos números 1 e 2 resulta no número 3.
+4) O número 9 é um número ímpar.
+5) O número 2 é um divisor do número 9.
+6) O número 9 não é um número primo.
+7) A multiplicação dos números 1 e 2 resulta no número 2.
+8) O número 9 é um quadrado perfeito.
+9) A subtração dos números 2 e 1 resulta no número 1.
+10) O número 9 é um número triangular.
+
+

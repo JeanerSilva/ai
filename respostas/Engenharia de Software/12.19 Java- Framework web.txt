@@ -1,0 +1,129 @@
+Pergunta Original: 12.19 Java- Framework web   
+ 
+1. Subtópico:
+1. Conceitos básicos de Java e Framework Web
+Assertivas:
+1. O Java é uma linguagem de programação de alto nível, orientada a objetos, de propósito geral, amplamente utilizada para o desenvolvimento de aplicações.
+2. Java foi lançado pela primeira vez em 1995 pela Sun Microsystems.
+3. Frameworks web em Java, como o Spring MVC e o Apache Struts, fornecem uma estrutura de desenvolvimento para criação de aplicações web de forma mais eficiente.
+4. O JavaServer Pages (JSP) é uma tecnologia utilizada para a criação de interfaces de usuário em aplicações web Java.
+5. Servlets são classes Java que são executadas no servidor e são usadas para processar as requisições e gerar as respostas em aplicações web.
+6. O Enterprise JavaBeans (EJB) é uma tecnologia Java para desenvolvimento de componentes de negócio distribuídos.
+7. JavaServer Faces (JSF) é um framework web Java que facilita a criação de interfaces de usuário ricas.
+8. O Java Persistence API (JPA) é uma especificação do Java para mapeamento objeto-relacional, permitindo a persistência de objetos em bancos de dados relacionais.
+9. O Apache Tomcat é um servidor de aplicação web usado para executar aplicações Java.
+10. O Java tem uma grande comunidade de desenvolvedores ativos, o que permite fácil acesso a recursos, documentação e suporte técnico.
+
+2. Subtópico:
+2. Principais Frameworks Web em Java: Spring, JSF, Struts
+Assertivas:
+1. O Spring é um framework web em Java que possibilita a criação de aplicativos robustos e escaláveis.
+2. O JSF (JavaServer Faces) é um framework web em Java que oferece um conjunto de componentes de interface do usuário para o desenvolvimento de aplicações web.
+3. O Struts é um framework web em Java que segue o modelo MVC (Model-View-Controller) e é amplamente utilizado para desenvolvimento de aplicações web escaláveis e flexíveis.
+4. O Spring oferece diversos recursos, como inversão de controle (IoC) e injeção de dependências, facilitando o desenvolvimento de aplicações Java.
+5. O JSF é um framework que possui uma alta integração com tecnologias Java, como Servlets e JSPs (JavaServer Pages).
+6. O Struts possui uma arquitetura baseada em módulos e é totalmente configurável por meio de arquivos XML.
+7. O Spring MVC, um subprojeto do Spring, é um framework web que segue o padrão arquitetural MVC e é utilizado para desenvolvimento de aplicações web em Java.
+8. O JSF possui um ciclo de vida de componentes que permite o controle de fluxo entre a interface do usuário e a lógica de negócios.
+9. O Struts oferece um mecanismo baseado em ações (Action) para tratar requisições HTTP e manipular os dados enviados pelos usuários.
+10. O Spring, o JSF e o Struts são frameworks populares para o desenvolvimento de aplicações web em Java, cada um com suas características e vantagens específicas.
+
+3. Subtópico:
+3. Arquitetura e componentes do Spring Framework
+Assertivas:
+1) O Spring Framework é um framework de desenvolvimento de aplicações Java baseado em Inversão de Controle (IoC) e Injeção de Dependência (DI).
+2) O Spring Framework oferece suporte a diversos componentes, como Spring Core, Spring MVC, Spring Data, Spring Security, entre outros.
+3) O componente Spring Core é responsável pela implementação da IoC e DI, permitindo a criação de objetos e gerenciamento de dependências.
+4) O componente Spring MVC é um framework para desenvolvimento de aplicações web baseadas no padrão Model-View-Controller.
+5) O Spring Data é um componente que facilita o acesso e a manipulação de dados em diferentes tipos de bancos de dados, como SQL e NoSQL.
+6) O Spring Security oferece recursos para autenticação e autorização em aplicações web, garantindo a segurança dos dados e recursos.
+7) O Spring Framework promove uma arquitetura modular, permitindo que os desenvolvedores utilizem apenas os componentes necessários para suas aplicações.
+8) O Spring Framework é altamente configurável, permitindo que os desenvolvedores personalizem o comportamento e as funcionalidades de acordo com suas necessidades.
+9) O Spring Framework é amplamente utilizado na indústria de desenvolvimento de software devido à sua facilidade de uso, flexibilidade e robustez.
+10) O conhecimento em Spring Framework é considerado uma habilidade valiosa no mercado de trabalho para desenvolvedores Java.
+
+4. Subtópico:
+4. Desenvolvimento de aplicações web com JSF (JavaServer Faces)
+Assertivas:
+1. O JSF (JavaServer Faces) é um framework de desenvolvimento de aplicações web em Java.
+2. O JSF utiliza o padrão de design MVC (Model-View-Controller).
+3. O JSF facilita a criação de interfaces de usuário utilizando componentes reutilizáveis.
+4. O JSF possui um controle de estado embutido, o que garante a sincronização entre os componentes e o servidor.
+5. O JSF é integrado com outros frameworks Java, como o JSP (JavaServer Pages) e o Servlet.
+6. O JSF possui suporte para internacionalização e localização.
+7. O JSF permite a validação de dados tanto no lado do cliente quanto no lado do servidor.
+8. O JSF possui uma estrutura de eventos que permite o tratamento de ações e atualização de componentes de forma assíncrona.
+9. O JSF oferece suporte para a criação de templates e componentes customizados.
+10. O JSF possui uma vasta documentação e uma comunidade ativa de desenvolvedores.
+
+5. Subtópico:
+5. Utilização do Struts no desenvolvimento de aplicações web robustas
+Assertivas:
+1. O Struts é um framework de desenvolvimento web de código aberto amplamente utilizado.
+2. O Struts é baseado no padrão de arquitetura MVC (Model-View-Controller).
+3. O Struts permite um desenvolvimento mais estruturado e organizado de aplicações web.
+4. O Struts oferece recursos para o gerenciamento de fluxo de controle e navegação na aplicação.
+5. O Struts possui um mecanismo de validação que facilita a validação de dados de entrada.
+6. O Struts suporta a internacionalização de aplicações web, facilitando o desenvolvimento para diferentes idiomas.
+7. O Struts facilita a implementação de segurança na aplicação, através de recursos como autenticação e autorização.
+8. O Struts possui uma comunidade ativa de desenvolvedores, possibilitando uma vasta biblioteca de componentes e plugins disponíveis.
+9. O Struts é compatível com diferentes servidores de aplicação Java, como Apache Tomcat e JBoss.
+10. O Struts é uma opção viável para o desenvolvimento de aplicações web robustas, devido à sua estabilidade e maturidade.
+
+6. Subtópico:
+6. Segurança em aplicações web Java: autenticação, autorização e criptografia 
+Assertivas:
+1. A autenticação em aplicações web Java é um processo que verifica a identidade do usuário antes de permitir o acesso às funcionalidades do sistema.
+2. A autorização em aplicações web Java consiste na definição de regras e permissões que controlam o que um usuário autenticado pode fazer dentro do sistema.
+3. A criptografia em aplicações web Java é uma técnica utilizada para proteger informações sensíveis transmitidas entre o cliente e o servidor, tornando os dados ilegíveis para terceiros.
+4. O uso de certificados digitais é uma prática comum na criptografia de aplicações web Java, garantindo a autenticidade das informações transmitidas.
+5. A autenticação em duas etapas é uma estratégia de segurança recomendada em aplicações web Java, que requer além de uma senha, outra forma de autenticação, como um código enviado por SMS.
+6. A autorização baseada em papéis é uma abordagem comumente utilizada em aplicações web Java, onde as permissões de acesso são definidas com base nas funções ou cargos dos usuários.
+7. As técnicas de proteção contra ataques de força bruta, como o bloqueio temporário de contas após várias tentativas de login inválidas, são amplamente utilizadas em aplicações web Java para aumentar a segurança.
+8. A criptografia de dados armazenados em bancos de dados é uma prática essencial em aplicações web Java, garantindo a confidencialidade das informações mesmo em caso de acesso indevido.
+9. O uso de tokens de segurança é uma forma eficiente de proteger aplicações web Java contra ataques de falsificação de solicitação entre sites (CSRF), impedindo que terceiros enviem solicitações em nome do usuário autenticado.
+10. A aplicação de patches de segurança regularmente é fundamental para garantir a proteção em aplicações web Java, pois atualizações corrigem possíveis vulnerabilidades descobertas.
+
+7. Subtópico:
+7. Testes unitários e integração contínua em projetos Java com JUnit e Jenkins 
+Assertivas:
+1. Testes unitários são responsáveis por verificar a corretude do código em nível de unidade.
+2. JUnit é uma ferramenta popular para a criação e execução de testes unitários em projetos Java.
+3. A prática de realizar testes unitários auxilia na identificação precoce de erros no código.
+4. A integração contínua é uma abordagem que visa integrar, testar e entregar o código continuamente.
+5. Jenkins é uma ferramenta de integração contínua amplamente utilizada no desenvolvimento de projetos Java.
+6. Através da integração contínua, é possível automatizar a execução dos testes unitários em cada alteração de código.
+7. Testes unitários complementam a documentação do código, fornecendo exemplos de uso e verificando a sua funcionalidade.
+8. Através da integração contínua, é possível garantir que alterações no código não introduzam regressões no projeto.
+9. Jenkins permite a configuração e execução automatizada de testes unitários em projetos Java.
+10. Testes unitários e integração contínua são práticas fundamentais para garantir a qualidade do software produzido em projetos Java.
+
+8. Subtópico:
+8. Gerenciamento de dependências em projetos Java com Maven ou Gradle 
+Assertivas:
+1. O gerenciamento de dependências em projetos Java com Maven é feito através do arquivo pom.xml.
+2. O gerenciamento de dependências em projetos Java com Gradle é feito através de arquivos build.gradle.
+3. Tanto o Maven quanto o Gradle permitem a declaração de dependências externas necessárias para o projeto.
+4. Ambos os gerenciadores de dependências possuem repositórios online com uma vasta quantidade de bibliotecas disponíveis.
+5. O Maven utiliza o conceito de groupId, artifactId e version para identificar as dependências e suas versões.
+6. O Gradle utiliza o formato de notação DSL para declarar as dependências do projeto.
+7. O Maven resolve as dependências transitivas automaticamente, garantindo que todas as dependências necessárias sejam baixadas e incluídas no projeto.
+8. O Gradle também resolve as dependências transitivas, permitindo que a biblioteca dependente de outras bibliotecas seja incluída automaticamente.
+9. Ambos os gerenciadores de dependências permitem a exclusão de dependências indesejadas ou em conflito.
+10. O Maven e o Gradle são ferramentas amplamente utilizadas no desenvolvimento de projetos Java e contribuem para a eficiência e organização do código.
+
+9. Subtópico:
+9. Princípios do REST
+Assertivas:
+1. O princípio do REST é a representação uniforme dos recursos através de URIs.
+2. O REST é baseado na utilização dos métodos HTTP, como GET, POST, PUT e DELETE.
+3. Um dos princípios do REST é a comunicação stateless, em que todas as interações são independentes.
+4. O REST utiliza formatos de representação como JSON, XML ou HTML.
+5. O princípio do REST preza pela simplicidade na criação e manutenção dos serviços web.
+6. O REST permite a utilização de caches para melhorar o desempenho e reduzir a carga dos servidores.
+7. O princípio da alta visibilidade no REST exige o uso de URIs descritivas e autoexplicativas.
+8. O REST não possui um esquema de mensagens fixo, permitindo a flexibilidade na definição dos tipos de dados.
+9. O REST promove a separação clara entre o cliente e o servidor, possibilitando a evolução independente de ambos.
+10. Um dos princípios do REST é a interoperabilidade entre diferentes sistemas, permitindo a integração entre eles de forma eficiente.
+
+

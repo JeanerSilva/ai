@@ -1,0 +1,143 @@
+Pergunta Original: 12.25 Java- integração com bancos de dados   
+ 
+1. Subtópico:
+1. Conceitos básicos de Java e bancos de dados
+Assertivas:
+1. Os bancos de dados armazenam informações de forma estruturada, permitindo o acesso rápido e eficiente aos dados.
+2. Java é uma linguagem de programação de alto nível, orientada a objetos e multiplataforma.
+3. Os comandos SQL (Structured Query Language) são utilizados para manipulação de dados em bancos de dados relacionais.
+4. O JDBC (Java Database Connectivity) é uma API do Java que permite a integração entre uma aplicação Java e um banco de dados.
+5. No Java, é possível utilizar frameworks como Hibernate e JDBC para facilitar a interação com os bancos de dados.
+6. Os bancos de dados relacionais utilizam tabelas para armazenar os dados, onde cada tabela é composta por colunas e linhas.
+7. O Java possui recursos para realizar operações de criação, leitura, atualização e exclusão de dados em um banco de dados.
+8. Os bancos de dados não relacionais, como MongoDB e Redis, ganharam popularidade devido à capacidade de escalabilidade e flexibilidade.
+9. A utilização de índices em bancos de dados pode otimizar a busca e recuperação de informações, melhorando o desempenho das consultas.
+10. Conceitos como ACID (Atomicidade, Consistência, Isolamento e Durabilidade) são importantes para garantir a integridade dos dados em bancos de dados relacionais.
+
+2. Subtópico:
+2. JDBC (Java Database Connectivity): introdução e funcionalidades
+Assertivas:
+1. A JDBC é uma API do Java que fornece uma interface para conectar e interagir com bancos de dados.
+2. A JDBC permite a execução de consultas SQL e a manipulação de dados em bancos de dados relacionais.
+3. A JDBC utiliza drivers específicos para cada banco de dados, garantindo a compatibilidade entre a aplicação Java e o banco de dados utilizado.
+4. A JDBC suporta tanto bancos de dados locais como remotos, permitindo a conexão com qualquer banco de dados compatível.
+5. A JDBC funciona com diversos tipos de bancos de dados como MySQL, PostgreSQL, Oracle, SQL Server, entre outros.
+6. A JDBC oferece recursos para gerenciar transações em bancos de dados, permitindo a execução de operações de forma atômica e consistente.
+7. A JDBC permite a manipulação de dados usando diferentes paradigmas de programação, como o orientado a objetos e o procedimental.
+8. A JDBC possibilita a criação e gerenciamento de conexões com o banco de dados, incluindo a configuração de propriedades de conexão e controle de pool de conexões.
+9. A JDBC oferece mecanismos para percorrer e manipular os resultados de uma consulta SQL, possibilitando a leitura de registros retornados pelas consultas.
+10. A JDBC possui recursos para a execução de instruções SQL parametrizadas, protegendo contra ataques de injeção de SQL.
+
+3. Subtópico:
+3. Conexão de Java com bancos de dados SQL e NoSQL
+Assertivas:
+1. Através do JDBC (Java Database Connectivity), é possível estabelecer conexão de Java com bancos de dados SQL.
+2. O JDBC fornece uma API em Java para realizar operações de consulta, inserção, atualização e exclusão em bancos de dados SQL.
+3. O JDBC é uma especificação padrão do Java, o que permite que diferentes fornecedores de bancos de dados SQL disponibilizem seus próprios drivers JDBC.
+4. O JDBC utiliza drivers específicos para cada banco de dados SQL, garantindo a compatibilidade entre o Java e o banco de dados utilizado.
+5. Através do JDBC, é possível utilizar o recurso de transações para garantir a integridade dos dados durante operações de inserção, atualização e exclusão em bancos de dados SQL.
+6. Além do JDBC, o Java também pode estabelecer conexão com bancos de dados NoSQL, como MongoDB e Redis.
+7. Para se conectar a um banco de dados NoSQL com Java, é necessário utilizar bibliotecas específicas, como o driver MongoDB Java para conexão com o MongoDB.
+8. Para realizar operações de consulta em um banco de dados NoSQL com Java, é preciso utilizar a linguagem de consulta específica do banco de dados, como o MongoDB Query Language para o MongoDB.
+9. Assim como no JDBC, é possível utilizar transações para garantir a consistência dos dados ao realizar operações em bancos de dados NoSQL com Java.
+10. Tanto na conexão com bancos de dados SQL quanto NoSQL, é necessário garantir a segurança das informações ao utilizar Java, como realizar o controle de acesso e a criptografia dos dados.
+
+4. Subtópico:
+4. Manipulação de dados em Java: inserção, atualização, exclusão e consulta
+Assertivas:
+1. Em Java, a manipulação de dados pode ser realizada por meio das operações de inserção, atualização, exclusão e consulta.
+2. A inserção de dados em Java é feita por meio do uso de comandos SQL para executar uma instrução de adição de registros em um banco de dados.
+3. A atualização de dados em Java pode ser realizada utilizando o comando SQL UPDATE para modificar registros já existentes em uma tabela.
+4. A exclusão de dados em Java é feita por meio do comando SQL DELETE, permitindo a remoção de registros específicos de uma tabela em um banco de dados.
+5. Ao realizar operações de manipulação de dados em Java, é possível utilizar a API JDBC para fornecer acesso a diferentes bancos de dados, garantindo a portabilidade da aplicação.
+6. Durante a consulta de dados em Java, é possível utilizar o comando SQL SELECT para recuperar informações de uma tabela no banco de dados.
+7. A consulta de dados em Java pode ser realizada utilizando filtros, como cláusulas WHERE, para obter informações específicas de uma tabela.
+8. No processo de manipulação de dados em Java, é importante garantir a segurança e a integridade dos dados, utilizando técnicas como validação e sanitização para evitar ataques como SQL injection.
+9. A manipulação de dados em Java pode ser realizada em diferentes tipos de banco de dados, como MySQL, Oracle e SQL Server.
+10. O conhecimento e a habilidade na manipulação de dados em Java são fundamentais para o desenvolvimento de aplicações robustas e eficientes em ambientes que envolvam persistência de informações em bancos de dados.
+
+5. Subtópico:
+5. Gerenciamento de transações em Java: commit, rollback e savepoint 
+Assertivas:
+1. O commit é uma operação que confirma as alterações feitas em uma transação e as torna permanentes no banco de dados.
+2. O rollback é uma operação que desfaz as alterações feitas em uma transação de forma a restaurar o estado anterior do banco de dados.
+3. O savepoint é um ponto de salvamento intermediário em uma transação que permite desfazer apenas uma parte específica das alterações feitas.
+4. O commit é uma operação irreversível e não há como desfazer as alterações após sua realização.
+5. O rollback desfaz todas as alterações feitas desde o início da transação, retornando o banco de dados ao estado inicial.
+6. Um savepoint pode ser utilizado para desfazer apenas as alterações feitas após sua criação, mantendo as alterações anteriores intactas.
+7. Transações em Java são gerenciadas por meio das interfaces oferecidas pela API JDBC.
+8. O gerenciamento de transações em Java permite que várias operações de banco de dados sejam agrupadas em uma única transação.
+9. O gerenciamento adequado de transações em Java evita inconsistências e erros no banco de dados em caso de falhas ou interrupções no sistema.
+10. O controle de transações em Java é efetuado por meio de comandos específicos, como setAutoCommit, commit, rollback e setSavepoint.
+
+6. Subtópico:
+6. Utilização do PreparedStatement em Java para consultas parametrizadas 
+Assertivas:
+1. O PreparedStatement em Java é amplamente utilizado para consultas parametrizadas em bancos de dados relacionais.
+2. Utilizar o PreparedStatement contribui para a segurança das consultas, pois evita ataques de injeção de SQL.
+3. Ao utilizar o PreparedStatement, é possível reutilizar consultas pré-compiladas, proporcionando melhor desempenho em consultas repetidas.
+4. É possível passar parâmetros dinâmicos para um PreparedStatement, tornando as consultas mais flexíveis e adaptáveis.
+5. O PreparedStatement oferece recursos para definir o tipo de dados dos parâmetros passados, garantindo coerência na execução das consultas.
+6. Utilizando o PreparedStatement, é possível realizar operações de CRUD (Create, Retrieve, Update e Delete) de forma mais segura e eficiente.
+7. O PreparedStatement é uma classe disponível no pacote java.sql, facilitando sua utilização em projetos Java.
+8. Ao utilizar PreparedStatement para consultas parametrizadas, reduz-se a quantidade de código necessário, tornando o processo mais simples e legível.
+9. O PreparedStatement permite o uso de placeholders, como "?" ou ":nome", para representar os parâmetros das consultas, facilitando a organização e legibilidade do código.
+10. Utilizar PreparedStatement ajuda a prevenir erros de formatação e escape de caracteres em consultas SQL, evitando falhas no sistema.
+
+7. Subtópico:
+7. Tratamento de exceções SQL em Java 
+Assertivas:
+1. O tratamento de exceções SQL em Java é necessário para lidar com erros que possam ocorrer durante operações de banco de dados.
+2. No tratamento de exceções SQL em Java, é possível utilizar blocos try-catch para capturar e tratar erros relacionados ao código SQL.
+3. O uso do bloco finally é recomendado no tratamento de exceções SQL em Java, pois permite que o código seja executado independentemente de ocorrer uma exceção ou não.
+4. A classe SQLException é uma das classes mais utilizadas no tratamento de exceções SQL em Java.
+5. Em Java, é possível tratar exceções de SQL específicas, como a SQLException, que é lançada quando ocorre um erro de SQL genérico.
+6. É possível utilizar métodos como getMessage() e getErrorCode() para obter informações sobre a exceção de SQL capturada em Java.
+7. O tratamento de exceções SQL em Java é importante para garantir a integridade das operações de banco de dados e evitar interrupções não controladas no fluxo do programa.
+8. O lançamento de exceções SQL em Java pode ser realizado manualmente, utilizando a palavra-chave throw, para indicar uma situação de erro específica.
+9. É possível tratar exceções de SQL em Java de forma personalizada, implementando lógicas específicas de tratamento de erro para cada tipo de exceção capturada.
+10. O tratamento de exceções SQL em Java é uma prática recomendada para garantir a robustez e a confiabilidade das aplicações que envolvem manipulação de bancos de dados.
+
+8. Subtópico:
+8. Uso do ResultSet para manipulação dos resultados das consultas SQL 
+Assertivas:
+1. O ResultSet é uma interface do Java que permite a manipulação dos resultados de consultas SQL.
+2. O ResultSet possui métodos para navegar e acessar os dados retornados de uma consulta.
+3. É possível percorrer o ResultSet utilizando os métodos next, previous e first.
+4. O método next move o ponteiro do ResultSet para a próxima linha de resultado.
+5. A interface ResultSet é fornecida pela biblioteca JDBC.
+6. O ResultSet pode ser utilizado para acessar os dados retornados por consultas SELECT.
+7. Os dados no ResultSet são retornados em uma estrutura tabular, semelhante a uma tabela de banco de dados.
+8. O resultado de uma consulta pode ser armazenado em um ResultSet para posterior processamento.
+9. O ResultSet pode ser utilizado para acessar diferentes tipos de dados retornados por uma consulta, como números, strings e datas.
+10. O ResultSet é uma maneira eficiente e flexível de manipular resultados de consultas SQL no Java.
+
+9. Subtópico:
+9. Implementação da camada DAO (Data Access Object) em aplicações Java
+Assertivas:
+1. A camada DAO em aplicações Java é responsável por isolar a lógica de acesso a dados do restante da aplicação.
+2. A implementação da camada DAO em aplicações Java facilita a manutenção e evolução do sistema.
+3. A camada DAO permite a abstração de detalhes de acesso a banco de dados, promovendo um código mais limpo e organizado.
+4. A implementação da camada DAO pode ser realizada utilizando frameworks, como Hibernate ou JPA, que auxiliam no mapeamento objeto-relacional.
+5. A camada DAO em aplicações Java geralmente possui métodos para realizar operações de criação, leitura, atualização e exclusão (CRUD) de entidades no banco de dados.
+6. A implementação do padrão de projeto DAO em aplicações Java permite maior flexibilidade e reuso de código.
+7. A camada DAO pode ser utilizada em aplicações Java independentemente do tipo de banco de dados utilizado.
+8. A implementação da camada DAO em aplicações Java é considerada uma boa prática de programação.
+9. A utilização da camada DAO em aplicações Java favorece a separação de responsabilidades entre as camadas de uma aplicação.
+10. A implementação da camada DAO em aplicações Java pode ser feita de forma manual, escrevendo as classes e métodos necessários para o acesso a dados, ou utilizando ferramentas de geração automática de código, como o Hibernate Tools.
+
+10. Subtópico:
+10. P
+Assertivas:
+1. A letra "P" é a 16ª letra do alfabeto latino.
+2. A palavra "P" é um substantivo masculino e letra invariável.
+3. A grafia da letra "P" é a mesma tanto em maiúsculo quanto em minúsculo.
+4. A letra "P" é conhecida como a décima letra do código internacional de radiotelefonia e de radiotelegrafia.
+5. A letra "P" representa a nota musical "Fá" na notação musical em inglês.
+6. O código ASCII para a letra "P" é 80 em decimal e 01010000 em binário.
+7. "P" é a sigla utilizada para representar a potência ativa em circuitos elétricos.
+8. A palavra "papa" é frequentemente utilizada para representar a letra "P" em contextos militares.
+9. A letra "P" é frequentemente utilizada como abreviação de "página" em textos escritos.
+10. A letra "P" é uma das letras mais usadas na língua portuguesa, aparecendo com frequência na formação de palavras.
+
+

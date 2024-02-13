@@ -1,0 +1,143 @@
+Pergunta Original: 12.6 Python- tipos de dados   
+ 
+1. Subtópico:
+1. Conceitos básicos e características do Python
+Assertivas:
+1. Python é uma linguagem de programação interpretada, de alto nível, criada por Guido van Rossum.
+2. Python é uma linguagem com uma sintaxe simples e de fácil leitura.
+3. Python possui uma vasta biblioteca padrão, o que possibilita o desenvolvimento de aplicações complexas.
+4. Python suporta programação orientada a objetos, permitindo a criação de classes e objetos.
+5. Python é uma linguagem multiparadigma, podendo ser utilizada para programação procedimental, funcional e orientada a objetos.
+6. Python possui tipagem dinâmica, ou seja, as variáveis não precisam ter um tipo definido, podendo ser alterado durante a execução do programa.
+7. Python possui um coletor de lixo automático, o que facilita o gerenciamento de memória.
+8. Em Python, indentação correta é fundamental, pois define a estruturação do código e a organização dos blocos de instruções.
+9. Python é uma linguagem de código aberto, sendo possível modificá-la e adaptá-la às necessidades específicas de cada projeto.
+10. Python possui uma comunidade ativa e colaborativa, o que proporciona acesso a um grande número de recursos e suporte em caso de dúvidas ou problemas.
+
+2. Subtópico:
+2. Tipos de dados primitivos em Python: int, float, string e boolean
+Assertivas:
+1. O tipo de dado primitivo 'int' em Python representa números inteiros.
+2. O tipo de dado primitivo 'float' em Python representa números de ponto flutuante.
+3. O tipo de dado primitivo 'string' em Python representa sequências de caracteres.
+4. O tipo de dado primitivo 'boolean' em Python representa valores lógicos, como True (verdadeiro) e False (falso).
+5. Em Python, é possível realizar operações matemáticas utilizando o tipo de dado primitivo 'int'.
+6. O tipo de dado primitivo 'float' em Python é utilizado para representar números com casas decimais.
+7. A função 'str()' em Python pode ser utilizada para converter outros tipos de dados em strings.
+8. O tipo de dado primitivo 'boolean' em Python é frequentemente utilizado em expressões condicionais.
+9. Em Python, strings podem ser concatenadas utilizando o operador de adição (+).
+10. Os tipos de dados primitivos em Python são importantes para definir o tipo de informação que pode ser armazenada e manipulada em um programa.
+
+3. Subtópico:
+3. Estruturas de dados em Python: listas, tuplas e dicionários
+Assertivas:
+1. As listas em Python são estruturas de dados mutáveis que permitem armazenar elementos de diferentes tipos.
+2. As tuplas em Python são estruturas de dados imutáveis que permitem armazenar elementos de diferentes tipos.
+3. Os dicionários em Python são estruturas de dados mutáveis que armazenam elementos em pares de chave-valor.
+4. É possível acessar os elementos de uma lista em Python utilizando índices numéricos.
+5. As tuplas em Python podem ser utilizadas para armazenar coordenadas geográficas, por exemplo.
+6. Para acessar o valor de um elemento em um dicionário em Python, é necessário utilizar sua chave correspondente.
+7. É possível alterar o valor de um elemento em uma lista em Python através da atribuição direta.
+8. As tuplas em Python são mais eficientes em termos de espaço de memória quando comparadas às listas.
+9. Os dicionários em Python não mantêm uma ordem específica para seus elementos.
+10. É possível adicionar e remover elementos tanto em uma lista quanto em um dicionário em Python.
+
+4. Subtópico:
+4. Operações comuns com tipos de dados em Python
+Assertivas:
+1. Em Python, é possível realizar operações matemáticas básicas utilizando tipos de dados numéricos, como inteiros e números de ponto flutuante.
+2. As operações aritméticas comuns em Python incluem adição, subtração, multiplicação e divisão, que podem ser realizadas utilizando os operadores +, -, * e /, respectivamente.
+3. Além das operações básicas, Python também oferece operadores para potenciação, representados pelo símbolo **, e para obter o resto da divisão inteira, representado pelo símbolo %.
+4. Ao realizar operações aritméticas em Python, o resultado pode ser de diferentes tipos de dados, dependendo dos tipos de dados das variáveis envolvidas na operação.
+5. É possível realizar operações com strings em Python, como concatenar duas ou mais strings utilizando o operador de concatenação (+).
+6. Em Python, também é possível realizar operações com listas, como a concatenação de duas ou mais listas utilizando o operador de concatenação (+).
+7. Ao realizar operações com listas em Python, é possível utilizar o operador de indexação para acessar elementos específicos da lista através de suas posições.
+8. Python permite a realização de operações de comparação entre valores, como igualdade (==), desigualdade (!=), maior que (>), menor que (<), maior ou igual que (>=) e menor ou igual que (<=), produzindo um resultado booleano.
+9. É possível realizar operações lógicas em Python, como as operações de conjunção (and), disjunção (or) e negação (not), que também produzem resultados booleanos.
+10. Além das operações comuns, Python oferece um conjunto de operações avançadas, como a aplicação de funções matemáticas, manipulação de datas e operações com expressões regulares, que permitem realizar tarefas mais complexas com diferentes tipos de dados.
+
+5. Subtópico:
+5. Conversão entre tipos de dados em Python (casting)
+Assertivas:
+1. A conversão entre tipos de dados em Python, conhecida como casting, é feita através de funções específicas para cada tipo.
+2. O casting é utilizado para transformar um valor de um tipo de dado em outro tipo compatível.
+3. A conversão de um tipo de dado para outro nem sempre é possível ou resulta em um valor válido.
+4. Ao realizar a conversão de um tipo de dado para outro, é importante considerar possíveis perdas de informação ou arredondamentos.
+5. A função int() é utilizada para converter um valor para o tipo inteiro em Python.
+6. A função float() é utilizada para converter um valor para o tipo de ponto flutuante em Python.
+7. A função str() é utilizada para converter um valor para o tipo string em Python.
+8. É possível utilizar o casting para converter valores booleanos (True/False) em outros tipos de dados em Python.
+9. O operador de conversão binária bin() pode ser utilizado para converter um valor para o tipo de dado binário em Python.
+10. É possível utilizar o casting para converter valores numéricos em outros tipos de dados, como listas ou tuplas, em Python.
+
+6. Subtópico:
+6. Mutabilidade e imutabilidade dos tipos de dados em Python 
+Assertivas:
+1. Em Python, os tipos de dados mutáveis permitem que suas propriedades sejam alteradas após a criação.
+2. A lista é um exemplo de tipo de dados mutável em Python.
+3. A imutabilidade implica que os dados não podem ser modificados após sua criação.
+4. O número inteiro é um exemplo de tipo de dados imutável em Python.
+5. Strings em Python são imutáveis, ou seja, não podem ser modificadas após sua criação.
+6. Os tipos mutáveis em Python permitem alterações em seus elementos sem criar um novo objeto.
+7. A imutabilidade dos tipos de dados em Python é uma característica que garante sua estabilidade e segurança.
+8. A alteração de um elemento em uma tupla resulta na criação de uma nova tupla.
+9. Dicionários em Python são exemplos de tipos de dados mutáveis.
+10. A mutabilidade dos tipos de dados pode causar efeitos indesejados, como alterações inesperadas em objetos compartilhados.
+
+7. Subtópico:
+7. Manipulação de strings em Python 
+Assertivas:
+1. A manipulação de strings em Python permite diversas operações, como concatenação, substituição e extração de substrings.
+2. Em Python, uma string é uma sequência imutável de caracteres, o que significa que não é possível alterar o valor de uma string após sua criação.
+3. A função len() em Python pode ser utilizada para obter o comprimento de uma string, ou seja, a quantidade de caracteres presentes nela.
+4. Para realizar a concatenação de duas strings em Python, pode-se utilizar o operador de adição (+) ou o método join().
+5. O método split() em Python permite separar uma string em substrings, com base em um caractere delimitador.
+6. A função upper() em Python permite transformar todos os caracteres de uma string em maiúsculos.
+7. Já a função lower() em Python transforma todos os caracteres de uma string em minúsculos.
+8. O método replace() em Python é utilizado para substituir todas as ocorrências de um determinado caractere ou substring por outro valor.
+9. O método find() em Python é utilizado para buscar um caractere ou substring dentro de uma string, retornando a posição da primeira ocorrência encontrada.
+10. O método strip() em Python é utilizado para remover caracteres em branco (espaços em branco, tabulações) presentes no início e no final de uma string.
+
+8. Subtópico:
+8. Compreensão das listas no contexto dos tipos de dados do Python 
+Assertivas:
+1. As listas são estruturas de dados do tipo sequencial em Python.
+2. Uma lista pode conter valores de qualquer tipo, inclusive outras listas.
+3. O acesso aos elementos de uma lista é feito através de índices, iniciando em 0.
+4. É possível modificar elementos individuais de uma lista após sua criação.
+5. As listas em Python são mutáveis, ou seja, é possível alterar seu tamanho e conteúdo.
+6. A função len() retorna o tamanho de uma lista, ou seja, a quantidade de elementos presentes.
+7. O operador "+" pode ser utilizado para concatenar duas listas em Python.
+8. As listas podem ser acessadas e percorridas utilizando estruturas de controle, como o laço for.
+9. É possível utilizar a função list() para converter outros tipos de dados em listas.
+10. O método append() permite adicionar um elemento ao final de uma lista existente.
+
+9. Subtópico:
+9. Uso adequado dos conjuntos (sets) como tipo de dado no python.
+Assertivas:
+1. O conjunto (set) em Python é uma estrutura de dados que armazena elementos únicos e não ordenados.
+2. A principal característica do conjunto (set) em Python é a eliminação automática de elementos duplicados.
+3. Os conjuntos (sets) em Python não possuem uma ordem fixa, o que significa que seus elementos podem ser exibidos de maneira aleatória.
+4. Em Python, os conjuntos (sets) podem ser criados utilizando a função set() ou utilizando a sintaxe de chaves {}.
+5. Os conjuntos (sets) em Python suportam operações matemáticas como união, interseção e diferença através de métodos específicos.
+6. Para adicionar elementos a um conjunto (set) em Python, utiliza-se o método add() ou a operação de união "|" com outro conjunto.
+7. É possível remover elementos de um conjunto (set) em Python utilizando os métodos remove() e discard().
+8. Para verificar se um elemento está presente em um conjunto (set) em Python, pode-se utilizar a operação "in".
+9. Os conjuntos (sets) em Python são mutáveis, o que significa que é possível alterar seus elementos após a criação.
+10. Em Python, conjuntos (sets) não podem conter elementos mutáveis, como listas ou dicionários, mas podem conter elementos imutáveis, como strings e números inteiros.
+
+10. Subtópico:
+10. Trabalhando com datas e horários:
+Assertivas:
+1. A ordem cronológica dos meses do ano é: janeiro, fevereiro, março, abril, maio, junho, julho, agosto, setembro, outubro, novembro e dezembro.
+2. O horário de início da primavera ocorre sempre às 17h e 23 minutos, horário de Brasília.
+3. O dia 29 de fevereiro ocorre a cada quatro anos, nos anos bissextos.
+4. No Brasil, o horário de verão ocorre a partir do terceiro domingo de outubro, quando os relógios devem ser adiantados em uma hora.
+5. O período entre as estações do ano é chamado de equinócio.
+6. O horário de entrada nas escolas públicas no Brasil é, normalmente, entre as 7h e as 8h da manhã.
+7. O réveillon é comemorado no dia 1º de janeiro, sempre à meia-noite.
+8. O horário de verão foi extinto no Brasil no ano de 2019.
+9. A mudança de horário em centros como o Brasil é regulamentada pelo decreto presidencial.
+10. A hora oficial é determinada no Brasil pelo Observatório Nacional, localizado no Rio de Janeiro.
+
+

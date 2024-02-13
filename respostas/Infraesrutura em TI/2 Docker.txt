@@ -1,0 +1,156 @@
+Pergunta Original: 2 Docker   
+ 
+1. Subtópico:
+1. Conceito e fundamentos do Docker
+Assertivas:
+1. O Docker é uma plataforma de código aberto que permite a criação e execução de aplicativos dentro de contêineres.
+2. Os contêineres do Docker são isolados uns dos outros, garantindo segurança e independência entre diferentes aplicações.
+3. O Docker usa a tecnologia de virtualização a nível de sistema operacional, permitindo a execução de aplicativos em diferentes ambientes.
+4. Os contêineres Docker são leves e possuem baixo consumo de recursos computacionais em comparação com máquinas virtuais tradicionais.
+5. A arquitetura do Docker é baseada em uma camada de sistema operacional (linux) e uma camada de aplicativo, facilitando o empacotamento e distribuição de aplicações.
+6. O Docker usa o conceito de imagens, que são modelos de contêineres pré-configurados que podem ser compartilhados entre diferentes máquinas.
+7. O Docker utiliza o Dockerfile para definir as instruções de como construir uma imagem de contêiner, permitindo a replicação fácil e rápida do ambiente de desenvolvimento.
+8. O Docker Swarm é uma ferramenta do Docker que permite o gerenciamento de múltiplos hosts Docker e a execução de aplicativos em modo de cluster.
+9. O Docker Compose é uma ferramenta que permite a definição e execução de múltiplos contêineres Docker dentro de um único ambiente.
+10. O ecossistema do Docker é composto por várias ferramentas e serviços adicionais, como o Docker Registry para armazenar e compartilhar imagens, e o Docker Hub, um repositório online de imagens Docker prontas para uso.
+
+2. Subtópico:
+2. Instalação e configuração do Docker
+Assertivas:
+1. A instalação do Docker é realizada através do download do pacote de instalação adequado para o sistema operacional do host.
+2. O Docker é uma plataforma de código aberto que permite a criação, execução e gerenciamento de containers.
+3. A configuração inicial do Docker envolve a definição de um usuário do Docker e a configuração de permissões adequadas.
+4. O Docker pode ser configurado para executar containers em diferentes redes, como a rede default e redes personalizadas.
+5. O usuário do Docker pode configurar o redirecionamento de portas para permitir o acesso aos serviços executados dentro dos containers.
+6. A configuração de volumes no Docker permite o compartilhamento de dados entre o host e os containers, garantindo persistência de informações.
+7. É possível configurar a comunicação entre containers usando o recurso de link, que estabelece conexões entre os diferentes containers em execução.
+8. A instalação e configuração do Docker podem ser automatizadas através de ferramentas como o Docker Compose.
+9. É importante realizar atualizações frequentes do Docker para garantir a segurança e aproveitar as novas funcionalidades disponíveis.
+10. A correta configuração do Docker envolve a definição de limites de recursos para cada container, como o uso de CPU, memória e armazenamento.
+
+3. Subtópico:
+3. Criação e gerenciamento de containers Docker
+Assertivas:
+1. O Docker é uma plataforma de código aberto que permite a criação e o gerenciamento de containers.
+2. Os containers Docker fornecem um ambiente isolado e consistente para a execução de aplicativos.
+3. Ao contrário das máquinas virtuais, os containers Docker compartilham o mesmo kernel do sistema operacional hospedeiro, o que os torna mais leves e eficientes.
+4. O Docker utiliza imagens para criar containers, que são compostas por várias camadas e podem ser customizadas para atender às necessidades dos aplicativos.
+5. É possível gerenciar múltiplos containers Docker em um único host, otimizando a utilização dos recursos disponíveis.
+6. O Docker pode ser integrado a ferramentas de orquestração, como o Kubernetes, para facilitar o gerenciamento de clusters de containers.
+7. Os containers Docker podem ser implantados em qualquer plataforma, incluindo nuvem pública, privada ou local.
+8. A criação de containers Docker é baseada em arquivos de configuração chamados Dockerfiles, que especificam as etapas necessárias para construir a imagem do container.
+9. O Docker Hub é um registro público de imagens Docker, onde é possível encontrar imagens prontas para uso ou compartilhar as suas próprias criações.
+10. O Docker oferece recursos avançados de rede, permitindo a conexão entre containers, a criação de redes virtuais dedicadas e a exposição de portas para acesso externo.
+
+4. Subtópico:
+4. Uso de imagens Docker 
+Assertivas:
+1. O Docker é uma plataforma de código aberto que permite o empacotamento, distribuição e execução de aplicativos em contêineres.
+
+2. As imagens Docker são arquivos de somente leitura que contêm tudo o que é necessário para executar um programa, incluindo o código, as bibliotecas, as dependências e as configurações do ambiente.
+
+3. O uso de imagens Docker facilita a criação e implementação de ambientes consistentes, sem depender de configurações individuais de cada máquina ou servidor.
+
+4. As imagens Docker podem ser compartilhadas e reutilizadas com facilidade, o que agiliza a distribuição de aplicações entre diferentes ambientes e equipes.
+
+5. É possível usar imagens Docker pré-construídas disponíveis em repositórios públicos, como o Docker Hub, ou criar suas próprias imagens personalizadas.
+
+6. As imagens Docker são leves e possuem inicialização rápida, permitindo a escalabilidade horizontal e a execução eficiente de múltiplos contêineres em uma mesma máquina física ou virtual.
+
+7. O uso de imagens Docker facilita a configuração e gerenciamento de ambientes de desenvolvimento, teste e produção, garantindo a consistência e a portabilidade das aplicações.
+
+8. Ao utilizar imagens Docker, é possível ter mais controle sobre as dependências e versões de softwares utilizados, evitando conflitos e compatibilidade entre diferentes aplicações e infraestruturas.
+
+9. O processo de criação e atualização de imagens Docker pode ser automatizado e versionado, tornando mais fácil a replicação de ambientes e a colaboração entre desenvolvedores.
+
+10. As imagens Docker permitem a execução de aplicações isoladas, garantindo a segurança e a estabilidade dos sistemas, além de facilitar a implantação de microsserviços e arquiteturas distribuídas.
+
+5. Subtópico:
+5. Compreensão dos volumes Docker 
+Assertivas:
+1. Os volumes Docker são utilizados para persistir dados de forma independente do ciclo de vida dos containers.
+2. Os volumes Docker fornecem um mecanismo para compartilhar e acessar dados entre diferentes containers.
+3. Os volumes Docker podem ser montados em diretórios existentes dentro de um container.
+4. Os volumes Docker podem ser usados para armazenar arquivos necessários para a execução de uma aplicação.
+5. Os volumes Docker permitem que dados sejam compartilhados entre containers que estão rodando no mesmo host.
+
+6. Subtópico:
+6. Redes no ambiente Docker 
+Assertivas:
+1. No ambiente Docker, as redes são utilizadas para conectar diversos containers e permitir a comunicação entre eles.
+2. Uma rede no Docker é uma abstração que representa um segmento isolado onde os containers podem ser conectados.
+3. É possível criar e gerenciar redes no Docker usando o comando 'docker network'.
+4. O Docker fornece três tipos de redes por padrão: bridge, host e none.
+5. Ao criar uma rede bridge no Docker, um bridge virtual é criado no host e os containers são conectados a este bridge.
+6. Os containers conectados a uma rede bridge podem se comunicar entre si usando os nomes dos containers como endereços de rede.
+7. A rede host no Docker permite que um container compartilhe a mesma pilha de rede do host, eliminando a necessidade de redirecionamento de portas.
+8. A rede none no Docker impede que um container se conecte a qualquer interface de rede externa.
+9. É possível configurar redes personalizadas no Docker para atender requisitos específicos de conectividade entre os containers.
+10. O Docker permite que os containers sejam conectados a várias redes simultaneamente, facilitando a criação de ambientes de rede complexos.
+
+7. Subtópico:
+7. Comandos básicos do Docker 
+Assertivas:
+1. O Docker é uma plataforma de virtualização de aplicativos que permite a criação e execução de contêineres.
+2. O comando "docker run" é utilizado para criar e iniciar um novo contêiner a partir de uma imagem.
+3. O comando "docker pull" é responsável por baixar uma imagem do Docker Hub para ser utilizada localmente.
+4. O comando "docker ps" lista os contêineres em execução atualmente.
+5. O comando "docker stop" é utilizado para encerrar a execução de um contêiner.
+6. O comando "docker rm" é usado para remover um contêiner que não está em execução.
+7. O comando "docker images" lista as imagens disponíveis localmente.
+8. Com o comando "docker exec", é possível executar um comando dentro de um contêiner em execução.
+9. O comando "docker logs" exibe os logs de um contêiner específico.
+10. Com o comando "docker-compose up", é possível iniciar vários contêineres ao mesmo tempo, com base no arquivo docker-compose.yml.
+
+8. Subtópico:
+8. Utilização do arquivo docker-compose.yml
+Assertivas:
+1. O arquivo docker-compose.yml é utilizado para definir e gerenciar serviços em um ambiente de contêineres Docker.
+2. Com o uso do docker-compose.yml, podemos definir várias configurações necessárias para executar múltiplos contêineres de forma coordenada.
+3. O docker-compose.yml permite especificar as imagens Docker a serem utilizadas em cada serviço.
+4. Com o arquivo docker-compose.yml, é possível configurar variáveis de ambiente específicas para cada serviço.
+5. Ao utilizar o docker-compose.yml, é fácil definir redes e volumes compartilhados entre os serviços.
+6. Com o docker-compose.yml, é possível iniciar, parar e reiniciar todos os serviços definidos de forma simples e rápida.
+7. O docker-compose.yml permite escalar serviços individualmente, aumentando ou diminuindo o número de instâncias em execução.
+8. Ao utilizar o arquivo docker-compose.yml, é possível definir dependências entre serviços, garantindo que eles sejam iniciados na ordem correta.
+9. O docker-compose.yml disponibiliza uma sintaxe simples e legível para definição dos serviços e suas configurações.
+10. Utilizar o arquivo docker-compose.yml é uma prática recomendada para orquestrar ambientes complexos de aplicações baseadas em contêineres.
+
+9. Subtópico:
+9. Segurança em ambientes com o uso de Docker
+Assertivas:
+1. A segurança em ambientes com o uso de Docker é uma questão crucial para garantir a proteção dos dados e dos sistemas em execução.
+2. O isolamento proporcionado pelo Docker contribui para a segurança, evitando possíveis interferências entre os contêineres.
+3. É necessário realizar uma cuidadosa configuração de segurança do Docker, incluindo restrições de acesso aos recursos do sistema operacional.
+4. O controle de acesso aos contêineres Docker pode ser feito por meio da implementação de políticas de autenticação e autorização adequadas.
+5. É importante manter as imagens do Docker atualizadas com as últimas correções de segurança disponibilizadas pelos fornecedores.
+6. Os contêineres Docker devem ser monitorados regularmente para identificar possíveis vulnerabilidades ou atividades suspeitas.
+7. O uso de soluções de gerenciamento centralizado, como o Docker Swarm ou o Kubernetes, pode auxiliar na implementação de medidas de segurança mais eficientes.
+8. É fundamental limitar os privilégios dos usuários dentro dos contêineres Docker para minimizar o impacto de qualquer eventual comprometimento de segurança.
+9. A segregação de rede, com a criação de redes virtuais dedicadas aos contêineres, é uma prática recomendada para reforçar a segurança em ambientes com Docker.
+10. Manter um processo de atualização contínua de patches e correções de segurança no sistema operacional hospedeiro dos contêineres é essencial para garantir a segurança geral do ambiente Docker.
+
+10. Subtópico:
+10. Integração contínua/entrega contínua (CI/CD) com o uso de Docker
+Assertivas:
+1. A integração contínua (CI) é uma prática de desenvolvimento de software que envolve a automatização de compilação, testes e análise de código em um ambiente compartilhado.
+
+2. A entrega contínua (CD) é uma extensão da CI que permite a entrega automatizada e contínua de software em ambientes de produção por meio de um pipeline de entrega automatizado.
+
+3. O Docker é uma plataforma de código aberto que permite empacotar, distribuir e executar aplicativos em ambientes isolados chamados de contêineres.
+
+4. O uso do Docker como parte de uma estratégia de CI/CD facilita a criação de ambientes consistentes para testes e produção, garantindo a reprodutibilidade do processo de entrega.
+
+5. Com o Docker, é possível criar imagens de contêineres que contêm todo o ambiente necessário para executar um aplicativo, incluindo dependências e configurações.
+
+6. A utilização do Docker na integração contínua permite que os desenvolvedores possam testar seus aplicativos em ambientes executando as mesmas versões de dependências de software e infraestrutura.
+
+7. A entrega contínua com Docker facilita a implementação automatizada de novas versões de software em ambiente de produção, diminuindo o tempo e os riscos associados à implantação manual.
+
+8. A execução de testes automatizados em contêineres Docker ajuda a identificar possíveis problemas de compatibilidade e dependências, garantindo a qualidade do software entregue.
+
+9. A incorporação do Docker ao fluxo de CI/CD contribui para a escalabilidade e o gerenciamento eficiente de recursos, pois é possível criar e destruir ambientes de teste de forma rápida e isolada.
+
+10. A utilização do Docker em CI/CD melhora a colaboração entre equipes de desenvolvimento, infraestrutura e operações, pois facilita a padronização de ambientes e elimina problemas relacionados a diferenças de configuração.
+
+

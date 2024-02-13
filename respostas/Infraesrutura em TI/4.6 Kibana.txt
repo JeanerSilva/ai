@@ -1,0 +1,138 @@
+Pergunta Original: 4.6 Kibana    
+ 
+1. Subtópico:
+1. Conceito e funcionalidades do Kibana
+Assertivas:
+1. O Kibana é uma plataforma de visualização e análise de dados projetada para trabalhar em conjunto com o Elasticsearch.
+2. Por meio do Kibana, é possível realizar consultas e análises poderosas em tempo real dos dados indexados no Elasticsearch.
+3. Uma das funcionalidades do Kibana é a criação de painéis de controle personalizados, que permitem a visualização intuitiva de informações relevantes.
+4. O Kibana oferece uma variedade de gráficos e tabelas interativas para facilitar a análise e a exploração de dados.
+5. Por meio do Kibana, é possível criar alertas personalizados para monitorar métricas e enviar notificações com base em condições definidas.
+6. O Kibana permite a integração com outras ferramentas de análise de dados, como o Logstash, para enriquecer ainda mais as visualizações e análises.
+7. Uma das funcionalidades do Kibana é a criação de mapas interativos para representar dados geolocalizados e identificar padrões espaciais.
+8. É possível compartilhar painéis e visualizações criados no Kibana por meio de links compartilháveis ou incorporá-los em outros sistemas.
+9. O Kibana oferece recursos avançados de pesquisa e filtragem para encontrar informações específicas dentro de grandes volumes de dados.
+10. O Kibana é uma ferramenta amplamente utilizada em diversas áreas, como segurança da informação, análise de logs e monitoramento de infraestrutura.
+
+2. Subtópico:
+2. Instalação e configuração do Kibana
+Assertivas:
+1. O Kibana é uma ferramenta de visualização de dados que integra e consolida informações a partir de diferentes fontes de dados.
+2. A instalação do Kibana é simples e pode ser feita em diferentes sistemas operacionais, como Windows, Linux e macOS.
+3. Para realizar a instalação do Kibana, é necessário ter o Elasticsearch já instalado e configurado.
+4. O Kibana utiliza a porta padrão 5601 para acesso ao servidor web.
+5. Após a instalação, é necessário configurar o arquivo de configuração do Kibana para definir parâmetros como a porta de acesso e a conexão com o Elasticsearch.
+6. O Kibana permite a criação de dashboards com visualizações personalizadas, como gráficos, tabelas e mapas interativos.
+7. A configuração do Kibana pode ser adaptada de acordo com as necessidades do usuário, como a inclusão de plugins e integração com outras ferramentas.
+8. O Kibana possui uma interface user-friendly que permite a utilização de recursos como filtros, consultas e visualizações em tempo real.
+9. É possível realizar a configuração de autenticação e autorização no Kibana, limitando o acesso a determinados usuários ou grupos.
+10. O Kibana é uma ferramenta open source, mantida pela Elastic, proporcionando uma vasta comunidade de suporte e atualizações constantes.
+
+3. Subtópico:
+3. Integração do Kibana com Elasticsearch
+Assertivas:
+1. A integração do Kibana com o Elasticsearch permite visualizar e explorar dados armazenados no Elasticsearch.
+2. O Kibana é uma ferramenta de análise e visualização de dados que trabalha em conjunto com o Elasticsearch.
+3. A integração entre o Kibana e o Elasticsearch é feita através da API REST do Elasticsearch.
+4. Com a integração do Kibana, é possível criar dashboards personalizados para monitorar e analisar dados em tempo real.
+5. Através do Kibana, é possível realizar consultas e filtros avançados nos dados armazenados no Elasticsearch.
+6. A integração do Kibana com o Elasticsearch permite criar painéis interativos para visualização de métricas e estatísticas.
+7. O Kibana oferece uma interface amigável e intuitiva para a criação de gráficos, tabelas e mapas com base nos dados do Elasticsearch.
+8. Com a integração do Kibana, é possível criar alertas e notificações personalizadas com base em eventos ou condições definidas.
+9. O Kibana é uma ferramenta poderosa para análise exploratória de dados, permitindo descobrir padrões e tendências ocultas nos dados armazenados no Elasticsearch.
+10. A integração do Kibana com o Elasticsearch facilita a criação de painéis de controle e relatórios personalizados para acompanhar o desempenho de sistemas e aplicações.
+
+4. Subtópico:
+4. Criação de visualizações e dashboards no Kibana
+Assertivas:
+1. O Kibana é uma ferramenta de visualização de dados amplamente utilizada em sistemas de monitoramento e análise.
+2. A criação de visualizações no Kibana permite aos usuários representar dados de forma gráfica e interativa.
+3. Dashboards são conjuntos de visualizações organizadas em uma única página no Kibana.
+4. O Kibana oferece diversos tipos de visualizações, como gráficos de barras, tortas, linhas e tabelas.
+5. É possível criar visualizações e dashboards no Kibana a partir de diferentes fontes de dados, como arquivos CSV, bancos de dados e serviços web.
+6. O Kibana permite a configuração de filtros e consultas avançadas para refinar os dados exibidos em uma visualização ou dashboard.
+7. As opções de personalização no Kibana permitem ajustar a aparência das visualizações de acordo com as necessidades do usuário.
+8. O Kibana disponibiliza recursos voltados para a análise e exploração de dados, incluindo painéis de controle interativos.
+9. É possível compartilhar visualizações e dashboards criados no Kibana com outros usuários, facilitando a colaboração e a disseminação de informações.
+10. O Kibana é uma ferramenta de código aberto, o que significa que seu desenvolvimento é realizado de forma colaborativa e possui uma comunidade ativa de usuários e desenvolvedores.
+
+5. Subtópico:
+5. Uso de filtros e consultas no Kibana 
+Assertivas:
+1. O Kibana é uma ferramenta de visualização de dados com recursos avançados de filtros e consultas.
+2. O uso de filtros no Kibana permite filtrar os dados com base em critérios específicos, como intervalo de datas e valores de determinadas variáveis.
+3. As consultas no Kibana permitem realizar buscas mais avançadas nos dados, utilizando operadores booleanos e expressões regulares.
+4. É possível criar filtros e consultas complexas no Kibana, combinando vários critérios de busca.
+5. A utilização de filtros e consultas no Kibana auxilia na identificação de padrões e tendências nos dados, proporcionando insights relevantes para as tomadas de decisões.
+
+6. Subtópico:
+6. Análise de dados em tempo real com o Kibana 
+Assertivas:
+1. O Kibana é uma plataforma de visualização e monitoramento de dados em tempo real.
+2. O Kibana utiliza a linguagem de consulta KQL (Kibana Query Language) para realizar análises de dados.
+3. Com o Kibana, é possível criar painéis interativos e personalizados para visualização dos dados em tempo real.
+4. O Kibana suporta diferentes tipos de gráficos e visualizações, como barras, linhas, pizza e mapas.
+5. A ferramenta permite a aplicação de filtros e agrupamentos para segmentar e analisar os dados de forma mais precisa.
+6. É possível criar alertas personalizados no Kibana para ser notificado em tempo real sobre eventos ou métricas específicas.
+7. O Kibana possui integração com outras ferramentas de armazenamento e processamento de dados, como o Elasticsearch e o Logstash.
+8. Através do Kibana, é possível monitorar métricas de desempenho, como o tempo de resposta de um servidor, em tempo real.
+9. O Kibana facilita a identificação de padrões e tendências em grandes volumes de dados em tempo real.
+10. Com o Kibana, é possível compartilhar painéis e relatórios com outros usuários de forma fácil e segura.
+
+7. Subtópico:
+7. Segurança e privacidade no uso do Kibana 
+Assertivas:
+1. O Kibana permite o controle de acesso granular, permitindo que apenas usuários autorizados visualizem e interajam com os dados.
+2. O Kibana oferece uma arquitetura segura, adotando medidas como autenticação integrada, SSL/TLS, e criptografia de dados em repouso.
+3. É possível configurar alertas e notificações no Kibana para identificar e responder a possíveis ameaças de segurança.
+4. O Kibana permite o rastreamento de todas as atividades dos usuários, possibilitando a auditoria de acesso aos dados.
+5. Com o Kibana, é possível definir políticas de acesso baseadas em funções (RBAC), controlando quem pode fazer o que na plataforma.
+6. O Kibana possui integração com provedores de identidade externos, o que permite uma camada adicional de segurança no acesso.
+7. O Kibana oferece recursos de mascaramento e ofuscação de dados, permitindo proteger informações sensíveis enquanto ainda são exibidas.
+8. É possível definir logs personalizados no Kibana, capturando informações importantes e ajudando nas investigações de segurança.
+9. O Kibana possui ferramentas de inteligência de ameaças integradas, que facilitam a identificação de possíveis violações de segurança.
+10. O Kibana é constantemente atualizado com correções de segurança e melhorias, garantindo a confiabilidade e a privacidade dos dados dos usuários.
+
+8. Subtópico:
+8. Monitoramento de logs com o uso do Logstash e o papel do Kibana nesse processo.
+Assertivas:
+1. O Logstash é uma ferramenta utilizada para coletar, processar e enriquecer logs em tempo real.
+2. O Logstash suporta diversos tipos de fontes e formatos de logs, como syslog, HTTP, JSON, CSV, entre outros.
+3. O Logstash permite filtrar, transformar e normalizar os logs de acordo com regras e padrões definidos.
+4. O Logstash possui um pipeline de processamento que permite encadear vários estágios de transformação dos logs.
+5. O Logstash é capaz de enviar os logs processados para diversos destinos, como Elasticsearch, banco de dados e serviços de mensageria.
+6. O Logstash é altamente escalável, permitindo a distribuição de carga de processamento em vários nós de forma eficiente.
+7. O Logstash facilita a análise e busca de logs em tempo real, oferecendo recursos avançados de agregação e filtragem.
+8. O Kibana é uma interface de visualização e exploração de dados que trabalha em conjunto com o Logstash.
+9. O Kibana permite criar dashboards, gráficos e tabelas interativas com base nos logs coletados e processados pelo Logstash.
+10. O Kibana possui recursos de pesquisa avançada que facilitam a análise de eventos específicos nos logs armazenados no Elasticsearch.
+
+9. Subtópico:
+9. Utilização da linguagem Query DSL no contexto do kibana.
+Assertivas:
+1. A Query DSL é uma linguagem de consultas que permite pesquisar, filtrar e manipular dados no Kibana.
+2. A Linguagem Query DSL é uma forma eficiente de fazer consultas em tempo real no Kibana.
+3. O Kibana suporta a utilização da Linguagem Query DSL para realizar buscas avançadas.
+4. Com a Linguagem Query DSL, é possível criar consultas complexas e personalizadas no Kibana.
+5. Ao utilizar a Query DSL, os usuários podem definir critérios de pesquisa específicos para encontrar dados desejados no Kibana.
+6. O Kibana fornece uma interface intuitiva para a escrita de consultas em Query DSL, facilitando sua utilização.
+7. A Query DSL permite filtrar e analisar dados em tempo real no Kibana, proporcionando insights valiosos.
+8. Com a Linguagem Query DSL, é possível realizar agrupamentos, ordenações e outras manipulações nos resultados das consultas no Kibana.
+9. A Query DSL oferece uma ampla gama de recursos, incluindo filtros, agregações, consultas geoespaciais e consultas de texto.
+10. A utilização da Query DSL no Kibana melhora a precisão e a eficiência das análises de dados.
+
+10. Subtópico:
+10.Manutenção, atualização e sol
+Assertivas:
+1. A manutenção preventiva é uma prática fundamental para garantir o bom funcionamento e prolongar a vida útil de equipamentos e sistemas.
+2. A atualização constante de softwares e sistemas é necessária para corrigir falhas de segurança e melhorar a sua eficiência.
+3. A substituição de peças desgastadas ou obsoletas é uma ação comum durante a manutenção corretiva.
+4. A manutenção preditiva utiliza técnicas de análise de dados para identificar possíveis falhas e agir proativamente antes que ocorram danos.
+5. A manutenção de infraestruturas, como estradas e pontes, é essencial para garantir a segurança dos usuários.
+6. A automação de processos facilita a atualização e a solução de problemas em sistemas complexos.
+7. A manutenção corretiva é realizada após a ocorrência de algum problema ou falha em um equipamento. 
+8. A atualização de conhecimentos e habilidades deve ser parte do processo de manutenção para acompanhar as novas tecnologias e práticas de mercado.
+9. A manutenção industrial é responsável por garantir o bom funcionamento de equipamentos e maquinários utilizados em processos de produção.
+10. A solução de problemas na manutenção requer técnicas de diagnóstico e análise para identificar a causa raiz das falhas.
+
+

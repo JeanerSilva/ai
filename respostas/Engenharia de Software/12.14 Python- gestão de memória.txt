@@ -1,0 +1,129 @@
+Pergunta Original: 12.14 Python- gestão de memória   
+ 
+1. Subtópico:
+1. Conceitos básicos de gestão de memória em Python
+Assertivas:
+1. A gestão de memória em Python envolve a alocação e liberação de recursos de armazenamento para objetos.
+2. Em Python, a memória é gerenciada automaticamente pelo coletor de lixo, que libera automaticamente a memória ocupada por objetos não mais utilizados.
+3. O coletor de lixo em Python utiliza o algoritmo de contagem de referências para determinar se um objeto pode ser liberado da memória.
+4. Em Python, é possível utilizar o módulo "gc" para controlar manualmente o coletor de lixo e otimizar o gerenciamento de memória.
+5. O módulo "sys" em Python fornece informações sobre o consumo de memória do programa em execução.
+6. A função "id()" em Python retorna o identificador único de um objeto na memória.
+7. A quantidade de memória alocada para um objeto em Python depende do tipo de dado e da estrutura de dados utilizados.
+8. O aumento do consumo de memória em Python pode levar à redução do desempenho do programa devido a operações de troca de página.
+9. Em Python, é possível utilizar técnicas de otimização de memória, como o uso de geradores, para reduzir o consumo de memória em programas.
+10. O tamanho de um objeto em Python pode ser obtido utilizando a função "sys.getsizeof()".
+
+2. Subtópico:
+2. Gerenciamento automático de memória em Python
+Assertivas:
+1. O gerenciamento automático de memória em Python é feito por meio da técnica chamada "coleta de lixo".
+2. Em Python, o gerenciamento automático de memória é responsável por alocar e desalocar objetos automaticamente.
+3. A linguagem Python utiliza o conceito de contagem de referência para gerenciar a memória automaticamente.
+4. O gerenciamento automático de memória em Python permite que os desenvolvedores foquem na lógica do programa, sem se preocupar em liberar manualmente a memória alocada por objetos.
+5. O gerenciamento automático de memória em Python evita vazamentos de memória causados por alocações não liberadas.
+6. O módulo "gc" em Python permite configurar e controlar o processo de coleta de lixo.
+7. Em Python, o gerenciamento automático de memória utiliza um algoritmo baseado em contagem de referências para determinar se um objeto está em uso ou pode ser liberado da memória.
+8. O Python implementa o gerenciamento automático de memória por meio do método de contagem de referências e coleta de lixo.
+9. O gerenciamento automático de memória em Python melhora a produtividade do desenvolvimento, permitindo que os programadores foquem em tarefas mais complexas.
+10. O gerenciamento automático de memória em Python é uma característica fundamental da linguagem que contribui para sua popularidade e facilidade de uso.
+
+3. Subtópico:
+3. Funcionamento do Garbage Collector em Python
+Assertivas:
+1. O Garbage Collector em Python é responsável por gerenciar a memória alocada para objetos que não estão mais em uso.
+2. O funcionamento do Garbage Collector em Python é automático e não requer intervenção do programador.
+3. O Garbage Collector em Python utiliza o algoritmo de contagem de referências para determinar quais objetos podem ser coletados.
+4. O Garbage Collector em Python permite que os objetos referenciados por ciclos sejam coletados por meio do algoritmo de "marcação e varredura".
+5. O Garbage Collector em Python pode ser configurado para trabalhar de forma mais agressiva ou mais conservadora, dependendo das necessidades do programa.
+6. O Garbage Collector em Python pode ser ativado e desativado em tempo de execução, caso seja necessário otimizar o desempenho.
+7. O Garbage Collector em Python oferece suporte a diferentes gerações de objetos, permitindo uma coleta de lixo mais eficiente.
+8. O Garbage Collector em Python pode ser chamado manualmente pelo programador usando a função "gc.collect()".
+9. O tempo de execução do Garbage Collector em Python pode variar dependendo do tamanho e complexidade do programa, bem como da quantidade de objetos alocados.
+10. Em Python, é possível verificar quanta memória está sendo utilizado pelos objetos não coletados pelo Garbage Collector por meio da função "gc.get_objects()".
+
+4. Subtópico:
+4. Diferença entre Stack e Heap na gestão de memória do Python
+Assertivas:
+1. A gestão da pilha (stack) na memória do Python é automática, enquanto a gestão do heap precisa ser feita manualmente.
+2. A pilha é responsável por armazenar variáveis locais e informações de contexto durante a execução de uma função.
+3. O heap é utilizado para a alocação de objetos mais complexos, como listas, dicionários e objetos criados pelo programador.
+4. A pilha possui tamanho limitado e é pré-alocada durante a compilação do programa.
+5. A alocação e desalocação de memória na pilha é mais rápida que no heap.
+6. O heap permite a alocação dinâmica de memória, permitindo que objetos sejam criados sem um tamanho fixo definido antecipadamente.
+7. A pilha pode ser liberada automaticamente após o término de uma função ou de um determinado escopo.
+8. O heap exige que o programador gerencie a alocação e desalocação de memória, evitando vazamentos de memória.
+9. A utilização excessiva do heap pode levar a problemas de fragmentação, tornando a alocação de memória menos eficiente.
+10. A diferenciação entre pilha e heap na gestão de memória no Python é fundamental para compreender aspectos como eficiência de memória e tempo de execução.
+
+5. Subtópico:
+5. Uso eficiente da memória com estruturas de dados em Python
+Assertivas:
+1. Em Python, o uso eficiente da memória pode ser obtido por meio de estruturas de dados como listas e tuplas.
+2. As listas em Python são implementadas como arrays dinâmicos, o que permite um uso eficiente da memória, tanto em termos de alocação quanto de liberação.
+3. A alocação dinâmica de memória nas listas de Python ajuda a otimizar o espaço necessário para armazenar os elementos da lista.
+4. As tuplas em Python são estruturas de dados imutáveis, o que contribui para um uso eficiente da memória, especialmente quando se trata de objetos pequenos.
+5. Diferentemente das listas, as tuplas em Python ocupam menos espaço na memória, pois não precisam armazenar informações adicionais como tamanho e capacidade.
+6. Outra estrutura de dados que contribui para o uso eficiente da memória em Python é o conjunto (set), que armazena apenas elementos únicos.
+7. O conjunto em Python é implementado internamente como uma tabela hash, o que permite um acesso rápido aos elementos e uma alocação eficiente de memória.
+8. Ao eliminar elementos duplicados, os conjuntos em Python economizam espaço na memória, especialmente quando se trabalha com grandes quantidades de dados.
+9. Além disso, a estrutura de dados deque (double-ended queue) em Python, disponível no módulo collections, é eficiente em termos de uso de memória para operações de inserção e remoção em ambos os extremos da fila.
+10. Ao utilizar estruturas de dados adequadas em Python, é possível otimizar o uso da memória e garantir um melhor desempenho de um programa, especialmente em situações em que a eficiência na utilização de recursos é um requisito essencial.
+
+6. Subtópico:
+6. Técnicas para otimização da gestão de memória no Python 
+Assertivas:
+1. A gestão de memória no Python envolve o gerenciamento automático do espaço alocado na memória.
+2. A técnica de "garbage collection" é utilizada para liberar memória não utilizada.
+3. O Python utiliza um algoritmo de contagem de referência para gerenciar a alocação e liberação de memória.
+4. A utilização de "generators" pode ser uma técnica eficiente para otimizar o uso de memória.
+5. A função "del" pode ser utilizada para liberar explicitamente a memória ocupada por uma variável.
+6. O módulo "sys" pode ser utilizado para monitorar o consumo de memória de uma aplicação em Python.
+7. Estruturas de dados como listas e dicionários podem consumir uma quantidade significativa de memória, dependendo do tamanho dos objetos armazenados.
+8. A função "sys.getsizeof()" retorna o número de bytes ocupados por um objeto em memória.
+9. O uso de "list comprehension" em vez de loops tradicionais pode otimizar a gestão de memória, evitando a criação desnecessária de objetos intermediários.
+10. O Python possui um módulo chamado "memory_profiler" que permite analisar o consumo de memória de uma aplicação em tempo de execução.
+
+7. Subtópico:
+7. Impacto da gestão inadequada da memória no desempenho do programa 
+Assertivas:
+1. A gestão inadequada da memória pode levar à ocorrência de erros de falta de memória durante a execução de um programa.
+2. A má gestão da memória pode causar vazamento de memória, resultando em consumo excessivo de recursos do sistema.
+3. A falta de controle adequado da memória pode ocasionar a perda de dados e informações importantes do programa.
+4. A ineficiente alocação de memória pode ocasionar a fragmentação da memória, prejudicando o desempenho do programa.
+5. A ausência de uma estratégia eficiente para gerenciar a memória pode resultar em retardo na execução das operações do programa.
+6. A gestão incorreta da memória pode levar à diminuição do desempenho do programa, devido à necessidade de realizar operações de alocação e desalocação excessivas.
+7. A não liberação adequada da memória utilizada por um programa pode resultar em impactos negativos no desempenho de outros programas em execução no sistema.
+8. A má gestão da memória pode levar a problemas de estabilidade do sistema, como travamentos e quedas de desempenho.
+9. A alocação excessiva de memória por um programa pode comprometer a capacidade de execução de outros processos no sistema.
+10. A gestão inadequada da memória pode ocasionar uma deterioração gradual do desempenho do programa, à medida que mais memória é alocada e não liberada corretamente.
+
+8. Subtópico:
+8. Ferramentas para monitorar a utilização da memória no Python 
+Assertivas:
+1. A ferramenta de monitoramento de memória no Python ajuda a identificar gargalos de desempenho relacionados ao uso excessivo de memória.
+2. O uso de ferramentas de monitoramento de memória no Python permite otimizar o código e melhorar a eficiência do programa.
+3. Uma das ferramentas disponíveis para monitorar a utilização da memória no Python é a biblioteca "memory_profiler".
+4. A ferramenta "memory_profiler" fornece informações detalhadas sobre o consumo de memória em cada linha de código executada.
+5. A biblioteca "heapy" é outra opção para monitorar a utilização da memória no Python.
+6. A ferramenta "heapy" permite identificar objetos em uso e estimar o consumo de memória de cada objeto individualmente.
+7. Outra ferramenta amplamente utilizada para monitorar a memória no Python é o "tracemalloc".
+8. O "tracemalloc" rastreia a alocação e a liberação de memória, ajudando a identificar possíveis vazamentos de memória no código Python.
+9. A ferramenta "py-spy" é uma opção eficaz para diagnosticar problemas de utilização de memória em código Python.
+10. A ferramenta "py-spy" permite criar perfis detalhados da utilização de memória por meio da geração de gráficos e estatísticas.
+
+9. Subtópico:
+9. Entendimento sobre referências e objetos na gestão de memória do Python
+Assertivas:
+1. As referências em Python são utilizadas para permitir que objetos sejam acessados e manipulados na memória.
+2. A gestão de memória em Python é feita por meio de um algoritmo de contagem de referências.
+3. Os objetos em Python são alocados na memória Heap.
+4. O garbage collector em Python é responsável por liberar a memória de objetos que não possuem mais referências.
+5. A passagem de argumentos em Python é feita por referência, o que pode afetar a gestão de memória em determinados casos.
+6. A função interna "id()" em Python retorna a identificação única de um objeto na memória.
+7. O módulo sys de Python possui uma função chamada "getrefcount()" que retorna o número de referências para um objeto.
+8. A atribuição de um objeto a uma nova variável em Python cria uma nova referência para o mesmo objeto na memória.
+9. Um objeto em Python pode ter várias referências apontando para ele.
+10. A liberação explícita de memória em Python não é necessária, pois o garbage collector cuida dessa tarefa.
+
+

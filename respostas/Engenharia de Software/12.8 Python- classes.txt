@@ -1,0 +1,140 @@
+Pergunta Original: 12.8 Python- classes   
+ 
+1. Subtópico:
+1. Definição e estrutura básica de uma classe em Python
+Assertivas:
+1. Uma classe em Python é uma estrutura que define um objeto, encapsulando dados e métodos relacionados.
+2. A estrutura básica de uma classe em Python inclui um cabeçalho com a declaração da classe, seguido de uma ou mais definições de métodos.
+3. Uma classe em Python pode conter variáveis de instância, que são atributos específicos de cada objeto criado a partir dessa classe.
+4. Os métodos de uma classe em Python podem ser definidos como funções dentro da própria classe, compartilhando os mesmos atributos dos objetos.
+5. O método __init__ é usado para criar um construtor na classe Python, sendo executado automaticamente quando um objeto da classe é criado.
+6. O método __str__ é usado para fornecer uma representação de string do objeto da classe em Python.
+7. Utilizando o conceito de herança, uma classe em Python pode herdar atributos e métodos de outra classe, facilitando a reutilização de código.
+8. O self é um parâmetro especial utilizado em todos os métodos de uma classe Python, representando a instância atual do objeto.
+9. Uma classe em Python pode conter métodos estáticos, que podem ser chamados sem a necessidade de instanciar um objeto da classe.
+10. Para criar um objeto de uma classe em Python, utiliza-se a sintaxe: nome_da_classe()
+
+2. Subtópico:
+2. Criação e instanciamento de objetos em Python
+Assertivas:
+1. Em Python, a criação de objetos ocorre com a definição de classes.
+2. Para instanciar um objeto em Python, é necessário utilizar o operador de atribuição, seguido do nome da classe seguido de parênteses.
+3. O processo de instanciar objetos em Python consiste na alocação de memória para armazenar as variáveis específicas de cada instância.
+4. Para criar e instanciar um objeto, é possível passar argumentos para o construtor da classe.
+5. O construtor de uma classe em Python é o método especial __init__, utilizado para inicializar as variáveis de instância.
+6. Em Python, é possível criar objetos semelhantes a partir de uma classe por meio do recurso de herança.
+7. Para criar um objeto a partir de uma classe filha, é necessário invocar o construtor da classe mãe utilizando o método super().
+8. A partir de um objeto já instanciado, é possível acessar e modificar seus atributos por meio da notação de ponto.
+9. Em Python, métodos são funções definidas dentro de uma classe e podem ser chamados a partir de um objeto instanciado.
+10. A criação e instanciamento de objetos em Python é uma das principais características da orientação a objetos na linguagem.
+
+3. Subtópico:
+3. Métodos e atributos em classes Python
+Assertivas:
+1. Em Python, métodos são funções definidas dentro de uma classe e possuem acesso aos atributos da instância por meio do parâmetro "self".
+2. Os atributos em uma classe Python são variáveis que armazenam dados específicos de cada instância da classe.
+3. Os métodos podem ser utilizados para modificar os valores dos atributos de uma instância de uma classe em Python.
+4. Em Python, é possível acessar os atributos de uma classe por meio do operador de ponto (".") seguido do nome do atributo.
+5. Os métodos estáticos em Python são métodos que podem ser chamados sem a necessidade de criar uma instância da classe.
+6. Em Python, os atributos de uma classe podem ser declarados tanto dentro de um método, como diretamente no corpo da classe.
+7. A palavra-chave "self" é utilizada em Python para referenciar a instância atual da classe dentro de um método.
+8. Em Python, os atributos de uma classe podem ser públicos, privados ou protegidos, sendo que o acesso a esses atributos varia de acordo com a sua visibilidade.
+9. Métodos em Python podem ter parâmetros obrigatórios e opcionais, assim como funções.
+10. Em Python, é possível definir um método especial chamado de "__init__" que é automaticamente executado quando uma nova instância de uma classe é criada.
+
+4. Subtópico:
+4. Herança e Polimorfismo em Python
+Assertivas:
+1. No Python, herança permite que uma classe adquira os atributos e métodos de outra classe, com o objetivo de promover reutilização de código.
+2. Polimorfismo em Python permite que objetos de diferentes classes possam ser tratados de maneira uniforme, desde que possuam a mesma interface.
+3. O conceito de herança múltipla em Python permite que uma classe herde características de duas ou mais classes pai.
+4. O polimorfismo de sobrecarga em Python é alcançado por meio de funções com o mesmo nome, porém com diferentes tipos ou quantidades de argumentos.
+5. A palavra-chave "super()" é utilizada em Python para chamar o construtor da superclasse durante a herança.
+6. Em Python, é possível fazer a sobreposição (ou sobrescrita) de métodos na classe filha, para alterar ou estender o comportamento de um método herdado da classe pai.
+7. Python não suporta herança múltipla direta de métodos, apenas de atributos.
+8. O método "issubclass()" em Python verifica se uma classe é subclasse direta ou indireta de outra.
+9. O método "isinstance()" em Python verifica se um objeto é instância direta ou indireta de uma determinada classe.
+10. Python suporta herança em cadeia, ou seja, uma classe pode herdar de outra que, por sua vez, herda de outra classe.
+
+5. Subtópico:
+5. Encapsulamento: métodos privados, protegidos e públicos 
+Assertivas:
+1. No encapsulamento, métodos privados são acessíveis apenas dentro da classe em que são declarados.
+2. No encapsulamento, métodos protegidos são acessíveis dentro da classe em que são declarados e por suas subclasses.
+3. No encapsulamento, métodos públicos são acessíveis por qualquer objeto do programa.
+4. No encapsulamento, a definição de métodos privados, protegidos e públicos auxilia na organização e estruturação do código.
+5. O encapsulamento é um dos princípios da programação orientada a objetos que visa proteger o estado interno de um objeto, permitindo acesso controlado por meio de seus métodos.
+6. O encapsulamento promove a segurança e a confiabilidade do software ao restringir o acesso direto aos atributos de um objeto.
+7. Métodos privados são úteis para implementar lógicas internas complexas que não precisam ser conhecidas externamente.
+8. Métodos protegidos são frequentemente utilizados para fornecer uma interface mais flexível para herança, permitindo acesso controlado aos membros protegidos pelas subclasses.
+9. Métodos públicos são utilizados para expor a funcionalidade essencial do objeto, permitindo que outros objetos interajam com ele.
+10. O encapsulamento contribui para a manutenibilidade do código, pois oferece uma camada de abstração que permite a modificação interna da classe sem afetar o restante do programa.
+
+6. Subtópico:
+6. Métodos especiais (construtores, destrutores) em classes Python
+Assertivas:
+1. Os métodos construtores em classes Python são responsáveis por inicializar os objetos dessa classe.
+2. O construtor padrão em Python é o método __init__(), que possui a função de inicializar os atributos de uma classe.
+3. Os métodos construtores podem ter parâmetros, permitindo uma personalização na inicialização dos objetos.
+4. O construtor é chamado automaticamente quando um novo objeto é criado a partir de uma classe.
+5. O método __del__() é conhecido como destrutor em Python e é utilizado para realizar a limpeza de recursos quando um objeto é excluído.
+6. O destrutor é acionado automaticamente quando um objeto não está mais em uso e é perdido para a coleta de lixo.
+7. Ao criar um objeto, se o construtor não for definido, a classe herda o construtor da classe pai.
+8. Em Python, os construtores e destrutores podem ser definidos em classes derivadas, substituindo os métodos da classe pai.
+9. Os métodos construtores e destrutores são exemplos de métodos especiais em Python, pois são automaticamente executados em determinadas situações.
+10. Os métodos construtores e destrutores permitem uma maior flexibilidade e controle ao trabalhar com objetos em Python.
+
+7. Subtópico:
+7. Uso do 'self' nas classes 
+Assertivas:
+1. O uso do 'self' em classes em Python permite acessar métodos e atributos da própria classe.
+2. O 'self' é uma convenção em Python para se referir à instância atual da classe.
+3. O 'self' é um parâmetro que deve ser incluído em todos os métodos de uma classe, exceto métodos estáticos.
+4. O 'self' permite diferenciar entre atributos de classe e atributos de instância.
+5. O uso correto do 'self' é essencial para o acesso correto dos atributos e métodos da classe.
+6. Utilizar 'self' é uma prática recomendada em Python para garantir o encapsulamento e modularidade do código.
+7. A palavra 'self' não é uma palavra-chave em Python, mas sim uma convenção adotada pela comunidade para se referir à instância atual.
+
+8. Subtópico:
+8. Classes abstratas e interfaces em Python 
+Assertivas:
+1. Em Python, uma classe abstrata é uma classe que não pode ser instanciada diretamente, sendo apenas um modelo para outras classes específicas.
+2. É possível definir métodos abstratos em uma classe abstrata, mas não é permitido implementá-los.
+3. Uma classe abstrata pode herdar de outra classe abstrata, permitindo a criação de uma hierarquia de classes abstratas.
+4. Em Python, uma classe abstrata pode ter métodos concretos, ou seja, métodos que possuem implementação.
+5. Interfaces em Python são implementadas através do uso de classes abstratas que possuem apenas métodos abstratos.
+6. Uma interface em Python não pode ter métodos concretos.
+7. Ao implementar uma interface em Python, é obrigatório fornecer uma implementação para todos os métodos abstratos definidos na interface.
+8. Em Python, uma classe pode implementar múltiplas interfaces, permitindo a adoção de diferentes comportamentos.
+9. O uso de classes abstratas e interfaces em Python promove a aplicação dos conceitos de herança e polimorfismo.
+10. Classes abstratas e interfaces em Python são ferramentas poderosas para facilitar a reutilização de código e promover uma programação mais modular.
+
+9. Subtópico:
+9. Exceções personalizadas através de classes 
+Assertivas:
+1. As exceções personalizadas permitem que os programadores criem suas próprias classes de exceção.
+2. As exceções personalizadas fornecem um mecanismo para lidar com situações específicas e invocar comportamentos personalizados.
+3. A criação de exceções personalizadas ajuda a melhorar a legibilidade e a manutenção do código.
+4. As exceções personalizadas podem ser lançadas usando o comando "throw" em qualquer ponto do programa.
+5. As exceções personalizadas podem ser capturadas e tratadas usando blocos "try-catch".
+6. A hierarquia de exceções personalizadas pode ser estendida para refletir diferentes níveis de gravidade ou tipos de erros.
+7. Ao criar exceções personalizadas, é possível adicionar informações adicionais ao objeto de exceção, como mensagens de erro personalizadas.
+8. As exceções personalizadas podem ser usadas para fornecer informações mais precisas sobre erros específicos, facilitando a depuração.
+9. As exceções personalizadas podem ser usadas para encapsular erros específicos do domínio de um programa.
+10. As exceções personalizadas podem ser usadas como uma forma de comunicação entre diferentes partes de um programa, permitindo notificar outros componentes sobre eventos ou erros específicos.
+
+10. Subtópico:
+10. Uso de módulos para organização das classes
+Assertivas:
+1. O uso de módulos é uma prática comum na organização de programas em linguagens de programação.
+2. Os módulos ajudam a dividir o código em partes menores e mais gerenciáveis.
+3. Módulos facilitam a reutilização de código, permitindo que funções e classes sejam importadas em outros arquivos.
+4. O uso de módulos promove o isolamento de funcionalidades, evitando conflitos entre nomes de variáveis e funções.
+5. Módulos tratam-se de arquivos independentes que contêm definições de classes, funções e variáveis.
+6. Uma das principais vantagens do uso de módulos é a organização lógica do código, tornando-o mais legível e de fácil manutenção.
+7. O uso de módulos também contribui para o desenvolvimento colaborativo, permitindo que diferentes membros de uma equipe trabalhem em partes diferentes do código.
+8. Módulos podem ser implementados em diferentes linguagens de programação, como Python, Java, C++, entre outras.
+9. A importação de módulos é um recurso muito utilizado para a escrita de programas mais eficientes e escaláveis.
+10. Ao utilizar módulos, é possível criar bibliotecas de código reutilizável, beneficiando projetos futuros e economizando tempo de desenvolvimento.
+
+

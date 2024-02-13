@@ -1,0 +1,89 @@
+Pergunta Original: 12.22 Java- exemplos de testes   
+ 
+1. Subtópico:
+1. Fundamentos de Java: Conceitos básicos e estrutura de um programa Java.
+Assertivas:
+1. No Java, um programa é composto por classes, que são a principal unidade de organização e estruturação do código.
+2. Cada classe em Java possui um método principal chamado "main", que é o ponto de entrada do programa.
+3. A estrutura de um programa Java é baseada em blocos de código delimitados por chaves {}
+4. Em Java, as instruções são terminadas por ponto e vírgula ;
+5. Um programa Java pode conter importações de classes de bibliotecas externas, usando a palavra-chave "import".
+6. A linguagem Java é orientada a objetos, o que significa que os programas são organizados em torno de objetos, que possuem atributos e comportamentos.
+7. Um programa Java pode fazer uso de estruturas de controle, como ifs, loops e switch case, para controlar o fluxo de execução.
+8. Em Java, as variáveis devem ter um tipo definido, que determina o tamanho e o tipo de valor que a variável pode armazenar.
+9. Os identificadores em Java devem começar com uma letra, seguida por letras, dígitos ou underscores, e são sensíveis a maiúsculas e minúsculas.
+10. A linguagem Java é fortemente tipada, o que significa que todas as verificações de tipo são realizadas em tempo de compilação.
+
+2. Subtópico:
+2. Sintaxe e Semântica em Java: Uso correto da linguagem, regras e convenções.
+Assertivas:
+1. Na linguagem Java, palavras-chave como `if`, `for`, `while` e `switch` devem ser escritas em minúsculas.
+2. Em Java, o uso correto de chaves `{}` é obrigatório para delimitar o bloco de código associado a comandos condicionais e de repetição.
+3. Em Java, o sinal de igual (`=`) é utilizado para atribuição de valores a variáveis, enquanto o sinal de igualdade (`==`) é utilizado para comparação de igualdade entre valores.
+4. Em Java, a utilização de comentários é essencial para documentar o código e facilitar a compreensão do mesmo.
+5. O uso de espaços em branco e indentação correta é um padrão de convenção em Java, facilitando a legibilidade do código para os programadores.
+6. Em Java, as classes devem ser escritas com a primeira letra maiúscula e seguir o padrão de nomenclatura CamelCase.
+7. Em Java, as variáveis devem ser declaradas com um identificador, seguido de dois pontos (`:`) e o tipo da variável.
+8. Em Java, para criar um objeto a partir de uma classe, utiliza-se o operador `new` seguido do nome da classe.
+9. Em Java, a linguagem é case-sensitive, ou seja, diferencia maiúsculas de minúsculas.
+10. Em Java, a compilação é um processo necessário antes da execução do código, verificando se há erros de sintaxe e semântica.
+
+3. Subtópico:
+3. Tipos de Dados em Java: Primitivos, referências, enumerações.
+Assertivas:
+1. Os tipos de dados primitivos em Java são boolean, byte, short, int, long, float, double e char.
+2. Os tipos de dados primitivos em Java armazenam valores diretamente na memória.
+3. Os tipos de dados de referência em Java, como String e Classes, armazenam referências a objetos na memória.
+4. As enumerações em Java são utilizadas para definir um tipo de dados com um conjunto fixo de constantes.
+5. As enumerações em Java são implementadas usando a palavra-chave enum.
+6. Os tipos de dados primitivos têm um tamanho fixo na memória, enquanto os tipos de dados de referência têm um tamanho variável.
+7. Os tipos de dados primitivos são passados por valor em Java, enquanto os tipos de dados de referência são passados por referência.
+8. Os tipos de dados primitivos em Java não possuem métodos associados a eles, enquanto os tipos de dados de referência possuem.
+9. Os tipos de dados primitivos em Java são armazenados na pilha de execução, enquanto os tipos de dados de referência são armazenados no heap.
+10. Em Java, é possível converter explicitamente um tipo de dado primitivo em outro usando cast, mas essa conversão pode resultar em perdas de dados ou erros de compilação.
+
+4. Subtópico:
+4. Operadores em Java: Aritméticos, relacionais, lógicos e especiais.
+Assertivas:
+1. Os operadores aritméticos em Java incluem adição (+), subtração (-), multiplicação (*), divisão (/) e resto da divisão (%).
+2. Os operadores relacionais em Java, como igual a (==), diferente de (!=), maior que (>), menor que (<), maior ou igual a (>=) e menor ou igual a (<=), são utilizados para comparar valores.
+3. Os operadores lógicos em Java incluem o "E lógico" (&&), o "OU lógico" (||) e o "NÃO lógico" (!), permitindo combinar múltiplas expressões booleanas.
+4. Os operadores especiais em Java incluem o operador ternário (?:), utilizado para fazer avaliações condicionais, e o operador de atribuição composta, como +=, -=, *= e /=.
+5. O operador de adição (+) também pode ser utilizado para concatenar strings em Java.
+6. O operador de divisão (/) retorna um valor de ponto flutuante mesmo se os operandos forem ambos inteiros.
+7. Os operadores relacionais também podem ser utilizados para comparar objetos em Java, utilizando os critérios especificados pelo método equals.
+8. O operador lógico "E lógico" (&&) só retorna true se ambas as expressões booleanas forem verdadeiras.
+9. O operador lógico "OU lógico" (||) retorna true se pelo menos uma das expressões booleanas for verdadeira.
+10. O operador de negação lógica (!) inverte o valor de uma expressão booleana, resultando em true se a expressão original é falsa, e vice-versa.
+
+5. Subtópico:
+5. Controle de Fluxo em Java: Estruturas condicionais (if-else), loops (for, while) e controle de fluxo avançado (switch-case).
+Assertivas:
+1. As estruturas condicionais em Java, como o if-else, permitem que um trecho de código seja executado apenas se uma condição específica for atendida.
+2. O loop for é utilizado em Java para repetir um bloco de código por um número pré-determinado de vezes.
+3. O loop while, por outro lado, é usado quando não se sabe o número exato de iterações que serão realizadas.
+4. O controle de fluxo avançado em Java é realizado por meio da estrutura switch-case, que permite a seleção de um bloco de código com base no valor de uma expressão.
+5. A expressão em uma estrutura switch-case deve ser avaliada como um valor inteiro, enumeração ou String.
+6. O bloco de código correspondente a um caso no switch-case é executado até que seja encontrado um comando break, onde a execução é interrompida.
+7. Caso nenhum caso corresponda ao valor da expressão, o bloco de código do caso default é executado (se existir).
+8. É possível ter múltiplos cases com o mesmo valor em uma estrutura switch-case, porém, apenas o primeiro caso encontrado será executado.
+9. A estrutura if-else permite a construção de múltiplas condições, utilizando-se do else if, para avaliar diferentes possibilidades e executar o código correspondente.
+10. O loop for-each é outra forma de realizar o controle de fluxo em Java, permitindo percorrer elementos de uma coleção de forma simplificada.
+
+6. Subtópico:
+6. Classes e Objetos em Java: Definição, criação, uso e
+Assertivas:
+manipulação.
+
+1. Em Java, uma classe é uma estrutura que define um conjunto de atributos e comportamentos particulares, permitindo a criação de objetos a partir dessa definição.
+2. Uma classe em Java pode ser instanciada ou criada diversas vezes, gerando diferentes objetos com as mesmas características da classe.
+3. O uso de classes e objetos em Java permite a organização e reutilização de código de maneira estruturada e modularizada.
+4. Um objeto em Java possui atributos, que são características que definem seu estado, e métodos, que são comportamentos que o objeto pode executar.
+5. Para criar um objeto em Java, é necessário utilizar a palavra-chave "new" seguida do nome da classe, seguida de parênteses ().
+6. Em Java, é possível acessar os atributos e métodos de um objeto utilizando o operador ponto (.), seguido do nome do atributo ou método desejado.
+7. Ao criar um objeto em Java, o sistema automaticamente chama o construtor da classe correspondente, que é responsável por inicializar os atributos do objeto.
+8. Em Java, é possível criar métodos especiais chamados de getters e setters, que permitem acessar e modificar os valores dos atributos de um objeto de forma controlada.
+9. É possível utilizar a palavra-chave "this" dentro de um método de uma classe em Java para referenciar o objeto atual em que o método está sendo executado.
+10. Em Java, é possível criar relacionamentos entre classes, estabelecendo associações, agregações ou heranças, visando a criação de estruturas complexas e hierárquicas.
+
+

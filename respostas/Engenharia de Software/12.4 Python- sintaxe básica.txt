@@ -1,0 +1,101 @@
+Pergunta Original: 12.4 Python- sintaxe básica    
+ 
+1. Subtópico:
+1. Estrutura de um programa em Python: importação de módulos e definição de funções.
+Assertivas:
+1. Na estrutura de um programa em Python, a importação de módulos é feita utilizando-se a palavra-chave "import" seguida do nome do módulo.
+2. A importação de módulos em Python é necessária para utilizar recursos e funcionalidades que não estão disponíveis na biblioteca padrão.
+3. A importação de módulos em Python pode ser feita no início do programa ou no momento em que a funcionalidade do módulo é necessária.
+4. Além da palavra-chave "import", também é possível utilizar a palavra-chave "from" seguida do nome do módulo para importar apenas partes específicas desse módulo.
+5. A definição de funções em Python é feita utilizando-se a palavra-chave "def" seguida do nome da função, parênteses que podem conter parâmetros e dois pontos.
+6. A definição de funções em Python é uma forma de encapsular um bloco de código para que possa ser reutilizado em diferentes partes do programa.
+7. Os parâmetros de uma função em Python são utilizados para receber valores de entrada que serão utilizados dentro do bloco de código da função.
+8. É possível definir funções em Python sem a necessidade de passar parâmetros.
+9. O corpo de uma função em Python é formado por um bloco de código indentado que contém as instruções a serem executadas quando a função for chamada.
+10. Ao finalizar a execução do corpo de uma função em Python, é possível retornar valores utilizando a palavra-chave "return".
+
+2. Subtópico:
+2. Tipos de dados em Python: números, strings, listas, tuplas e dicionários.
+Assertivas:
+1. Em Python, o tipo de dado "number" é utilizado para representar valores numéricos, que podem ser inteiros ou decimais.
+2. Strings são sequências de caracteres delimitadas por aspas simples ('') ou duplas ("") em Python.
+3. Listas em Python são coleções ordenadas e mutáveis de elementos, representadas por colchetes ([]).
+4. Tuplas em Python são coleções ordenadas e imutáveis de elementos, representadas por parênteses (()).
+5. Dicionários em Python são estruturas de dados que armazenam pares chave-valor, representados por chaves ({}) e são mutáveis.
+6. Os elementos de uma lista ou tupla em Python podem ser de diferentes tipos de dados, inclusive outras listas, tuplas ou dicionários.
+7. O acesso aos elementos de uma lista ou tupla em Python é feito através de índices, iniciando em 0 para o primeiro elemento.
+8. Em Python, é possível concatenar strings utilizando o operador de adição (+).
+9. Os dicionários em Python permitem buscar e armazenar valores através de suas chaves, não permitindo duplicatas.
+10. Em Python, é possível converter um número em uma string utilizando a função str(), e vice-versa, utilizando as funções int() ou float().
+
+3. Subtópico:
+3. Operadores em Python: aritméticos, comparação, atribuição e lógicos.
+Assertivas:
+1) Os operadores aritméticos em Python são utilizados para realizar operações matemáticas, como adição, subtração, multiplicação e divisão.
+2) Os operadores de comparação em Python são utilizados para comparar valores e retornar um resultado booleano, indicando se a comparação é verdadeira ou falsa.
+3) Os operadores de atribuição em Python são utilizados para atribuir valores a variáveis, como o operador '='.
+4) Os operadores lógicos em Python são utilizados para combinar ou modificar expressões booleanas e retornar um valor booleano.
+5) O operador aritmético de potência em Python é representado pelo símbolo '**'.
+6) O operador de comparação '==' em Python é utilizado para checar a igualdade entre dois valores.
+7) O operador de comparação '!=' em Python é utilizado para checar a diferença entre dois valores.
+8) O operador de atribuição composta '+=' em Python é utilizado para somar um valor a uma variável e atribuir o resultado à própria variável.
+9) O operador lógico 'and' em Python retorna True se ambos os operandos forem True.
+10) O operador lógico 'or' em Python retorna True se pelo menos um dos operandos for True.
+
+4. Subtópico:
+4. Controle de fluxo em Python: instruções if, elif e else; loops for e while; break e continue.
+Assertivas:
+1. O fluxo de controle em Python pode ser gerenciado utilizando instruções if, elif e else.
+2. A instrução if é utilizada para testar uma condição e executar um bloco de código caso ela seja verdadeira.
+3. A instrução elif é utilizada para testar outras condições, caso a condição no bloco if não seja verdadeira.
+4. A instrução else é executada caso todas as condições anteriores tenham sido falsas.
+5. O loop for é utilizado em Python para iterar sobre uma sequência de elementos.
+6. O loop while é utilizado em Python para executar repetidamente um bloco de código enquanto uma condição for verdadeira.
+7. A instrução break é utilizada para interromper a execução de um loop antes que a condição de parada seja alcançada.
+8. A instrução continue é utilizada para interromper a iteração atual de um loop e passar para a próxima iteração.
+9. O controle de fluxo em Python é fundamental para o desenvolvimento de programas condicionais e iterativos eficientes.
+10. O domínio do controle de fluxo em Python é cobrado em provas de concursos públicos que envolvam a linguagem.
+
+5. Subtópico:
+5. Funções em Python: definição, chamada, parâmetros e retorno.
+Assertivas:
+1. A definição de uma função em Python é feita utilizando a palavra-chave "def", seguida pelo nome da função e pelos parâmetros entre parênteses.
+2. A chamada de uma função em Python é feita escrevendo o nome da função seguido por parênteses, contendo os valores dos argumentos, se houver.
+3. Parâmetros em Python podem ser passados para as funções de forma posicional ou através de palavras-chave.
+4. Parâmetros posicionais em Python são especificados na ordem em que a função foi definida.
+5. Parâmetros com palavras-chave em Python permitem especificar apenas alguns argumentos, tornando a chamada da função mais clara e legível.
+6. As funções em Python podem ter ou não um valor de retorno.
+7. O valor de retorno de uma função em Python pode ser especificado utilizando a palavra-chave "return", seguida pelo valor a ser retornado.
+8. Caso uma função não especifique um valor de retorno, ela retornará automaticamente o valor None.
+9. Em Python, é possível retornar múltiplos valores de uma função, que são retornados como uma tupla.
+10. As funções em Python podem ser utilizadas para modularizar o código, tornando-o mais organizado, modular e reutilizável.
+
+6. Subtópico:
+6. Manipulação de strings em Python: indexação, fatiamento (slicing), métodos inerentes a strings.
+Assertivas:
+1) O índice de uma string em Python começa em 0.
+2) A indexação de uma string permite acessar um caractere específico da string usando seu índice.
+3) O fatiamento (slicing) de uma string em Python permite obter uma substring a partir de uma posição inicial e uma posição final.
+4) O fatiamento (slicing) com passo negativo em uma string invertê a ordem dos caracteres.
+5) O método 'len()' em Python retorna o número de caracteres em uma string.
+6) O método 'lower()' em Python converte todos os caracteres de uma string em letras minúsculas.
+7) O método 'upper()' em Python converte todos os caracteres de uma string em letras maiúsculas.
+8) O método 'split()' em Python divide uma string em várias substrings com base em um separador.
+9) O método 'join()' em Python concatena elementos de uma lista em uma única string, separando-os por um delimitador específico.
+10) O método 'strip()' em Python remove os espaços em branco no início e no final de uma string.
+
+7. Subtópico:
+7. Tratamento
+Assertivas:
+1. O tratamento médico é fundamental para a recuperação de diversas doenças.
+2. O tratamento estético pode contribuir para melhorar a autoestima das pessoas.
+3. O tratamento da água é essencial para garantir a sua potabilidade.
+4. O tratamento psicoterapêutico pode auxiliar no processo de superação de traumas e fobias.
+5. O tratamento fisioterapêutico é indicado para reabilitação de lesões musculares.
+6. O tratamento odontológico preventivo contribui para a saúde bucal.
+7. O tratamento quimioterápico é utilizado no combate ao câncer.
+8. O tratamento psiquiátrico pode ser necessário para controlar transtornos mentais.
+9. O tratamento endocrinológico é eficaz para regular distúrbios hormonais.
+10. O tratamento dermatológico é recomendado para cuidar da saúde da pele.
+
+

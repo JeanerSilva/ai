@@ -1,0 +1,115 @@
+Pergunta Original: 12.21 Java- bibliotecas de testes   
+ 
+1. Subtópico:
+1. Conceitos básicos de bibliotecas de testes em Java
+Assertivas:
+1. As bibliotecas de testes em Java são utilizadas para realizar testes automatizados no desenvolvimento de software.
+2. A biblioteca JUnit é uma das mais populares bibliotecas de testes em Java.
+3. As bibliotecas de teste em Java seguem a abordagem de test-driven development (TDD), onde os testes são escritos antes do código ser implementado.
+4. A biblioteca TestNG é uma alternativa ao JUnit para testes em Java, com recursos adicionais, como testes paralelos e dependências de teste.
+5. O framework Mockito é amplamente utilizado para testes de unidade em Java, oferecendo uma sintaxe simples para a criação de mocks.
+6. A biblioteca Hamcrest é uma biblioteca de correspondência usada em conjunto com o JUnit para definir critérios de comparação em testes.
+7. As bibliotecas de teste Java podem ser usadas para testar diferentes tipos de aplicações, como aplicações web, aplicações de desktop e serviços REST.
+8. A biblioteca Cucumber é usada para realizar testes de comportamento em Java, permitindo que os testes sejam escritos em uma linguagem de especificação natural.
+9. As bibliotecas de teste Java oferecem recursos avançados, como testes parametrizados, testes de integração e testes de desempenho.
+10. As bibliotecas de teste em Java são essenciais para garantir a qualidade do software, identificando e corrigindo erros antes que eles impactem os usuários finais.
+
+2. Subtópico:
+2. Uso e aplicação da biblioteca JUnit
+Assertivas:
+1. A biblioteca JUnit é amplamente utilizada para testes unitários em desenvolvimento de software.
+2. O JUnit é uma ferramenta para escrita e execução de testes automatizados em Java.
+3. Com o JUnit, é possível verificar se o comportamento de uma classe está de acordo com o esperado.
+4. A biblioteca JUnit permite a criação de testes para métodos individuais, classes ou conjuntos de classes.
+5. O JUnit facilita a identificação de erros e falhas durante o processo de desenvolvimento.
+6. É possível utilizar o JUnit em projetos de qualquer porte e complexidade.
+7. A biblioteca JUnit oferece recursos para criação de testes parametrizados e teste de exceções.
+8. O JUnit é adequado para implementação de Test Driven Development (TDD) e Behavior Driven Development (BDD).
+9. Com o JUnit, é possível realizar testes utilizando diferentes tipos de asserções.
+10. O JUnit é uma biblioteca de código aberto e gratuita.
+
+3. Subtópico:
+3. Criação e execução de testes unitários com JUnit
+Assertivas:
+1. Os testes unitários são responsáveis por verificar se as unidades de código estão funcionando corretamente.
+2. O JUnit é uma framework amplamente utilizada para a criação e execução de testes unitários em Java.
+3. A criação de testes unitários com JUnit envolve a definição de casos de teste que verifiquem o comportamento esperado das unidades de código.
+4. Os testes unitários com JUnit devem ser independentes e isolados, para que possam ser executados de forma independente uns dos outros.
+5. A execução dos testes unitários com JUnit pode ser feita automaticamente durante o processo de construção (build) do projeto.
+6. Para criar um teste unitário com JUnit, é necessário utilizar a anotação @Test em um método.
+7. O JUnit fornece uma série de assertions (afirmações) que podem ser utilizadas para verificar se os resultados dos testes estão de acordo com o esperado.
+8. É possível agrupar testes unitários em classes ou pacotes, de forma a facilitar a organização e execução dos mesmos.
+9. O JUnit suporta a criação de testes parametrizados, onde é possível executar um mesmo caso de teste com diferentes conjuntos de dados.
+10. A utilização de testes unitários com JUnit contribui para a identificação de erros de forma precoce e para a manutenção do código, permitindo refatorações com mais segurança.
+
+4. Subtópico:
+4. Princípios do Test-Driven Development (TDD) em Java
+Assertivas:
+1. O TDD é uma abordagem de desenvolvimento de software que prioriza a escrita dos testes antes da implementação do código.
+2. O TDD segue o princípio do ciclo "Red-Green-Refactor", em que primeiro escrevemos um teste que falha, depois implementamos o código necessário para que o teste passe e, por fim, refatoramos o código.
+3. O TDD visa a melhoria da qualidade e da manutenibilidade do código, uma vez que garante que todas as funcionalidades são testadas de forma automática e contínua.
+4. No TDD, o foco está na escrita de testes automatizados, os quais devem ser rápidos, independentes e confiáveis.
+5. Os testes escritos no TDD devem ser executados com frequência, preferencialmente a cada alteração no código, para garantir que todas as funcionalidades continuem funcionando corretamente.
+6. No TDD, é encorajado o uso de ferramentas de automação de testes, como frameworks de assertivas e de simulação de objetos, para facilitar o processo de teste.
+7. O TDD promove a criação de um código mais modular e coeso, uma vez que os testes são escritos individualmente para cada pedaço de funcionalidade.
+8. No TDD, é comum a prática da refatoração contínua do código, garantindo que o mesmo esteja sempre limpo e legível.
+9. O TDD estimula o desenvolvedor a pensar nas funcionalidades do código antes mesmo de começar a sua implementação, melhorando a concepção do software.
+10. O TDD é uma prática amplamente utilizada no desenvolvimento de software em Java e tem como objetivo principal a entrega de um produto de alta qualidade.
+
+5. Subtópico:
+5. Utilização da biblioteca Mockito para mockar objetos em testes unitários
+Assertivas:
+1. A biblioteca Mockito é uma ferramenta amplamente utilizada para a criação de objetos mock em testes unitários.
+2. A utilização de objetos mock com o Mockito auxilia no isolamento de dependências externas durante a execução dos testes.
+3. O Mockito permite que sejam definidos comportamentos específicos para os objetos mockados, facilitando a simulação de cenários diversos.
+4. Com o Mockito, é possível verificar se determinados métodos foram chamados em objetos mockados durante os testes.
+5. A biblioteca Mockito oferece recursos para verificar a ordem de chamada dos métodos em objetos mockados.
+6. Utilizando o Mockito, é possível fazer a verificação de parâmetros de entrada dos métodos em objetos mockados.
+7. O Mockito suporta a criação de objetos mock para interfaces, classes concretas e até mesmo objetos com construtores privados.
+8. O uso do Mockito não exige grandes modificações no código dos testes unitários, facilitando a sua adoção em projetos já existentes.
+9. A biblioteca Mockito permite a criação de stubs temporários para testes específicos, sem a necessidade de alterações permanentes no código.
+10. O Mockito é uma ferramenta de código aberto, amplamente documentada e com uma vasta comunidade de apoio, facilitando o suporte e a resolução de problemas.
+
+6. Subtópico:
+6. Aplicação da biblioteca PowerMock para teste de métodos estáticos, privados e construtores 
+Assertivas:
+1. A biblioteca PowerMock é utilizada principalmente para testar métodos estáticos, privados e construtores em aplicações Java.
+2. O PowerMock permite a criação de testes unitários robustos que envolvem métodos estáticos, privados e construtores.
+3. O PowerMock é uma extensão do framework de testes Mockito, possibilitando a combinação das funcionalidades dos dois para testes abrangentes.
+4. Com o PowerMock, é possível simular interações com métodos estáticos, privados e construtores, facilitando a escrita de testes mais completos.
+5. A aplicação do PowerMock requer a adição e configuração de dependências específicas em projetos Java.
+6. O uso indiscriminado do PowerMock pode dificultar a manutenção dos testes, tornando-os mais complexos e suscetíveis a quebras.
+7. Apesar de ser útil em alguns casos, o PowerMock deve ser aplicado com cautela, priorizando o uso de técnicas de testabilidade mais simples e diretas.
+8. A utilização do PowerMock pode exigir modificações no código testado, como a criação de métodos getters/setters para acessar métodos privados ou a extração de métodos estáticos para classes separadas.
+9. É importante estar atento às limitações do PowerMock, como sua incapacidade de simular construtores de certas bibliotecas ou frameworks externos.
+10. O PowerMock é uma ferramenta de testes poderosa, porém, sua utilização deve ser avaliada caso a caso, levando em consideração as peculiaridades de cada projeto.
+
+7. Subtópico:
+7. Integração contínua com Jenkins: configuração e execução de testes automatizados 
+Assertivas:
+1. A integração contínua com Jenkins é uma metodologia de desenvolvimento de software que permite a configuração e execução automatizada de testes.
+2. A utilização do Jenkins na integração contínua facilita a identificação de falhas e erros no código do software de forma ágil e automatizada.
+3. A configuração do Jenkins para integração contínua envolve a criação de pipelines, que são responsáveis por orquestrar a execução dos testes automatizados.
+4. Os testes automatizados na integração contínua podem ser implementados utilizando diferentes tipos de ferramentas e frameworks, como JUnit, Selenium e Cucumber.
+5. Ao configurar um pipeline no Jenkins, é possível definir diferentes estágios de teste, como teste unitário, teste de integração e teste de aceitação.
+6. A integração contínua com Jenkins permite a execução automatizada de testes em diferentes ambientes, como ambientes de desenvolvimento, homologação e produção.
+7. A integração contínua com Jenkins contribui para a melhoria da qualidade do software, uma vez que os testes são executados de forma regular e automática.
+8. A utilização do Jenkins como ferramenta de integração contínua possibilita a geração de relatórios detalhados sobre a execução dos testes, facilitando a análise dos resultados.
+9. O Jenkins também pode ser configurado para enviar notificações automáticas por e-mail ou outras formas de comunicação, informando sobre o resultado dos testes.
+10. A integração contínua com Jenkins é uma prática altamente recomendada no desenvolvimento ágil de software, pois acelera o processo de detecção e correção de erros.
+
+8. Subtópico:
+8. Uso do framework TestNG para suporte a múltiplos tipos de test
+Assertivas:
+1. O framework TestNG é uma ferramenta utilizada para a execução de testes em projetos de software.
+2. O TestNG permite a criação de testes unitários, de integração e de aceitação.
+3. O TestNG suporta a escrita de testes em diferentes linguagens de programação, como Java, C# e Python.
+4. O uso do TestNG permite a execução de testes de forma paralela, melhorando a eficiência e reduzindo o tempo total de execução.
+5. O framework TestNG possui funcionalidades avançadas para agrupamento e organização dos testes, facilitando a sua manutenção e gerenciamento.
+6. Com o TestNG, é possível realizar a configuração de pré-requisitos e pós-requisitos para cada teste de forma simples e intuitiva.
+7. O TestNG fornece integração com outras ferramentas de automação e teste, como o Selenium WebDriver e o JUnit.
+8. O TestNG oferece recursos de relatórios detalhados e de fácil entendimento, auxiliando na identificação e correção de problemas.
+9. Com o TestNG, é possível realizar testes parametrizados, onde é possível executar o mesmo teste várias vezes com diferentes conjuntos de dados.
+10. O framework TestNG é amplamente utilizado na indústria de desenvolvimento de software e possui uma comunidade ativa de apoio e suporte.
+
+

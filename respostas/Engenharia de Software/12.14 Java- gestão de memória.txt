@@ -1,0 +1,140 @@
+Pergunta Original: 12.14 Java- gestão de memória   
+ 
+1. Subtópico:
+1. Conceitos básicos de gestão de memória em Java
+Assertivas:
+1. O gerenciamento de memória em Java é responsabilidade da máquina virtual Java (JVM).
+2. Em Java, a alocação de memória para objetos é feita no heap.
+3. O heap em Java é uma área de memória compartilhada por todos os threads em execução.
+4. Em Java, a liberação de memória não é feita manualmente; é realizada automaticamente pelo coletor de lixo (Garbage Collector).
+5. O Garbage Collector em Java identifica e remove objetos que não são mais referenciados por nenhum thread em execução.
+6. Na gestão de memória em Java, o programador não precisa se preocupar com a desalocação de objetos.
+7. A memória disponível para a pilha de execução do programa em Java é pré-alocada e limitada.
+8. Em Java, a pilha de execução armazena informações sobre a execução de métodos, como parâmetros, variáveis locais e endereços de retorno.
+9. Cada thread em execução em uma aplicação Java possui sua própria pilha.
+10. A gestão eficiente de memória em Java contribui para o desempenho e a estabilidade de uma aplicação.
+
+2. Subtópico:
+2. Funcionamento do Garbage Collector em Java
+Assertivas:
+1. O Garbage Collector em Java é responsável pela identificação e liberação da memória ocupada por objetos não utilizados.
+2. O Garbage Collector em Java funciona de forma automática e transparente para o programador.
+3. O Garbage Collector em Java executa suas operações de limpeza em background, durante a execução do programa.
+4. O Garbage Collector em Java utiliza o algoritmo "mark-and-sweep" para identificar e liberar os objetos não referenciados.
+5. O Garbage Collector em Java realiza a compactação da memória após a coleta, de forma a otimizar o espaço disponível.
+6. Em Java, o programador não tem controle direto sobre o momento exato em que o Garbage Collector será executado.
+7. O Garbage Collector em Java pode ser configurado por meio de parâmetros de linha de comando, afetando suas políticas e comportamento.
+8. O Garbage Collector em Java possui diferentes implementações, como o generacional, o concurrent e o G1.
+9. O Garbage Collector em Java pode impactar o desempenho do programa, especialmente em casos de grandes volumes de objetos.
+10. O Garbage Collector em Java é uma das principais características da linguagem que proporcionam o gerenciamento automático de memória.
+
+3. Subtópico:
+3. Diferença entre Stack e Heap na memória Java
+Assertivas:
+1) A Stack é uma área de memória utilizada para armazenar variáveis locais e métodos em execução, enquanto o Heap é utilizado para alocar objetos em tempo de execução.
+
+2) O espaço alocado na Stack é limitado e definido durante a compilação, enquanto o Heap pode crescer e diminuir dinamicamente durante a execução do programa.
+
+3) A Stack opera de forma eficiente e tem um tempo de acesso rápido, visto que aloca espaço para as variáveis de forma contígua, enquanto o Heap pode ser fragmentado, o que pode afetar o desempenho.
+
+4) Variáveis e objetos criados na Stack são automaticamente liberados quando o seu escopo é encerrado, enquanto no Heap é necessário o uso de um coletor de lixo (garbage collector) para liberar a memória.
+
+5) O tamanho máximo do Heap pode ser configurado pelo parâmetro -Xmx no momento da execução do programa, permitindo um maior controle sobre a memória disponível.
+
+6) A Stack é uma estrutura de dados do tipo LIFO (Last In, First Out), onde as variáveis mais recentes são alocadas no topo, enquanto o Heap é uma estrutura de dados dinâmica.
+
+7) Objetos alocados na Stack têm um tempo de vida curto, existindo apenas dentro do escopo de um método, enquanto objetos alocados no Heap podem existir durante a execução de toda a aplicação.
+
+8) A alocação de espaço na Stack é mais rápida do que no Heap, visto que não é necessário utilizar métodos específicos para alocar e desalocar memória.
+
+9) A Stack é compartilhada entre threads, cada uma delas possuindo sua própria área na Stack, enquanto o Heap é compartilhado entre todas as threads da aplicação.
+
+10) Variáveis primitivas, como int e boolean, são alocadas na Stack, enquanto objetos e arrays são alocados no Heap em Java.
+
+4. Subtópico:
+4. Gerenciamento de memória na JVM (Java Virtual Machine)
+Assertivas:
+1. A JVM gerencia a memória de forma automática e transparente para o desenvolvedor.
+2. O Gerenciamento de Memória da JVM é responsável pela alocação e desalocação de objetos.
+3. A JVM utiliza o coletor de lixo (garbage collector) para remover objetos não utilizados da memória.
+4. O Gerenciamento de Memória da JVM é baseado no conceito de marcação e varredura.
+5. A JVM possui diferentes regiões de memória, como o heap e a pilha de execução.
+6. O heap na JVM é usado para armazenar objetos dinamicamente alocados.
+7. A pilha de execução na JVM é usada para armazenar dados relacionados a cada método em execução.
+8. A JVM realiza a compactação automática do heap para evitar fragmentação.
+9. A JVM utiliza referências para rastrear objetos na memória e identificar quais objetos estão em uso.
+10. O Gerenciamento de Memória da JVM permite que a aplicação utilize mais memória do que realmente possui, através do uso de memória virtual.
+
+5. Subtópico:
+5. Técnicas de otimização da gestão de memória em Java
+Assertivas:
+1. A alocação de memória em Java é feita de forma automática e dinâmica, não sendo necessário gerenciar manualmente a memória alocada para objetos.
+2. A coleta de lixo em Java é realizada pelo Garbage Collector, o qual identifica e libera automaticamente a memória ocupada por objetos não referenciados.
+3. Para otimização da gestão de memória em Java, é recomendado utilizar o princípio da alocação tardia, evitando a criação desnecessária de objetos.
+4. A utilização adequada de tipos primitivos em vez de objetos pode contribuir para a economia de memória em Java.
+5. A utilização de enumeradores no lugar de constantes pode ajudar na otimização da gestão de memória em Java, uma vez que os enums são mais eficientes em termos de consumo de memória.
+
+6. A utilização de estruturas de dados de baixo nível como arrays em vez de listas encadeadas pode otimizar o uso de memória em Java.
+7. A técnica de cache otimizado, que consiste em armazenar temporariamente objetos utilizados com frequência em memória cache, pode melhorar o desempenho e economizar memória em Java.
+8. Evitar o uso excessivo de strings mutáveis pode contribuir para minimizar o consumo de memória em Java.
+9. A correta utilização de métodos finalizadores pode ajudar na otimização da gestão de memória em Java, permitindo que recursos sejam liberados adequadamente.
+10. É recomendado evitar o uso de excesso de variáveis locais e objetos temporários para evitar desperdício de memória em Java.
+
+6. Subtópico:
+6. Entendimento e manipulação dos tipos primitivos e referências na memória 
+Assertivas:
+1. O entendimento dos tipos primitivos na memória é fundamental para a programação eficiente.
+2. As referências na memória podem ser utilizadas para manipular objetos complexos de forma eficiente.
+3. O conhecimento dos tipos primitivos e referências na memória é essencial para realizar operações matemáticas e lógicas.
+4. A manipulação correta dos tipos primitivos evita erros de compilação e execução no desenvolvimento de programas.
+5. As referências na memória são utilizadas para criar estruturas de dados mais elaboradas em linguagens de programação.
+6. O entendimento das características dos tipos primitivos e referências na memória facilita a depuração de problemas em programas.
+7. A manipulação adequada dos tipos primitivos e referências na memória é importante para otimizar o consumo de recursos computacionais.
+8. O conhecimento dos tipos primitivos e referências na memória é essencial para realizar operações de entrada e saída de dados.
+9. A compreensão dos tipos primitivos e referências na memória é necessário para lidar com a alocação e desalocação de recursos em um programa.
+10. A manipulação correta dos tipos primitivos e referências na memória contribui para o desenvolvimento de software mais robusto e seguro.
+
+7. Subtópico:
+7. Uso eficiente da memória com estruturas de dados em Java
+Assertivas:
+1. O uso eficiente da memória com estruturas de dados em Java é crucial para o desempenho e a otimização de aplicações.
+2. A escolha da estrutura de dados correta pode contribuir para a minimização do consumo de memória no desenvolvimento de programas em Java.
+3. A utilização de estruturas de dados como listas encadeadas ou árvores pode permitir uma melhor utilização da memória em Java.
+4. É possível minimizar a alocação desnecessária de memória utilizando técnicas como o reuso de objetos em Java.
+5. O uso de referências no lugar de cópias de objetos ajuda a economizar memória em programas Java.
+6. A compactação da memória é uma técnica que pode ser aplicada para otimizar o espaço utilizado pelas estruturas de dados em Java.
+7. A reorganização dos elementos dentro de uma estrutura de dados pode contribuir para a melhor utilização da memória em um programa Java.
+8. A alocação estática de memória é preferível à alocação dinâmica em situações em que o tamanho das estruturas de dados é fixo em um programa Java.
+9. A utilização de iteradores ou iteráveis permite percorrer uma estrutura de dados evitando a alocação adicional de memória em Java.
+10. É importante considerar o consumo de memória ao utilizar estruturas de dados em Java, principalmente em situações de restrição de recursos.
+
+8. Subtópico:
+8. Análise e solução para problemas comuns relacionados à gestão de memória, como vazamentos (leaks)
+Assertivas:
+1. A análise e solução de vazamentos de memória são problemas comuns na gestão de memória.
+2. Os vazamentos de memória ocorrem quando um programa alocou memória, mas não a liberou corretamente após não mais ser necessária.
+3. A detecção de vazamentos de memória requer a utilização de ferramentas de análise especializadas, como analisadores de memória e profilers.
+4. Uma solução para prevenir vazamentos de memória é garantir que todos os recursos alocados dinamicamente sejam liberados quando não forem mais necessários.
+5. O uso adequado de funções e técnicas de gerenciamento de memória, como malloc/free e new/delete, é essencial para evitar vazamentos de memória.
+6. Outra solução para lidar com vazamentos de memória é o uso de coleta de lixo automatizada, que gerencia automaticamente a liberação de memória não utilizada.
+7. É importante realizar testes e análises periodicamente para identificar e corrigir vazamentos de memória em tempo hábil.
+8. O monitoramento contínuo do consumo de memória em um programa é fundamental para identificar a existência de vazamentos.
+9. A correta identificação e solução de vazamentos de memória contribui para melhorar o desempenho e a estabilidade de um sistema.
+10. A gestão adequada de memória, incluindo a solução de vazamentos, é uma habilidade essencial para profissionais de desenvolvimento de software.
+
+9. Subtópico:
+9. Ferramentas para monitoramento da utiliz
+Assertivas:
+ação de energia elétrica em uma residência:
+
+1. A utilização de um medidor de energia elétrica é uma das ferramentas mais comuns para o monitoramento da utilização de energia em uma residência.
+2. O uso de um dispositivo de monitoramento em tempo real, conectado à rede elétrica da residência, permite acompanhar o consumo de energia em tempo real.
+3. Os dispositivos de monitoramento de energia geralmente podem ser instalados facilmente, sem a necessidade de intervenções na rede elétrica da residência.
+4. O monitoramento de energia elétrica em uma residência pode ser feito através de aplicativos de celular compatíveis com dispositivos de medição específicos.
+5. Com o auxílio de um software de monitoramento, é possível obter informações detalhadas sobre o consumo de energia em diferentes períodos, como diário, semanal ou mensal.
+6. Alguns dispositivos de monitoramento permitem estabelecer metas de consumo de energia e enviar notificações caso elas sejam ultrapassadas.
+7. Utilizar um monitor de energia elétrica ajuda a identificar equipamentos ou aparelhos que estão consumindo mais energia do que o esperado.
+8. A utilização de sensores de movimento ou sensores de presença em conjunto com o monitoramento de energia elétrica pode contribuir para um uso mais eficiente da energia na residência.
+9. É possível obter relatórios detalhados sobre o consumo de energia em uma residência através do uso de medidores inteligentes conectados à internet.
+
+

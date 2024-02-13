@@ -1,0 +1,152 @@
+Pergunta Original: 12.20 Python- testes   
+ 
+1. Subtópico:
+1. Conceitos básicos de Python e sua aplicação em testes
+Assertivas:
+1. Python é uma linguagem de programação de alto nível amplamente utilizada para desenvolvimento de testes automatizados.
+2. A sintaxe de Python é fácil de ler e escrever, tornando-a uma ótima opção para iniciantes em programação de testes.
+3. A biblioteca padrão do Python oferece um conjunto abrangente de módulos e classes que podem ser usados para escrever testes eficientes.
+4. A estrutura de controle de fluxo em Python permite a criação de lógica condicional e iterativa para realizar diferentes verificações de teste.
+5. A flexibilidade de Python permite integrar facilmente módulos de teste com frameworks populares, como o Selenium, para realizar testes funcionais de aplicações web.
+6. Python oferece suporte nativo para testes unitários com a biblioteca de teste incorporada, chamada de "unittest".
+7. Através do uso de decorators, como "@pytest.fixture", é possível criar e gerenciar facilmente dados de teste em Python.
+8. A abstração de classes em Python permite a criação de hierarquias de testes e a reutilização de código em diferentes cenários de teste.
+9. É possível criar testes parametrizados em Python usando bibliotecas como PyTest, permitindo testar diferentes combinações de dados de entrada automaticamente.
+10. Graças ao suporte da comunidade Python, é possível encontrar uma grande quantidade de recursos e tutoriais online para aprender e aprimorar habilidades de teste com Python.
+
+2. Subtópico:
+2. Estrutura de um script de teste em Python
+Assertivas:
+1. A estrutura básica de um script de teste em Python inclui a importação do módulo unittest.
+2. Um script de teste em Python é composto por classes de teste que herdam da classe TestCase do módulo unittest.
+3. Cada classe de teste em Python deve conter métodos que iniciam com a palavra "test" para a identificação dos casos de teste.
+4. Os métodos de teste em Python podem conter asserções, que são declarações que verificam se um determinado comportamento está de acordo com o esperado.
+5. O módulo unittest oferece uma variedade de métodos de asserção em Python, como assertEqual, assertTrue, assertFalse, assertRaises, entre outros.
+6. A execução de um script de teste em Python pode ser feita por meio do comando "python -m unittest nome_do_script.py" no terminal.
+7. No módulo unittest, é possível agrupar classes de teste em suítes de teste para uma execução mais organizada.
+8. Os resultados dos testes executados por um script em Python podem ser visualizados tanto no terminal como em formatos de relatório, como HTML ou XML.
+9. A estrutura de setup e teardown, presente no módulo unittest, permite a execução de ações específicas antes e depois de cada caso de teste, proporcionando um ambiente controlado.
+10. É possível executar um script de teste em Python a partir de uma IDE ou de ferramentas de integração contínua, como Jenkins ou Travis CI.
+
+3. Subtópico:
+3. Bibliotecas de teste em Python: unittest, pytest, doctest
+Assertivas:
+1. A biblioteca unittest é a biblioteca de teste padrão do Python, que permite a criação de testes unitários de forma estruturada.
+2. O pytest é uma biblioteca de teste em Python que oferece uma sintaxe simplificada e recursos adicionais em comparação com o unittest.
+3. O doctest é uma biblioteca que permite a criação de testes a partir de exemplos de código presentes na documentação de um módulo.
+4. Tanto o unittest quanto o pytest suportam a execução de testes em paralelo, permitindo uma maior eficiência no processo de teste.
+5. A biblioteca unittest oferece recursos como a criação de casos de teste, a definição de suítes de teste e a execução de testes em massa.
+6. O pytest permite a declaração de testes simplesmente através de funções, sem a necessidade de classes e métodos específicos.
+7. O doctest é especialmente útil para verificar se os exemplos de código em um módulo estão atualizados e funcionais.
+8. Tanto o unittest quanto o pytest permitem a configuração de hooks, que são funções executadas antes ou após a execução dos testes.
+9. A biblioteca unittest também oferece recursos para testes de regressão e testes de cobertura de código.
+10. Tanto o pytest quanto o doctest suportam a execução de testes a partir do terminal, facilitando a sua integração com ferramentas de automação de testes.
+
+4. Subtópico:
+4. Criação e execução de testes unitários em Python
+Assertivas:
+1. Os testes unitários em Python são utilizados para verificar a corretude do código em nível de unidades isoladas.
+2. Os testes unitários em Python são implementados utilizando-se frameworks como o unittest ou pytest.
+3. A criação de testes unitários em Python envolve o desenvolvimento de casos de teste que cobrem diferentes cenários possíveis.
+4. A execução dos testes unitários em Python é feita através da execução do arquivo contendo os casos de teste.
+5. O objetivo dos testes unitários em Python é garantir que cada unidade de código funcione adequadamente de maneira independente.
+6. Os testes unitários em Python podem ser utilizados para identificar e corrigir eventuais erros antes que o código seja integrado a outras partes do sistema.
+7. A criação de testes unitários em Python é uma prática recomendada para promover a qualidade e a confiabilidade do código.
+8. Ao executar os testes unitários em Python, é possível identificar falhas no comportamento das unidades, facilitando a sua correção.
+9. Os testes unitários em Python podem ser automatizados, o que permite a execução rápida e frequente durante o processo de desenvolvimento.
+10. A execução regular dos testes unitários em Python ajuda a evitar a introdução de regressões e facilita a detecção de problemas em versões futuras.
+
+5. Subtópico:
+5. Testes automatizados com Selenium e Python 
+Assertivas:
+1. Selenium é uma ferramenta de automação de testes amplamente utilizada no mercado de desenvolvimento de software.
+2. Python é uma linguagem de programação comumente utilizada para escrever testes automatizados com Selenium.
+3. Testes automatizados com Selenium e Python podem ser executados em diferentes navegadores, como Chrome, Firefox e Internet Explorer.
+4. A execução de testes automatizados com Selenium e Python permite verificar se um determinado sistema web está operando corretamente.
+5. Em testes automatizados com Selenium e Python, é possível simular interações do usuário com a aplicação, como clicar em botões, preencher campos de formulários e navegar entre páginas.
+6. Selenium possui uma extensa biblioteca em Python, oferecendo diversas funcionalidades para criar testes automatizados completos e robustos.
+7. Ao utilizar Selenium e Python para testes automatizados, é possível verificar se elementos de uma página estão presentes, visíveis, habilitados e contêm os valores esperados.
+8. Com a integração do Selenium e Python, é possível executar testes automatizados tanto localmente quanto em ambientes de integração contínua.
+9. A criação de testes automatizados com Selenium e Python pode reduzir consideravelmente o tempo necessário para realizar testes manuais.
+10. Testes automatizados com Selenium e Python proporcionam maior confiabilidade e reprodutibilidade nos testes executados, garantindo resultados consistentes ao longo do tempo.
+
+6. Subtópico:
+6. Mocking e patching no contexto dos testes em Python 
+Assertivas:
+1. Mocking e patching são técnicas utilizadas nos testes em Python para simular o comportamento de objetos e funções de maneira controlada.
+
+2. Mocking consiste em substituir componentes reais por objetos falsos, conhecidos como mock objects, a fim de isolar o código a ser testado de suas dependências externas.
+
+3. O patching é um tipo de mocking que permite substituir temporariamente o comportamento de um objeto ou função específica durante a execução dos testes.
+
+4. O propósito do mocking e patching é aumentar a confiabilidade dos testes isolando as dependências externas e garantindo resultados determinísticos.
+
+5. Em Python, o pacote unittest.mock disponibiliza ferramentas e classes para facilitar a implementação de mocking e patching em testes unitários.
+
+6. As técnicas de mocking e patching são especialmente úteis quando se deseja testar código que interage com recursos externos, como bancos de dados, APIs ou serviços web.
+
+7. Ao usar o mocking, é possível simular o retorno de uma função específica, controlar exceções lançadas ou monitorar o acesso a uma propriedade, por exemplo.
+
+8. Com o patching, é possível substituir uma função ou método por uma implementação alternativa, seja ela mockada ou não, sem alterar diretamente o código principal.
+
+9. O uso excessivo de mocking e patching pode tornar os testes complexos e difíceis de manter, por isso é importante balancear seu uso com testes que verifiquem o comportamento real do código.
+
+10. Mocking e patching são técnicas poderosas para testes em Python, mas é necessário ter cuidado para não comprometer a validade dos testes, garantindo que eles continuem representando fielmente o comportamento do código em produção.
+
+7. Subtópico:
+7. TDD (Test Driven Development) com Python 
+Assertivas:
+1. O TDD é uma abordagem de desenvolvimento de software que preconiza a criação de testes automatizados antes da implementação do código.
+2. O TDD é baseado no ciclo de desenvolvimento Red-Green-Refactor, onde os testes falham inicialmente, são implementadas as funcionalidades e, por fim, o código é aprimorado.
+3. O objetivo do TDD é garantir que cada parte do código seja testada exaustivamente e que as funcionalidades sejam implementadas de forma correta.
+4. O Python é uma linguagem de programação que suporta o uso do TDD, proporcionando diversas bibliotecas e frameworks para auxiliar na escrita de testes automatizados.
+5. As asserções (assertions) são fundamentais no TDD com Python, pois permitem verificar se os resultados esperados estão sendo alcançados.
+6. O desenvolvimento orientado a testes traz benefícios como a melhoria da qualidade de código, a detecção precoce de bugs e a agilidade no desenvolvimento.
+7. O TDD com Python pode ser utilizado tanto em projetos pequenos como em grandes sistemas, adaptando-se facilmente aos diferentes contextos.
+8. O teste unitário é a base do TDD com Python, permitindo testar unidades isoladas de código, como funções, métodos e classes.
+9. O PyTest é um framework popular para testes unitários em Python, fornecendo funcionalidades avançadas e uma sintaxe clara e concisa.
+10. A prática do TDD com Python requer disciplina e comprometimento, mas traz ganhos significativos em termos de confiabilidade e manutenção do código.
+
+8. Subtópico:
+8. BDD (Behavior Driven Development) com Behave em Python 
+Assertivas:
+1. O BDD (Behavior Driven Development) é uma abordagem de desenvolvimento de software que foca na colaboração entre desenvolvedores, analistas e stakeholders.
+2. O Behave é um framework de testes BDD em Python que permite o desenvolvimento de testes executáveis em linguagem natural.
+3. Com o Behave, é possível escrever cenários de teste utilizando a linguagem Gherkin, que é fácil de ser compreendida por pessoas que não são desenvolvedoras.
+4. O Behave suporta a execução de testes em paralelo, o que possibilita uma maior eficiência na execução dos cenários de teste.
+5. O Behave possui uma integração direta com outras ferramentas de testes, como o Selenium, o que facilita o teste de aplicações web.
+6. Com o Behave, é possível utilizar tags para organizar e filtrar os cenários de teste, permitindo uma maior flexibilidade na execução dos testes.
+7. O Behave permite a geração de relatórios detalhados sobre a execução dos testes, facilitando a identificação e análise de possíveis problemas.
+8. O uso do Behave em conjunto com o BDD ajuda a garantir que o desenvolvimento de software seja guiado pelos requisitos do cliente, resultando em um software mais aderente às necessidades do usuário.
+9. O Behave facilita a comunicação entre desenvolvedores e stakeholders, pois permite a escrita de cenários de teste em uma linguagem compreensível por todos.
+10. O Behave incentiva a escrita de testes antes mesmo do desenvolvimento de código, o que contribui para o desenvolvimento de software mais robusto e confiável.
+
+9. Subtópico:
+9. Cobertura de código e relatórios usando Coverage.py
+Assertivas:
+1. A Coverage.py é uma ferramenta amplamente utilizada para fazer a análise da cobertura de código em projetos de programação.
+2. A cobertura de código é uma métrica importante para avaliar a efetividade dos testes unitários em um projeto.
+3. A Coverage.py permite identificar quais partes do código foram executadas durante a execução dos casos de teste.
+4. Com a utilização da Coverage.py, é possível gerar relatórios detalhados sobre a cobertura de código do projeto.
+5. Os relatórios gerados pela Coverage.py podem ser úteis para identificar possíveis lacunas nos testes unitários.
+6. A cobertura de código também auxilia na identificação de código morto, ou seja, partes do código que não são utilizadas.
+7. A ferramenta Coverage.py suporta diferentes linguagens de programação, como Python, Java e C++.
+8. A cobertura de código pode ser mensurada em diferentes níveis, como a cobertura de linha, cobertura de ramo e cobertura de caminho.
+9. A utilização da Coverage.py requer a instrumentação do código, ou seja, a realização de modificações no código fonte para que a ferramenta possa analisá-lo.
+10. A Coverage.py é uma ferramenta de código aberto, permitindo a contribuição da comunidade de programadores para o seu aprimoramento constante.
+
+10. Subtópico:
+10. Integração contínua/CD (Continuous Deployment) para testes automatizados com
+Assertivas:
+1. A integração contínua é uma prática que consiste em realizar testes automatizados de forma contínua e frequente ao longo do ciclo de desenvolvimento de software.
+2. A integração contínua permite identificar rapidamente problemas de compatibilidade entre diferentes componentes de um sistema.
+3. A integração contínua contribui para a detecção precoce de bugs, permitindo sua correção imediata antes que causem impactos maiores.
+4. A integração contínua agiliza o processo de desenvolvimento, pois reduz a necessidade de esperar a conclusão de todas as etapas para iniciar os testes.
+5. A integração contínua exige o uso de ferramentas de automação de testes para garantir a eficiência e a precisão dos resultados.
+6. A integração contínua permite a construção de um pipeline de testes automatizados, que inclui desde a compilação do código fonte até a execução dos testes.
+7. A prática de integração contínua é fundamental em metodologias ágeis de desenvolvimento de software, como o Scrum.
+8. A integração contínua pode ser realizada por meio de diversas ferramentas, como Jenkins, Bamboo e TravisCI.
+9. A adoção da integração contínua facilita a colaboração entre os membros de uma equipe de desenvolvimento, pois permite a rápida identificação e resolução de conflitos.
+10. A integração contínua contribui para a melhoria da qualidade do software, uma vez que possibilita a realização de um maior número de testes automatizados de forma consistente e confiável.
+
+

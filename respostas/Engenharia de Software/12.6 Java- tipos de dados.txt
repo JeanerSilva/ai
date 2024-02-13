@@ -1,0 +1,131 @@
+Pergunta Original: 12.6 Java- tipos de dados   
+ 
+1. Subtópico:
+1. Definição e classificação dos tipos de dados em Java
+Assertivas:
+1. Em Java, os tipos de dados primitivos são classificados em oito categorias distintas: byte, short, int, long, float, double, char e boolean.
+2. O tipo de dado primitivo byte em Java possui tamanho de 8 bits e pode armazenar valores inteiros na faixa de -128 a 127.
+3. O tipo de dado primitivo int em Java possui tamanho de 32 bits e pode armazenar valores inteiros na faixa de -2.147.483.648 a 2.147.483.647.
+4. O tipo de dado primitivo char em Java é utilizado para armazenar caracteres Unicode e possui tamanho de 16 bits.
+5. O tipo de dado primitivo boolean em Java é utilizado para armazenar valores de verdadeiro (true) ou falso (false) e ocupa 1 bit de memória.
+6. Os tipos de dados primitivos em Java são passados por valor, ou seja, a manipulação de uma variável não afeta diretamente a outra.
+7. Java também possui tipos de dados não primitivos, conhecidos como tipos de referência, que são definidos por classes e interfaces.
+8. Strings em Java são consideradas tipos de referência, mesmo sendo utilizadas como tipos de dados para representar sequências de caracteres.
+9. Os tipos de dados em Java podem ser convertidos de forma implícita, quando não há perda de informações, ou de forma explícita através de casting.
+10. A classe Wrapper em Java permite encapsular tipos primitivos em objetos, facilitando, por exemplo, operações de conversão e manipulação de valores.
+
+2. Subtópico:
+2. Tipos de dados primitivos: int, char, boolean, float, double, long, short e byte
+Assertivas:
+1. O tipo de dado primitivo "int" é utilizado para representar números inteiros.
+2. O tipo de dado primitivo "char" é utilizado para representar caracteres individuais.
+3. O tipo de dado primitivo "boolean" é utilizado para representar valores lógicos, sendo verdadeiro (true) ou falso (false).
+4. O tipo de dado primitivo "float" é utilizado para representar números de ponto flutuante com precisão simples.
+5. O tipo de dado primitivo "double" é utilizado para representar números de ponto flutuante com precisão dupla.
+6. O tipo de dado primitivo "long" é utilizado para representar números inteiros longos.
+7. O tipo de dado primitivo "short" é utilizado para representar números inteiros curtos.
+8. O tipo de dado primitivo "byte" é utilizado para representar números inteiros pequenos.
+9. Todos os tipos de dados primitivos mencionados possuem tamanho fixo de armazenamento na memória.
+10. Os tipos de dados primitivos são fundamentais para a declaração e manipulação de variáveis em linguagens de programação.
+
+3. Subtópico:
+3. Tipos de dados não-primitivos ou referência: classes (String), interfaces e arrays
+Assertivas:
+1. As classes em Java, como a classe String, são tipos de dados não-primitivos que representam objetos e possuem métodos e propriedades.
+2. As interfaces em Java são tipos de dados não-primitivos que definem contratos para implementação de classes. Elas podem conter apenas métodos abstratos e constantes.
+3. Os arrays em Java são tipos de dados não-primitivos que armazenam elementos de um determinado tipo em uma estrutura indexada e contígua na memória.
+4. A classe String em Java é imutável, ou seja, seus valores não podem ser alterados após a criação do objeto.
+5. As interfaces em Java podem ser implementadas por várias classes, permitindo a definição de comportamentos e métodos comuns em diferentes contextos.
+6. Os arrays em Java podem ter dimensões múltiplas, permitindo a criação de estruturas de dados mais complexas, como matrizes e listas.
+7. A classe String em Java possui diversos métodos que permitem a manipulação de strings, como concatenação, busca de caracteres e extração de substrings.
+8. As interfaces em Java podem ser utilizadas como um tipo de dados para permitir a polimorfismo, ou seja, a utilização de diferentes implementações da mesma interface em um mesmo contexto.
+9. Os arrays em Java possuem métodos que ajudam na manipulação dos elementos, como ordenação, busca e cópia.
+10. A classe String em Java possui métodos para transformação de case (maiúsculas e minúsculas), remoção de espaços em branco e formatação de strings.
+
+4. Subtópico:
+4. Conversão entre tipos de dados: casting implícito e explícito
+Assertivas:
+1. O casting implícito ocorre quando há uma conversão de tipo de dados de forma automática e segura.
+2. O casting explícito requer a utilização do operador de casting para converter explicitamente um tipo de dado em outro.
+3. O casting implícito é normalmente utilizado quando não há perda de informação na conversão.
+4. O casting explícito é necessário quando há possibilidade de perda de informação na conversão.
+5. O casting implícito é comum em situações em que um tipo de dado de menor capacidade é atribuído a uma variável de maior capacidade.
+6. O casting explícito é utilizado quando é necessário converter um tipo de dado de maior capacidade para um de menor capacidade.
+7. O casting implícito pode ocorrer entre tipos numéricos, como inteiros e reais.
+8. O casting explícito é comumente adequado para situações em que se precisa arredondar um valor decimal para um número inteiro.
+9. O casting explícito entre um tipo de dado numérico e um tipo de dado não numérico resulta na perda de informação.
+10. É importante ter cuidado ao fazer um casting explícito para evitar erros de compilação ou comportamentos inesperados.
+
+5. Subtópico:
+5. Uso do operador instanceof para verificar o tipo de um objeto 
+Assertivas:
+1. O operador instanceof é utilizado em Java para verificar se um objeto é uma instância de uma determinada classe.
+2. O operador instanceof retorna true caso o objeto seja do tipo da classe ou de uma subclasse da mesma.
+3. O operador instanceof retorna false caso o objeto não seja do tipo da classe ou de uma subclasse da mesma.
+4. O operador instanceof é uma forma de testar a hierarquia de herança de objetos.
+5. O uso do operador instanceof permite verificar se um objeto é uma instância de uma interface.
+6. O operador instanceof pode ser utilizado para verificar se um objeto é uma instância de uma classe abstrata.
+7. O operador instanceof gera um erro de compilação caso seja utilizado para verificar o tipo de um objeto que não permite herança.
+8. O operador instanceof é uma expressão booleana e pode ser utilizado em condicionais.
+9. O uso excessivo do operador instanceof em um código pode indicar problemas de design orientado a objetos.
+10. A utilização do operador instanceof é uma prática comum para realizar tratamentos específicos em objetos de tipos diferentes.
+
+6. Subtópico:
+6. Manipulação de Strings em Java: métodos da classe String 
+Assertivas:
+1. O método `length()` da classe String retorna o número de caracteres em uma string.
+2. O método `charAt()` da classe String retorna o caractere em uma posição específica da string.
+3. O método `concat()` da classe String concatena duas strings.
+4. O método `replace()` da classe String substitui todas as ocorrências de um caractere por outro caractere em uma string.
+5. O método `substring()` da classe String retorna uma substring de uma string, dado um índice inicial e um índice final.
+6. O método `toLowerCase()` da classe String converte todos os caracteres de uma string para minúsculas.
+7. O método `toUpperCase()` da classe String converte todos os caracteres de uma string para maiúsculas.
+8. O método `trim()` da classe String remove espaços em branco do início e do final de uma string.
+9. O método `equals()` da classe String verifica se duas strings são iguais.
+10. O método `indexOf()` da classe String retorna a posição da primeira ocorrência de um caractere ou substrings dentro de uma string.
+
+7. Subtópico:
+7. Arrays em Java: declaração, inicialização e manipulação 
+Assertivas:
+1. Em Java, um array é uma estrutura de dados que permite armazenar múltiplos elementos de um mesmo tipo.
+2. A declaração de um array em Java utiliza a notação de colchetes ([]), indicando a quantidade de elementos que o array poderá armazenar.
+3. Java permite a criação de arrays de tipos primitivos, como int, float e char, bem como arrays de objetos.
+4. Um array em Java pode ser inicializado de forma estática, informando os valores que serão armazenados, ou de forma dinâmica, durante a execução do programa.
+5. É possível acessar um elemento específico de um array em Java utilizando seu índice, que começa do valor 0 e vai até o tamanho do array menos 1.
+6. A manipulação de um array em Java inclui operações como inserção, remoção e atualização de elementos.
+7. Para percorrer todos os elementos de um array em Java, é comum utilizar o laço de repetição for, variando o valor do índice de 0 até o tamanho do array menos 1.
+8. A propriedade length é utilizada em Java para obter o tamanho de um array, indicando o número total de elementos que ele pode armazenar.
+9. Em Java, ao tentar acessar um índice inválido de um array, como um valor negativo ou maior que o tamanho do array, uma exceção do tipo ArrayIndexOutOfBoundsException é lançada.
+10. Em Java, é possível utilizar a classe java.util.Arrays para facilitar operações com arrays, como ordenação e busca de elementos.
+
+8. Subtópico:
+8. Autoboxing e Unboxing em Java
+Assertivas:
+1. O autoboxing é um recurso da linguagem Java que permite a conversão automática entre tipos primitivos e suas classes wrapper correspondentes.
+2. O autoboxing ocorre quando um tipo primitivo é atribuído a uma variável de um tipo wrapper correspondente.
+3. O unboxing é o processo inverso do autoboxing, envolvendo a conversão automática de um tipo wrapper para seu tipo primitivo correspondente.
+4. O autoboxing/unboxing facilita a manipulação de tipos primitivos em contextos que exigem objetos, como coleções e estruturas de dados genéricas.
+5. O autoboxing/unboxing acontece também em expressões aritméticas envolvendo tipos primitivos e classes wrapper.
+6. O autoboxing/unboxing pode ocorrer implicitamente em certos contextos, sem a necessidade de uma chamada explícita ao método correspondente.
+7. O autoboxing/unboxing pode acarretar em diminuição de desempenho em determinadas situações, pois envolve a criação de objetos em memória.
+8. O autoboxing/unboxing é uma das principais funcionalidades introduzidas na versão 5 do Java (Java 1.5).
+9. O autoboxing/unboxing é amplamente utilizado em várias APIs do Java, como as coleções da biblioteca padrão.
+10. O autoboxing/unboxing pode ser evitado em situações em que o desempenho é crítico, optando-se por trabalhar diretamente com tipos primitivos.
+
+9. Subtópico:
+9. Trabalhando com datas usando a classe
+Assertivas:
+DateTime do C# no contexto de programação. 
+
+1. A classe DateTime permite a manipulação e representação de datas e horários.
+2. É possível criar um objeto DateTime especificando uma data e hora específicas.
+3. A classe DateTime possui um construtor sobrecarregado, permitindo a criação de objetos com valores predefinidos.
+4. Os objetos DateTime são imutáveis, ou seja, uma vez criados, seus valores não podem ser alterados.
+5. A classe DateTime contém diversos métodos que facilitam a manipulação de datas, como AddDays e AddMonths.
+6. É possível obter informações de uma data específica utilizando os métodos Day, Month e Year.
+7. A classe DateTime também permite a comparação entre datas, utilizando operadores como >, <, >= e <=.
+8. É possível formatar uma data específica utilizando o método ToString, que aceita um padrão de formatação.
+9. A classe DateTime possui propriedades para acessar o valor do dia da semana e da hora específica.
+10. A classe DateTime também é utilizada para realizar operações aritméticas com datas, como cálculo de intervalos entre duas datas.
+
+

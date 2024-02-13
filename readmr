@@ -1,0 +1,1 @@
+find /caminho/da/pasta -type f -name "*.txt" -exec cat {} + > arquivo_concatenado.txt

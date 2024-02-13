@@ -1,0 +1,129 @@
+Pergunta Original: 12.12 Python- tipos de estruturas de dados   
+ 
+1. Subtópico:
+1. Conceitos básicos de Python e estruturas de dados
+Assertivas:
+1. Em Python, é possível utilizar a função print() para exibir valores na tela.
+2. Uma lista em Python é uma coleção ordenada de elementos, podendo ser heterogênea.
+3. O acesso aos elementos de uma lista em Python pode ser feito por meio de índices, iniciando em 0.
+4. O método append() é utilizado em Python para adicionar um elemento ao final de uma lista.
+5. Em Python, uma tupla é uma sequência imutável de elementos.
+6. O operador "+" em Python pode ser utilizado para concatenar duas ou mais listas.
+7. Em Python, um dicionário é uma coleção não ordenada de pares chave-valor.
+8. O método keys() em Python é utilizado para retornar todas as chaves de um dicionário.
+9. O operador in em Python é utilizado para verificar se um elemento está presente em uma lista.
+10. Em Python, um conjunto é uma coleção não ordenada de elementos únicos.
+
+2. Subtópico:
+2. Listas em Python: definição, manipulação e métodos
+Assertivas:
+1. As listas em Python são uma estrutura de dados que armazena uma coleção ordenada de elementos.
+2. As listas podem conter diferentes tipos de dados, como números, strings e até mesmo outras listas.
+3. A definição de uma lista em Python é feita utilizando-se colchetes ([]), e os elementos são separados por vírgulas.
+4. É possível acessar um elemento específico de uma lista utilizando sua posição, que é chamada de índice. O índice do primeiro elemento é sempre 0.
+5. As listas em Python são mutáveis, o que significa que é possível alterar, adicionar ou remover elementos da lista após sua criação.
+6. O método append() em listas permite adicionar um elemento ao final da lista.
+7. O método insert() em listas permite adicionar um elemento em uma posição específica da lista.
+8. O método remove() em listas permite remover a primeira ocorrência de um valor específico da lista.
+9. O método sort() em listas permite ordenar os elementos em ordem crescente.
+10. O método reverse() em listas permite inverter a ordem dos elementos da lista.
+
+3. Subtópico:
+3. Tuplas em Python: características e diferenças em relação às listas
+Assertivas:
+1. As tuplas em Python são estruturas de dados imutáveis, ou seja, uma vez criadas, não é possível realizar alterações nos elementos dela.
+2. Diferente das listas, as tuplas são definidas utilizando parênteses "(" e ")" em vez de colchetes "[" e "]".
+3. Tuplas podem conter elementos de diferentes tipos de dados, incluindo strings, números e até outras tuplas.
+4. Ao contrário das listas, tuplas ocupam menos espaço na memória.
+5. É possível acessar os elementos de uma tupla por meio de índices, da mesma forma que acontece com as listas.
+6. Tuplas podem ser iteradas utilizando loops, permitindo o acesso e manipulação dos elementos.
+7. Tuplas podem ser utilizadas como chaves em dicionários Python, enquanto listas não.
+8. As tuplas são mais eficientes em termos de desempenho quando se trata de operações de leitura de dados.
+9. É possível converter uma lista em uma tupla e vice-versa utilizando as funções "tuple()" e "list()", respectivamente.
+10. As tuplas são utilizadas principalmente quando se deseja garantir que os dados contidos não possam ser modificados, sendo comumente usadas para representar informações estáticas ou constantes.
+
+4. Subtópico:
+4. Dicionários em Python: conceito, criação e manipulação
+Assertivas:
+1. Os dicionários em Python são coleções não ordenadas de pares chave-valor.
+2. Os dicionários em Python são criados utilizando a sintaxe de chaves {} e pares chave-valor separados por dois pontos.
+3. É possível acessar os valores de um dicionário em Python através da chave correspondente.
+4. A função len() em Python pode ser utilizada para obter o número de elementos em um dicionário.
+5. Os dicionários em Python permitem a adição de novos pares chave-valor ou a modificação de valores existentes.
+6. Em dicionários Python, as chaves devem ser únicas, enquanto os valores podem ser duplicados.
+7. É possível utilizar o operador 'in' para verificar se um determinado elemento é uma chave em um dicionário.
+8. Os dicionários em Python podem ser iterados utilizando loops for, percorrendo as chaves ou valores.
+9. A função dict() em Python pode ser utilizada para criar um dicionário vazio ou a partir de uma sequência de pares chave-valor.
+10. Os dicionários em Python podem ser removidos utilizando a palavra-chave 'del' seguida do nome do dicionário.
+
+5. Subtópico:
+5. Conjuntos (sets) em Python: definição, operações básicas e utilidades 
+Assertivas:
+1. Em Python, um conjunto (set) é uma coleção não ordenada de elementos únicos.
+2. Um conjunto em Python é definido utilizando chaves ({}) e separando os elementos por vírgulas.
+3. A função len() pode ser utilizada para determinar o tamanho de um conjunto em Python.
+4. Em Python, a operação de adição de elementos a um conjunto é realizada utilizando o método add().
+5. A operação de remoção de elementos de um conjunto em Python é feita utilizando o método remove().
+6. A função set() em Python pode ser utilizada para converter outras estruturas de dados em conjuntos.
+7. Os operadores matemáticos de união, interseção e diferença podem ser aplicados em conjuntos em Python utilizando os símbolos |, &, e - respectivamente.
+8. O método update() em Python pode ser utilizado para atualizar um conjunto com elementos de outro conjunto.
+9. O método isdisjoint() em Python retorna True se dois conjuntos são disjuntos (sem elementos em comum).
+10. Os conjuntos em Python são úteis para remover elementos duplicados de uma lista, uma vez que apenas elementos únicos podem ser armazenados em um conjunto.
+
+6. Subtópico:
+6. Pilhas e filas em Python: conceito, implementação e aplicações 
+Assertivas:
+1. Em Python, uma pilha é uma estrutura de dados que respeita a ordem LIFO (Last In, First Out), onde o último elemento inserido é o primeiro a ser removido.
+2. Em Python, uma fila é uma estrutura de dados que respeita a ordem FIFO (First In, First Out), onde o primeiro elemento inserido é o primeiro a ser removido.
+3. Em Python, tanto pilhas quanto filas podem ser implementadas utilizando listas.
+4. Em Python, a inserção de um elemento em uma pilha é feita através da função append(), que adiciona o elemento ao final da lista.
+5. Em Python, a remoção de um elemento em uma pilha é feita através da função pop(), que remove e retorna o último elemento adicionado à lista.
+6. Em Python, a inserção de um elemento em uma fila é feita através da função append(), que adiciona o elemento ao final da lista.
+7. Em Python, a remoção de um elemento em uma fila é feita através da função pop(), que remove e retorna o primeiro elemento adicionado à lista.
+8. Utilizando pilhas, é possível implementar a funcionalidade de desfazer (undo) em um editor de texto.
+9. Utilizando filas, é possível implementar um algoritmo de processamento em lote, onde várias tarefas são executadas em sequência.
+10. Tanto pilhas quanto filas são amplamente utilizadas em algoritmos de busca e percurso, como a busca em profundidade (DFS) e a busca em largura (BFS).
+
+7. Subtópico:
+7. Compreensões de lista (list comprehensions) no Python
+Assertivas:
+1. As compreensões de lista permitem criar de forma concisa uma nova lista a partir de uma lista existente no Python.
+2. As compreensões de lista utilizam uma sintaxe especial que inclui colchetes e uma ou mais expressões separadas por vírgulas.
+3. É possível adicionar condições e filtros nas compreensões de lista para selecionar apenas os elementos desejados da lista original.
+4. As compreensões de lista são uma alternativa eficiente e legível ao uso de loops for para criar e modificar listas.
+5. As compreensões de lista podem ser utilizadas para realizar operações matemáticas, como calcular o quadrado de cada elemento de uma lista.
+6. É possível utilizar compreensões de lista para realizar operações de filtragem, como selecionar apenas os números pares de uma lista.
+7. As compreensões de lista são similares às expressões de conjunto ({}) e às compreensões de dicionário ({}) no Python.
+8. As compreensões de lista permitem criar listas aninhadas, ou seja, listas que contêm outras listas como elementos.
+9. É possível utilizar compreensões de lista em conjunto com funções de alta ordem, como map() e filter(), para realizar operações mais complexas nas listas.
+10. As compreensões de lista são uma ferramenta poderosa e flexível do Python, que auxilia na escrita de código mais conciso e eficiente.
+
+8. Subtópico:
+8. Iteradores e geradores no contexto das estruturas de dados do Python 
+Assertivas:
+1. Iteradores e geradores são recursos do Python que permitem percorrer uma determinada estrutura de dados de forma sequencial.
+2. Os iteradores são objetos que implementam os métodos especiais __iter__() e __next__(), permitindo a iteração sobre os elementos da estrutura de dados.
+3. Os geradores são funções ou expressões geradoras que utilizam a palavra-chave yield para retornar valores de forma sequencial.
+4. Os iteradores e geradores são utilizados para economizar recursos de memória, já que permitem a geração dos elementos da estrutura de dados sob demanda, conforme necessário.
+5. Em Python, a função iter() permite criar um iterador a partir de um objeto iterável, como uma lista, tupla ou dicionário.
+6. A função next() é utilizada para obter o próximo elemento de um iterador. Quando todos os elementos foram percorridos, é lançada a exceção StopIteration.
+7. Geradores são frequentemente utilizados em laços de repetição, como for loops, já que iteram automaticamente sobre os elementos gerados.
+8. Iteradores e geradores são bastante utilizados em situações em que a quantidade de elementos a serem processados é muito grande, como leitura de arquivos de texto ou bancos de dados.
+9. Em Python, é possível criar geradores com a sintaxe de funções geradoras, onde é utilizada a palavra-chave yield em vez de return.
+10. A combinação de iteradores e geradores permite a criação de estruturas de dados infinitas, onde a geração de elementos ocorre conforme as necessidades do programa.
+
+9. Subtópico:
+9. Manipulação de strings como
+Assertivas:
+1. A manipulação de strings envolve a modificação, concatenação ou extração de caracteres dentro de uma cadeia de caracteres.
+2. A função "len()" em Python permite obter o tamanho de uma string.
+3. Uma string é uma sequência imutável de caracteres em Python.
+4. É possível acessar um caractere específico dentro de uma string através de seu índice.
+5. O método ".upper()" em Python permite converter todos os caracteres de uma string para letras maiúsculas.
+6. O método ".lower()" em Python permite converter todos os caracteres de uma string para letras minúsculas.
+7. O método ".split()" em Python permite dividir uma string em uma lista de substrings, utilizando um determinado caractere de separação.
+8. O método ".join()" em Python permite juntar elementos de uma lista em uma única string, utilizando um determinado caractere de junção.
+9. A função "str()" em Python permite converter tipos de dados diferentes para strings.
+10. A indexação negativa permite acessar caracteres de uma string a partir do final da sequência.
+
+

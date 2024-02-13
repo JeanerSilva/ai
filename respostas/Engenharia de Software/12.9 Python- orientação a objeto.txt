@@ -1,0 +1,143 @@
+Pergunta Original: 12.9 Python- orientação a objeto   
+ 
+1. Subtópico:
+1. Conceitos fundamentais de orientação a objetos em Python
+Assertivas:
+1. A programação orientada a objetos em Python se baseia em conceitos-chave, como encapsulamento, herança e polimorfismo.
+2. Em Python, os objetos são instâncias de classes que possuem atributos e métodos.
+3. O encapsulamento em Python é alcançado através da definição de atributos privados usando o prefixo "__".
+4. A herança em Python permite que uma classe herde atributos e métodos de uma classe base.
+5. O polimorfismo em Python permite que objetos com classes diferentes respondam ao mesmo método de maneira distinta.
+6. O método construtor em Python, chamado "__init__", é utilizado para inicializar as propriedades de um objeto.
+7. O método "super()" é usado em Python para acessar métodos da classe base em uma classe derivada.
+8. A sobrecarga de operadores em Python permite definir o comportamento de operadores como +, -, *, / para objetos personalizados.
+9. A composição é um conceito em orientação a objetos, em Python, que permite que um objeto contenha outros objetos como atributos.
+10. O método "del" em Python é usado para destruir um objeto e liberar memória.
+
+2. Subtópico:
+2. Classes e objetos em Python: definição, criação e utilização
+Assertivas:
+1. Classes em Python são estruturas que definem propriedades e comportamentos de um objeto.
+2. Objetos em Python são instâncias de uma classe, que possuem propriedades específicas e interagem com outros objetos.
+3. Para definir uma classe em Python, utiliza-se a palavra-chave "class", seguida pelo nome da classe.
+4. A criação de um objeto em Python ocorre através da utilização do construtor da classe, que é o método especial "__init__".
+5. O método "__init__" é executado automaticamente quando um objeto é criado, permitindo a configuração inicial de suas propriedades.
+6. Para acessar as propriedades de um objeto em Python, utiliza-se a notação de ponto, mencionando o nome do objeto seguido pelo nome da propriedade.
+7. Métodos em Python são funções definidas dentro de uma classe que permitem realizar operações específicas com o objeto.
+8. Para usar um método dentro de uma classe, é necessário acessá-lo pela instância do objeto, utilizando novamente a notação de ponto.
+9. É possível criar atributos de classe em Python, que são compartilhados entre todas as instâncias da classe e podem ser acessados utilizando a notação de ponto.
+10. A herança em Python permite criar uma nova classe utilizando como base uma classe já existente, aproveitando suas propriedades e comportamentos.
+
+3. Subtópico:
+3. Herança e Polimorfismo em Python
+Assertivas:
+1. O conceito de herança em Python permite que as classes filhas herdem atributos e métodos da classe mãe.
+2. O polimorfismo em Python permite que objetos de diferentes classes sejam tratados de maneira uniforme.
+3. Em Python, é possível implementar herança múltipla, onde uma classe pode herdar características de mais de uma classe mãe.
+4. O uso do método "super()" em Python permite chamar o método da classe mãe na classe filha.
+5. É possível sobrescrever métodos herdados em Python, alterando o comportamento da classe filha.
+6. O polimorfismo em Python permite que um mesmo método seja reescrito em diferentes classes, cada uma com uma implementação específica.
+7. Em Python, o polimorfismo permite que diferentes objetos respondam de maneira diferente a um mesmo método.
+8. A herança em Python é uma forma de reutilizar código, pois as classes filhas podem utilizar os métodos e atributos da classe mãe.
+9. O polimorfismo em Python permite a criação de programas mais flexíveis e extensíveis, facilitando a manipulação de diferentes tipos de objetos.
+10. A herança em Python estabelece uma relação de "é um", onde a classe filha é uma especialização da classe mãe.
+
+4. Subtópico:
+4. Encapsulamento: métodos privados, protegidos e públicos 
+Assertivas:
+1. O encapsulamento é um conceito fundamental na programação orientada a objetos.
+2. Métodos privados são acessíveis apenas dentro da própria classe.
+3. Métodos protegidos são acessíveis dentro da própria classe e de suas subclasses.
+4. Métodos públicos são acessíveis por qualquer parte do programa.
+5. O encapsulamento permite ocultar a implementação interna de uma classe.
+6. A utilização de métodos privados ajuda a evitar acessos indevidos e incosistências no estado dos objetos.
+7. A utilização de métodos protegidos permite o reuso de código em subclasses, preservando a integridade dos objetos.
+8. Métodos públicos são utilizados para a interação com outras partes do programa.
+9. O encapsulamento favorece a manutenibilidade, uma vez que alterações internas de uma classe não afetam outras partes do programa.
+10. Ao utilizar métodos privados, protegidos e públicos de forma adequada, aumenta-se a modularidade e a legibilidade do código.
+
+5. Subtópico:
+5. Métodos especiais de classe (construtores, destrutores)
+Assertivas:
+1. Os métodos especiais de classe, como construtores e destrutores, são responsáveis por inicializar e liberar recursos de uma classe, respectivamente.
+2. Os construtores podem ser sobrecarregados, permitindo que uma classe tenha diferentes formas de inicialização.
+3. Os destrutores são automaticamente chamados quando uma instância da classe é destruída, seja por meio da liberação de memória ou ao finalizar seu escopo.
+4. Os construtores podem receber parâmetros, permitindo que valores sejam passados durante a inicialização da classe.
+5. Os destrutores, assim como os construtores, podem ser definidos como públicos, privados ou protegidos, dependendo das necessidades da classe.
+6. Os construtores são usados para inicializar as variáveis de instância de uma classe, garantindo que elas estejam em um estado válido.
+7. Os destrutores são usados para liberar recursos alocados pela classe durante sua execução, como memória, conexões com bancos de dados, entre outros.
+8. Os métodos especiais de classe são declarados no corpo da classe, acompanhados pelo nome da classe, não possuindo um tipo de retorno.
+9. É possível criar classes sem a declaração explícita de um construtor, porém nesse caso a classe terá um construtor padrão implicitamente criado.
+10. Os destrutores não podem receber parâmetros, uma vez que seu objetivo é apenas liberar recursos, sem necessitar de informações externas.
+
+6. Subtópico:
+6. Trabalhando com módulos e pacotes em Python
+Assertivas:
+1. Python permite a criação de módulos para organizar e reutilizar código.
+2. Um módulo em Python é um arquivo com extensão .py que contém definições de funções, classes e variáveis.
+3. Ao importar um módulo em Python, todas as definições contidas nele se tornam acessíveis no escopo do programa.
+4. É possível importar um módulo inteiro ou apenas partes específicas, utilizando a palavra-chave "import".
+5. Em Python, um pacote é uma coleção de módulos organizados em uma estrutura de diretórios.
+6. Para criar um pacote em Python, basta criar uma pasta com um arquivo __init__.py dentro dela.
+7. Um pacote em Python pode conter subpacotes, tornando a organização do código mais modular e hierárquica.
+8. É possível importar um pacote inteiro ou apenas módulos específicos de dentro do pacote.
+9. Python possui uma biblioteca padrão com diversos módulos e pacotes úteis para diferentes propósitos.
+10. Além da biblioteca padrão, é possível instalar pacotes externos em Python, através do gerenciador de pacotes pip.
+
+7. Subtópico:
+7. Exceções em Python: tratamento e manipulação de erros 
+Assertivas:
+1. O tratamento de exceções em Python permite que erros sejam identificados, tratados e controlados durante a execução do programa.
+2. O bloco de código try-except é utilizado para capturar exceções específicas que podem ocorrer durante a execução de um programa em Python.
+3. É possível utilizar múltiplos blocos de except para tratar diferentes tipos de exceções que podem ocorrer em um programa Python.
+4. O bloco finally em Python é opcional e, se presente, é executado independentemente de ter ocorrido ou não uma exceção durante a execução do código.
+5. As exceções podem ser lançadas explicitamente por meio do comando "raise" em Python.
+6. O bloco else pode ser utilizado em conjunto com o bloco try-except para executar um código apenas se nenhuma exceção ocorrer durante a execução do bloco try.
+7. Em Python, é possível criar exceções personalizadas utilizando a estrutura raise para lançar uma exceção de acordo com as necessidades do programa. 
+8. As exceções em Python são herdeiras da classe base Exception, o que permite a criação de hierarquias de exceções para proporcionar um tratamento de erros mais específico.
+9. A ordem dos blocos except é importante, pois o Python tentará capturar a exceção com base na primeira exceção encontrada que corresponda ao tipo de erro ocorrido.
+10. Em Python, é possível tratar exceções específicas utilizando a estrutura try-except-else-finally, o que garante um maior controle e gerenciamento dos erros durante a execução do programa.
+
+8. Subtópico:
+8. Decoradores em Python: conceito, utilidade e aplicação prática
+Assertivas:
+1. Um decorador em Python é uma função que recebe outra função como argumento e estende seu comportamento sem modificá-la explicitamente.
+2. Os decoradores em Python são amplamente utilizados para adicionar funcionalidades extras a funções existentes sem alterar seu código original.
+3. Um decorador pode ser aplicado a qualquer função em Python, independentemente do seu propósito ou complexidade.
+4. Ao utilizar decoradores, é possível separar a lógica principal de uma função da lógica adicional adicionada pelo decorador.
+5. Decoradores podem ser utilizados para adicionar log de depuração, realizar validações de parâmetros, medir o tempo de execução de uma função, entre outras funcionalidades.
+6. A sintaxe para aplicar um decorador a uma função em Python envolve o uso do caractere "@" seguido do nome do decorador, antes da definição da função.
+7. Ao aplicar um decorador a uma função, a função original é substituída pela função decorada, mantendo seu nome e assinatura.
+8. É possível aplicar múltiplos decoradores a uma mesma função, adicionando-os em sequência usando o caractere "@".
+9. Os decoradores em Python são uma forma poderosa de implementar o padrão de projeto conhecido como "decorator pattern".
+10. A aplicação prática de decoradores em Python facilita a reutilização de código, a separação de preocupações e o aumento da legibilidade e manutenibilidade do código.
+
+9. Subtópico:
+9. Programação assíncrona com asyncio em Python 
+Assertivas:
+1. A biblioteca asyncio em Python oferece um conjunto de ferramentas para desenvolvimento de programação assíncrona.
+2. O módulo asyncio permite a execução concorrente de tarefas assíncronas em um único processo Python.
+3. A programação assíncrona com asyncio é adequada para casos em que existe a necessidade de fazer várias operações de I/O simultaneamente.
+4. A programação assíncrona com asyncio utiliza coroutines para a execução de operações assíncronas.
+5. Com asyncio, é possível implementar servidores web assíncronos e escaláveis que podem lidar com múltiplas conexões simultâneas.
+6. A programação assíncrona com asyncio ajuda a evitar bloqueios, tornando o código mais eficiente.
+7. A biblioteca asyncio em Python foi introduzida a partir da versão 3.4 da linguagem.
+8. Ao utilizar asyncio, é possível programar de forma mais simples e intuitiva em comparação com outras abordagens de programação concorrente.
+9. asyncio possui suporte para operações de entrada e saída de redes, arquivos, timers e subprocessos assíncronos.
+10. Por ser incorporado à linguagem Python, asyncio oferece uma abordagem padrão para programação assíncrona e facilita a integração com outros módulos e frameworks.
+
+10. Subtópico:
+10. Test
+Assertivas:
+1. O teste é uma estratégia fundamental para avaliar conhecimentos e habilidades.
+2. Existem diferentes tipos de testes, como testes escritos, testes práticos e testes de múltipla escolha.
+3. O objetivo dos testes é identificar o nível de conhecimento do indivíduo sobre determinado assunto.
+4. Um teste bem elaborado deve conter questões claras e objetivas.
+5. A aplicação de testes pode ocorrer em diferentes contextos, como na educação, seleção de pessoal e diagnóstico de saúde.
+6. A confiabilidade de um teste está relacionada à sua capacidade de medir consistentemente aquilo que se propõe a avaliar.
+7. A validade de um teste refere-se à capacidade de medir com precisão aquilo que se deseja avaliar.
+8. A pontuação em um teste pode ser usada para classificar os indivíduos em diferentes níveis de desempenho.
+9. A preparação adequada é importante para obter bons resultados em um teste.
+10. Os resultados de um teste podem ser utilizados para tomar decisões importantes, como selecionar candidatos para uma vaga ou indicar a necessidade de intervenção em determinada área de conhecimento.
+
+

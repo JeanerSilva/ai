@@ -1,0 +1,131 @@
+Pergunta Original: 12.17 Python- bibliotecas e Frameworks   
+ 
+1. Subtópico:
+1. Conceitos básicos de Python: sintaxe, variáveis e tipos de dados.
+Assertivas:
+1. A sintaxe do Python é conhecida por ser limpa e legível, utilizando a indentação correta para a estruturação do código.
+2. Em Python, as variáveis são criadas dinamicamente, o que significa que não precisam ser declaradas com antecedência.
+3. Os nomes das variáveis em Python são sensíveis a maiúsculas e minúsculas.
+4. Python é uma linguagem de tipagem dinâmica, ou seja, o tipo de dado de uma variável é inferido automaticamente de acordo com o valor atribuído a ela.
+5. Os tipos de dados básicos em Python incluem inteiros, ponto flutuante, strings e booleanos.
+6. Python oferece operadores aritméticos, como adição, subtração, multiplicação e divisão, que podem ser utilizados com variáveis numéricas.
+7. O operador de atribuição em Python é representado pelo símbolo "=".
+8. Em Python, é possível realizar operações entre diferentes tipos de dados, como somar uma string com um número.
+9. Python oferece funções internas para a conversão de tipos de dados, como int(), float() e str().
+10. Comentários em Python são iniciados pelo símbolo "#", e são utilizados para adicionar explicações e informações ao código, sem que essas linhas sejam executadas.
+
+2. Subtópico:
+2. Bibliotecas padrão do Python: math, datetime, os, sys.
+Assertivas:
+1. A biblioteca "math" do Python fornece funções matemáticas avançadas, como exponenciação, logaritmo e trigonometria.
+2. A biblioteca "datetime" do Python permite manipular datas e horas de forma eficiente e realizar cálculos com elas.
+3. A biblioteca "os" do Python oferece uma interface para interagir com o sistema operacional, permitindo acessar arquivos, pastas e outras funcionalidades do sistema.
+4. A biblioteca "sys" do Python fornece acesso a algumas variáveis e funções específicas do interpretador Python, permitindo interagir com as configurações e recursos do ambiente de execução.
+5. Todas as bibliotecas mencionadas (math, datetime, os e sys) são bibliotecas padrão do Python, ou seja, são distribuídas com o próprio Python e não precisam ser instaladas separadamente.
+6. A biblioteca "math" do Python não fornece apenas funções matemáticas básicas, mas também contém constantes matemáticas comumente usadas, como o número pi.
+7. A biblioteca "datetime" do Python oferece objetos e métodos convenientes para manipular datas e horas, como representar a data atual ou calcular a diferença entre duas datas.
+8. A biblioteca "os" do Python permite não apenas acessar arquivos e pastas, mas também executar comandos no sistema operacional, como criar e excluir arquivos.
+9. A biblioteca "sys" do Python é essencial para tarefas avançadas, como controlar o fluxo da execução e capturar informações sobre o interpretador Python em tempo de execução.
+10. As bibliotecas padrão do Python, incluindo math, datetime, os e sys, são amplamente utilizadas em projetos de desenvolvimento Python devido à sua funcionalidade abrangente e confiável.
+
+3. Subtópico:
+3. Bibliotecas para ciência de dados em Python: NumPy, Pandas e Matplotlib.
+Assertivas:
+1. A biblioteca NumPy é amplamente utilizada para lidar com arrays multidimensionais e realizar cálculos numéricos eficientes em Python.
+2. O Pandas é uma biblioteca poderosa para manipulação, análise e limpeza de dados em Python, sendo ideal para trabalhar com dataframes.
+3. O Matplotlib é uma biblioteca gráfica do Python que permite criar visualizações de dados estáticas, como gráficos de linhas, barras e dispersão.
+4. NumPy oferece funções e métodos para facilitar operações matemáticas em arrays, como adição, multiplicação e exponenciação.
+5. O Pandas fornece recursos para filtrar, ordenar e agrupar dados em um dataframe, facilitando a análise e exploração de grandes conjuntos de dados.
+6. Com o Matplotlib, é possível personalizar a aparência dos gráficos, alterando cores, legendas e estilos de linha.
+7. NumPy é amplamente utilizado em ciência de dados devido à sua eficiência computacional e capacidade de processar grandes volumes de dados.
+8. O Pandas oferece suporte a operações de junção, fusão e concatenação de dataframes, permitindo a combinação de conjuntos de dados diferentes.
+9. O Matplotlib pode ser utilizado para criar gráficos interativos em Python, permitindo ao usuário explorar visualmente os dados de forma mais dinâmica.
+10. NumPy, Pandas e Matplotlib são bibliotecas fundamentais para qualquer cientista de dados que trabalhe com Python, oferecendo recursos essenciais para manipulação, análise e visualização de dados.
+
+4. Subtópico:
+4. Frameworks web em Python: Django e Flask.
+Assertivas:
+1. Django e Flask são dois populares frameworks web em Python.
+2. Django é um framework web utilizado principalmente para desenvolvimento de aplicações complexas.
+3. Flask é um microframework web em Python que visa simplicidade e facilidade de uso.
+4. Django possui uma arquitetura mais abrangente, fornecendo uma série de recursos e funcionalidades prontas para uso.
+5. Flask, por sua vez, é mais flexível e permite maior liberdade de escolha ao desenvolvedor.
+6. Tanto Django quanto Flask são compatíveis com diversos bancos de dados, incluindo MySQL, PostgreSQL e SQLite.
+7. Ambos os frameworks possuem uma ampla documentação e uma comunidade ativa que oferece suporte e auxílio em caso de dúvidas.
+8. Django tem uma curva de aprendizado mais íngreme devido à sua abrangência, enquanto Flask é considerado mais fácil para iniciantes.
+9. Com Django, é possível construir aplicativos web escaláveis e seguros, adequados para grandes projetos.
+10. O Flask, por sua vez, é especialmente útil para o desenvolvimento de APIs e projetos menores, devido à sua leveza e simplicidade.
+
+5. Subtópico:
+5. Gerenciamento de pacotes em Python com pip.
+Assertivas:
+1. O pip é a ferramenta padrão de gerenciamento de pacotes em Python.
+2. O pip permite a instalação de pacotes Python em um ambiente virtual.
+3. Com o pip, é possível atualizar pacotes Python para suas versões mais recentes.
+4. O pip permite a instalação de pacotes diretamente do PyPI (Python Package Index).
+5. O pip suporta a desinstalação de pacotes Python instalados anteriormente.
+6. Utilizando o pip, é possível listar todos os pacotes Python instalados em um ambiente.
+7. O pip suporta a instalação de pacotes em um ambiente específico, permitindo a criação de ambientes isolados.
+8. O pip permite a instalação de pacotes a partir de um arquivo de requisitos.
+9. É possível atualizar todos os pacotes Python instalados em um ambiente usando o comando pip.
+10. O pip suporta a instalação de pacotes diretamente a partir de um repositório git.
+
+6. Subtópico:
+6. Programação orientada a objetos em Python: classes, herança e polimorfismo.
+Assertivas:
+1. Em Python, a programação orientada a objetos é uma abordagem amplamente utilizada para organizar e estruturar o código.
+2. Classes em Python são estruturas que permitem definir objetos e suas características.
+3. A herança em Python permite que uma classe herde atributos e métodos de outra classe, promovendo a reutilização de código.
+4. A palavra-chave "super" é usada em Python para acessar e chamar métodos da classe pai na hierarquia de herança.
+5. A sobrecarga de método em Python permite que uma classe tenha vários métodos com o mesmo nome, mas com diferentes parâmetros.
+6. Polimorfismo em Python permite que objetos de diferentes classes sejam tratados de forma uniforme, desde que compartilhem métodos ou atributos em comum.
+7. Em Python, é possível criar instâncias de uma classe definida por meio do operador de criação de objetos "new".
+8. Os métodos especiais em Python, como "__init__" e "__str__", são usados para definir comportamentos específicos das classes em relação ao seu estado inicial e à sua representação em formato de string.
+9. O encapsulamento em Python pode ser implementado utilizando-se atributos e métodos privados, indicados por um prefixo de sublinhado duplo, como "__atributo_privado".
+10. Em Python, a programação orientada a objetos proporciona um alto grau de modularidade e reutilização de código, facilitando o desenvolvimento e a manutenção de projetos de software.
+
+7. Subtópico:
+7. Manipulação de arquivos com a biblioteca os do Python.
+Assertivas:
+1. A biblioteca os do Python permite a manipulação de arquivos e diretórios no sistema operacional.
+2. Com a biblioteca os do Python, é possível criar, abrir, renomear e excluir arquivos.
+3. A biblioteca os do Python oferece recursos para checar se um arquivo ou diretório existe no sistema.
+4. É possível utilizar a biblioteca os do Python para listar o conteúdo de um diretório.
+5. Com a biblioteca os do Python, é possível criar diretórios no sistema operacional.
+6. A biblioteca os do Python permite a alteração de permissões de arquivos e diretórios.
+7. É possível obter informações sobre um arquivo, como tamanho e data de modificação, utilizando a biblioteca os do Python.
+8. Com a biblioteca os do Python, é possível copiar arquivos de um local para outro.
+9. A biblioteca os do Python oferece recursos para mover arquivos e diretórios dentro do sistema.
+10. É possível verificar se um caminho é válido e acessível com a biblioteca os do Python.
+
+8. Subtópico:
+8. Tratamento de exceções em Python com try/except/finally
+Assertivas:
+1. O tratamento de exceções em Python é realizado utilizando as palavras-chave try, except e finally.
+2. A estrutura try/except permite que um bloco de código seja executado e, caso ocorra uma exceção, seja tratada de forma adequada.
+3. O bloco de código a ser tratado é delimitado pelo uso da palavra-chave try seguido de dois pontos.
+4. O bloco de código a ser executado em caso de exceção é delimitado pelo uso da palavra-chave except seguido de dois pontos.
+5. É possível utilizar múltiplos blocos except para tratar diferentes tipos de exceções.
+6. A palavra-chave finally permite a execução de um bloco de código após o tratamento das exceções, independentemente de ter ocorrido uma exceção ou não.
+7. O bloco finally é opcional, ou seja, não é obrigatório utilizá-lo.
+8. É importante ressaltar que o bloco finally será executado mesmo que haja uma cláusula return dentro do bloco try ou de um dos blocos except.
+9. O tratamento de exceções em Python permite a captura de informações específicas sobre o tipo de exceção ocorrida utilizando a declaração except seguida de um nome de exceção.
+10. É possível utilizar a palavra-chave else após as cláusulas except para executar um bloco de código apenas quando não ocorrer nenhuma exceção dentro do bloco try.
+
+9. Subtópico:
+9. Testes unitários no python usando o módulo
+Assertivas:
+unittest:
+
+1. O módulo "unittest" é uma biblioteca padrão do Python para facilitar o desenvolvimento e execução de testes unitários.
+2. O módulo "unittest" oferece classes e métodos para criar testes unitários de forma estruturada e organizada.
+3. Ao utilizar o módulo "unittest", é possível criar casos de teste que verificam o comportamento desejado de classes, funções e módulos.
+4. O módulo "unittest" permite a execução automática de testes, tornando o processo de verificação do código mais eficiente e confiável.
+5. Com o uso do módulo "unittest", é possível definir testes unitários independentes e isolados, garantindo a detecção de erros específicos em partes específicas do código.
+6. Por meio do módulo "unittest", é possível verificar se um objeto possui um valor esperado utilizando assertEqual, assertNotEqual ou outros métodos semelhantes.
+7. O módulo "unittest" permite a criação de métodos de configuração e finalização para preparar o ambiente dos testes e garantir a integridade dos dados.
+8. Utilizando o módulo "unittest", é possível agrupar testes unitários relacionados em classes de teste, facilitando a organização e manutenção do código.
+9. O módulo "unittest" oferece suporte para a execução de testes em paralelo, o que pode acelerar o processo de verificação do código.
+10. Ao utilizar o módulo "unittest", é possível gerar relatórios de testes detalhados, permitindo uma análise mais profunda dos resultados obtidos.
+
+

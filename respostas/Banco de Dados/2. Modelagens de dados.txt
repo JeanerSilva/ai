@@ -1,0 +1,129 @@
+Pergunta Original: 2. Modelagens de dados   
+ 
+1. Subtópico:
+1. Conceitos fundamentais de modelagem de dados
+Assertivas:
+1. A modelagem de dados é uma etapa crucial no desenvolvimento de sistemas de informação.
+2. A modelagem de dados consiste na representação estruturada e organizada das informações de um sistema.
+3. Os modelos de dados são ferramentas utilizadas para descrever as relações entre os diversos elementos de um sistema.
+4. A modelagem de dados permite a visualização e o entendimento das informações, bem como a identificação de necessidades e requisitos do sistema.
+5. A principal finalidade da modelagem de dados é garantir a integridade e consistência das informações em um sistema.
+6. Os modelos de dados podem ser representados de forma gráfica, utilizando diagramas e notações específicas.
+7. Na modelagem de dados, é importante considerar as regras de negócio do sistema, a fim de garantir a representação adequada das informações.
+8. Os modelos de dados podem ser divididos em cinco níveis: conceitual, lógico, físico, externo e de visão.
+9. A modelagem de dados envolve a definição de entidades, atributos, relacionamentos e restrições entre os elementos do sistema.
+10. A modelagem de dados é uma prática contínua, que necessita de revisões, ajustes e melhorias ao longo do ciclo de vida do sistema.
+
+2. Subtópico:
+2. Tipos de modelos de dados: conceitual, lógico e físico
+Assertivas:
+1. O modelo de dados conceitual é utilizado para representar os conceitos e as relações entre eles em um determinado domínio.
+2. O modelo de dados lógico é uma representação mais detalhada e específica do modelo conceitual, descrevendo as entidades, atributos e relacionamentos do sistema.
+3. O modelo de dados físico é a implementação concreta do modelo lógico, considerando aspectos como organização de dados, indexação e estrutura de armazenamento.
+4. O modelo conceitual utiliza recursos gráficos para representar os conceitos e relações entre eles, como diagramas de entidade-relacionamento (ER) e diagramas de classes.
+5. O modelo lógico pode ser representado por meio de diagramas EER (Enhanced Entity-Relationship) ou por notações específicas como UML (Unified Modeling Language).
+6. O modelo de dados físico especifica como os dados serão armazenados em disco, informações sobre índices, chaves primárias e estruturas de acesso.
+7. O modelo conceitual foca em conceitos mais abstratos, não levando em consideração as limitações e particularidades de um SGBD específico.
+8. O modelo lógico é independente de plataforma, permitindo a criação de sistemas de bancos de dados em diferentes sistemas de gerenciamento.
+9. O modelo físico é diretamente dependente do SGBD escolhido, pois considera características específicas da plataforma e do sistema utilizado.
+10. A evolução de um modelo de dados vai do conceitual para o lógico e, por fim, para o físico, permitindo uma maior compreensão e controle sobre o sistema de banco de dados.
+
+3. Subtópico:
+3. Diagrama Entidade-Relacionamento (DER)
+Assertivas:
+1. O Diagrama Entidade-Relacionamento (DER) é uma representação gráfica de um modelo de dados que mostra as entidades, seus atributos e os relacionamentos entre elas.
+2. O DER é uma das principais técnicas de modelagem de dados utilizadas em projetos de banco de dados.
+3. No DER, as entidades são representadas por retângulos, os atributos são representados por elipses e os relacionamentos são representados por linhas.
+4. O DER permite identificar as entidades envolvidas em um sistema, bem como as suas características e interações.
+5. O DER é utilizado para identificar as chaves primárias e estrangeiras, definir a cardinalidade dos relacionamentos e analisar a integridade referencial entre as entidades.
+6. Uma entidade pode ter vários atributos, que descrevem suas características e propriedades.
+7. Os relacionamentos no DER podem ser do tipo um para um, um para muitos ou muitos para muitos, representando a maneira como as entidades se relacionam entre si.
+8. Os relacionamentos no DER podem receber verbos para indicar a natureza do relacionamento, como "tem", "é mãe de" ou "possui".
+9. A cardinalidade nos relacionamentos do DER indica quantos registros de uma entidade estão associados a registros de outra entidade.
+10. O DER é uma ferramenta fundamental para a análise e o projeto de sistemas de banco de dados, auxiliando na compreensão das regras do negócio e na organização dos dados.
+
+4. Subtópico:
+4. Normalização de dados: 1NF, 2NF, 3NF e formas normais superiores
+Assertivas:
+1. A normalização de dados é um processo que visa organizar e estruturar os dados de um banco de dados de forma mais eficiente.
+2. A primeira forma normal (1NF) requer que todos os atributos de uma tabela sejam atômicos, ou seja, não podem ser subdivididos em partes menores.
+3. A segunda forma normal (2NF) exige que todas as dependências funcionais não primárias sejam eliminadas, garantindo que cada atributo dependa completamente da chave primária.
+4. A terceira forma normal (3NF) tem como objetivo eliminar as dependências transitivas, garantindo que os atributos de uma tabela dependam apenas da chave primária, e não de outros atributos não chave.
+5. As formas normais superiores (4NF, 5NF e outras) são utilizadas para eliminar dependências multivaloradas e outros tipos de anomalias de redundância de dados.
+6. A busca pela normalização visa minimizar a redundância e inconsistência nos dados, aumentando a integridade e eficiência do banco de dados.
+7. A normalização de dados é um processo iterativo, que pode envolver a decomposição de uma tabela em múltiplas tabelas menores para atender às formas normais definidas.
+8. A normalização de dados é amplamente utilizada na modelagem de bancos de dados relacionais para garantir a qualidade e a precisão dos dados armazenados.
+9. A normalização de dados é uma técnica que proporciona maior flexibilidade e escalabilidade ao banco de dados, facilitando a realização de consultas e atualizações.
+10. A aplicação correta das formas normais pode reduzir a probabilidade de ocorrência de problemas como inconsistências, redundâncias e anomalias em um banco de dados.
+
+5. Subtópico:
+5. Modelagem Dimensional: fatos, dimensões e esquemas estrela, floco de neve e galáxia
+Assertivas:
+1. A modelagem dimensional é uma técnica utilizada em data warehousing para representar informações de forma consistente e facilitar a análise de dados.
+2. Na modelagem dimensional, os fatos representam as medidas numéricas que são analisadas, enquanto as dimensões mostram os contextos nas quais essas medidas estão inseridas.
+3. O esquema estrela é um dos principais modelos de modelagem dimensional, caracterizado por possuir uma tabela de fatos central ligada a tabelas de dimensões independentes.
+4. No esquema estrela, as tabelas de dimensões contêm atributos que fornecem detalhes e categorias para os dados.
+5. O esquema floco de neve é um modelo alternativo ao esquema estrela, caracterizado por subdividir as tabelas de dimensões em tabelas normalizadas, reduzindo a redundância dos dados.
+6. No esquema floco de neve, as tabelas de dimensões são normalizadas, o que pode resultar em consultas mais complexas e desempenho ligeiramente menor em comparação ao esquema estrela.
+7. O esquema galáxia é uma abordagem que combina características dos esquemas estrela e floco de neve, visando melhorar a flexibilidade e a qualidade dos dados.
+8. Na modelagem dimensional, é comum utilizar hierarquias para organizar e representar diferentes níveis de granularidade dos dados dentro de uma dimensão.
+9. A modelagem dimensional favorece a criação de consultas analíticas mais simples e eficientes, facilitando a obtenção de respostas rápidas e precisas a partir dos dados armazenados.
+10. Os esquemas estrela, floco de neve e galáxia podem ser implementados em sistemas de banco de dados relacionais ou em ferramentas específicas de data warehousing.
+
+6. Subtópico:
+6. Linguagem SQL para manipulação e consulta a bancos de dados 
+Assertivas:
+1. A linguagem SQL (Structured Query Language) é utilizada para manipular e consultar bancos de dados.
+2. A linguagem SQL permite a realização de operações de inserção, alteração, exclusão e consulta de dados em bancos de dados relacionais.
+3. A linguagem SQL utiliza comandos específicos, como SELECT, INSERT, UPDATE e DELETE, para interagir com bancos de dados.
+4. A linguagem SQL possui uma sintaxe padronizada que é utilizada pela maioria dos bancos de dados relacionais.
+5. A linguagem SQL é independente de plataforma, ou seja, pode ser utilizada em diferentes sistemas de gerenciamento de bancos de dados.
+6. O comando SELECT é utilizado na linguagem SQL para realizar consultas a bancos de dados e selecionar informações específicas.
+7. Com a utilização da linguagem SQL, é possível realizar consultas complexas utilizando múltiplas tabelas e critérios de seleção.
+8. A sintaxe da linguagem SQL permite a utilização de operadores lógicos, como AND, OR e NOT, para realizar consultas condicionais.
+9. Além de consultas, a linguagem SQL também permite a criação de estruturas de banco de dados, como tabelas, índices e relacionamentos.
+10. A linguagem SQL é amplamente utilizada e reconhecida como uma habilidade essencial para profissionais que trabalham com bancos de dados.
+
+7. Subtópico:
+7. Uso do modelo relacional em bancos de dados 
+Assertivas:
+1. O modelo relacional é amplamente utilizado para organizar e armazenar informações em bancos de dados.
+2. No modelo relacional, os dados são organizados em tabelas, com cada tabela representando uma entidade ou conceito relacionado.
+3. As tabelas do modelo relacional são compostas por colunas (atributos) e linhas (registros), que representam os valores dos atributos para cada entidade.
+4. A relação entre as tabelas é estabelecida por meio de chaves primárias e chaves estrangeiras, que permitem a integridade e consistência dos dados.
+5. Um dos principais benefícios do modelo relacional é sua capacidade de consultas complexas e flexibilidade para recuperar informações específicas.
+6. O modelo relacional permite a normalização de dados, o que reduz a redundância e melhora a eficiência e a precisão das operações de manipulação dos dados.
+7. O uso do SQL (Structured Query Language) é comum para realizar operações de criação, leitura, atualização e exclusão de dados em bancos de dados relacionais.
+8. O modelo relacional permite a definição de restrições e regras de integridade para garantir a consistência dos dados durante as operações de manipulação.
+9. O modelo relacional oferece mecanismos de segurança para controlar o acesso aos dados, como permissões de usuário e criptografia.
+10. Bancos de dados relacionais com o modelo relacional são amplamente adotados em diversos setores da indústria e do governo devido à sua eficiência, flexibilidade e capacidade de escalabilidade.
+
+8. Subtópico:
+8. Técnicas para garantir integridade dos dados 
+Assertivas:
+1. A utilização de criptografia é uma técnica eficaz para garantir a integridade dos dados, pois impede que sejam alterados durante a transmissão ou armazenamento.
+2. A implementação de políticas de controle de acesso, como autenticação e autorização, contribui para a garantia da integridade dos dados ao limitar o acesso somente a usuários autorizados.
+3. O backup regular dos dados é uma técnica importante para garantir a integridade, pois possibilita a recuperação dos dados em caso de perda ou corrupção.
+4. A utilização de ferramentas de detecção de intrusões ajuda a garantir a integridade dos dados ao identificar tentativas de acesso não autorizado ou atividades suspeitas.
+5. A adoção de mecanismos de detecção e prevenção de vírus e malwares é essencial para a integridade dos dados, uma vez que essas ameaças podem corromper ou danificar as informações.
+6. A aplicação de hashes ou resumos criptográficos é uma técnica comumente utilizada para garantir a integridade dos dados, pois permite verificar se houve alterações nos conteúdos.
+7. A utilização de assinaturas digitais é uma técnica eficiente para garantir a integridade dos dados, pois permite a verificação da autenticidade dos remetentes e a detecção de qualquer alteração nos documentos.
+8. A implementação de tecnologias de redundância, como RAID ou espelhamento de discos, contribui para a integridade dos dados, uma vez que permite a recuperação em caso de falhas de hardware.
+9. A criação de políticas de gestão de registros e logs auxilia na garantia da integridade dos dados, pois permite o rastreamento de alterações e atividades realizadas.
+10. A realização de auditorias periódicas é uma estratégia para garantir a integridade dos dados, pois permite a identificação de possíveis falhas nos mecanismos de proteção e a adoção de medidas corretivas.
+
+9. Subtópico:
+9. Ferramentas
+Assertivas:
+1. As ferramentas podem ser utilizadas para auxiliar na realização de tarefas manuais.
+2. Algumas ferramentas possuem múltiplas funções, o que aumenta a sua versatilidade.
+3. Em geral, as ferramentas são desenvolvidas com materiais resistentes para garantir maior durabilidade.
+4. O uso adequado das ferramentas aumenta a eficiência e a segurança na execução de atividades.
+5. Existem ferramentas específicas para diferentes áreas de atuação, como construção, jardinagem e marcenaria.
+6. O armazenamento correto das ferramentas contribui para preservar a sua qualidade e prolongar sua vida útil.
+7. A manutenção regular das ferramentas é fundamental para mantê-las em funcionamento adequado.
+8. Alguns exemplos de ferramentas comuns são a chave de fenda, o martelo, a furadeira e a serra.
+9. Além das ferramentas convencionais, há também as ferramentas elétricas, que facilitam a realização de trabalhos mais complexos.
+10. A escolha da ferramenta adequada para cada tarefa é fundamental para obter os melhores resultados de forma eficiente.
+
+

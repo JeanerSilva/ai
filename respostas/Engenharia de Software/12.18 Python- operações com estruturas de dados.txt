@@ -1,0 +1,152 @@
+Pergunta Original: 12.18 Python- operações com estruturas de dados   
+ 
+1. Subtópico:
+1. Conceitos básicos de Python e estruturas de dados
+Assertivas:
+1. Em Python, uma variável pode armazenar diferentes tipos de dados, como números inteiros, números de ponto flutuante, texto e booleanos.
+2. Listas em Python são estruturas de dados que podem armazenar múltiplos valores em uma única variável.
+3. Tuplas em Python são estruturas de dados semelhantes a listas, mas são imutáveis, ou seja, não podem ser modificadas após a sua criação.
+4. Dicionários em Python são estruturas de dados que armazenam pares de chave-valor, permitindo o acesso a um valor por meio da sua chave.
+5. O operador de indexação em Python permite o acesso a elementos individuais de uma lista, tupla ou string.
+6. O operador de fatiamento em Python permite o acesso a um subconjunto de elementos de uma lista, tupla ou string.
+7. A função len() em Python retorna o número de elementos de uma lista, tupla ou string.
+8. O operador + em Python permite a concatenação de duas ou mais listas, tuplas ou strings.
+9. O método append() em Python é usado para adicionar um elemento ao final de uma lista.
+10. O operador in em Python é utilizado para verificar se um elemento faz parte de uma lista, tupla ou string.
+
+2. Subtópico:
+2. Operações com listas em Python
+Assertivas:
+1. A função `len()` retorna o número de elementos de uma lista em Python.
+2. É possível adicionar elementos em uma lista utilizando o método `append()` em Python.
+3. O método `extend()` em Python permite adicionar múltiplos elementos de uma lista em outra lista.
+4. A função `insert()` em Python insere um elemento em uma posição específica de uma lista.
+5. É possível remover elementos de uma lista em Python utilizando os métodos `remove()` e `pop()`.
+6. O método `index()` em Python retorna o índice de um elemento específico em uma lista.
+7. É possível ordenar os elementos de uma lista em Python utilizando o método `sort()`.
+8. O operador `in` em Python verifica se um elemento está presente em uma lista.
+9. As listas em Python são mutáveis, o que significa que seus elementos podem ser modificados.
+10. O método `reverse()` em Python inverte a ordem dos elementos de uma lista.
+
+3. Subtópico:
+3. Manipulação de tuplas em Python
+Assertivas:
+1. A manipulação de tuplas em Python permite armazenar múltiplos valores em uma única variável.
+2. As tuplas em Python são imutáveis, ou seja, seus elementos não podem ser modificados após a criação.
+3. A indexação das tuplas em Python começa a partir do índice zero.
+4. É possível realizar operações de fatiamento (slicing) em tuplas em Python.
+5. A função len() em Python retorna o número de elementos (tamanho) de uma tupla.
+6. É possível realizar a concatenação de tuplas em Python utilizando o operador "+".
+7. A função max() em Python retorna o maior elemento em uma tupla.
+8. As tuplas em Python são iteráveis, o que significa que é possível utilizar loops para acessar cada elemento individualmente.
+9. As tuplas podem conter diferentes tipos de dados, como números, strings e até mesmo outras tuplas.
+10. As tuplas podem ser utilizadas como chaves de dicionários em Python.
+
+4. Subtópico:
+4. Uso e operações com dicionários em Python
+Assertivas:
+1. Os dicionários em Python são estruturas de dados não ordenadas, compostas por pares de chave-valor.
+2. A chave em um dicionário é um objeto imutável, como uma string ou uma tupla, enquanto o valor pode ser qualquer objeto.
+3. Para adicionar um par chave-valor a um dicionário existente em Python, utiliza-se a sintaxe dicionario[chave] = valor.
+4. O método keys() retorna uma lista contendo todas as chaves presentes em um dicionário em Python.
+5. O método values() retorna uma lista contendo todos os valores presentes em um dicionário em Python.
+6. O método items() retorna uma lista de tuplas, onde cada tupla é composta por uma chave e seu respectivo valor no dicionário.
+7. Para verificar a existência de uma determinada chave em um dicionário em Python, utiliza-se o operador "in".
+8. É possível alterar o valor associado a uma chave em um dicionário em Python utilizando a sintaxe dicionario[chave] = novo_valor.
+9. Para remover um par chave-valor de um dicionário em Python, utiliza-se o comando del dicionario[chave].
+10. Em Python, os dicionários são úteis para mapear valores de entrada para valores de saída em uma estrutura de dados de forma eficiente.
+
+5. Subtópico:
+5. Compreensão de conjuntos (sets) e suas operações em Python
+Assertivas:
+1. Em Python, um conjunto (set) é uma coleção desordenada de elementos únicos.
+2. Para criar um conjunto em Python, utilizamos chaves {} ou a função set().
+3. Para adicionar elementos a um conjunto em Python, usamos o método add() ou a notação de união (|).
+4. A operação de interseção de conjuntos em Python é realizada utilizando o método intersection() ou o operador &.
+5. Em Python, a diferença entre dois conjuntos pode ser obtida usando o método difference() ou o operador -.
+6. A operação de diferença simétrica em Python, que retorna os elementos que estão em apenas um dos conjuntos, é feita com o método symmetric_difference() ou o operador ^.
+7. Python permite verificar se um conjunto é subconjunto de outro utilizando o método issubset() ou o operador <=.
+8. A função len() pode ser usada para obter o número de elementos em um conjunto em Python.
+9. Em Python, é possível verificar se um elemento pertence a um conjunto usando o operador in.
+10. Conjuntos em Python são mutáveis, ou seja, é possível adicionar, remover e modificar seus elementos.
+
+6. Subtópico:
+6. Implementação e manipulação de pilhas (stacks) e filas (queues) em Python 
+Assertivas:
+1. Em Python, uma pilha (stack) é uma estrutura de dados linear que segue o princípio LIFO (Last In, First Out), ou seja, o último elemento inserido será o primeiro a ser removido.
+2. Pilhas em Python podem ser facilmente implementadas utilizando a classe list, onde push() insere um elemento no topo da pilha e pop() remove o elemento do topo.
+3. A função len() pode ser utilizada para verificar o tamanho atual de uma pilha em Python.
+4. Python não possui uma implementação padrão para filas. No entanto, a biblioteca collections oferece a classe deque, que pode ser usada para implementar filas eficientes.
+5. Em Python, as filas (queues) podem ser implementadas utilizando a classe deque da biblioteca collections, onde append() insere um elemento na fila e popleft() remove o primeiro elemento da fila.
+6. É possível implementar filas em Python utilizando a classe list, porém a operação de remoção de elementos no início da fila pode ser ineficiente, uma vez que requer a realocação de todos os elementos restantes.
+7. Em pilhas e filas implementadas em Python, é possível acessar o elemento do topo da pilha ou o primeiro elemento da fila sem remover o elemento, utilizando as operações peek() e front(), respectivamente.
+8. Pilhas e filas são estruturas de dados amplamente utilizadas em algoritmos como a busca em profundidade (DFS) e a busca em largura (BFS), respectivamente.
+9. Além das operações básicas de push, pop, append e popleft, em Python é possível realizar outras operações em pilhas e filas, como a verificação de vazio (is_empty()) e a cópia de uma pilha ou fila para outra (copy()).
+10. A implementação e manipulação correta de pilhas e filas em Python são fundamentais para o desenvolvimento de algoritmos eficientes e semântica correta.
+
+7. Subtópico:
+7. Estruturas condicionais e loops na manipulação das estruturas de dados 
+Assertivas:
+1. O uso de estruturas condicionais permite determinar ações específicas com base em condições pré-definidas.
+2. Loops são estruturas de controle que permitem a repetição de um bloco de código enquanto uma condição for verdadeira.
+3. A estrutura if-else permite a execução de diferentes ações dependendo de uma condição verdadeira ou falsa.
+4. O if-else é uma estrutura condicional que permite a tomada de decisões entre duas ou mais opções.
+5. A instrução switch-case é uma estrutura condicional que permite a tomada de decisões entre múltiplas opções.
+6. O loop while executa repetidamente um bloco de código enquanto uma condição for verdadeira.
+7. A estrutura de repetição do-while executa um bloco de código pelo menos uma vez e repete enquanto uma condição for verdadeira.
+8. O loop for é uma estrutura de controle que permite a repetição de um bloco de código um número específico de vezes.
+9. Utilizar estruturas condicionais e loops na manipulação de estruturas de dados é fundamental para processar informações de forma dinâmica.
+10. O uso adequado de estruturas condicionais e loops permite maior eficiência e flexibilidade na manipulação de estruturas de dados.
+
+8. Subtópico:
+8. Funções built-in para estruturas de dados em Python 
+Assertivas:
+1. Em Python, as funções built-in para estruturas de dados podem ser utilizadas sem a importação de módulos adicionais.
+2. A função built-in `len()` retorna o número de elementos em uma estrutura de dados, como uma lista ou uma string.
+3. A função built-in `max()` retorna o valor máximo entre os elementos de uma estrutura de dados, como uma lista ou uma tupla.
+4. A função built-in `min()` retorna o valor mínimo entre os elementos de uma estrutura de dados, como uma lista ou uma tupla.
+5. A função built-in `sum()` retorna a soma dos elementos de uma estrutura de dados, como uma lista ou uma tupla.
+6. A função built-in `sorted()` retorna uma nova lista ordenada a partir dos elementos de uma lista.
+7. A função built-in `any()` retorna True se pelo menos um elemento de uma estrutura de dados for True.
+8. A função built-in `all()` retorna True se todos os elementos de uma estrutura de dados forem True.
+9. A função built-in `enumerate()` retorna um iterável contendo pares de índices e elementos de uma estrutura de dados.
+10. A função built-in `zip()` retorna um iterável contendo pares de elementos de duas ou mais estruturas de dados.
+
+9. Subtópico:
+9. Tratamento de erros durante as operações com estruturas de dados 
+Assertivas:
+1. O tratamento de erros durante as operações com estruturas de dados é fundamental para garantir a integridade e consistência dos dados manipulados.
+
+2. O uso de mecanismos de tratamento de erros, como exceções ou retornos de erros específicos, pode impedir a ocorrência de comportamentos indesejados durante a operação das estruturas de dados.
+
+3. Durante a manipulação de estruturas de dados, é importante verificar se as operações realizadas estão consistentes com as regras de negócio estabelecidas, evitando assim possíveis erros.
+
+4. O tratamento de erros adequado permite que o programa se recupere de situações inesperadas, como falhas na alocação de memória, evitando que o sistema trave ou apresente comportamentos imprevisíveis.
+
+5. Ao lidar com estruturas de dados, é essencial verificar a existência de erros como valores inválidos, ponteiros nulos, estouro de capacidade, entre outros, para garantir a correta execução do programa.
+
+6. O uso de logs e mensagens de erro claras e informativas é importante para auxiliar no diagnóstico e correção de possíveis problemas relacionados às operações com estruturas de dados.
+
+7. Durante a implementação de estruturas de dados, é recomendado realizar testes abrangentes para identificar e tratar erros antes que o programa seja executado em um ambiente de produção.
+
+8. O tratamento de erros durante as operações com estruturas de dados garante que o programa continue em funcionamento mesmo quando ocorrem situações de exceção.
+
+9. É comum utilizar técnicas como a verificação de pré-condições e pós-condições durante as operações com estruturas de dados, a fim de prevenir erros e garantir a consistência dos dados.
+
+10. A implementação de um tratamento de erros robusto e eficiente nas operações com estruturas de dados contribui para a confiabilidade e estabilidade do sistema, melhorando a experiência de uso do usuário.
+
+10. Subtópico:
+10. Aplicações
+Assertivas:
+1. As aplicações financeiras são uma forma de investimento para rentabilizar o capital investido.
+2. A diversificação de aplicações é uma estratégia recomendada para reduzir riscos e aumentar a possibilidade de ganhos.
+3. Existem diversas modalidades de aplicações financeiras, como ações, títulos públicos, fundos de investimento e tesouro direto.
+4. As aplicações de renda fixa possuem rentabilidades mais estáveis e previsíveis, geralmente atreladas a índices de inflação ou taxas de juros.
+5. Já as aplicações de renda variável apresentam maior risco e possibilidade de ganhos mais expressivos, como no caso das ações.
+6. Os fundos de investimento são uma opção interessante para investidores que desejam ter acesso a diferentes ativos, sem a necessidade de administrar diretamente os investimentos.
+7. É importante analisar o perfil de cada investidor e seus objetivos antes de escolher as aplicações mais adequadas.
+8. As aplicações podem ser realizadas por pessoas físicas e jurídicas, sendo uma forma de fazer o dinheiro trabalhar a favor do investidor.
+9. O prazo de resgate das aplicações pode variar de acordo com o tipo de investimento, podendo ser diário, semanal, mensal ou com prazos mais longos.
+10. É fundamental acompanhar o desempenho das aplicações, buscando sempre estar informado sobre as tendências e atualizações do mercado financeiro.
+
+

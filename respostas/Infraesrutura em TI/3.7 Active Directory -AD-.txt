@@ -1,0 +1,143 @@
+Pergunta Original: 3.7 Active Directory -AD-.    
+ 
+1. Subtópico:
+1. Conceitos fundamentais do Active Directory (AD)
+Assertivas:
+1. O Active Directory (AD) é um serviço de diretório desenvolvido pela Microsoft, utilizado principalmente em ambientes Windows.
+2. O AD funciona como um banco de dados que armazena informações sobre usuários, computadores, grupos e outros objetos em uma rede.
+3. O AD permite centralizar a administração e o controle de recursos e políticas de segurança em um ambiente de rede.
+4. O AD utiliza o protocolo LDAP (Lightweight Directory Access Protocol) para fornecer acesso seguro aos objetos armazenados no seu banco de dados.
+5. O AD utiliza o conceito de domínios para organizar e estruturar a rede, permitindo uma hierarquia de recursos e controle de acesso.
+6. O AD é responsável pela autenticação e autorização de usuários, garantindo que apenas pessoas autorizadas tenham acesso aos recursos da rede.
+7. O AD utiliza o conceito de GPOs (Group Policy Objects) para aplicar políticas de segurança, configurações de rede e permissões para usuários e grupos.
+8. O AD permite a replicação de informações entre controladores de domínio, garantindo alta disponibilidade e redundância dos dados.
+9. O AD integra-se com outros serviços da Microsoft, como o DNS (Domain Name System), permitindo a resolução de nomes de domínio na rede.
+10. O AD é uma tecnologia amplamente utilizada em ambientes corporativos, facilitando a administração e o gerenciamento de redes baseadas em Windows.
+
+2. Subtópico:
+2. Estrutura lógica do Active Directory: Domínios, Árvores e Florestas
+Assertivas:
+1. O Active Directory é uma estrutura de gerenciamento de rede utilizada no ambiente Windows Server.
+2. O Domínio é a unidade básica de organização do Active Directory.
+3. Os Domínios permitem a criação de políticas de segurança e administração centralizadas.
+4. Uma Árvore de Domínios é formada pela união de dois ou mais domínios em uma estrutura hierárquica.
+5. Na estrutura de Árvore de Domínios, todos os domínios compartilham uma mesma estrutura lógica e de diretórios.
+6. A Floresta é uma coleção de Árvores de Domínios que compartilham um mesmo esquema de diretório.
+7. A Floresta é uma estrutura lógica que permite o compartilhamento de recursos e políticas entre os domínios.
+8. Cada Floresta possui um único domínio raiz que não possui domínios acima dele na hierarquia.
+9. Os domínios em uma Floresta possuem uma relação de confiança bidirecional.
+10. O Active Directory utiliza o protocolo de rede LDAP (Lightweight Directory Access Protocol) para consulta e troca de informações entre servidores.
+
+3. Subtópico:
+3. Componentes do Active Directory: Objetos, Atributos e Esquemas
+Assertivas:
+1. Os objetos do Active Directory são entidades que representam usuários, grupos, computadores, impressoras e outros recursos de rede.
+2. Os atributos do Active Directory são características que definem as propriedades dos objetos, como nome, sobrenome, endereço e número de telefone.
+3. O esquema do Active Directory define a estrutura e o formato dos objetos e atributos que podem ser armazenados no diretório.
+4. O Active Directory utiliza uma estrutura hierárquica, baseada em domínios, para organizar e gerenciar objetos e atributos.
+5. O Active Directory permite estabelecer relações entre os objetos, como membros de um grupo ou subordinados em uma hierarquia.
+6. Os objetos do Active Directory podem ser criados, modificados ou removidos por administradores do sistema.
+7. Os atributos do Active Directory podem ser configurados para serem obrigatórios, opcionais ou calculados automaticamente.
+8. O esquema do Active Directory é definido e controlado pelo administrador do diretório, garantindo a integridade e consistência dos dados.
+9. O Active Directory suporta a replicação de dados entre controladores de domínio, garantindo a disponibilidade das informações.
+10. O Active Directory é um serviço de diretório implementado pelo sistema operacional Microsoft Windows e amplamente utilizado em ambientes de rede corporativos.
+
+4. Subtópico:
+4. Serviços de Domínio do Active Directory (AD DS)
+Assertivas:
+1. O AD DS é uma tecnologia desenvolvida pela Microsoft para gerenciar recursos e serviços em redes Windows.
+2. O AD DS permite a criação e gerenciamento de contas de usuário, grupos e unidades organizacionais.
+3. A replicação do AD DS permite que as alterações feitas em um controlador de domínio sejam replicadas para todos os outros controladores de domínio na rede.
+4. O AD DS suporta autenticação de logon único para usuários, permitindo que eles acessem diferentes recursos e serviços com um único nome de usuário e senha.
+5. Os objetos do AD DS podem ser protegidos por diferentes níveis de permissões, garantindo um acesso seguro aos recursos da rede.
+6. O AD DS oferece suporte à delegação de administração, permitindo que administradores atribuam funções e permissões específicas a outros usuários.
+7. O AD DS permite a implementação de políticas de segurança, como políticas de senha e restrições de acesso, para garantir a integridade e confidencialidade dos dados.
+8. O AD DS fornece recursos avançados de auditoria, permitindo o registro e monitoramento de atividades em toda a rede.
+9. É possível integrar o AD DS com outros serviços da Microsoft, como o Exchange Server, para oferecer recursos adicionais aos usuários.
+10. O AD DS é uma parte essencial da infraestrutura de rede em ambientes Windows, facilitando o gerenciamento centralizado e a colaboração entre os usuários.
+
+5. Subtópico:
+5. Gerenciamento de usuários e grupos no AD
+Assertivas:
+1) O Active Directory (AD) é uma ferramenta da Microsoft utilizada para o gerenciamento centralizado de usuários e grupos em um ambiente de rede.
+2) No AD, é possível criar, editar e excluir usuários de forma individual, proporcionando controle sobre as permissões de acesso aos recursos de rede.
+3) Por meio do AD, é possível agrupar usuários em grupos, facilitando a administração de permissões coletivas em um ambiente de rede.
+4) Ao criar grupos no AD, é possível atribuir permissões de acesso a recursos compartilhados, como pastas e impressoras, de forma simplificada.
+5) O AD permite a definição de políticas de segurança, como exigência de senhas complexas e bloqueio de contas após múltiplas tentativas de autenticação inválida.
+6) É possível delegar determinadas tarefas de gerenciamento de usuários e grupos no AD para outros usuários ou grupos, com restrição de permissões específicas.
+7) O AD permite o controle de acesso baseado em funções (RBAC), possibilitando a atribuição de permissões de acordo com os cargos e responsabilidades dos usuários.
+8) Com o AD, é possível criar relatórios sobre o uso e as atividades dos usuários, facilitando a identificação de possíveis irregularidades ou violações de segurança.
+9) O AD suporta a integração com outros sistemas de autenticação, como LDAP e Kerberos, proporcionando maior flexibilidade e interoperabilidade em um ambiente de rede.
+10) O gerenciamento de usuários e grupos no AD é fundamental para garantir a segurança e a eficiência da rede corporativa, facilitando o controle de acesso e atribuição de permissões aos usuários.
+
+6. Subtópico:
+6. Políticas de Grupo (Group Policy) no AD
+Assertivas:
+1. As Políticas de Grupo (Group Policy) são uma funcionalidade do Active Directory (AD) da Microsoft.
+2. As Políticas de Grupo permitem aos administradores de rede controlar as configurações e comportamentos dos computadores e usuários em um ambiente de domínio do AD.
+3. As Políticas de Grupo são aplicadas hierarquicamente, com políticas locais sendo substituídas por políticas de nível de domínio e políticas de nível de domínio sendo substituídas por políticas de nível de unidade organizacional (OU).
+4. As Políticas de Grupo podem ser usadas para configurar configurações de segurança, restrições de software, configurações do ambiente de trabalho, configurações de rede, entre outros.
+5. As Políticas de Grupo são aplicadas aos usuários e computadores que fazem parte de um domínio do AD quando eles se autenticam no domínio.
+6. É possível criar políticas de grupo diferentes para usuários e computadores, permitindo uma maior flexibilidade no gerenciamento de configurações.
+7. As Políticas de Grupo podem ser definidas para serem aplicadas em um horário específico ou em eventos específicos, como o início do sistema ou o login do usuário.
+8. As Políticas de Grupo utilizam o conceito de "Herança de Política", onde as configurações definidas em políticas de nível superior se aplicam aos objetos em políticas de nível inferior.
+9. Ao modificar as Políticas de Grupo, as alterações são propagadas automaticamente para todos os computadores e usuários afetados pela política.
+10. Para evitar conflitos e problemas de política, é recomendável utilizar as melhores práticas e realizar testes antes de implantar mudanças nas Políticas de Grupo.
+
+7. Subtópico:
+7. Implementação e configuração do AD em diferentes versões do Windows Server 
+Assertivas:
+1. A implementação do Active Directory (AD) no Windows Server permite a centralização e gerenciamento de recursos de rede.
+2. Cada versão do Windows Server possui particularidades na implementação e configuração do AD, garantindo a evolução e aprimoramento contínuo dessa tecnologia.
+3. A configuração inicial do AD envolve a instalação do serviço e a definição de um domínio raiz.
+4. O AD permite a organização de objetos em unidades organizacionais (UOs), o que facilita o gerenciamento de permissões e políticas de segurança.
+5. O recurso de replicação do AD assegura a consistência dos dados entre controladores de domínio.
+6. É possível configurar controladores de domínio adicionais para garantir alta disponibilidade e redundância do ambiente AD.
+7. Ao promover um servidor para controlador de domínio, o Windows Server configura automaticamente o serviço de DNS para suportar a resolução de nomes no ambiente AD.
+8. O AD permite a criação e gerenciamento de grupos de segurança, que facilitam o controle de acesso a recursos compartilhados da rede.
+9. A configuração do AD também envolve a definição de políticas de segurança e de senha, garantindo a conformidade com as diretrizes da organização.
+10. O AD é amplamente utilizado em ambientes corporativos para centralizar o gerenciamento de usuários, computadores e serviços de rede.
+
+8. Subtópico:
+8. Segurança no Active Directory: Autenticação, Autorização e Auditoria 
+Assertivas:
+1. A autenticação no Active Directory é o processo de verificar a identidade dos usuários que tentam acessar recursos da rede.
+2. O Active Directory permite a aplicação de políticas de autorização para determinar quais recursos os usuários autenticados têm permissão para acessar.
+3. A autorização no Active Directory é baseada em grupos, onde os usuários são adicionados a grupos e as permissões são concedidas aos grupos.
+4. A auditoria no Active Directory permite registrar eventos relacionados à autenticação, autorização e outras atividades do sistema, garantindo a segurança e a conformidade.
+5. Para aumentar a segurança do Active Directory, é recomendado utilizar a autenticação de dois fatores, como a combinação de senha e token de segurança.
+6. A autenticação Kerberos é o protocolo padrão do Active Directory para autenticação, oferecendo maior segurança em relação a autenticações baseadas em senha.
+7. É essencial limitar o número de administradores do Active Directory para reduzir o risco de comprometimento do sistema.
+8. O Active Directory utiliza criptografia para proteger a comunicação entre os controladores de domínio, garantindo a segurança dos dados transmitidos.
+9. É recomendado implementar políticas de senha fortes no Active Directory, com requisitos de comprimento mínimo, uso de caracteres especiais e trocas periódicas.
+10. O monitoramento regular dos registros de auditoria do Active Directory é fundamental para identificar possíveis tentativas de acesso não autorizado e outras atividades suspeitas.
+
+9. Subtópico:
+9. Replicação de dados no Active Directory 
+Assertivas:
+1. A replicação de dados no Active Directory é um processo automático que ocorre entre os controladores de domínio.
+2. A replicação de dados no Active Directory ocorre de forma bidirecional, ou seja, tanto para cima quanto para baixo.
+3. A replicação de dados no Active Directory é essencial para manter a consistência dos dados em um ambiente distribuído.
+4. Durante o processo de replicação de dados no Active Directory, as modificações feitas em um controlador de domínio são propagadas para os demais controladores.
+5. A replicação de dados no Active Directory utiliza um mecanismo de controle baseado em solicitações e respostas entre os controladores de domínio.
+6. A topologia física e lógica da rede influencia diretamente no processo de replicação de dados no Active Directory.
+7. A replicação de dados no Active Directory geralmente ocorre em intervalos de tempo pré-definidos, mas pode ser realizada de forma imediata em caso de urgência.
+8. A replicação de dados no Active Directory pode ser configurada para ocorrer de forma síncrona ou assíncrona, dependendo das necessidades do ambiente.
+9. Durante o processo de replicação de dados no Active Directory, apenas as alterações realizadas nos objetos do diretório são propagadas, minimizando o consumo de banda.
+10. A replicação de dados no Active Directory é fundamental para garantir a alta disponibilidade e a tolerância a falhas do serviço de diretório.
+
+10. Subtópico:
+10. Recup
+Assertivas:
+1. A recuperação judicial é um instrumento legal previsto na Lei nº 11.101/2005 para permitir a reorganização financeira de empresas em situação de crise econômico-financeira.
+2. A recuperação judicial possui como finalidades principais viabilizar a superação da crise econômico-financeira do devedor, preservar e otimizar a atividade empresarial, bem como garantir a salvaguarda dos interesses dos credores.
+3. A recuperação judicial pode ser requerida por empresários individuais, sociedades empresárias e cooperativas, desde que não estejam falidas, e que comprovem regularidade fiscal e previdenciária.
+4. O pedido de recuperação judicial é analisado pelo juiz e, caso preenchidos os requisitos legais, é deferido e iniciado um processo de negociação com os credores.
+5. Durante a fase de recuperação judicial, a empresa pode continuar suas atividades normalmente, podendo realizar atos jurídicos como alienação de bens e contratação de funcionários, desde que autorizados pelo juiz.
+6. Os credores sujeitos ao processo de recuperação judicial têm seus créditos suspensos durante a fase de negociação e, caso aprovado um plano de recuperação, recebem seus pagamentos em condições diferenciadas, conforme aprovado na assembleia de credores.
+7. O plano de recuperação judicial é elaborado pela empresa em crise e precisa ser aprovado por, no mínimo, metade dos credores presentes na assembleia.
+8. Caso o plano de recuperação judicial seja aprovado, a empresa segue com suas atividades normalmente, pagando suas dívidas de acordo com as condições previstas no plano aprovado.
+9. O descumprimento das obrigações previstas no plano de recuperação judicial pode levar à falência da empresa.
+10. A concessão da recuperação judicial não impede a responsabilidade dos sócios e administradores da empresa por atos ilícitos praticados, como fraude, gestão temerária ou crimes falimentares.
+
+

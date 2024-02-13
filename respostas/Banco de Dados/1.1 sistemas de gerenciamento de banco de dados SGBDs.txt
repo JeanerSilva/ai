@@ -1,0 +1,138 @@
+Pergunta Original: 1.1 sistemas de gerenciamento de banco de dados SGBDs    
+ 
+1. Subtópico:
+1. Conceitos fundamentais de SGBDs
+Assertivas:
+1. Um SGBD é um sistema responsável pelo gerenciamento de bancos de dados.
+2. Um banco de dados é uma coleção organizada de dados inter-relacionados.
+3. Um SGBD facilita as operações de criação, modificação e recuperação de dados em um banco de dados.
+4. Um modelo de dados é um conjunto de conceitos que define a estrutura, as características e as restrições de um banco de dados.
+5. Um SGBD relacional é baseado no modelo relacional, que utiliza tabelas para armazenar os dados.
+6. O SQL (Structured Query Language) é uma linguagem de consulta usada para interagir com um SGBD relacional.
+7. O SGBD possui um mecanismo de controle de transações, que garante a integridade e confiabilidade dos dados em operações simultâneas.
+8. O SGBD implementa mecanismos de segurança, como controle de acesso e criptografia, para proteger os dados contra acessos não autorizados.
+9. Um SGBD pode suportar múltiplos usuários simultâneos, permitindo que diversos usuários acessem e modifiquem o mesmo banco de dados ao mesmo tempo.
+10. Um SGBD oferece recursos de backup e recuperação, possibilitando a restauração dos dados em caso de falhas ou desastres.
+
+2. Subtópico:
+2. Modelos de banco de dados: relacional, hierárquico e em rede
+Assertivas:
+1. O modelo de banco de dados relacional é baseado no conceito de tabelas relacionadas por chaves primárias e estrangeiras.
+2. O modelo de banco de dados hierárquico organiza os dados em uma estrutura em formato de árvore, com registros pais e filhos.
+3. O modelo de banco de dados em rede permite relacionamentos complexos entre registros, utilizando ponteiros para criar uma rede de conexões.
+4. No modelo hierárquico, um registro filho pode ter apenas um registro pai, enquanto um registro pai pode ter vários registros filhos.
+5. No modelo em rede, um registro pode ter múltiplos pais e filhos, permitindo relacionamentos mais flexíveis entre os dados.
+6. O modelo relacional utiliza consultas estruturadas (SQL) para manipular e recuperar informações de suas tabelas.
+7. O modelo hierárquico é mais adequado para estruturas de dados com relacionamentos rígidos e previsíveis.
+8. O modelo em rede é mais flexível que o modelo hierárquico, permitindo relacionamentos muitos para muitos e estruturas de dados mais complexas.
+9. O modelo relacional é o mais utilizado atualmente, devido à sua simplicidade, flexibilidade e compatibilidade com sistemas de gerenciamento de banco de dados.
+10. Os três modelos de banco de dados possuem vantagens e desvantagens, e a escolha do modelo adequado depende das necessidades e características de cada projeto.
+
+3. Subtópico:
+3. Linguagem SQL: comandos, funções e operações
+Assertivas:
+1. A SQL (Structured Query Language) é uma linguagem de programação utilizada para gerenciar e manipular dados em bancos de dados relacionais.
+2. O comando SELECT é utilizado para realizar consultas e selecionar dados específicos de tabelas em um banco de dados.
+3. O comando INSERT INTO permite adicionar novos registros em uma tabela de um banco de dados.
+4. O comando UPDATE é utilizado para modificar os valores de um ou mais registros existentes em uma tabela.
+5. O comando DELETE é utilizado para remover registros de uma tabela em um banco de dados.
+6. A função COUNT é utilizada para contar o número de registros em uma tabela.
+7. A função AVG é utilizada para calcular a média de um conjunto de valores em uma coluna de uma tabela.
+8. O operador LIKE é utilizado para buscar padrões em campos de texto em consultas.
+9. O operador JOIN é utilizado para combinar dados de duas ou mais tabelas em uma consulta.
+10. A cláusula ORDER BY é utilizada para ordenar os resultados de uma consulta em ordem crescente ou decrescente.
+
+4. Subtópico:
+4. Normalização e desnormalização de dados 
+Assertivas:
+1. A normalização de dados envolve a redução de redundâncias e inconsistências em um banco de dados.
+2. A normalização visa aumentar a integridade e a qualidade dos dados armazenados.
+3. A normalização é baseada em um conjunto de regras, chamadas de formas normais, que visam minimizar a redundância na estrutura do banco de dados.
+4. Ao normalizar dados, o processo de atualização de informações pode ser mais complexo e lento.
+5. A desnormalização de dados visa otimizar o desempenho de consultas em bancos de dados.
+6. Na desnormalização, ocorre a introdução de redundância nos dados, com o objetivo de melhorar o desempenho das consultas ao evitar uniões complexas.
+7. A desnormalização pode ser útil em casos de bancos de dados com alto volume de consultas e com requerimentos de respostas rápidas.
+8. A desnormalização pode aumentar a complexidade de manutenção dos dados e trazer riscos de consistência e integridade.
+9. A normalização e a desnormalização são estratégias complementares, e a escolha de qual usar depende das necessidades específicas de cada aplicação.
+10. Embora a normalização seja considerada uma prática recomendada para a maioria dos projetos de banco de dados, a desnormalização pode ser uma alternativa válida em determinados casos de uso.
+
+5. Subtópico:
+5. Segurança em SGBDs: controle de acesso, backup e recuperação 
+Assertivas:
+1. O controle de acesso em um Sistema de Gerenciamento de Banco de Dados (SGBD) visa garantir que apenas usuários autorizados tenham acesso às informações armazenadas no banco de dados.
+
+2. O controle de acesso em um SGBD pode ser implementado através de mecanismos como autenticação, autorização e auditoria.
+
+3. O backup em um SGBD consiste na cópia de segurança dos dados armazenados no banco de dados, sendo realizado periodicamente para prevenir perdas de informações em caso de falhas ou desastres.
+
+4. O backup em um SGBD pode ser realizado de maneira completa, incremental ou diferencial, dependendo da estratégia de recuperação adotada.
+
+5. A recuperação em um SGBD é o processo de restauração dos dados a partir de uma cópia de segurança (backup) em caso de falhas, corrupção ou perda dos dados originais.
+
+6. A recuperação em um SGBD geralmente segue um modelo de recuperação baseado em log, no qual todas as operações realizadas no banco de dados são registradas em um arquivo de log para facilitar a recuperação posteriormente.
+
+7. O controle de acesso em um SGBD pode ser baseado em diferentes níveis de segurança, como o controle de acesso ao nível de sistema, controle de acesso ao nível de objeto e controle de acesso ao nível de linha.
+
+8. A compactação dos backups em um SGBD pode ser utilizada para reduzir o espaço de armazenamento necessário, facilitando o transporte e a restauração dos dados em diferentes ambientes.
+
+9. A encriptação dos backups em um SGBD pode ser utilizada como medida de segurança adicional, garantindo a confidencialidade dos dados armazenados no backup.
+
+10. As políticas de segurança em um SGBD, incluindo o controle de acesso, backup e recuperação, devem ser definidas de acordo com as necessidades da organização e as regulamentações vigentes.
+
+6. Subtópico:
+6. Transações em SGBDs: propriedades ACID (Atomicidade, Consistência, Isolamento e Durabilidade)
+Assertivas:
+1. As propriedades ACID em transações de SGBDs garantem que uma transação seja atômica, ou seja, é executada como uma unidade indivisível.
+2. A propriedade de consistência em transações de SGBDs garante que a transação deve levar o banco de dados de um estado consistente para outro.
+3. A propriedade de isolamento em transações de SGBDs garante que uma transação em execução não deve interferir em outras transações simultâneas.
+4. A propriedade de durabilidade em transações de SGBDs garante que, uma vez que uma transação tenha sido confirmada, suas mudanças são permanentes e não podem ser desfeitas.
+5. A atomicidade garante que, se uma parte de uma transação falhar, todas as partes precisam ser revertidas, garantindo que o banco de dados permaneça consistente.
+6. A consistência garante que as restrições definidas no banco de dados, como chaves estrangeiras e integridade de dados, sejam mantidas após uma transação ser concluída.
+7. A propriedade de isolamento permite que múltiplas transações sejam executadas simultaneamente com a sensação de que cada transação está sendo executada isoladamente.
+8. A propriedade de durabilidade garante que, mesmo em caso de falhas de energia, as mudanças feitas por uma transação sejam permanentes e não sejam perdidas.
+9. A propriedade de consistência é garantida pelos mecanismos do SGBD que garantem que as restrições de integridade sejam mantidas antes e após a execução de uma transação.
+10. A propriedade de isolamento em transações de SGBDs evita problemas de concorrência, como leitura suja, onde uma transação lê dados sujos (ainda não confirmados) de outra transação em execução.
+
+7. Subtópico:
+7. Indexação e hashing para otimização do desempenho do banco de dados
+Assertivas:
+1. A indexação é uma técnica utilizada para melhorar o desempenho de consultas em um banco de dados.
+2. O índice é uma estrutura de dados que permite a localização mais rápida dos registros em uma tabela.
+3. A indexação é especialmente útil quando se trabalha com grandes volumes de dados.
+4. O objetivo principal da indexação é reduzir o tempo de busca e consulta de dados em um banco de dados.
+5. O hashing é uma técnica utilizada para implementar a indexação em bancos de dados.
+6. No hashing, um valor é calculado (hash code) a partir de uma chave de busca e usado para localizar o registro correspondente.
+7. O hashing é uma abordagem eficiente para busca rápida em tabelas de chave única.
+8. O uso de hashing para indexação de dados resulta em tempo constante de acesso aos registros.
+9. É importante escolher adequadamente as colunas que serão indexadas para obter os melhores resultados de desempenho.
+10. A indexação e o hashing são técnicas essenciais para otimizar consultas em bancos de dados e melhorar o desempenho das aplicações.
+
+8. Subtópico:
+8. Arquitetura dos SGBDs: cliente-servidor e peer-to-peer
+Assertivas:
+1. A arquitetura cliente-servidor nos SGBDs consiste em um modelo de comunicação onde um cliente solicita a um servidor o processamento de tarefas relacionadas ao gerenciamento de dados.
+2. O modelo peer-to-peer na arquitetura de SGBDs permite a interconexão de diversos dispositivos em uma rede, permitindo que eles atuem tanto como cliente quanto como servidor.
+3. A arquitetura cliente-servidor é amplamente utilizada em SGBDs de grande porte, onde um servidor central é responsável por processar as solicitações dos clientes e gerenciar os dados.
+4. No modelo cliente-servidor, o servidor é responsável por armazenar e gerenciar o banco de dados, enquanto os clientes possuem interfaces de usuário que interagem com o servidor para realizar operações nos dados.
+5. A arquitetura peer-to-peer permite a descentralização do gerenciamento dos dados, onde cada dispositivo na rede compartilha suas capacidades para processar solicitações e armazenar dados.
+6. Nos SGBDs com arquitetura peer-to-peer, todos os dispositivos compartilham igualmente as tarefas de processamento e armazenamento dos dados, resultando em uma maior distribuição das responsabilidades.
+7. A arquitetura cliente-servidor é geralmente mais adequada para aplicações empresariais que requerem alta disponibilidade, segurança e controle centralizado dos dados.
+8. A arquitetura peer-to-peer é mais adequada para aplicações com requisitos de escalabilidade, flexibilidade e resistência a falhas, onde os dispositivos podem se adaptar às mudanças na rede e às falhas individuais.
+9. No modelo cliente-servidor, os clientes se comunicam com o servidor por meio de solicitações específicas, como consultas de dados ou inserções de registros.
+10. Na arquitetura peer-to-peer, os dispositivos se comunicam uns com os outros diretamente, compartilhando tarefas e recursos sem a necessidade de um servidor central para intermediar as comunicações.
+
+9. Subtópico:
+9. Conceitos
+Assertivas:
+1. O conceito de democracia é centrado na participação igualitária dos cidadãos nas decisões políticas.
+2. A cultura de um determinado grupo de pessoas engloba seus costumes, tradições e valores.
+3. O princípio da legalidade é um dos pilares do Estado de Direito, estabelecendo que as ações estatais devem ser baseadas em leis pré-existentes.
+4. A sustentabilidade é um conceito que busca equilibrar o desenvolvimento econômico, social e ambiental para garantir o bem-estar das gerações atuais e futuras.
+5. A globalização é um processo que promove a interconexão e interdependência entre os países nos campos econômico, político, cultural e tecnológico.
+6. A ética é um conjunto de princípios que orientam o comportamento humano, pautado na busca pelo bem comum e na adequação aos valores morais.
+7. A cidadania é o conjunto de direitos e deveres que um indivíduo possui em relação ao Estado, sendo fundamental para a participação ativa na sociedade.
+8. O federalismo é um sistema de organização política que delega poderes e responsabilidades para os governos central e regionais de um país.
+9. A igualdade de gênero é um princípio que busca a equidade de oportunidades e direitos entre homens e mulheres.
+10. A laicidade do Estado garante a neutralidade e independência das instituições públicas em relação a qualquer religião, promovendo a liberdade de crença ou descrença dos cidadãos.
+
+

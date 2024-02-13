@@ -1,0 +1,143 @@
+Pergunta Original: 2.1 Modelagens de dados- relacional   
+ 
+1. Subtópico:
+1. Conceitos fundamentais de modelagem relacional de dados
+Assertivas:
+1. O modelo relacional de dados utiliza tabelas para representar entidades e relacionamentos.
+2. As tabelas no modelo relacional possuem colunas que representam atributos e linhas que representam registros.
+3. Cada tabela em um modelo relacional possui uma chave primária que identifica exclusivamente cada registro na tabela.
+4. O relacionamento entre tabelas é estabelecido através de chaves estrangeiras, que são colunas que referenciam a chave primária de outra tabela.
+5. O modelo relacional segue os princípios da integridade referencial, garantindo a consistência dos dados ao estabelecer restrições sobre as chaves estrangeiras.
+6. As operações básicas no modelo relacional incluem a inserção, atualização, exclusão e consulta de dados.
+7. O modelo relacional permite a criação de índices para otimizar a busca e acesso aos dados em uma tabela.
+8. Um banco de dados relacional é estruturado em diversas tabelas que se relacionam de forma organizada, evitando redundância e inconsistências.
+9. A normalização é uma técnica utilizada na modelagem relacional para eliminar redundâncias e melhorar a eficiência do banco de dados.
+10. O modelo relacional é amplamente utilizado em sistemas de banco de dados comerciais, como o MySQL, Oracle e SQL Server.
+
+2. Subtópico:
+2. Entidades e atributos na modelagem relacional
+Assertivas:
+1. Na modelagem relacional, as entidades são representadas por tabelas, enquanto os atributos são representados pelas colunas dessas tabelas.
+2. Em uma modelagem relacional, cada entidade possui um identificador único, conhecido como chave primária.
+3. Os atributos em um modelo relacional representam características específicas das entidades, como nome, idade, endereço, entre outros.
+4. Em uma tabela relacional, cada atributo deve possuir um nome único dentro dessa tabela.
+5. Os atributos em um modelo relacional podem ser classificados como simples ou compostos, dependendo do seu conteúdo.
+6. Atributos compostos são aqueles que possuem subpartes, como endereço (composto por rua, número, cidade, etc.).
+7. Em um modelo relacional, atributos multivalorados representam características que podem ter mais de um valor para uma mesma entidade.
+8. Os atributos em um modelo relacional podem ser classificados como obrigatórios ou opcionais, dependendo da necessidade de preenchimento.
+9. Atributos derivados em uma tabela representam valores calculados a partir de outros atributos, como idade, que pode ser calculada a partir da data de nascimento.
+10. Os atributos em um modelo relacional podem ser classificados como simplesmente atômicos, o que significa que eles não podem ser divididos em partes menores.
+
+3. Subtópico:
+3. Chaves primárias e estrangeiras na modelagem relacional
+Assertivas:
+1. A chave primária é um atributo ou conjunto de atributos que identifica exclusivamente uma tupla em uma tabela.
+2. A chave primária deve ser única e não nula para todas as tuplas de uma tabela.
+3. Uma tabela pode ter apenas uma chave primária, mas pode ser composta por vários atributos.
+4. A chave estrangeira é um atributo ou conjunto de atributos que mapeia uma tabela secundária à tabela principal.
+5. A chave estrangeira estabelece uma relação de integridade referencial entre as tabelas, garantindo a consistência dos dados.
+6. A chave estrangeira deve fazer referência a uma chave primária existente em outra tabela ou ser nula.
+7. A chave estrangeira pode ser composta por vários atributos e ser referenciada por outras tabelas.
+8. É possível adicionar restrições de cascata a uma chave estrangeira para manter a consistência dos dados ao realizar operações como exclusão ou atualização.
+9. Ao utilizar chaves estrangeiras, é possível estabelecer relacionamentos de um para um, um para muitos e muitos para muitos entre as tabelas.
+10. A modelagem relacional utiliza chaves primárias e estrangeiras para garantir a integridade referencial e a organização dos dados em bancos de dados relacionais.
+
+4. Subtópico:
+4. Normalização de dados em modelos relacionais
+Assertivas:
+1. A normalização de dados em modelos relacionais é um processo que visa eliminar redundâncias e inconsistências em um banco de dados.
+2. A normalização segue uma série de regras, chamadas de formas normais, que orientam a organização dos dados em tabelas.
+3. A primeira forma normal (1NF) exige que cada atributo de uma tabela contenha apenas um valor atômico.
+4. A segunda forma normal (2NF) estabelece que todos os atributos não-chave de uma tabela dependam completamente da chave primária.
+5. A terceira forma normal (3NF) permite que nenhum atributo não-chave dependa de outros atributos não-chave.
+6. A quarta forma normal (4NF) busca eliminar dependências multivaloradas em uma tabela, evitando redundâncias de dados.
+7. A quinta forma normal (5NF) trata de eliminar dependências de junção, ou seja, evitar que as informações sejam obtidas através da combinação de duas ou mais tabelas.
+8. A normalização de dados ajuda a garantir a integridade e a consistência dos dados armazenados em um banco de dados relacional.
+9. O processo de normalização pode resultar em uma melhor eficiência na busca e manipulação de dados, já que reduz a necessidade de cálculos complexos na recuperação dos dados.
+10. A normalização de dados é um tópico importante e recorrente em concursos públicos na área de tecnologia da informação.
+
+5. Subtópico:
+5. Relacionamentos entre entidades no modelo relacional 
+Assertivas:
+1. No modelo relacional, as tabelas representam as entidades e seus atributos são representados pelas colunas.
+2. Para se estabelecer um relacionamento entre entidades no modelo relacional, é necessário utilizar chaves estrangeiras.
+3. Um relacionamento entre entidades no modelo relacional pode ser de um para um, de um para muitos, de muitos para um ou de muitos para muitos.
+4. No relacionamento um para um no modelo relacional, cada registro da tabela A está associado a no máximo um registro da tabela B, e vice-versa.
+5. No relacionamento de um para muitos no modelo relacional, cada registro da tabela A pode estar associado a vários registros da tabela B, mas cada registro da tabela B está associado a apenas um registro da tabela A.
+6. No relacionamento de muitos para um no modelo relacional, cada registro da tabela A está associado a no máximo um registro da tabela B, mas cada registro da tabela B pode estar associado a vários registros da tabela A.
+7. No relacionamento de muitos para muitos no modelo relacional, cada registro da tabela A pode estar associado a vários registros da tabela B, e cada registro da tabela B pode estar associado a vários registros da tabela A.
+8. As chaves primárias e estrangeiras são utilizadas para estabelecer relacionamentos entre entidades no modelo relacional.
+9. Os relacionamentos entre entidades no modelo relacional permitem que sejam estabelecidas consultas complexas e relacionadas entre as tabelas.
+10. Os relacionamentos entre entidades no modelo relacional são fundamentais para a integridade dos dados e a confiabilidade do banco de dados.
+
+6. Subtópico:
+6. Diagramas de entidade-relacionamento (ER)
+Assertivas:
+1. Os diagramas de entidade-relacionamento (ER) são utilizados para modelar o relacionamento entre as entidades de um sistema.
+2. Os diagramas ER permitem visualizar a estrutura lógica de um banco de dados, identificando as entidades, seus atributos e os relacionamentos entre elas.
+3. O diagrama ER utiliza entidades para representar os objetos principais de um sistema, como pessoas, lugares ou elementos do negócio.
+4. A cardinalidade em um diagrama ER indica a quantidade de ocorrências de uma entidade que está relacionada com outra entidade.
+5. Os relacionamentos no diagrama ER podem ser classificados em unários (quando uma entidade se relaciona com ela mesma), binários (quando duas entidades se relacionam) ou ternários (quando três entidades se relacionam).
+6. Em um diagrama ER, um atributo é uma propriedade que descreve uma característica ou qualidade de uma entidade.
+7. No diagrama ER, os relacionamentos podem ser obrigatórios, indicando que uma entidade deve estar relacionada com outra entidade, ou opcionais, indicando que a entidade pode ou não estar relacionada com outra.
+8. Os diagramas ER permitem a identificação de chaves primárias, que são atributos únicos que identificam cada ocorrência de uma entidade.
+9. A herança é um recurso utilizado nos diagramas ER para representar a especialização e generalização de entidades, ou seja, quando uma entidade é uma especialização ou "tipo" de outra entidade.
+10. No diagrama ER, os atributos podem ser classificados como simples (valores únicos), compostos (valores compostos por outros atributos) ou multivalorados (valores que podem ocorrer várias vezes).
+
+7. Subtópico:
+7. Conversão do modelo ER para o modelo relacional 
+Assertivas:
+1. A conversão do modelo ER para o modelo relacional é uma técnica utilizada para representar dados de forma organizada e estruturada.
+2. Durante a conversão do modelo ER para o modelo relacional, entidades no modelo ER são transformadas em tabelas no modelo relacional.
+3. Atributos no modelo ER são representados como colunas nas tabelas do modelo relacional durante a conversão.
+4. Relacionamentos no modelo ER são convertidos em chaves estrangeiras nas tabelas do modelo relacional.
+5. Durante a conversão do modelo ER para o modelo relacional, chaves primárias são designadas às tabelas para garantir a identificação única dos registros.
+6. A integridade referencial é mantida durante a conversão do modelo ER para o modelo relacional através do uso de chaves estrangeiras.
+7. A normalização das tabelas é importante na conversão do modelo ER para o modelo relacional com o objetivo de evitar redundância e inconsistência nos dados.
+8. Na conversão do modelo ER para o modelo relacional, a cardinalidade dos relacionamentos é traduzida através do uso de chaves estrangeiras.
+9. Durante a conversão do modelo ER para o modelo relacional, a estrutura hierárquica presente no modelo ER é eliminada, dando lugar à estrutura tabular no modelo relacional.
+10. A conversão do modelo ER para o modelo relacional é um processo fundamental na construção de um banco de dados relacional.
+
+8. Subtópico:
+8. Linguagens SQL para manipulação dos modelos relacionais 
+Assertivas:
+1. A linguagem SQL é amplamente utilizada para manipulação de dados em bancos de dados relacionais.
+2. A SQL permite que os usuários realizem consultas complexas para recuperar informações específicas de um banco de dados relacional.
+3. As linguagens SQL permitem a inserção de novos registros em tabelas de um banco de dados.
+4. Com a SQL, é possível realizar atualizações em registros existentes em uma tabela.
+5. A linguagem SQL permite excluir registros específicos de uma tabela em um banco de dados.
+6. A SQL fornece uma sintaxe padrão para definir e modificar a estrutura de um banco de dados relacional.
+7. Com a SQL, é possível realizar operações de junção para combinar informações de múltiplas tabelas.
+8. A SQL permite a criação de consultas parametrizadas, em que os usuários podem definir parâmetros para recuperar informações específicas.
+9. Com a SQL, é possível ordenar os resultados de uma consulta com base em critérios específicos.
+10. As linguagens SQL oferecem recursos para agrupar e resumir informações em consultas, por meio de operações como SUM, AVG, COUNT, etc.
+
+9. Subtópico:
+9. Integridade referencial em modelos relacionais 
+Assertivas:
+1. A integridade referencial em modelos relacionais refere-se à consistência dos dados em um banco de dados.
+2. A integridade referencial é geralmente implementada por meio de restrições de chave estrangeira.
+3. A integridade referencial garante que não existam valores inconsistentes ou não correspondentes entre as tabelas relacionadas em um banco de dados.
+4. A integridade referencial é importante para garantir a precisão e a qualidade da informação armazenada em um banco de dados.
+5. A violação da integridade referencial pode resultar em perda de dados ou informações incorretas no banco de dados.
+6. A integridade referencial é uma propriedade fundamental dos sistemas de gerenciamento de banco de dados relacionais.
+7. A integridade referencial garante que todas as relações entre os registros armazenados em tabelas relacionais sejam preservadas.
+8. A integridade referencial impede a inserção ou exclusão de registros em tabelas relacionadas se essas ações violarem as restrições definidas.
+9. A integridade referencial é um importante mecanismo para manter a consistência e a validade dos dados em um banco de dados relacional. 
+10. Para garantir a integridade referencial, é necessário que o modelo de dados e as instruções SQL utilizadas na manipulação dos dados sejam projetados corretamente.
+
+10. Subtópico:
+10. Indexação e otimização de consultas em bancos de dados relacionais
+Assertivas:
+1. A indexação em bancos de dados relacionais é uma técnica utilizada para melhorar o desempenho de consultas.
+2. Os índices em bancos de dados relacionais são estruturas que armazenam informações de forma otimizada para agilizar a busca de registros.
+3. A otimização de consultas em bancos de dados relacionais envolve a escolha do melhor plano de execução para uma determinada consulta.
+4. A indexação correta pode reduzir substancialmente o tempo de resposta de uma consulta em um banco de dados relacional.
+5. A utilização de índices em bancos de dados relacionais pode aumentar o consumo de espaço em disco.
+6. A otimização de consultas em bancos de dados relacionais considera fatores como seleção de índices, estratégias de junção e métodos de acesso aos dados.
+7. A falta de índices adequados em bancos de dados relacionais pode resultar em consultas lentas e alto consumo de recursos do sistema.
+8. A atualização de índices em bancos de dados relacionais pode ocorrer automaticamente ou manualmente, dependendo das configurações do sistema.
+9. A otimização de consultas em bancos de dados relacionais busca minimizar o uso de recursos como CPU, memória e tempo de acesso a disco.
+10. A indexação e otimização de consultas em bancos de dados relacionais são fundamentais para garantir a performance e eficiência no processamento de grandes volumes de dados.
+
+

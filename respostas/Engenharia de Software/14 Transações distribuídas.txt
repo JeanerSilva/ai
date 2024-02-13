@@ -1,0 +1,142 @@
+Pergunta Original: 14 Transações distribuídas.    
+ 
+1. Subtópico:
+1. Conceito e características de transações distribuídas.
+Assertivas:
+1. Transações distribuídas são um modelo de processamento de transações em sistemas distribuídos, onde várias entidades participam da execução das transações.
+2. Uma das características das transações distribuídas é a sua natureza assíncrona, onde as operações são executadas paralelamente em diferentes partes do sistema.
+3. Nas transações distribuídas, é comum a utilização de protocolos de consenso para garantir a coerência e a integridade dos dados durante a execução das transações.
+4. Um dos desafios das transações distribuídas é garantir a atomicidade, ou seja, assegurar que todas as operações da transação sejam executadas com sucesso ou, caso contrário, sejam desfeitas.
+5. Outra característica das transações distribuídas é a necessidade de garantir a consistência dos dados, mesmo em caso de falhas ou problemas de conectividade entre as entidades participantes.
+6. Para assegurar a durabilidade das transações distribuídas, é comum o uso de mecanismos de log e recuperação, que permitem a reconstrução do estado do sistema em caso de falhas.
+7. As transações distribuídas podem ser implementadas em diferentes arquiteturas, como por exemplo, arquiteturas cliente-servidor ou arquiteturas peer-to-peer.
+8. A escalabilidade é um importante aspecto a ser considerado nas transações distribuídas, pois o sistema deve ser capaz de lidar com um grande volume de transações simultâneas.
+9. Nas transações distribuídas, a comunicação eficiente e confiável entre as entidades participantes é fundamental para garantir a correta execução das transações.
+10. A utilização de técnicas de controle de concorrência, como bloqueio e detecção de conflitos, é essencial para garantir a corretude das transações distribuídas em ambientes de múltiplos processos.
+
+2. Subtópico:
+2. Protocolos de coordenação em transações distribuídas.
+Assertivas:
+1. O protocolo de coordenação em transações distribuídas é utilizado para garantir a consistência e a corretude das operações em sistemas distribuídos.
+2. O protocolo de coordenação em transações distribuídas permite que múltiplas partes coordenem suas ações para executar uma transação complexa.
+3. Um exemplo de protocolo de coordenação em transações distribuídas é o Two-Phase Commit (2PC), que garante a atomicidade das operações em sistemas distribuídos.
+4. O protocolo de coordenação em transações distribuídas é essencial para manter a integridade dos dados em ambientes distribuídos.
+5. O protocolo de coordenação em transações distribuídas possui um coordenador responsável por iniciar, coordenar e finalizar as transações nos participantes do sistema distribuído.
+6. Ao utilizar o protocolo de coordenação em transações distribuídas, é possível garantir que todas as transações sejam confirmadas ou abortadas de forma consistente, mesmo em casos de falhas.
+7. O protocolo de coordenação em transações distribuídas é uma técnica que ajuda a garantir a durabilidade das operações em sistemas distribuídos.
+8. O protocolo de coordenação em transações distribuídas é utilizado em várias áreas, como sistemas bancários, sistemas de reservas online e sistemas de gerenciamento de estoque em larga escala.
+9. A utilização de protocolos de coordenação em transações distribuídas evita que transações inválidas ou inconsistentes ocorram em sistemas distribuídos.
+10. O uso adequado de protocolos de coordenação em transações distribuídas contribui para o desempenho e a eficiência de sistemas distribuídos.
+
+3. Subtópico:
+3. Gerenciamento de concorrência em transações distribuídas.
+Assertivas:
+1. O gerenciamento de concorrência em transações distribuídas é um desafio importante para garantir a consistência dos dados em sistemas distribuídos.
+2. O uso de bloqueios é uma técnica comum para o gerenciamento de concorrência em transações distribuídas.
+3. Os protocolos de sincronização baseados em bloqueio garantem que apenas uma transação por vez possa acessar um dado compartilhado em um ambiente distribuído.
+4. A utilização de bloqueios exclusivos em transações distribuídas pode causar problemas de desempenho, como esperas desnecessárias e bloqueios em cascata.
+5. Os protocolos de controle de concorrência otimista em transações distribuídas permitem que múltiplas transações acessem dados compartilhados simultaneamente, resolvendo conflitos apenas no momento do commit.
+6. O uso de timestamping é uma técnica comum em protocolos de controle de concorrência otimista, permitindo determinar a ordem de execução das transações.
+7. O protocolo de controle de concorrência 2PL (Two-Phase Locking) é um método amplamente utilizado em sistemas distribuídos para gerenciar a concorrência entre transações.
+8. O Two-Phase Commit (2PC) é um protocolo para coordenar transações distribuídas e garantir atomicidade e consistência.
+9. O Multiversion Concurrency Control (MVCC) é uma abordagem eficiente para o controle de concorrência em transações distribuídas, permitindo a execução paralela de leituras.
+10. O gerenciamento de concorrência em transações distribuídas é essencial para evitar problemas como leituras sujas, leituras não repetíveis e gravações incorretas de dados.
+
+4. Subtópico:
+4. Algoritmos de commit distribuído: Two-Phase Commit (2PC) e Three-Phase Commit (3PC).
+Assertivas:
+1. O algoritmo de commit distribuído Two-Phase Commit (2PC) segue uma abordagem síncrona, onde um coordenador interage com os participantes para garantir o consenso na decisão de commit ou rollback.
+
+2. O algoritmo de commit distribuído Three-Phase Commit (3PC) foi desenvolvido para solucionar uma limitação do 2PC, que é o bloqueio de recursos enquanto aguarda por respostas dos participantes.
+
+3. O 2PC utiliza uma fase de preparação, onde o coordenador solicita a confirmação prévia dos participantes para o commit, e uma fase de comprometimento, onde o coordenador informa a todos a decisão final de commit ou rollback.
+
+4. No 2PC, se um participante falha durante a fase de preparação, o coordenador não pode continuar e deve abortar a transação.
+
+5. O 3PC é uma extensão do 2PC e adiciona uma fase de pré-comprometimento, onde o coordenador informa a intenção de commit para os participantes, mas ainda não emite a decisão final.
+
+6. No 3PC, se um participante falha durante a fase de pré-comprometimento, o coordenador pode escolher um novo participante para substituí-lo.
+
+7. O 3PC adiciona uma etapa de confirmação final, onde o coordenador aguarda uma resposta dos participantes depois de emitir a decisão de commit.
+
+8. A principal vantagem do 2PC é a simplicidade, porém, sua execução pode ser afetada por falhas de participantes ou do próprio coordenador.
+
+9. O 3PC torna o processo de commit mais resiliente a falhas, mas também implica em maior complexidade de implementação e maior tempo de execução devido às etapas adicionais.
+
+10. Tanto o 2PC quanto o 3PC são algoritmos de commit distribuído amplamente utilizados em sistemas distribuído para garantir a consistência das transações.
+
+5. Subtópico:
+5. Recuperação de falhas em transações distribuídas.
+Assertivas:
+1. A recuperação de falhas em transações distribuídas é um processo essencial para garantir a consistência dos dados em sistemas distribuídos.
+2. A recuperação de falhas em transações distribuídas envolve a identificação e correção de erros que podem ocorrer durante a execução de transações em diferentes nós de um sistema distribuído.
+3. A recuperação de falhas em transações distribuídas é responsabilidade do middleware de transações distribuídas, que coordena e mantém a consistência dos dados entre os diferentes nós.
+4. A recuperação de falhas em transações distribuídas pode ser necessária devido a problemas como falhas de hardware, falhas de comunicação, erros de software e atualizações conflitantes.
+5. A recuperação de falhas em transações distribuídas geralmente envolve o uso de técnicas como rollbacks, compensações e reexecuções de transações.
+6. Durante a recuperação de falhas em transações distribuídas, é importante garantir que os dados permaneçam consistentes e que nenhuma transação seja perdida ou executada em duplicidade.
+7. Existem abordagens de recuperação de falhas em transações distribuídas baseadas em registro de logs, onde todas as operações são registradas e podem ser usadas para restaurar um estado consistente.
+8. A recuperação de falhas em transações distribuídas pode ser um processo demorado, pois requer a coordenação e sincronização de diferentes nós e transações em um sistema distribuído.
+9. A recuperação de falhas em transações distribuídas deve ser planejada e implementada de forma a minimizar a interrupção dos serviços e garantir a integridade dos dados.
+10. A recuperação de falhas em transações distribuídas é uma área ativa de pesquisa e desenvolvimento, visando aprimorar a eficiência e a confiabilidade dos sistemas distribuídos.
+
+6. Subtópico:
+6. Transparência em sistemas distribuídos e seu impacto nas transações.
+Assertivas:
+1. A transparência em sistemas distribuídos refere-se à capacidade de os usuários perceberem os recursos distribuídos como um único sistema integrado, independentemente da localização física.
+2. A transparência de acesso em sistemas distribuídos garante que os usuários acessem recursos distribuídos de maneira semelhante a como acessariam recursos locais.
+3. A transparência de localização em sistemas distribuídos oculta detalhes sobre a localização física dos recursos distribuídos aos usuários finais.
+4. A transparência de mobilidade em sistemas distribuídos permite a movimentação de recursos distribuídos entre diferentes nós da rede de forma transparente ao usuário.
+5. A transparência de replicação em sistemas distribuídos garante que os usuários não precisem se preocupar com a existência ou a localização de cópias replicadas de recursos distribuídos.
+6. A transparência de concorrência em sistemas distribuídos oculta a complexidade da coordenação do acesso concorrente aos recursos distribuídos dos usuários.
+7. A transparência de falhas em sistemas distribuídos permite aos usuários utilizarem os recursos mesmo quando ocorrem falhas em alguns componentes distribuídos.
+8. A transparência de escalabilidade em sistemas distribuídos garante que o desempenho e a capacidade dos recursos distribuídos possam ser aumentados de forma transparente ao usuário.
+9. A transparência de heterogeneidade em sistemas distribuídos oculta as diferenças de hardware e software presentes nos diversos componentes distribuídos.
+10. A transparência em sistemas distribuídos tem um impacto direto nas transações ao oferecerem aos usuários a ilusão de um sistema unificado, facilitando o gerenciamento e a execução das operações.
+
+7. Subtópico:
+7. Problemas potenciais e soluções na execução de transações distribuídas, como o problema dos dois generais.
+Assertivas:
+1. A execução de transações distribuídas enfrenta o desafio do problema dos dois generais, que diz respeito à dificuldade de comunicação segura entre dois participantes que desejam estabelecer um consenso em um ambiente distribuído.
+
+2. O problema dos dois generais ocorre quando não é possível garantir que uma mensagem enviada por um participante será recebida pelo outro participante, levando a possíveis falhas de comunicação e tomada de decisões inconsistentes.
+
+3. Uma solução para o problema dos dois generais é a utilização de algoritmos de consenso distribuído, como o algoritmo do Consenso Bizantino, que busca garantir que os participantes cheguem a um acordo mesmo diante de falhas de comunicação ou ação maliciosa de alguns participantes.
+
+4. Além do problema dos dois generais, a execução de transações distribuídas pode enfrentar outros desafios, como a escalabilidade do sistema, a latência da rede e a segurança das transações.
+
+5. Para lidar com problemas de escalabilidade, podem ser utilizadas técnicas como a fragmentação dos dados e a distribuição de tarefas entre os participantes.
+
+6. A latência da rede pode ser mitigada por meio da utilização de técnicas de otimização de comunicação, como a redução do volume de dados trafegados e o uso de algoritmos de roteamento eficientes.
+
+7. A segurança das transações distribuídas pode ser fortalecida por meio da utilização de técnicas criptográficas, como a assinatura digital e a criptografia de ponta a ponta.
+
+8. A implementação de transações distribuídas pode demandar a adoção de protocolos de comunicação robustos, como o TCP/IP, que garante a entrega de pacotes de dados de forma confiável.
+
+9. A realização de testes e simulações de cenários adversos é essencial para garantir a confiabilidade e a eficiência da execução de transações distribuídas, detectando possíveis problemas e aprimorando as soluções implementadas.
+
+10. A escolha da arquitetura adequada para a execução de transações distribuídas, considerando as características e as necessidades específicas do sistema, também influencia diretamente na solução de problemas potenciais nesse tipo de ambiente.
+
+8. Subtópico:
+8. Modelos arquitetônicos para suporte a transações distrib
+Assertivas:
+1. Os modelos arquitetônicos para suporte a transações distribuídas são utilizados para garantir a consistência e a integridade dos dados em ambientes distribuídos.
+
+2. Um dos principais modelos arquitetônicos utilizados para suporte a transações distribuídas é o modelo cliente-servidor.
+
+3. No modelo cliente-servidor, as transações são originadas pelos clientes e executadas pelos servidores.
+
+4. O modelo de transações distribuídas baseado em coordenador é uma abordagem comum nos sistemas distribuídos.
+
+5. No modelo de transações distribuídas baseado em coordenador, um nodo coordena e controla a execução das transações em todos os nodos envolvidos.
+
+6. O modelo de transações distribuídas baseado em votação é outra abordagem utilizada para garantir a consistência de transações distribuídas.
+
+7. No modelo de transações distribuídas baseado em votação, cada nodo participante vota na decisão de commit (confirmação) ou abort (cancelamento) da transação.
+
+8. O modelo de transações distribuídas baseado em votação utiliza um algoritmo de consenso para garantir que todos os nodos cheguem a uma decisão em comum.
+
+9. Os modelos arquitetônicos para suporte a transações distribuídas são essenciais em ambientes como sistemas bancários e sistemas de gerenciamento de estoque em larga escala.
+
+10. A utilização correta dos modelos arquitetônicos para suporte a transações distribuídas é fundamental para evitar problemas como inconsistência de dados e perda de integridade em aplicações distribuídas.
+
+

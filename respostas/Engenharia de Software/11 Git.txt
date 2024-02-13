@@ -1,0 +1,145 @@
+Pergunta Original: 11 Git.    
+ 
+1. Subtópico:
+1. Conceitos básicos e terminologia do Git
+Assertivas:
+1. O Git é um sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de software.
+2. Commits são as modificações individuais registradas no Git.
+3. Branches, ou ramificações, são criados no Git para permitir o desenvolvimento paralelo e a organização de diferentes fluxos de trabalho.
+4. O repositório remoto é uma cópia do repositório local no Git, geralmente armazenado em um servidor.
+5. O comando "git pull" é usado para atualizar o repositório local com as últimas alterações do repositório remoto.
+6. O comando "git push" é usado para enviar as alterações locais para o repositório remoto.
+7. O comando "git merge" é usado para fundir as alterações de uma ramificação para outra ramificação no Git.
+8. O arquivo .gitignore é usado para especificar quais arquivos e diretórios devem ser ignorados pelo Git.
+9. O comando "git log" pode ser usado para visualizar os commits em ordem cronológica.
+10. O Git oferece suporte a recursos como o cherry-pick, que permite a seleção de commits específicos para serem aplicados em outro contexto.
+
+2. Subtópico:
+2. Instalação e configuração do Git
+Assertivas:
+1. A instalação do Git pode ser feita em diferentes sistemas operacionais, como Windows, macOS e Linux.
+2. O Git é um sistema de controle de versão distribuído e gratuito.
+3. Para configurar a identidade do usuário no Git, é necessário utilizar os comandos "git config --global user.name" e "git config --global user.email".
+4. O Git possui um arquivo de configuração global localizado no diretório do usuário ou no arquivo "/etc/gitconfig".
+5. O comando "git init" é utilizado para iniciar um repositório Git em um diretório local.
+6. O comando "git clone" é utilizado para criar uma cópia local de um repositório já existente.
+7. A configuração de credenciais, como o nome de usuário e a senha, no Git pode ser feita por meio do comando "git config --global credential.helper".
+8. O arquivo ".gitignore" é utilizado para definir quais arquivos e diretórios devem ser ignorados pelo Git durante o controle de versão.
+9. O Git permite a criação de branches (ramificações) para desenvolver funcionalidades independentes no mesmo repositório.
+10. O comando "git remote" é utilizado para listar os repositórios remotos associados a um repositório local do Git.
+
+3. Subtópico:
+3. Criação de repositórios locais no Git
+Assertivas:
+1. A criação de repositórios locais no Git permite que os desenvolvedores salvem e controlem o histórico de alterações em seus projetos de forma local.
+2. Os repositórios locais no Git podem ser criados usando o comando "git init" seguido do nome do diretório onde o repositório será inicializado.
+3. Ao criar um repositório local no Git, é possível adicionar e versionar arquivos e diretórios através do comando "git add" seguido do nome do arquivo ou diretório.
+4. A criação de repositórios locais no Git permite que os desenvolvedores realizem commits, que são as confirmações de alterações no código.
+5. O comando "git commit" é utilizado para criar uma nova versão (commit) no repositório local do Git com as alterações realizadas desde o último commit.
+6. Ao criar um repositório local no Git, é possível criar branches (ramificações) para desenvolver novas funcionalidades sem afetar a versão principal do código.
+7. Os repositórios locais no Git permitem que os desenvolvedores integrem e sincronizem suas alterações com repositórios remotos, como o GitHub ou o GitLab.
+8. A criação de repositórios locais no Git facilita o trabalho em equipe, permitindo que vários desenvolvedores colaborem em um projeto compartilhando suas versões locais.
+9. A criação de repositórios locais no Git possibilita que os desenvolvedores restaurem versões anteriores do código, caso ocorram erros ou problemas.
+10. Ao criar um repositório local no Git, é possível visualizar todo o histórico de alterações realizadas no código através do comando "git log".
+
+4. Subtópico:
+4. Uso de comandos básicos do Git (add, commit, push, pull)
+Assertivas:
+1. O comando "git add" é usado para adicionar arquivos modificados ao staged area.
+2. O comando "git commit" é utilizado para salvar as alterações no repositório local do Git.
+3. O comando "git commit -m" é usado para adicionar uma mensagem ao commit, facilitando a identificação das alterações.
+4. O comando "git push" é utilizado para enviar as alterações locais para um repositório remoto.
+5. O comando "git pull" é usado para atualizar o repositório local com as alterações presentes no repositório remoto.
+6. O comando "git log" exibe o histórico de commits realizados no repositório local.
+7. O comando "git status" permite visualizar o status dos arquivos do repositório, indicando quais foram modificados, adicionados ou removidos.
+8. O comando "git diff" é utilizado para visualizar as diferenças entre arquivos modificados e a última versão salva no repositório.
+9. O comando "git branch" permite criar, listar ou remover branches no repositório local.
+10. O comando "git merge" é usado para unir as alterações de um branch ao branch atual.
+
+5. Subtópico:
+5. Gerenciamento de branches e merge no Git
+Assertivas:
+1. O Git é um sistema de controle de versão distribuído amplamente utilizado para o gerenciamento de branches e merge.
+2. O gerenciamento de branches no Git permite que diferentes versões de um código sejam desenvolvidas e mantidas paralelamente.
+3. O Git permite a criação e alternância entre branches para trabalhar em diferentes funcionalidades sem afetar o código principal.
+4. O merge no Git é o processo de combinar alterações de diferentes branches em uma única branch.
+5. O Git fornece uma série de opções para realizar o merge, como o merge tradicional, fast-forward merge e merge recursivo.
+6. Durante o merge, o Git tenta mesclar as alterações automaticamente, mas pode exigir intervenção manual para solucionar conflitos.
+7. O Git utiliza um algoritmo de três vias para resolver conflitos durante o merge, levando em consideração as alterações feitas em ambas as branches envolvidas.
+8. O merge no Git preserva o histórico de commit de cada branch, facilitando a rastreabilidade e entendimento das alterações realizadas.
+9. Ao realizar o merge de uma branch em outra, as alterações introduzidas na branch original são aplicadas na branch de destino.
+10. O Git oferece a possibilidade de reverter o merge, desfazendo as alterações mescladas e retornando ao estado anterior à fusão das branches.
+
+6. Subtópico:
+6. Resolução de conflitos em merges no Git
+Assertivas:
+1. A resolução de conflitos em merges no Git ocorre quando duas ou mais alterações conflitantes são feitas em um mesmo arquivo.
+2. Durante a resolução de conflitos em merges no Git, o Git tende a preservar o conteúdo das alterações de ambas as ramificações envolvidas.
+3. É possível utilizar ferramentas gráficas ou editores de texto para resolver conflitos em merges no Git.
+4. Durante a resolução de conflitos em merges no Git, é necessário manualmente selecionar as partes do código que serão mantidas, modificadas ou descartadas.
+5. O Git sinaliza os conflitos em merges com a marcação "<<<<<<< HEAD", indicando o início da alteração atual, e ">>>>>>> branch-name", indicando o início da alteração da outra ramificação.
+6. Durante a resolução de conflitos em merges no Git, é possível utilizar ferramentas como "git mergetool" para facilitar o processo.
+7. Após a resolução de conflitos em merges no Git, é necessário adicionar e comitar as alterações para finalizar o merge.
+8. É possível abortar um merge em andamento no Git caso a resolução de conflitos se torne complexa demais.
+9. A resolução de conflitos em merges no Git requer atenção e cuidado para evitar a perda de código ou introdução de erros.
+10. É boa prática revisar e testar o código após a resolução de conflitos em merges no Git para garantir que todas as alterações foram implementadas corretamente.
+
+7. Subtópico:
+7. Uso do GitHub como plataforma para hospedagem de repositórios 
+Assertivas:
+1. O GitHub é uma plataforma online utilizada para hospedagem de repositórios de código fonte.
+2. O GitHub utiliza o sistema de controle de versão Git, o que permite o gerenciamento de diferentes versões do código.
+3. O GitHub possibilita a colaboração e o trabalho em equipe, permitindo que vários desenvolvedores trabalhem simultaneamente em um projeto.
+4. No GitHub, é possível criar branches (ramificações) do repositório principal para desenvolver funcionalidades ou correções de bugs separadamente.
+5. O GitHub permite a revisão de código, possibilitando que outros desenvolvedores comentem e deem feedback sobre as alterações feitas em um projeto.
+6. O GitHub conta com recursos para criar e gerenciar tarefas (issues) relacionadas ao desenvolvimento do software.
+7. O GitHub oferece integração com outras ferramentas de desenvolvimento, como IDEs, permitindo uma experiência mais integrada durante o desenvolvimento.
+8. O GitHub possui recursos avançados de segurança, como autenticação em duas etapas, para garantir a proteção dos dados do repositório.
+9. O GitHub disponibiliza um sistema de notificações para informar os colaboradores sobre as atividades e atualizações do repositório.
+10. O GitHub é amplamente utilizado por desenvolvedores e empresas ao redor do mundo, sendo considerado uma referência na hospedagem de projetos de código aberto.
+
+8. Subtópico:
+8. Trabalho colaborativo em projetos usando o Git (pull requests)
+Assertivas:
+1. O Git é uma ferramenta amplamente utilizada no trabalho colaborativo em projetos de desenvolvimento de software.
+2. A funcionalidade de pull requests do Git permite que os desenvolvedores proponham e discutam as alterações feitas em um projeto.
+3. O uso de pull requests facilita a revisão do código por outros membros da equipe, garantindo a qualidade e a correção das alterações propostas.
+4. Ao abrir um pull request, os desenvolvedores podem adicionar comentários e respostas a fim de esclarecer dúvidas e estabelecer um diálogo construtivo.
+5. Através das pull requests, é possível acompanhar de forma transparente e organizada todas as modificações feitas no projeto.
+6. Com o Git, é possível realizar repositórios remotos para que os membros da equipe possam colaborar e contribuir em diferentes locais e horários.
+7. As pull requests são uma forma de garantir o controle de versionamento e evitar conflitos de código entre diferentes desenvolvedores.
+8. Além de permitir a revisão do código, as pull requests também podem ser utilizadas para realizar testes automatizados visando garantir a qualidade do código.
+9. O Git possui recursos avançados de gestão de conflitos, permitindo que os desenvolvedores possam mesclar as alterações de forma segura.
+10. O uso de pull requests contribui para uma maior transparência, participação e colaboração entre os membros da equipe em um projeto.
+
+9. Subtópico:
+9. Recuperação de versões anteriores dos arquivos (git revert, git reset)
+Assertivas:
+1. A recuperação de versões anteriores dos arquivos pode ser realizada no Git por meio dos comandos "git revert" e "git reset".
+2. O comando "git revert" permite desfazer alterações em um commit específico, criando um novo commit com as alterações desfeitas.
+3. O "git revert" não altera a história do projeto, mantendo os commits antigos intactos.
+4. O comando "git reset" permite voltar a um determinado commit, descartando todos os commits posteriores.
+5. O "git reset" altera a história do projeto, já que remove permanentemente os commits descartados.
+6. O "git reset" possui três opções principais: --soft, --mixed e --hard, que determinam como a operação é realizada.
+7. Ao utilizar o comando "git revert", é possível desfazer alterações específicas em um commit e mantê-las como uma nova alteração.
+8. A recuperação de versões anteriores dos arquivos no git pode ser útil para corrigir erros ou regressões introduzidas em commits anteriores.
+9. O git revert é uma maneira segura de desfazer alterações, pois não afeta os commits anteriores nem a colaboração em equipe.
+10. O git reset, por sua vez, é uma opção mais drástica, que deve ser usada com cautela, pois pode causar perda de trabalho se não for aplicada corretamente.
+
+10. Subtópico:
+10. Segurança e privacidade no
+Assertivas:
+uso da internet:
+
+1. A criptografia é uma técnica utilizada na internet para garantir a privacidade das informações transmitidas.
+2. Os navegadores modernos possuem mecanismos que alertam os usuários sobre a conexão segura por meio do protocolo HTTPS.
+3. A utilização de redes Wi-Fi públicas aumenta o risco de exposição a ataques cibernéticos.
+4. O uso de senhas fortes, contendo números, letras e caracteres especiais, é um fator importante para assegurar a segurança online.
+5. O phishing é uma técnica utilizada por criminosos cibernéticos para obter informações pessoais e financeiras dos usuários através de mensagens falsas.
+6. É recomendado que os usuários evitem clicar em links suspeitos enviados por e-mail ou mensagens instantâneas.
+7. O uso de autenticação em duas etapas é uma medida eficaz para fortalecer a segurança das contas online.
+8. Atualizar regularmente o sistema operacional, os aplicativos e o antivírus é fundamental para manter a segurança do computador.
+9. O cuidado ao fornecer dados pessoais em sites e aplicativos é importante para evitar fraudes e roubos de identidade.
+10. Redes sociais podem representar um risco à privacidade caso as configurações de segurança e privacidade não sejam adequadamente ajustadas.
+
+

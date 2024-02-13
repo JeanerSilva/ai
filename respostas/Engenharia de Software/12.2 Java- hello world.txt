@@ -1,0 +1,152 @@
+Pergunta Original: 12.2 Java- hello world   
+ 
+1. Subtópico:
+1. Conceitos básicos de Java
+Assertivas:
+1. Java é uma linguagem de programação orientada a objetos.
+2. Java foi desenvolvido pela empresa Sun Microsystems, que atualmente pertence à Oracle Corporation.
+3. Java é uma linguagem interpretada e compilada ao mesmo tempo.
+4. Java é conhecido por sua portabilidade, sendo capaz de rodar em diferentes sistemas operacionais.
+5. O Java Development Kit (JDK) é necessário para desenvolver programas em Java.
+6. O Java Virtual Machine (JVM) é responsável por executar os programas escritos em Java.
+7. A principal estrutura de controle de fluxo em Java é o condicional "if-else".
+8. Java possui suporte nativo para lidar com exceções, evitando que a aplicação seja encerrada abruptamente em caso de erros.
+9. Em Java, é possível utilizar herança para criar hierarquias de classes, facilitando a reutilização de código.
+10. Java possui uma vasta biblioteca padrão, conhecida como API (Application Programming Interface), que oferece diversas funcionalidades prontas para uso.
+
+2. Subtópico:
+2. Estrutura e sintaxe do programa 'Hello World' em Java
+Assertivas:
+1. A estrutura básica de um programa 'Hello World' em Java consiste em uma classe pública com o método principal.
+2. A sintaxe correta para a declaração da classe é: public class HelloWorld.
+3. O método principal em um programa 'Hello World' em Java tem a assinatura: public static void main(String[] args).
+4. A chamada do método 'System.out.println' é utilizada para exibir o texto "Hello World" no console.
+5. O texto a ser exibido no 'System.out.println' deve ser delimitado por aspas duplas, ou seja, "Hello World".
+6. O ponto-e-vírgula (;) é obrigatório ao final de cada instrução em Java, incluindo a chamada do 'System.out.println'.
+7. Em Java, todas as palavras-chave devem ser escritas em letras minúsculas, assim como a classe 'System' do pacote 'java.lang'.
+8. O operador de concatenação '+' é utilizado para juntar duas ou mais strings em um programa 'Hello World'.
+9. Em um programa 'Hello World' em Java, os comandos precisam estar dentro de chaves ({}) para delimitar o escopo das instruções.
+10. A estrutura e a sintaxe corretas do programa 'Hello World' em Java são fundamentais para sua compilação e execução sem erros.
+
+3. Subtópico:
+3. Compilação e execução de programas Java
+Assertivas:
+1. A compilação de programas Java é realizada através do comando "javac" seguido do nome do arquivo fonte.
+
+2. Após a compilação, um programa Java é convertido em bytecode, que pode ser executado pela JVM (Java Virtual Machine).
+
+3. A execução de programas Java ocorre através do comando "java" seguido do nome da classe principal.
+
+4. Para executar um programa Java, a máquina virtual Java (JVM) deve estar instalada no sistema.
+
+5. É possível compilar e executar programas Java em diferentes sistemas operacionais, desde que a máquina virtual Java esteja instalada.
+
+6. Durante a compilação, o compilador Java verifica erros de sintaxe e realiza a verificação de tipos.
+
+7. A compilação de um programa Java pode gerar arquivos de classe em formato .class.
+
+8. Um programa Java pode ser executado a partir de uma IDE (Integrated Development Environment), como Eclipse ou IntelliJ, sem a necessidade de utilizar comandos de compilação manualmente.
+
+9. Durante a execução de um programa Java, a JVM realiza o carregamento das classes necessárias em memória.
+
+10. Caso ocorram erros durante a execução de um programa Java, mensagens de exceção são exibidas, fornecendo informações para auxiliar na depuração do código.
+
+4. Subtópico:
+4. Tipos de dados em Java
+Assertivas:
+1. Em Java, o tipo de dado primitivo boolean pode assumir apenas dois valores: true ou false.
+2. O tipo de dado primitivo char em Java é utilizado para representar caracteres individuais.
+3. O tipo de dado primitivo byte em Java é utilizado para armazenar valores inteiros de 8 bits.
+4. O tipo de dado primitivo short em Java é utilizado para armazenar valores inteiros de 16 bits.
+5. O tipo de dado primitivo int em Java é utilizado para armazenar valores inteiros de 32 bits.
+6. O tipo de dado primitivo long em Java é utilizado para armazenar valores inteiros de 64 bits.
+7. O tipo de dado primitivo float em Java é utilizado para armazenar valores decimais de precisão simples.
+8. O tipo de dado primitivo double em Java é utilizado para armazenar valores decimais de precisão dupla.
+9. O tipo de dado primitivo void em Java é utilizado para indicar que um método não possui um valor de retorno.
+10. Java também permite a criação de tipos de dados personalizados (classes) através do uso de objetos.
+
+5. Subtópico:
+5. Variáveis e constantes em Java
+Assertivas:
+1. Em Java, variáveis são espaços na memória que armazenam valores mutáveis ​​durante a execução de um programa.
+2. As variáveis em Java devem ser declaradas com um tipo específico, que pode ser primitivo ou referência a um objeto.
+3. Constantes em Java são variáveis cujo valor não pode ser alterado após a sua atribuição inicial.
+4. Em Java, as constantes são declaradas usando a palavra-chave `final`.
+5. Ao declarar uma constante em Java, é uma prática comum usar letras maiúsculas e palavras separadas por sublinhados para melhorar a legibilidade.
+6. Em Java, o valor atribuído a uma constante deve ser definido imediatamente ou dentro do bloco de inicialização de um construtor.
+7. Tanto variáveis quanto constantes em Java têm escopo, o que significa que podem ser acessadas em um determinado contexto.
+8. O escopo de uma variável em Java é definido pelos blocos de código nos quais ela é declarada.
+9. O escopo de uma constante em Java é global e pode ser acessado de qualquer lugar dentro de uma classe.
+10. Em Java, as constantes são úteis para armazenar valores fixos, como PI, que não devem ser alterados durante a execução do programa.
+
+6. Subtópico:
+6. Operadores básicos em Java 
+Assertivas:
+1. Em Java, o operador de soma (+) pode ser utilizado para realizar a adição entre dois valores numéricos.
+2. O operador de subtração (-) em Java realiza a diferença entre dois valores numéricos.
+3. O operador de multiplicação (*) em Java permite realizar o produto entre dois valores numéricos.
+4. Em Java, o operador de divisão (/) é utilizado para obter o quociente da divisão entre dois valores numéricos.
+5. O operador de resto (%) em Java retorna o resto da divisão entre dois valores numéricos.
+6. Em Java, o operador de incremento (++) adiciona uma unidade ao valor de uma variável numérica.
+7. O operador de decremento (--) em Java subtrai uma unidade do valor de uma variável numérica.
+8. O operador de atribuição (=) em Java é utilizado para atribuir um valor a uma variável.
+9. Em Java, o operador de igualdade (==) é utilizado para testar se dois valores são iguais.
+10. O operador de negação (!) em Java inverte o valor de uma expressão booleana.
+
+7. Subtópico:
+7. Controle de fluxo (loops, condicionais) no contexto do 'Hello World'
+Assertivas:
+1. O controle de fluxo é uma técnica utilizada em programação para direcionar o fluxo de execução do programa.
+2. No contexto do 'Hello World', o controle de fluxo pode ser utilizado para definir a ordem das instruções a serem executadas.
+3. Um loop é uma estrutura de controle de fluxo que permite a repetição de um bloco de código até que uma determinada condição seja satisfeita.
+4. No 'Hello World', um loop pode ser utilizado para repetir a exibição da mensagem "Hello, World!" várias vezes.
+5. Outra forma de controle de fluxo é a estrutura condicional, que permite a execução de um bloco de código somente se uma condição for verdadeira.
+6. No 'Hello World', uma estrutura condicional pode ser utilizada para exibir uma mensagem personalizada apenas se uma variável estiver preenchida.
+7. O comando 'if' é um exemplo de estrutura condicional que verifica se uma condição é verdadeira e executa um bloco de código se isso ocorrer.
+8. O comando 'else' é utilizado em conjunto com o 'if' para executar um bloco de código caso a condição do 'if' não seja verdadeira.
+9. O comando 'for' é um exemplo de loop que permite a execução de um bloco de código um determinado número de vezes.
+10. O comando 'while' é outro exemplo de loop que permite a repetição de um bloco de código enquanto uma condição for verdadeira.
+
+8. Subtópico:
+8. Funções e métodos na linguagem Java 
+Assertivas:
+1. Em Java, os métodos são definidos dentro de uma classe e podem ser utilizados para executar ações específicas.
+2. A função main() é o ponto de partida para executar um programa em Java.
+3. Funções em Java são conhecidas como métodos e são utilizadas para encapsular trechos de código que realizam uma tarefa específica.
+4. Os métodos em Java podem ter ou não parâmetros, que são utilizados para passar informações para o método.
+5. Em Java, é possível sobrecarregar métodos, ou seja, ter vários métodos com o mesmo nome, porém com diferentes listas de parâmetros.
+6. Na linguagem Java, é possível definir métodos como estáticos, o que significa que eles podem ser invocados sem a necessidade de criar uma instância da classe.
+7. Em Java, um método pode ou não possuir um valor de retorno, especificado por sua assinatura.
+8. A palavra-chave void é utilizada em Java para indicar que um método não possui valor de retorno.
+9. Em Java, é possível utilizar métodos de outras classes utilizando a sintaxe: nomeDaClasse.nomeDoMétodo().
+10. A visibilidade de um método pode ser definida como public, protected, private ou default, determinando quais outras classes podem acessar o método.
+
+9. Subtópico:
+9. Tratamento de erros e exceções no código 'Hello World'
+Assertivas:
+1. O tratamento de erros e exceções é uma prática essencial para garantir um código robusto e de qualidade.
+2. No código 'Hello World', é recomendável implementar tratamento de exceções para lidar com possíveis erros durante a execução.
+3. O tratamento de erros no código 'Hello World' pode ser feito através da utilização de blocos try-catch.
+4. Ao utilizar blocos try-catch no código 'Hello World', é possível identificar e tratar exceções específicas, como erros de entrada e saída.
+5. A inserção de um bloco try-catch no código 'Hello World' pode ajudar a evitar interrupções inesperadas e proporcionar uma experiência mais amigável ao usuário.
+6. Uma prática comum no tratamento de erros no código 'Hello World' é exibir mensagens de erro personalizadas, fornecendo informações úteis para o usuário.
+7. A implementação de tratamento de exceções no código 'Hello World' pode contribuir para a melhoria da usabilidade e manutenibilidade do software.
+8. O tratamento de erros no código 'Hello World' não se limita apenas a erros básicos, mas também a situações inesperadas que possam ocorrer durante a execução.
+9. É importante realizar testes abrangentes no código 'Hello World' para identificar e corrigir possíveis erros e exceções antes da sua implantação em produção.
+10. O tratamento adequado de erros e exceções no código 'Hello World' reflete a preocupação do desenvolvedor com a qualidade do software e a melhor experiência do usuário.
+
+10. Subtópico:
+10. Introdução à Orientação a Objetos com base no exemplo 'Hello World'.
+Assertivas:
+1. Na programação orientada a objetos, a classe é considerada a estrutura principal para a organização do código.
+2. O conceito de encapsulamento é uma das características fundamentais da orientação a objetos.
+3. A herança é um princípio da orientação a objetos que permite a criação de novas classes a partir de classes existentes.
+4. Polimorfismo é a capacidade de um objeto ser tratado de formas diferentes, dependendo do contexto em que é utilizado.
+5. A classe "HelloWorld" pode ser considerada como uma representação simples de um programa orientado a objetos.
+6. O método "main" é utilizado como ponto de entrada de execução em um programa Java.
+7. O uso da palavra-chave "new" é necessário para instanciar um objeto a partir de uma classe.
+8. O método "println" é utilizado para imprimir uma mensagem no console.
+9. A declaração da variável "System.out" é utilizada para se referir à saída padrão do programa.
+10. O método "println" pode ser invocado a partir de qualquer objeto do tipo PrintStream, incluindo o "System.out".
+
+

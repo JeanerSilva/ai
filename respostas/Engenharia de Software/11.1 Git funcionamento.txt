@@ -1,0 +1,126 @@
+Pergunta Original: 11.1 Git funcionamento   
+ 
+1. Subtópico:
+1. Conceitos básicos do Git: repositório, commit e branch.
+Assertivas:
+1. O repositório no Git é um local onde são armazenadas todas as versões dos arquivos de um projeto.
+2. O commit no Git representa uma ação de salvar as alterações de um ou mais arquivos em um determinado momento no tempo.
+3. O branch no Git é uma ramificação do código fonte que permite trabalhar em paralelo em diferentes funcionalidades sem afetar a versão principal do projeto.
+4. O repositório remoto no Git é uma versão online do repositório local, que permite o compartilhamento e colaboração entre vários desenvolvedores.
+5. O comando "git add" é utilizado para adicionar as modificações feitas em um arquivo específico para a área de staging, preparando-as para serem commitadas.
+6. O comando "git commit" é utilizado para criar um novo commit das alterações presentes na área de staging.
+7. O comando "git push" é utilizado para enviar as alterações commitadas para o repositório remoto.
+8. O comando "git pull" é utilizado para obter as últimas atualizações do repositório remoto e mesclá-las com o repositório local.
+9. O comando "git branch" é utilizado para listar todos os branches disponíveis no repositório.
+10. O comando "git merge" é utilizado para mesclar um branch específico com o branch atual, incorporando as alterações de ambos.
+
+2. Subtópico:
+2. Instalação e configuração do Git.
+Assertivas:
+1. A instalação do Git pode ser realizada em sistemas operacionais como Windows, Linux e macOS.
+2. A configuração inicial do Git envolve a definição do nome de usuário e endereço de e-mail.
+3. Após a instalação do Git, é necessário configurar as credenciais de acesso para a utilização de repositórios remotos.
+4. O Git permite a configuração de múltiplos perfis de usuário em um mesmo computador.
+5. É possível configurar uma chave SSH para autenticação segura ao utilizar o Git.
+6. Durante o processo de instalação do Git, é possível escolher instalar componentes adicionais, como uma interface gráfica.
+7. A instalação do Git oferece a opção de adicionar o Git Bash, um terminal que permite utilizar comandos Git no Windows.
+8. É possível configurar o Git para utilizar um editor de texto preferencial para resolver conflitos ou editar mensagens de commit.
+9. O Git permite a configuração de aliases para simplificar a utilização de comandos frequentes.
+10. É recomendado manter sempre a última versão do Git instalada para aproveitar os recursos mais recentes e correções de bugs.
+
+3. Subtópico:
+3. Comandos básicos do Git: init, add, commit, push.
+Assertivas:
+1. O comando "git init" é utilizado para criar um repositório Git vazio.
+2. O comando "git add" é utilizado para adicionar arquivos modificados ou novos ao índice de mudanças.
+3. O comando "git commit" é utilizado para salvar as mudanças realizadas no repositório, incluindo uma mensagem descritiva.
+4. O comando "git push" é utilizado para enviar as mudanças do repositório local para o repositório remoto.
+5. O comando "git init" deve ser executado apenas uma vez, no início do projeto, para inicializar o repositório.
+6. O comando "git add" pode ser utilizado para adicionar arquivos individualmente ou por meio de curingas.
+7. O comando "git commit" deve ser utilizado após realizar alterações significativas no repositório.
+8. O comando "git push" requer a autenticação do usuário para conectar-se ao repositório remoto.
+9. O comando "git init" cria automaticamente a pasta ".git" dentro do diretório do projeto.
+10. O comando "git push" envia apenas as mudanças que foram confirmadas com o comando "git commit" para o repositório remoto.
+
+4. Subtópico:
+4. Trabalhando com branches no Git: checkout, merge e rebase.
+Assertivas:
+1. O comando "git checkout" permite alternar entre branches existentes no Git.
+2. O comando "git merge" combina as alterações de uma branch com outra branch.
+3. O "merge" no Git cria um novo commit que representa a combinação das branches envolvidas.
+4. Ao fazer um merge, é possível encontrar conflitos caso as alterações sejam incompatíveis.
+5. O "rebase" é uma forma de incorporar as alterações de uma branch em outra linearmente, evitando commits de merge no histórico.
+6. Durante o processo de rebase, é possível reordenar e modificar commits existentes.
+7. O comando "git rebase" permite atualizar a branch atual com as alterações da branch selecionada.
+8. O rebase pode ser utilizado para manter um histórico de commits mais linear e simplificado.
+9. Uma desvantagem do rebase é que ele pode tornar o histórico de commits mais complexo e difícil de entender caso seja realizado de forma inadequada.
+10. Tanto o merge quanto o rebase são ferramentas úteis para o gerenciamento eficiente do trabalho com branches no Git, mas é importante compreender cuidadosamente as diferenças e escolher a melhor abordagem dependendo da situação.
+
+5. Subtópico:
+5. Gerenciamento de conflitos no Git.
+Assertivas:
+1. O Git possui funcionalidades para gerenciar conflitos que surgem quando mais de uma pessoa está trabalhando em um mesmo arquivo.
+2. No Git, os conflitos ocorrem quando duas ou mais alterações ocorrem no mesmo local de um arquivo e não podem ser resolvidas automaticamente.
+3. Para gerenciar conflitos no Git, é possível utilizar uma ferramenta de merge, como o git merge, que combina as alterações de diferentes branches.
+4. Ao ocorrer um conflito no Git, é necessário realizar um processo de resolução manual, em que o usuário decide quais alterações devem prevalecer para resolver a situação.
+5. A resolução de conflitos no Git pode ser facilitada através do uso de ferramentas gráficas, como o GitKraken, que mostram visualmente as diferenças entre as versões envolvidas.
+
+Nota: Algumas afirmativas poderiam ser mais completas e detalhadas, mas de acordo com a estrutura das perguntas da CESPE/CEBRASPE, é importante que as alternativas sejam breves e concisas.
+
+6. Subtópico:
+6. Uso de tags e releases no Git.
+Assertivas:
+1. As tags no Git são utilizadas para marcar pontos específicos no histórico de commits do repositório.
+2. As tags são imutáveis e servem para identificar versões estáveis e pontos importantes no desenvolvimento de um projeto.
+3. As tags podem ser criadas tanto em commits específicos quanto em branches.
+4. A criação de tags no Git não afeta a estrutura do repositório, sendo apenas uma marcação no histórico de commits.
+5. As tags são úteis para marcar releases, como versões oficiais de um projeto.
+6. É possível listar todas as tags existentes no repositório Git utilizando o comando "git tag".
+7. Para criar uma nova tag em um commit específico, utiliza-se o comando "git tag <nome_da_tag> <hash_do_commit>".
+8. O comando "git tag -a <nome_da_tag> -m <mensagem>" permite criar tags anotadas, contendo informações adicionais como autor e data.
+9. Para enviar tags para um repositório remoto, utiliza-se o comando "git push <nome_repositório> <nome_da_tag>".
+10. É possível realizar buscas por tags específicas no repositório utilizando padrões de busca ou filtros no comando "git tag".
+
+7. Subtópico:
+7. Utilização do .gitignore para ignorar arquivos ou diretórios específicos.
+Assertivas:
+1. O arquivo .gitignore é utilizado no controle de versão de projetos com Git.
+2. O objetivo do .gitignore é especificar quais arquivos e diretórios devem ser ignorados pelo Git.
+3. A utilização do .gitignore evita a inclusão acidental de arquivos indesejados no repositório.
+4. O .gitignore é um arquivo de texto simples, com uma lista de padrões de nomes de arquivos e diretórios a serem ignorados.
+5. É possível utilizar metacaracteres e curingas para especificar padrões no .gitignore.
+6. Os arquivos e diretórios listados no .gitignore não serão rastreados ou incluídos nas alterações do repositório.
+7. O .gitignore pode ser configurado para ignorar arquivos em todo o projeto ou apenas em um diretório específico.
+8. O .gitignore possui um formato específico para diferentes plataformas, como Windows, Linux e macOS.
+9. É possível usar o comando git status para verificar se um arquivo ou diretório está sendo ignorado pelo .gitignore.
+10. O .gitignore é um recurso essencial na organização e limpeza de repositórios Git.
+
+8. Subtópico:
+8. Integração contínua com o uso do Git: conceito e ferramentas associadas (Jenkins, Travis CI).
+Assertivas:
+1. A integração contínua é uma prática de desenvolvimento de software que consiste em integrar, de forma frequente e automatizada, as alterações realizadas por diferentes membros de uma equipe em um repositório central.
+2. O Git é um sistema de controle de versão distribuído amplamente utilizado para o gerenciamento de código-fonte em projetos de software.
+3. A integração contínua com o uso do Git envolve a configuração de um fluxo de trabalho automatizado para detectar e resolver conflitos e inconsistências em tempo real.
+4. O Jenkins é uma ferramenta de automação de código aberto que permite a implementação da integração contínua com o uso do Git.
+5. O Jenkins suporta a execução de tarefas como build, testes e implantação automatizada, proporcionando um ambiente de desenvolvimento ágil e seguro.
+6. O Travis CI é uma plataforma de integração contínua em nuvem que também pode ser utilizado em conjunto com o Git.
+7. O Travis CI permite a criação de pipelines de integração contínua para projetos hospedados no GitHub e outras plataformas semelhantes.
+8. Com o uso do Git, Jenkins e/ou Travis CI, é possível obter uma integração contínua eficiente, reduzindo erros na entrega de software e aumentando a produtividade da equipe de desenvolvimento.
+9. A configuração da integração contínua com o uso do Git não é trivial e requer conhecimento técnico por parte dos desenvolvedores.
+10. A integração contínua com o uso do Git, Jenkins e/ou Travis CI é amplamente adotada por empresas e equipes de desenvolvimento de software devido aos benefícios que traz para o processo de entrega e qualidade do software.
+
+9. Subtópico:
+9. Uso de plataformas remotas para armazenamento
+Assertivas:
+1. O uso de plataformas remotas para armazenamento permite o acesso aos arquivos de diferentes dispositivos, como smartphones, tablets e computadores.
+2. A utilização de plataformas remotas para armazenamento possibilita a segurança dos dados por meio de criptografia e protocolos de autenticação.
+3. As plataformas remotas para armazenamento permitem a realização de backups automatizados, garantindo a proteção dos arquivos contra perdas.
+4. A utilização de plataformas remotas para armazenamento facilita o compartilhamento de arquivos entre usuários, promovendo a colaboração e o trabalho em equipe.
+5. As plataformas remotas para armazenamento possibilitam o armazenamento ilimitado de documentos, fotos, vídeos e outros tipos de arquivos.
+6. Por meio das plataformas remotas para armazenamento, é possível acessar os arquivos armazenados mesmo em casos de perda, roubo ou falha do dispositivo utilizado.
+7. O uso de plataformas remotas para armazenamento diminui a necessidade de espaço físico para armazenar documentos, contribuindo para a redução do uso de papel.
+8. As plataformas remotas para armazenamento oferecem recursos avançados de organização, como criação de pastas, tags e filtros, facilitando a localização dos arquivos.
+9. O armazenamento em plataformas remotas é independente de localização geográfica, possibilitando o acesso aos arquivos a qualquer momento e de qualquer lugar com conexão à internet.
+10. As plataformas remotas para armazenamento oferecem planos gratuitos e pagos, permitindo aos usuários escolherem a opção que melhor atenda às suas necessidades de armazenamento.
+
+

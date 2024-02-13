@@ -1,0 +1,154 @@
+Pergunta Original: 4 Testes de software-    
+ 
+1. Subtópico:
+1. Conceitos básicos de testes de software
+Assertivas:
+1. O teste de software é um processo sistemático utilizado para garantir a qualidade e adequação de um sistema ou aplicação.
+2. O principal objetivo dos testes de software é identificar falhas e erros, proporcionando correções e melhorias antes da disponibilização do software ao usuário final.
+3. Existem diferentes tipos de testes de software, como testes unitários, testes de integração, testes de sistema e testes de aceitação.
+4. Os testes unitários são realizados nas menores partes do software, como funções e métodos individuais, verificando se eles produzem os resultados esperados.
+5. Os testes de integração têm como objetivo verificar se as diferentes partes do software funcionam de forma adequada quando combinadas.
+6. Os testes de sistema são destinados a validar todo o sistema em relação a seus requisitos funcionais e não funcionais definidos.
+7. Os testes de aceitação são realizados para verificar se o software atende aos critérios estabelecidos pelo usuário final ou cliente.
+8. A estratégia de testes de software deve considerar a cobertura de casos de teste, priorização de funcionalidades e riscos envolvidos.
+9. A documentação dos testes de software é fundamental para registrar os resultados obtidos e orientar futuras modificações e manutenções no software.
+10. O processo de teste de software é contínuo e pode ser executado em diferentes fases do desenvolvimento, como no início, durante e após a implementação do sistema.
+
+2. Subtópico:
+2. Tipos de testes de software: unitário, integração, sistema e aceitação
+Assertivas:
+1. Os testes unitários têm como objetivo verificar a funcionalidade correta de componentes ou partes isoladas do software.
+2. Os testes de integração são realizados para verificar a correta interação entre as diferentes partes do software.
+3. Os testes de sistema são focados em verificar se o software atende a todos os requisitos funcionais e não funcionais estabelecidos.
+4. Os testes de aceitação são realizados para verificar se o software atende as expectativas e requisitos dos usuários finais.
+5. Os testes unitários são normalmente implementados pelos próprios desenvolvedores, já que eles estão familiarizados com o código.
+6. Os testes de integração exigem que diferentes componentes sejam combinados para verificar se trabalham corretamente em conjunto.
+7. Os testes de sistema são realizados em uma versão completa do software, simulando situações reais de uso.
+8. Os testes de aceitação são normalmente realizados pelos usuários finais ou pelos stakeholders do projeto.
+9. Os testes de unidade podem ser automatizados utilizando ferramentas específicas para facilitar e agilizar o processo.
+10. Os testes de integração são realizados após os testes unitários para verificar se as partes integradas funcionam corretamente.
+
+3. Subtópico:
+3. Técnicas estáticas e dinâmicas para teste de software
+Assertivas:
+1. As técnicas estáticas são utilizadas para analisar a documentação do software sem a necessidade de sua execução.
+2. A revisão de código é uma técnica estática que verifica a correção e a qualidade do código-fonte.
+3. A análise estática de código-fonte é uma técnica que permite identificar potenciais problemas sem executar o software.
+4. As técnicas dinâmicas são utilizadas para testar o software em execução.
+5. O teste de unidade é uma técnica dinâmica que verifica a corretude de partes isoladas do software.
+6. O teste de integração é uma técnica dinâmica que verifica a interação entre diferentes módulos do software.
+7. O teste de sistema é uma técnica dinâmica que verifica se as funcionalidades do software atendem aos requisitos especificados.
+8. O teste de regressão é uma técnica dinâmica que verifica se modificações ou correções não afetaram outras partes do software.
+9. O teste de desempenho é uma técnica dinâmica que verifica o comportamento do software em diferentes condições de carga.
+10. O teste de segurança é uma técnica dinâmica que verifica se o software possui vulnerabilidades que possam ser exploradas.
+
+4. Subtópico:
+4. Teste funcional e não funcional: conceitos e diferenças 
+Assertivas:
+1. O teste funcional é usado para verificar se um sistema ou software atende aos requisitos funcionais estabelecidos.
+2. O teste não funcional é utilizado para avaliar características do sistema que não estão relacionadas diretamente às suas funcionalidades.
+3. O teste funcional tem como objetivo garantir que o sistema funcione corretamente em diferentes cenários e circunstâncias.
+4. O teste não funcional visa avaliar aspectos como desempenho, segurança, usabilidade e escalabilidade do sistema.
+5. Enquanto o teste funcional se concentra nas entradas e saídas do sistema, o teste não funcional analisa a qualidade e o desempenho do sistema.
+6. O teste funcional verifica se todas as funcionalidades do sistema estão implementadas corretamente.
+7. O teste não funcional verifica se o sistema atende aos requisitos de desempenho, segurança e usabilidade estabelecidos.
+8. O teste funcional é realizado através da execução de casos de teste que verificam as funcionalidades do sistema.
+9. O teste não funcional é realizado através da simulação de cenários de uso do sistema e da análise de métricas de desempenho.
+10. Ambos os testes, funcional e não funcional, são essenciais para garantir a qualidade e o bom funcionamento de um sistema ou software.
+
+5. Subtópico:
+5. Ferramentas para automação dos testes 
+Assertivas:
+1. As ferramentas de automação de testes são utilizadas para automatizar a execução de testes em sistemas, agilizando o processo de verificação de qualidade.
+2. As ferramentas de automação de testes permitem a criação de scripts ou casos de teste automatizados, que podem ser executados de forma repetida e consistente.
+3. Uma característica comum das ferramentas de automação de testes é a capacidade de gravar a interação do usuário com a aplicação, gerando scripts automáticos.
+4. As ferramentas de automação de testes podem ser utilizadas para testar aplicativos web, móveis, desktop, entre outros.
+5. Uma vantagem das ferramentas de automação de testes é a redução do tempo necessário para executar testes, o que permite um ciclo de desenvolvimento mais ágil e eficiente.
+6. As ferramentas de automação de testes podem ser integradas com outras ferramentas de gerenciamento de projetos, como sistemas de controle de versão e ferramentas de gerenciamento de bugs.
+7. A escolha da ferramenta de automação de testes deve considerar o tipo de aplicação a ser testada, a linguagem de programação utilizada, entre outros fatores.
+8. As ferramentas de automação de testes podem ser utilizadas para validar diferentes funcionalidades do sistema, como formulários, validações, fluxos de navegação, entre outros.
+9. É importante realizar a manutenção periódica dos scripts de teste automatizados, para mantê-los atualizados e adequados às mudanças no sistema.
+10. As ferramentas de automação de testes podem contribuir para a qualidade do software produzido, ao permitir a detecção precoce de problemas e a garantia de que as funcionalidades estão sendo corretamente implementadas.
+
+6. Subtópico:
+6. Planejamento e controle do teste de software
+Assertivas:
+1. O planejamento do teste de software é fundamental para garantir a eficiência e eficácia das atividades de teste.
+
+2. O controle do teste de software envolve o acompanhamento e a supervisão das atividades de teste em conformidade com o planejamento estabelecido.
+
+3. O planejamento do teste de software inclui a definição dos objetivos, escopo, recursos e cronograma das atividades de teste.
+
+4. O controle do teste de software envolve a verificação do cumprimento dos requisitos e padrões estabelecidos para as atividades de teste.
+
+5. O planejamento do teste de software requer uma análise cuidadosa dos requisitos funcionais e não funcionais do sistema a ser testado.
+
+6. O controle do teste de software envolve a revisão e a atualização constante dos planos e documentos relacionados às atividades de teste.
+
+7. O planejamento do teste de software deve ser realizado de forma colaborativa, envolvendo a equipe de desenvolvimento e demais stakeholders.
+
+8. O controle do teste de software requer a utilização de métricas e indicadores para avaliar a performance e qualidade dos testes realizados.
+
+9. O planejamento do teste de software deve levar em consideração os riscos envolvidos no projeto e estabelecer estratégias para mitigá-los.
+
+10. O controle do teste de software envolve a identificação e correção de falhas e problemas identificados durante as atividades de teste.
+
+7. Subtópico:
+7. Metodologias ágeis no contexto dos testes de software
+Assertivas:
+1. A prática das metodologias ágeis no contexto dos testes de software favorece a colaboração e comunicação entre os membros da equipe de desenvolvimento.
+2. As metodologias ágeis no contexto dos testes de software enfatizam a entrega contínua de software funcional e testado.
+3. A utilização de metodologias ágeis nos testes de software permite uma resposta rápida às mudanças de requisitos ou prioridades.
+4. Em metodologias ágeis no contexto dos testes de software, os testes são realizados de maneira incremental, em pequenas partes do software desenvolvido.
+5. A adoção das metodologias ágeis no contexto dos testes de software auxilia na identificação antecipada de problemas e na redução de riscos.
+6. Nas metodologias ágeis no contexto dos testes de software, é comum a utilização de testes automatizados para garantir a qualidade do software.
+7. As metodologias ágeis no contexto dos testes de software enfatizam a participação ativa do cliente no processo de validação dos testes.
+8. Em metodologias ágeis no contexto dos testes de software, são valorizadas ações de feedback contínuo e melhoria constante dos processos de teste.
+9. A aplicação de metodologias ágeis no contexto dos testes de software favorece a entrega de software com maior aderência aos requisitos do cliente.
+10. A utilização das metodologias ágeis no contexto dos testes de software resulta em um maior envolvimento e engajamento dos membros da equipe de desenvolvimento nos testes e na qualidade do software produzido.
+
+8. Subtópico:
+8. Gestão da qualidade em testes de software 
+Assertivas:
+1. A gestão da qualidade em testes de software visa garantir a conformidade dos produtos com os requisitos definidos.
+2. A gestão da qualidade em testes de software envolve planejamento, execução, monitoramento e controle das atividades de teste.
+3. A implantação de um processo de gestão da qualidade em testes de software contribui para a redução de erros e falhas em produtos e sistemas.
+4. A gestão da qualidade em testes de software requer a aplicação de técnicas e metodologias específicas para identificar e corrigir defeitos.
+5. A utilização de métricas e indicadores é importante na gestão da qualidade em testes de software para avaliar o desempenho e a eficácia do processo.
+6. A gestão da qualidade em testes de software envolve a definição de critérios de aceitação para os produtos testados.
+7. A gestão da qualidade em testes de software deve considerar a capacitação técnica e o treinamento adequado da equipe responsável pelas atividades de teste.
+8. A gestão da qualidade em testes de software requer a documentação das atividades realizadas, bem como a geração de relatórios de acompanhamento.
+9. A realização de testes de regressão é uma das práticas comumente utilizadas na gestão da qualidade em testes de software.
+10. A gestão da qualidade em testes de software busca melhorar continuamente os processos e produtos, visando à satisfação do cliente.
+
+9. Subtópico:
+9. Teste baseado em modelo: conceito, vantagens e desvantagens 
+Assertivas:
+1. O teste baseado em modelo é um método de teste que utiliza um modelo de referência para guiar o processo de teste.
+2. Uma vantagem do teste baseado em modelo é a possibilidade de identificar defeitos precocemente ao longo do ciclo de desenvolvimento do software.
+3. O teste baseado em modelo permite a criação de casos de teste de forma sistemática e estruturada, levando a uma cobertura mais abrangente.
+4. Ao utilizar o teste baseado em modelo, é possível gerar automaticamente casos de teste a partir do modelo, economizando tempo e esforço.
+5. Uma desvantagem do teste baseado em modelo é a dependência da precisão do modelo utilizado, já que qualquer imprecisão pode levar a falhas nos casos de teste.
+6. O teste baseado em modelo é especialmente eficaz em sistemas complexos, nos quais a visualização e análise do modelo facilitam a detecção de problemas.
+7. A utilização do teste baseado em modelo pode resultar em uma redução dos custos de teste, uma vez que é possível realizar testes de forma mais ágil e eficiente.
+8. O teste baseado em modelo proporciona maior rastreabilidade entre os requisitos do sistema e os casos de teste, permitindo uma melhor gerência do processo de teste.
+9. A automação do teste baseado em modelo pode melhorar consideravelmente a produtividade da equipe de teste, permitindo focar em atividades mais valiosas.
+10. O teste baseado em modelo pode ajudar a identificar inconsistências e contradições entre os requisitos e o design do sistema, minimizando riscos em sua implementação.
+
+10. Subtópico:
+10. Análise estática versus
+Assertivas:
+Análise Estática Versus Análise Dinâmica em Programação:
+
+1. A análise estática é baseada na verificação de código-fonte sem a necessidade de execução do programa.
+2. A análise dinâmica envolve a execução do programa em tempo de teste para identificar erros e verificar o comportamento do programa.
+3. A análise estática é mais eficiente na detecção de erros de sintaxe e problemas com a estrutura do código.
+4. A análise dinâmica é capaz de identificar erros que só ocorreriam em tempo de execução, como acesso a memória inválida.
+5. A análise estática é geralmente usada durante o processo de desenvolvimento para identificar possíveis problemas antes da execução do programa.
+6. A análise dinâmica é frequentemente utilizada em testes de software para verificar a corretude e o desempenho do programa em diferentes situações.
+7. A análise estática é menos propensa a identificar erros relacionados a problemas de lógica e comportamento do programa.
+8. A análise dinâmica permite a detecção de erros de execução como loops infinitos ou condições não tratadas.
+9. A análise estática é mais rápida, pois não requer a execução do programa.
+10. A análise dinâmica é mais precisa, pois leva em consideração fatores que só são conhecidos durante a execução.
+
+

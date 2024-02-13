@@ -1,0 +1,87 @@
+Pergunta Original: 12 Python-    
+ 
+1. Subtópico:
+1. Sintaxe Básica de Python: Compreensão dos fundamentos da linguagem, incluindo variáveis, tipos de dados, operadores e estruturas de controle.
+Assertivas:
+1. A sintaxe básica de Python envolve a utilização de variáveis para armazenar valores.
+2. Em Python, é possível atribuir diferentes tipos de dados a uma variável, como números, strings e listas.
+3. Os operadores aritméticos em Python permitem realizar operações matemáticas, como adição, subtração, multiplicação e divisão.
+4. Python possui estruturas de controle como if, else e elif, que permitem tomar decisões com base em condições especificadas.
+5. A estrutura de controle for em Python é utilizada para executar um bloco de código várias vezes, com base em uma sequência ou lista.
+6. A sintaxe básica de Python inclui a utilização de comentários para melhorar a legibilidade do código, utilizando o caractere #.
+7. Os operadores relacionais em Python permitem comparar valores e retornam um resultado booleano, como verdadeiro ou falso.
+8. Python suporta operadores lógicos, como and, or e not, que permitem combinar condições e avaliar expressões booleanas.
+9. É possível utilizar estruturas de repetição como while em Python, que executa um bloco de código enquanto uma condição for verdadeira.
+10. Python possui uma sintaxe própria para a declaração e definição de funções, que permitem agrupar e reutilizar blocos de código.
+
+2. Subtópico:
+2. Estruturas de Dados em Python: Conhecimento sobre listas, tuplas, dicionários e conjuntos.
+Assertivas:
+1. As listas em Python são estruturas de dados ordenadas, mutáveis e podem conter elementos de diferentes tipos.
+2. As tuplas em Python são estruturas de dados imutáveis, ordenadas e podem conter elementos de diferentes tipos.
+3. Os dicionários em Python são estruturas de dados que armazenam pares chave-valor, não são ordenados e permitem acesso rápido aos elementos.
+4. Os conjuntos em Python são estruturas de dados não ordenadas, mutáveis e não permitem elementos duplicados.
+5. Em listas, é possível acessar elementos através de índices, permitindo alterações nos valores armazenados.
+6. Tuplas podem ser usadas como chaves de dicionários devido à sua imutabilidade.
+7. Dicionários podem ser iterados através de suas chaves, valores ou itens (pares chave-valor).
+8. Os conjuntos em Python possuem métodos para realizar operações matemáticas como união, interseção e diferença.
+9. Listas, tuplas e dicionários podem ser aninhados em estruturas mais complexas para organizar dados em hierarquias.
+10. A complexidade de tempo para inserir, pesquisar ou deletar elementos em uma lista é O(n), enquanto nos dicionários é O(1) em média.
+
+3. Subtópico:
+3. Funções em Python: Definição e uso de funções, parâmetros padrão e argumentos variáveis.
+Assertivas:
+1. As funções em Python são blocos de código reutilizáveis que executam uma tarefa específica.
+2. As funções em Python são definidas usando a palavra-chave "def", seguida pelo nome da função e parênteses.
+3. As funções podem receber parâmetros, que são valores fornecidos quando a função é chamada.
+4. Os parâmetros padrão são valores que a função assume automaticamente caso nenhum valor seja fornecido durante a chamada da função.
+5. Os parâmetros padrão permitem que uma função seja chamada com menos argumentos do que o número total de parâmetros.
+6. Os argumentos variáveis em Python permitem que uma função receba um número indefinido de argumentos.
+7. Os argumentos variáveis são indicados pelo uso de asteriscos (*) antes do nome do parâmetro.
+8. Ao utilizar argumentos variáveis, é possível passar uma quantidade variável de argumentos ao chamar a função.
+9. Os argumentos variáveis são armazenados como uma tupla dentro da função.
+10. As funções em Python podem retornar valores usando a palavra-chave "return", e podem ser utilizadas em expressões ou atribuídas a variáveis.
+
+4. Subtópico:
+4. Programação Orientada a Objetos com Python: Classes, objetos, herança e polimorfismo.
+Assertivas:
+1. Na programação orientada a objetos com Python, uma classe é uma estrutura que define um conjunto de atributos e métodos que caracterizam um objeto.
+2. Os objetos são instâncias de classes e são criados a partir do uso da palavra-chave "class" seguida do nome da classe seguida por parênteses vazios.
+3. A herança é um conceito fundamental na programação orientada a objetos que permite que uma classe herde atributos e métodos de outra classe.
+4. Em Python, para criar uma classe derivada de uma classe base, utilizamos a sintaxe "class NomeClasseDerivada(NomeClasseBase):".
+5. O polimorfismo é a capacidade de um objeto poder ser referenciado por um ou mais tipos diferentes, permitindo a execução de diferentes comportamentos dependendo do tipo de objeto.
+6. Em Python, o polimorfismo pode ser alcançado através do uso de polimorfismo de sobrecarga, onde métodos com o mesmo nome são definidos em diferentes classes, e o polimorfismo de sobrescrita, onde um método da classe base é reescrito na classe derivada.
+7. O encapsulamento é um princípio da orientação a objetos que envolve a proteção dos atributos e métodos de uma classe, permitindo o acesso a eles apenas através de métodos públicos.
+8. Em Python, a convenção de nomenclatura é utilizar um underscore ("_") antes do nome de um atributo ou método para indicar que ele deve ser tratado como privado.
+9. Uma classe em Python pode ter múltiplos construtores através do uso de métodos com o mesmo nome da classe, mas com diferentes argumentos (polimorfismo de sobrecarga).
+10. O método __init__() é um construtor especial em Python que é chamado automaticamente quando um novo objeto da classe é criado, permitindo a inicialização dos atributos.
+
+5. Subtópico:
+5. Manipulação de Arquivos em Python: Leitura e escrita em arquivos usando a linguagem Python.
+Assertivas:
+1. A linguagem Python oferece uma série de recursos para a manipulação de arquivos.
+2. A leitura de um arquivo em Python pode ser feita utilizando a função "open" e o modo de leitura adequado.
+3. Ao abrir um arquivo em modo de leitura, é possível utilizar o método "read" para obter todo o conteúdo do arquivo de uma única vez.
+4. A leitura de um arquivo pode ser feita por linhas, utilizando o método "readline".
+5. A escrita em um arquivo em Python pode ser feita usando o modo de escrita e o método "write".
+6. Ao escrever em um arquivo, é possível utilizar o método "writelines" para escrever várias linhas de uma vez.
+7. É importante fechar o arquivo após a leitura ou a escrita, utilizando o método "close".
+8. Python permite a criação de um novo arquivo durante a escrita, se o arquivo especificado não existir.
+9. No caso de manipulação de arquivos de texto, é possível especificar a codificação a ser utilizada na abertura do arquivo.
+10. É possível, em Python, ler e escrever simultaneamente em um arquivo, por meio do modo de leitura e escrita ("r+").
+
+6. Subtópico:
+6. Bibliotecas
+Assertivas:
+1. Bibliotecas são locais que armazenam e disponibilizam diversos tipos de materiais, como livros, periódicos, CDs e DVDs, para consulta e empréstimo.
+2. As bibliotecas são importantes espaços de promoção e difusão do conhecimento, contribuindo para a formação e desenvolvimento intelectual das pessoas.
+3. As bibliotecas públicas são instituições vinculadas ao poder público e têm como objetivo principal oferecer acesso gratuito à informação e cultura para toda a população.
+4. As bibliotecas universitárias têm um papel fundamental no suporte ao ensino, pesquisa e extensão, viabilizando o acesso a materiais especializados e auxiliando na formação acadêmica dos estudantes.
+5. Bibliotecas especializadas são voltadas para determinadas áreas do conhecimento, como direito, medicina, engenharia, entre outras, e oferecem acervo e serviços mais direcionados a essas áreas.
+6. Atualmente, as bibliotecas também têm se adaptado às demandas digitais, oferecendo acesso a recursos eletrônicos, como e-books, revistas online e bases de dados.
+7. Além do empréstimo de materiais, as bibliotecas também promovem atividades culturais, como palestras, exposições, clubes de leitura e oficinas, visando aproximar a comunidade do universo literário e artístico.
+8. Bibliotecas podem ser encontradas em diferentes espaços, como escolas, universidades, órgãos governamentais, empresas e até mesmo em unidades móveis, como bibliotecas itinerantes.
+9. O bibliotecário é o profissional responsável por gerenciar, organizar e promover o acervo de uma biblioteca, além de auxiliar os usuários nas suas necessidades de pesquisa e estudo.
+10. A busca por informações nas bibliotecas pode ser feita através de catálogos em formato físico ou online, que permitem localizar materiais específicos dentro do acervo disponível.
+
+

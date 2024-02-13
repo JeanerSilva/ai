@@ -1,0 +1,143 @@
+Pergunta Original: 12.4 Java- sintaxe básica    
+ 
+1. Subtópico:
+1. Estrutura básica de um programa em Java
+Assertivas:
+1. Um programa em Java segue a estrutura básica de uma classe Java contendo método principal.
+2. A estrutura básica de um programa em Java inclui a declaração de pacote, importação das bibliotecas necessárias e a definição da classe.
+3. O método principal deve ser declarado como público, estático e sem retorno (void) em um programa Java.
+4. A estrutura básica de um programa em Java também inclui a definição do método principal utilizando a assinatura correta (public static void main(String[] args)).
+5. A declaração das variáveis e constantes no programa Java deve ser feita dentro dos blocos de código.
+6. A estrutura básica de um programa em Java pode conter a definição de métodos além do método principal.
+7. Um programa Java precisa ter pelo menos uma instrução dentro do método principal.
+8. As instruções no programa Java devem terminar com ponto e vírgula.
+9. A estrutura básica de um programa em Java inclui a possibilidade de utilizar os comandos condicionais (if, else) e comandos de repetição (for, while).
+10. A estrutura básica de um programa em Java deve respeitar a sintaxe da linguagem, incluindo a abertura e fechamento dos blocos de código com chaves.
+
+2. Subtópico:
+2. Tipos de dados e variáveis em Java
+Assertivas:
+1. Em Java, o tipo de dado "int" representa números inteiros.
+2. O tipo de dado "double" em Java é utilizado para representar números decimais com maior precisão.
+3. A variável em Java é um local de armazenamento que pode conter diferentes tipos de dados.
+4. Em Java, o tipo de dado "boolean" é utilizado para representar valores lógicos, sendo verdadeiro ou falso.
+5. O tipo de dado "char" em Java é utilizado para representar caracteres Unicode de 16 bits.
+6. Em Java, o tipo de dado "String" representa uma sequência de caracteres.
+7. O tipo de dado "byte" em Java representa números inteiros de 8 bits.
+8. O tipo de dado "short" em Java representa números inteiros de 16 bits.
+9. O tipo de dado "long" em Java representa números inteiros de 64 bits.
+10. Em Java, o tipo de dado "float" é utilizado para representar números decimais com precisão menor do que o "double".
+
+3. Subtópico:
+3. Operadores e expressões em Java
+Assertivas:
+1. Em Java, o operador de atribuição "=" é usado para atribuir um valor a uma variável.
+2. O operador de adição "+" pode ser usado tanto para realizar a adição de números como para concatenar strings em Java.
+3. Em uma expressão aritmética em Java, as operações de multiplicação e divisão têm precedência sobre as operações de adição e subtração.
+4. Em Java, o operador de igualdade "==" é utilizado para testar se dois valores são iguais.
+5. O operador de negação "!" inverte o valor de uma expressão booleana em Java.
+6. Em uma expressão condicional em Java, o operador ternário "?" é usado para fazer uma escolha entre dois valores possíveis com base em uma condição.
+7. O operador de incremento "++" é usado para adicionar 1 a uma variável em Java.
+8. O operador de módulo "%" retorna o resto da divisão de um número por outro em Java.
+9. Em uma expressão lógica em Java, o operador "&&" representa a conjunção lógica, retornando verdadeiro apenas se ambos os operandos forem verdadeiros.
+10. O operador de deslocamento à direita ">>" realiza um deslocamento dos bits de um número para a direita em Java, dividindo-o por uma potência de 2.
+
+4. Subtópico:
+4. Controle de fluxo: loops e condicionais em Java
+Assertivas:
+1. Em Java, o controle de fluxo pode ser feito por meio de loops e condicionais.
+2. Os loops em Java, como o 'for' e o 'while', permitem a repetição de um bloco de código enquanto uma condição é verdadeira.
+3. Os condicionais em Java, como o 'if' e o 'switch', permitem a execução de diferentes blocos de código dependendo de uma determinada condição.
+4. O operador condicional ternário (? :) em Java é uma forma compacta de escrever uma estrutura condicional com dois possíveis resultados.
+5. Os loops 'for' e 'while' em Java possuem a capacidade de utilizar um comando de interrupção, como o 'break', para encerrar a execução antecipadamente.
+6. Os loops 'for' em Java possuem uma seção opcional chamada 'step', que permite definir o incremento ou decremento a cada iteração.
+7. É possível utilizar múltiplos condicionais encadeados em Java por meio do uso do operador lógico '&&' (AND) ou '||' (OR).
+8. A estrutura 'switch' em Java permite a execução de diferentes blocos de código com base nos valores de uma expressão.
+9. Os condicionais em Java podem ser aninhados, ou seja, é possível utilizar um condicional dentro de outro condicional.
+10. O controle de fluxo em Java é fundamental para a execução condicional e repetitiva de instruções, possibilitando a lógica e o fluxo corretos do programa.
+
+5. Subtópico:
+5. Tratamento de exceções em Java
+Assertivas:
+1. Em Java, o tratamento de exceções é uma forma de lidar com erros que podem ocorrer durante a execução de um programa.
+2. O tratamento de exceções em Java é baseado no uso dos blocos try-catch-finally.
+3. A cláusula try é utilizada para envolver o código que pode lançar uma exceção.
+4. A cláusula catch é utilizada para capturar a exceção lançada e tratar o erro de forma adequada.
+5. É possível ter mais de um bloco catch em um único bloco try, permitindo o tratamento diferenciado para múltiplas exceções.
+6. A cláusula finally é utilizada para definir um bloco de código que será executado independentemente de ocorrer ou não uma exceção.
+7. É possível usar a palavra-chave throw para explicitamente lançar uma exceção em Java.
+8. As exceções em Java são agrupadas em hierarquias, sendo que todas as exceções são subclasses diretas ou indiretas da classe Throwable.
+9. As exceções em Java são divididas em dois tipos: exceções verificadas (checked exceptions) e exceções não verificadas (unchecked exceptions).
+10. É possível criar exceções personalizadas em Java estendendo a classe Exception ou RuntimeException, de acordo com a natureza da exceção.
+
+6. Subtópico:
+6. Arrays e Strings em Java 
+Assertivas:
+1. Em Java, um array é um objeto que armazena uma sequência de elementos do mesmo tipo.
+2. Ao declarar um array em Java, é necessário especificar o tipo de dado dos elementos que ele irá armazenar.
+3. Em um array em Java, os elementos são acessados por meio de um índice, que começa em 0.
+4. É possível modificar os elementos de um array em Java após a sua criação.
+5. Em Java, o tamanho de um array pode ser obtido por meio da propriedade length.
+6. Em Java, é possível percorrer um array utilizando um loop for ou um loop while.
+7. Em um array em Java, é possível armazenar tanto tipos primitivos quanto objetos.
+8. Em Java, é possível criar arrays multidimensionais, ou seja, arrays que contêm outros arrays.
+9. Em Java, uma String é uma sequência de caracteres.
+10. Em Java, é possível acessar os caracteres individuais de uma String utilizando o operador de índice ([]).
+
+7. Subtópico:
+7. Conceitos básicos de Orientação a Objetos em Java 
+Assertivas:
+1. Na orientação a objetos em Java, uma classe é uma estrutura que define um conjunto de objetos com características e comportamentos similares.
+2. A herança é um conceito fundamental na orientação a objetos em Java e permite que uma classe herde características e comportamentos de outra classe.
+3. O polimorfismo é um princípio da orientação a objetos em Java que permite que um objeto possa ser referenciado por diferentes tipos, possibilitando mais flexibilidade e reutilização de código.
+4. O encapsulamento é um princípio da orientação a objetos em Java que consiste em ocultar os detalhes internos de uma classe, permitindo o acesso apenas por meio de métodos ou propriedades específicas.
+5. Na orientação a objetos em Java, uma interface define uma coleção de métodos que uma classe deve implementar, mas não define a implementação própria desses métodos.
+6. O polimorfismo de sobrecarga em Java permite que uma classe tenha vários métodos com o mesmo nome, porém com diferentes parâmetros, facilitando a chamada desses métodos de acordo com o contexto.
+7. Na orientação a objetos em Java, a palavra-chave "super" é utilizada para referenciar a classe pai e acessar seus métodos ou construtores.
+8. A palavra-chave "this" em Java faz referência ao objeto atual da classe, permitindo o acesso aos seus atributos e métodos.
+9. Em Java, o modificador de acesso "protected" permite que os membros de uma classe sejam acessados por classes do mesmo pacote ou por suas subclasses.
+10. Na orientação a objetos em Java, um construtor é um método especial utilizado para criar objetos de uma determinada classe, sendo executado automaticamente no momento da instanciação.
+
+8. Subtópico:
+8. Criação e uso de métodos e funções em Java 
+Assertivas:
+1. Os métodos e funções em Java são utilizados para organizar e reutilizar blocos de código.
+2. Os métodos em Java devem ser declarados dentro de uma classe.
+3. As funções em Java podem ser chamadas a partir de qualquer lugar do programa.
+4. Os métodos podem ou não receber parâmetros em Java.
+5. As funções em Java podem ou não retornar um valor.
+6. O nome de um método ou função em Java deve seguir as regras de nomenclatura da linguagem.
+7. É possível criar métodos e funções sobrecarregados em Java, ou seja, com o mesmo nome, mas com diferentes parâmetros.
+8. Os métodos e funções em Java podem ser modificadores de acesso, como public, private ou protected.
+9. Em Java, é possível criar métodos/funções estáticos, que podem ser acessados sem a necessidade de instanciar uma classe.
+10. Os métodos e funções em Java podem ser utilizados para encapsular a lógica de um programa e melhorar a legibilidade e manutenção do código.
+
+9. Subtópico:
+9. Manipulação básica de arquivos com Java 
+Assertivas:
+1. A classe java.io.File é utilizada para a manipulação básica de arquivos em Java.
+2. A criação de um objeto do tipo File em Java não implica na criação física do arquivo no sistema de arquivos.
+3. A classe java.nio.file.Path está disponível a partir da versão 1.7 do Java para manipulação de arquivos.
+4. Para ler o conteúdo de um arquivo em Java, é necessário utilizar classes como FileInputStream ou FileReader.
+5. O método File.exists() retorna true se o arquivo especificado existe no sistema de arquivos.
+6. A exceção FileNotFoundException é lançada quando um arquivo não é encontrado durante a manipulação básica de arquivos em Java.
+7. O método File.delete() é utilizado para excluir um arquivo do sistema de arquivos.
+8. É possível verificar se um arquivo é um diretório utilizando o método File.isDirectory().
+9. Para criar um novo diretório em Java, basta utilizar o método File.mkdir().
+10. Ao manipular arquivos em Java, é necessário lidar com exceções do tipo IOException.
+
+10. Subtópico:
+10. Introdução à API Collections do Java
+Assertivas:
+1. A API Collections do Java fornece classes e interfaces para manipulação de coleções de objetos.
+2. A API Collections do Java permite a adição, remoção, pesquisa e ordenação de elementos em uma coleção.
+3. A interface List da API Collections do Java permite a criação de listas ordenadas de objetos.
+4. A interface Set da API Collections do Java permite a criação de conjuntos não ordenados, sem elementos duplicados.
+5. A classe ArrayList da API Collections do Java implementa a interface List e armazena elementos em uma estrutura de array redimensionável.
+6. A classe LinkedList da API Collections do Java implementa a interface List e armazena elementos em uma estrutura de lista duplamente encadeada.
+7. A classe HashSet da API Collections do Java implementa a interface Set e armazena elementos em uma tabela de dispersão.
+8. A classe TreeSet da API Collections do Java implementa a interface Set e armazena elementos em uma árvore balanceada.
+9. A classe Collections da API Collections do Java fornece diversos métodos utilitários para manipulação de coleções, como ordenação e pesquisa.
+10. A API Collections do Java facilita o uso e a manipulação de coleções de objetos de forma eficiente e segura.
+
+

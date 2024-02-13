@@ -1,0 +1,141 @@
+Pergunta Original: 12.8 Java- classes   
+ 
+1. Subtópico:
+1. Definição e estrutura de classes em Java
+Assertivas:
+1. Na linguagem Java, uma classe é uma estrutura fundamental para a programação orientada a objetos.
+2. Uma classe em Java é composta por atributos, métodos e construtores.
+3. Os atributos em uma classe Java representam as características ou propriedades dos objetos dessa classe.
+4. Os métodos em uma classe Java são responsáveis por descrever as ações que os objetos dessa classe podem realizar.
+5. Um construtor em Java é um método especial utilizado para criar objetos de uma classe.
+6. Em Java, é possível criar subclasses que herdam características e comportamentos de classes base.
+7. A herança em Java permite a reutilização de código, facilitando o desenvolvimento e manutenção de programas.
+8. Uma classe pode ser declarada como final em Java, indicando que ela não pode ser extendida por outras classes.
+9. Em Java, uma classe pode implementar uma ou várias interfaces para especificar um conjunto específico de métodos que devem ser implementados pela classe.
+10. As classes em Java podem ser agrupadas em pacotes, facilitando a organização e divisão lógica do código fonte.
+
+2. Subtópico:
+2. Criação de objetos a partir de classes
+Assertivas:
+1. A criação de objetos a partir de classes é um conceito fundamental na programação orientada a objetos.
+2. Através da criação de objetos a partir de classes, é possível instanciar e utilizar múltiplas cópias de um mesmo código.
+3. Ao criar objetos a partir de classes, é possível definir e acessar atributos específicos para cada instância.
+4. A criação de objetos a partir de classes permite o encapsulamento de dados e comportamentos, possibilitando a reutilização de código de forma eficiente.
+5. Um objeto é uma instância de uma classe, ou seja, é criado com base nas características definidas por uma classe.
+6. Os objetos criados a partir de uma mesma classe possuem as mesmas características e podem possuir comportamentos diferentes.
+7. A criação de objetos a partir de classes é uma forma de abstração, que permite representar entidades do mundo real de forma eficiente.
+8. Através da criação de objetos a partir de classes, é possível definir e reutilizar métodos que descrevem o comportamento dos objetos.
+9. A criação de objetos a partir de classes permite o desenvolvimento de programas modulares e organizados.
+10. Em programação orientada a objetos, a criação de objetos a partir de classes é um dos pilares principais do paradigma.
+
+3. Subtópico:
+3. Métodos e atributos das classes
+Assertivas:
+1. Os métodos de uma classe são responsáveis por definir o comportamento e as ações que a classe pode executar.
+2. Os atributos de uma classe são utilizados para armazenar e representar os dados que essa classe manipula.
+3. Métodos estão associados a objetos específicos, enquanto os atributos são os valores armazenados nesses objetos.
+4. Os métodos podem ter parâmetros, que são utilizados para receber valores externos e alterar o estado do objeto.
+5. A visibilidade de um atributo ou método de uma classe pode ser pública, privada ou protegida, determinando a acessibilidade em relação a outras classes.
+6. Um método pode invocar outros métodos dentro da mesma classe para realizar parte de sua funcionalidade.
+7. Os atributos podem ter diferentes tipos de dados, como números, strings ou até mesmo outras classes.
+8. Atributos são inicializados ao criar um objeto da classe e podem ser modificados durante a execução do programa.
+9. Os métodos podem retornar um valor, que pode ser utilizado em outras partes do programa.
+10. É possível definir atributos e métodos estáticos em uma classe, que podem ser acessados sem a necessidade de criar objetos dessa classe.
+
+4. Subtópico:
+4. Modificadores de acesso em classes: public, private, protected 
+Assertivas:
+1. O modificador de acesso "public" permite que uma classe seja acessível a todas as outras classes do mesmo pacote e também de pacotes diferentes.
+2. O modificador de acesso "private" restringe o acesso a uma classe somente ao próprio pacote em que ela está contida.
+3. O modificador de acesso "protected" permite que uma classe seja acessada por todas as classes do mesmo pacote e também por suas subclasses, independentemente do pacote em que elas estão.
+4. O modificador de acesso padrão, sem especificação, permite que uma classe seja acessada somente por classes do mesmo pacote.
+5. É possível modificar o modificador de acesso de uma classe em tempo de execução.
+6. A utilização incorreta de modificadores de acesso em classes pode violar o encapsulamento e causar insegurança no sistema.
+7. Ao tornar uma classe como "public", é possível utilizá-la em outros projetos e pacotes.
+8. Uma classe com modificador de acesso "private" não pode ser acessada por nenhuma outra classe, exceto pelas classes internas à mesma classe.
+9. Uma classe com modificador de acesso "protected" pode ser acessada por outras classes do mesmo pacote, mesmo sem herança.
+10. Ao modificar o modificador de acesso de uma classe, é importante considerar a segurança e a lógica do sistema em que ela será utilizada.
+
+5. Subtópico:
+5. Herança e Polimorfismo em Java
+Assertivas:
+1. O polimorfismo em Java permite que um objeto de uma classe filha seja tratado como um objeto da classe pai.
+2. A herança em Java permite que uma classe filha herde os membros (atributos e métodos) da classe pai.
+3. Em Java, é possível criar hierarquias de classes utilizando a palavra-chave "extends" para indicar a classe pai.
+4. A palavra-chave "super" em Java é utilizada para referenciar o construtor da classe pai.
+5. É possível criar métodos com o mesmo nome, mas com parâmetros diferentes, em classes diferentes através da sobrecarga.
+6. Em Java, o encapsulamento permite controlar o acesso aos atributos de uma classe, através de atributos privados e métodos de acesso públicos.
+7. Em uma herança múltipla em Java, uma classe filha herda os membros de múltiplas classes pais.
+8. Na herança em Java, a classe filha pode adicionar novos atributos e métodos aos já existentes na classe pai.
+9. O processo de herança em Java permite reutilizar código, evitando a duplicação de implementação.
+10. A herança em Java permite criar classes mais especializadas a partir de classes mais genéricas, facilitando a organização do código.
+
+6. Subtópico:
+6. Classes abstratas e interfaces 
+Assertivas:
+1. Uma classe abstrata não pode ser instanciada diretamente, apenas suas subclasses podem ser instanciadas.
+2. Interfaces não podem conter implementações de métodos, apenas a assinatura dos mesmos.
+3. Uma classe abstrata pode conter tanto métodos abstratos quanto métodos concretos.
+4. Uma classe pode implementar múltiplas interfaces, mas somente herdar de uma classe abstrata.
+5. Uma classe concreta que implementa uma interface deve fornecer implementações para todos os métodos declarados na interface.
+6. Uma interface pode estender outra interface, permitindo herdar métodos e constantes da interface pai.
+7. Ao herdar de uma classe abstrata, é obrigatório fornecer implementações para todos os métodos abstratos da classe.
+8. Mesmo que uma classe abstrata tenha métodos concretos, ela não pode ser instanciada diretamente.
+9. Interfaces podem ser utilizadas para definir contratos entre classes, permitindo uma maior flexibilidade na implementação das mesmas.
+10. Classes abstratas e interfaces são componentes fundamentais da orientação a objetos, permitindo a criação de hierarquias de classes e polimorfismo.
+
+7. Subtópico:
+7. Encapsulamento e ocultação de dados em Java
+Assertivas:
+1. O encapsulamento é um conceito fundamental da programação em Java que visa proteger os dados de uma classe, permitindo acesso somente por meio de métodos específicos.
+2. O encapsulamento permite controlar o acesso aos atributos de uma classe, evitando alterações indesejadas e garantindo a consistência dos dados.
+3. Em Java, para aplicar o encapsulamento, é comum utilizar os modificadores de acesso private, protected e public nos atributos e métodos de uma classe.
+4. Ao utilizar o encapsulamento em Java, é possível alterar a implementação interna de uma classe sem impactar nas demais classes que a utilizam.
+5. Com o encapsulamento, é possível garantir a consistência dos dados, pois todas as alterações devem passar por métodos que possuem regras de validação.
+6. A ocultação de dados em Java é um princípio relacionado ao encapsulamento, em que os detalhes da implementação são escondidos do usuário da classe.
+7. A ocultação de dados em Java contribui para a segurança do código, uma vez que informações sensíveis não são expostas externamente.
+8. Através do encapsulamento e ocultação de dados, é possível criar classes com alta coesão e baixo acoplamento, o que facilita a manutenção e reutilização do código.
+9. O encapsulamento em Java também permite a criação de interfaces mais simples e intuitivas, pois os métodos públicos são responsáveis por expor somente a funcionalidade desejada.
+10. Ao utilizar o encapsulamento e ocultação de dados em Java, é possível proteger a integridade dos dados e evitar efeitos colaterais indesejados causados por acessos indevidos aos atributos de uma classe.
+
+8. Subtópico:
+8. Construtores e sobrecarga de métodos 
+Assertivas:
+1. Os construtores são métodos especiais utilizados para inicializar objetos de uma classe.
+2. Um construtor sempre possui o mesmo nome da classe em que está contido.
+3. Não é possível ter mais de um construtor com o mesmo nome em uma mesma classe.
+4. A sobrecarga de métodos permite que diferentes construtores tenham a mesma quantidade de parâmetros, porém com tipos diferentes.
+5. A sobrecarga de métodos é utilizada para facilitar a criação de objetos, permitindo diferentes formas de inicialização.
+6. Na sobrecarga de métodos, os construtores devem ter nomes diferentes para que possam ser diferenciados.
+7. Ao chamar um construtor sobrecarregado, o compilador identifica qual método utilizar baseado no número e tipos dos parâmetros passados.
+8. A sobrecarga de métodos pode ser utilizada com construtores em classes, interfaces e enumerations.
+
+9. Subtópico:
+9. Uso do 'this' nas classes 
+Assertivas:
+1. A palavra reservada "this" é utilizada em uma classe para se referir à instância atual daquela classe.
+2. O "this" é utilizado para acessar os membros (atributos e métodos) da própria classe.
+3. O uso do "this" é necessário quando há uma ambiguidade entre nomes de variáveis locais e atributos da classe.
+4. O "this" não pode ser utilizado em contextos estáticos, pois faz referência à instância atual da classe.
+5. O "this" é implicitamente passado como argumento em chamadas de método não estáticos.
+6. O "this" não pode ser atribuído a outra variável, pois é uma palavra reservada do Java.
+7. O "this" só pode ser utilizado dentro do corpo da classe em que foi declarado.
+8. O "this" não precisa ser utilizado quando não há ambiguidade entre nomes de variáveis locais e atributos da classe.
+9. O "this" pode ser utilizado para chamar o construtor da própria classe a partir de outro construtor.
+10. O "this" possibilita o acesso aos atributos da instância atual, mesmo quando existem parâmetros com nomes iguais.
+
+10. Subtópico:
+10. Tratamento de exceções com classes
+Assertivas:
+1. O tratamento de exceções com classes é uma técnica utilizada na programação orientada a objetos para lidar com situações excepcionais durante a execução de um programa.
+2. No tratamento de exceções com classes, é possível definir diferentes tipos de exceções específicas para cada tipo de situação excepcional que pode ocorrer.
+3. Em Java, por exemplo, as exceções são implementadas como classes e devem ser declaradas no corpo do método ou no cabeçalho do método utilizando a palavra-chave "throws".
+4. Ao tratar exceções com classes, é possível utilizar um bloco try-catch para capturar e tratar as exceções lançadas durante a execução do programa.
+5. Uma classe de exceção pode ser criada estendendo a classe base "Exception" ou "RuntimeException", dependendo da natureza da exceção.
+6. No tratamento de exceções com classes, é possível utilizar a estrutura de herança para criar uma hierarquia de classes de exceção, permitindo o tratamento diferenciado para diferentes tipos de exceção.
+7. As classes de exceção devem seguir uma nomenclatura descritiva e significativa para melhor identificar e compreender a natureza da exceção.
+8. É recomendável criar classes de exceção específicas para cada tipo de exceção que possa ocorrer em um programa, para facilitar o tratamento adequado e a manutenção do código.
+9. O tratamento de exceções com classes permite separar a lógica do tratamento de erros do restante do código, tornando o programa mais legível e modular.
+10. Quando utilizado corretamente, o tratamento de exceções com classes contribui para a construção de código robusto e resiliente, capaz de lidar com situações excepcionais de forma eficiente e controlada.
+
+

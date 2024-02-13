@@ -1,0 +1,154 @@
+Pergunta Original: 12.7 Java- operações com strings   
+ 
+1. Subtópico:
+1. Conceitos básicos de Strings em Java
+Assertivas:
+1. Em Java, uma String é uma sequência de caracteres.
+2. Strings em Java são imutáveis, ou seja, uma vez criadas, não podem ser modificadas.
+3. Em Java, as Strings são objetos da classe String.
+4. Em Java, as Strings são armazenadas em uma área de memória chamada "String pool".
+5. Em Java, é possível concatenar duas Strings utilizando o operador "+".
+6. A classe String em Java possui diversos métodos para manipulação e comparação de Strings.
+7. Em Java, é possível criar uma String utilizando a palavra-chave "new" ou de forma literal com aspas duplas.
+8. A classe String em Java possui um método chamado "length()" que retorna o tamanho da String.
+9. Em Java, a comparação de duas Strings deve ser realizada utilizando o método "equals()".
+10. Em Java, é possível obter um caractere específico de uma String utilizando o método "charAt()".
+
+2. Subtópico:
+2. Criação e manipulação de Strings
+Assertivas:
+1. A criação de strings em linguagens de programação envolve declarar uma variável do tipo string e atribuir um valor.
+2. Strings são sequências de caracteres, como letras, números ou símbolos, que podem ser armazenadas e manipuladas em programas de computador.
+3. Em algumas linguagens de programação, as strings são imutáveis, o que significa que uma vez criadas, não é possível modificar seu conteúdo.
+4. A concatenação de strings é um processo que envolve unir duas ou mais strings em uma única string.
+5. A manipulação de strings pode envolver a extração de substrings, que são partes específicas de uma string.
+6. É possível transformar uma string em letras maiúsculas ou minúsculas através de funções ou métodos específicos.
+7. As strings podem ser comparadas umas com as outras para verificar se são iguais ou diferentes.
+8. A inversão de uma string envolve inverter a ordem dos caracteres, como transformar "hello" em "olleh".
+9. A substituição de partes de uma string por outra é uma operação comum na manipulação de strings.
+10. A indexação é uma técnica usada para acessar caracteres individuais em uma string, utilizando uma posição específica.
+
+3. Subtópico:
+3. Métodos da classe String: length, charAt, substring
+Assertivas:
+1. O método length da classe String retorna o número de caracteres presentes em uma cadeia de caracteres.
+2. O método charAt da classe String retorna o caractere presente em uma posição especificada da cadeia de caracteres.
+3. O método substring da classe String retorna uma nova cadeia de caracteres que é uma subcadeia da cadeia original, com base nos índices especificados.
+4. O método length da classe String retorna um valor inteiro positivo, igual ao número de caracteres da cadeia de caracteres.
+5. O método charAt da classe String lança uma exceção do tipo StringIndexOutOfBoundsException se o índice especificado estiver fora do intervalo válido.
+6. O método substring da classe String aceita um ou dois parâmetros inteiros, indicando os índices de início e fim da subcadeia desejada.
+7. O método length da classe String pode ser utilizado para verificar se uma cadeia de caracteres está vazia, verificando se o tamanho é igual a zero.
+8. O método charAt da classe String retorna um valor do tipo char, representando o caractere encontrado na posição especificada.
+9. O método substring da classe String retorna a subcadeia desejada sem incluir o caractere no índice final especificado.
+10. O método length da classe String não modifica a cadeia original, apenas retorna o tamanho da mesma.
+
+4. Subtópico:
+4. Comparação de Strings: equals, compareTo
+Assertivas:
+1. O método equals em Java compara o conteúdo de duas strings para verificar se são iguais.
+2. O método equalsIgnoreCase em Java compara o conteúdo de duas strings, ignorando diferenças de maiúsculas e minúsculas.
+3. O método equals em Java retorna true se as strings comparadas forem exatamente iguais em termos de conteúdo e tamanho.
+4. O método compareTo em Java compara duas strings lexicograficamente.
+5. O método compareTo em Java retorna um valor negativo se a string comparada vier antes em ordem alfabética.
+6. O método compareTo em Java retorna um valor positivo se a string comparada vier depois em ordem alfabética.
+7. O método compareTo em Java retorna 0 se as strings comparadas forem exatamente iguais.
+8. O método compareToIgnoreCase em Java compara o conteúdo de duas strings lexicograficamente, ignorando diferenças de maiúsculas e minúsculas.
+9. O método compareToIgnoreCase em Java retorna um valor negativo se a string comparada vier antes em ordem alfabética, ignorando diferenças de maiúsculas e minúsculas.
+10. O método compareToIgnoreCase em Java retorna um valor positivo se a string comparada vier depois em ordem alfabética, ignorando diferenças de maiúsculas e minúsculas.
+
+5. Subtópico:
+5. Conversão e formatação de Strings: toString, format 
+Assertivas:
+1. O método toString() converte um objeto em uma representação String correspondente.
+2. O método toString() é uma implementação padrão da classe Object e pode ser sobrescrito nas classes filhas.
+3. O método toString() retorna uma String que representa o valor do objeto.
+4. O método format() da classe String permite a formatação de Strings usando especificadores de formato.
+5. O método format() é estático, o que significa que pode ser chamado diretamente na classe String, sem a necessidade de criar uma instância dessa classe.
+6. O método format() permite a substituição de valores em uma String usando marcadores de posição.
+7. O método format() suporta diferentes especificadores de formato, como %d para valores inteiros e %s para valores de String.
+8. O método format() permite a formatação de números especificando o número de casas decimais desejadas.
+9. Ao utilizar o método format(), é necessário fornecer os argumentos a serem substituídos nos marcadores de posição.
+10. O método format() pode ser usado para criar Strings formatadas de acordo com um padrão específico.
+
+6. Subtópico:
+6. Concatenação e interpolação de Strings 
+Assertivas:
+1. A concatenação de strings é uma operação que une duas ou mais strings em uma única string.
+2. A interpolação de strings é uma forma de combinar strings com variáveis, facilitando a construção de mensagens personalizadas.
+3. Em linguagens de programação como Python e JavaScript, a concatenação de strings é realizada utilizando o operador "+".
+4. A interpolação de strings em Python pode ser feita utilizando o prefixo "f" antes das aspas, seguido das variáveis desejadas dentro das chaves "{}".
+5. Em linguagens como C# e Java, a interpolação de strings é realizada utilizando o símbolo "$" antes das aspas e as variáveis são colocadas entre chaves "{}".
+6. A concatenação de strings é considerada menos eficiente em termos de performance, pois envolve a criação de novos objetos de string a cada concatenação.
+7. A interpolação de strings elimina a necessidade de criar objetos de string adicionais, tornando-a mais eficiente em termos de performance.
+8. Em linguagens como PHP e Ruby, a concatenação de strings pode ser feita utilizando o operador "." (ponto).
+9. A interpolação de strings em PHP é realizada utilizando aspas duplas, onde as variáveis são interpretadas e substituídas pelo seu valor correspondente.
+10. A concatenação de strings é uma operação fundamental na construção de mensagens completas e dinâmicas em diversas linguagens de programação.
+
+7. Subtópico:
+7. Operações com StringBuilder e StringBuffer 
+Assertivas:
+1. O StringBuilder e o StringBuffer são classes utilizadas para manipular strings de forma eficiente. 
+
+2. Ambas as classes permitem a concatenação de strings de forma útil. 
+
+3. StringBuilder e StringBuffer são mutáveis, ou seja, permitem a alteração do valor da string presente em seu interior. 
+
+4. O StringBuilder é mais eficiente em termos de desempenho do que o StringBuffer. 
+
+5. O StringBuffer é thread-safe, ou seja, pode ser utilizado simultaneamente por várias threads sem causar problemas de concorrência. 
+
+6. O StringBuilder não é thread-safe, portanto, deve-se ter cuidado ao utilizá-lo em ambientes com várias threads. 
+
+7. Ambas as classes possuem métodos para a inserção e remoção de caracteres em posições específicas dentro da string. 
+
+8. O método "append" é utilizado para adicionar conteúdo ao final da string em um objeto StringBuilder ou StringBuffer. 
+
+9. A classe StringBuffer é legada, sendo mais adequada para cenários em que a sincronização entre threads seja necessária. 
+
+10. Ao realizar múltiplas operações de concatenação de strings, é recomendado utilizar o StringBuilder em detrimento do operador '+' para melhorar o desempenho.
+
+8. Subtópico:
+8. Imutabilidade das strings em Java 
+Assertivas:
+Aqui estão 10 afirmativas diretas e verdadeiras sobre a imutabilidade das strings em Java:
+
+1. Em Java, strings são imutáveis, o que significa que uma vez criadas, elas não podem ser modificadas.
+2. A imutabilidade das strings em Java é uma característica fundamental e inerente ao paradigma de programação da linguagem.
+3. Todas as operações que parecem modificar uma string em Java na verdade criam uma nova string, deixando a original intacta.
+4. A imutabilidade das strings em Java garante que elas sejam seguras para uso em programação concorrente.
+5. A imutabilidade das strings em Java permite que elas sejam utilizadas como chaves em estruturas de dados, como mapas e conjuntos.
+6. Strings imutáveis em Java economizam espaço na memória, pois várias referências podem apontar para uma mesma string sem risco de modificações indesejadas.
+7. Métodos de manipulação de strings em Java, como concatenar ou substituir caracteres, retornam uma nova string sem alterar a original.
+8. A imutabilidade das strings em Java facilita a criação de funções puras e ajuda a evitar efeitos colaterais indesejados.
+9. No contexto de performance, a imutabilidade das strings em Java permite otimizações internas e facilita a implementação de caches de strings.
+10. Os programadores devem ter em mente a imutabilidade das strings em Java ao escrever código, para evitar erros sutis e ineficiências desnecessárias.
+
+9. Subtópico:
+9. Uso do operador + para concatenação de strings 
+Assertivas:
+1. O operador "+" é utilizado para realizar a concatenação de strings em várias linguagens de programação.
+2. A concatenação de strings usando o operador "+" permite a união de duas ou mais cadeias de caracteres.
+3. Ao utilizar o operador "+" para concatenar strings, o resultado será uma nova string com os conteúdos das cadeias originais de forma contígua.
+4. O operador "+" é amplamente utilizado na linguagem de programação Python para realizar a concatenação de strings.
+5. Ao realizar a concatenação de strings utilizando "+" em Python, é possível unir uma string com outra string, ou mesmo uma string com um número.
+6. Em JavaScript, o operador "+" também é utilizado para realizar a concatenação de strings.
+7. Ao concatenar uma string vazia com outra string usando o operador "+", o resultado será a própria string original.
+8. O operador "+" é comumente utilizado para realizar a concatenação de strings em C#.
+9. A concatenação de strings usando "+" pode ser aplicada tanto em programas de desktop quanto em aplicações web.
+10. Ao concatenar strings usando o operador "+", é importante se atentar à ordem das cadeias para obter o resultado desejado.
+
+10. Subtópico:
+10. Tratamento e manipulação dos caracteres Unicode em strings
+Assertivas:
+1. O tratamento e manipulação dos caracteres Unicode em strings é essencial para garantir a correta exibição de textos em diferentes idiomas e sistemas de escrita.
+2. Através do uso do Unicode, é possível representar um vasto conjunto de caracteres de diferentes alfabetos, facilitando a comunicação global.
+3. O Unicode permite uma representação única e consistente de caracteres, independentemente da plataforma ou software utilizado.
+4. O tratamento adequado dos caracteres Unicode em strings é fundamental para evitar problemas de codificação e exibição inadequada de caracteres especiais.
+5. Para manipular caracteres Unicode em strings, é necessário utilizar bibliotecas ou funções que suportem tal codificação, como UTF-8 ou UTF-16.
+6. Uma das vantagens do Unicode é a capacidade de armazenar e manipular diferentes conjuntos de caracteres em uma mesma string.
+7. Ao manipular caracteres Unicode, é importante considerar suas propriedades individuais, como a direção de escrita ou a capacidade de combinação com outros caracteres.
+8. O Unicode permite a representação de emojis, símbolos matemáticos, caracteres de controle, entre outros, expandindo as possibilidades de expressão por meio de strings.
+9. O tratamento incorreto dos caracteres Unicode pode resultar em perda de informações ou na exibição inadequada de certos caracteres em diferentes sistemas operacionais e dispositivos.
+10. O conhecimento sobre a manipulação dos caracteres Unicode em strings é uma habilidade relevante para desenvolvedores de software, garantindo a qualidade e a compatibilidade de seus produtos.
+
+
