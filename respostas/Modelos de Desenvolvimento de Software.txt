@@ -1,0 +1,1473 @@
+Item do edital: 1 Kanban.    
+ 
+1. Subtópico:
+1. Definição e origem do Kanban.
+Assertivas:
+1. O Kanban é um método visual de gestão de fluxo de trabalho originário do sistema de produção da Toyota, no Japão.
+2. O termo "Kanban" vem do japonês e significa "cartão visual" ou "sinalização visível".
+3. O Kanban foi desenvolvido por Taiichi Ohno, engenheiro da Toyota, na década de 1940.
+4. O objetivo do Kanban é maximizar o fluxo de trabalho, minimizando o estoque, identificando gargalos e otimizando o processo produtivo.
+5. O Kanban utiliza cartões ou sinais visuais para representar as demandas de trabalho e controlar o fluxo de produção.
+6. O Kanban se baseia nos princípios do Just-in-Time (JIT) e da produção puxada, o que significa produzir somente o necessário e a partir da demanda real.
+7. O Kanban promove a colaboração entre as equipes de trabalho, facilitando a comunicação, o compartilhamento de conhecimento e a identificação de problemas.
+8. O Kanban é amplamente utilizado em diversos setores, além da indústria, como nas áreas de desenvolvimento de software, gestão de projetos e serviços.
+9. A popularização do Kanban se deu a partir da publicação do livro "Kanban: Successful Evolutionary Change for Your Technology Business", de David J. Anderson, em 2010.
+10. Atualmente, existem diversas ferramentas digitais disponíveis que permitem a aplicação do método Kanban de forma virtual, potencializando a gestão ágil de projetos.
+
+2. Subtópico:
+2. Princípios fundamentais do sistema Kanban.
+Assertivas:
+1. O Kanban é um sistema visual utilizado para gerenciar o fluxo de trabalho de forma eficiente.
+2. Um dos princípios fundamentais do sistema Kanban é limitar o trabalho em progresso (WIP) para evitar sobrecarga e gargalos.
+3. Outro princípio fundamental do Kanban é tornar as políticas explícitas, garantindo que todos os envolvidos no processo de trabalho estejam cientes das regras e restrições.
+4. O princípio do Kanban de "gerar feedback contínuo" incentiva a melhoria contínua ao permitir a identificação de áreas de melhoria durante todo o processo.
+5. O Kanban enfatiza a visualização do fluxo de trabalho em um quadro Kanban, permitindo que todos os membros da equipe acompanhem facilmente o status das tarefas.
+6. O sistema Kanban baseia-se no princípio de respeitar as limitações do sistema atual e buscar melhorias incrementais para evitar mudanças drásticas e perturbações desnecessárias.
+7. O Kanban incentiva a colaboração e o trabalho em equipe, pois todas as etapas e responsabilidades são transparentes para todos os envolvidos.
+8. A utilização de sinalizações visuais, como cartões Kanban, é um dos princípios fundamentais do Kanban para facilitar a comunicação e o entendimento do status das tarefas.
+9. O Kanban promove a entrega contínua de valor ao focar no fluxo de trabalho constante, reduzindo o tempo de espera e aumentando a produtividade.
+10. O princípio de "gerenciar explicitamente as políticas" no Kanban implica em estabelecer regras claras para limitar demandas excessivas e garantir que o fluxo de trabalho seja controlado de forma eficiente.
+
+3. Subtópico:
+3. Benefícios e desafios da implementação do Kanban.
+Assertivas:
+1. A implementação do Kanban ajuda a reduzir o desperdício e os custos relacionados ao estoque excessivo.
+2. O Kanban possibilita um melhor controle do fluxo de trabalho, permitindo uma produção mais eficiente e um aumento da qualidade.
+3. O Kanban facilita a identificação de gargalos e problemas no processo, permitindo que sejam rapidamente resolvidos.
+4. A utilização do Kanban promove uma maior transparência e comunicação entre os membros da equipe, favorecendo a colaboração.
+5. A implementação do Kanban demanda uma mudança cultural nas organizações, pois exige a adoção de hábitos como a autodisciplina e a responsabilidade compartilhada.
+6. O Kanban pode ser aplicado em diferentes áreas, desde a produção até o desenvolvimento de software, trazendo benefícios em cada uma delas.
+7. A implementação do Kanban requer um planejamento cuidadoso e a definição de limites claros para evitar sobrecarga ou ociosidade excessiva.
+8. A utilização do Kanban permite uma resposta mais rápida a mudanças e demandas imprevistas, aumentando a adaptabilidade da equipe.
+9. A implementação do Kanban melhora a visibilidade do progresso do trabalho, facilitando o acompanhamento e a tomada de decisões mais assertivas.
+10. O Kanban promove uma maior satisfação dos clientes, pois permite a entrega de produtos ou serviços de forma mais rápida e com qualidade superior.
+
+4. Subtópico:
+4. Diferença entre o sistema Kanban e outros sistemas de gestão de projetos.
+Assertivas:
+1. O sistema Kanban é uma ferramenta de gestão visual que permite o controle e a visualização do fluxo de trabalho de forma eficiente.
+2. Ao contrário de outros sistemas tradicionais de gestão de projetos, o Kanban se baseia na metodologia do Lean Manufacturing, visando a redução de desperdícios e o aumento da produtividade.
+3. Enquanto o método tradicional se concentra no planejamento detalhado e na alocação de recursos, o Kanban prioriza a adaptação aos imprevistos e a melhoria contínua do processo.
+4. O sistema Kanban utiliza quadros visuais, com cartões que representam as tarefas a serem executadas, facilitando o entendimento do fluxo de trabalho e a identificação de gargalos.
+5. Ao contrário de outros sistemas que adotam prazos fixos, o Kanban utiliza o conceito de fluxo contínuo, em que os trabalhos são priorizados de acordo com a capacidade da equipe e sua demanda de trabalho.
+6. Enquanto outras metodologias podem gerar atrasos em projetos devido a mudanças no escopo ou nos requisitos, o Kanban permite a flexibilidade necessária para se adaptar a essas alterações sem afetar negativamente o ritmo de trabalho.
+7. O Kanban é especialmente útil em projetos com um grande número de tarefas, prioridades mutáveis ou equipes distribuídas geograficamente, facilitando o acompanhamento do progresso.
+8. Diferentemente de outras abordagens, o Kanban enfatiza o trabalho em equipe e a colaboração entre os membros, melhorando a comunicação e a eficiência da equipe.
+9. Enquanto algumas metodologias de gerenciamento de projetos podem ser burocráticas e complexas, o Kanban é simples e fácil de entender, o que contribui para sua ampla adoção em diversos setores.
+10. O sistema Kanban tem se mostrado altamente eficaz na melhoria da produtividade, na redução do lead time e na entrega de valor de forma consistente, sendo amplamente utilizado tanto em projetos de software quanto em outros contextos empresariais.
+
+5. Subtópico:
+5. Como o sistema Kanban contribui para a melhoria contínua (Kaizen).
+Assertivas:
+1. O sistema Kanban é uma ferramenta utilizada para otimizar o fluxo de trabalho e minimizar o desperdício, contribuindo para a melhoria contínua.
+2. Ao estabelecer limites claros para o trabalho em progresso, o Kanban ajuda a identificar gargalos e incentiva a solução desses problemas, impulsionando a melhoria contínua.
+3. A visualização constante das demandas, por meio dos quadros Kanban, permite uma melhor compreensão do fluxo de trabalho, facilitando a identificação de áreas que podem ser melhoradas.
+4. O sistema Kanban promove uma cultura de responsabilidade compartilhada, incentivando os membros da equipe a identificar oportunidades de aprimoramento e implementar soluções.
+5. Através das métricas e indicadores do Kanban, como o lead time e o tempo médio de ciclo, é possível identificar os pontos de ineficiência e tomar ações para melhorar continuamente o processo.
+6. O uso do Kanban assegura a transparência das atividades e incentiva o compartilhamento de conhecimento, favorecendo a identificação de melhorias no sistema.
+7. Ao implementar o Kanban, é possível estabelecer um sistema de feedback mais eficaz, permitindo que a equipe identifique rapidamente problemas e os resolva antes que eles se tornem maiores.
+8. O Kanban proporciona agilidade ao processo de trabalho, permitindo ajustes rápidos e eficientes, o que contribui para a melhoria contínua do sistema.
+9. O sistema Kanban promove a colaboração entre os membros da equipe, facilitando a troca de ideias e conhecimentos que podem gerar melhorias significativas.
+10. A ênfase na transparência, comunicação e colaboração do Kanban cria um ambiente propício para a aprendizagem contínua e a implementação de melhorias incrementais.
+
+6. Subtópico:
+6. Tipos de cartões Kanban e suas funções específicas.
+Assertivas:
+1. O cartão Kanban é uma ferramenta utilizada no método Just-in-Time para controlar a produção e o estoque.
+2. O cartão Kanban de transporte é utilizado para controlar o fluxo de material entre diferentes áreas de uma empresa.
+3. O cartão Kanban de produção é utilizado para controlar o fluxo de produção de um determinado item, indicando quando produzir mais ou parar a produção.
+4. O cartão Kanban de fornecimento é utilizado para controlar a reposição de materiais nas áreas de produção, indicando a quantidade a ser fornecida.
+5. O cartão Kanban de serviço é utilizado em setores de serviços para controlar o fluxo de trabalho, indicando quando um serviço deve ser realizado.
+6. O cartão Kanban visual é uma variação do Kanban tradicional, em que informações são transmitidas de forma visual, como através de cores ou sinais.
+7. O cartão Kanban sequenciado é utilizado em indústrias automobilísticas, onde os itens são produzidos e fornecidos em sequência.
+8. O cartão Kanban de substituição é utilizado para garantir a disponibilidade de um item substituto imediato em caso de falha.
+9. O cartão Kanban eletrônico substitui a utilização de cartões físicos, utilizando tecnologia como QR codes ou RFID.
+10. O cartão Kanban FIFO (First In, First Out) é utilizado para controlar o estoque em ordem cronológica, evitando a obsolescência de materiais.
+
+7. Subtópico:
+7. Implementação prática do sistema Kanban: quadros, cartões, colunas etc.
+Assertivas:
+1. O sistema Kanban é amplamente utilizado para gerenciamento de fluxo em processos de produção.
+2. O Kanban utiliza quadros visuais como forma de representar o fluxo de trabalho.
+3. O uso de cartões é uma prática comum no Kanban, permitindo a movimentação das tarefas pelo quadro.
+4. As colunas no sistema Kanban representam os estágios de trabalho, facilitando a visualização do progresso das tarefas.
+5. A implementação prática do sistema Kanban facilita a identificação de gargalos no fluxo de trabalho.
+6. A utilização do sistema Kanban promove a priorização das tarefas com base na capacidade de execução.
+7. O sistema Kanban favorece a comunicação e a colaboração entre os membros da equipe.
+8. O Kanban possibilita maior transparência no processo de trabalho, uma vez que todas as tarefas são visíveis no quadro.
+9. A implementação do sistema Kanban requer o engajamento e o treinamento adequado da equipe.
+10. O sistema Kanban permite a automatização de processos, gerando maior eficiência e redução de erros.
+
+8. Subtópico:
+8. O papel da liderança na gestão eficaz do sistema Kanban.
+Assertivas:
+1. A liderança é essencial para a implantação bem-sucedida do sistema Kanban em uma organização.
+2. O líder deve promover a cultura de melhoria contínua no uso do Kanban.
+3. A liderança deve garantir a disponibilidade dos recursos necessários para a implementação do Kanban.
+4. O líder deve estar engajado na identificação de gargalos e na busca por soluções no sistema Kanban.
+5. É responsabilidade da liderança definir as prioridades e garantir o fluxo contínuo das atividades no sistema Kanban.
+6. A liderança deve promover a transparência no sistema Kanban, compartilhando informações relevantes com a equipe.
+7. É papel do líder fornecer suporte e treinamento adequados para a equipe de trabalho no sistema Kanban.
+8. A liderança deve incentivar a colaboração entre os membros da equipe, a fim de otimizar o uso do Kanban.
+9. Caberá ao líder monitorar os indicadores de desempenho do sistema Kanban e promover ajustes necessários.
+10. A liderança deve promover a integração do sistema Kanban com outras práticas de gestão existentes na organização.
+
+9. Subtópico:
+9. Uso do Sistema kanban no gerenciamento ágil
+Assertivas:
+1. O sistema Kanban é uma ferramenta utilizada no gerenciamento ágil de projetos.
+2. O Kanban é baseado no uso de cartões visuais para representar as tarefas do projeto.
+3. O objetivo do sistema Kanban é reduzir desperdício e aumentar a eficiência na gestão dos projetos.
+4. O uso do sistema Kanban permite uma melhoria contínua no fluxo de trabalho e no controle do projeto.
+5. O Kanban utiliza colunas para representar as etapas de um processo, permitindo uma visualização clara do status de cada tarefa.
+6. O sistema Kanban trabalha com uma abordagem puxada, ou seja, as equipes só iniciam novas tarefas quando há capacidade para isso.
+7. O Kanban utiliza limites de trabalho em progresso (WIP) para evitar sobrecarga e gargalos no fluxo de trabalho.
+8. O sistema Kanban é utilizado em diversos contextos além da gestão de projetos, como por exemplo, na gestão de equipes de desenvolvimento de software.
+9. O Kanban é uma abordagem flexível e adaptativa, permitindo ajustes rápidos no processo de acordo com as necessidades do projeto.
+10. O uso do sistema Kanban requer uma comunicação clara e eficiente entre os membros da equipe para garantir o alinhamento e a colaboração necessária.
+
+
+Item do edital: 1.1 Kanban funcionamento   
+ 
+1. Subtópico:
+1.1.1 Conceito e origem do Kanban
+Assertivas:
+1. O Kanban é um sistema de controle de produção que surgiu no Japão, na década de 1950.
+2. O termo "Kanban" significa "cartão visível" ou "sinal visual" em japonês.
+3. Taiichi Ohno, engenheiro da Toyota, foi o responsável pelo desenvolvimento e implementação do sistema Kanban na indústria automobilística.
+4. O Kanban tem como objetivo principal reduzir gargalos e evitar desperdícios dentro do processo produtivo.
+5. O sistema Kanban utiliza cartões ou outros meios visuais para representar a demanda de produção de cada etapa do processo.
+6. Cada cartão Kanban contém informações sobre a quantidade e o tipo de produto a ser produzido ou movimentado.
+7. O Kanban permite que as atividades de produção sejam ajustadas de acordo com a demanda real, evitando estoques excessivos ou falta de materiais.
+8. O método Kanban trabalha com o conceito de "puxar" a produção, ou seja, as etapas subsequentes do processo são acionadas apenas quando há demanda real.
+9. A implementação do sistema Kanban exige uma análise detalhada do fluxo de valor do processo produtivo, identificando suas etapas e pontos de controle.
+10. O Kanban pode ser aplicado em diferentes setores e atividades além da indústria, como serviços, desenvolvimento de software e gestão de projetos.
+
+2. Subtópico:
+1.1.2 Princípios fundamentais do Kanban
+Assertivas:
+1. Kanban é um sistema visual de gestão e controle de fluxo de trabalho.
+2. O Kanban é baseado em princípios fundamentais como limitar o trabalho em progresso (WIP), visualizar o fluxo de trabalho e otimizar continuamente o processo.
+3. O princípio de limitar o trabalho em progresso (WIP) no Kanban tem como objetivo evitar sobrecarga e gargalos no processo.
+4. A visualização do fluxo de trabalho no Kanban é feita por meio de um quadro com colunas que representam as etapas do processo e cartões que representam as tarefas.
+5. Os cartões no Kanban possuem informações como título da tarefa, responsável, prazo e status.
+6. O fluxo de trabalho no Kanban é baseado no conceito de pull, onde cada etapa do processo puxa as tarefas da etapa anterior.
+7. O Kanban busca maximizar o fluxo contínuo de trabalho, reduzindo o tempo de espera e minimizando os gargalos.
+8. O Kanban utiliza métricas como lead time (tempo necessário para concluir uma tarefa) e cycle time (tempo que uma tarefa fica em um estágio específico do processo) para avaliar o desempenho.
+9. É possível utilizar o Kanban em diversos contextos além do desenvolvimento de software, como na gestão de projetos, marketing, manufatura, entre outros.
+10. O Kanban é uma abordagem flexível, que permite adaptação às necessidades e características específicas de cada equipe ou organização.
+
+3. Subtópico:
+1.1.3 Benefícios e limitações do sistema Kanban
+Assertivas:
+1. O sistema Kanban é uma metodologia de gestão de produção e controle de estoques baseada na utilização de cartões para gerenciar o fluxo de materiais.
+2. Um dos principais benefícios do sistema Kanban é proporcionar uma visão clara e imediata sobre o status e a movimentação dos materiais na produção.
+3. O sistema Kanban permite uma melhor gestão dos estoques, reduzindo os excessos e evitando a escassez de materiais.
+4. A utilização do sistema Kanban possibilita a identificação de gargalos e a implementação de melhorias contínuas no processo produtivo.
+5. Ao implementar o sistema Kanban, é possível promover uma maior colaboração entre os departamentos, favorecendo a comunicação e o trabalho em equipe.
+6. O sistema Kanban permite uma maior flexibilidade de produção, uma vez que a reposição de materiais é realizada conforme a demanda real.
+7. É importante ressaltar que o sistema Kanban não é uma solução para todos os problemas de gestão, sendo necessário considerar outros aspectos do processo produtivo.
+8. O sistema Kanban pode apresentar limitações em situações de alta variabilidade de demanda, dificultando o planejamento e a previsibilidade.
+9. A implementação do sistema Kanban requer um planejamento adequado e a definição dos parâmetros corretos, para que haja efetividade e otimização dos resultados.
+10. A adoção do sistema Kanban pode demandar mudanças culturais e organizacionais, de forma a garantir a correta implementação e a aderência de todos os envolvidos no processo produtivo.
+
+4. Subtópico:
+1.1.4 Diferença entre Kanban e outros métodos ágeis (Scrum, Lean)
+Assertivas:
+1. Kanban, Scrum e Lean são métodos ágeis utilizados para gerenciar projetos e otimizar o fluxo de trabalho.
+2. O Kanban prioriza a visualização do trabalho em andamento por meio de quadros, enquanto o Scrum utiliza sprints para dividir o trabalho em incrementos.
+3. O Scrum e o Lean possuem papéis específicos para os membros da equipe, como o Scrum Master e o Product Owner, enquanto o Kanban não tem papéis definidos.
+4. O Lean tem como objetivo principal a eliminação de desperdícios no processo produtivo, enquanto o Kanban e o Scrum focam em otimizar o fluxo de trabalho.
+5. O Kanban utiliza limites de trabalho em progresso (WIP) para evitar a sobrecarga da equipe, enquanto o Scrum define uma quantidade fixa de trabalho a ser realizado durante cada sprint.
+6. O Scrum utiliza reuniões diárias, como o Daily Scrum, para obter transparência e alinhamento entre a equipe, enquanto o Kanban não possui reuniões específicas.
+7. O Kanban permite mudanças mais frequentes e flexibilidade no fluxo de trabalho, enquanto o Scrum é mais prescritivo e requer uma estrutura mais rígida.
+8. O Lean foi originado no setor de manufatura, com foco na eficiência e redução de desperdícios, enquanto o Kanban e o Scrum são mais amplamente aplicáveis em diferentes áreas de negócio.
+9. O Scrum enfatiza a entrega de valor ao cliente por meio de incrementos funcionais de software, enquanto o Kanban e o Lean têm abordagens mais abrangentes para otimizar o fluxo de trabalho em geral.
+10. O Kanban, Scrum e Lean são ferramentas poderosas para gerenciar projetos ágeis, e a escolha entre eles dependerá das necessidades e contexto específico de cada equipe ou organização.
+
+5. Subtópico:
+1.1.5 Implementação de um sistema Kanban: passos básicos 
+Assertivas:
+1. A implementação de um sistema Kanban requer a identificação clara dos processos-chave da organização.
+
+2. Os passos básicos para a implementação de um sistema Kanban incluem a definição dos limites de trabalho em andamento (WIP) em cada etapa do processo.
+
+3. A utilização de quadros Kanban é uma prática comum para visualizar o fluxo de trabalho e gerenciar as tarefas em cada etapa.
+
+4. A adoção de cartões Kanban, que representam as tarefas, facilita o acompanhamento do status de cada trabalho.
+
+5. A implementação de um sistema Kanban requer o estabelecimento de regras claras sobre a movimentação dos cartões entre as etapas do processo.
+
+6. A redução do WIP (trabalho em andamento) é um objetivo fundamental ao implementar um sistema Kanban.
+
+7. A implementação de um sistema Kanban requer o monitoramento constante do fluxo de trabalho e a identificação de gargalos ou áreas com excesso de trabalho.
+
+8. A criação de métricas para avaliar o desempenho do sistema Kanban é essencial para acompanhar melhorias e identificar oportunidades de otimização.
+
+9. A implementação de um sistema Kanban deve envolver a capacitação dos colaboradores para entenderem o conceito e utilizarem as ferramentas corretamente.
+
+10. A implementação de um sistema Kanban pode trazer diversos benefícios, como a redução de desperdícios, aumento da eficiência operacional e melhoria na entrega de projetos.
+
+6. Subtópico:
+1.1.6 Tipos de cartões Kanban e suas funções 
+Assertivas:
+1. O cartão Kanban é utilizado para controlar a quantidade de itens produzidos em um processo de produção.
+2. O cartão Kanban é um dos métodos mais utilizados para implementar o controle de produção puxada.
+3. O cartão Kanban funciona como um sinal para autorizar a produção ou movimentação de um item.
+4. O cartão Kanban físico é amplamente utilizado em processos de produção com alta demanda e rápida movimentação de estoque.
+5. O cartão Kanban eletrônico é uma solução mais moderna que substitui o uso de cartões físicos por sistemas informatizados.
+6. O cartão Kanban de movimentação é utilizado para controlar a transferência de itens entre áreas ou setores de produção.
+7. O cartão Kanban de produção é utilizado para autorizar a produção de um determinado item.
+8. O cartão Kanban de requisição é utilizado para solicitar a reposição de materiais ou componentes em um processo de produção.
+9. O cartão Kanban de transporte é utilizado para controlar o movimento de itens entre fornecedores e clientes.
+10. O cartão Kanban é uma poderosa ferramenta para melhorar a eficiência e reduzir o desperdício em processos de produção.
+
+7. Subtópico:
+1.11 Aplicação do sistema kanban na gestão de projetos 
+Assertivas:
+1. Na gestão de projetos, o sistema kanban é uma metodologia de controle visual que auxilia no gerenciamento do fluxo de trabalho.
+2. O sistema kanban baseia-se no princípio de limitar a quantidade de trabalho em andamento, de forma a evitar sobrecarga e aumentar a produtividade.
+3. Uma das principais características do sistema kanban é a utilização de quadros físicos ou digitais para representar visualmente as tarefas do projeto.
+4. Com o sistema kanban, é possível identificar facilmente gargalos e pontos de melhoria no processo de execução do projeto.
+5. O sistema kanban permite uma melhor coordenação entre os membros da equipe, fornecendo maior transparência sobre as atividades em andamento.
+6. Ao utilizar o sistema kanban, é possível otimizar o uso dos recursos disponíveis e reduzir o tempo de entrega das tarefas do projeto.
+7. Com a implementação do sistema kanban, é possível reduzir os riscos de atrasos e falhas na execução das atividades do projeto.
+8. O sistema kanban facilita a identificação de prioridades e a alocação eficiente dos recursos, contribuindo para o cumprimento dos prazos estabelecidos.
+9. Através do sistema kanban, é possível promover a colaboração e o trabalho em equipe, aumentando a eficiência na gestão de projetos.
+10. O sistema kanban é uma abordagem flexível e adaptável, que pode ser utilizado em diferentes tipos de projetos e setores.
+
+8. Subtópico:
+2..8 Uso do quadro kanban para visualização de fluxo de trabalho 
+Assertivas:
+1. O quadro kanban é uma ferramenta visual utilizada para visualizar o fluxo de trabalho de uma equipe ou projeto.
+2. O quadro kanban é composto por colunas que representam as etapas do processo, como "a fazer", "em andamento" e "concluído".
+3. Cada tarefa ou atividade é representada por um cartão que é movido pelas colunas do quadro kanban conforme avança no processo.
+4. O uso do quadro kanban facilita a identificação de gargalos e a visualização do progresso do trabalho.
+5. O quadro kanban permite uma melhor distribuição das tarefas entre os membros da equipe.
+6. Uma das principais vantagens do quadro kanban é a possibilidade de identificar onde estão acumulando tarefas, evitando sobrecargas em determinadas etapas.
+7. O quadro kanban auxilia na priorização das tarefas, já que é possível destacar as atividades mais urgentes e importantes.
+8. O quadro kanban promove maior transparência nas atividades do time, já que todos têm acesso visual ao fluxo de trabalho e ao status das tarefas.
+
+9. Subtópico:
+2..9 Gestão da capacidade produt
+Assertivas:
+1. A gestão da capacidade produtiva é uma atividade essencial para garantir a eficiência e eficácia das operações de uma organização.
+2. A capacidade produtiva se refere à quantidade de produtos ou serviços que uma organização é capaz de entregar em um determinado período de tempo.
+3. A gestão da capacidade produtiva busca equilibrar a oferta e a demanda, evitando tanto a ociosidade quanto a sobrecarga dos recursos produtivos.
+4. É fundamental que a gestão da capacidade produtiva considere não apenas os recursos físicos, como máquinas e equipamentos, mas também os recursos humanos e tecnológicos da organização.
+5. Uma adequada gestão da capacidade produtiva permite a entrega de produtos ou serviços dentro dos prazos estabelecidos, gerando satisfação aos clientes.
+6. A gestão da capacidade produtiva deve levar em conta fatores sazonais e flutuações da demanda, de forma a ajustar a oferta de acordo com as necessidades do mercado.
+7. A utilização eficiente da capacidade produtiva pode proporcionar ganhos de produtividade, redução de custos e aumento da competitividade da organização.
+8. A gestão da capacidade produtiva envolve técnicas como planejamento agregado, dimensionamento de recursos e programação da produção, visando otimizar a utilização dos recursos disponíveis.
+9. É importante que a gestão da capacidade produtiva esteja alinhada com a estratégia da organização, de forma a contribuir para o alcance dos objetivos empresariais.
+
+
+Item do edital: 1.1 Scrum funcionamento   
+ 
+1. Subtópico:
+1.1.1 Conceito e origem do Scrum
+Assertivas:
+1) Scrum é um framework ágil utilizado no desenvolvimento de projetos, principalmente na área de tecnologia da informação.
+2) O Scrum surgiu na década de 1990, como uma resposta à abordagem tradicional de gerenciamento de projetos.
+3) O conceito chave do Scrum é a entrega de valor incremental ao cliente através de iterações curtas e sucessivas, chamadas de sprints.
+4) O Scrum foi inicialmente idealizado para equipes de desenvolvimento de software, mas atualmente é aplicado em diversas áreas e setores.
+5) Uma das principais vantagens do Scrum é a flexibilidade oferecida pela sua abordagem iterativa e adaptativa.
+6) No Scrum, as equipes são autogerenciáveis e multifuncionais, o que estimula a colaboração e a responsabilidade compartilhada.
+7) O Product Owner é o responsável por estabelecer e priorizar as necessidades do cliente no Scrum.
+8) O Scrum Master é o facilitador do processo, responsável por garantir que a equipe entenda e siga os princípios e práticas do Scrum.
+9) Os artefatos básicos do Scrum incluem o Product Backlog, o Sprint Backlog e o Incremento.
+10) A cerimônia de monitoramento do Scrum é chamada de Daily Scrum, onde a equipe revisa o progresso, alinha as atividades e identifica possíveis impedimentos.
+
+2. Subtópico:
+1.1.2 Papéis dentro do Scrum: Product Owner, Scrum Master e Time de Desenvolvimento
+Assertivas:
+1. O Product Owner é responsável por maximizar o valor do produto e garantir que o Time de Desenvolvimento compreenda e execute adequadamente os requisitos do cliente.
+2. O Scrum Master é responsável por facilitar o processo de desenvolvimento, removendo impedimentos e ajudando o Time de Desenvolvimento a alcançar alta performance.
+3. O Time de Desenvolvimento é composto por profissionais responsáveis pela entrega do produto ao final de cada Sprint, seguindo as orientações do Product Owner e as práticas do Scrum.
+4. O Product Owner é o único responsável por definir as prioridades do Product Backlog e possui autonomia para realizar ajustes durante o desenvolvimento do projeto.
+5. O Scrum Master não tem autoridade de comando sobre o Time de Desenvolvimento, mas deve garantir que a equipe esteja aderente aos princípios e processos do Scrum.
+6. O Time de Desenvolvimento é autônomo, tem a responsabilidade coletiva pela entrega do produto e decide como realizar o trabalho durante a Sprint.
+7. O Product Owner é o representante dos stakeholders e deve comunicar as expectativas desses interessados ao Time de Desenvolvimento.
+8. O Scrum Master deve garantir que as reuniões e rituais do Scrum sejam realizados de forma eficiente, facilitando a colaboração e a comunicação entre as partes envolvidas.
+9. O Time de Desenvolvimento é multifuncional, ou seja, possui todas as habilidades necessárias para entregar um produto funcional ao final de cada Sprint.
+10. O Product Owner é responsável por validar a entrega final do produto e assegurar que este esteja alinhado com as expectativas dos stakeholders.
+
+3. Subtópico:
+1.1.3 Artefatos do Scrum: Product Backlog, Sprint Backlog e Incremento de Produto
+Assertivas:
+1. O Product Backlog é um artefato do Scrum que consiste em uma lista priorizada de requisitos, funcionalidades e melhorias a serem desenvolvidos no produto.
+2. O Sprint Backlog é um artefato do Scrum que consiste em uma lista de tarefas selecionadas do Product Backlog para serem desenvolvidas durante um Sprint.
+3. O Incremento de Produto é um artefato do Scrum que consiste na soma de todas as funcionalidades desenvolvidas e testadas durante um Sprint.
+4. O Product Backlog é atualizado e refinado continuamente através da colaboração entre o Product Owner e a equipe Scrum.
+5. O Sprint Backlog é revisado e adaptado diariamente pela equipe Scrum durante a Daily Scrum.
+6. O Product Backlog reflete as necessidades dos stakeholders e as demandas do mercado.
+7. O Sprint Backlog é um plano detalhado para o trabalho a ser realizado durante o Sprint.
+8. O Incremento de Produto deve ser funcional e adicionar valor ao produto após o término de cada Sprint.
+9. Tanto o Product Backlog quanto o Sprint Backlog são transparentes e visíveis para todos os membros da equipe Scrum e stakeholders.
+10. O Incremento de Produto deve ser inspecionado em cada Sprint Review para obter feedback dos stakeholders.
+
+4. Subtópico:
+1.1.4 Eventos no Scrum: Sprint, Planejamento da Sprint, Daily Standup, Revisão da Sprint e Retrospectiva da Sprint 
+Assertivas:
+1. No Scrum, o evento Sprint é o período de tempo determinado em que um incremento do produto deve ser entregue e pode variar de uma a quatro semanas.
+2. O Planejamento da Sprint é um evento que ocorre no início de cada Sprint e tem como objetivo definir o objetivo da Sprint e selecionar os itens do backlog que serão entregues no incremento do produto.
+3. Durante o evento Daily Standup, os membros da Equipe Scrum se reúnem diariamente para compartilhar informações sobre o progresso, discutir as tarefas que serão realizadas e identificar possíveis obstáculos.
+4. A Revisão da Sprint é um evento que marca o fim de cada Sprint, no qual a Equipe Scrum demonstra o incremento do produto aos stakeholders e recebe feedback para planejar as próximas ações.
+5. Durante a Retrospectiva da Sprint, a Equipe Scrum analisa o que funcionou e o que não funcionou durante a Sprint e busca melhorias contínuas para o processo de desenvolvimento do produto.
+6. O evento Sprint, por ser um período de tempo fixo e não sujeito a alterações, promove a previsibilidade e a transparência no desenvolvimento do produto.
+7. No Planejamento da Sprint, a Equipe Scrum seleciona e define as tarefas que serão realizadas durante a Sprint, com base nas prioridades do Product Backlog.
+8. Durante a Daily Standup, é importante que cada membro da Equipe Scrum responda a três perguntas-chave: o que foi feito desde a última reunião, o que será feito até a próxima reunião e quais são os obstáculos encontrados.
+9. A Revisão da Sprint é uma oportunidade para a Equipe Scrum receber feedbacks valiosos dos stakeholders sobre o incremento do produto, o que auxilia no ajuste de prioridades e no planejamento futuro.
+10. A Retrospectiva da Sprint é um momento de reflexão e aprendizado para a Equipe Scrum, no qual são identificadas oportunidades de melhoria para aumentar a eficiência e a qualidade do trabalho.
+
+5. Subtópico:
+1.1.5 Princípios fundamentais do Scrum 
+Assertivas:
+1. O princípio fundamental do Scrum é a entrega de valor de forma incremental e iterativa.
+2. Scrum enfatiza a colaboração constante entre membros da equipe e a comunicação efetiva.
+3. A transparência é um princípio fundamental do Scrum, garantindo que todas as informações sejam claras e acessíveis a todos os membros da equipe.
+4. A adaptação e a flexibilidade são princípios fundamentais do Scrum, permitindo que a equipe realize ajustes constantes ao longo do projeto.
+5. O princípio do empoderamento da equipe é fundamental no Scrum, onde se valoriza a autonomia e a responsabilidade dos membros.
+6. O princípio da auto-organização é essencial no Scrum, confiando na capacidade da equipe em se organizar e tomar decisões.
+7. O princípio da entrega contínua de valor assegura que o produto esteja sempre em um estado utilizável e potencialmente entregável.
+8. A melhoria contínua é um princípio fundamental do Scrum, garantindo que a equipe esteja sempre buscando formas de se aprimorar.
+9. O princípio da inspeção constante permite avaliações frequentes e contínuas do progresso do trabalho e o ajuste necessário.
+10. O princípio da transparência implica em compartilhar informações e progresso com as partes interessadas de forma clara e acessível.
+
+6. Subtópico:
+1.1.6 Benefícios e desafios na implementação do método Scrum
+Assertivas:
+1. A implementação do método Scrum beneficia as equipes por promover a comunicação e a colaboração entre seus membros. (V)
+2. Um dos benefícios da implementação do Scrum é a maior transparência nas atividades do projeto, o que auxilia na identificação de problemas e na tomada de decisões estratégicas. (V)
+3. A adoção do Scrum pode trazer desafios relacionados à resistência à mudança por parte dos membros da equipe, que podem estar acostumados a formas tradicionais de trabalho. (V)
+4. A implementação do Scrum demanda um forte comprometimento da alta liderança para fornecer o suporte necessário, uma vez que mudanças significativas na cultura organizacional podem ser necessárias. (V)
+5. As equipes podem enfrentar desafios na implementação do Scrum relacionados à definição de prioridades e gerenciamento de backlog, especialmente em projetos complexos. (V)
+6. A aplicação do Scrum pode gerar benefícios como a entrega contínua de valor para o cliente, com entregas parciais e frequentes de funcionalidades do produto. (V)
+7. Uma das vantagens do Scrum é a possibilidade de adaptação e flexibilidade, permitindo ajustes e melhorias contínuas ao longo do projeto. (V)
+8. A estrutura do Scrum, baseada em sprints, estimula a motivação e a produtividade da equipe por meio de um ciclo de trabalho limitado e focado. (V)
+9. A implementação do Scrum pode trazer desafios relacionados à gestão do tempo, pois são necessárias reuniões regulares e constantes para revisar o progresso e planejar as próximas etapas. (V)
+10. O Scrum incentiva a participação ativa dos stakeholders, favorecendo a obtenção de feedback constante e possibilitando a melhoria contínua do produto ou serviço. (V)
+
+7. Subtópico:
+1.11 Escalabilidade do scrum em grandes projetos.
+Assertivas:
+1. O Scrum possui mecanismos de escalabilidade que permitem sua aplicação efetiva em grandes projetos.
+2. A escalabilidade do Scrum em grandes projetos ocorre por meio do uso de práticas específicas, como a criação de equipes interfuncionais e a promoção da comunicação eficiente entre elas.
+3. A implementação do Scrum em grandes projetos requer adaptações e modificações para lidar com a complexidade e o tamanho das demandas.
+4. A escalabilidade do Scrum envolve a utilização de ferramentas e técnicas adicionais, como o uso de backlogs compartilhados, para garantir a coordenação de múltiplas equipes.
+5. A estratégia de escalar o Scrum em grandes projetos pode envolver a formação de squads e tribos, que são grupos de equipes interligadas e coordenadas.
+6. A escalabilidade do Scrum em grandes projetos demanda uma liderança forte e focada na gestão de múltiplas equipes, visando garantir a sinergia entre elas.
+7. A adoção de práticas de escalabilidade do Scrum em grandes projetos busca garantir a entrega de valor ao cliente de forma consistente e contínua.
+8. A escalabilidade do Scrum em grandes projetos pode ser alcançada através da criação de uma cultura de experimentação e aprendizado contínuo.
+9. A aplicação do Scrum em grandes projetos requer uma abordagem adaptativa, já que as necessidades e desafios podem se modificar ao longo do tempo.
+10. A escalabilidade do Scrum em grandes projetos é um tema em constante evolução, com a comunidade ágil desenvolvendo novas práticas e abordagens para lidar com desafios cada vez mais complexos.
+
+8. Subtópico:
+8
+Assertivas:
+1) O número 8 é um número inteiro e par.
+2) A soma de todos os números inteiros antecessores ao número 8 é igual a 28.
+3) O quadrado do número 8 é igual a 64.
+4) O número 8 é um múltiplo de 4.
+5) A raiz quadrada do número 8 é um número irracional.
+6) O número 8 é maior do que 6 e menor do que 10.
+7) O algarismo 8 é um número natural.
+8) O número 8 é divisível apenas pelos números 1, 2, 4 e 8.
+9) Em um sistema de numeração decimal, o número 8 representa oito unidades.
+10) O número 8 é um número composto, pois possui mais de dois divisores positivos.
+
+
+Item do edital: 1.2 Kanban premissas   
+ 
+1. Subtópico:
+1. Definição e origem do Kanban
+Assertivas:
+1. O Kanban é um método de gestão visual utilizado para controlar fluxos de trabalho e melhorar a eficiência e produtividade.
+2. O Kanban foi desenvolvido na década de 1940 pela Toyota, no Japão, como parte do sistema de produção Just-in-time (JIT).
+3. O termo Kanban significa "cartão" ou "sinalização" em japonês.
+4. O Kanban tem como objetivo principal reduzir o desperdício, minimizar o estoque e aumentar a velocidade de produção.
+5. O Kanban utiliza cartões ou quadros visuais para representar as tarefas em andamento, as que estão prontas para serem feitas e as finalizadas.
+6. O Kanban utiliza o princípio de puxar a demanda, ou seja, as tarefas são iniciadas apenas quando há capacidade disponível para execução.
+7. O Kanban permite identificar gargalos e problemas no processo de produção de forma rápida e visual.
+8. O Kanban é amplamente utilizado em projetos de desenvolvimento de software, gestão de projetos e processos de produção industrial.
+9. O Kanban é uma abordagem flexível que pode ser adaptada para diferentes contextos e necessidades organizacionais.
+10. O Kanban é uma prática ágil que promove a colaboração, o trabalho em equipe e a transparência no fluxo de trabalho.
+
+2. Subtópico:
+2. Princípios fundamentais do Kanban
+Assertivas:
+1. O Kanban é uma metodologia de gestão visual amplamente utilizada em sistemas de produção e equipes ágeis.
+2. Um dos princípios fundamentais do Kanban é limitar o trabalho em andamento, visando evitar a sobrecarga e melhorar a eficiência da equipe.
+3. O Kanban baseia-se no uso de cartões ou post-its para representar as tarefas a serem executadas e o fluxo de trabalho.
+4. Outro princípio fundamental do Kanban é tornar o trabalho explícito, facilitando o entendimento do fluxo de trabalho por todos os integrantes da equipe.
+5. O Kanban promove a colaboração e a comunicação contínua entre os membros da equipe, facilitando a identificação de gargalos e a solução de problemas.
+6. O Kanban também incentiva a melhoria contínua, por meio da análise de métricas de desempenho e da identificação de oportunidades de otimização.
+7. A metodologia do Kanban é utilizada em diversos setores, como desenvolvimento de software, manufatura, logística e gerenciamento de projetos.
+8. O princípio "Faça certo desde o início" é uma das premissas básicas do Kanban, buscando evitar retrabalhos e maximizar a qualidade das entregas.
+9. No Kanban, os processos são visualizados em um quadro Kanban, que apresenta as etapas do fluxo de trabalho de forma clara e visualmente atrativa.
+10. O Kanban é uma metodologia adequada para ambientes de trabalho de alta variabilidade, permitindo lidar com demandas emergentes e rápida mudança de prioridades.
+
+3. Subtópico:
+3. Benefícios da implementação do sistema Kanban
+Assertivas:
+1. A implementação do sistema Kanban possibilita uma maior eficiência no fluxo de trabalho, reduzindo desperdícios e atrasos.
+2. Com o sistema Kanban, é possível visualizar de forma clara o status de cada tarefa ou projeto, facilitando o acompanhamento do progresso.
+3. O Kanban ajuda a equilibrar a carga de trabalho entre os membros de uma equipe, evitando sobrecargas ou ociosidade.
+4. A utilização do Kanban permite identificar gargalos ou obstáculos no processo de produção, possibilitando uma rápida intervenção para solucioná-los.
+5. O sistema Kanban promove uma maior colaboração e comunicação entre os membros de uma equipe, favorecendo a troca de experiências e o trabalho em conjunto.
+6. A implementação do Kanban aumenta a transparência e a responsabilização dentro de uma equipe, uma vez que todas as tarefas são visualizadas por todos os membros.
+7. O Kanban incentiva a melhoria contínua, estimulando a equipe a buscar sempre a otimização dos processos e a eliminação de atividades desnecessárias.
+8. Com o sistema Kanban, é possível reduzir o tempo médio de entrega de um produto ou serviço, o que resulta em maior satisfação dos clientes.
+9. A implementação do Kanban favorece a gestão do estoque, evitando acúmulos desnecessários e reduzindo os custos de armazenamento.
+10. O Kanban contribui para a diminuição do estresse e da sobrecarga de trabalho, ao estabelecer um ritmo sustentável e equilibrado de produção.
+
+4. Subtópico:
+4. Diferença entre o sistema Kanban e outros sistemas de gestão de projetos
+Assertivas:
+1. O sistema Kanban é um método visual de gestão de projetos que utiliza cartões para representar tarefas e fluxos de trabalho.
+2. Diferente de outros sistemas de gestão de projetos, o Kanban enfatiza a limitação da quantidade de trabalho em progresso para aumentar a eficiência e evitar sobrecarga.
+3. Uma das principais diferenças entre o sistema Kanban e outros sistemas de gestão de projetos é a abordagem orientada por demanda, em que as tarefas são iniciadas apenas quando há capacidade para realizá-las.
+4. Ao contrário de outros sistemas de gestão de projetos, o Kanban prioriza a transparência e a colaboração, proporcionando um ambiente visual de fácil compreensão para todos os envolvidos no projeto.
+5. Enquanto alguns sistemas de gestão de projetos seguem abordagens rígidas e predefinidas, o Kanban é caracterizado por sua flexibilidade e adaptabilidade, permitindo ajustes contínuos ao longo do projeto.
+6. Os sistemas tradicionais de gestão de projetos tendem a utilizar ferramentas de programação e cronogramas definidos, ao contrário do Kanban, que foca na otimização do fluxo de trabalho e redução de gargalos.
+7. Os sistemas Kanban são amplamente utilizados em contextos ágeis, especialmente em desenvolvimento de software, mas também podem ser aplicados em diversos outros setores e projetos.
+8. Enquanto outros sistemas de gestão de projetos podem exigir treinamento ou conhecimentos especializados para sua aplicação, o Kanban é conhecido por sua simplicidade e facilidade de implementação.
+9. O Kanban se diferencia dos sistemas de gestão de projetos tradicionais ao permitir uma visão mais detalhada do fluxo de trabalho, identificando possíveis gargalos e facilitando melhorias contínuas.
+10. Diferentemente de outros sistemas de gestão de projetos, o Kanban enfatiza a entrega contínua de valor ao cliente, promovendo um ciclo de aprendizado constante e priorizando a satisfação do usuário final.
+
+5. Subtópico:
+5. Como o sistema Kanban contribui para a eficiência operacional 
+Assertivas:
+1. O sistema Kanban é uma metodologia de controle de produção que busca eliminar desperdícios e promover a eficiência operacional.
+2. O Kanban utiliza cartões visuais para controlar o fluxo de trabalho, permitindo que as equipes tenham uma visão clara das tarefas em andamento.
+3. O sistema Kanban ajuda a minimizar gargalos e reduzir a ociosidade de recursos, o que contribui para a otimização da eficiência operacional.
+4. Por meio do Kanban, é possível identificar e resolver rapidamente problemas na cadeia de produção, aumentando a eficiência do processo.
+5. A implementação do sistema Kanban proporciona uma melhor gestão do estoque, evitando excessos ou falta de matéria-prima, o que impacta positivamente na eficiência operacional.
+
+6. Subtópico:
+6. Etapas para a implementação do sistema Kanban 
+Assertivas:
+1. A primeira etapa para a implementação do sistema Kanban é mapear e visualizar o fluxo de trabalho existente.
+2. A segunda etapa do processo de implementação do Kanban é limitar a quantidade de trabalho em progresso (WIP).
+3. A terceira etapa para a implementação do sistema Kanban é estabelecer e definir quais são os indicadores de desempenho-chave (KPIs) a serem monitorados.
+4. A quarta etapa do processo de implementação do Kanban implica em designar responsabilidades claras para cada membro da equipe.
+5. A quinta etapa da implementação do Kanban é criar um sistema físico ou digital de cardápios (kanban boards) para acompanhar o fluxo do trabalho em cada etapa do processo.
+6. A sexta etapa para a implementação do sistema Kanban envolve a criação de políticas de gestão que estabeleçam regras claras sobre como o trabalho deve ser executado.
+7. A sétima etapa do processo de implementação do Kanban é realizar melhorias contínuas com base no feedback e nos dados coletados.
+8. A oitava etapa para a implementação do sistema Kanban é promover a cultura de colaboração e aprendizado dentro da equipe.
+9. A nona etapa do processo de implementação do Kanban envolve a realização de treinamentos e capacitações para a equipe se familiarizar com o sistema.
+10. A décima e última etapa da implementação do Kanban é avaliar regularmente o desempenho do sistema e fazer ajustes necessários para otimizar resultados.
+
+7. Subtópico:
+7. Uso de quadros visuais no método Kanban 
+Assertivas:
+1. O método Kanban utiliza quadros visuais como ferramenta essencial para visualização do fluxo de trabalho.
+2. Os quadros visuais no método Kanban possuem colunas representando as etapas do processo.
+3. Os cartões utilizados nos quadros Kanban representam as tarefas ou itens a serem trabalhados.
+4. Os quadros visuais no método Kanban permitem o acompanhamento visual do progresso das tarefas.
+5. O uso de quadros visuais no método Kanban facilita a identificação de gargalos e a alocação adequada de recursos.
+6. Os quadros visuais no método Kanban promovem uma comunicação visual efetiva entre os membros da equipe.
+7. A utilização de quadros visuais no Kanban permite a identificação rápida de tarefas atrasadas ou concluídas.
+8. Os quadros visuais no método Kanban possibilitam a identificação de demandas excessivas ou subutilização de recursos.
+9. Os quadros visuais no método Kanban auxiliam na priorização de tarefas e no equilíbrio da carga de trabalho.
+10. O uso de quadros visuais no método Kanban contribui para o aumento da transparência e eficiência do fluxo de trabalho.
+
+8. Subtópico:
+8. Limitações e desafios na aplicação do método Kanban 
+Assertivas:
+1. A aplicação do método Kanban pode ser limitada pela falta de uma cultura de trabalho colaborativa e de equipe.
+2. Um dos desafios na aplicação do Kanban está no gerenciamento adequado das prioridades das tarefas.
+3. A falta de visibilidade e transparência das informações pode ser uma limitação na adoção do método Kanban.
+4. Um desafio na aplicação do Kanban é manter o equilíbrio entre trabalho em andamento e capacidade de entrega.
+5. A resistência à mudança por parte dos membros da equipe pode limitar a eficácia da implementação do Kanban.
+6. A falta de um sistema de comunicação eficiente pode ser um desafio na aplicação do método Kanban.
+7. A necessidade de treinamento e capacitação adequados dos envolvidos é um dos desafios na implementação do Kanban.
+8. As limitações na padronização dos processos de trabalho podem dificultar a aplicação eficiente do método Kanban.
+9. A falta de entendimento da filosofia Lean, da qual o Kanban faz parte, pode limitar a utilização correta do método.
+10. Um dos desafios na aplicação do Kanban é a adaptação constante às mudanças e demandas do ambiente de trabalho.
+
+9. Subtópico:
+9. O papel das equipes na utilização do método Kanban
+Assertivas:
+1. A utilização do método Kanban estimula o trabalho em equipe.
+2. As equipes desempenham um papel fundamental na implementação do método Kanban.
+3. O método Kanban promove a colaboração entre os membros da equipe.
+4. As equipes são responsáveis por definir os limites de trabalho em cada etapa do fluxo Kanban.
+5. O sucesso do método Kanban depende da comunicação eficiente entre os membros da equipe.
+6. As equipes devem estar alinhadas e comprometidas para a correta utilização do método Kanban.
+7. A participação ativa das equipes na manutenção e atualização do quadro Kanban é essencial.
+8. A metodologia Kanban prioriza a transparência, permitindo que todas as equipes tenham acesso às informações relevantes.
+9. Equipes que trabalham com o método Kanban geralmente são autogerenciáveis, o que promove maior eficiência e autonomia.
+10. O papel das equipes na utilização do método Kanban inclui a identificação e resolução de gargalos para manter um fluxo constante de trabalho.
+
+10. Subtópico:
+10. Estudos de caso sobre a aplicação bem-sucedida do método kanban
+Assertivas:
+1. Estudos de caso sobre a aplicação bem-sucedida do método kanban demonstram melhorias significativas no fluxo de trabalho e na eficiência operacional.
+2. O método kanban tem sido amplamente adotado em diversos setores, incluindo manufatura, tecnologia da informação e serviços.
+3. Estudos de caso sobre a aplicação do método kanban evidenciam uma redução nos tempos de espera e no desperdício de recursos.
+4. A aplicação do método kanban permite uma melhor gestão da capacidade produtiva e uma maior previsibilidade no cumprimento de prazos.
+5. Empresas que adotaram o método kanban observaram uma otimização do fluxo de trabalho, resultando em maior qualidade dos produtos e serviços entregues.
+6. Estudos de caso revelam que a implementação do método kanban promove uma maior colaboração entre os membros da equipe e uma melhor comunicação interna.
+7. O método kanban é uma ferramenta eficaz para promover a transparência no processo produtivo, pois permite o acompanhamento visual e em tempo real das atividades.
+8. Estudos de caso destacam a capacidade do método kanban de identificar gargalos e pontos de melhoria nos processos de trabalho.
+9. A aplicação do método kanban tem se mostrado eficiente para mitigar riscos e evitar o acúmulo de demandas pendentes.
+10. Estudos de caso sobre a aplicação do método kanban evidenciam um aumento na satisfação dos clientes devido à entrega mais ágil e consistente dos produtos ou serviços.
+
+
+Item do edital: 1.2 Scrum premissas   
+ 
+1. Subtópico:
+1. Definição e origem do Scrum
+Assertivas:
+1. O Scrum é um framework ágil para gestão e desenvolvimento de projetos.
+2. O Scrum foi criado na década de 1990 por Jeff Sutherland e Ken Schwaber.
+3. A palavra "Scrum" deriva do termo utilizado no Rugby, significando uma formação de jogadores unidos para alcançar um objetivo em comum.
+4. O Scrum é baseado em princípios empíricos, transparência, inspeção e adaptação.
+5. O Scrum é amplamente utilizado na indústria de software, mas também pode ser aplicado em outras áreas.
+6. O Scrum busca aumentar a produtividade, a colaboração e a comunicação entre as equipes de projeto.
+7. O Scrum divide o projeto em sprints, que são períodos de tempo fixos e curtos para a realização das atividades.
+8. O Scrum possui papéis definidos, como o Scrum Master, o Product Owner e a equipe de desenvolvimento.
+9. O Scrum utiliza artefatos, como o Product Backlog, o Sprint Backlog e o Incremento do produto, para auxiliar no gerenciamento do projeto.
+10. A implementação do Scrum requer o uso de reuniões regulares, como a Daily Scrum, o Sprint Planning, a Sprint Review e a Sprint Retrospective.
+
+2. Subtópico:
+2. Princípios fundamentais do Scrum
+Assertivas:
+1. O Scrum é um framework ágil utilizado para gerenciamento de projetos.
+2. O Scrum se baseia em princípios de transparência, inspeção e adaptação contínua.
+3. Um dos princípios fundamentais do Scrum é o uso de ciclos curtos de trabalho, chamados de sprints.
+4. O Scrum prega a colaboração entre os membros da equipe e a comunicação constante.
+5. As responsabilidades no Scrum são divididas em três papéis principais: Product Owner, Scrum Master e Equipe de Desenvolvimento.
+6. No Scrum, as atividades a serem realizadas durante um sprint são definidas em uma lista de backlog do produto.
+7. O product backlog é constantemente atualizado e priorizado pelo Product Owner, com base nos requisitos e necessidades do cliente.
+8. Durante um sprint, a equipe de desenvolvimento seleciona as atividades do product backlog e se compromete a entregá-las no final do ciclo.
+9. O Scrum valoriza a auto-organização da equipe, permitindo que os membros decidam sobre a melhor forma de realizar o trabalho.
+10. O Scrum enfatiza a importância da melhoria contínua e do aprendizado ao longo do projeto.
+
+3. Subtópico:
+3. Papéis e responsabilidades no Scrum: Product Owner, Scrum Master e Time de Desenvolvimento
+Assertivas:
+1. O Product Owner é o responsável por definir as prioridades do backlog do produto, levando em consideração as necessidades e expectativas dos stakeholders.
+2. O Scrum Master é o facilitador do processo Scrum, responsável por garantir que os princípios e práticas ágeis sejam seguidos, promovendo a colaboração e o autogerenciamento da equipe.
+3. O Time de Desenvolvimento é o responsável pela implementação das funcionalidades definidas pelo Product Owner, transformando os itens do backlog em incrementos de software funcionais.
+4. O Product Owner é o único responsável por tomar decisões no que diz respeito às prioridades do backlog do produto.
+5. O Scrum Master não possui autoridade de gestão sobre o Time de Desenvolvimento, atuando como um facilitador e mentor para a equipe.
+6. O Time de Desenvolvimento possui autonomia para definir como vai entregar as funcionalidades, utilizando suas habilidades e conhecimentos técnicos.
+7. O Product Owner é o responsável por garantir que o produto entregue atenda às expectativas dos clientes e usuários finais.
+8. O Scrum Master atua como um agente de mudança, buscando constantemente melhorias no processo e na dinâmica da equipe.
+9. O Time de Desenvolvimento é responsável por determinar a melhor forma de atender às histórias e tarefas definidas pelo Product Owner.
+10. O Product Owner é o responsável por garantir que o valor de negócio seja maximizado a cada entrega, avaliando constantemente o retorno sobre o investimento.
+
+4. Subtópico:
+4. Artefatos do Scrum: Product Backlog, Sprint Backlog e Incremento de Produto
+Assertivas:
+1. O Product Backlog é o artefato do Scrum que representa a lista de itens que devem ser desenvolvidos no projeto, organizados por prioridade.
+2. O Sprint Backlog é o artefato do Scrum que representa a lista de itens selecionados do Product Backlog para serem desenvolvidos durante um sprint.
+3. O Scrum Master é o responsável por garantir a criação e manutenção do Product Backlog e do Sprint Backlog, bem como o correto uso desses artefatos.
+4. O Incremento de Produto é o artefato do Scrum que consiste na soma de todos os itens do Product Backlog concluídos durante os sprints, mostrando o progresso do projeto até o momento.
+5. O Product Owner é responsável por definir e priorizar os itens do Product Backlog, bem como garantir que a equipe tenha uma visão clara e compartilhada do produto a ser desenvolvido.
+6. O Product Backlog é um artefato dinâmico, podendo sofrer alterações ao longo do tempo em decorrência de mudanças de requisitos ou prioridades.
+7. O Sprint Backlog é um artefato estático durante a realização do sprint, ou seja, não deve sofrer alterações durante esse período, a fim de garantir a estabilidade e o foco da equipe.
+8. A definição de "Pronto" para um item no Product Backlog é fundamental para estabelecer as expectativas sobre o trabalho realizado pela equipe durante um sprint.
+9. O Product Backlog e o Sprint Backlog devem ser transparentes e estar acessíveis a todos os membros da equipe de desenvolvimento, bem como a partes interessadas externas.
+10. O Incremento de Produto é a única medida do progresso do projeto no Scrum, sendo avaliado ao final de cada sprint.
+
+5. Subtópico:
+5. Eventos do Scrum: Sprint, Reunião de Planejamento da Sprint, Daily Stand-up, Revisão da Sprint e Retrospectiva da Sprint 
+Assertivas:
+1) No Scrum, o evento chamado Sprint é um período de tempo fixo, com duração de uma a quatro semanas, durante o qual são realizadas atividades para atingir um objetivo específico.
+2) A Reunião de Planejamento da Sprint é um evento do Scrum em que a equipe de desenvolvimento define o que será entregue no incremento do produto durante a próxima Sprint.
+3) O Daily Stand-up, também conhecido como Daily Scrum, é um evento diário no Scrum em que a equipe de desenvolvimento se reúne para discutir o progresso do trabalho, as metas do dia e identificar possíveis obstáculos.
+4) A Revisão da Sprint é um evento do Scrum realizado ao final de cada Sprint, no qual a equipe de desenvolvimento apresenta o incremento do produto e recebe feedback dos stakeholders para auxiliar no planejamento da próxima Sprint.
+5) A Retrospectiva da Sprint é um evento realizado ao final da Sprint, cujo objetivo é que a equipe de desenvolvimento reflita sobre a própria forma de trabalho, identificando pontos positivos, oportunidades de melhoria e ações para a próxima Sprint.
+
+6) Na metodologia Scrum, o evento Sprint refere-se a um período de tempo fixo.
+7) A Reunião de Planejamento da Sprint é responsável por estabelecer os objetivos e planejar o trabalho a ser realizado na Sprint.
+8) O Daily Stand-up é uma reunião diária e breve em que a equipe discute o progresso e eventuais impedimentos.
+9) Durante a Revisão da Sprint, a equipe de desenvolvimento mostra ao stakeholder o que foi concluído na Sprint e recebe feedback.
+10) A Retrospectiva da Sprint permite que a equipe de desenvolvimento analise o próprio processo de trabalho, visando melhorias contínuas.
+
+6. Subtópico:
+6. Conceito de Sprints e sua duração 
+Assertivas:
+1. Sprints são unidades de trabalho do método Scrum.
+2. Sprints têm como objetivo entregar valor ao cliente.
+3. A duração dos Sprints deve ser fixa e nunca deve ser alterada durante o projeto.
+4. A duração dos Sprints é definida no início do projeto, durante a reunião de planejamento.
+5. A duração dos Sprints é normalmente entre 1 e 4 semanas.
+6. Sprints são repetidos até a conclusão do projeto.
+7. A duração dos Sprints deve ser definida levando em consideração a capacidade da equipe.
+8. Durante um Sprint, nenhum novo trabalho pode ser adicionado à equipe.
+9. Sprints devem ser utilizados em projetos que exigem entregas incrementais.
+10. A duração dos Sprints pode variar de acordo com as necessidades específicas de cada projeto.
+
+7. Subtópico:
+7. Processo de planejamento no Scrum 
+Assertivas:
+1. No Scrum, o processo de planejamento começa com a criação da lista de produtos, também conhecida como Product Backlog.
+2. Durante o processo de planejamento no Scrum, a equipe seleciona os itens do Product Backlog que serão incluídos na Sprint atual.
+3. O processo de planejamento no Scrum envolve a definição das metas e objetivos da Sprint.
+4. Durante o processo de planejamento no Scrum, a equipe estima a quantidade de trabalho que pode ser realizada na Sprint atual, levando em consideração a capacidade disponível.
+5. O processo de planejamento no Scrum envolve a criação de um plano detalhado para a Sprint atual, com tarefas específicas e responsáveis.
+6. Durante o processo de planejamento no Scrum, a equipe define as prioridades dos itens do Product Backlog a serem trabalhados na Sprint atual.
+7. No Scrum, o processo de planejamento inclui a realização de reuniões para discutir e esclarecer dúvidas em relação aos itens do Product Backlog.
+8. Durante o processo de planejamento no Scrum, a equipe estabelece a duração da Sprint, que geralmente varia de 1 a 4 semanas.
+9. O processo de planejamento no Scrum envolve a identificação e organização das atividades necessárias para alcançar os objetivos da Sprint atual.
+10. Durante o processo de planejamento no Scrum, a equipe estima o tempo necessário para concluir cada uma das atividades identificadas, criando assim um cronograma para a Sprint atual.
+
+8. Subtópico:
+8. Gestão de projetos utilizando o método Scrum 
+Assertivas:
+8. Gestão de projetos utilizando o método Scrum:
+
+1. O método Scrum é um framework de gestão ágil de projetos.
+2. O Scrum é baseado em ciclos de trabalho chamados sprints.
+3. O Scrum possui papéis bem definidos, como o Product Owner e o Scrum Master.
+4. O backlog do Scrum é uma lista priorizada de funcionalidades a serem desenvolvidas no projeto.
+5. Durante os sprints, o time de desenvolvimento se auto-organiza para realizar as tarefas definidas no backlog.
+6. As reuniões diárias do Scrum são chamadas de Daily Scrum ou Daily Standup.
+7. O Scrum utiliza ferramentas como o Kanban para visualizar o fluxo de trabalho e acompanhar o progresso do projeto.
+8. A retrospectiva é uma reunião realizada no final de cada sprint para identificar pontos de melhoria e realizar ajustes no processo.
+9. O método Scrum prioriza a entrega de valor ao cliente em curtos intervalos de tempo.
+10. A gestão de riscos e a flexibilidade são características fundamentais do método Scrum.
+
+9. Subtópico:
+9. Implementação
+Assertivas:
+1. A implementação é a etapa final do ciclo de vida de um projeto.
+2. Na implementação, ocorre a execução do planejamento estratégico definido.
+3. Durante a implementação, é fundamental garantir a aderência às melhores práticas e procedimentos estabelecidos.
+4. A implementação eficiente de um projeto requer uma gestão eficaz dos recursos disponíveis.
+5. Durante a implementação, é importante estabelecer métricas e indicadores de desempenho para monitorar o progresso.
+6. A implementação bem-sucedida de um projeto depende de uma comunicação clara e eficaz.
+7. Durante a implementação, podem ocorrer ajustes e correções de rota para garantir o alcance dos objetivos definidos.
+8. A implementação envolve a mobilização de recursos humanos, materiais e financeiros para a execução das atividades planejadas.
+9. Ao implementar um projeto, é essencial considerar as restrições e limitações existentes.
+10. A implementação efetiva requer um bom gerenciamento de riscos e ações preventivas.
+
+
+Item do edital: 1.3 Kanban pessoas envolvidas -papéis-   
+ 
+1. Subtópico:
+1. Definição e origem do Kanban
+Assertivas:
+1. O Kanban é um sistema de gestão visual originário do Japão.
+2. O termo "Kanban" significa "cartão" ou "sinalização visual" em japonês.
+3. O método Kanban foi desenvolvido pela montadora de veículos Toyota no final da década de 1940.
+4. Originalmente, o Kanban era utilizado para controlar a produção das fábricas da Toyota.
+5. O sistema Kanban é baseado em cartões físicos que representam a demanda e o fluxo de trabalho.
+6. O Kanban permite identificar gargalos na produção e melhorar a eficiência do processo.
+7. O método Kanban é amplamente utilizado em empresas de software e desenvolvimento ágil.
+8. O Kanban é uma abordagem visual e colaborativa que promove a transparência no fluxo de trabalho.
+9. O Kanban é uma ferramenta eficaz para reduzir o desperdício e otimizar a utilização dos recursos disponíveis.
+10. Diversas variações do método Kanban foram adaptadas para diferentes contextos, tais como Kanban pessoal, Kanban de problemas e Kanban de manutenção.
+
+2. Subtópico:
+2. Princípios fundamentais do Kanban
+Assertivas:
+1. O Kanban é um princípio fundamental do método Lean, voltado para o gerenciamento de processos e fluxos de trabalho.
+2. O Kanban busca minimizar o desperdício, aumentar a eficiência e melhorar a visibilidade nas etapas de um processo.
+3. O Kanban utiliza cartões visuais, ou "kanbans", para representar demandas e controlar a produção em um fluxo contínuo.
+4. O Kanban utiliza o princípio de restrição WIP (Work in Progress), limitando a quantidade de trabalho em andamento para evitar gargalos.
+5. O Kanban possui ciclos de melhoria contínua, como o PDCA (Plan, Do, Check, Act), para identificar falhas e promover ações corretivas.
+6. O Kanban prioriza a colaboração e o trabalho em equipe, incentivando a comunicação e o compartilhamento de informações entre os membros de uma equipe.
+7. O Kanban permite a identificação e resolução de problemas de forma rápida e eficiente, através da identificação visual de bloqueios e dificuldades.
+8. O Kanban é uma abordagem adaptável, que pode ser aplicada em diferentes contextos e setores, como tecnologia, engenharia e produção.
+9. O Kanban promove a transparência e a visibilidade das demandas e tarefas em um processo, facilitando a identificação de gargalos e oportunidades de melhoria.
+10. O Kanban valoriza a entrega contínua de valor ao cliente, buscando aprimorar a qualidade do produto final e a satisfação do cliente.
+
+3. Subtópico:
+3. Papéis e responsabilidades no sistema Kanban
+Assertivas:
+1. No sistema Kanban, cada membro da equipe possui responsabilidades específicas definidas no quadro kanban.
+2. O papel do Scrum Master no sistema Kanban é garantir que os princípios e práticas do Kanban sejam seguidos adequadamente.
+3. Um papel fundamental no sistema Kanban é o de "Dono do Produto", responsável por priorizar e definir os itens que serão incluídos no backlog.
+4. A equipe de desenvolvimento tem a responsabilidade de cumprir com as tarefas e backlog do projeto Kanban.
+5. O papel do cliente é fundamental no sistema Kanban, pois ele é responsável por fornecer feedbacks e validar as etapas concluídas.
+6. O quadro kanban é uma ferramenta visual utilizada no sistema Kanban para acompanhar e gerenciar as atividades em andamento.
+7. A função do Board Manager é garantir que as etapas do fluxo de trabalho estejam sendo cumpridas dentro dos prazos estabelecidos.
+8. A equipe de qualidade e testes é responsável por realizar testes e garantir a qualidade das entregas no sistema Kanban.
+9. O gerente de projeto tem a responsabilidade de garantir que as metas e prazos sejam cumpridos no sistema Kanban.
+10. No sistema Kanban, todos os membros da equipe são corresponsáveis pelo sucesso do projeto, independentemente de seus papéis específicos.
+
+4. Subtópico:
+4. O papel do gerente de projeto no sistema Kanban
+Assertivas:
+1. O gerente de projeto no sistema Kanban tem a responsabilidade de garantir a qualidade das atividades realizadas.
+2. A função do gerente de projeto no Kanban é assegurar que as restrições e necessidades do projeto sejam atendidas.
+3. O gerente de projeto no sistema Kanban deve monitorar o fluxo de trabalho e garantir a sua eficiência.
+4. É papel do gerente de projeto no Kanban colaborar com a equipe na priorização das atividades a serem realizadas.
+5. O gerente de projeto no sistema Kanban deve facilitar a resolução de problemas e impedimentos que possam surgir durante o projeto.
+6. O gerente de projeto no Kanban desempenha um papel central na comunicação e coordenação entre os membros da equipe.
+7. É de responsabilidade do gerente de projeto no sistema Kanban garantir que a equipe esteja alinhada aos objetivos e metas do projeto.
+8. O gerente de projeto no Kanban deve liderar e motivar a equipe para alcançar os resultados desejados.
+9. É papel do gerente de projeto no sistema Kanban garantir a transparência e visibilidade das etapas do projeto.
+10. O gerente de projeto no Kanban deve utilizar métricas e indicadores para monitorar e melhorar continuamente o desempenho do projeto.
+
+5. Subtópico:
+5. O papel da equipe de desenvolvimento no sistema Kanban
+Assertivas:
+1. A equipe de desenvolvimento desempenha um papel fundamental no sistema Kanban, sendo responsável pela execução das atividades e entrega dos trabalhos.
+2. A equipe de desenvolvimento é responsável por colocar os itens de trabalho nos quadros Kanban, de acordo com a capacidade disponível.
+3. A equipe de desenvolvimento é responsável por dar continuidade aos itens de trabalho em progresso, garantindo a sua conclusão dentro dos prazos estabelecidos.
+4. A equipe de desenvolvimento deve realizar reuniões diárias para discutir o progresso dos trabalhos e identificar possíveis impeditivos.
+5. A equipe de desenvolvimento é responsável por buscar continuamente melhorias no processo Kanban, visando aumentar a eficiência e a produtividade.
+6. A equipe de desenvolvimento deve ter conhecimento e habilidade para lidar com ferramentas e técnicas relacionadas ao sistema Kanban.
+7. A equipe de desenvolvimento deve priorizar as atividades de acordo com as necessidades do projeto ou demandas do cliente.
+8. A equipe de desenvolvimento deve atender às demandas do cliente de forma ágil e eficiente, de acordo com as prioridades estabelecidas.
+9. A equipe de desenvolvimento deve estar sempre alinhada e em constante comunicação com os demais membros envolvidos no sistema Kanban.
+10. A equipe de desenvolvimento é responsável por manter a transparência e visibilidade das atividades em andamento, através do uso adequado dos quadros Kanban.
+
+6. Subtópico:
+6. Como o sistema Kanban facilita a colaboração entre as equipes 
+Assertivas:
+1. A utilização do sistema Kanban promove a transparência e visibilidade das tarefas a serem realizadas, facilitando a colaboração entre as equipes.
+
+2. Por meio do sistema Kanban, as equipes conseguem identificar gargalos ou bloqueios no fluxo de trabalho, possibilitando uma melhor distribuição de atividades e a solução rápida de problemas.
+
+3. A implementação do sistema Kanban permite a visualização clara das demandas e prioridades de cada equipe, promovendo uma maior sinergia e entendimento entre os membros.
+
+4. O sistema Kanban é utilizado para que equipes diferentes possam trabalhar de forma integrada, compartilhando informações e conhecimentos, fomentando a colaboração e o trabalho em conjunto.
+
+5. Ao utilizar o sistema Kanban, as equipes têm acesso a um quadro visual que facilita a identificação de tarefas concluídas, em andamento ou pendentes, promovendo uma maior comunicação e interação entre elas.
+
+6. Através do sistema Kanban, as equipes podem identificar rapidamente as tarefas que precisam ser priorizadas, possibilitando uma melhor organização e distribuição de atividades.
+
+7. A utilização do sistema Kanban incentiva a autonomia das equipes, permitindo que elas tenham maior flexibilidade na gestão do trabalho e maior colaboração na tomada de decisões.
+
+8. O sistema Kanban promove o desenvolvimento de um ambiente de trabalho mais colaborativo, onde as equipes se ajudam mutuamente e compartilham conhecimentos, resultando em uma maior eficiência e capacidade produtiva.
+
+9. Através do sistema Kanban, as equipes podem verificar de forma rápida e clara as necessidades e demandas de outras equipes, facilitando a colaboração e a troca de informações para melhorar o processo de trabalho.
+
+10. A implementação do sistema Kanban propicia uma maior integração entre as equipes, permitindo o alinhamento de processos, a redução de retrabalhos e a melhoria contínua no ambiente de trabalho.
+
+7. Subtópico:
+7. Benefícios da implementação do sistema Kanban nas organizações 
+Assertivas:
+1. O sistema Kanban é uma metodologia ágil que visa melhorar os processos de trabalho e aumentar a eficiência das organizações.
+2. A implementação do sistema Kanban possibilita uma melhor visualização das tarefas e atividades em andamento, favorecendo a tomada de decisões mais assertivas.
+3. O uso do Kanban facilita o trabalho em equipe, permitindo que todos os colaboradores tenham acesso às mesmas informações sobre as demandas e prioridades.
+4. A adoção do sistema Kanban contribui para a redução do tempo de ciclo das atividades, aumentando a produtividade e agilizando o cumprimento de prazos.
+5. O Kanban promove uma maior transparência nos processos, permitindo que gestores e colaboradores acompanhem o fluxo de trabalho de forma clara e objetiva.
+6. A implementação do sistema Kanban contribui para a identificação de gargalos e pontos de melhoria nos processos produtivos, possibilitando ações corretivas e aprimoramento contínuo.
+7. A utilização do Kanban permite uma melhor gestão do estoque de materiais e insumos, evitando desperdícios e garantindo uma distribuição adequada dos recursos.
+8. A metodologia Kanban promove uma maior flexibilidade na execução das atividades, permitindo ajustes rápidos de prioridades e adaptações às mudanças de demanda.
+9. A implementação do sistema Kanban estimula a colaboração e o compartilhamento de conhecimento entre os membros da equipe, fortalecendo a sinergia e a troca de informações.
+10. O Kanban contribui para a melhoria da qualidade dos produtos e serviços entregues pela organização, uma vez que auxilia na identificação de possíveis erros e falhas.
+
+8. Subtópico:
+8. Desafios na implementação do sistema Kanban 
+Assertivas:
+1. O sistema Kanban pode enfrentar resistência por parte dos colaboradores, uma vez que requer mudanças na forma como o trabalho é planejado e executado.
+2. Uma possível dificuldade na implementação do Kanban é a falta de comprometimento da alta administração, o que resulta na falta de recursos e suporte necessários para a efetiva adoção do sistema.
+3. A falta de conhecimento e capacitação da equipe em relação aos princípios e práticas do Kanban é um desafio comum na sua implementação.
+4. A adaptação do fluxo de trabalho existente para atender às demandas do sistema Kanban pode gerar conflitos e desafios devido a resistências à mudança.
+5. A falta de transparência e comunicação eficaz pode dificultar a implementação do Kanban, uma vez que a colaboração e o compartilhamento de informações são fundamentais para o seu funcionamento.
+6. A ausência de indicadores claros e objetivos para avaliar a eficácia do sistema Kanban pode ser um desafio na implementação, uma vez que a mensuração de resultados é essencial para a melhoria contínua.
+7. O Kanban exige uma gestão adequada do estoque de itens do backlog, o que pode ser um desafio caso não haja uma estruturação adequada de controle e reposição dos materiais.
+8. A falta de autonomia e empowerment da equipe pode dificultar a implementação do Kanban, uma vez que o sistema depende da autoridade e responsabilidade dos colaboradores para tomar decisões e priorizar tarefas.
+9. A dependência de sistemas de TI eficientes e atualizados pode representar um desafio na implementação do Kanban, uma vez que a falta de ferramentas adequadas para visualização e controle do fluxo de trabalho pode comprometer seu sucesso.
+10. A resistência cultural e organizacional à mudança é um desafio constante na implementação do Kanban, uma vez que seus princípios podem entrar em conflito com práticas e hábitos já estabelecidos dentro da organização.
+
+9. Subtópico:
+9. Ferramentas utilizadas para implementar o sistema Kanban 
+Assertivas:
+1. O Kanban é um sistema de gestão visual que visa controlar o fluxo de trabalho em uma linha de produção.
+2. As ferramentas utilizadas para implementar o sistema Kanban podem variar de acordo com o contexto organizacional.
+3. Uma das ferramentas mais comuns para implementar o Kanban é o quadro Kanban, que consiste em divisões para identificar diferentes etapas do processo.
+4. O quadro Kanban pode ser físico ou virtual, dependendo das necessidades da empresa.
+5. Outra ferramenta utilizada é o cartão Kanban, que representa uma tarefa ou produto a ser produzido.
+6. Software de gestão visual são ferramentas modernas que podem ser utilizadas para implementar o Kanban.
+7. Além do quadro e do cartão Kanban, podem ser utilizados outros elementos, como ímãs, post-it, sinalizadores e réguas, para auxiliar na visualização do fluxo de trabalho.
+8. A implementação do Kanban requer uma análise detalhada do processo atual de produção, de modo a identificar as etapas e a sequência adequada das atividades.
+9. É necessário um treinamento adequado da equipe para a correta utilização das ferramentas Kanban, visando otimizar o fluxo de trabalho.
+
+10. Subtópico:
+10. Estudos de caso sobre a aplicação efetiva do método kanban em diferentes setores.
+Assertivas:
+1. A aplicação do método kanban tem mostrado resultados efetivos em diferentes setores, como produção industrial, logística e desenvolvimento de software.
+2. Estudos de caso sobre a adoção do kanban na indústria automobilística evidenciam melhorias nos processos de produção, redução de estoques e aumento da eficiência.
+3. Empresas do setor de tecnologia têm obtido sucesso ao implementar o kanban em equipes de desenvolvimento de software, permitindo um fluxo de trabalho mais ágil e maior visibilidade das tarefas.
+4. É possível utilizar o kanban no setor de serviços, como em hospitais e clínicas, promovendo uma gestão mais eficiente dos recursos e uma melhor organização dos fluxos de trabalho.
+5. O método kanban tem se mostrado eficiente na área da logística, permitindo um controle mais preciso dos estoques, redução de desperdícios e otimização do fluxo de produtos.
+6. A aplicação do kanban na área de marketing tem sido cada vez mais frequente, proporcionando maior planejamento e visibilidade das atividades, além de uma melhor gestão de recursos e prazos.
+7. Estudos de caso demonstram que o uso do kanban na gestão de projetos de construção civil pode melhorar a comunicação entre as equipes e otimizar a sequência de atividades, reduzindo atrasos e custos.
+8. A utilização do kanban na área de vendas contribui para uma melhor gestão do pipeline, maior controle sobre as oportunidades comerciais e um atendimento mais ágil e personalizado aos clientes.
+9. Empresas do setor de varejo têm implementado o kanban em seus processos de reposição de estoque, permitindo uma melhor gestão do fluxo de mercadorias e redução dos níveis de ruptura.
+10. Estudos de caso sobre a aplicação do kanban em empresas de diferentes setores evidenciam uma melhoria na produtividade, redução de custos, melhor coordenação das equipes e aumento da satisfação dos clientes.
+
+
+Item do edital: 1.3 Scrum pessoas envolvidas -papéis-   
+ 
+1. Subtópico:
+1. Definição e funções do Scrum Master
+Assertivas:
+1. O Scrum Master é um papel fundamental no framework Scrum, responsável por promover a adoção e a implementação correta dos princípios e práticas ágeis.
+2. O Scrum Master atua como facilitador, auxiliando a equipe Scrum a entender e implementar as regras e práticas do Scrum de forma eficaz.
+3. Uma das principais funções do Scrum Master é garantir que a equipe Scrum tenha um ambiente de trabalho produtivo e colaborativo, removendo obstáculos e impedimentos que possam afetar o progresso do time.
+4. O Scrum Master realiza reuniões diárias de acompanhamento com a equipe Scrum, conhecidas como Daily Scrum, visando identificar possíveis problemas e alinhar as atividades do time.
+5. Uma das habilidades essenciais do Scrum Master é a capacidade de ajudar a equipe a autogerenciar-se, promovendo a autonomia e a responsabilidade dos membros.
+6. O Scrum Master atua como um agente de mudança, auxiliando a organização a adotar práticas ágeis e a melhorar continuamente seus processos.
+7. O Scrum Master deve ser um facilitador neutro, não tomando partido em decisões técnicas ou de negócio, mas sim fomentando a comunicação e a colaboração entre as partes envolvidas.
+8. O Scrum Master é responsável por garantir que todas as cerimônias do Scrum sejam realizadas de acordo com as regras estabelecidas, como sprint planning, sprint review e sprint retrospective.
+9. Um dos objetivos do Scrum Master é promover a transparência, ajudando a equipe a visualizar o progresso do trabalho por meio de ferramentas como o quadro Kanban.
+10. O Scrum Master atua como um coach, ajudando a equipe a melhorar continuamente sua performance por meio da aplicação de práticas ágeis e da utilização de métricas adequadas.
+
+2. Subtópico:
+2. Responsabilidades e papel do Product Owner
+Assertivas:
+1. O Product Owner é o responsável por maximizar o valor do produto durante todo o seu ciclo de vida.
+2. O papel do Product Owner é garantir a clara definição e priorização de requisitos do produto.
+3. O Product Owner atua como um representante dos stakeholders, garantindo que suas necessidades sejam compreendidas e atendidas.
+4. É responsabilidade do Product Owner gerenciar e atualizar o Product Backlog, priorizando as atividades com base no valor que trazem ao produto.
+5. O Product Owner é responsável por garantir a comunicação e colaboração efetiva entre a equipe de desenvolvimento e os stakeholders.
+6. É papel do Product Owner definir os critérios de aceitação para cada funcionalidade do produto.
+7. O Product Owner deve estar sempre atualizado sobre as tendências de mercado e as necessidades dos usuários para garantir a relevância contínua do produto.
+8. Cabe ao Product Owner tomar decisões claras e rápidas quando necessário, visando o progresso contínuo do projeto.
+9. É responsabilidade do Product Owner garantir que o produto atinja os objetivos de negócio estabelecidos.
+10. O papel do Product Owner exige habilidades de liderança, negociação e comunicação efetiva para garantir o sucesso do produto.
+
+3. Subtópico:
+3. Características e responsabilidades da Equipe de Desenvolvimento
+Assertivas:
+1. A equipe de desenvolvimento é responsável por realizar atividades relacionadas ao desenvolvimento de software ou sistemas.
+2. A equipe de desenvolvimento tem o objetivo de transformar requisitos e especificações em produtos concretos.
+3. A equipe de desenvolvimento é composta por profissionais especializados como desenvolvedores, analistas, testadores, entre outros.
+4. Uma das principais responsabilidades da equipe de desenvolvimento é entregar o produto final dentro do prazo estipulado.
+5. A equipe de desenvolvimento deve seguir as melhores práticas e metodologias adequadas para o desenvolvimento de software.
+6. A equipe de desenvolvimento é responsável por garantir a qualidade do produto final, por meio de testes e revisões.
+7. A equipe de desenvolvimento deve estar sempre atualizada em relação às tecnologias e tendências do mercado.
+8. A equipe de desenvolvimento deve trabalhar de forma colaborativa e em harmonia, visando o melhor resultado para o projeto.
+9. A equipe de desenvolvimento deve ser responsável pela manutenção e atualização do sistema após sua implantação.
+10. A equipe de desenvolvimento deve priorizar a segurança e confidencialidade dos dados durante todo o processo de desenvolvimento.
+
+4. Subtópico:
+4. Inter-relações entre os papéis no Scrum: Scrum Master, Product Owner e Equipe de Desenvolvimento
+Assertivas:
+1. O Scrum Master é responsável por facilitar e garantir a implementação eficiente do framework Scrum.
+2. O Product Owner é responsável por definir e priorizar os requisitos do produto, em colaboração com a equipe de desenvolvimento.
+3. A Equipe de Desenvolvimento é responsável por criar e entregar o incremento do produto no final de cada sprint.
+4. O Scrum Master atua como um líder servo, auxiliando o Product Owner e a equipe de desenvolvimento no cumprimento dos objetivos do projeto.
+5. O Product Owner é responsável por garantir que o produto atenda às necessidades e expectativas dos stakeholders.
+6. A Equipe de Desenvolvimento é auto-organizada e multidisciplinar, capaz de realizar as atividades necessárias para entregar um incremento de software funcional ao final de cada sprint.
+7. O Scrum Master é responsável por remover obstáculos e garantir que a equipe de desenvolvimento tenha um ambiente de trabalho adequado para entregar valor ao produto.
+8. O Product Owner é responsável por manter a transparência em relação ao andamento e às necessidades do projeto, comunicando-se com os stakeholders e garantindo a visibilidade das tarefas realizadas.
+9. A Equipe de Desenvolvimento trabalha em estreita colaboração com o Product Owner para entender, esclarecer e realizar os requisitos do produto.
+10. O Scrum Master possui a função de treinar e capacitar a equipe de desenvolvimento para que esta possa se aprimorar e adotar as práticas ágeis do Scrum.
+
+5. Subtópico:
+5. O papel dos Stakeholders no Scrum 
+Assertivas:
+1. Os Stakeholders desempenham um papel crucial no processo Scrum, pois são pessoas ou grupos que possuem interesse ou influência sobre o projeto.
+2. No Scrum, os Stakeholders são responsáveis por fornecer feedback e direcionar as prioridades e necessidades do projeto.
+3. É papel dos Stakeholders participar ativamente das reuniões de planejamento e revisão do Scrum, a fim de garantir que suas expectativas sejam atendidas.
+4. Os Stakeholders podem ser internos ou externos à organização, representando diferentes áreas de interesse, como clientes, usuários finais, gerentes de produto, entre outros.
+5. Os Stakeholders têm a responsabilidade de trazer informações relevantes sobre o mercado, concorrência e demandas do cliente para o Scrum Team.
+6. É função dos Stakeholders auxiliar na identificação e priorização dos requisitos do projeto, garantindo que as entregas sejam alinhadas com suas necessidades.
+7. Os Stakeholders possuem o poder de tomar decisões e dar direcionamento estratégico ao projeto, ajudando a definir os objetivos e metas a serem alcançados.
+8. No Scrum, os Stakeholders são considerados membros do ambiente externo do projeto, e sua colaboração e engajamento são essenciais para o sucesso do mesmo.
+9. Os Stakeholders podem ter suas expectativas gerenciadas por meio do Product Owner, que atua como intermediário entre o Scrum Team e as partes interessadas.
+10. A comunicação adequada e regular entre os Stakeholders e o Scrum Team é fundamental para garantir a transparência e o alinhamento das expectativas ao longo do projeto.
+
+6. Subtópico:
+6. Importância da comunicação eficaz entre os membros da equipe Scrum 
+Assertivas:
+1. A comunicação eficaz entre os membros da equipe Scrum é vital para garantir a sinergia necessária para o sucesso do projeto.
+2. Uma comunicação eficaz ajuda a evitar mal-entendidos e promover a clareza nas atividades realizadas pela equipe Scrum.
+3. A comunicação adequada entre os membros da equipe Scrum contribui para a identificação e solução rápida de possíveis problemas ou obstáculos que surjam durante o desenvolvimento do projeto.
+4. A comunicação eficaz entre os membros da equipe Scrum fortalece a colaboração e a troca de conhecimento, permitindo um ambiente de trabalho produtivo e saudável.
+5. A comunicação eficaz é fundamental para o compartilhamento de informações relevantes sobre o projeto, tais como requisitos, prazos e metas a serem alcançadas.
+6. A comunicação eficaz permite que a equipe Scrum esteja alinhada com os objetivos estratégicos da organização, promovendo uma melhor integração entre as diferentes áreas envolvidas.
+7. A comunicação eficaz entre os membros da equipe Scrum é essencial para garantir a transparência no processo de desenvolvimento do projeto, facilitando a tomada de decisão de forma conjunta.
+8. A comunicação eficaz entre os membros da equipe Scrum promove o engajamento e a motivação de todos os envolvidos, contribuindo para o alcance de resultados satisfatórios.
+9. A comunicação eficaz permite o compartilhamento de feedbacks construtivos entre os membros da equipe Scrum, visando o aprimoramento contínuo das atividades realizadas.
+10. A comunicação eficaz entre os membros da equipe Scrum é um dos pilares do framework, sendo fundamental para que a metodologia seja aplicada de forma eficiente e eficaz.
+
+7. Subtópico:
+7. Atribuições específicas do Scrum Master na facilitação das cerimônias do Scrum 
+Assertivas:
+1. O Scrum Master é responsável por facilitar as cerimônias do Scrum, como a reunião de planejamento da sprint, revisão da sprint, retrospectiva da sprint e a daily scrum.
+2. O Scrum Master é responsável por auxiliar a equipe na definição e cumprimento das metas estabelecidas em cada cerimônia do Scrum.
+3. O Scrum Master deve garantir que as cerimônias do Scrum sejam organizadas e aconteçam de forma eficiente, promovendo a colaboração e a participação de todos os envolvidos.
+4. O Scrum Master deve assegurar que as cerimônias do Scrum sigam as melhores práticas e princípios do Scrum, buscando constantemente melhorias e adaptações necessárias.
+5. O Scrum Master é responsável por remover obstáculos e impedimentos que possam atrapalhar o bom andamento das cerimônias do Scrum.
+6. O Scrum Master deve atuar como facilitador e mediador nas discussões e tomadas de decisões que ocorrem durante as cerimônias do Scrum.
+7. O Scrum Master é responsável por manter o foco e direcionar as discussões das cerimônias do Scrum para o objetivo estabelecido, evitando desvios e desperdício de tempo.
+8. O Scrum Master deve promover a transparência e a comunicação eficiente durante as cerimônias do Scrum, garantindo que as informações relevantes sejam compartilhadas com toda a equipe.
+9. O Scrum Master deve buscar constantemente o engajamento e o envolvimento de todos os membros da equipe durante as cerimônias do Scrum, incentivando a participação ativa e a colaboração.
+10. O Scrum Master deve realizar a gestão do tempo e do ritmo das cerimônias do Scrum, garantindo que sejam realizadas no tempo adequado e com o nível de detalhamento necessário.
+
+8. Subtópico:
+8. O papel do Product Owner na definição de prioridades no Backlog do Produto 
+Assertivas:
+1. O Product Owner é o responsável por definir as prioridades no Backlog do Produto.
+2. É papel do Product Owner garantir que as prioridades estão alinhadas com as necessidades do cliente e do negócio.
+3. O Product Owner deve considerar o valor de negócio e o impacto nas metas do projeto ao definir as prioridades.
+4. O Product Owner precisa conhecer os requisitos, as necessidades e as expectativas dos stakeholders para definir as prioridades adequadamente.
+5. O Product Owner deve realizar constantes avaliações e ajustes nas prioridades para garantir que estão sempre alinhadas com as demandas do mercado.
+6. A priorização feita pelo Product Owner deve ser transparente e baseada em critérios claros, como retorno sobre investimento e risco.
+7. O Product Owner deve evitar priorizar itens do backlog apenas de acordo com a opinião pessoal, optando por uma abordagem baseada em fatos e dados.
+8. A definição de prioridades pelo Product Owner deve levar em consideração as capacidades e recursos da equipe de desenvolvimento.
+9. O Product Owner deve estar constantemente envolvido com a equipe para entender as dificuldades enfrentadas na implementação das funcionalidades do backlog.
+10. A definição de prioridades é uma responsabilidade contínua do Product Owner ao longo do ciclo de vida do produto.
+
+9. Subtópico:
+9. Como a equipe de desenvolvimento
+Assertivas:
+1. A equipe de desenvolvimento é responsável por implementar e aprimorar sistemas e softwares.
+2. É papel da equipe de desenvolvimento seguir boas práticas de programação para garantir a qualidade do código produzido.
+3. A equipe de desenvolvimento trabalha em colaboração com outros departamentos para identificar e implementar soluções tecnológicas.
+4. É fundamental que a equipe de desenvolvimento esteja atualizada em relação às ferramentas e tecnologias mais recentes do mercado.
+5. A equipe de desenvolvimento deve possuir habilidades de análise e resolução de problemas para identificar e solucionar eventuais bugs ou falhas nos sistemas.
+6. É necessário que a equipe de desenvolvimento tenha conhecimentos sólidos em algoritmos e estruturas de dados para melhorar a eficiência e desempenho dos sistemas desenvolvidos.
+7. A colaboração e comunicação eficiente são fundamentais dentro da equipe de desenvolvimento para garantir a fluidez do trabalho e a entrega de projetos dentro dos prazos estabelecidos.
+8. A equipe de desenvolvimento deve estar preparada para lidar com demandas urgentes e prazos apertados, demonstrando habilidade em gerenciar o tempo e priorizar tarefas.
+9. Aperfeiçoar constantemente as habilidades técnicas e conhecimentos de programação é essencial para o desenvolvedor se manter atualizado e competitivo no mercado de trabalho.
+10. A equipe de desenvolvimento precisa conhecer e aplicar os princípios da programação orientada a objetos para desenvolver sistemas mais robustos e fáceis de manter.
+
+
+Item do edital: 1.4 Kanbanfluxo processual   
+ 
+1. Subtópico:
+1. Definição e origem do Kanban
+Assertivas:
+1. O Kanban é uma metodologia ágil de gestão visual, originária do sistema de produção da Toyota no Japão.
+2. O termo Kanban significa "cartão visual" em japonês, referindo-se aos cartões utilizados para controlar o fluxo de trabalho.
+3. O Kanban foi desenvolvido na década de 1940 por Taiichi Ohno, engenheiro da Toyota, como parte do Sistema Toyota de Produção.
+4. O Kanban surgiu como uma resposta aos problemas da produção em massa, buscando uma abordagem mais flexível e adaptativa.
+5. A principal finalidade do Kanban é otimizar a capacidade de produção, identificando gargalos e eliminando o excesso de estoque.
+6. O Kanban utiliza quadros visuais para representar o fluxo de trabalho, permitindo a visualização do progresso e facilitando o planejamento.
+7. A abordagem do Kanban se baseia em limitar a quantidade de tarefas em andamento para evitar sobrecarga e melhorar a produtividade.
+8. O Kanban utiliza o conceito de "pull system", no qual as tarefas são puxadas pela demanda, ou seja, só são iniciadas quando há capacidade para executá-las.
+9. O Kanban adota células de trabalho autônomas, chamadas de "kanbans", que representam unidades de trabalho e são movimentadas ao longo do fluxo.
+10. O Kanban tem se aplicado com sucesso não apenas na área de produção, mas também em equipes de desenvolvimento de software e gestão de projetos.
+
+2. Subtópico:
+2. Princípios fundamentais do Kanban
+Assertivas:
+1. O Kanban é um método de gerenciamento visual de fluxo de trabalho, originado no sistema de produção da Toyota.
+2. Um dos princípios fundamentais do Kanban é limitar o trabalho em andamento, buscando evitar a sobrecarga de tarefas.
+3. O princípio do Kanban de visualizar o trabalho é essencial para proporcionar transparência e facilitar a identificação de gargalos e oportunidades de melhoria.
+4. O Kanban encoraja a colaboração entre os membros da equipe, incentivando a auto-organização e a responsabilidade compartilhada.
+5. O princípio do Kanban de tornar as políticas explícitas promove uma melhor compreensão das regras e diretrizes do processo de fluxo de trabalho.
+6. O Kanban busca a melhoria contínua por meio de ciclos de feedback, permitindo ajustes e adaptações progressivas.
+7. Um dos princípios do Kanban é priorizar o fluxo de valor, focando nas tarefas que entregam maior valor ao cliente ou usuário final.
+8. O Kanban enfatiza a redução do desperdício, buscando eliminar atividades desnecessárias ou que não agregam valor ao produto ou serviço.
+9. Um princípio fundamental do Kanban é incentivar a flexibilidade e a capacidade de resposta às mudanças, permitindo ajustes ágeis nas prioridades.
+10. O Kanban promove a transparência e a visibilidade do trabalho em todas as suas etapas, desde o início até a entrega final.
+
+3. Subtópico:
+3. Benefícios da implementação do sistema Kanban
+Assertivas:
+1. A implementação do sistema Kanban promove a redução significativa do estoque desnecessário.
+2. A utilização do Kanban permite a identificação de gargalos no processo produtivo, possibilitando a adoção de medidas corretivas.
+3. A aplicação do Kanban proporciona uma maior visibilidade do fluxo de trabalho, o que facilita a identificação de problemas e a busca por soluções mais eficientes.
+4. A utilização do sistema Kanban pode reduzir o lead time, ou seja, o tempo necessário para entregar um produto ou serviço aos clientes.
+5. A implementação do Kanban promove a melhoria contínua do processo produtivo, pois facilita a identificação e resolução de problemas de forma ágil.
+6. A adoção do sistema Kanban pode aumentar a capacidade de resposta às mudanças de demanda, permitindo uma maior flexibilização da produção.
+7. O sistema Kanban contribui para a redução de erros e retrabalhos, uma vez que aumenta a clareza e o controle sobre o fluxo de trabalho.
+8. A implementação do Kanban auxilia na organização do ambiente de trabalho, ao definir limites de trabalho em progresso e evitar o acúmulo de tarefas.
+9. O uso do Kanban pode facilitar a comunicação entre os membros de uma equipe, uma vez que as informações sobre o estado das tarefas estão sempre acessíveis.
+10. A aplicação do Kanban promove a autonomia e a responsabilidade dos membros da equipe, pois cada um tem visibilidade sobre suas próprias tarefas e pode priorizá-las de acordo com o sistema.
+
+4. Subtópico:
+4. Diferença entre o sistema Kanban e outros sistemas de gestão de fluxo de trabalho
+Assertivas:
+1. O sistema Kanban é uma abordagem visual que auxilia na gestão do fluxo de trabalho.
+2. Diferentemente de outros sistemas, o Kanban utiliza cartões ou post-its para representar tarefas em um quadro visual.
+3. O Kanban prioriza a transparência e capacidade de resposta, permitindo que os membros da equipe visualizem facilmente o status das tarefas.
+4. Ao contrário de outros sistemas, o Kanban utiliza o conceito de WIP (Work in Progress) limitado para evitar o excesso de trabalho em andamento.
+5. O Kanban enfatiza a colaboração e a colaboração contínua entre os membros da equipe, facilitando a comunicação e a entrega de valor aos clientes.
+6. Diferentemente de outros sistemas, o Kanban permite que a equipe adapte-se rapidamente às mudanças de prioridades durante o fluxo de trabalho.
+7. O Kanban utiliza métricas claras, como tempo de ciclo e lead time, para medir a eficiência e a produtividade do fluxo de trabalho.
+8. Ao contrário de outros sistemas, o Kanban ajuda a identificar gargalos e a melhorar a eficiência do fluxo de trabalho de forma contínua.
+9. O Kanban é amplamente utilizado em projetos ágeis, como Scrum, para gerenciar o fluxo de trabalho de forma mais eficiente.
+10. Diferentemente de outros sistemas, o Kanban permite que a equipe visualize o fluxo de valor completo, desde a solicitação do cliente até a entrega final, facilitando o entendimento do processo como um todo.
+
+5. Subtópico:
+5. Como o sistema Kanban melhora a eficiência processual 
+Assertivas:
+1. O sistema Kanban é uma metodologia que permite visualizar e controlar o fluxo de trabalho de forma eficiente.
+2. A aplicação do sistema Kanban contribui para a redução de gargalos e atrasos nos processos produtivos.
+3. Ao utilizar o sistema Kanban, é possível identificar e eliminar atividades desnecessárias ou que não agregam valor ao processo.
+4. O sistema Kanban promove uma distribuição equilibrada das tarefas entre os membros da equipe, evitando sobrecargas e ociosidade.
+5. A utilização do Kanban possibilita uma melhor comunicação entre as diferentes áreas envolvidas no processo, favorecendo a colaboração e evitando ruídos.
+6. Com o sistema Kanban, é possível identificar de forma mais precisa os gargalos e pontos de melhoria nos processos, permitindo ações corretivas mais eficientes.
+7. Através do uso do Kanban, é possível criar uma mentalidade de melhoria contínua no ambiente de trabalho, buscando sempre otimizar os processos.
+8. O Kanban permite uma melhor previsibilidade e controle do tempo necessário para execução de cada tarefa, contribuindo para o cumprimento de prazos estabelecidos.
+9. Com o sistema Kanban, é possível aumentar a transparência nos processos, possibilitando que todos os membros da equipe tenham uma visão clara do fluxo de trabalho.
+10. Ao utilizar o Kanban, é possível priorizar e focar nas tarefas mais relevantes, evitando desperdício de tempo e recursos em atividades menos importantes.
+
+6. Subtópico:
+6. Implementação prática do sistema Kanban: etapas e desafios 
+Assertivas:
+1. O sistema Kanban é uma metodologia que visa otimizar o fluxo de produção por meio da gestão visual de tarefas e materiais.
+2. O Kanban se baseia no uso de cartões ou quadros para representar as demandas de trabalho e limitar a quantidade de tarefas em andamento.
+3. A implementação do sistema Kanban envolve a criação de um quadro Kanban que representa todas as etapas do fluxo de trabalho.
+4. O primeiro passo para implementar o Kanban é mapear o fluxo de trabalho atual, identificando todas as etapas e subprocessos.
+5. O segundo passo é definir os limites de trabalho em progresso para cada etapa do fluxo, evitando a sobrecarga de tarefas e atrasos.
+6. A implementação do Kanban requer uma mudança cultural na equipe, estimulando a colaboração, transparência e responsabilidade compartilhada.
+7. Um desafio da implementação do Kanban é identificar e remover os gargalos no processo para garantir um fluxo contínuo e eficiente.
+8. Outro desafio é a resistência à mudança por parte dos colaboradores, que podem ter dificuldades em se adaptar a um novo sistema de trabalho.
+9. A implantação do Kanban também exige um monitoramento constante do fluxo de trabalho e dos indicadores de desempenho, visando identificar melhorias e ajustes necessários.
+10. A implementação prática do Kanban pode trazer diversos benefícios, como maior agilidade, redução de desperdícios, melhor utilização dos recursos e melhoria na qualidade dos produtos ou serviços entregues.
+
+7. Subtópico:
+7. Uso de ferramentas digitais para suporte ao sistema Kanban 
+Assertivas:
+1. O uso de ferramentas digitais para suporte ao sistema Kanban tem se tornado cada vez mais comum nas organizações.
+2. Ferramentas digitais dedicadas ao Kanban permitem uma melhor visualização das etapas do processo e do fluxo de trabalho.
+3. As ferramentas digitais para suporte ao Kanban permitem a integração com outras plataformas de gerenciamento de projetos.
+4. O uso de ferramentas digitais no Kanban facilita a colaboração e a comunicação entre os membros da equipe.
+5. Ferramentas digitais para Kanban possibilitam a adição de informações relevantes, como anexos e comentários, em cada tarefa do quadro kanban.
+6. O uso de ferramentas digitais no Kanban contribui para a redução do uso de papel e permite um ambiente de trabalho mais sustentável.
+7. As ferramentas digitais para Kanban permitem a geração de relatórios e métricas automatizados, facilitando a análise do desempenho da equipe.
+8. A utilização de ferramentas digitais para suporte ao Kanban melhora o controle e a gestão do fluxo de trabalho, tornando-o mais eficiente.
+9. O uso de ferramentas digitais no Kanban possibilita a personalização do quadro, de acordo com as necessidades e preferências da equipe.
+10. As ferramentas digitais dedicadas ao Kanban oferecem maior segurança e backup dos dados, evitando a perda de informações importantes.
+
+8. Subtópico:
+8. Limitações e críticas ao uso do sistema Kanban 
+Assertivas:
+1. O sistema Kanban tem limitações quando aplicado em ambientes com demanda instável e imprevisível.
+2. Uma crítica ao uso do Kanban é a possibilidade de ocorrer atraso na entrega de produtos ou serviços devido a fluxos de trabalho bloqueados.
+3. Limitações podem surgir no Kanban quando não há uma comunicação clara e efetiva entre as equipes envolvidas no processo.
+4. Uma crítica ao Kanban é a dificuldade de gerenciar projetos complexos ou que envolvam várias dependências.
+5. O uso do Kanban pode ser limitado em contextos nos quais a flexibilidade e a adaptação constante são necessárias.
+6. Uma crítica ao Kanban é a falta de ênfase na inovação e na melhoria contínua, já que a metodologia prioriza a eficiência do fluxo de trabalho atual.
+7. O Kanban pode ser limitado em situações em que não há uma equipe multidisciplinar, pois a metodologia pressupõe a colaboração entre diferentes áreas.
+8. Uma crítica é que o Kanban pode favorecer a repetição de erros, já que não há um foco explícito na identificação e resolução de problemas.
+
+9. Subtópico:
+9. Estudos de caso sobre a aplicação bem-sucedida do método kanban em diferentes setores.
+Assertivas:
+1. O método Kanban tem sido amplamente utilizado em diversos setores, incluindo manufatura, desenvolvimento de software e gerenciamento de projetos.
+
+2. Estudos de caso comprovaram a eficácia do método Kanban na redução do tempo de ciclo de produção e melhorias no fluxo de trabalho.
+
+3. Empresas que implementaram o método Kanban observaram um aumento na produtividade e na qualidade dos produtos ou serviços entregues.
+
+4. O método Kanban é especialmente útil na gestão de equipes multidisciplinares, permitindo uma melhor visualização das prioridades e tarefas em andamento.
+
+5. Estudos de caso demonstraram a capacidade do Kanban em reduzir o estoque e minimizar desperdícios ao longo do processo produtivo.
+
+6. A aplicação do método Kanban em setores de atendimento ao cliente resultou em uma melhora significativa na gestão de demanda e no atendimento de solicitações.
+
+7. O Kanban é uma metodologia flexível e adaptável, podendo ser facilmente ajustado às necessidades específicas de cada organização.
+
+8. Empresas que adotaram o Kanban como uma abordagem de gestão têm relatado uma maior agilidade na tomada de decisões e resolução de problemas.
+
+9. Estudos de caso mostram que o método Kanban promove uma cultura de melhoria contínua ao incentivar a identificação de gargalos e a busca por soluções.
+
+10. A implementação do Kanban tem se mostrado benéfica tanto para pequenas startups quanto para grandes empresas multinacionais, destacando sua adaptabilidade a diferentes contextos organizacionais.
+
+10. Subtópico:
+10
+Assertivas:
+1. A Terra é o terceiro planeta do sistema solar.
+2. A água é composta por dois átomos de hidrogênio e um de oxigênio.
+3. A China é o país mais populoso do mundo.
+4. O Brasil sediou a Copa do Mundo de Futebol em 2014.
+5. O Código Civil estabelece as normas que regulam as relações jurídicas no Brasil.
+6. O Sol é uma estrela de tipo espectral G2V.
+7. A Revolução Francesa foi um marco importante na conquista dos direitos humanos.
+8. A velocidade da luz no vácuo é de aproximadamente 299.792.458 metros por segundo.
+9. A energia nuclear é gerada através da fissão ou fusão de núcleos atômicos.
+10. A Batalha de Waterloo marcou o fim do Império Napoleônico.
+
+
+Item do edital: 1.4 Scrum fluxo processual   
+ 
+1. Subtópico:
+1. Definição e princípios do Scrum
+Assertivas:
+1. Scrum é um framework ágil para gerenciamento de projetos que tem como objetivo principal melhorar a eficiência e a produtividade de equipes de desenvolvimento.
+2. O Scrum se baseia em três pilares essenciais: transparência, inspeção e adaptação.
+3. O Scrum é uma abordagem iterativa e incremental, dividindo o projeto em ciclos chamados de sprints.
+4. O Scrum possui uma estrutura de papéis bem definidos: Scrum Master, Product Owner e Time de Desenvolvimento.
+5. O Scrum Master é responsável por garantir que o time siga as práticas e os valores do Scrum, além de remover os obstáculos que possam atrapalhar o progresso do projeto.
+6. O Product Owner é o responsável por representar os interesses dos stakeholders do projeto, definir as histórias de usuário e priorizar o backlog do produto.
+7. O Time de Desenvolvimento é formado por profissionais multidisciplinares que possuem habilidades necessárias para entregar as funcionalidades planejadas.
+8. As cerimônias do Scrum incluem: reunião de planejamento do sprint, daily scrum, revisão do sprint e retrospectiva do sprint.
+9. O Scrum utiliza artefatos, como o backlog do produto, backlog do sprint, incremento e gráficos de burndown, para auxiliar no planejamento e acompanhamento do projeto.
+10. A abordagem do Scrum permite uma maior flexibilidade e adaptação durante o desenvolvimento, possibilitando a entrega de valor para o cliente de forma mais rápida e eficiente.
+
+2. Subtópico:
+2. Papéis dentro do Scrum: Product Owner, Scrum Master e Time de Desenvolvimento
+Assertivas:
+1. O Product Owner é o responsável por definir as necessidades do cliente e priorizar o backlog do produto.
+2. O Scrum Master é o responsável por garantir que a equipe de desenvolvimento entenda e siga as práticas do Scrum.
+3. O Time de Desenvolvimento é responsável por realizar as atividades de desenvolvimento e entrega do produto.
+4. O Product Owner é o único responsável por tomar decisões sobre a priorização das funcionalidades a serem desenvolvidas.
+5. O Scrum Master não é um gerente de projeto, mas sim um facilitador do processo ágil.
+6. O Time de Desenvolvimento é auto-organizado e responsável por decidir como realizar as atividades e atingir os objetivos definidos.
+7. O Product Owner é o principal ponto de contato entre a equipe de desenvolvimento e os stakeholders do projeto.
+8. O Scrum Master é responsável por remover obstáculos e impedimentos que possam atrapalhar a equipe de desenvolvimento.
+9. O Time de Desenvolvimento deve ser composto por profissionais capacitados e multidisciplinares.
+10. O Product Owner deve estar disponível para esclarecer dúvidas e fornecer informações necessárias durante o desenvolvimento do produto.
+
+3. Subtópico:
+3. Artefatos do Scrum: Product Backlog, Sprint Backlog e Incremento de Produto
+Assertivas:
+1. O Product Backlog é uma lista ordenada de todas as funcionalidades, requisitos, melhorias e correções que precisam ser implementadas no produto.
+2. O Sprint Backlog é uma lista de todas as tarefas que devem ser realizadas durante um determinado sprint.
+3. O Sprint Backlog é derivado do Product Backlog, no qual as funcionalidades prioritárias são selecionadas para serem implementadas no sprint atual.
+4. O Incremento de Produto é o resultado tangível do trabalho realizado durante um sprint. É uma versão atualizada e funcional do produto.
+5. O Product Backlog é constantemente revisado, priorizado e atualizado ao longo do projeto.
+6. O Sprint Backlog é criado no início de cada sprint, com base nas prioridades e capacidades da equipe.
+7. O Product Backlog é de responsabilidade do Product Owner, enquanto o Sprint Backlog é de responsabilidade da equipe de desenvolvimento.
+8. O Product Backlog é uma ferramenta dinâmica, que permite ajustes e mudanças com base em feedbacks e necessidades do cliente.
+9. Durante o Sprint, as funcionalidades do Product Backlog são implementadas e testadas, resultando no Incremento de Produto.
+10. O Incremento de Produto deve ser entregue ao final de cada sprint, cumprindo as metas estabelecidas no início do sprint.
+
+4. Subtópico:
+4. Eventos no fluxo processual do Scrum: Sprint, Planejamento da Sprint, Daily Standup, Revisão da Sprint e Retrospectiva da Sprint
+Assertivas:
+1. O evento Sprint no fluxo processual do Scrum é um período de tempo bem definido, geralmente de 1 a 4 semanas, no qual o Time de Desenvolvimento realiza o trabalho necessário para atingir o objetivo do Sprint.
+2. O evento Planejamento da Sprint ocorre no início de cada Sprint, no qual o Time de Desenvolvimento, o Scrum Master e o Product Owner se reúnem para definir os incrementos planejados para a próxima Sprint.
+3. O evento Daily Standup é uma reunião diária de curta duração realizada pelo Time de Desenvolvimento, na qual os membros compartilham o progresso do trabalho, discutem as atividades do dia e identificam possíveis impedimentos.
+4. A Revisão da Sprint é um evento realizado no final do Sprint, no qual o Time de Desenvolvimento apresenta os incrementos feitos durante a Sprint para o Product Owner e outras partes interessadas, com o objetivo de obter feedback e adaptar o Product Backlog, se necessário.
+5. O evento Retrospectiva da Sprint é uma reunião realizada no final do Sprint, na qual o Time de Desenvolvimento reflete sobre o processo de desenvolvimento durante a Sprint e identifica possíveis melhorias para serem aplicadas nas próximas Sprints.
+6. Durante o evento Sprint, o Time de Desenvolvimento trabalha de forma autônoma e auto-organizada, selecionando as atividades a serem executadas a partir do Product Backlog.
+7. No Planejamento da Sprint, o Product Owner prioriza e seleciona os itens do Product Backlog que serão incluídos na Sprint, levando em consideração os objetivos e prioridades do projeto.
+8. O Daily Standup é uma reunião de acompanhamento diário em que cada membro do Time de Desenvolvimento responde a três perguntas: o que foi feito desde a última reunião, o que será feito até a próxima reunião e quais são os possíveis impedimentos.
+9. Durante a Revisão da Sprint, o Product Owner tem a oportunidade de avaliar os resultados do Sprint e decidir quais itens do Product Backlog serão incluídos no próximo Sprint.
+10. A Retrospectiva da Sprint é uma oportunidade para o Time de Desenvolvimento refletir sobre o seu próprio processo de trabalho, identificar boas práticas, pontos de melhoria e tomar medidas para aprimorar o trabalho nas próximas Sprints.
+
+5. Subtópico:
+5. Conceito de Sprints e sua duração 
+Assertivas:
+1. O conceito de Sprints é uma prática do framework Scrum, utilizado para gerenciar projetos ágeis.
+2. Os Sprints são periodos curtos e fixos de tempo, onde ocorre o desenvolvimento de um conjunto de funcionalidades.
+3. A duração de um Sprint é definida pela equipe Scrum, geralmente variando entre 1 e 4 semanas.
+4. Durante um Sprint, a equipe foca no desenvolvimento e entrega de um incremento de produto.
+5. Ao final de cada Sprint, são realizadas cerimônias como a revisão do sprint e a retrospectiva, para avaliar o trabalho realizado.
+
+6. Subtópico:
+6. Processo de planejamento em uma sprint no Scrum 
+Assertivas:
+1. O processo de planejamento em uma sprint no Scrum envolve a definição dos objetivos e metas a serem atingidos no período.
+2. Durante o processo de planejamento em uma sprint no Scrum, são selecionadas as tarefas que devem ser realizadas para alcançar os objetivos definidos.
+3. No processo de planejamento em uma sprint no Scrum, é estimado o esforço necessário para a realização de cada tarefa.
+4. Durante o planejamento em uma sprint no Scrum, são identificadas as dependências entre as tarefas a serem realizadas.
+5. O processo de planejamento em uma sprint no Scrum envolve a criação de um backlog de tarefas priorizadas.
+6. Durante o processo de planejamento em uma sprint no Scrum, é determinada a capacidade da equipe de lidar com as tarefas ao longo do período.
+7. No processo de planejamento em uma sprint no Scrum, podem ser realizadas reuniões para esclarecer dúvidas e discutir estratégias.
+8. Durante o planejamento em uma sprint no Scrum, são estabelecidos critérios de aceitação para cada tarefa a ser realizada.
+9. O processo de planejamento em uma sprint no Scrum envolve o estabelecimento de um prazo para a conclusão das tarefas.
+10. Durante o processo de planejamento em uma sprint no Scrum, são definidas as métricas a serem utilizadas para monitorar o progresso das tarefas.
+
+7. Subtópico:
+7. Gestão de projetos utilizando o método Scrum 
+Assertivas:
+1. O Scrum é um método ágil de gestão de projetos que se baseia em iterações curtas e frequentes.
+2. No Scrum, o trabalho é organizado em ciclos chamados de sprints, que geralmente têm duração de duas a quatro semanas.
+3. O Scrum divide as responsabilidades entre três papéis principais: Product Owner, Scrum Master e Equipe de Desenvolvimento.
+4. O Product Owner é responsável por definir as metas do projeto, priorizar as atividades e garantir que o produto seja entregue de acordo com as expectativas do cliente.
+5. O Scrum Master atua como um facilitador, removendo obstáculos e garantindo a aplicação correta do método Scrum.
+6. A Equipe de Desenvolvimento é responsável por realizar o trabalho necessário para atender ao objetivo do sprint.
+7. Durante a revisão do sprint, a Equipe de Desenvolvimento apresenta o que foi concluído no período e recebe feedback do Product Owner.
+8. O Scrum utiliza reuniões diárias chamadas de Daily Scrum para que a equipe possa se sincronizar e identificar possíveis impedimentos.
+9. O Scrum valoriza a transparência, a inspeção e a adaptação contínuas para melhorar a eficiência e a qualidade dos projetos.
+10. O Scrum é amplamente utilizado em empresas de desenvolvimento de software, mas também pode ser aplicado em outros tipos de projetos.
+
+8. Subtópico:
+8. Técnicas para priorização do backlog no processo scrum
+Assertivas:
+1. A priorização do backlog no processo Scrum consiste em ordenar as funcionalidades ou itens de trabalho de acordo com sua importância.
+2. Na técnica de priorização MoSCoW, os itens do backlog são classificados como Must have, Should have, Could have e Won't have, de acordo com sua relevância para o projeto.
+3. A técnica de priorização ROI (Return on Investment) é utilizada no Scrum para priorizar o backlog com base no valor que cada item agrega para o negócio.
+4. A técnica de priorização Kano é usada no Scrum para classificar os itens do backlog em atrativos, unidimensionais, obrigatórios, indiferentes e reversos, de acordo com o impacto no cliente.
+5. A técnica de priorização WSJF (Weighted Shortest Job First) é utilizada no Scrum para priorizar o backlog com base no benefício relativo e na magnitude do trabalho.
+6. A técnica de priorização MoSCoW é uma abordagem eficaz para decidir quais requisitos ou recursos serão incluídos e quais serão descartados no backlog.
+7. A priorização do backlog no Scrum pode ser realizada por meio de reuniões de refinamento, onde a equipe realiza um debate e toma decisões conjuntas sobre a relevância de cada item.
+8. A técnica de priorização RICE (Reach, Impact, Confidence, Effort) é usada no Scrum para priorizar itens do backlog com base em seu alcance, impacto, confiança e esforço necessário.
+9. A priorização do backlog no Scrum é uma atividade contínua que deve ser revisada e ajustada regularmente para atender às necessidades e objetivos em constante mudança do projeto.
+10. A técnica de priorização WSJF é baseada em uma fórmula matemática que leva em consideração o valor, esforço, risco e oportunidade de cada item do backlog.
+
+
+Item do edital: 2 Scrum.    
+ 
+1. Subtópico:
+1. Definição e princípios do Scrum
+Assertivas:
+1. O Scrum é um framework utilizado para gerenciamento ágil de projetos.
+2. O Scrum se baseia em princípios empíricos, ou seja, no conhecimento e na experiência adquiridos através da prática.
+3. O Scrum valoriza a colaboração e a comunicação constante entre os membros da equipe.
+4. Um dos princípios do Scrum é o de entregar valor incrementalmente, ou seja, entregar partes funcionais do produto ao longo do tempo.
+5. O time Scrum é autônomo e multidisciplinar, responsável por planejar, desenvolver e entregar o produto.
+6. As atividades de planejamento, desenvolvimento e revisão ocorrem em ciclos chamados de sprints, que geralmente têm duração de duas a quatro semanas.
+7. O Scrum valoriza a transparência, com o uso de artefatos visuais, como o quadro de tarefas, para facilitar a visibilidade do progresso.
+8. Reuniões diárias de curta duração, conhecidas como daily stand-ups, são realizadas para promover a comunicação e o alinhamento da equipe.
+9. O Scrum permite a adaptação rápida a mudanças, pois é baseado em inspeção contínua e adaptação do plano conforme necessário.
+10. Um dos papéis fundamentais no Scrum é o de Scrum Master, responsável por garantir a aplicação correta das práticas e princípios do framework.
+
+2. Subtópico:
+2. Papéis e responsabilidades no Scrum: Product Owner, Scrum Master e Time de Desenvolvimento
+Assertivas:
+1. O Product Owner é responsável por definir e priorizar os itens do backlog do produto. 
+2. O Scrum Master é responsável por facilitar e promover a adoção do Scrum dentro da equipe.
+3. O Time de Desenvolvimento é responsável por transformar os itens do backlog do produto em incrementos de trabalho entregáveis.
+4. O Product Owner tem autoridade final na tomada de decisões sobre o produto.
+5. O Scrum Master não possui autoridade de gestão sobre o Time de Desenvolvimento.
+6. O Time de Desenvolvimento é autogerenciável e responsável pela execução do trabalho planejado.
+7. O Product Owner é responsável por garantir a transparência e a visibilidade dos itens do backlog do produto.
+8. O Scrum Master é responsável por remover os impedimentos que prejudicam a produtividade da equipe.
+9. O Time de Desenvolvimento é responsável por determinar como o trabalho será realizado para atender aos objetivos definidos pelo Product Owner.
+10. O Product Owner deve colaborar com o Time de Desenvolvimento para garantir que os requisitos sejam entendidos e implementados corretamente.
+
+3. Subtópico:
+3. Artefatos do Scrum: Product Backlog, Sprint Backlog, Incremento de Produto
+Assertivas:
+1. O Product Backlog é uma lista de todas as funcionalidades, requisitos e melhorias desejadas para o produto.
+2. O Sprint Backlog é uma lista de tarefas específicas que devem ser concluídas durante a Sprint.
+3. O Incremento de Produto é a soma de todas as funcionalidades desenvolvidas e testadas durante a Sprint.
+4. O Product Backlog pode ser atualizado ao longo do tempo à medida que novas exigências surgem ou prioridades mudam.
+5. O Sprint Backlog é definido no início da Sprint e não pode ser alterado até o final da mesma.
+6. O Incremento de Produto deve ser testado de acordo com as definições de pronto definidas pela equipe Scrum.
+7. O Product Backlog é uma responsabilidade do Product Owner, que é responsável por priorizar os itens nele contidos.
+8. O Sprint Backlog é de responsabilidade da equipe Scrum, que é responsável por definir como as tarefas serão realizadas.
+9. O Incremento de Produto deve ser potencialmente entregável, ou seja, atender aos critérios de aceitação acordados.
+10. O Product Backlog, o Sprint Backlog e o Incremento de Produto são artefatos essenciais do Scrum, que ajudam a organizar e controlar o desenvolvimento do produto.
+
+4. Subtópico:
+4. Eventos do Scrum: Sprint Planning, Daily Standup, Sprint Review, Sprint Retrospective
+Assertivas:
+1. No Scrum, o Sprint Planning é um evento dedicado à definição do backlog do produto para o próximo sprint.
+2. Durante o Sprint Planning, a equipe Scrum seleciona os itens do backlog do produto que serão trabalhados durante o sprint.
+3. O Daily Standup é uma reunião diária de curta duração realizada pela equipe Scrum para sincronização e planejamento das atividades.
+4. O objetivo do Daily Standup é promover a transparência e colaboração entre os membros da equipe, além de identificar possíveis impedimentos.
+5. No Sprint Review, a equipe Scrum apresenta o trabalho concluído durante o sprint ao Product Owner e a outras partes interessadas.
+6. O Sprint Review colabora para que o Product Owner possa tomar decisões sobre o produto, considerando o feedback da equipe e dos usuários.
+7. O Sprint Retrospective é um evento em que a equipe Scrum reflete sobre a performance, processo e suas relações internas, buscando melhorias contínuas.
+8. Durante o Sprint Retrospective, a equipe identifica ações a serem implementadas para otimizar a produtividade e a qualidade do trabalho.
+9. O Sprint Retrospective é uma oportunidade para a equipe Scrum celebrar os sucessos alcançados durante o sprint.
+10. Todos os eventos do Scrum são fundamentais para a aplicação eficiente e eficaz do framework, promovendo a adaptação contínua e o aprendizado colaborativo.
+
+5. Subtópico:
+5. Conceito de Sprints e sua duração 
+Assertivas:
+1. O conceito de Sprints é utilizado na metodologia ágil Scrum.
+2. Sprints são periodos de tempo curtos e fixos, com duração de duas a quatro semanas.
+3. Durante um Sprint, uma equipe de desenvolvimento trabalha em um conjunto de itens determinados no planejamento.
+4. Ao final de um Sprint, é esperado que um incremento de software seja entregue e pronto para ser liberado.
+5. Sprints são uma forma de organizar e gerenciar o desenvolvimento iterativo e incremental de um projeto ou produto.
+
+6. Subtópico:
+6. Técnicas de estimativa no Scrum: Planning Poker, Bucket System etc.
+Assertivas:
+1. No Scrum, o Planning Poker é uma técnica de estimativa que utiliza cartas com valores numéricos para estimar o esforço necessário para concluir uma determinada história do usuário.
+2. O Planning Poker baseia-se no consenso para alcançar uma estimativa precisa, uma vez que todos os membros da equipe de desenvolvimento discutem suas estimativas e justificam suas opiniões antes de chegar a um consenso.
+3. O Bucket System é uma técnica de estimativa usada no Scrum, que agrupa as histórias do usuário de acordo com sua complexidade.
+4. Com o Bucket System, as histórias do usuário são divididas em diferentes categorias de esforço - como pequeno, médio e grande, por exemplo - facilitando a estimativa do tempo necessário para implementá-las.
+5. A técnica de estimativa conhecida como Fibonacci é frequentemente utilizada no Scrum, na qual os valores das cartas do Planning Poker seguem a sequência de Fibonacci (1, 2, 3, 5, 8, 13, 21, etc.).
+6. A técnica de estimativa em T-shirt size é uma abordagem utilizada no Scrum para estimar o esforço necessário para implementar uma história do usuário, utilizando tamanhos de roupas, como P, M, G, GG, etc.
+7. No Scrum, a técnica de estimativa com pontos de função é usada para avaliar o tamanho funcional das histórias do usuário, medindo a complexidade e o valor agregado à solução final.
+8. A técnica de estimativa Delphi é frequentemente aplicada no Scrum, na qual as estimativas individuais dos membros da equipe são coletadas anonimamente e consolidadas para obter uma estimativa final.
+9. A técnica de estimativa Wideband Delphi é uma variação da técnica Delphi que utiliza intervalos de estimativa, considerando a incerteza envolvida no processo de desenvolvimento.
+10. No Scrum, é recomendado que a equipe de desenvolvimento utilize mais de uma técnica de estimativa em diferentes estágios do projeto para obter uma estimativa mais precisa e abrangente.
+
+7. Subtópico:
+7. Implementação do Scrum em projetos ágeis 
+Assertivas:
+1. A implementação do Scrum em projetos ágeis visa incrementar a eficiência e qualidade dos resultados.
+2. A adoção do Scrum permite uma maior colaboração e integração entre os membros da equipe de projeto.
+3. O framework Scrum é baseado em princípios ágeis e promove a entrega contínua de valor aos clientes.
+4. A implementação do Scrum requer a divisão do projeto em sprints, que são ciclos de trabalho de curta duração.
+5. No Scrum, a equipe de projeto é responsável pela definição e priorização das atividades a serem realizadas em cada sprint.
+6. O Scrum Master é o responsável por garantir que o time siga as práticas e princípios do Scrum, buscando a melhoria contínua.
+7. O Product Owner é o membro da equipe responsável por representar os interesses do cliente e definir as funcionalidades a serem desenvolvidas.
+8. A implementação do Scrum requer o uso de reuniões diárias, chamadas de daily scrum, para acompanhar o progresso do projeto.
+9. O Scrum utiliza métricas como o burndown chart para permitir o acompanhamento do progresso do projeto ao longo do tempo.
+10. O Scrum é um framework flexível, que pode ser adaptado de acordo com as necessidades e características do projeto em questão.
+
+8. Subtópico:
+8. Benefícios e desafios na adoção do método Scrum 
+Assertivas:
+1. A adoção do método Scrum pode trazer benefícios significativos para as equipes de desenvolvimento de software.
+2. O método Scrum favorece a colaboração e a comunicação entre os membros da equipe.
+3. A utilização do Scrum permite uma maior flexibilidade e adaptabilidade diante das mudanças nos requisitos do projeto.
+4. A implementação do Scrum ajuda a identificar e solucionar problemas de forma mais eficiente.
+5. O método Scrum estimula a transparência e a visibilidade do progresso do projeto.
+6. A adoção do Scrum requer uma mudança cultural significativa dentro da organização.
+7. A correta aplicação do Scrum depende do engajamento e comprometimento de todos os membros da equipe.
+8. O método Scrum demanda uma boa capacidade de planejamento e organização dos projetos.
+9. A implementação do Scrum pode exigir treinamento e capacitação dos membros da equipe.
+10. Os benefícios da adoção do Scrum podem ser percebidos tanto em projetos de pequeno como de grande porte.
+
+9. Subtópico:
+9. Comparação
+Assertivas:
+1. A comparação é uma figura de linguagem que estabelece uma relação entre dois elementos distintos.
+2. A comparação pode ser utilizada para enfatizar características semelhantes entre dois objetos, seres ou situações.
+3. Ao utilizar a comparação, é necessário estabelecer um termo de comparação, que pode ser um adjetivo, advérbio, substantivo ou verbo.
+4. A comparação pode contribuir para a compreensão do texto, ao criar imagens ou exemplos que facilitem a assimilação das informações.
+5. Ao empregar a comparação em um texto, é importante evitar expressões clichês e buscar por comparações originais e surpreendentes.
+6. A comparação pode ser considerada uma figura de pensamento, uma vez que estimula o raciocínio e a reflexão do leitor.
+7. A comparação pode ser utilizada para tornar a escrita mais expressiva, possibilitando o uso de metáforas e a criação de um efeito estético.
+8. A comparação pode ser realizada de forma explícita, quando há a presença de conectivos como "como" ou "tal qual", ou de forma implícita, quando a semelhança é apresentada sem o uso de conectivos específicos.
+9. É possível utilizar a comparação de forma exagerada, criando hipérboles e exageros para intensificar a comparação entre os elementos.
+
+
+Item do edital: Modelos de desenvolvimento de software    
+ 
+1. Subtópico:
+1. Metodologias Ágeis de Desenvolvimento de Software
+Assertivas:
+1. As metodologias ágeis de desenvolvimento de software priorizam a entrega de software funcional em curtos intervalos de tempo.
+
+2. Nas metodologias ágeis, o trabalho em equipe e a colaboração são valorizados em detrimento da hierarquia.
+
+3. O manifesto ágil, criado em 2001, define os quatro valores fundamentais das metodologias ágeis: indivíduos e interações acima de processos e ferramentas, software funcionando acima de documentação abrangente, colaboração com o cliente acima de negociação contratual, e responder a mudanças acima de seguir um plano.
+
+4. A metodologia Scrum é uma das mais conhecidas e utilizadas metodologias ágeis de desenvolvimento de software.
+
+5. A metodologia Kanban é um sistema visual que facilita a visualização e controle do fluxo de trabalho em projetos ágeis.
+
+6. As metodologias ágeis de desenvolvimento de software são conhecidas por possuírem ciclos de trabalho curtos, chamados de iterações ou sprints.
+
+7. O papel do Scrum Master em um projeto ágil é garantir que a equipe esteja aderindo aos princípios e práticas do Scrum.
+
+8. O Burndown Chart é uma ferramenta utilizada em metodologias ágeis para acompanhar e monitorar o progresso de um projeto ao longo do tempo.
+
+9. A técnica de User Stories é frequentemente utilizada em metodologias ágeis para descrever os requisitos do sistema a partir da perspectiva do usuário.
+
+10. As metodologias ágeis de desenvolvimento de software surgiram como uma alternativa às metodologias tradicionais, visando maior flexibilidade, adaptabilidade e velocidade no desenvolvimento de software.
+
+2. Subtópico:
+2. Modelo Cascata de Desenvolvimento de Software
+Assertivas:
+1. No modelo cascata de desenvolvimento de software, as fases são sequenciais e não há retrocessos entre elas.
+2. O modelo cascata é baseado em um planejamento detalhado antes do início do desenvolvimento do software.
+3. No modelo cascata, cada fase do desenvolvimento é completamente finalizada antes de se iniciar a próxima.
+4. O modelo cascata é amplamente utilizado em projetos de software com requisitos bem definidos e estáveis.
+5. No modelo cascata, as alterações nos requisitos durante a fase de implementação podem gerar problemas e atrasos no desenvolvimento.
+6. O modelo cascata é conhecido por ser mais rígido e menos flexível em comparação a outros modelos de desenvolvimento de software.
+7. No modelo cascata, a equipe de desenvolvimento só inicia a codificação após a análise dos requisitos e o design detalhado do sistema.
+8. O modelo cascata é útil quando o cliente possui todos os requisitos bem estabelecidos desde o início do projeto.
+9. No modelo cascata, os testes ocorrem em uma fase específica após a implementação do software.
+10. O modelo cascata é considerado menos adequado para projetos que exigem flexibilidade e adaptação a mudanças constantes nos requisitos.
+
+3. Subtópico:
+3. Modelo Espiral de Desenvolvimento de Software
+Assertivas:
+1. O Modelo Espiral de Desenvolvimento de Software foi proposto por Barry Boehm em 1988.
+2. O Modelo Espiral é um modelo de processo de software iterativo e incremental.
+3. No Modelo Espiral, o processo de desenvolvimento ocorre em ciclos repetidos, chamados de "voltas".
+4. Cada "volta" do Modelo Espiral envolve quatro fases principais: determinação de objetivos, análise de risco, desenvolvimento e avaliação.
+5. O Modelo Espiral prioriza a identificação e redução de riscos antes de prosseguir para a próxima fase.
+6. O Modelo Espiral é indicado para projetos complexos e de longa duração.
+7. O Modelo Espiral permite maior flexibilidade e adaptação às mudanças do que outros modelos de desenvolvimento de software.
+8. O Modelo Espiral é baseado na abordagem de Cíclo de Vida em Espiral, que combina elementos do modelo em cascata com técnicas de prototipação.
+9. O Modelo Espiral é amplamente utilizado em projetos de desenvolvimento de software críticos, como os sistemas de segurança de altas tecnologias.
+10. O Modelo Espiral é uma valiosa opção para projetos onde os requisitos são pouco claros ou sujeitos a alterações frequentes.
+
+4. Subtópico:
+4. Modelo Iterativo e Incremental de Desenvolvimento 
+Assertivas:
+1. O Modelo Iterativo e Incremental de Desenvolvimento é baseado na divisão do projeto em múltiplas iterações ou ciclos de desenvolvimento.
+2. Cada iteração do Modelo Iterativo e Incremental de Desenvolvimento resulta em uma versão parcialmente funcional do produto.
+3. O Modelo Iterativo e Incremental de Desenvolvimento permite a entrega de valor ao cliente em etapas contínuas ao longo do processo de desenvolvimento.
+4. O Modelo Iterativo e Incremental de Desenvolvimento permite que mudanças de requisitos sejam incorporadas ao produto de forma gradual e controlada.
+5. O Modelo Iterativo e Incremental de Desenvolvimento é especialmente adequado para projetos complexos e de grande duração.
+6. O Modelo Iterativo e Incremental de Desenvolvimento favorece a colaboração constante entre a equipe de desenvolvimento e o cliente.
+7. O Modelo Iterativo e Incremental de Desenvolvimento permite que o cliente acompanhe de perto o progresso do projeto e ofereça feedback contínuo.
+8. O Modelo Iterativo e Incremental de Desenvolvimento permite uma maior flexibilidade e adaptabilidade durante o processo de desenvolvimento.
+9. O Modelo Iterativo e Incremental de Desenvolvimento ajuda a reduzir o risco, pois as falhas podem ser identificadas e corrigidas rapidamente.
+10. O Modelo Iterativo e Incremental de Desenvolvimento promove uma maior satisfação do cliente, pois este pode validar e utilizar partes funcionais do produto antes de sua conclusão.
+
+5. Subtópico:
+5. Modelos RAD (Rapid Application Development)
+Assertivas:
+1. O modelo RAD (Rapid Application Development) foi criado como uma abordagem para o desenvolvimento rápido de software.
+2. O RAD é baseado na ideia de iterar várias vezes em um ciclo de vida curto para acelerar o desenvolvimento.
+3. O RAD se concentra em entregar versões funcionais do software em um curto período de tempo.
+4. Os projetos desenvolvidos com o modelo RAD geralmente envolvem uma equipe multifuncional de desenvolvedores, testadores e usuários finais.
+5. O RAD promove a participação ativa do cliente/usuário final durante todo o processo de desenvolvimento.
+6. O RAD utiliza componentes reutilizáveis e frameworks pré-existentes para acelerar o desenvolvimento.
+7. Com o RAD, é possível criar protótipos funcionais rapidamente para apresentar ao cliente e obter feedback.
+8. O modelo RAD utiliza técnicas de programação orientada a objetos para criar sistemas modulares e de fácil manutenção.
+9. O RAD é especialmente adequado para projetos em que os requisitos estão sujeitos a mudanças frequentes.
+10. O RAD é um modelo de desenvolvimento ágil que enfatiza a colaboração e a entrega rápida do software finalizado.
+
+6. Subtópico:
+6. Princípios do Scrum no desenvolvimento ágil
+Assertivas:
+1. O Scrum é um framework ágil utilizado no desenvolvimento de produtos complexos.
+2. Um dos princípios do Scrum é a transparência, que se caracteriza por compartilhar informações relevantes entre os membros da equipe.
+3. O Scrum estabelece a inspeção contínua das entregas, visando a melhoria constante do produto.
+4. A adaptação é um princípio fundamental do Scrum, permitindo realizar ajustes e mudanças de acordo com as necessidades do projeto.
+5. A colaboração ativa entre todos os membros da equipe é incentivada no Scrum como princípio de sucesso.
+6. O Scrum adota o conceito de time-boxing, estabelecendo prazos fixos e curtos para a entrega de incrementos do produto.
+7. O uso frequente de reuniões rápidas e diárias, conhecidas como daily scrum, é uma prática comum no Scrum.
+8. O Scrum preza pela entrega de valor ao cliente de forma iterativa e incremental, permitindo ajustes e feedbacks constantes.
+9. A autogerenciamento é um princípio do Scrum que reforça a responsabilidade individual e coletiva dos membros da equipe.
+10. O Scrum aborda a complexidade do desenvolvimento de produtos valorizando a simplicidade, buscando soluções simples e eficazes.
+
+7. Subtópico:
+7. Práticas do Extreme Programming (XP)
+Assertivas:
+1. XP é uma metodologia ágil de desenvolvimento de software que enfatiza a colaboração e a comunicação constante entre os membros da equipe.
+2. No XP, os desenvolvedores trabalham em pequenos incrementos de funcionalidades, com entregas frequentes ao cliente.
+3. O cliente desempenha um papel ativo na definição das prioridades e requisitos do projeto em XP.
+4. Constantes testes automatizados são uma prática-chave em XP, visando garantir a qualidade do software em todas as etapas do projeto.
+5. O trabalho em pares é incentivado em XP, promovendo a revisão constante de código e o compartilhamento de conhecimento entre os desenvolvedores.
+6. A simplicidade é valorizada em XP, com a constante busca por soluções diretas e de fácil manutenção.
+7. A relação custo-benefício é um aspecto fundamental em XP, com a priorização das funcionalidades que mais agregam valor ao cliente em cada etapa do projeto.
+8. XP promove a melhoria contínua, através de retrospectivas regulares para identificar oportunidades de aprimoramento e ajustes de práticas.
+9. O desenvolvimento orientado a testes (TDD) é amplamente utilizado em XP, com a escrita dos testes antes da implementação do código.
+10. A comunicação face a face é preferida em XP, priorizando o diálogo direto entre as pessoas envolvidas no projeto, evitando a burocratização e a perda de informações.
+
+8. Subtópico:
+8. Lean Software Development e suas práticas
+Assertivas:
+1. O Lean Software Development é uma abordagem baseada nos princípios do Lean Manufacturing, visando a eliminação de desperdícios e o aumento da eficiência no desenvolvimento de software.
+2. Uma das práticas do Lean Software Development é o "canal de controle visual", que consiste em utilizar um quadro físico para visualizar o fluxo de trabalho e identificar gargalos ou atrasos.
+3. Outra prática do Lean Software Development é a "entrega contínua", em que os incrementos de software são entregues com frequência, possibilitando a obtenção de feedback rápido e a adaptação às mudanças de requisitos.
+4. O "desenvolvimento puxado" é uma prática do Lean Software Development que consiste em iniciar o trabalho apenas quando há uma demanda real, evitando a superprodução e minimizando os estoques de tarefas a fazer.
+5. O "gemba walk" é uma prática do Lean Software Development que envolve a observação e o diálogo com as equipes de desenvolvimento no local de trabalho para entender melhor os processos e identificar oportunidades de melhoria.
+6. O "kaizen" é uma prática do Lean Software Development que envolve a busca constante por melhorias contínuas nos processos de desenvolvimento de software.
+7. O Lean Software Development utiliza a técnica do "mapeamento de fluxo de valor" para identificar todos os processos e atividades envolvidos no desenvolvimento de software, visando a eliminação de etapas desnecessárias.
+8. Uma prática do Lean Software Development é o "trabalho em equipe" colaborativo, onde os membros da equipe são incentivados a colaborar, compartilhar conhecimentos e trabalhar juntos para atingir os objetivos do projeto.
+9. O Lean Software Development valoriza a "transparência", incentivando a comunicação aberta e o compartilhamento de informações entre os membros da equipe.
+10. O Lean Software Development busca a redução de defeitos e a melhoria da qualidade do software, por meio do conceito de "jidoka", que defende a detecção precoce de problemas e a correção imediata.
+
+9. Subtópico:
+9. DevOps: conceitos e práticas fundamentais 
+Assertivas:
+1. DevOps é uma abordagem que visa a integração entre as equipes de desenvolvimento e operações de TI.
+
+2. O objetivo do DevOps é promover uma cultura de colaboração e comunicação entre os times de desenvolvimento e operações.
+
+3. Uma prática fundamental do DevOps é a automação de processos de desenvolvimento, teste e implantação de software.
+
+4. A adoção de práticas DevOps pode aumentar a velocidade de entrega de software, permitindo lançamentos mais frequentes e ágeis.
+
+5. O monitoramento contínuo de sistemas e aplicações é uma prática essencial do DevOps para identificar problemas e agir de forma proativa.
+
+6. A infraestrutura como código é um conceito-chave no DevOps, permitindo a automação e replicabilidade de ambientes de desenvolvimento e produção.
+
+7. A colaboração entre times de desenvolvimento e operações é incentivada no DevOps para garantir a qualidade e estabilidade das aplicações.
+
+8. A padronização de processos e ferramentas é uma prática importante do DevOps para facilitar a integração e colaboração entre equipes.
+
+9. O uso de ferramentas de controle de versão, como o Git, é comumente utilizado no DevOps para gerenciar o código fonte de forma colaborativa.
+
+10. O ciclo de feedback contínuo é uma prática fundamental do DevOps, permitindo a melhoria contínua de processos e entrega de valor aos usuários finais.
+
+10. Subtópico:
+10. Testes em desenvolvimento: TDD (Test Driven Development) e BDD (Behavior Driven Development).
+Assertivas:
+1. O TDD (Test Driven Development) é uma prática de desenvolvimento de software em que os testes são escritos antes da implementação do código.
+2. O TDD segue o ciclo de desenvolvimento conhecido como "Red, Green, Refactor" (vermelho, verde, refatorar).
+3. O TDD ajuda a garantir que o código seja testável, facilitando a identificação de erros e promovendo a qualidade do software.
+4. O BDD (Behavior Driven Development) é uma abordagem de desenvolvimento de software que enfatiza a colaboração entre desenvolvedores, analistas de negócio e outras partes interessadas.
+5. O BDD utiliza uma linguagem ubíqua para descrever o comportamento esperado do software em termos de cenários e casos de uso.
+6. O BDD incentiva a escrita de especificações executáveis que podem ser automatizadas, permitindo uma melhor compreensão dos requisitos.
+7. O TDD e o BDD são técnicas complementares e podem ser utilizados em conjunto para melhorar a qualidade e a compreensão do software.
+8. Tanto o TDD quanto o BDD promovem a melhoria contínua do software, permitindo que os desenvolvedores se concentrem em funcionalidades específicas de forma iterativa.
+9. O TDD e o BDD ajudam a reduzir o tempo de depuração de software, uma vez que os testes são executados automaticamente e falhas são detectadas precocemente.
+10. Tanto o TDD quanto o BDD incentivam uma abordagem mais orientada ao teste, que contribui para a manutenibilidade e a evolução do software.
+
+
