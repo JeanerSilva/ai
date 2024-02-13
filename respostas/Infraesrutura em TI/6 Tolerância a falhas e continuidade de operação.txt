@@ -1,4 +1,4 @@
-Pergunta Original: 6 Tolerância a falhas e continuidade de operação.    
+Item do edital: 6 Tolerância a falhas e continuidade de operação.    
  
 1. Subtópico:
 1. Conceito e importância da tolerância a falhas em sistemas.

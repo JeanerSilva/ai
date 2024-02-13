@@ -1,4 +1,4 @@
-Pergunta Original: 11.2 ferramentas de orquestração e automação de infraestrutura- Ansible.    
+Item do edital: 11.2 ferramentas de orquestração e automação de infraestrutura- Ansible.    
  
 1. Subtópico:
 1. Conceitos básicos e funcionalidades do Ansible

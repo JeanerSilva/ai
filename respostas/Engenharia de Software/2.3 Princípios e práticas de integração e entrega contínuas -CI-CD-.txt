@@ -1,4 +1,4 @@
-Pergunta Original: 2.3 Princípios e práticas de integração e entrega contínuas -CI-CD-.    
+Item do edital: 2.3 Princípios e práticas de integração e entrega contínuas -CI-CD-.    
  
 1. Subtópico:
 1. Definição e importância da Integração Contínua (CI) e Entrega Contínua (CD).

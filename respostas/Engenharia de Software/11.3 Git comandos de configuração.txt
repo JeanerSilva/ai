@@ -1,4 +1,4 @@
-Pergunta Original: 11.3 Git comandos de configuração   
+Item do edital: 11.3 Git comandos de configuração   
  
 1. Subtópico:
 1. Conceito e importância dos comandos de configuração do Git.

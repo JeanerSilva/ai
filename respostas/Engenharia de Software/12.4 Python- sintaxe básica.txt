@@ -1,4 +1,4 @@
-Pergunta Original: 12.4 Python- sintaxe básica    
+Item do edital: 12.4 Python- sintaxe básica    
  
 1. Subtópico:
 1. Estrutura de um programa em Python: importação de módulos e definição de funções.

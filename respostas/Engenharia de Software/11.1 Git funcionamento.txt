@@ -1,4 +1,4 @@
-Pergunta Original: 11.1 Git funcionamento   
+Item do edital: 11.1 Git funcionamento   
  
 1. Subtópico:
 1. Conceitos básicos do Git: repositório, commit e branch.

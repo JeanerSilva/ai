@@ -1,4 +1,4 @@
-Pergunta Original: 1 Gestão de Identidades e Acesso-    
+Item do edital: 1 Gestão de Identidades e Acesso-    
  
 1. Subtópico:
 1. Conceitos fundamentais de Gestão de Identidades e Acesso
@@ -128,7 +128,7 @@ certidão de nascimento e documentos de identificação, são de responsabilidad
 19. A gestão da identidade deve ser pautada pelo respeito aos direitos humanos, garantindo a privacidade e a dignidade das pessoas.
 
 
-Pergunta Original: 1.1 Autenticação e Autorização    
+Item do edital: 1.1 Autenticação e Autorização    
  
 1. Subtópico:
 1. Conceitos fundamentais de autenticação e autorização
@@ -266,7 +266,7 @@ Assertivas:
 10. A implementação de políticas de educação e conscientização é uma medida preventiva para combater problemas sociais, como a violência e o uso de drogas.
 
 
-Pergunta Original: 1.2 Single Sign-On -SSO-    
+Item do edital: 1.2 Single Sign-On -SSO-    
  
 1. Subtópico:
 1. Definição e Funcionamento do Single Sign-On (SSO)
@@ -409,7 +409,7 @@ Assertivas:
 10. A observação e o acompanhamento das tendências são importantes para empresas e profissionais que desejam se manter atualizados e competitivos no mercado.
 
 
-Pergunta Original: 1.3 Security Assertion Markup Language -SAML-    
+Item do edital: 1.3 Security Assertion Markup Language -SAML-    
  
 1. Subtópico:
 1. Definição e Funções do Security Assertion Markup Language (SAML)
@@ -521,7 +521,7 @@ Assertivas:
 10. O Provedor de Serviço (SP) utiliza as informações fornecidas pelo Provedor de Identidade (IdP) para tomar decisões sobre permissões e acesso aos recursos no processo de autenticação via SAML.
 
 
-Pergunta Original: 1.4 OAuth2 e    
+Item do edital: 1.4 OAuth2 e    
  
 1. Subtópico:
 1. Conceito e funcionalidades do OAuth2
@@ -636,7 +636,7 @@ Assertivas:
 10. A atualização dos tokens no protocolo OAuth 2 é um processo dinâmico que permite a renovação contínua da autenticação do usuário.
 
 
-Pergunta Original: 1.5 OpenId Connect.    
+Item do edital: 1.5 OpenId Connect.    
  
 1. Subtópico:
 1. Conceito e funcionalidade do OpenID Connect
@@ -765,7 +765,7 @@ Assertivas:
 10. A utilização do JWT no contexto do OpenID Connect traz vantagens como simplicidade, escalabilidade e segurança para sistemas de autenticação.
 
 
-Pergunta Original: 10 Segurança em nuvens   
+Item do edital: 10 Segurança em nuvens   
  
 1. Subtópico:
 1. Conceitos básicos de segurança em nuvem
@@ -896,7 +896,7 @@ prevenção de lavagem de dinheiro e combate ao financiamento do terrorismo (PLD
 10. O compliance em PLD/FT visa contribuir para a integridade e estabilidade do sistema financeiro e combater o crime organizado.
 
 
-Pergunta Original: 10.1 segurança de contêineres.    
+Item do edital: 10.1 segurança de contêineres.    
  
 1. Subtópico:
 1. Conceitos básicos de segurança de contêineres
@@ -1025,7 +1025,7 @@ Assertivas:
 10. A colaboração entre as diferentes entidades de segurança é essencial para a obtenção de resultados efetivos.
 
 
-Pergunta Original: 2 Privacidade e segurança por padrão.    
+Item do edital: 2 Privacidade e segurança por padrão.    
  
 1. Subtópico:
 1. Conceito e importância da privacidade e segurança por padrão.
@@ -1137,7 +1137,7 @@ s.
 10. As ferramentas de gerenciamento de senhas são úteis para facilitar a criação e o armazenamento seguro de senhas complexas, evitando o uso de senhas repetidas ou facilmente adivinháveis.
 
 
-Pergunta Original: 3 Principais tipos de ataques e vulnerabilidades.    
+Item do edital: 3 Principais tipos de ataques e vulnerabilidades.    
  
 1. Subtópico:
 1. Definição e características dos ataques de força bruta.
@@ -1238,7 +1238,7 @@ Assertivas:
 10. Manter-se atualizado sobre os tipos e métodos de ataque utilizados pelos malwares é crucial para se prevenir e se proteger adequadamente.
 
 
-Pergunta Original: 4 Controles e testes de segurança para aplicações Web e Web Services.    
+Item do edital: 4 Controles e testes de segurança para aplicações Web e Web Services.    
  
 1. Subtópico:
 1. Conceitos básicos de segurança para aplicações Web e Web Services.
@@ -1362,7 +1362,7 @@ Assertivas:
 10. A atualização regular de bibliotecas e frameworks utilizados nas APIs e serviços da web é uma prática recomendada para garantir que eventuais vulnerabilidades sejam corrigidas.
 
 
-Pergunta Original: 5 Múltiplos Fatores de Autenticação -MFA-.    
+Item do edital: 5 Múltiplos Fatores de Autenticação -MFA-.    
  
 1. Subtópico:
 1. Definição e Importância da Autenticação Multifator (MFA)
@@ -1486,7 +1486,7 @@ Assertivas:
 10. O estudo de caso revela que o M tem o potencial de proteger organizações contra ameaças internas e externas, garantindo a integridade dos sistemas e dos dados.
 
 
-Pergunta Original: 6 Soluções para Segurança da Informação-    
+Item do edital: 6 Soluções para Segurança da Informação-    
  
 1. Subtópico:
 1. Conceitos básicos de Segurança da Informação
@@ -1617,7 +1617,7 @@ fraudes em processos organizacionais:
 10. A avaliação periódica e a implementação de melhorias contínuas nos controles internos são fundamentais para mitigar o risco de fraudes nos processos organizacionais.
 
 
-Pergunta Original: 6.1 Firewall   
+Item do edital: 6.1 Firewall   
  
 1. Subtópico:
 1. Definição e Funções de um Firewall
@@ -1760,7 +1760,7 @@ Assertivas:
 10. A falta de atualizações regulares de firmware em firewalls pode deixar a rede vulnerável a novas ameaças e técnicas de ataque.
 
 
-Pergunta Original: 6.2 Intrusion Detection System -IDS-   
+Item do edital: 6.2 Intrusion Detection System -IDS-   
  
 1. Subtópico:
 1. Definição e Funções do Intrusion Detection System (IDS)
@@ -1875,7 +1875,7 @@ Assertivas:
 10. A atualização dos sistemas de detecção deve levar em consideração as necessidades e requisitos específicos de cada organização ou sistema em particular.
 
 
-Pergunta Original: 6.3 Intrusion Prevention System -IPS-   
+Item do edital: 6.3 Intrusion Prevention System -IPS-   
  
 1. Subtópico:
 1. Definição e Funções do Intrusion Prevention System (IPS)
@@ -2018,7 +2018,7 @@ Assertivas:
 10. A utilização de diferentes fontes de dados e a triangulação dos resultados são aspectos importantes na condução de estudos de caso.
 
 
-Pergunta Original: 6.4 Security Information and Event Management -SIEM-   
+Item do edital: 6.4 Security Information and Event Management -SIEM-   
  
 1. Subtópico:
 1. Definição e Funções do Security Information and Event Management (SIEM)
@@ -2147,7 +2147,7 @@ Assertivas:
 10. A gestão da informação visa o aumento da eficiência e eficácia nas operações organizacionais.
 
 
-Pergunta Original: 6.5 Proxy   
+Item do edital: 6.5 Proxy   
  
 1. Subtópico:
 1. Definição e Funções de um Proxy
@@ -2276,7 +2276,7 @@ Assertivas:
 10. A avaliação da inteligência em contextos de seleção, como concursos públicos, visa identificar candidatos com perfil cognitivo adequado para o desempenho das atividades propostas.
 
 
-Pergunta Original: 6.6 Identity Access Management -IAM-   
+Item do edital: 6.6 Identity Access Management -IAM-   
  
 1. Subtópico:
 1. Conceitos fundamentais de Identity Access Management (IAM)
@@ -2421,10 +2421,10 @@ Assertivas:
 10. Ao estudar casos de falhas no gerenciamento de acesso à identidade, é possível aprender com os erros e evitar repeti-los, promovendo um ambiente mais seguro.
 
 
-Pergunta Original: 6.7 Privileged Access Management -PAM-   
+Item do edital: 6.7 Privileged Access Management -PAM-   
  
 
-Pergunta Original: 6.8 Antivírus   
+Item do edital: 6.8 Antivírus   
  
 1. Subtópico:
 1. Definição e Funções dos Antivírus
@@ -2550,10 +2550,10 @@ Assertivas:
 10. A reputação de uma pessoa ou instituição está intrinsecamente ligada à veracidade das informações que produzem.
 
 
-Pergunta Original: 6.9 Antispam.    
+Item do edital: 6.9 Antispam.    
  
 
-Pergunta Original: 7 Frameworks de segurança da informação e segurança cibernética   
+Item do edital: 7 Frameworks de segurança da informação e segurança cibernética   
  
 1. Subtópico:
 1. Definição e importância dos Frameworks de Segurança da Informação.
@@ -2663,7 +2663,7 @@ Assertivas:
 10. A inteligência artificial (IA) é uma área de TI que desenvolve sistemas capazes de simular a capacidade humana de aprendizado e tomada de decisão, utilizando algoritmos e técnicas específicas.
 
 
-Pergunta Original: 7.1 MITRE ATT&CK   
+Item do edital: 7.1 MITRE ATT&CK   
  
 1. Subtópico:
 1. Definição e propósito do MITRE ATT&CK
@@ -2803,7 +2803,7 @@ Assertivas:
 10. A falta de planejamento estratégico e de análise de impacto das políticas públicas contribui para a limitação na implementação e para o alcance dos resultados desejados.
 
 
-Pergunta Original: 7.2 CIS Controls   
+Item do edital: 7.2 CIS Controls   
  
 1. Subtópico:
 1. Definição e importância dos CIS Controls
@@ -2943,7 +2943,7 @@ Assertivas:
 10) Na resolução de um estudo de caso, é importante considerar tanto os aspectos estratégicos quanto os operacionais da empresa envolvida.
 
 
-Pergunta Original: 7.3 NIST CyberSecurity Framework -NIST CSF-.    
+Item do edital: 7.3 NIST CyberSecurity Framework -NIST CSF-.    
  
 1. Subtópico:
 1. Definição e Objetivos do NIST CyberSecurity Framework (NIST CSF).
@@ -3067,7 +3067,7 @@ Assertivas:
 10. O estudo de caso pode contribuir para o desenvolvimento de teorias e melhorias em práticas profissionais, além de permitir uma compreensão mais rica e contextualizada do fenômeno estudado.
 
 
-Pergunta Original: 8 Tratamento de Incidentes Cibernéticos.    
+Item do edital: 8 Tratamento de Incidentes Cibernéticos.    
  
 1. Subtópico:
 1. Definição e tipos de Incidentes Cibernéticos.
@@ -3184,7 +3184,7 @@ Assertivas:
 10. A Lei nº 8.429/92 prevê a possibilidade de perda da função pública, suspensão dos direitos políticos e multa em caso de condenação por ato de improbidade administrativa.
 
 
-Pergunta Original: 9 Assinatura e certificação digital   
+Item do edital: 9 Assinatura e certificação digital   
  
 1. Subtópico:
 1. Conceito e importância da assinatura digital
@@ -3327,7 +3327,7 @@ Assertivas:
 10. O período Mesozoico foi marcado pela presença dos dinossauros.
 
 
-Pergunta Original: 9.1 criptografia    
+Item do edital: 9.1 criptografia    
  
 1. Subtópico:
 1. Conceitos básicos de criptografia
@@ -3465,7 +3465,7 @@ Assertivas:
 10. A assinatura digital é uma tecnologia indispensável para a digitalização de processos e documentos nas organizações modernas.
 
 
-Pergunta Original: 9.2 proteção de dados em trânsito   
+Item do edital: 9.2 proteção de dados em trânsito   
  
 1. Subtópico:
 1. Conceito e importância da proteção de dados em trânsito.
@@ -3580,7 +3580,7 @@ Assertivas:
 10. A LGPD prevê sanções administrativas para empresas que não cumprirem com suas disposições relacionadas ao transporte de dados pessoais, como aplicação de multas e suspensão do tratamento de dados.
 
 
-Pergunta Original: 9.3 proteção de dados em repouso.    
+Item do edital: 9.3 proteção de dados em repouso.    
  
 1. Subtópico:
 1. Conceito e importância da proteção de dados em repouso.
@@ -3706,7 +3706,7 @@ atégia de segurança da informação em uma organização.
 10. A política de backups deve ser atualizada periodicamente para acompanhar as mudanças na infraestrutura de TI e nas necessidades da organização.
 
 
-Pergunta Original: 1 Administração pública: princípios básicos.  
+Item do edital: 1 Administração pública: princípios básicos.  
 1. Subtópico: 
 1. Princípios da Administração Pública: legalidade, impessoalidade, moralidade, publicidade e eficiência.
 Assertivas: 
@@ -3831,7 +3831,7 @@ Assertivas: 1. A publicidade na Administração Pública é um princípio consti
 9. A divulgação de informações sobre os gastos públicos é uma importante ferramenta de controle e fiscalização social.
 10. A Administração Pública deve garantir o acesso amplo e irrestrito às informações sobre suas atividades através dos serviços de transparência ativa e passiva.
 
-Pergunta Original: 1.1 Administração direta e indireta. 
+Item do edital: 1.1 Administração direta e indireta. 
 1. Subtópico: 
 1.1.1 Administração Direta: conceito e características.
 Assertivas: 
@@ -3971,7 +3971,7 @@ Assertivas:
 8. A Coordenação entre a Administração Direta e Indireta é necessária para garantir a uniformidade nas ações do Estado e evitar conflitos de competências.
 9. Os órgãos da Administração Direta têm a prerrogativa de supervisionar as atividades das entidades da Administração Indireta, exigindo relatórios, prestações de contas e outras informações relevantes.
 10. A Administração Indireta é responsável por executar tarefas especializadas e desempenhar funções que demandem maior autonomia, enquanto a Administração Direta age de forma mais descentralizada e geralmente atua de forma mais ampla.
-Pergunta Original: 2 Poderes administrativos. 
+Item do edital: 2 Poderes administrativos. 
 1. Subtópico: 
 1. Definição de poderes administrativos
 Assertivas:
@@ -4110,7 +4110,7 @@ Assertivas:
 7. O poder disciplinar é utilizado pela administração pública para aplicar sanções a servidores que tenham cometido infrações funcionais.
 8. O poder vinculado é aquele em que a administração pública está previamente vinculada à lei para tomar decisões.
 9. O poder discricionário permite à administração pública a escolha da melhor decisão a ser adotada em determinado caso.
-10. O poder regulamentar é exercido pela administração pública para editar normas complementares à legislação vigente.Pergunta Original: 2.1 poder hierárquico
+10. O poder regulamentar é exercido pela administração pública para editar normas complementares à legislação vigente.Item do edital: 2.1 poder hierárquico
  
 1. Subtópico: 
 1. Definição de Poder Hierárquico
@@ -4253,7 +4253,7 @@ Assertivas:
 10. A tomada de decisões hierárquica pode resultar em maior rapidez e eficácia na implementação de ações dentro da organização.
 
 
-Pergunta Original: 2.2 pode disciplinar 
+Item do edital: 2.2 pode disciplinar 
 1. Subtópico: 
 1. Definição de disciplina
 Assertivas:
@@ -4395,7 +4395,7 @@ Assertivas:
 10. A falta de disciplina influencia negativamente a formação de valores e princípios éticos na sociedade.
 
 
-Pergunta Original: 2.3 poer regulamentar    
+Item do edital: 2.3 poer regulamentar    
  
 1. Subtópico: 
 1. Definição de Poder Regulamentar
@@ -4538,7 +4538,7 @@ Assertivas:
 10. A violação do poder regulamentar pode prejudicar a transparência e a accountability da administração pública, visto que normas irregulares podem ser interpretadas como instrumentos de favorecimento indevido.
 
 
-Pergunta Original: 2.4 poder de polícia   
+Item do edital: 2.4 poder de polícia   
 1. Subtópico: 
 1. Definição de Poder de Polícia
 Assertivas:
@@ -4680,7 +4680,7 @@ Assertivas:
 10. A fiscalização das atividades de mineração, a fim de proteger o meio ambiente e evitar a exploração ilegal, é um caso notável de uso do poder de polícia.
 
 
-Pergunta Original: 2.5 poder normativo.    
+Item do edital: 2.5 poder normativo.    
  
 1. Subtópico: 
 1. Definição e natureza jurídica do poder normativo.
@@ -4824,7 +4824,7 @@ Assertivas:
 10. O poder normativo pode ser questionado judicialmente, por meio de ações judiciais que visem a anulação ou revisão das normas estabelecidas.
 
 
-Pergunta Original: 2.6 Uso e abuso do poder.    
+Item do edital: 2.6 Uso e abuso do poder.    
 1. Subtópico: 
 1. Definição e conceito de poder.
 Assertivas:
@@ -4954,7 +4954,7 @@ Assertivas:
 10. A Lei Nº 9.503/1997, que instituiu o Código de Trânsito Brasileiro, prevê a realização de penalidades administrativas, como multas e suspensão da CNH, para Motoristas que cometem infrações relacionadas ao consumo de álcool.
 
 
-Pergunta Original: 3 Organização administrativa brasileira.    
+Item do edital: 3 Organização administrativa brasileira.    
  
 1. Subtópico:
 1. Princípios da Administração Pública Brasileira
@@ -5083,7 +5083,7 @@ Assertivas:
 10. O prazo máximo de vigência dos contratos administrativos é de 60 meses, exceto aqueles necessários à prestação de serviços contínuos, que podem ser prorrogados por períodos sucessivos.
 
 
-Pergunta Original: 3.1 conceito de serviços    
+Item do edital: 3.1 conceito de serviços    
  
 1. Subtópico:
 1. Definição e Características de Serviços
@@ -5224,7 +5224,7 @@ Assertivas:
 10. A diversificação da oferta de serviços tem contribuído para a redução do risco associado à dependência de setores específicos, promovendo uma maior estabilidade econômica.
 
 
-Pergunta Original: 3.2 Autarquias    
+Item do edital: 3.2 Autarquias    
  
 1. Subtópico:
 1. Conceito e características das Autarquias
@@ -5339,7 +5339,7 @@ Assertivas:
 ico, estabilidade, concurso público, remuneração, aposentadoria, responsabilidade funcional, carga horária, progressão na carreira, dedicação exclusiva.
 
 
-Pergunta Original: 3.2 princípios do serviço público    
+Item do edital: 3.2 princípios do serviço público    
  
 1. Subtópico:
 1. Definição e Características dos Princípios do Serviço Público
@@ -5456,7 +5456,7 @@ processos de negócio:
 10. A continuidade dos processos de negócio deve ser considerada como um processo contínuo de aprendizado e melhoria, buscando-se a maior eficiência e eficácia na sua gestão.
 
 
-Pergunta Original: 3.3 agências reguladoras    
+Item do edital: 3.3 agências reguladoras    
  
 1. Subtópico:
 1. Conceito e Funções das Agências Reguladoras
@@ -5571,7 +5571,7 @@ Assertivas:
 10. O Tribunal de Contas exerce um papel fundamental no fortalecimento do sistema de controle externo sobre as agências regulatórias, garantindo a efetividade e o cumprimento de suas finalidades.
 
 
-Pergunta Original: 3.4 agências executivas    
+Item do edital: 3.4 agências executivas    
  
 1. Subtópico:
 1. Definição e características das Agências Executivas
@@ -5695,7 +5695,7 @@ Assertivas:
 10. A conjugação do verbo "ser" em latim é complexa, mas a forma "est" é relativamente simples de ser lembrada por aqueles que estão estudando a língua.
 
 
-Pergunta Original: 3.5 fundações públicas    
+Item do edital: 3.5 fundações públicas    
  
 1. Subtópico:
 1. Definição e características das fundações públicas
@@ -5824,7 +5824,7 @@ Assertivas:
 10. A publicidade é um princípio que assegura a transparência e a visibilidade das ações das Fundações Públicas, permitindo o controle social e a prestação de contas.
 
 
-Pergunta Original: 3.6 empresas públicas    
+Item do edital: 3.6 empresas públicas    
  
 1. Subtópico:
 1. Definição e características das empresas públicas.
@@ -5939,7 +5939,7 @@ Assertivas:
 10. A responsabilidade civil das empresas públicas é uma forma de garantir a proteção dos direitos dos cidadãos frente aos danos causados pela administração pública.
 
 
-Pergunta Original: 3.7 sociedades de economia mista.    
+Item do edital: 3.7 sociedades de economia mista.    
  
 1. Subtópico:
 1. Definição e características das sociedades de economia mista.
@@ -6040,7 +6040,7 @@ Assertivas:
 10. Para os contratos administrativos celebrados por sociedades de economia mista, é aplicável o regime jurídico de direito público, que prevalece sobre o regime de direito privado.
 
 
-Pergunta Original: 4 Ato administrativo.    
+Item do edital: 4 Ato administrativo.    
  
 1. Subtópico:
 1. Conceito e características do ato administrativo.
@@ -6187,10 +6187,10 @@ Assertivas:
 10. O abuso de poder na prática do ato administrativo pode afetar negativamente a legitimidade e a eficiência da administração pública.
 
 
-Pergunta Original: 4.1.1 Conceito de atos administrativos    
+Item do edital: 4.1.1 Conceito de atos administrativos    
  
 
-Pergunta Original: 4.1.2 requisitos do ato administrativo    
+Item do edital: 4.1.2 requisitos do ato administrativo    
  
 1. Subtópico:
 1. Definição e natureza jurídica do ato administrativo.
@@ -6319,7 +6319,7 @@ Assertivas:
 10. A autoexecutoriedade é um atributo que garante efetividade aos atos administrativos, possibilitando que sejam cumpridos de forma imediata, sem necessidade de intervenção judicial prévia.
 
 
-Pergunta Original: 4.1.3 atributos dos atos administrativos   
+Item do edital: 4.1.3 atributos dos atos administrativos   
  
 1. Subtópico:
 1. Definição e Características dos Atributos dos Atos Administrativos
@@ -6448,7 +6448,7 @@ Assertivas:
 10. A revogação pode ser um importante instrumento de aprimoramento e atualização da legislação, permitindo a eliminação de normas obsoletas ou ineficazes.
 
 
-Pergunta Original: 4.2 Comunicação dos atos administrativos.    
+Item do edital: 4.2 Comunicação dos atos administrativos.    
  
 1. Subtópico:
 1. Conceito e características dos atos administrativos.
@@ -6586,7 +6586,7 @@ Assertivas:
 10. A responsabilidade civil dos profissionais liberais é fundamentada na teoria da culpa presumida.
 
 
-Pergunta Original: 2 Poderes administrativos. 
+Item do edital: 2 Poderes administrativos. 
 1. Subtópico: 
 1. Definição de poderes administrativos
 Assertivas:
@@ -6728,7 +6728,7 @@ Assertivas:
 10. O poder regulamentar é exercido pela administração pública para editar normas complementares à legislação vigente.
 
 
-Pergunta Original: 1. MACROECONOMIA   
+Item do edital: 1. MACROECONOMIA   
  
 1. Subtópico:
 1. Conceitos fundamentais de Macroeconomia
@@ -6857,7 +6857,7 @@ Assertivas:
 10. As teorias clássicas são mais favoráveis às políticas de austeridade e controle dos gastos públicos, enquanto a teoria keynesiana é mais favorável às políticas de estímulo econômico, como o aumento dos investimentos públicos.
 
 
-Pergunta Original: 2. Contas nacionais.    
+Item do edital: 2. Contas nacionais.    
  
 1. Subtópico:
 1. Conceito e Importância das Contas Nacionais
@@ -7019,7 +7019,7 @@ normas constitucionais:
 10. A Constituição Federal estabelece limitações para o exercício do poder por parte dos órgãos estatais, garantindo a separação dos poderes e o respeito aos direitos fundamentais.
 
 
-Pergunta Original: 3. Agregados monetários.    
+Item do edital: 3. Agregados monetários.    
  
 1. Subtópico:
 1. Definição e classificação de agregados monetários.
@@ -7173,7 +7173,7 @@ uso de drogas ilícitas e criminalidade.
 10. O combate ao tráfico de drogas é uma das principais medidas adotadas pelos governos para combater a relação entre consumo de drogas ilícitas e criminalidade.
 
 
-Pergunta Original: 4. Multiplicador monetário   
+Item do edital: 4. Multiplicador monetário   
  
 1. Subtópico:
 1. Definição e função do multiplicador monetário
@@ -7294,7 +7294,7 @@ Assertivas:
 10. A criação de dinheiro pelos bancos comerciais é um processo complexo e sujeito à regulação e supervisão do Banco Central.
 
 
-Pergunta Original: 4.1 criação de moeda   
+Item do edital: 4.1 criação de moeda   
  
 1. Subtópico:
 1. Conceito e Funções da Moeda
@@ -7435,7 +7435,7 @@ Assertivas:
 9. A contração monetária pode levar à queda da demanda agregada, o que pode resultar em uma desaceleração econômica ou até mesmo em recessão.
 
 
-Pergunta Original: 4.2 destruição de moeda.    
+Item do edital: 4.2 destruição de moeda.    
  
 1. Subtópico:
 1. Conceito e definição de destruição de moeda.
@@ -7559,7 +7559,7 @@ Assertivas:
 10. A falta na circulação monetária afeta negativamente a confiança dos agentes econômicos, prejudicando o investimento e o crescimento econômico.
 
 
-Pergunta Original: 5. Contas do sistema monetário.    
+Item do edital: 5. Contas do sistema monetário.    
  
 1. Subtópico:
 1. Definição e Funções do Sistema Monetário
@@ -7713,7 +7713,7 @@ Assertivas:
 10. O gerenciamento adequado da oferta de moeda é essencial para assegurar a estabilidade financeira e promover o crescimento sustentável da economia.
 
 
-Pergunta Original: 6. Balanço de pagamentos.    
+Item do edital: 6. Balanço de pagamentos.    
  
 1. Subtópico:
 1. Definição e componentes do Balanço de Pagamentos.
@@ -8117,10 +8117,10 @@ Modelos de desenvolvimento de software
 4 ITIL v4 iso.   
 4 ITIL v4 classificações.   
 4 ITIL v4 processos.   
-4 ITIL v4 questões importantes.  Pergunta Original: 1. MICROECONOMIA   
+4 ITIL v4 questões importantes.  Item do edital: 1. MICROECONOMIA   
  
 
-Pergunta Original: 1. MICROECONOMIA   
+Item do edital: 1. MICROECONOMIA   
  
 1. Subtópico:
 1. Teoria do Consumidor: Preferências e Utilidade
@@ -8235,7 +8235,7 @@ Assertivas:
 10. A avaliação dos custos e benefícios das políticas públicas é essencial para a eficiência da atuação do Estado, auxiliando na alocação adequada de recursos e na maximização do bem-estar social.
 
 
-Pergunta Original: 2 Estrutura de mercado.    
+Item do edital: 2 Estrutura de mercado.    
  
 1. Subtópico:
 1. Conceito e Tipos de Estrutura de Mercado
@@ -8359,7 +8359,7 @@ Assertivas:
 9. A adaptação às inovações tecnológicas requer a revisão e atualização de políticas, procedimentos e normas da organização, o que pode afetar a sua estrutura funcional.
 
 
-Pergunta Original: 2 Estrutura de mercado.    
+Item do edital: 2 Estrutura de mercado.    
  
 1. Subtópico:
 1. Conceito e Tipos de Estrutura de Mercado
@@ -8497,7 +8497,7 @@ Assertivas:
 10. A disponibilidade de recursos financeiros, como linhas de crédito e investimentos de capital de risco, pode impulsionar o desenvolvimento tecnológico e a inovação em mercados.
 
 
-Pergunta Original: 2.1 Formas de organização da atividade econômica    
+Item do edital: 2.1 Formas de organização da atividade econômica    
  
 1. Subtópico:
 1. Conceitos básicos de economia e atividade econômica
@@ -8620,7 +8620,7 @@ Assertivas:
 10. A tecnologia tem impulsionado a economia global, proporcionando o crescimento de empresas e a criação de novas oportunidades de emprego.
 
 
-Pergunta Original: 2.1 Formas de organização da atividade econômica    
+Item do edital: 2.1 Formas de organização da atividade econômica    
  
 1. Subtópico:
 1. Conceitos básicos de economia e atividade econômica
@@ -8774,7 +8774,7 @@ novas tecnologias no mercado de trabalho:
 10. A atualização constante e a capacidade de aprender novas tecnologias são fundamentais para os profissionais se manterem competitivos em um mercado de trabalho dinâmico e em constante transformação.
 
 
-Pergunta Original: 2.2 o papel dos preços custo   
+Item do edital: 2.2 o papel dos preços custo   
  
 1. Subtópico:
 1. Definição e importância do preço de custo na economia.
@@ -8917,7 +8917,7 @@ Assertivas:
 10. A escolha da estratégia mais adequada depende de uma análise criteriosa das características da organização, do mercado em que ela atua e dos objetivos a serem alcançados.
 
 
-Pergunta Original: 2.3 de oportunidade    
+Item do edital: 2.3 de oportunidade    
  
 1. Subtópico:
 1. Definição e conceito de oportunidade
@@ -9046,7 +9046,7 @@ Assertivas:
 10. O estudo dessas políticas busca identificar boas práticas e propor recomendações para aprimorar as políticas públicas em busca de um desenvolvimento mais sustentável e inclusivo.
 
 
-Pergunta Original: 2.4 fronteiras das possibilidades de produção.    
+Item do edital: 2.4 fronteiras das possibilidades de produção.    
  
 1. Subtópico:
 1. Conceito de Fronteiras das Possibilidades de Produção (FPP)
@@ -9167,7 +9167,7 @@ Assertivas:
 Não entendi completamente o tema mencionado "Fronteira das Possibil". Por favor, poderia fornecer mais informações ou corrigir a palavra para que eu possa elaborar as afirmativas corretamente?
 
 
-Pergunta Original: 3 Oferta e demanda.    
+Item do edital: 3 Oferta e demanda.    
  
 1. Subtópico:
 1. Conceito e princípios fundamentais da oferta e demanda.
@@ -9268,7 +9268,7 @@ Assertivas:
 10. O excedente do consumidor e do produtor podem variar de acordo com a elasticidade preço da demanda e da oferta, respectivamente.
 
 
-Pergunta Original: 3.1 Curvas de indiferença.    
+Item do edital: 3.1 Curvas de indiferença.    
  
 1. Subtópico:
 1. Definição e conceito de curvas de indiferença.
@@ -9414,7 +9414,7 @@ Assertivas:
 10. A análise das curvas da oferta e demanda permite compreender como as forças de mercado determinam preços e quantidades no funcionamento de uma economia.
 
 
-Pergunta Original: 3.2 Restrição orçamentária.    
+Item do edital: 3.2 Restrição orçamentária.    
  
 1. Subtópico:
 1. Conceito de Restrição Orçamentária
@@ -9529,7 +9529,7 @@ Assertivas:
 10. Mudanças no orçamento do consumidor ou nos preços dos bens e serviços causam deslocamentos na restrição orçamentária e nas curvas de indiferença, alterando o ponto de equilíbrio e a quantidade consumida de cada bem.
 
 
-Pergunta Original: 3.3 Equilíbrio do consumidor.    
+Item do edital: 3.3 Equilíbrio do consumidor.    
  
 1. Subtópico:
 1. Conceito e Definição de Equilíbrio do Consumidor
@@ -9653,7 +9653,7 @@ Assertivas:
 10. A falta de recursos financeiros pode também prejudicar a realização de concursos públicos e a consequente recomposição do quadro de servidores, impactando a capacidade do Estado de prestar serviços eficientes à população.
 
 
-Pergunta Original: 3.4 Efeitos preço renda e substituição.    
+Item do edital: 3.4 Efeitos preço renda e substituição.    
  
 1. Subtópico:
 1. Definição e compreensão do Efeito Preço.
@@ -9802,7 +9802,7 @@ A interação social é essencial para o desenvolvimento saudável de crianças 
 A interação social pode ser influenciada por fatores como cultura, classe social e histórico familiar.
 
 
-Pergunta Original: 3.5 Curva de demanda.    
+Item do edital: 3.5 Curva de demanda.    
  
 1. Subtópico:
 1. Definição e conceito de Curva de Demanda.
@@ -9926,7 +9926,7 @@ Assertivas:
 17. A construção gráfica da curva de demanda permite visualizar as alterações na quantidade demandada de um bem em resposta a mudanças nos preços, mantendo-se constantes todos os demais fatores.
 
 
-Pergunta Original: 3.6 Elasticidade da demanda.    
+Item do edital: 3.6 Elasticidade da demanda.    
  
 1. Subtópico:
 1. Conceito e Definição de Elasticidade da Demanda
@@ -10055,7 +10055,7 @@ Assertivas:
 10. A compreensão do impacto das políticas públicas sobre a elasticidade preço da demanda é fundamental para a tomada de decisões econômicas que visem alcançar equilíbrio entre oferta e demanda.
 
 
-Pergunta Original: 1 Aprendizado de Máquina.    
+Item do edital: 1 Aprendizado de Máquina.    
  
 1. Subtópico:
 1. Conceitos fundamentais de Aprendizado de Máquina
@@ -10142,7 +10142,7 @@ Assertivas:
 10. O Aprendizado de Máquina na Administração pode auxiliar na identificação de oportunidades de mercado e no desenvolvimento de estratégias de negócio mais assertivas.
 
 
-Pergunta Original: 10 Governança e Ética na IA-    
+Item do edital: 10 Governança e Ética na IA-    
  
 1. Subtópico:
 1. Conceito e importância da Governança em Inteligência Artificial (IA)
@@ -10285,7 +10285,7 @@ Assertivas:
 10. A prática da resolução de casos é uma forma eficaz de preparar os candidatos para as demandas reais do trabalho no serviço público.
 
 
-Pergunta Original: 10.1 Governança e Ética na IA- Explicabilidade   
+Item do edital: 10.1 Governança e Ética na IA- Explicabilidade   
  
 1. Subtópico:
 1. Definição e importância da explicabilidade na Inteligência Artificial (IA).
@@ -10423,7 +10423,7 @@ Assertivas:
 10. A falta de explicabilidade em sistemas de IA pode tornar a responsabilização e a reparação de danos mais complexas, especialmente em casos de decisões automatizadas que afetam indivíduos ou grupos.
 
 
-Pergunta Original: 10.1 Governança e Ética na IA- Privacidade   
+Item do edital: 10.1 Governança e Ética na IA- Privacidade   
  
 1. Subtópico:
 1. Conceitos fundamentais de Governança e Ética na Inteligência Artificial.
@@ -10526,7 +10526,7 @@ blockchain:
 10. A adoção de algoritmos de mistura (mixing algorithms) na blockchain é uma estratégia para preservar a privacidade do usuário.
 
 
-Pergunta Original: 10.1 Governança e Ética na IA- Responsabilidade   
+Item do edital: 10.1 Governança e Ética na IA- Responsabilidade   
  
 1. Subtópico:
 1. Conceito e princípios de Governança em Inteligência Artificial
@@ -10664,7 +10664,7 @@ Assertivas:
 10. É função dos profissionais de TI atuar de forma proativa, identificando oportunidades de melhoria e sugerindo soluções inovadoras para os problemas tecnológicos das organizações.
 
 
-Pergunta Original: 10.1 Governança e Ética na IA- Segurança   
+Item do edital: 10.1 Governança e Ética na IA- Segurança   
  
 1. Subtópico:
 1. Conceitos fundamentais de Governança e Ética na Inteligência Artificial.
@@ -10781,7 +10781,7 @@ as relações de trabalho:
 10. O objetivo das normas regulatórias sobre as relações de trabalho é buscar um equilíbrio entre os interesses dos empregadores e dos trabalhadores, visando a justiça social.
 
 
-Pergunta Original: 10.1 Governança e Ética na IA- Transparência   
+Item do edital: 10.1 Governança e Ética na IA- Transparência   
  
 1. Subtópico:
 1. Conceito e importância da Governança em IA
@@ -10910,7 +10910,7 @@ Assertivas:
 10. É responsabilidade dos profissionais de TI educarem a sociedade sobre os riscos e benefícios da IA, contribuindo para a formação de uma consciência coletiva em relação à sua utilização ética.
 
 
-Pergunta Original: 10.1 Governança e Ética na IA- Viés.    
+Item do edital: 10.1 Governança e Ética na IA- Viés.    
  
 1. Subtópico:
 1. Definição e importância da Governança em IA
@@ -11053,7 +11053,7 @@ Assertivas:
 10. Os estudos podem abrir portas para oportunidades profissionais e para o crescimento pessoal, ampliando horizontes e possibilitando a conquista de objetivos.
 
 
-Pergunta Original: 2 Deep learning.    
+Item do edital: 2 Deep learning.    
  
 1. Subtópico:
 1. Conceitos fundamentais de Deep Learning
@@ -11214,7 +11214,7 @@ Assertivas:
 10. A ética e a responsabilidade no uso de modelos de deep learning são desafios importantes atualmente, especialmente com relação à privacidade dos dados utilizados e ao impacto social das decisões automáticas.
 
 
-Pergunta Original: 3 Processamento de linguagem natural.    
+Item do edital: 3 Processamento de linguagem natural.    
  
 1. Subtópico:
 1. Definição e Aplicações de Processamento de Linguagem Natural (PLN)
@@ -11331,7 +11331,7 @@ Linguagem Natural (NLP):
 10. O framework Apache OpenNLP é uma ferramenta poderosa para processamento de linguagem natural, fornecendo funcionalidades como análise sintática, reconhecimento de entidades nomeadas e segmentação de sentenças.
 
 
-Pergunta Original: 4 Big data.    
+Item do edital: 4 Big data.    
  
 1. Subtópico:
 1. Conceito e Importância do Big Data
@@ -11445,7 +11445,7 @@ Assertivas:
 10) A gestão adequada dos resíduos gerados pela mineração é fundamental para minimizar os impactos ambientais e proteger a saúde das populações próximas às áreas de mineração.
 
 
-Pergunta Original: 5 Qualidade de Dados.    
+Item do edital: 5 Qualidade de Dados.    
  
 1. Subtópico:
 1. Definição e Importância da Qualidade de Dados
@@ -11557,7 +11557,7 @@ da Segurança da Informação em Ambientes Corporativos:
 10. O monitoramento contínuo dos sistemas e redes, utilizando ferramentas de monitoramento de segurança, é uma prática recomendada para a manutenção da segurança da informação em ambientes corporativos.
 
 
-Pergunta Original: 6 Tipos de Aprendizado-    
+Item do edital: 6 Tipos de Aprendizado-    
  
 1. Subtópico:
 1. Definição e Características do Aprendizado Clássico
@@ -11686,7 +11686,7 @@ Assertivas:
 10. A abordagem é uma medida de segurança necessária para a prevenção e repressão de crimes, contribuindo para a manutenção da ordem pública.
 
 
-Pergunta Original: 6.1 Aprendizado Supervisionado    
+Item do edital: 6.1 Aprendizado Supervisionado    
  
 1. Subtópico:
 1. Definição e conceitos fundamentais de Aprendizado Supervisionado
@@ -11788,7 +11788,7 @@ Assertivas:
 17. Em um jogo de futebol, são permitidas sete substituições por equipe durante a partida.
 
 
-Pergunta Original: 6.2 Aprendizado Não Supervisionado    
+Item do edital: 6.2 Aprendizado Não Supervisionado    
  
 1. Subtópico:
 1. Conceito e características do Aprendizado Não Supervisionado
@@ -11891,7 +11891,7 @@ Assertivas:
 10. No campo da genômica, o Aprendizado Não Supervisionado auxilia na classificação de sequências de DNA, identificando similaridades e padrões de agrupamento em genes e genomas.
 
 
-Pergunta Original: 6.3 Aprendizado Semi Supervisionado    
+Item do edital: 6.3 Aprendizado Semi Supervisionado    
  
 1. Subtópico:
 1. Definição e conceitos fundamentais do Aprendizado Semi Supervisionado
@@ -12006,7 +12006,7 @@ Assertivas:
 10. A falta de alinhamento com as políticas públicas vigentes representa um desafio adicional na implementação de projetos governamentais.
 
 
-Pergunta Original: 6.4 Aprendizado Por Reforço    
+Item do edital: 6.4 Aprendizado Por Reforço    
  
 1. Subtópico:
 1. Conceito e fundamentos do Aprendizado por Reforço
@@ -12102,7 +12102,7 @@ Assertivas:
 10. Encontrar o equilíbrio ideal entre exploração e explotação é um desafio ainda em estudo no campo do Aprendizado por Reforço.
 
 
-Pergunta Original: 6.5 Aprendizado Por Transferência.    
+Item do edital: 6.5 Aprendizado Por Transferência.    
  
 1. Subtópico:
 1. Conceito e importância do Aprendizado por Transferência.
@@ -12237,7 +12237,7 @@ planejamento urbano no Brasil.
 10. O planejamento urbano no Brasil precisa considerar a diversidade e complexidade dos espaços urbanos, promovendo a inclusão social e contemplando as demandas de todos os cidadãos.
 
 
-Pergunta Original: 7 Grandes Modelos de Linguagem -LLM-    
+Item do edital: 7 Grandes Modelos de Linguagem -LLM-    
  
 1. Subtópico:
 1. Definição e Importância dos Modelos de Linguagem
@@ -12352,7 +12352,7 @@ Assertivas:
 10. O BERT é amplamente utilizado e considerado uma referência no campo de processamento de linguagem natural devido à sua capacidade de compreender o contexto e fornecer representações de alta qualidade para palavras e frases.
 
 
-Pergunta Original: 7.1 IA Generativa.    
+Item do edital: 7.1 IA Generativa.    
  
 1. Subtópico:
 1. Definição e conceitos fundamentais de IA Generativa.
@@ -12506,7 +12506,7 @@ Assertivas:
 10. A busca por energias renováveis e não poluentes será uma prioridade na transição para um futuro mais sustentável.
 
 
-Pergunta Original: 8 Redes Neurais.    
+Item do edital: 8 Redes Neurais.    
  
 1. Subtópico:
 1. Conceitos básicos de Redes Neurais
@@ -12635,7 +12635,7 @@ Assertivas:
 10. As redes neurais artificiais são modelos flexíveis e adaptáveis, capazes de aprender a partir dos dados e atualizar seus pesos para melhorar seu desempenho ao longo do tempo.
 
 
-Pergunta Original: 9 MLOps-    
+Item do edital: 9 MLOps-    
  
 1. Subtópico:
 1. Definição e Importância do MLOps
@@ -12773,7 +12773,7 @@ Assertivas:
 10. A criação de um ambiente de produção robusto e confiável para os modelos de aprendizado de máquina é um desafio que as organizações enfrentam ao implementar o MLOps.
 
 
-Pergunta Original: 9.1 MLOps- Gestão de código   
+Item do edital: 9.1 MLOps- Gestão de código   
  
 1. Subtópico:
 1. Conceito e importância do MLOps na gestão de código
@@ -12902,7 +12902,7 @@ Assertivas:
 10. A colaboração e comunicação efetiva entre as equipes envolvidas no MLOps são fatores-chave para a implementação eficaz dessa estratégia nas organizações.
 
 
-Pergunta Original: 9.2 MLOps- treinamento   
+Item do edital: 9.2 MLOps- treinamento   
  
 1. Subtópico:
 1. Definição e importância do MLOps no treinamento de modelos de Machine Learning.
@@ -13033,7 +13033,7 @@ implementação de políticas públicas.
 10. A falta de alinhamento entre os interesses políticos e a vontade da população pode criar obstáculos na implementação de políticas públicas.
 
 
-Pergunta Original: 9.3 MLOps- implantação   
+Item do edital: 9.3 MLOps- implantação   
  
 1. Subtópico:
 1. Definição e importância do MLOps na implantação de sistemas.
@@ -13148,7 +13148,7 @@ Assertivas:
 10. A manutenção no MLOps deve ser realizada por uma equipe responsável por garantir a qualidade e integridade do modelo, bem como o cumprimento das diretrizes e regulamentações vigentes.
 
 
-Pergunta Original: 9.4 MLOps- monitoramento e versionamento de modelos   
+Item do edital: 9.4 MLOps- monitoramento e versionamento de modelos   
  
 1. Subtópico:
 1. Conceito e importância do MLOps na Ciência de Dados.
@@ -13260,7 +13260,7 @@ Não tenho acesso às questões e respostas específicas feitas pelo CESPE/CEBRA
 10. É importante analisar cuidadosamente o enunciado do caso prático e atentar-se às orientações dadas para responder corretamente.
 
 
-Pergunta Original: 9.5 MLOps- automação do ciclo de produção.    
+Item do edital: 9.5 MLOps- automação do ciclo de produção.    
  
 1. Subtópico:
 1. Definição e importância do MLOps na automação do ciclo de produção.
@@ -13375,7 +13375,7 @@ Assertivas:
 10. A integração contínua pode ser automatizada por meio de ferramentas como o Jenkins, Travis CI e Bitbucket Pipelines.
 
 
-Pergunta Original: SEGURANÇA DA INFORMAÇÃO    
+Item do edital: SEGURANÇA DA INFORMAÇÃO    
  
 1. Subtópico:
 1. Conceitos básicos de Segurança da Informação: confidencialidade, integridade e disponibilidade.
@@ -13485,7 +13485,7 @@ Assertivas:
 10. Os PCN são considerados parte integrante da gestão de riscos e estão alinhados com os princípios de governança corporativa e conformidade.
 
 
-Pergunta Original: Tecnologia da informação   
+Item do edital: Tecnologia da informação   
  
 1. Subtópico:
 1. Conceitos básicos de Tecnologia da Informação: Hardware e Software

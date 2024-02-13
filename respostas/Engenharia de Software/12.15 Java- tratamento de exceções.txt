@@ -1,4 +1,4 @@
-Pergunta Original: 12.15 Java- tratamento de exceções   
+Item do edital: 12.15 Java- tratamento de exceções   
  
 1. Subtópico:
 1. Conceito e importância do tratamento de exceções em Java.

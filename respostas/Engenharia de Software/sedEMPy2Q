@@ -1,0 +1,23 @@
+Item do edital: 12.3 Java- variáveis   
+ 
+1. Subtópico:
+1. Definição e tipos de variáveis em Java
+Assertivas:
+1. Em Java, uma variável é um espaço de armazenamento que pode conter um valor que pode ser alterado durante a execução do programa.
+2. Existem diferentes tipos de variáveis em Java, incluindo variáveis primitivas e variáveis de referência.
+3. As variáveis primitivas em Java são: int, char, boolean, byte, short, long, float e double.
+4. As variáveis de referência em Java são usadas para armazenar endereços de objetos e incluem tipos como String, arrays e classes definidas pelo programador.
+5. As variáveis primitivas em Java são armazenadas diretamente na memória, enquanto as variáveis de referência armazenam o endereço do objeto real na memória.
+6. As variáveis em Java devem ser declaradas com um tipo específico antes de serem usadas.
+7. Uma vez declarada, uma variável pode ser inicializada com um valor imediatamente ou pode ser atribuída posteriormente.
+8. As variáveis em Java têm escopo, o que significa que elas só são visíveis dentro do bloco de código onde foram declaradas.
+9. Em Java, é possível reutilizar o nome de uma variável em diferentes escopos, o que é conhecido como sombreamento.
+10. As variáveis em Java devem ter um nome válido, que começa com uma letra, seguida de letras, dígitos ou sublinhados, e não podem ser uma palavra-chave reservada da linguagem.
+
+2. Subtópico:
+2. Declaração e inicialização de variáveis
+Assertivas:
+1. A declaração de variáveis é uma etapa fundamental para o correto funcionamento dos programas de computador.
+2. Na linguagem de programação C, a declaração de variáveis pode ser feita no início do código ou no momento em que são necessárias.
+3. Na linguagem de programação Python, não é necessário declarar explicitamente o tipo das variáveis antes de utilizá-las.
+4. A inicialização de variáveis é o processo de atribuir um valor inicial às variáveis no momento de sua criaçã

@@ -1,4 +1,4 @@
-Pergunta Original: 11.1 ferramentas de orquestração e automação de infraestrutura- Puppet    
+Item do edital: 11.1 ferramentas de orquestração e automação de infraestrutura- Puppet    
  
 1. Subtópico:
 1. Conceitos básicos e funcionalidades do Puppet
