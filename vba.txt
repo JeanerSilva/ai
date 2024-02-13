@@ -1,0 +1,57 @@
+Sub TransformarEmTitulo2()
+    Dim rng As Range
+    Dim searchStr As String
+    
+    ' Define a expressÃ£o que estamos procurando
+    searchStr = "Item do edital:"
+    
+    ' Percorre todo o documento
+    For Each rng In ActiveDocument.StoryRanges
+        Do
+            ' Procura pela expressÃ£o no texto do documento
+            With rng.Find
+                .Text = searchStr
+                .Forward = True
+                .Wrap = wdFindStop
+                .Execute
+            End With
+            
+            ' Se encontrarmos a expressÃ£o
+            If rng.Find.Found Then
+                ' Remove o texto encontrado
+                rng.Text = Replace(rng.Text, searchStr, "")
+                
+                ' Transforma o parÃ¡grafo em TÃ­tulo1
+                rng.Paragraphs(1).Style = ActiveDocument.Styles("TÃ­tulo 1")
+            End If
+            
+            ' Move para o prÃ³ximo parÃ¡grafo
+            Set rng = rng.NextStoryRange
+        Loop Until rng Is Nothing
+    Next rng
+End Sub
+
+Sub Macro1()
+'
+' Macro1 Macro
+'
+'
+    Selection.WholeStory
+    Selection.Font.Name = "Calibri Light"
+    Selection.Font.Size = 11
+    Selection.Find.ClearFormatting
+    Selection.Find.Replacement.ClearFormatting
+    With Selection.Find
+        .Text = "^p "
+        .Replacement.Text = "^p"
+        .Forward = True
+        .Wrap = wdFindAsk
+        .Format = False
+        .MatchCase = False
+        .MatchWholeWord = False
+        .MatchWildcards = False
+        .MatchSoundsLike = False
+        .MatchAllWordForms = False
+    End With
+    Selection.Find.Execute Replace:=wdReplaceAll
+End Sub
