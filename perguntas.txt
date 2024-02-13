@@ -1,31 +1,3 @@
-Tecnologia da informação   
-1 Aprendizado de Máquina.    
-2 Deep learning.    
-3 Processamento de linguagem natural.    
-4 Big data.    
-5 Qualidade de Dados.    
-6 Tipos de Aprendizado-    
-6.1 Aprendizado Supervisionado    
-6.2 Aprendizado Não Supervisionado    
-6.3 Aprendizado Semi Supervisionado    
-6.4 Aprendizado Por Reforço    
-6.5 Aprendizado Por Transferência.    
-7 Grandes Modelos de Linguagem -LLM-    
-7.1 IA Generativa.    
-8 Redes Neurais.    
-9 MLOps-    
-9.1 MLOps- Gestão de código   
-9.2 MLOps- treinamento   
-9.3 MLOps- implantação   
-9.4 MLOps- monitoramento e versionamento de modelos   
-9.5 MLOps- automação do ciclo de produção.    
-10 Governança e Ética na IA-    
-10.1 Governança e Ética na IA- Transparência   
-10.1 Governança e Ética na IA- Responsabilidade   
-10.1 Governança e Ética na IA- Explicabilidade   
-10.1 Governança e Ética na IA- Privacidade   
-10.1 Governança e Ética na IA- Segurança   
-10.1 Governança e Ética na IA- Viés.    
 SEGURANÇA DA INFORMAÇÃO    
 1 Gestão de Identidades e Acesso-    
 1.1 Autenticação e Autorização    

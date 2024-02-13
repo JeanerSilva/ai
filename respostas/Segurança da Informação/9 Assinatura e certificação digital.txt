@@ -1,0 +1,143 @@
+Pergunta Original: 9 Assinatura e certificação digital   
+ 
+1. Subtópico:
+1. Conceito e importância da assinatura digital
+Assertivas:
+1. A assinatura digital é um mecanismo utilizado para garantir a autenticidade e a integridade de documentos eletrônicos.
+2. A assinatura digital utiliza algoritmos criptográficos para garantir a segurança das informações contidas em um documento.
+3. A assinatura digital é um processo automático e padronizado, que pode ser verificado por qualquer pessoa que possua a chave pública correspondente.
+4. A assinatura digital torna desnecessário o uso de papel e a presença física para a validação de documentos, agilizando processos burocráticos.
+5. A assinatura digital possui validade jurídica, sendo reconhecida pela legislação brasileira como uma forma válida de autenticar documentos eletrônicos.
+6. A assinatura digital evita fraudes e falsificações, uma vez que qualquer alteração no documento tornaria a assinatura inválida.
+7. A assinatura digital é amplamente utilizada em transações eletrônicas, como contratos comerciais, declarações fiscais e processos judiciais.
+8. A assinatura digital tem impacto positivo na preservação do meio ambiente, reduzindo a necessidade de impressão e armazenamento físico de documentos.
+9. A assinatura digital proporciona maior segurança jurídica e agilidade aos processos governamentais, eliminando a necessidade de comparecimento físico em repartições públicas.
+10. A assinatura digital contribui para a redução de custos operacionais e para a eficiência dos serviços públicos, especialmente em órgãos de grande demanda burocrática.
+
+2. Subtópico:
+2. Processo de criação e verificação de uma assinatura digital
+Assertivas:
+1. A assinatura digital é um processo criptográfico utilizado para garantir a identidade e integridade de um documento eletrônico.
+2. O processo de criação de uma assinatura digital envolve a aplicação de um algoritmo de hash no documento original.
+3. A assinatura digital é gerada a partir da aplicação de uma chave privada sobre o hash do documento.
+4. A chave privada utilizada na criação da assinatura digital deve ser de posse exclusiva do assinante.
+5. A verificação de uma assinatura digital é realizada através da aplicação de uma chave pública no hash do documento assinado.
+6. A chave pública utilizada na verificação da assinatura digital é amplamente disponibilizada para garantir a transparência do processo.
+7. Caso a assinatura digital seja válida, significa que o documento não sofreu alterações desde a sua assinatura.
+8. É impossível reproduzir uma assinatura digital sem ter acesso à chave privada correspondente.
+9. A assinatura digital tem validade jurídica e pode substituir a assinatura manuscrita em documentos eletrônicos.
+10. A criação e verificação de uma assinatura digital são processos seguros e confiáveis, amplamente utilizados em transações eletrônicas.
+
+3. Subtópico:
+3. Tipos de algoritmos usados na assinatura digital
+Assertivas:
+1. A assinatura digital é um tipo de algoritmo amplamente utilizado para garantir a integridade e autenticidade de documentos eletrônicos.
+2. Os principais algoritmos utilizados na assinatura digital são baseados em criptografia assimétrica, como o RSA e o DSA.
+3. O algoritmo RSA é um dos mais populares para a assinatura digital e foi inventado por Ron Rivest, Adi Shamir e Leonard Adleman em 1977.
+4. O algoritmo DSA, sigla para Digital Signature Algorithm, é um padrão do governo dos Estados Unidos amplamente utilizado para a assinatura digital.
+5. Algoritmos de curvas elípticas, como o ECDSA, também são utilizados para a assinatura digital, oferecendo uma alternativa eficiente em termos de desempenho computacional.
+6. Os algoritmos de assinatura digital utilizam o conceito de chave pública e chave privada para garantir a autenticidade e integridade dos documentos.
+7. A chave privada é mantida em sigilo pelo proprietário e é utilizada para assinar digitalmente o documento.
+8. A chave pública é compartilhada com terceiros e é utilizada para verificar a autenticidade da assinatura digital.
+9. A combinação de algoritmo de hash e algoritmo de criptografia assimétrica é fundamental para a segurança da assinatura digital.
+10. A assinatura digital tem ampla aplicação em contratos eletrônicos, transações financeiras e documentos oficiais, garantindo a validade jurídica e a segurança dos processos digitais.
+
+4. Subtópico:
+4. Conceito e aplicação da certificação digital
+Assertivas:
+1. A certificação digital é um conjunto de técnicas criptográficas que garantem a autenticidade, integridade e confidencialidade de informações eletrônicas.
+2. A certificação digital possibilita a identificação segura de pessoas físicas ou jurídicas no ambiente virtual.
+3. A utilização da certificação digital é amplamente aplicada em transações eletrônicas, como assinatura de contratos, acesso a sistemas seguros e envio de documentos fiscais.
+4. A certificação digital é regulamentada no Brasil pela Infraestrutura de Chaves Públicas (ICP-Brasil), que estabelece normas e procedimentos para o uso adequado dessa tecnologia.
+5. A certificação digital utiliza algoritmos assimétricos, como RSA e ECC, para garantir a segurança das informações transmitidas.
+6. A certificação digital é baseada no uso de pares de chaves criptográficas, compostas por uma chave pública e uma chave privada.
+7. A chave privada é de posse exclusiva do titular do certificado digital, enquanto a chave pública é disponibilizada publicamente para autenticação e criptografia de dados.
+8. A certificação digital possui prazo de validade, sendo necessário renovar o certificado periodicamente para garantir sua autenticidade e segurança.
+9. A utilização da certificação digital é obrigatória em determinados setores, como no envio de obrigações fiscais e acessos a sistemas governamentais.
+10. A certificação digital possui diferentes tipos de certificados, sendo os mais comuns o e-CPF (pessoa física) e o e-CNPJ (pessoa jurídica).
+
+5. Subtópico:
+5. Autoridades Certificadoras (AC) e Autoridades de Registro (AR)
+Assertivas:
+1. As Autoridades Certificadoras (AC) são entidades responsáveis por emitir e gerenciar certificados digitais.
+2. As Autoridades de Registro (AR) são responsáveis por validar a identidade dos requerentes de certificados digitais antes da emissão.
+3. As ACs são responsáveis por garantir a autenticidade e integridade das informações contidas nos certificados digitais.
+4. As ARs atuam como intermediárias entre os solicitantes de certificados e as ACs, facilitando o processo de emissão.
+5. As ACs são regulamentadas por órgãos responsáveis pela política de certificação, garantindo a confiabilidade dos certificados emitidos.
+6. As ARs devem seguir procedimentos rigorosos de autenticação e verificação da identidade dos solicitantes.
+7. As ACs utilizam infraestrutura criptográfica para garantir a segurança dos certificados digitais emitidos.
+8. As ARs devem ser autorizadas pelas ACs para realizar validações e emitir certificados digitais.
+9. As ACs são responsáveis por revogar certificados digitais em casos de perda de confidencialidade das chaves privadas ou comprometimento da segurança.
+10. As ARs desempenham um papel fundamental na garantia da confiabilidade e segurança dos certificados digitais emitidos.
+
+6. Subtópico:
+6. Infraestrutura de Chaves Públicas (ICP-Brasil)
+Assertivas:
+1. A ICP-Brasil é uma infraestrutura de chaves públicas que garante a autenticidade, integridade e confidencialidade de informações eletrônicas no Brasil.
+2. A ICP-Brasil é regulamentada pela Medida Provisória nº 2.200-2/2001 e demais normativas específicas.
+3. A Infraestrutura de Chaves Públicas Brasileira é gerida pelo Instituto Nacional de Tecnologia da Informação (ITI).
+4. A ICP-Brasil possui uma hierarquia composta por Autoridades Certificadoras (AC), Autoridades de Registro (AR) e usuários finais.
+5. A ICP-Brasil emite certificados digitais que são utilizados para a autenticação e assinatura eletrônica de informações.
+6. Os Certificados Digitais ICP-Brasil possuem validade jurídica, sendo reconhecidos pela legislação brasileira.
+7. A ICP-Brasil utiliza criptografia de chave pública para garantir a segurança das comunicações e a integridade dos dados.
+8. Os Certificados Digitais emitidos pela ICP-Brasil possuem características técnicas específicas que garantem a identificação e autenticidade do titular.
+9. A ICP-Brasil tem como objetivo principal promover a segurança e confiabilidade nos processos eletrônicos realizados no país.
+10. A ICP-Brasil integra a infraestrutura global de chaves públicas, facilitando a interoperabilidade e reconhecimento internacional dos certificados digitais emitidos.
+
+7. Subtópico:
+7. Validade jurídica da assinatura e certificação digital no Brasil
+Assertivas:
+1. A validade jurídica da assinatura digital é garantida pela Medida Provisória nº 2.200-2/2001.
+2. A assinatura digital possui o mesmo valor jurídico da assinatura manuscrita, de acordo com a Lei nº 14.063/2020.
+3. A certificação digital é regulamentada pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), instituída pela Lei nº 11.419/2006.
+4. A assinatura digitalizada não possui o mesmo valor jurídico da assinatura digital, sendo considerada apenas uma representação gráfica.
+5. A validade da assinatura digital é baseada em métodos criptográficos, garantindo a integridade e autenticidade do documento.
+6. Os Certificados Digitais ICP-Brasil são emitidos por Autoridades Certificadoras credenciadas pelo Instituto Nacional de Tecnologia da Informação (ITI).
+7. A validade da assinatura digital pode ser verificada através dos algoritmos de criptografia utilizados, como RSA e DSA.
+8. O uso da assinatura digital facilita a prática de atos jurídicos eletrônicos, conferindo segurança e agilidade às transações online.
+9. A assinatura digital é reconhecida e aceita em diversos órgãos e entidades governamentais, além do setor privado.
+10. A utilização da assinatura digital contribui para a redução de papel, impulsionando a sustentabilidade e a modernização dos processos administrativos.
+
+8. Subtópico:
+8. Segurança em transações digitais: papel da assinatura e certificação digital 
+Assertivas:
+1. A assinatura digital é um mecanismo de segurança utilizado em transações digitais para garantir a autenticidade e integridade dos documentos eletrônicos.
+2. A certificação digital é uma tecnologia que garante a identificação e autenticação das partes envolvidas em uma transação digital.
+3. A assinatura digital é realizada por meio de um par de chaves criptográficas, uma chave privada para assinar e uma chave pública para verificar a autenticidade.
+4. A segurança da assinatura digital é assegurada por algoritmos criptográficos, que tornam inviável a falsificação do documento assinado.
+5. A certificação digital é realizada por autoridades certificadoras, que atestam a identidade de uma pessoa ou organização por meio da emissão de um certificado digital.
+6. O certificado digital contém informações sobre a identidade do titular, a chave pública correspondente e a assinatura digital da autoridade certificadora.
+7. A assinatura digital e a certificação digital garantem a integridade e a confidencialidade dos documentos eletrônicos, bem como a não repudiabilidade das transações realizadas.
+8. O uso da assinatura e certificação digital é essencial em transações bancárias, comércio eletrônico e outras transações que envolvem dados sensíveis.
+9. A tecnologia de assinatura e certificação digital é amplamente utilizada em todo o mundo, sendo considerada uma ferramenta fundamental para a segurança das transações digitais.
+10. A regulamentação e padronização internacional da assinatura e certificação digital contribui para a interoperabilidade e confiabilidade desses mecanismos em nível global.
+
+9. Subtópico:
+9. Certificados digitais: tipos, validade, revogação 
+Assertivas:
+1. Os certificados digitais são documentos eletrônicos que servem para comprovar a identidade das partes envolvidas em uma transação eletrônica.
+2. Existem diferentes tipos de certificados digitais, como o e-CPF, e-CNPJ, SSL/TLS, A3, entre outros, cada um sendo utilizado para diferentes finalidades.
+3. A validade de um certificado digital pode variar de acordo com o tipo e a política de certificação adotada pela autoridade certificadora responsável pela emissão.
+4. Em geral, os certificados digitais têm validade de 1 a 3 anos, podendo ser renovados após esse período.
+5. A revogação de um certificado digital ocorre quando há algum problema de segurança ou suspeita de comprometimento da sua chave privada.
+6. A revogação de um certificado é realizada pela autoridade certificadora, que emite uma lista de certificados revogados, chamada de CRL (Certificate Revocation List).
+7. Além da lista de certificados revogados, existe também a OCSP (Online Certificate Status Protocol), que permite verificar a validade de um certificado em tempo real.
+8. A revogação de um certificado pode ser solicitada pelo titular do certificado ou por terceiros caso haja suspeita de fraude ou comprometimento da chave privada.
+9. Após a revogação de um certificado digital, ele não deve mais ser utilizado para realizar transações seguras, sendo recomendado sua substituição por um novo certificado.
+10. A utilização de certificados digitais é essencial para garantir a autenticidade, integridade e confidencialidade das informações em transações eletrônicas.
+
+10. Subtópico:
+10
+Assertivas:
+1. Um triângulo retângulo possui um ângulo interno de 90 graus.
+2. A lua possui gravidade menor do que a Terra.
+3. A Revolução Francesa ocorreu no final do século XVIII.
+4. A obra "Os Lusíadas" foi escrita por Luís de Camões.
+5. A clorofila é responsável pela cor verde das plantas.
+6. A Primeira Guerra Mundial teve início em 1914.
+7. O ácido clorídrico é uma substância corrosiva.
+8. As células são consideradas as unidades básicas dos seres vivos.
+9. A República Federativa do Brasil é uma democracia representativa.
+10. O período Mesozoico foi marcado pela presença dos dinossauros.
+
+

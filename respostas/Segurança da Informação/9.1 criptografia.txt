@@ -1,0 +1,138 @@
+Pergunta Original: 9.1 criptografia    
+ 
+1. Subtópico:
+1. Conceitos básicos de criptografia
+Assertivas:
+1. A criptografia é uma técnica que visa proteger informações confidenciais por meio de códigos.
+2. O objetivo da criptografia é garantir a confidencialidade, integridade e autenticidade dos dados.
+3. A criptografia utiliza algoritmos matemáticos para transformar dados legíveis em formatos ilegíveis, chamados de criptogramas.
+4. Para decifrar um criptograma, é necessário possuir a chave de criptografia correta.
+5. Existem dois tipos principais de criptografia: simétrica e assimétrica.
+6. Na criptografia simétrica, a mesma chave é utilizada tanto para criptografar quanto para descriptografar os dados.
+7. Na criptografia assimétrica, são utilizadas duas chaves distintas: uma chave pública para criptografar e uma chave privada para descriptografar.
+8. A criptografia assimétrica é mais segura, porém mais lenta, em comparação com a criptografia simétrica.
+9. Algoritmos de criptografia amplamente utilizados incluem o AES (Advanced Encryption Standard), RSA e o ECC (Elliptic Curve Cryptography).
+10. A criptografia é amplamente utilizada na proteção de dados em sistemas de comunicação, como redes de computadores e internet, bem como no armazenamento de informações em dispositivos eletrônicos.
+
+2. Subtópico:
+2. Tipos de criptografia: simétrica e assimétrica
+Assertivas:
+1. A criptografia simétrica utiliza a mesma chave para o processo de criptografia e descriptografia.
+2. A criptografia assimétrica utiliza duas chaves distintas: uma chave pública para criptografar e uma chave privada para descriptografar.
+3. A criptografia simétrica é mais rápida e eficiente do que a criptografia assimétrica.
+4. A criptografia assimétrica oferece maior segurança na troca de chaves entre as partes envolvidas na comunicação.
+5. A criptografia simétrica é amplamente utilizada em ambientes que requerem alta velocidade de processamento, como redes de dados.
+6. A criptografia assimétrica é comumente usada em sistemas de autenticação e assinatura digital.
+7. A criptografia simétrica não fornece uma solução prática para o problema de distribuição segura das chaves.
+8. A criptografia assimétrica utiliza algoritmos matemáticos complexos para garantir a segurança das comunicações.
+9. A criptografia simétrica é mais adequada para a cifragem de grandes volumes de dados.
+10. A criptografia assimétrica é mais adequada para estabelecer canais seguros de comunicação entre várias partes, como em transações financeiras online.
+
+3. Subtópico:
+3. Algoritmos de criptografia mais comuns (RSA, DES, AES)
+Assertivas:
+1. O algoritmo de criptografia mais comum utilizado para comunicações seguras na internet é o RSA.
+2. O algoritmo RSA foi criado por Ron Rivest, Adi Shamir e Leonard Adleman em 1977.
+3. O algoritmo RSA é baseado no conceito matemático da fatorização de números inteiros.
+4. O algoritmo DES (Data Encryption Standard) foi desenvolvido pelo governo dos Estados Unidos em 1977.
+5. O algoritmo DES utiliza uma chave de criptografia de 56 bits.
+6. O algoritmo AES (Advanced Encryption Standard) é uma escolha mais segura do que o DES.
+7. O algoritmo AES foi escolhido pelo Governo dos Estados Unidos como padrão de criptografia em 2001.
+8. O algoritmo AES utiliza chaves de criptografia de 128, 192 ou 256 bits.
+9. O algoritmo AES é amplamente utilizado em sistemas e protocolos de segurança, como SSL/TLS e VPNs.
+10. Tanto o DES quanto o AES são algoritmos de criptografia simétrica, enquanto o RSA é um algoritmo de criptografia assimétrica.
+
+4. Subtópico:
+4. Criptografia em redes de computadores e na internet
+Assertivas:
+1. A criptografia em redes de computadores e na internet é uma técnica utilizada para proteger a confidencialidade e a integridade das informações transmitidas.
+2. A criptografia utiliza algoritmos matemáticos que transformam os dados em formato ilegível, conhecidos como texto cifrado, tornando-os indecifráveis sem a chave correta.
+3. A chave de criptografia é um componente essencial na criptografia, sendo responsável por garantir a segurança das informações.
+4. A criptografia simétrica é um tipo de criptografia que utiliza a mesma chave para criptografar e descriptografar os dados.
+5. A criptografia assimétrica, também conhecida como criptografia de chave pública, utiliza um par de chaves: uma chave pública para criptografar os dados e uma chave privada para descriptografá-los.
+6. O protocolo SSL/TLS é amplamente utilizado na internet para proteger a comunicação entre clientes e servidores por meio da criptografia.
+7. A criptografia em redes de computadores e na internet não garante apenas a confidencialidade dos dados, mas também a autenticidade do remetente e a integridade das informações transmitidas.
+8. A criptografia de ponta a ponta é um método de criptografia em que os dados são criptografados no dispositivo de origem e somente são descriptografados no dispositivo de destino, garantindo maior segurança na transmissão.
+9. O algoritmo de criptografia AES (Advanced Encryption Standard) é amplamente utilizado em redes de computadores e na internet devido à sua resistência a ataques e velocidade de processamento.
+10. A criptografia em redes de computadores e na internet desempenha um papel fundamental na proteção de informações sensíveis, como senhas, dados bancários e informações pessoais dos usuários.
+
+5. Subtópico:
+5. Protocolos seguros que utilizam criptografia (HTTPS, SSL/TLS)
+Assertivas:
+1. O protocolo HTTPS utiliza criptografia para garantir a segurança na comunicação entre um cliente e um servidor.
+2. O SSL (Secure Sockets Layer) é um protocolo que oferece autenticação, integridade e confidencialidade dos dados através da criptografia.
+3. O TLS (Transport Layer Security) é a versão mais atualizada do SSL, oferecendo um protocolo seguro para a comunicação segura na Internet.
+4. A criptografia utilizada no SSL/TLS é baseada em algoritmos de chave simétrica e chave assimétrica.
+5. O protocolo SSL/TLS é amplamente utilizado em transações bancárias online, sites de comércio eletrônico e em serviços de e-mail seguro.
+6. O HTTPS é um protocolo seguro que combina o HTTP com a criptografia do SSL/TLS.
+7. Com o uso do SSL/TLS, é possível garantir a autenticidade dos sites, protegendo contra ataques de phishing.
+8. A criptografia no SSL/TLS impede que terceiros interceptem e compreendam as informações transmitidas entre um cliente e um servidor.
+9. O SSL/TLS também pode proteger contra ataques do tipo "man-in-the-middle", em que um invasor se posiciona entre o cliente e o servidor para interceptar ou modificar os dados.
+10. A utilização do SSL/TLS é uma prática recomendada para garantir a segurança e a privacidade dos dados transmitidos na Internet.
+
+6. Subtópico:
+6. Criptoanálise: técnicas e métodos para quebrar códigos criptográficos
+Assertivas:
+1. A criptoanálise é o campo de estudo que se dedica às técnicas e métodos utilizados para decifrar códigos criptográficos.
+2. A criptoanálise busca explorar vulnerabilidades e fraquezas nos algoritmos de criptografia para quebrar a segurança dos criptossistemas.
+3. Os criptoanalistas utilizam diferentes técnicas, como análise de frequência, análise de padrões e força bruta, para quebrar códigos criptográficos.
+4. A força bruta é uma técnica de criptoanálise que envolve o teste sistemático de todas as chaves possíveis até encontrar a correta.
+5. A maioria dos sistemas criptográficos modernos são projetados para resistir à criptoanálise, tornando o processo extremamente desafiador.
+6. A criptoanálise pode ser feita tanto por meios computacionais, com o auxílio de algoritmos e programas específicos, como por meio de habilidades analíticas e matemáticas.
+7. Um dos métodos mais conhecidos de criptoanálise é a análise de padrões, que busca identificar regularidades e repetições em mensagens criptografadas.
+8. A criptoanálise tem sido fundamental para a quebra de códigos durante guerras e conflitos, proporcionando vantagens estratégicas aos adversários.
+9. A criptoanálise é uma área em constante evolução, com novas técnicas e métodos sendo desenvolvidos à medida que a criptografia se torna mais avançada.
+10. Embora a criptoanálise possa ser usada para fins nefastos, é uma ferramenta importante para garantir a segurança da informação e a proteção dos dados pessoais.
+
+7. Subtópico:
+7. Uso da criptografia em proteção de dados pessoais e privacidade 
+Assertivas:
+1. A criptografia é uma técnica responsável por transformar informações em um formato ilegível, a fim de garantir a proteção de dados pessoais e privacidade.
+
+2. A utilização da criptografia é uma importante medida de segurança no armazenamento de dados pessoais, tornando-os inacessíveis a terceiros não autorizados.
+
+3. A criptografia assegura que apenas o destinatário correto seja capaz de decifrar as informações protegidas, mantendo assim a privacidade dos dados transmitidos.
+
+4. A implementação de algoritmos de criptografia de qualidade é fundamental para garantir a confidencialidade dos dados pessoais armazenados em bancos de dados.
+
+5. A criptografia de ponta a ponta em serviços de mensagens instantâneas, como o WhatsApp, é uma medida de segurança que garante que apenas o remetente e o destinatário tenham acesso às informações trocadas.
+
+6. A utilização de chaves de criptografia fortes e atualizadas é essencial para que as informações protegidas permaneçam seguras ao longo do tempo.
+
+7. A criptografia assimétrica, também conhecida como chave pública, é um método seguro para garantir a proteção de dados pessoais, uma vez que utiliza um par de chaves (pública e privada) para a comunicação segura.
+
+8. A criptografia é uma ferramenta indispensável em transações financeiras online, como compras e pagamentos, a fim de assegurar a confidencialidade das informações bancárias dos usuários.
+
+9. A criptografia de disco é uma técnica que protege o conteúdo de um dispositivo de armazenamento, tornando-o inacessível sem a chave correta, evitando assim possíveis violações de privacidade.
+
+10. A utilização de protocolos de segurança, como o SSL/TLS, que utilizam criptografia, é uma prática recomendada para garantir o sigilo de informações sensíveis em conexões online, como navegação em sites de bancos e comércio eletrônico.
+
+8. Subtópico:
+8. Chaves públicas e privadas: geração, distribuição e gestão 
+Assertivas:
+1. A geração de chaves públicas e privadas faz parte do processo de criptografia assimétrica.
+2. A geração de chaves públicas e privadas é baseada em algoritmos matemáticos.
+3. As chaves públicas são compartilhadas livremente, enquanto as chaves privadas são mantidas em sigilo pelo dono.
+4. A distribuição das chaves públicas é amplamente utilizada em criptografia de dados em redes de comunicação.
+5. A gestão adequada das chaves públicas e privadas é essencial para garantir a segurança dos sistemas criptográficos.
+6. A geração aleatória de chaves públicas e privadas é fundamental para evitar vulnerabilidades no sistema criptográfico.
+7. A utilização de certificados digitais é uma forma comum de distribuir chaves públicas de forma segura.
+8. A gestão de chaves públicas e privadas inclui a atualização periódica das chaves para preservar a segurança do processo de criptografia.
+9. A chave privada é usada para descriptografar dados criptografados com a chave pública correspondente.
+10. A distribuição segura das chaves privadas é um aspecto importante da gestão das chaves públicas e privadas.
+
+9. Subtópico:
+9. Assin
+Assertivas:
+1. A assinatura digital é um mecanismo utilizado para garantir a autenticidade e integridade de documentos eletrônicos.
+2. A assinatura digital possui validade jurídica equivalente à assinatura manuscrita, desde que esteja em conformidade com a legislação vigente.
+3. A assinatura digital utiliza criptografia assimétrica, que envolve a utilização de um par de chaves: uma pública e outra privada.
+4. A chave pública é utilizada para verificar a autenticidade da assinatura digital, enquanto a chave privada é utilizada para realizar a assinatura.
+5. A assinatura digital permite a verificação da autenticidade do autor de um documento, garantindo que ele não tenha sido alterado desde sua assinatura.
+6. A assinatura digital é amplamente utilizada em transações eletrônicas, como contratos, declarações fiscais e documentos governamentais.
+7. A utilização de certificados digitais é fundamental para a validade e rastreabilidade das assinaturas digitais.
+8. A assinatura digital confere segurança aos dados transmitidos eletronicamente, protegendo-os contra adulterações e fraudes.
+9. A validade da assinatura digital está vinculada à vigência do certificado digital utilizado para sua realização.
+10. A assinatura digital é uma tecnologia indispensável para a digitalização de processos e documentos nas organizações modernas.
+
+

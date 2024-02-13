@@ -1,0 +1,152 @@
+Pergunta Original: ENGENHARIA DE SOFTWARE   
+ 
+1. Subtópico:
+1. Conceitos fundamentais de Engenharia de Software
+Assertivas:
+1. A Engenharia de Software é uma disciplina voltada para a aplicação sistemática de princípios e métodos científicos na criação de software.
+2. O processo de Engenharia de Software envolve atividades como análise de requisitos, projeto, implementação, testes e manutenção de sistemas de software.
+3. A Engenharia de Software busca assegurar a qualidade, confiabilidade, eficiência e segurança dos produtos de software.
+4. Uma das características essenciais da Engenharia de Software é a abordagem sistemática e disciplinada para desenvolvimento de software.
+5. O foco principal da Engenharia de Software é atender as necessidades dos usuários enquanto cumpre os requisitos de funcionalidade, desempenho e usabilidade.
+6. A Engenharia de Software abrange tanto o desenvolvimento de software para uso próprio quanto para comercialização.
+7. A Engenharia de Software envolve a aplicação de conhecimentos de diversas áreas como computação, matemática, ciência da informação e engenharia de sistemas.
+8. A Engenharia de Software valoriza a colaboração e comunicação entre as pessoas envolvidas no processo de desenvolvimento de software.
+9. Engenheiros de Software devem estar familiarizados com metodologias ágeis, como Scrum e XP, além de técnicas de modelagem e gerenciamento de projetos.
+10. A Engenharia de Software é uma área em constante evolução, com avanços tecnológicos e práticas de desenvolvimento surgindo continuamente.
+
+2. Subtópico:
+2. Modelos de Processo de Desenvolvimento de Software
+Assertivas:
+1. O modelo em cascata é um dos mais antigos e tradicionais de processo de desenvolvimento de software, caracterizado por uma sequência linear de fases.
+2. No modelo em cascata, cada fase do desenvolvimento é concluída antes de se iniciar a próxima, o que pode gerar dificuldades de adaptação a mudanças durante o processo.
+3. O modelo iterativo e incremental é caracterizado pela repetição de ciclos de desenvolvimento que vão refinando o produto final em cada iteração.
+4. No modelo iterativo e incremental, as funcionalidades do software são entregues em partes, permitindo que o usuário tenha uma visão antecipada do produto e possa fornecer feedback.
+5. O modelo espiral combina características do modelo em cascata com o modelo iterativo e incremental, enfatizando a análise de riscos e a adoção de medidas preventivas.
+6. No modelo espiral, a fase de elaboração é seguida pelo planejamento, execução e avaliação, e isso se repete até que o software seja completamente desenvolvido.
+7. O modelo ágil é baseado em valores e princípios que priorizam a interação contínua com o cliente, adaptação a mudanças e entrega de software funcionando em curtos períodos de tempo.
+8. No modelo ágil, o desenvolvimento é realizado em iterações curtas e frequentes, chamadas de sprints, com o objetivo de maximizar a colaboração entre a equipe e o cliente.
+9. Os principais métodos ágeis incluem Scrum, Extreme Programming (XP) e Kanban, que diferem em suas abordagens, mas compartilham o foco na entrega de valor ao cliente de forma rápida e frequente.
+10. O modelo DevOps é uma abordagem de desenvolvimento e operações de software que visa a integração contínua, entrega contínua e automação de processos para garantir maior agilidade e qualidade no ciclo de vida do software.
+
+3. Subtópico:
+3. Metodologias Ágeis em Engenharia de Software
+Assertivas:
+1) As metodologias ágeis em engenharia de software têm como objetivo principal a entrega de valor de maneira incremental e interativa ao cliente.
+2) A adoção de metodologias ágeis em engenharia de software estimula a colaboração e a comunicação contínua entre os membros da equipe.
+3) As metodologias ágeis em engenharia de software enfatizam a adaptação às mudanças durante o desenvolvimento do projeto.
+4) O Manifesto Ágil é um documento que apresenta os valores e princípios que orientam as metodologias ágeis em engenharia de software.
+5) O Scrum é uma das metodologias ágeis mais conhecidas e amplamente utilizadas em engenharia de software.
+6) A metodologia Kanban é baseada em uma abordagem visual que permite o gerenciamento de fluxo contínuo de trabalho em engenharia de software.
+7) A metodologia Lean Software Development possui uma forte ligação com as práticas enxutas de gerenciamento de produção e tem como objetivo eliminar desperdícios durante o desenvolvimento de software.
+8) A metodologia Extreme Programming (XP) é uma abordagem ágil que enfatiza a qualidade do software através de práticas como programação em par e testes automatizados.
+9) As metodologias ágeis em engenharia de software valorizam a interação e a colaboração com o cliente durante todo o ciclo de desenvolvimento do software.
+10) A agilidade em engenharia de software é uma resposta às limitações das abordagens tradicionais de desenvolvimento, buscando maior flexibilidade e eficiência no processo de criação de software.
+
+4. Subtópico:
+4. Gerenciamento de Projetos em Engenharia de Software
+Assertivas:
+1. O gerenciamento de projetos em engenharia de software envolve a utilização de metodologias ágeis, como o Scrum, para promover uma entrega contínua e incremental do produto.
+2. O uso de um plano de gerenciamento de projetos é fundamental para estabelecer objetivos claros, definir tarefas, distribuir responsabilidades e monitorar o progresso em projetos de engenharia de software.
+3. A comunicação eficiente entre os membros da equipe é um aspecto essencial para o sucesso do gerenciamento de projetos em engenharia de software, uma vez que possibilita a troca de informações, alinhamento de expectativas e resolução de problemas.
+4. A identificação e o acompanhamento dos riscos são processos fundamentais no gerenciamento de projetos em engenharia de software, visando a antecipação de possíveis problemas e a implementação de medidas preventivas.
+5. O uso de ferramentas de gestão de projetos, como o Microsoft Project, pode auxiliar no planejamento, controle e monitoramento de projetos de engenharia de software.
+6. O gerenciamento de custos em projetos de engenharia de software envolve a estimativa e controle dos recursos financeiros necessários para a execução do projeto, bem como a análise dos impactos de eventuais mudanças.
+7. O cronograma de um projeto de engenharia de software deve ser elaborado considerando as dependências entre as atividades, de forma a garantir a sequência lógica e a otimização dos recursos disponíveis.
+8. O gerenciamento de qualidade em projetos de engenharia de software envolve a definição e monitoramento de métricas e indicadores de desempenho, a fim de garantir que o produto final atenda aos requisitos e expectativas definidos.
+9. A gestão de stakeholders é um aspecto crítico no gerenciamento de projetos de engenharia de software, uma vez que envolve a identificação, análise e envolvimento das partes interessadas para garantir o sucesso do projeto.
+10. A documentação adequada é fundamental para o gerenciamento de projetos em engenharia de software, uma vez que facilita a comunicação, o planejamento e a tomada de decisões ao longo do processo.
+
+5. Subtópico:
+5. Qualidade e Testes em Engenharia de Software
+Assertivas:
+1. A qualidade em engenharia de software está relacionada à conformidade dos produtos e processos aos requisitos e padrões estabelecidos.
+2. Os testes em engenharia de software são utilizados para verificar se o software atende aos requisitos estabelecidos.
+3. Os testes em engenharia de software podem ser realizados em diferentes níveis, como testes de unidade, integração e sistema.
+4. A utilização de técnicas de automação de testes pode aumentar a eficiência e a confiabilidade dos processos de teste em engenharia de software.
+5. A qualidade em engenharia de software é uma responsabilidade de todos os membros da equipe de desenvolvimento, não apenas dos testadores.
+6. A utilização de métricas de qualidade, como a taxa de defeitos descobertos nos testes, auxilia na avaliação e melhoria contínua dos processos de engenharia de software.
+7. Os testes em engenharia de software devem ser planejados e executados de forma sistemática, utilizando técnicas e ferramentas adequadas.
+8. A realização de testes de regressão é importante para verificar se as modificações realizadas no software não afetaram o funcionamento de outras funcionalidades já testadas.
+9. Os testes de desempenho permitem avaliar a capacidade do software em lidar com uma carga de trabalho simulada.
+10. A qualidade em engenharia de software deve ser considerada desde as fases iniciais do desenvolvimento, visando evitar problemas e retrabalhos futuros.
+
+6. Subtópico:
+6. Análise e Projeto Orientado a Objetos 
+Assertivas:
+1. A análise orientada a objetos é uma técnica utilizada para identificar os requisitos de um sistema, identificar as classes do sistema e definir as relações entre elas.
+2. O projeto orientado a objetos é uma técnica usada para transformar os requisitos identificados na análise em um design detalhado do sistema, definindo as classes, seus atributos, métodos e relacionamentos.
+3. A herança é um conceito fundamental no paradigma orientado a objetos que permite a criação de novas classes a partir de classes existentes, aproveitando seus atributos e comportamentos.
+4. A encapsulação é um princípio da programação orientada a objetos que consiste em esconder a implementação interna de uma classe e disponibilizar apenas os métodos necessários para a interação com outras classes.
+5. A polimorfismo é um recurso da orientação a objetos que permite que um objeto possa ser referenciado por diferentes tipos de variáveis, facilitando a reutilização e flexibilidade do código.
+6. A identificação e modelagem de objetos é uma etapa da análise orientada a objetos que consiste em identificar as entidades relevantes do sistema e definir suas características e comportamentos.
+7. A modelagem de relacionamentos é uma etapa da análise orientada a objetos que consiste em identificar as associações entre os objetos e definir as relações entre eles, como agregação, composição, herança, entre outros.
+8. O projeto de classe é uma etapa do projeto orientado a objetos que consiste em definir as classes específicas do sistema, seus atributos e métodos, assim como suas heranças e relacionamentos.
+9. O diagrama de classes é uma ferramenta utilizada na análise e projeto orientado a objetos para representar graficamente as classes do sistema, seus atributos, métodos e relacionamentos.
+10. A análise e projeto orientado a objetos são técnicas fundamentais no desenvolvimento de sistemas que buscam modularidade, reutilização de código, extensibilidade e facilidade de manutenção.
+
+7. Subtópico:
+7. Padrões e Arquitetura do software 
+Assertivas:
+1. Os padrões de software são soluções repetíveis para problemas comuns de design e desenvolvimento de software.
+2. Os padrões arquiteturais são modelos abstratos que definem a organização e a estrutura de um sistema de software.
+3. A arquitetura de software define a estrutura, os componentes, as interações e os padrões de um sistema de software.
+4. Os padrões de projeto são soluções específicas para desafios de design em nível de componente ou classe.
+5. Os padrões de arquitetura, como o MVC (Model-View-Controller), ajudam a separar as preocupações entre lógica de negócios, apresentação e gerenciamento de dados.
+6. A adoção de padrões arquiteturais e de projeto pode melhorar a qualidade, a reusabilidade e a manutenibilidade do software.
+7. A arquitetura em camadas é um padrão comum que separa as responsabilidades em diferentes camadas, como a camada de apresentação, lógica e dados.
+8. O padrão de arquitetura de microserviços divide uma aplicação em vários serviços independentes, facilitando o desenvolvimento, implantação e escalabilidade.
+9. O padrão de projeto Singleton define uma classe que permite a criação de apenas uma instância, garantindo acesso global a essa instância.
+10. Os padrões de software devem ser aplicados com cautela e considerando os requisitos e características específicas de cada projeto.
+
+8. Subtópico:
+8. Manutenção, Evolução e Reengenharia do software 
+Assertivas:
+1. A manutenção de software é uma atividade essencial para corrigir defeitos, melhorar desempenho e adicionar novas funcionalidades após a entrega do produto.
+2. A evolução de software está relacionada à adaptação do sistema às mudanças de requisitos do cliente ou do mercado ao longo do tempo.
+3. Reengenharia de software é a atividade de análise e modificação de um sistema legado para melhorar sua qualidade, desempenho e mantê-lo atualizado.
+4. A manutenção preventiva tem como objetivo evitar problemas futuros e garantir um bom funcionamento contínuo do software.
+5. A manutenção adaptativa consiste em realizar alterações no software para que ele possa funcionar em um novo ambiente operacional.
+6. A manutenção corretiva é necessária quando são identificados erros ou defeitos no software que precisam ser corrigidos para garantir o seu funcionamento adequado.
+7. A manutenção perfectiva visa melhorar a qualidade do software, simplificar seu código e otimizar seus recursos.
+8. A evolução do software é realizada através de atividades como análise de requisitos, projeto de software e implementação de novas funcionalidades.
+9. A reengenharia do software envolve a análise do código existente, a identificação de problemas e a aplicação de mudanças estruturais para melhorar a qualidade e a eficiência do sistema.
+10. A manutenção, evolução e reengenharia do software são atividades contínuas e fundamentais para garantir que um sistema se mantenha atualizado e atenda às necessidades dos usuários ao longo do tempo.
+
+9. Subtópico:
+9. Métricas e Estimativas em Projetos De Software 
+Assertivas:
+1. Métricas e estimativas são técnicas utilizadas para quantificar o tamanho, esforço e custo de projetos de software.
+2. As métricas permitem mensurar características do software, como tamanho, complexidade e qualidade.
+3. A estimativa de esforço em projetos de software considera fatores como a quantidade de funcionalidades, a experiência da equipe e o nível de complexidade dos requisitos.
+4. A utilização de métricas e estimativas auxilia na gestão de projetos, permitindo um planejamento mais eficiente.
+5. As estimativas devem considerar tanto o tempo necessário para desenvolver o software quanto o tempo para realizar testes e correções.
+6. Existem diferentes modelos de estimativas em projetos de software, como o modelo de Pontos de Função.
+7. As estimativas podem ser feitas a partir de técnicas como a Analogia, a Delphi e a Paramétrica.
+8. Métricas objetivas e confiáveis são essenciais para a tomada de decisão durante o desenvolvimento de projetos de software.
+9. Métricas de produtividade, como a quantidade de linhas de código produzidas por hora, podem auxiliar na avaliação do desempenho da equipe.
+10. A análise de métricas históricas pode ajudar a melhorar a precisão das estimativas em futuros projetos de software.
+
+10. Subtópico:
+10. Gestão da Configuração e Controle da Mudança no software
+Assertivas:
+1. A gestão da configuração no software envolve o controle das alterações, garantindo que todas sejam registradas e avaliadas antes de serem implementadas.
+
+2. A gestão da configuração é uma atividade essencial para o desenvolvimento de software, pois permite o controle e a rastreabilidade das mudanças realizadas ao longo do ciclo de vida do produto.
+
+3. O controle da mudança no software é um processo que visa garantir que todas as alterações sejam conduzidas de forma planejada, documentada e autorizada.
+
+4. A gestão da configuração no software envolve a identificação de itens de configuração, como código-fonte, documentação e dados, e o estabelecimento de controle sobre esses itens.
+
+5. O controle da mudança no software é realizado por meio de um processo formal, que inclui a análise de impacto, a avaliação dos riscos e a aprovação das alterações antes de serem implementadas.
+
+6. A gestão da configuração no software permite o registro e a manutenção de versões de itens de configuração, facilitando a rastreabilidade e a identificação de problemas.
+
+7. As mudanças no software devem seguir um fluxo controlado, com critérios definidos para avaliação e aprovação, garantindo a qualidade e a estabilidade do produto.
+
+8. A gestão da configuração no software é fundamental para o gerenciamento de mudanças, assegurando a integridade dos itens de configuração e a consistência entre as diferentes versões.
+
+9. O controle da mudança no software também inclui a necessidade de registros das decisões tomadas e das justificativas para a realização das alterações.
+
+10. A gestão da configuração e o controle da mudança no software são práticas fundamentais para garantir a qualidade, a estabilidade e a eficiência do processo de desenvolvimento.
+
+

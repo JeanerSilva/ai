@@ -1,0 +1,110 @@
+Pergunta Original: SEGURANÇA DA INFORMAÇÃO    
+ 
+1. Subtópico:
+1. Conceitos básicos de Segurança da Informação: confidencialidade, integridade e disponibilidade.
+Assertivas:
+1. A confidencialidade é um dos princípios da Segurança da Informação, que busca garantir que apenas pessoas autorizadas tenham acesso a informações sensíveis.
+2. A integridade refere-se à garantia de que as informações não foram alteradas ou corrompidas de forma não autorizada.
+3. A disponibilidade é a propriedade que busca garantir que as informações e sistemas estejam disponíveis quando necessários, evitando interrupções e indisponibilidades indevidas.
+4. A confidencialidade é alcançada por meio de controles de acesso, criptografia e políticas de segurança robustas.
+5. A integridade é assegurada por meio de mecanismos de detecção de alterações, assinaturas digitais e processos de backup eficientes.
+6. A disponibilidade é garantida por meio de redundância de sistemas, planos de contingência e medidas de proteção contra falhas e desastres.
+7. Os três conceitos - confidencialidade, integridade e disponibilidade - formam o chamado tripé da Segurança da Informação.
+8. A Segurança da Informação é fundamental para proteger dados, sistemas e infraestruturas contra ameaças e riscos crescentes.
+9. O não cumprimento dos princípios de Segurança da Informação pode resultar em perdas financeiras, danos à reputação e violações de privacidade.
+10. As organizações devem implementar políticas e procedimentos de Segurança da Informação para garantir a proteção adequada das informações e mitigar riscos potenciais.
+
+2. Subtópico:
+2. Políticas de Segurança da Informação e Gestão de Riscos.
+Assertivas:
+1. A Política de Segurança da Informação visa estabelecer diretrizes e boas práticas para proteger os ativos de informação de uma organização.
+2. A Gestão de Riscos é um processo contínuo que identifica, analisa e trata os riscos relacionados à segurança da informação.
+3. A Política de Segurança da Informação deve ser aprovada pela alta direção da organização e divulgada para todos os colaboradores.
+4. A classificação da informação é um dos aspectos abordados nas Políticas de Segurança da Informação e Gestão de Riscos.
+5. A identificação de ameaças e vulnerabilidades é uma etapa importante da Gestão de Riscos em Segurança da Informação.
+6. A Política de Segurança da Informação deve ser revisada periodicamente para adequá-la às mudanças tecnológicas e ao cenário de ameaças.
+7. A Gestão de Riscos em Segurança da Informação auxilia na tomada de decisões e na alocação de recursos para proteger as informações organizacionais.
+8. É recomendado que as organizações adotem medidas preventivas e corretivas para reduzir os riscos de segurança da informação identificados.
+9. Os colaboradores devem receber treinamentos periódicos sobre Segurança da Informação, de acordo com as políticas estabelecidas pela organização.
+10. Auditorias e testes de segurança são práticas comumente utilizadas para verificar a efetividade das Políticas de Segurança da Informação e Gestão de Riscos.
+
+3. Subtópico:
+3. Criptografia: conceitos, tipos e aplicações.
+Assertivas:
+1. A criptografia é uma técnica utilizada para garantir a segurança e confidencialidade de informações ao transformá-las em um formato ilegível para terceiros não autorizados.
+2. A chave de criptografia é um elemento fundamental no processo de criptografia e deve ser mantida em sigilo para garantir a segurança dos dados.
+3. A criptografia simétrica utiliza uma única chave para realizar tanto o processo de cifragem quanto o de decifragem dos dados.
+4. A criptografia assimétrica, também conhecida como criptografia de chave pública, utiliza um par de chaves complementares (chave pública e chave privada) para realizar o processo de cifragem e decifragem de dados.
+5. O algoritmo RSA é um exemplo de algoritmo de criptografia assimétrica amplamente utilizado para garantir a segurança de transações online, como a realização de pagamentos eletrônicos.
+6. O algoritmo DES (Data Encryption Standard) é um exemplo de algoritmo de criptografia simétrica amplamente utilizado até a década de 2000.
+7. A criptografia de ponta a ponta é um tipo de criptografia que garante que somente o remetente e o destinatário das mensagens possam acessá-las, impedindo que terceiros, como provedores de serviço de mensagens, possam visualizar o conteúdo.
+8. A criptografia homomórfica é uma técnica avançada que permite realizar cálculos matemáticos em dados criptografados, sem precisar descriptografá-los primeiro.
+9. O protocolo HTTPS utiliza criptografia para garantir a segurança das conexões realizadas entre um navegador e um servidor web.
+10. A criptografia desempenha um papel fundamental na proteção de dados confidenciais, como informações bancárias, senhas e comunicações sensíveis.
+
+4. Subtópico:
+4. Controle de Acesso: autenticação, autorização e auditoria.
+Assertivas:
+1. A autenticação é o processo de verificação da identidade de um indivíduo para conceder acesso a um sistema ou recurso.
+2. A autorização é o processo de determinar quais permissões ou privilégios um indivíduo autenticado tem para acessar determinados recursos ou realizar determinadas ações.
+3. A auditoria é o registro e análise das atividades de acesso de usuários a um sistema ou recurso, com o objetivo de monitorar e detectar possíveis violações de segurança.
+4. A autenticação pode ser realizada por meio de múltiplos fatores, como senhas, tokens, biometria, entre outros.
+5. A autorização baseia-se em políticas de segurança que especificam as permissões e privilégios atribuídos a diferentes usuários ou grupos de usuários.
+6. A auditoria pode ser realizada de forma automática pelo sistema, registrando todas as ações dos usuários, ou pode ser feita manualmente, por meio da revisão de logs e registros de acesso.
+7. A autenticação proporciona um nível básico de segurança ao sistema, evitando o acesso não autorizado por pessoas não autenticadas.
+8. A autorização define os limites de acesso para cada usuário autenticado, garantindo que apenas as ações permitidas sejam realizadas.
+9. A auditoria é uma prática essencial para detectar possíveis problemas de segurança e identificar atividades suspeitas ou maliciosas.
+10. O controle de acesso, composto por autenticação, autorização e auditoria, é fundamental para garantir a segurança da informação e proteger os recursos de um sistema.
+
+5. Subtópico:
+5. Segurança em Redes: firewalls, IDS/IPS e VPNs.
+Assertivas:
+1. Os firewalls são dispositivos de segurança utilizados para monitorar e controlar o tráfego de rede, protegendo a rede interna contra acessos não autorizados.
+2. Os IDS (Sistemas de Detecção de Intrusão) são ferramentas responsáveis por monitorar a rede em busca de atividades suspeitas ou ataques em tempo real.
+3. Os IPS (Sistemas de Prevenção de Intrusão) são dispositivos que atuam após a detecção de um ataque, bloqueando a atividade maliciosa e protegendo a rede contra a ação.
+4. VPNs (Redes Virtuais Privadas) são utilizadas para criar uma conexão segura entre redes ou dispositivos remotos através de uma rede pública, garantindo a confidencialidade dos dados transmitidos.
+5. As VPNs utilizam protocolos de segurança, como o IPsec (Protocolo de Segurança da Internet) e o SSL (Secure Socket Layer), para criptografar o tráfego de dados e proteger a conexão contra interceptação.
+
+6. Subtópico:
+6. Ataques cibernéticos: phishing, ransomware, DDoS etc.
+Assertivas:
+1. O phishing consiste na tentativa de obtenção de informações pessoais e/ou financeiras por meio de técnicas de engenharia social aplicadas em e-mails, sites e mensagens falsas.
+2. Ransomware é um tipo de malware que tem como objetivo bloquear o acesso a arquivos e sistemas, exigindo o pagamento de um resgate para liberá-los.
+3. DDoS (Distributed Denial of Service) é um tipo de ataque cibernético que visa sobrecarregar uma rede ou servidor com um grande volume de tráfego, impedindo o acesso legítimo.
+4. No hacking ético, especialistas utilizam suas habilidades para identificar e corrigir vulnerabilidades em sistemas de informação, com o objetivo de melhorar a segurança das organizações.
+5. Engenharia social é uma técnica utilizada por hackers para enganar e manipular pessoas, com o intuito de obter informações sensíveis ou acesso a sistemas.
+6. Malware é um software malicioso que pode ser utilizado para roubar informações, danificar sistemas ou controlar computadores remotamente.
+7. Uma política eficaz de segurança da informação é essencial para prevenir e mitigar ataques cibernéticos em uma organização.
+8. A atualização regular de sistemas operacionais, softwares e aplicativos é uma medida importante para evitar vulnerabilidades que podem ser exploradas por agentes maliciosos.
+9. A utilização de tokens de segurança e autenticação de dois fatores pode aumentar a proteção contra ataques de phishing e roubo de senhas.
+10. A realização de backups periódicos de arquivos e sistemas é recomendada para mitigar os impactos de ataques cibernéticos, como ransomware.
+
+7. Subtópico:
+7. Normas ISO 27001 e ISO 27002 sobre segurança da informação.
+Assertivas:
+1. A ISO 27001 é uma norma internacional que estabelece requisitos para implementação e operação de um Sistema de Gestão da Segurança da Informação (SGSI).
+2. A ISO 27002 é uma norma que fornece diretrizes detalhadas para implementação dos controles de segurança da informação estabelecidos na ISO 27001.
+3. Ambas as normas, ISO 27001 e ISO 27002, têm como objetivo principal promover a proteção efetiva das informações e ativos organizacionais.
+4. A conformidade com a ISO 27001 demonstra que uma organização possui um SGSI adequado, capaz de lidar com riscos relacionados à segurança da informação.
+5. A ISO 27002 auxilia na implementação prática dos controles de segurança, fornecendo orientações específicas adequadas às necessidades organizacionais.
+6. A implementação das normas ISO 27001 e ISO 27002 contribui para a redução de riscos, prevenção de incidentes e proteção das informações contra ameaças internas e externas.
+7. As diretrizes estabelecidas pela ISO 27002 abrangem áreas como segurança física e ambiental, gestão de acesso, criptografia, segurança de rede, gestão de incidentes, entre outras.
+8. A ISO 27001 permite que as organizações realizem avaliação de riscos, implementem melhorias contínuas, mantenham a conformidade com as leis e regulamentos aplicáveis e demonstrem compromisso com a segurança da informação.
+9. A implementação das normas ISO 27001 e ISO 27002 pode ser aplicada a organizações de qualquer porte, setor ou segmento de negócio.
+10. A obtenção de certificações ISO 27001 e ISO 27002 pode conferir vantagens competitivas às organizações, demonstrando seu comprometimento com a segurança da informação e transmitindo confiança aos clientes e parceiros.
+
+8. Subtópico:
+8. Planos de Continuidade de Negócios (PC
+Assertivas:
+1. Os Planos de Continuidade de Negócios (PCN) são documentos estratégicos que visam garantir a continuidade das atividades organizacionais em situações de crise ou desastres.
+2. O objetivo dos PCN é minimizar os impactos negativos de eventos disruptivos, como catástrofes naturais, falhas tecnológicas, entre outros, nas operações de uma organização.
+3. Os PCN devem contemplar a identificação dos riscos potenciais, a análise das vulnerabilidades, a definição de estratégias de resposta e a recuperação após a ocorrência do evento.
+4. Os PCN devem ser adaptados à realidade de cada organização, considerando suas particularidades, como a infraestrutura física, tecnológica e humana disponível.
+5. Os PCN devem ser atualizados periodicamente, levando em conta as mudanças no ambiente de negócios, nas tecnologias utilizadas e nas ameaças identificadas.
+6. A elaboração dos PCN deve envolver diversos setores da organização, como TI, recursos humanos, jurídico, financeiro, entre outros, para garantir uma visão ampla dos riscos e soluções.
+7. Os PCN devem incluir a definição de procedimentos de emergência, a designação de responsabilidades e a realização de treinamentos regulares para preparar os funcionários para lidar com eventos adversos.
+8. A implementação efetiva dos PCN pode reduzir os prejuízos financeiros e de imagem da organização, preservando sua reputação junto aos clientes, fornecedores e stakeholders.
+9. Os PCN devem ser testados regularmente por meio de simulações e exercícios práticos para verificar sua efetividade e realizar ajustes necessários.
+10. Os PCN são considerados parte integrante da gestão de riscos e estão alinhados com os princípios de governança corporativa e conformidade.
+
+
