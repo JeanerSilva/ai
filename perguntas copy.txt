@@ -5,300 +5,300 @@
 2.2 pode disciplinar  
 2.3 poer regulamentar  
 2.4 poder de polícia 
-2.5 poder normativo.  
-2.6 Uso e abuso do poder.  
-3 Organização administrativa brasileira.  
-3.1 conceito de serviços 
-3.2 princípios do serviço público  
-3.2 Autarquias 
-3.3 agências reguladoras
-3.4 agências executivas 
-3.5 fundações públicas
-3.6 empresas públicas 
-3.7 sociedades de economia mista.  
-4 Ato administrativo.  
-4.1.1 Conceito de atos administrativos  
-4.1.2 requisitos do ato administrativo 
-4.1.3 atributos dos atos administrativos
-4.2 Comunicação dos atos administrativos.  
-4.3 Anulação dos atos administrativos 
-4.3.1 revogação dos atos administrativos
-4.3.2 convalidação dos atos administrativos  
-4.4 Discricionariedade e vinculação.  
-5 Servidores públicos- cargo  emprego e função públicos.  
-5.1.1 Disposições preliminares da lei 8.112-1990.  
-5.1.2 Provimento  vacância  remoção  redistribuição e substituição na lei 8.112-1990.  
-5.1.3 Direitos e vantagens da lei 8.112-1990.  
-5.1.4 Regime disciplinar da lei 8.112-1990.  
-5.1.5 Seguridade social do servidor- aposentadoria e pensão civil.  
-5.1.6 Processo administrativo disciplinar.  
-6. Improbidade administrativa.  
-7. Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal -Decreto nº 1.171-1994-.  
-8. Código de Conduta da Alta Administração Federal.  
-9. Lei de conflito de interesses -Lei nº 11.813-2013-.  
-10. Lei de Acesso à Informação -Lei nº 12.527-2011-.  
-11. Lei nº 13.709-2018 -Lei Geral de Proteção de Dados Pessoais-. 
-1. MACROECONOMIA
-2. Contas nacionais. 
-3. Agregados monetários.  
-4. Multiplicador monetário
-4.1 criação de moeda
-4.2 destruição de moeda.  
-5. Contas do sistema monetário.  
-6. Balanço de pagamentos.  
-1. MICROECONOMIA
-2 Estrutura de mercado.  
-2.1 Formas de organização da atividade econômica  
-2.2 o papel dos preços  custo
-2.3 de oportunidade 
-2.4 fronteiras das possibilidades de produção.  
-3 Oferta e demanda.  
-3.1 Curvas de indiferença.  
-3.2 Restrição orçamentária.  
-3.3 Equilíbrio do consumidor.  
-3.4 Efeitos preço  renda e substituição.  
-3.5 Curva de demanda.  
-3.6 Elasticidade da demanda. 
-Tecnologia da informação
-1 Aprendizado de Máquina.  
-2 Deep learning.  
-3 Processamento de linguagem natural. 
-4 Big data.  
-5 Qualidade de Dados.  
-6 Tipos de Aprendizado- 
-6.1 Aprendizado Supervisionado  
-6.2 Aprendizado Não Supervisionado 
-6.3 Aprendizado Semi Supervisionado 
-6.4 Aprendizado Por Reforço 
-6.5 Aprendizado Por Transferência.  
-7 Grandes Modelos de Linguagem -LLM-  
-7.1 IA Generativa.  
-8 Redes Neurais.  
-9 MLOps- 
-9.1 MLOps- Gestão de código
-9.2 MLOps- treinamento
-9.3 MLOps- implantação
-9.4 MLOps- monitoramento e versionamento de modelos
-9.5 MLOps- automação do ciclo de produção.  
-10 Governança e Ética na IA- 
-10.1 Governança e Ética na IA- Transparência
-10.1 Governança e Ética na IA-  Responsabilidade
-10.1 Governança e Ética na IA-  Explicabilidade
-10.1 Governança e Ética na IA-  Privacidade
-10.1 Governança e Ética na IA-  Segurança
-10.1 Governança e Ética na IA-  Viés. 
-SEGURANÇA DA INFORMAÇÃO  
-1 Gestão de Identidades e Acesso- 
-1.1 Autenticação e Autorização  
-1.2 Single Sign-On -SSO-  
-1.3 Security Assertion Markup Language -SAML-  
-1.4 OAuth2 e 
-1.5 OpenId Connect.  
-2 Privacidade e segurança por padrão.  
-3 Principais tipos de ataques e vulnerabilidades.  
-4 Controles e testes de segurança para aplicações Web e Web Services.  
-5 Múltiplos Fatores de Autenticação -MFA-.  
-6 Soluções para Segurança da Informação- 
-6.1 Firewall
-6.2 Intrusion Detection System -IDS-
-6.3 Intrusion Prevention System -IPS-
-6.4 Security Information and Event Management -SIEM-
-6.5 Proxy
-6.6 Identity Access Management -IAM-
-6.7 Privileged Access Management -PAM-
-6.8 Antivírus
-6.9 Antispam.  
-7 Frameworks de segurança da informação e segurança cibernética
-7.1 MITRE ATT&CK
-7.2 CIS Controls
-7.3 NIST CyberSecurity Framework -NIST CSF-.  
-8 Tratamento de Incidentes Cibernéticos.  
-9 Assinatura e certificação digital
-9.1 criptografia 
-9.2 proteção de dados em trânsito
-9.3 proteção de dados em repouso.  
-10 Segurança em nuvens
-10.1 segurança de contêineres. 
-ENGENHARIA DE SOFTWARE
-1 Arquitetura de sistemas web- 
-1.1 Arquitetura de sistemas web- protocolo HTTP
-1.2 Arquitetura de sistemas web- HTTP-2
-1.3 Arquitetura de sistemas web- gRPC
-1.4 Arquitetura de sistemas web- WebSockets
-1.5 Arquitetura de sistemas web- TLS
-1.6 Arquitetura de sistemas web- servidores proxy
-1.7 Arquitetura de sistemas web- cache
-1.8 Arquitetura de sistemas web- DNS
-1.9 Arquitetura de sistemas web- balanceamento de carga
-1.10 Arquitetura de sistemas web- tolerância a falhas e escalabilidade em sistemas web.  
-2 Princípios e práticas de DevOps
-2.1 Princípios e práticas de DevSecOps
-2.3 Princípios e práticas de integração e entrega contínuas -CI-CD-.  
-3 Técnicas de desenvolvimento seguro.  
-4 Testes de software- 
-4.1 Testes unitários
-4.2 Testes de Integração
-4.3 TDD
-4.4 BDD. 
-5 Arquiteturas em camadas
-5.1 baseada em serviços
-5.2 microsserviços -orquestração de serviços e API gateway-
-5.3 orientação a eventos  
-5.4 modelo cliente-servidor
-5.4 modelo serverless.  
-6 Práticas de UX
-6.1 Práticas UI design.  
-7. Programação assíncrona.  
-8. RESTful 
-8.1 GraphQL.  
-9 Web services.  
-10 Padrão GoF
-10.1 Padrão GRASP.  
-11 Git.  
-11.1 Git funcionamento
-11.2 Git principais comandos
-11.3 Git comandos de configuração
-11.4 Git comandos de versionamento
-12 Python- 
-12.1 Python- ecossistema
-12.2 Python- hello world
-12.3 Python- variáveis
-12.4 Python- sintaxe básica 
-12.5 Python- palavras reservadas
-12.6 Python- tipos de dados
-12.7 Python- operações com strings
-12.8 Python- classes
-12.9 Python- orientação a objeto
-12.10 Python- herança
-12.11 Python- polimorfismo
-12.12 Python- tipos de estruturas de dados
-12.13 Python- orientação a objetos
-12.14 Python- gestão de memória
-12.15 Python- tratamento de exceções
-12.16 Python- entrada e saída de dados
-12.17 Python- bibliotecas e Frameworks
-12.18 Python- operações com estruturas de dados
-12.19 Python- Framework web
-12.20 Python- testes
-12.21 Python- bibliotecas de testes
-12.22 Python- exemplos de testes
-12.23 Python- aspectos especíicos da linguagem
-12.24 Python- padrões de projetos
-12.25 Python- integração com bancos de dados
-12.26 Python- comparativo com java quanto à compilação
-12.27 Python- comparativo com java quanto à execução
-12.28 Python- comparativo com java quanto à sintaxe
-13. Java.  
-12.1 Java- ecossistema
-12.2 Java- hello world
-12.3 Java- variáveis
-12.4 Java- sintaxe básica 
-12.5 Java- palavras reservadas
-12.6 Java- tipos de dados
-12.7 Java- operações com strings
-12.8 Java- classes
-12.9 Java- orientação a objeto
-12.10 Java- herança
-12.11 Java- polimorfismo
-12.12 Java- tipos de estruturas de dados
-12.13 Java- orientação a objetos
-12.14 Java- gestão de memória
-12.15 Java- tratamento de exceções
-12.16 Java- entrada e saída de dados
-12.17 Java- bibliotecas e Frameworks
-12.18 Java- operações com estruturas de dados
-12.19 Java- Framework web
-12.20 Java- testes
-12.21 Java- bibliotecas de testes
-12.22 Java- exemplos de testes
-12.23 Java- aspectos especíicos da linguagem
-12.24 Java- padrões de projetos
-12.25 Java- integração com bancos de dados
-12.26 Java- comparativo com python quanto à compilação
-12.27 Java- comparativo com python quanto à execução
-12.28 Java- comparativo com python quanto à sintaxe
-14 Transações distribuídas.  
-15 Distributed Ledger Technology -DLT-. 
-0 INFRAESTRUTURA EM TI-  
-1 Conceitos de infraestrutura como código 
-1.1 automação de infraestrutura de TI.  
-2 Docker
-2.1 Kubernetes-
-2.3 boas práticas para infraestrutura e
-2.4 orquestração de containers.  
-3 Serviços de Rede Microsoft Windows Server-
-3.1 DNS 
-3.2 DHCP  
-3.4 Radius  
-3.5 Autenticação  
-3.6 Certificados  
-3.7 Active Directory -AD-.  
-4 Monitoração  observabilidade
-4.1 análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging 
-4.2 como o Nagios  
-4.3 Prometheus  
-4.4 Grafana  
-4.5 Elasticsearch  
-4.6 Kibana  
-4.7 Application Performance Monitoring -APM-
-4.8 outras ferramentas de análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging
-5 Protocolos da camada de aplicação
-5.1 Simple Mail Transfer Protocol -SMTP-  
-5.2 Hypertext Transfer Protocol -HTTP-  
-5.3 Hypertext Transfer Protocol -HTTPS-  
-5.4 SSL-TLS 
-5.5 Lightweight Directory Access Protocol -LDAP-  
-5.6 Network File System -NFS-  
-5.7 Server Message Block -SMB-.  
-6 Tolerância a falhas e continuidade de operação.  
-7 Implantação e administração de serviços de nuvem
-7.1 IaaS 
-7.2 PaaS 
-7.3 SaaS.  
-8 Administração e gerenciamento de ambientes de virtualização.  
-9 Administração e operação do Microsoft Windows Server
-9.1 Administração e operação do Linux.  
-10 Conceitos de redes 
-10.1 LAN  
-10.2 WAN
-10.3 SDN.  
-11 Conceitos e ferramentas de orquestração e automação de infraestrutura- 
-11.1 ferramentas de orquestração e automação de infraestrutura- Puppet  
-11.2 ferramentas de orquestração e automação de infraestrutura- Ansible. 
-0. BANCOS DE DADOS- 
-1. sistemas de bancos de dados
-1.1 sistemas de gerenciamento de banco de dados SGBDs 
-1.2 SQL
-1.3 NOSQL.  
-2. Modelagens de dados
-2.1 Modelagens de dados- relacional
-2.2 Modelagens de dados- multidimensional
-2.3 Modelagens de dados- nosql. 
-3. SQL Procedural Language 
-3.1 SQL Structured Query Language  
-4. Arquitetura de Inteligência de Negócio- 
-4.1 DataWarehouse  
-4.2 DataMart  
-4.3 DataLake  
-4.4 DataMesh. 
-Modelos de desenvolvimento de software 
-1 Kanban.  
-1.1 Kanban funcionamento
-1.2 Kanban premissas
-1.3 Kanban pessoas envolvidas -papéis-
-1.4 Kanbanfluxo processual
-2 Scrum.  
-1.1 Scrum funcionamento
-1.2 Scrum premissas
-1.3 Scrum pessoas envolvidas -papéis-
-1.4 Scrum fluxo processual
-3 Governança de Dados.  
-3 Governança de Dados IA.  
-3 Governança de Dados modelos.  
-3 Governança de Dados sistemas.  
-3 Governança de Dados Framework.  
-3 Governança de Dados ISO.  
-4 ITIL v4 iso.
-4 ITIL v4 classificações.
-4 ITIL v4 processos.
-4 ITIL v4 questões importantes.
+2.5 poder normativo.    
+2.6 Uso e abuso do poder.    
+3 Organização administrativa brasileira.    
+3.1 conceito de serviços    
+3.2 princípios do serviço público    
+3.2 Autarquias    
+3.3 agências reguladoras    
+3.4 agências executivas    
+3.5 fundações públicas    
+3.6 empresas públicas    
+3.7 sociedades de economia mista.    
+4 Ato administrativo.    
+4.1.1 Conceito de atos administrativos    
+4.1.2 requisitos do ato administrativo    
+4.1.3 atributos dos atos administrativos   
+4.2 Comunicação dos atos administrativos.    
+4.3 Anulação dos atos administrativos    
+4.3.1 revogação dos atos administrativos   
+4.3.2 convalidação dos atos administrativos    
+4.4 Discricionariedade e vinculação.    
+5 Servidores públicos- cargo emprego e função públicos.    
+5.1.1 Disposições preliminares da lei 8.112-1990.    
+5.1.2 Provimento vacância remoção redistribuição e substituição na lei 8.112-1990.    
+5.1.3 Direitos e vantagens da lei 8.112-1990.    
+5.1.4 Regime disciplinar da lei 8.112-1990.    
+5.1.5 Seguridade social do servidor- aposentadoria e pensão civil.    
+5.1.6 Processo administrativo disciplinar.    
+6. Improbidade administrativa.    
+7. Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal -Decreto nº 1.171-1994-.    
+8. Código de Conduta da Alta Administração Federal.    
+9. Lei de conflito de interesses -Lei nº 11.813-2013-.    
+10. Lei de Acesso à Informação -Lei nº 12.527-2011-.    
+11. Lei nº 13.709-2018 -Lei Geral de Proteção de Dados Pessoais-.    
+1. MACROECONOMIA   
+2. Contas nacionais.    
+3. Agregados monetários.    
+4. Multiplicador monetário   
+4.1 criação de moeda   
+4.2 destruição de moeda.    
+5. Contas do sistema monetário.    
+6. Balanço de pagamentos.    
+1. MICROECONOMIA   
+2 Estrutura de mercado.    
+2.1 Formas de organização da atividade econômica    
+2.2 o papel dos preços custo   
+2.3 de oportunidade    
+2.4 fronteiras das possibilidades de produção.    
+3 Oferta e demanda.    
+3.1 Curvas de indiferença.    
+3.2 Restrição orçamentária.    
+3.3 Equilíbrio do consumidor.    
+3.4 Efeitos preço renda e substituição.    
+3.5 Curva de demanda.    
+3.6 Elasticidade da demanda.    
+Tecnologia da informação   
+1 Aprendizado de Máquina.    
+2 Deep learning.    
+3 Processamento de linguagem natural.    
+4 Big data.    
+5 Qualidade de Dados.    
+6 Tipos de Aprendizado-    
+6.1 Aprendizado Supervisionado    
+6.2 Aprendizado Não Supervisionado    
+6.3 Aprendizado Semi Supervisionado    
+6.4 Aprendizado Por Reforço    
+6.5 Aprendizado Por Transferência.    
+7 Grandes Modelos de Linguagem -LLM-    
+7.1 IA Generativa.    
+8 Redes Neurais.    
+9 MLOps-    
+9.1 MLOps- Gestão de código   
+9.2 MLOps- treinamento   
+9.3 MLOps- implantação   
+9.4 MLOps- monitoramento e versionamento de modelos   
+9.5 MLOps- automação do ciclo de produção.    
+10 Governança e Ética na IA-    
+10.1 Governança e Ética na IA- Transparência   
+10.1 Governança e Ética na IA- Responsabilidade   
+10.1 Governança e Ética na IA- Explicabilidade   
+10.1 Governança e Ética na IA- Privacidade   
+10.1 Governança e Ética na IA- Segurança   
+10.1 Governança e Ética na IA- Viés.    
+SEGURANÇA DA INFORMAÇÃO    
+1 Gestão de Identidades e Acesso-    
+1.1 Autenticação e Autorização    
+1.2 Single Sign-On -SSO-    
+1.3 Security Assertion Markup Language -SAML-    
+1.4 OAuth2 e    
+1.5 OpenId Connect.    
+2 Privacidade e segurança por padrão.    
+3 Principais tipos de ataques e vulnerabilidades.    
+4 Controles e testes de segurança para aplicações Web e Web Services.    
+5 Múltiplos Fatores de Autenticação -MFA-.    
+6 Soluções para Segurança da Informação-    
+6.1 Firewall   
+6.2 Intrusion Detection System -IDS-   
+6.3 Intrusion Prevention System -IPS-   
+6.4 Security Information and Event Management -SIEM-   
+6.5 Proxy   
+6.6 Identity Access Management -IAM-   
+6.7 Privileged Access Management -PAM-   
+6.8 Antivírus   
+6.9 Antispam.    
+7 Frameworks de segurança da informação e segurança cibernética   
+7.1 MITRE ATT&CK   
+7.2 CIS Controls   
+7.3 NIST CyberSecurity Framework -NIST CSF-.    
+8 Tratamento de Incidentes Cibernéticos.    
+9 Assinatura e certificação digital   
+9.1 criptografia    
+9.2 proteção de dados em trânsito   
+9.3 proteção de dados em repouso.    
+10 Segurança em nuvens   
+10.1 segurança de contêineres.    
+ENGENHARIA DE SOFTWARE   
+1 Arquitetura de sistemas web-    
+1.1 Arquitetura de sistemas web- protocolo HTTP   
+1.2 Arquitetura de sistemas web- HTTP-2   
+1.3 Arquitetura de sistemas web- gRPC   
+1.4 Arquitetura de sistemas web- WebSockets   
+1.5 Arquitetura de sistemas web- TLS   
+1.6 Arquitetura de sistemas web- servidores proxy   
+1.7 Arquitetura de sistemas web- cache   
+1.8 Arquitetura de sistemas web- DNS   
+1.9 Arquitetura de sistemas web- balanceamento de carga   
+1.10 Arquitetura de sistemas web- tolerância a falhas e escalabilidade em sistemas web.    
+2 Princípios e práticas de DevOps   
+2.1 Princípios e práticas de DevSecOps   
+2.3 Princípios e práticas de integração e entrega contínuas -CI-CD-.    
+3 Técnicas de desenvolvimento seguro.    
+4 Testes de software-    
+4.1 Testes unitários   
+4.2 Testes de Integração   
+4.3 TDD   
+4.4 BDD.    
+5 Arquiteturas em camadas   
+5.1 baseada em serviços   
+5.2 microsserviços -orquestração de serviços e API gateway-   
+5.3 orientação a eventos    
+5.4 modelo cliente-servidor   
+5.4 modelo serverless.    
+6 Práticas de UX   
+6.1 Práticas UI design.    
+7. Programação assíncrona.    
+8. RESTful    
+8.1 GraphQL.    
+9 Web services.    
+10 Padrão GoF   
+10.1 Padrão GRASP.    
+11 Git.    
+11.1 Git funcionamento   
+11.2 Git principais comandos   
+11.3 Git comandos de configuração   
+11.4 Git comandos de versionamento   
+12 Python-    
+12.1 Python- ecossistema   
+12.2 Python- hello world   
+12.3 Python- variáveis   
+12.4 Python- sintaxe básica    
+12.5 Python- palavras reservadas   
+12.6 Python- tipos de dados   
+12.7 Python- operações com strings   
+12.8 Python- classes   
+12.9 Python- orientação a objeto   
+12.10 Python- herança   
+12.11 Python- polimorfismo   
+12.12 Python- tipos de estruturas de dados   
+12.13 Python- orientação a objetos   
+12.14 Python- gestão de memória   
+12.15 Python- tratamento de exceções   
+12.16 Python- entrada e saída de dados   
+12.17 Python- bibliotecas e Frameworks   
+12.18 Python- operações com estruturas de dados   
+12.19 Python- Framework web   
+12.20 Python- testes   
+12.21 Python- bibliotecas de testes   
+12.22 Python- exemplos de testes   
+12.23 Python- aspectos especíicos da linguagem   
+12.24 Python- padrões de projetos   
+12.25 Python- integração com bancos de dados   
+12.26 Python- comparativo com java quanto à compilação   
+12.27 Python- comparativo com java quanto à execução   
+12.28 Python- comparativo com java quanto à sintaxe   
+13. Java.    
+12.1 Java- ecossistema   
+12.2 Java- hello world   
+12.3 Java- variáveis   
+12.4 Java- sintaxe básica    
+12.5 Java- palavras reservadas   
+12.6 Java- tipos de dados   
+12.7 Java- operações com strings   
+12.8 Java- classes   
+12.9 Java- orientação a objeto   
+12.10 Java- herança   
+12.11 Java- polimorfismo   
+12.12 Java- tipos de estruturas de dados   
+12.13 Java- orientação a objetos   
+12.14 Java- gestão de memória   
+12.15 Java- tratamento de exceções   
+12.16 Java- entrada e saída de dados   
+12.17 Java- bibliotecas e Frameworks   
+12.18 Java- operações com estruturas de dados   
+12.19 Java- Framework web   
+12.20 Java- testes   
+12.21 Java- bibliotecas de testes   
+12.22 Java- exemplos de testes   
+12.23 Java- aspectos especíicos da linguagem   
+12.24 Java- padrões de projetos   
+12.25 Java- integração com bancos de dados   
+12.26 Java- comparativo com python quanto à compilação   
+12.27 Java- comparativo com python quanto à execução   
+12.28 Java- comparativo com python quanto à sintaxe   
+14 Transações distribuídas.    
+15 Distributed Ledger Technology -DLT-.    
+0 INFRAESTRUTURA EM TI-    
+1 Conceitos de infraestrutura como código    
+1.1 automação de infraestrutura de TI.    
+2 Docker   
+2.1 Kubernetes-   
+2.3 boas práticas para infraestrutura e   
+2.4 orquestração de containers.    
+3 Serviços de Rede Microsoft Windows Server-   
+3.1 DNS    
+3.2 DHCP    
+3.4 Radius    
+3.5 Autenticação    
+3.6 Certificados    
+3.7 Active Directory -AD-.    
+4 Monitoração observabilidade   
+4.1 análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging    
+4.2 como o Nagios    
+4.3 Prometheus    
+4.4 Grafana    
+4.5 Elasticsearch    
+4.6 Kibana    
+4.7 Application Performance Monitoring -APM-   
+4.8 outras ferramentas de análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging   
+5 Protocolos da camada de aplicação   
+5.1 Simple Mail Transfer Protocol -SMTP-    
+5.2 Hypertext Transfer Protocol -HTTP-    
+5.3 Hypertext Transfer Protocol -HTTPS-    
+5.4 SSL-TLS    
+5.5 Lightweight Directory Access Protocol -LDAP-    
+5.6 Network File System -NFS-    
+5.7 Server Message Block -SMB-.    
+6 Tolerância a falhas e continuidade de operação.    
+7 Implantação e administração de serviços de nuvem   
+7.1 IaaS    
+7.2 PaaS    
+7.3 SaaS.    
+8 Administração e gerenciamento de ambientes de virtualização.    
+9 Administração e operação do Microsoft Windows Server   
+9.1 Administração e operação do Linux.    
+10 Conceitos de redes    
+10.1 LAN    
+10.2 WAN   
+10.3 SDN.    
+11 Conceitos e ferramentas de orquestração e automação de infraestrutura-    
+11.1 ferramentas de orquestração e automação de infraestrutura- Puppet    
+11.2 ferramentas de orquestração e automação de infraestrutura- Ansible.    
+0. BANCOS DE DADOS-    
+1. sistemas de bancos de dados   
+1.1 sistemas de gerenciamento de banco de dados SGBDs    
+1.2 SQL   
+1.3 NOSQL.    
+2. Modelagens de dados   
+2.1 Modelagens de dados- relacional   
+2.2 Modelagens de dados- multidimensional   
+2.3 Modelagens de dados- nosql.    
+3. SQL Procedural Language    
+3.1 SQL Structured Query Language    
+4. Arquitetura de Inteligência de Negócio-    
+4.1 DataWarehouse    
+4.2 DataMart    
+4.3 DataLake    
+4.4 DataMesh.    
+Modelos de desenvolvimento de software    
+1 Kanban.    
+1.1 Kanban funcionamento   
+1.2 Kanban premissas   
+1.3 Kanban pessoas envolvidas -papéis-   
+1.4 Kanbanfluxo processual   
+2 Scrum.    
+1.1 Scrum funcionamento   
+1.2 Scrum premissas   
+1.3 Scrum pessoas envolvidas -papéis-   
+1.4 Scrum fluxo processual   
+3 Governança de Dados.    
+3 Governança de Dados IA.    
+3 Governança de Dados modelos.    
+3 Governança de Dados sistemas.    
+3 Governança de Dados Framework.    
+3 Governança de Dados ISO.    
+4 ITIL v4 iso.   
+4 ITIL v4 classificações.   
+4 ITIL v4 processos.   
+4 ITIL v4 questões importantes.  

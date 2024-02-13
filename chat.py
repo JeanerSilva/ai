@@ -8,8 +8,8 @@ from helpers import *
 
 def obter_resposta_subtopicos(subtópico):
     messages_resposta = [
-        {"role": "system", "content": "Você trabalha no CESPE/CEBRASPE e faz perguntas para concursos públicos."},
-        {"role": "user", "content": f"Crie 10 afirmativas diretas e verdadeiras sobre: {subtópico}"}
+        {"role": "system", "content": "Você trabalha no CESPE/CEBRASPE e faz perguntas para concursos públicos. As perguntas são inteligentes sem obviedades"},
+        {"role": "user", "content": f"Crie 10 afirmativas diretas e verdadeiras estilo CESPE/CEBRASPE sobre: {subtópico}"}
     ]
     response_resposta = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
@@ -20,8 +20,8 @@ def obter_resposta_subtopicos(subtópico):
 def gerar_subtopicos_e_perguntas(pergunta, contexto):
     try:
         messages = [
-            {"role": "system", "content": "Você é um assistente que gera subtópicos a parti de tópicos."},
-            {"role": "user", "content": f"Dado o seguinte tema: '{pergunta.strip()}', liste os 10 mais importantes subtópicos relacionados."}
+            {"role": "system", "content": "Você é um assistente que gera subtópicos a parti de tópicos. Os subtópicos são os mais relevantes para elaboração de questões de concursos"},
+            {"role": "user", "content": f"Dado o seguinte tema: '{pergunta.strip()}', liste os 10 mais importantes subtópicos relacionados, aptos a serem objeto de concurso público do CESPE."}
         ]
 
         temperature=0.1
@@ -63,7 +63,7 @@ def processar_perguntas(nome_arquivo, contexto):
             informacoes_subtopicos = gerar_subtopicos_e_perguntas(pergunta, contexto)
             arquivo_respostas.write(f"Pergunta Original: {pergunta} \n")
             for i, (subtópico, resposta_subtópico) in enumerate(informacoes_subtopicos, start=1):
-                arquivo_respostas.write(f"{i}. Subtópico: \n{subtópico}\nAssertivas:\n {resposta_subtópico}\n\n")
+                arquivo_respostas.write(f"{i}. Subtópico:\n{subtópico}\nAssertivas:\n{resposta_subtópico}\n\n")
             arquivo_respostas.write("\n")
 
 contexto = carrega("contexto.txt")
