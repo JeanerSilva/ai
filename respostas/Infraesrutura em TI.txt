@@ -94,7 +94,7 @@ Assertivas:
 5. Em um jogo de cartas, existem sete naipes em um baralho tradicional.
 6. Sete é o terceiro número perfeito, depois de 6 e 28.
 7. Sete é o número atômico do elemento químico nitrogênio.
-8. Sete é um número que pode ser representado como a soma de três números primos diferentes (2+2+3).
+8. Sete é um número que pode ser representado como a soma de três números primos diferentes (2+2+3..
 9. A maioria das notas musicais são organizadas em uma escala de sete tons.
 10. Sete é considerado um número da sorte em diversas culturas ao redor do mundo.
 
@@ -835,11 +835,11 @@ Assertivas:
 5. Subtópico:
 5. Diferenças entre redes tradicionais e redes definidas por software (SDN)
 Assertivas:
-1) SDN permite uma maior flexibilidade e agilidade na configuração e gerenciamento de redes em comparação às redes tradicionais.
-2) Ao contrário das redes tradicionais, em SDN a lógica de controle é centralizada e separada dos dispositivos de rede.
-3) SDN permite a programação e automação de redes de forma mais eficiente do que nas redes tradicionais.
-4) Redes tradicionais dependem de configuração manual de cada dispositivo de rede, enquanto em SDN a configuração é feita de forma centralizada e por meio de programação.
-5) Em redes tradicionais, mudanças de topologia e configuração podem ser complexas e demoradas, enquanto em SDN são mais rápidas e fáceis de serem implementadas.
+1. SDN permite uma maior flexibilidade e agilidade na configuração e gerenciamento de redes em comparação às redes tradicionais.
+2. Ao contrário das redes tradicionais, em SDN a lógica de controle é centralizada e separada dos dispositivos de rede.
+3. SDN permite a programação e automação de redes de forma mais eficiente do que nas redes tradicionais.
+4. Redes tradicionais dependem de configuração manual de cada dispositivo de rede, enquanto em SDN a configuração é feita de forma centralizada e por meio de programação.
+5. Em redes tradicionais, mudanças de topologia e configuração podem ser complexas e demoradas, enquanto em SDN são mais rápidas e fáceis de serem implementadas.
 
 6. Subtópico:
 6. Aplicações práticas e casos de uso do SDN
@@ -933,16 +933,16 @@ Assertivas:
 3. Subtópico:
 3. Conceitos fundamentais em automação e orquestração de infraestrutura
 Assertivas:
-1) A automação de infraestrutura refere-se ao uso de tecnologia para realizar tarefas de forma automatizada, reduzindo a necessidade de intervenção humana.
-2) A orquestração de infraestrutura é a coordenação de diversos elementos e recursos de infraestrutura por meio de um sistema centralizado.
-3) A automação e orquestração de infraestrutura têm como objetivo aumentar a eficiência e agilidade na gestão e provisionamento de recursos de TI.
-4) A automação de infraestrutura envolve a criação de scripts ou código para executar tarefas repetitivas ou complexas automaticamente.
-5) A orquestração de infraestrutura permite a integração entre diferentes sistemas e serviços, facilitando a comunicação e o compartilhamento de informações entre eles.
-6) A automação e orquestração de infraestrutura são essenciais para a implementação e gerenciamento efetivo de ambientes de nuvem.
-7) A automação de infraestrutura pode ser aplicada em diferentes camadas de uma infraestrutura de TI, como redes, servidores, armazenamento, entre outros.
-8) A orquestração de infraestrutura permite a criação de workflows ou fluxos de trabalho automatizados, que definem a sequência de tarefas a serem executadas.
-9) A automação e orquestração de infraestrutura tornam os processos de implementação, provisionamento e manutenção de infraestrutura mais padronizados e escaláveis.
-10) A automação e orquestração de infraestrutura estão diretamente relacionadas à transformação digital nas organizações, possibilitando maior agilidade e eficiência operacional.
+1. A automação de infraestrutura refere-se ao uso de tecnologia para realizar tarefas de forma automatizada, reduzindo a necessidade de intervenção humana.
+2. A orquestração de infraestrutura é a coordenação de diversos elementos e recursos de infraestrutura por meio de um sistema centralizado.
+3. A automação e orquestração de infraestrutura têm como objetivo aumentar a eficiência e agilidade na gestão e provisionamento de recursos de TI.
+4. A automação de infraestrutura envolve a criação de scripts ou código para executar tarefas repetitivas ou complexas automaticamente.
+5. A orquestração de infraestrutura permite a integração entre diferentes sistemas e serviços, facilitando a comunicação e o compartilhamento de informações entre eles.
+6. A automação e orquestração de infraestrutura são essenciais para a implementação e gerenciamento efetivo de ambientes de nuvem.
+7. A automação de infraestrutura pode ser aplicada em diferentes camadas de uma infraestrutura de TI, como redes, servidores, armazenamento, entre outros.
+8. A orquestração de infraestrutura permite a criação de workflows ou fluxos de trabalho automatizados, que definem a sequência de tarefas a serem executadas.
+9. A automação e orquestração de infraestrutura tornam os processos de implementação, provisionamento e manutenção de infraestrutura mais padronizados e escaláveis.
+10. A automação e orquestração de infraestrutura estão diretamente relacionadas à transformação digital nas organizações, possibilitando maior agilidade e eficiência operacional.
 
 4. Subtópico:
 4. Benefícios e desafios da automação de infraestrutura
@@ -1810,11 +1810,11 @@ Assertivas:
 5. Subtópico:
 5. Comparativo entre as principais ferramentas de orquestração: vantagens e desvantagens 
 Assertivas:
-1) A ferramenta A apresenta maior capacidade de escalabilidade, possibilitando o gerenciamento de um grande número de hosts de forma eficiente.
-2) A ferramenta B oferece uma interface de usuário mais intuitiva, facilitando o processo de configuração e monitoramento das tarefas.
-3) A ferramenta C possui uma ampla gama de plugins e integrações, permitindo a automação de processos complexos em diferentes ambientes.
-4) A ferramenta D possui uma curva de aprendizado mais íngreme, exigindo maior expertise por parte dos usuários para o pleno aproveitamento de suas funcionalidades.
-5) A ferramenta E oferece um maior suporte e comunidade de usuários ativa, o que facilita a busca por soluções e o compartilhamento de boas práticas.
+1. A ferramenta A apresenta maior capacidade de escalabilidade, possibilitando o gerenciamento de um grande número de hosts de forma eficiente.
+2. A ferramenta B oferece uma interface de usuário mais intuitiva, facilitando o processo de configuração e monitoramento das tarefas.
+3. A ferramenta C possui uma ampla gama de plugins e integrações, permitindo a automação de processos complexos em diferentes ambientes.
+4. A ferramenta D possui uma curva de aprendizado mais íngreme, exigindo maior expertise por parte dos usuários para o pleno aproveitamento de suas funcionalidades.
+5. A ferramenta E oferece um maior suporte e comunidade de usuários ativa, o que facilita a busca por soluções e o compartilhamento de boas práticas.
 
 6. Subtópico:
 6. Processo de implantação da orquestração de containers em um ambiente corporativo 
@@ -2612,16 +2612,16 @@ Assertivas:
 3. Subtópico:
 3. Autenticação e validação de certificados
 Assertivas:
-1) A autenticação de certificados é um processo que visa comprovar a autenticidade e integridade dos mesmos.
-2) A validação de certificados consiste em verificar se os mesmos foram emitidos por uma autoridade confiável.
-3) A autenticação de certificados é essencial para garantir a segurança da comunicação em ambiente digital.
-4) A validação de certificados é realizada por meio de algoritmos criptográficos que verificam a assinatura digital do certificado.
-5) A autenticação de certificados é fundamental em atividades como assinatura eletrônica, autenticação de usuários em sistemas e transações seguras.
-6) A validação de certificados é importante para assegurar a confiabilidade das informações transmitidas por meio de certificados digitais.
-7) A autenticação de certificados é feita com base na verificação da cadeia de certificação, ou seja, da hierarquia das autoridades certificadoras envolvidas.
-8) A validação de certificados envolve a verificação de informações como data de validade, período de revogação e política de certificados.
-9) A autenticação de certificados é um procedimento técnico que confere credibilidade e confiança aos documentos digitais.
-10) A validação de certificados é uma prática amplamente adotada em diversos setores, como o de comércio eletrônico e governamental, visando garantir a identidade das partes envolvidas e a segurança das transações.
+1. A autenticação de certificados é um processo que visa comprovar a autenticidade e integridade dos mesmos.
+2. A validação de certificados consiste em verificar se os mesmos foram emitidos por uma autoridade confiável.
+3. A autenticação de certificados é essencial para garantir a segurança da comunicação em ambiente digital.
+4. A validação de certificados é realizada por meio de algoritmos criptográficos que verificam a assinatura digital do certificado.
+5. A autenticação de certificados é fundamental em atividades como assinatura eletrônica, autenticação de usuários em sistemas e transações seguras.
+6. A validação de certificados é importante para assegurar a confiabilidade das informações transmitidas por meio de certificados digitais.
+7. A autenticação de certificados é feita com base na verificação da cadeia de certificação, ou seja, da hierarquia das autoridades certificadoras envolvidas.
+8. A validação de certificados envolve a verificação de informações como data de validade, período de revogação e política de certificados.
+9. A autenticação de certificados é um procedimento técnico que confere credibilidade e confiança aos documentos digitais.
+10. A validação de certificados é uma prática amplamente adotada em diversos setores, como o de comércio eletrônico e governamental, visando garantir a identidade das partes envolvidas e a segurança das transações.
 
 4. Subtópico:
 4. Certificado digital: conceito, uso e segurança
@@ -2668,16 +2668,16 @@ Assertivas:
 7. Subtópico:
 7. Uso dos certificados em transações eletrônicas seguras 
 Assertivas:
-1) O uso de certificados digitais é fundamental para garantir a autenticidade das transações eletrônicas.
-2) Os certificados digitais são utilizados para firmar a identidade de pessoas ou entidades envolvidas em transações online.
-3) Através do uso de certificados digitais, é possível garantir a integridade de dados trocados em transações eletrônicas.
-4) A assinatura digital, realizada com o uso de certificados, confere validade jurídica a documentos eletrônicos.
-5) Certificados digitais são emitidos por Autoridades Certificadoras credenciadas e confiáveis.
-6) O uso de certificados digitais em transações eletrônicas impede a falsificação de documentos.
-7) Certificados digitais podem ser utilizados para a autenticação de servidores em transações online seguras. 
-8) Os certificados utilizam algoritmos de criptografia para proteger a segurança das informações transmitidas.
-9) Transações eletrônicas que utilizam certificados digitais são confidenciais, garantindo a privacidade dos dados envolvidos.
-10) A utilização de certificados digitais em transações eletrônicas contribui para a redução de fraudes e crimes cibernéticos.
+1. O uso de certificados digitais é fundamental para garantir a autenticidade das transações eletrônicas.
+2. Os certificados digitais são utilizados para firmar a identidade de pessoas ou entidades envolvidas em transações online.
+3. Através do uso de certificados digitais, é possível garantir a integridade de dados trocados em transações eletrônicas.
+4. A assinatura digital, realizada com o uso de certificados, confere validade jurídica a documentos eletrônicos.
+5. Certificados digitais são emitidos por Autoridades Certificadoras credenciadas e confiáveis.
+6. O uso de certificados digitais em transações eletrônicas impede a falsificação de documentos.
+7. Certificados digitais podem ser utilizados para a autenticação de servidores em transações online seguras. 
+8. Os certificados utilizam algoritmos de criptografia para proteger a segurança das informações transmitidas.
+9. Transações eletrônicas que utilizam certificados digitais são confidenciais, garantindo a privacidade dos dados envolvidos.
+10. A utilização de certificados digitais em transações eletrônicas contribui para a redução de fraudes e crimes cibernéticos.
 
 8. Subtópico:
 8. Legislação relacionada aos certificados digitais no Brasil 
@@ -2792,16 +2792,16 @@ Assertivas:
 5. Subtópico:
 5. Gerenciamento de usuários e grupos no AD
 Assertivas:
-1) O Active Directory (AD) é uma ferramenta da Microsoft utilizada para o gerenciamento centralizado de usuários e grupos em um ambiente de rede.
-2) No AD, é possível criar, editar e excluir usuários de forma individual, proporcionando controle sobre as permissões de acesso aos recursos de rede.
-3) Por meio do AD, é possível agrupar usuários em grupos, facilitando a administração de permissões coletivas em um ambiente de rede.
-4) Ao criar grupos no AD, é possível atribuir permissões de acesso a recursos compartilhados, como pastas e impressoras, de forma simplificada.
-5) O AD permite a definição de políticas de segurança, como exigência de senhas complexas e bloqueio de contas após múltiplas tentativas de autenticação inválida.
-6) É possível delegar determinadas tarefas de gerenciamento de usuários e grupos no AD para outros usuários ou grupos, com restrição de permissões específicas.
-7) O AD permite o controle de acesso baseado em funções (RBAC), possibilitando a atribuição de permissões de acordo com os cargos e responsabilidades dos usuários.
-8) Com o AD, é possível criar relatórios sobre o uso e as atividades dos usuários, facilitando a identificação de possíveis irregularidades ou violações de segurança.
-9) O AD suporta a integração com outros sistemas de autenticação, como LDAP e Kerberos, proporcionando maior flexibilidade e interoperabilidade em um ambiente de rede.
-10) O gerenciamento de usuários e grupos no AD é fundamental para garantir a segurança e a eficiência da rede corporativa, facilitando o controle de acesso e atribuição de permissões aos usuários.
+1. O Active Directory (AD) é uma ferramenta da Microsoft utilizada para o gerenciamento centralizado de usuários e grupos em um ambiente de rede.
+2. No AD, é possível criar, editar e excluir usuários de forma individual, proporcionando controle sobre as permissões de acesso aos recursos de rede.
+3. Por meio do AD, é possível agrupar usuários em grupos, facilitando a administração de permissões coletivas em um ambiente de rede.
+4. Ao criar grupos no AD, é possível atribuir permissões de acesso a recursos compartilhados, como pastas e impressoras, de forma simplificada.
+5. O AD permite a definição de políticas de segurança, como exigência de senhas complexas e bloqueio de contas após múltiplas tentativas de autenticação inválida.
+6. É possível delegar determinadas tarefas de gerenciamento de usuários e grupos no AD para outros usuários ou grupos, com restrição de permissões específicas.
+7. O AD permite o controle de acesso baseado em funções (RBAC), possibilitando a atribuição de permissões de acordo com os cargos e responsabilidades dos usuários.
+8. Com o AD, é possível criar relatórios sobre o uso e as atividades dos usuários, facilitando a identificação de possíveis irregularidades ou violações de segurança.
+9. O AD suporta a integração com outros sistemas de autenticação, como LDAP e Kerberos, proporcionando maior flexibilidade e interoperabilidade em um ambiente de rede.
+10. O gerenciamento de usuários e grupos no AD é fundamental para garantir a segurança e a eficiência da rede corporativa, facilitando o controle de acesso e atribuição de permissões aos usuários.
 
 6. Subtópico:
 6. Políticas de Grupo (Group Policy) no AD
@@ -2902,16 +2902,16 @@ Assertivas:
 2. Subtópico:
 2. Diferença entre Monitoração e Observabilidade
 Assertivas:
-1) A Monitoração é o processo de coletar e analisar dados em tempo real, enquanto a Observabilidade é a capacidade de entender e diagnosticar problemas em um sistema com base nessas informações. (V)
-2) A Monitoração é uma prática mais focada no monitoramento de métricas e alertas, enquanto a Observabilidade envolve uma abordagem mais holística, que inclui rastreamento de logs e análise de eventos. (V)
-3) A Monitoração permite identificar problemas existentes no sistema em tempo real, enquanto a Observabilidade permite entender a causa raiz desses problemas. (V)
-4) A Monitoração é uma ferramenta essencial para manter a disponibilidade de um sistema, enquanto a Observabilidade auxilia na identificação e resolução de problemas de desempenho. (V)
-5) A Observabilidade vai além da Monitoração porque implica em ter uma visão mais ampla, permitindo ao usuário entender o comportamento do sistema como um todo. (V)
-6) A Monitoração é geralmente feita por meio do monitoramento de métricas específicas do sistema, como o uso de CPU e memória, enquanto a Observabilidade envolve a análise de eventos e logs para obter uma visão mais completa. (V)
-7) A Monitoração é voltada principalmente para a identificação de problemas prontamente perceptíveis, enquanto a Observabilidade ajuda a descobrir problemas sutis e de difícil detecção. (V)
-8) A Monitoração é uma prática operacional comumente utilizada, enquanto a Observabilidade é um conceito mais recente, impulsionado pela necessidade de compreender ambientes distribuídos e complexos. (V)
-9) A Monitoração é mais reativa, ou seja, verifica o estado atual do sistema, enquanto a Observabilidade é mais proativa, fornecendo insights sobre possíveis problemas futuros. (V)
-10) A Monitoração é geralmente realizada por meio de ferramentas específicas de monitoramento, enquanto a Observabilidade pode ser alcançada por meio da adoção de boas práticas, ferramentas e arquiteturas adequadas. (V)
+1. A Monitoração é o processo de coletar e analisar dados em tempo real, enquanto a Observabilidade é a capacidade de entender e diagnosticar problemas em um sistema com base nessas informações. (V)
+2. A Monitoração é uma prática mais focada no monitoramento de métricas e alertas, enquanto a Observabilidade envolve uma abordagem mais holística, que inclui rastreamento de logs e análise de eventos. (V)
+3. A Monitoração permite identificar problemas existentes no sistema em tempo real, enquanto a Observabilidade permite entender a causa raiz desses problemas. (V)
+4. A Monitoração é uma ferramenta essencial para manter a disponibilidade de um sistema, enquanto a Observabilidade auxilia na identificação e resolução de problemas de desempenho. (V)
+5. A Observabilidade vai além da Monitoração porque implica em ter uma visão mais ampla, permitindo ao usuário entender o comportamento do sistema como um todo. (V)
+6. A Monitoração é geralmente feita por meio do monitoramento de métricas específicas do sistema, como o uso de CPU e memória, enquanto a Observabilidade envolve a análise de eventos e logs para obter uma visão mais completa. (V)
+7. A Monitoração é voltada principalmente para a identificação de problemas prontamente perceptíveis, enquanto a Observabilidade ajuda a descobrir problemas sutis e de difícil detecção. (V)
+8. A Monitoração é uma prática operacional comumente utilizada, enquanto a Observabilidade é um conceito mais recente, impulsionado pela necessidade de compreender ambientes distribuídos e complexos. (V)
+9. A Monitoração é mais reativa, ou seja, verifica o estado atual do sistema, enquanto a Observabilidade é mais proativa, fornecendo insights sobre possíveis problemas futuros. (V)
+10. A Monitoração é geralmente realizada por meio de ferramentas específicas de monitoramento, enquanto a Observabilidade pode ser alcançada por meio da adoção de boas práticas, ferramentas e arquiteturas adequadas. (V)
 
 3. Subtópico:
 3. Ferramentas de Monitoração e Observabilidade
@@ -3096,16 +3096,16 @@ Assertivas:
 5. Subtópico:
 5. Técnicas eficazes para o uso das ferramentas de monitoramento e logging.
 Assertivas:
-1) O uso de ferramentas de monitoramento e logging permite o acompanhamento em tempo real do desempenho dos sistemas e das aplicações.
-2) O estabelecimento de métricas adequadas é fundamental para uma correta utilização das ferramentas de monitoramento e logging.
-3) As técnicas de correlação de eventos são eficazes para identificar possíveis problemas de desempenho nos sistemas.
-4) A utilização de dashboards personalizáveis facilita a visualização e análise dos dados coletados pelas ferramentas de monitoramento e logging.
-5) A configuração adequada das políticas de alerta é essencial para um sistema eficaz de notificação de eventos anormais.
-6) O uso da tecnologia de inteligência artificial auxilia na identificação de anomalias e na tomada de decisões baseadas em análises dos logs.
-7) A adoção da prática de log centralizado facilita a análise e solução de problemas em ambientes com múltiplos sistemas e servidores.
-8) A implementação de backups dos logs é importante para garantir a disponibilidade e integridade das informações.
-9) O monitoramento de logs em tempo real permite a detecção imediata de eventos críticos e a tomada de ações preventivas.
-10) A análise de logs históricos permite a identificação de tendências e a otimização dos recursos de um ambiente de TI.
+1. O uso de ferramentas de monitoramento e logging permite o acompanhamento em tempo real do desempenho dos sistemas e das aplicações.
+2. O estabelecimento de métricas adequadas é fundamental para uma correta utilização das ferramentas de monitoramento e logging.
+3. As técnicas de correlação de eventos são eficazes para identificar possíveis problemas de desempenho nos sistemas.
+4. A utilização de dashboards personalizáveis facilita a visualização e análise dos dados coletados pelas ferramentas de monitoramento e logging.
+5. A configuração adequada das políticas de alerta é essencial para um sistema eficaz de notificação de eventos anormais.
+6. O uso da tecnologia de inteligência artificial auxilia na identificação de anomalias e na tomada de decisões baseadas em análises dos logs.
+7. A adoção da prática de log centralizado facilita a análise e solução de problemas em ambientes com múltiplos sistemas e servidores.
+8. A implementação de backups dos logs é importante para garantir a disponibilidade e integridade das informações.
+9. O monitoramento de logs em tempo real permite a detecção imediata de eventos críticos e a tomada de ações preventivas.
+10. A análise de logs históricos permite a identificação de tendências e a otimização dos recursos de um ambiente de TI.
 
 6. Subtópico:
 6. Análise dos dados obtidos através do monitoramento e logging na otimização da produção do sistema.
@@ -3383,7 +3383,7 @@ Assertivas:
 2. Prometheus é comumente retratado como um herói rebelde e defensor dos homens.
 3. A peça de Ésquilo, intitulada "Prometheus Bound", é uma das obras mais antigas que retrata a figura de Prometheus.
 4. Durante o período do Renascimento, a figura de Prometheus ganhou destaque na pintura e escultura, sendo frequentemente associada à busca pelo conhecimento.
-5. No filme "Prometheus" (2012), dirigido por Ridley Scott, há uma reinterpretação moderna da história de Prometheus e sua relação com a criação da humanidade.
+5. No filme "Prometheus" (2012., dirigido por Ridley Scott, há uma reinterpretação moderna da história de Prometheus e sua relação com a criação da humanidade.
 6. A obra "Prometheus Unbound", de Percy Bysshe Shelley, é um exemplo influente da representação literária do personagem, explorando temas como a liberdade e a anarquia.
 7. No famoso quadro "Prometeu Acorrentado", do pintor Peter Paul Rubens, são retratados os momentos em que Prometheus é punido por ter roubado o fogo dos deuses.
 8. A lenda de Prometheus também influenciou o surgimento do termo "prometeico" na literatura, utilizado para descrever a rebeldia e a ousadia em desafiar as normas impostas pela sociedade.
@@ -3988,16 +3988,16 @@ Assertivas:
 10. Subtópico:
 10
 Assertivas:
-1) O Brasil é o maior país da América Latina em extensão territorial.
-2) A Mona Lisa foi pintada por Leonardo da Vinci no século XVI.
-3) A capital do Peru é Lima.
-4) A República Federativa do Brasil é composta por 26 estados e um distrito federal.
-5) O presidente da República possui mandato de quatro anos, podendo ser reeleito para um segundo mandato consecutivo.
-6) A Linha do Equador corta o continente africano.
-7) A Oceania é o continente com menos países em sua composição.
-8) A Carta Magna é o documento que estabelece a estrutura e as normas de um país.
-9) Martin Luther King Jr. foi um líder do movimento pelos direitos civis nos Estados Unidos.
-10) A Revolução Industrial teve início na Inglaterra, no século XVIII.
+1. O Brasil é o maior país da América Latina em extensão territorial.
+2. A Mona Lisa foi pintada por Leonardo da Vinci no século XVI.
+3. A capital do Peru é Lima.
+4. A República Federativa do Brasil é composta por 26 estados e um distrito federal.
+5. O presidente da República possui mandato de quatro anos, podendo ser reeleito para um segundo mandato consecutivo.
+6. A Linha do Equador corta o continente africano.
+7. A Oceania é o continente com menos países em sua composição.
+8. A Carta Magna é o documento que estabelece a estrutura e as normas de um país.
+9. Martin Luther King Jr. foi um líder do movimento pelos direitos civis nos Estados Unidos.
+10. A Revolução Industrial teve início na Inglaterra, no século XVIII.
 
 
 Item do edital: 4.8 outras ferramentas de análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging   
@@ -4342,7 +4342,7 @@ Assertivas:
 3. A criptografia em SMTP é fundamental para proteger o conteúdo das mensagens durante o tráfego, evitando que sejam lidas por terceiros não autorizados.
 4. O uso de criptografia em SMTP impede a interceptação de mensagens e a divulgação de informações sensíveis contidas nelas.
 5. A autenticação em SMTP pode ser feita por meio de diferentes mecanismos, como autenticação com nome de usuário e senha ou certificados digitais.
-6. A criptografia em SMTP pode ser implementada utilizando o protocolo STARTTLS, que inicia uma conexão segura no porto de comunicação padrão (porta 25).
+6. A criptografia em SMTP pode ser implementada utilizando o protocolo STARTTLS, que inicia uma conexão segura no porto de comunicação padrão (porta 25..
 7. O uso de autenticação em SMTP é especialmente importante para provedores de e-mail, que precisam garantir a autenticidade dos remetentes.
 8. A criptografia em SMTP pode ser realizada utilizando certificados digitais, que garantem a autenticidade das partes envolvidas na comunicação.
 9. A autenticação em SMTP pode ser configurada para exigir autenticação tanto do remetente quanto do destinatário da mensagem.
@@ -4570,16 +4570,16 @@ Assertivas:
 2. Subtópico:
 2. Diferenças entre HTTP e HTTPS
 Assertivas:
-1) O HTTPS é uma extensão do protocolo HTTP que proporciona uma camada adicional de segurança por meio da criptografia dos dados transmitidos.
-2) O HTTP é um protocolo de comunicação utilizado para transferir informações na web, enquanto o HTTPS é uma versão segura do HTTP.
-3) A principal diferença entre o HTTP e o HTTPS está na segurança dos dados transmitidos, onde o HTTPS oferece uma navegação mais segura e protegida contra interceptações e ataques.
-4) Enquanto o HTTP transmite os dados de forma não criptografada, o HTTPS usa criptografia para garantir que os dados sejam transmitidos de forma segura, impedindo o acesso não autorizado.
-5) O HTTP utiliza a porta 80 para a comunicação, enquanto o HTTPS utiliza a porta 443.
-6) A utilização do HTTPS é recomendada em páginas que contenham transações financeiras, acesso a dados sensíveis e qualquer tipo de informação privada.
-7) A adoção do HTTPS também influencia no ranqueamento de um site nos resultados de busca, já que os mecanismos de busca privilegiam sites que oferecem maior segurança aos usuários.
-8) Os certificados SSL/TLS são utilizados no HTTPS para autenticar a identidade do servidor e estabelecer uma comunicação segura.
-9) Ao utilizar um site com conexão HTTPS, o usuário pode identificar a presença de um cadeado na barra de endereço do navegador, indicando uma conexão segura.
-10) A implementação do HTTPS exige um esforço maior em termos de configuração e manutenção dos servidores, porém traz mais confiança e privacidade aos usuários.
+1. O HTTPS é uma extensão do protocolo HTTP que proporciona uma camada adicional de segurança por meio da criptografia dos dados transmitidos.
+2. O HTTP é um protocolo de comunicação utilizado para transferir informações na web, enquanto o HTTPS é uma versão segura do HTTP.
+3. A principal diferença entre o HTTP e o HTTPS está na segurança dos dados transmitidos, onde o HTTPS oferece uma navegação mais segura e protegida contra interceptações e ataques.
+4. Enquanto o HTTP transmite os dados de forma não criptografada, o HTTPS usa criptografia para garantir que os dados sejam transmitidos de forma segura, impedindo o acesso não autorizado.
+5. O HTTP utiliza a porta 80 para a comunicação, enquanto o HTTPS utiliza a porta 443.
+6. A utilização do HTTPS é recomendada em páginas que contenham transações financeiras, acesso a dados sensíveis e qualquer tipo de informação privada.
+7. A adoção do HTTPS também influencia no ranqueamento de um site nos resultados de busca, já que os mecanismos de busca privilegiam sites que oferecem maior segurança aos usuários.
+8. Os certificados SSL/TLS são utilizados no HTTPS para autenticar a identidade do servidor e estabelecer uma comunicação segura.
+9. Ao utilizar um site com conexão HTTPS, o usuário pode identificar a presença de um cadeado na barra de endereço do navegador, indicando uma conexão segura.
+10. A implementação do HTTPS exige um esforço maior em termos de configuração e manutenção dos servidores, porém traz mais confiança e privacidade aos usuários.
 
 3. Subtópico:
 3. Processo de criptografia em HTTPS
@@ -4804,7 +4804,7 @@ Assertivas:
 10. A implementação de SSL/TLS pode afetar o desempenho dos servidores, sendo necessário ajustar as configurações para equilibrar a segurança e a velocidade da comunicação.
 
 8. Subtópico:
-8. Versões do Protocolo TLS (1.0, 1.1, 1.2, 1.3) 
+8. Versões do Protocolo TLS (1.0, 1.1, 1.2, 1.3. 
 Assertivas:
 1. O Protocolo TLS (Transport Layer Security) é uma versão aprimorada do SSL (Secure Sockets Layer) utilizado para estabelecer uma conexão segura entre um cliente e um servidor.
 2. A versão 1.0 do Protocolo TLS é considerada obsoleta e não é mais recomendada para uso devido a vulnerabilidades de segurança conhecidas.
@@ -4812,7 +4812,7 @@ Assertivas:
 4. A versão 1.2 do Protocolo TLS foi lançada em 2008 e é amplamente utilizada atualmente devido às suas melhorias de segurança e suporte a algoritmos criptográficos mais fortes.
 5. A versão 1.3 do Protocolo TLS foi lançada em 2018 e traz várias melhorias, incluindo um processo de handshake mais rápido e robusto.
 6. A versão 1.3 do Protocolo TLS possui suporte para criptografia de curva elíptica, o que permite um desempenho mais eficiente em dispositivos com recursos limitados, como smartphones.
-7. Todas as versões do Protocolo TLS (1.0, 1.1, 1.2, 1.3) são baseadas em criptografia assimétrica e simétrica para garantir a confidencialidade e integridade dos dados transmitidos.
+7. Todas as versões do Protocolo TLS (1.0, 1.1, 1.2, 1.3. são baseadas em criptografia assimétrica e simétrica para garantir a confidencialidade e integridade dos dados transmitidos.
 8. A escolha da versão do Protocolo TLS utilizada em uma conexão é determinada pela negociação entre o cliente e o servidor, onde ambos devem ser compatíveis com a mesma versão para estabelecer uma conexão segura.
 9. A versão 1.3 do Protocolo TLS introduziu um novo modo de criptografia chamado "TLS 1.3 with early data", que permite ao cliente começar a transmitir dados durante o processo de handshake, reduzindo a latência da conexão.
 10. Os navegadores mais recentes e os servidores de hospedagem de sites geralmente suportam as versões mais recentes do Protocolo TLS, como o TLS 1.2 e 1.3, para garantir a segurança das comunicações online.
@@ -5209,9 +5209,9 @@ Assertivas:
 6. Subtópico:
 6. Diferenças entre as versões do SMB: SMB1, SMB2, SMB3 
 Assertivas:
-1. O SMB1 (Server Message Block 1) é a versão mais antiga do protocolo SMB e possui várias vulnerabilidades de segurança.
-2. O SMB2 (Server Message Block 2) foi lançado pela Microsoft em 2006 como uma atualização do SMB1, com melhorias significativas no desempenho e na segurança.
-3. O SMB3 (Server Message Block 3) foi introduzido pela Microsoft em 2012 e trouxe consigo recursos avançados, como suporte a múltiplas conexões, criptografia de ponta a ponta e failover transparente.
+1. O SMB1 (Server Message Block 1. é a versão mais antiga do protocolo SMB e possui várias vulnerabilidades de segurança.
+2. O SMB2 (Server Message Block 2. foi lançado pela Microsoft em 2006 como uma atualização do SMB1, com melhorias significativas no desempenho e na segurança.
+3. O SMB3 (Server Message Block 3. foi introduzido pela Microsoft em 2012 e trouxe consigo recursos avançados, como suporte a múltiplas conexões, criptografia de ponta a ponta e failover transparente.
 4. Enquanto o SMB1 é amplamente considerado inseguro, o SMB2 e SMB3 são considerados mais seguros e robustos.
 5. O SMB1 não suporta o VSS (Volume Shadow Copy Service), que é uma tecnologia usada para criar cópias instantâneas de arquivos em servidores Windows.
 6. O SMB2 e o SMB3 suportam recursos como redirecionamento de pastas, compartilhamento de impressoras e suporte a transferências de arquivos em paralelo.
@@ -5324,25 +5324,25 @@ Assertivas:
 4. Subtópico:
 4. Monitoramento e detecção de falhas em sistemas computacionais.
 Assertivas:
-1) O monitoramento de sistemas computacionais é uma estratégia utilizada para identificar falhas e problemas de desempenho em tempo real.
+1. O monitoramento de sistemas computacionais é uma estratégia utilizada para identificar falhas e problemas de desempenho em tempo real.
 
-2) O monitoramento proativo de falhas em sistemas computacionais permite antecipar e prevenir potenciais problemas antes que eles possam afetar a disponibilidade e a confiabilidade dos sistemas.
+2. O monitoramento proativo de falhas em sistemas computacionais permite antecipar e prevenir potenciais problemas antes que eles possam afetar a disponibilidade e a confiabilidade dos sistemas.
 
-3) A detecção de falhas em sistemas computacionais pode ser realizada por meio do uso de monitoramento de logs, métricas de desempenho e testes automatizados.
+3. A detecção de falhas em sistemas computacionais pode ser realizada por meio do uso de monitoramento de logs, métricas de desempenho e testes automatizados.
 
-4) O uso de ferramentas de automação no monitoramento e detecção de falhas em sistemas computacionais contribui para reduzir a necessidade de intervenção manual e aumentar a eficiência do processo.
+4. O uso de ferramentas de automação no monitoramento e detecção de falhas em sistemas computacionais contribui para reduzir a necessidade de intervenção manual e aumentar a eficiência do processo.
 
-5) A implementação de estratégias de alta disponibilidade e redundância em sistemas computacionais auxilia na detecção e mitigação de falhas, minimizando o impacto na continuidade dos serviços.
+5. A implementação de estratégias de alta disponibilidade e redundância em sistemas computacionais auxilia na detecção e mitigação de falhas, minimizando o impacto na continuidade dos serviços.
 
-6) A análise de dados provenientes do monitoramento de sistemas computacionais permite identificar padrões e tendências que podem ajudar na prevenção e resolução de problemas.
+6. A análise de dados provenientes do monitoramento de sistemas computacionais permite identificar padrões e tendências que podem ajudar na prevenção e resolução de problemas.
 
-7) A documentação adequada dos procedimentos de monitoramento e detecção de falhas em sistemas computacionais representa uma etapa crucial para garantir a padronização e a eficácia dessas práticas.
+7. A documentação adequada dos procedimentos de monitoramento e detecção de falhas em sistemas computacionais representa uma etapa crucial para garantir a padronização e a eficácia dessas práticas.
 
-8) A atualização regular dos softwares e sistemas operacionais utilizados em sistemas computacionais contribui para a prevenção de falhas decorrentes de vulnerabilidades conhecidas.
+8. A atualização regular dos softwares e sistemas operacionais utilizados em sistemas computacionais contribui para a prevenção de falhas decorrentes de vulnerabilidades conhecidas.
 
-9) A integração de ferramentas de alerta e notificação em tempo real no monitoramento de sistemas computacionais auxilia na detecção imediata de falhas e na tomada de ações corretivas de forma ágil.
+9. A integração de ferramentas de alerta e notificação em tempo real no monitoramento de sistemas computacionais auxilia na detecção imediata de falhas e na tomada de ações corretivas de forma ágil.
 
-10) A adoção de boas práticas de segurança da informação, como a utilização de criptografia e autenticação forte, contribui para a detecção e prevenção de falhas relacionadas a possíveis ataques cibernéticos.
+10. A adoção de boas práticas de segurança da informação, como a utilização de criptografia e autenticação forte, contribui para a detecção e prevenção de falhas relacionadas a possíveis ataques cibernéticos.
 
 5. Subtópico:
 5. Planejamento e implementação da continuidade dos negócios (Business Continuity Planning - BCP).
@@ -5398,16 +5398,16 @@ Assertivas:
 8. Subtópico:
 8. Sistemas distrib
 Assertivas:
-1) Os sistemas distribuídos são compostos por um conjunto de computadores interconectados que funcionam de forma coordenada.
-2) Um dos principais objetivos dos sistemas distribuídos é permitir uma maior capacidade computacional, possibilitando a execução de tarefas mais complexas.
-3) Os sistemas distribuídos podem ser formados por computadores localizados em diferentes redes geograficamente dispersas.
-4) A comunicação entre os diferentes componentes de um sistema distribuído é fundamental para o seu funcionamento adequado.
-5) A tolerância a falhas é um aspecto importante nos sistemas distribuídos, pois é necessário garantir o funcionamento mesmo quando ocorrem problemas em um ou mais componentes.
-6) Os sistemas distribuídos podem ser utilizados em diferentes áreas, como processamento de dados, comunicação, armazenamento de informações, entre outras.
-7) Um exemplo prático de sistema distribuído é a Internet, que interconecta diversos computadores e redes pelo mundo todo.
-8) A escalabilidade é um dos desafios enfrentados nos sistemas distribuídos, pois é necessário garantir que o sistema continue funcionando de forma eficiente mesmo quando há aumento no número de componentes ou na demanda.
-9) A segurança da informação é uma preocupação constante nos sistemas distribuídos, exigindo mecanismos de proteção adequados para garantir a integridade e confidencialidade dos dados.
-10) A computação em nuvem é um exemplo de aplicação de sistemas distribuídos, permitindo o acesso a recursos computacionais de forma virtualizada e flexível.
+1. Os sistemas distribuídos são compostos por um conjunto de computadores interconectados que funcionam de forma coordenada.
+2. Um dos principais objetivos dos sistemas distribuídos é permitir uma maior capacidade computacional, possibilitando a execução de tarefas mais complexas.
+3. Os sistemas distribuídos podem ser formados por computadores localizados em diferentes redes geograficamente dispersas.
+4. A comunicação entre os diferentes componentes de um sistema distribuído é fundamental para o seu funcionamento adequado.
+5. A tolerância a falhas é um aspecto importante nos sistemas distribuídos, pois é necessário garantir o funcionamento mesmo quando ocorrem problemas em um ou mais componentes.
+6. Os sistemas distribuídos podem ser utilizados em diferentes áreas, como processamento de dados, comunicação, armazenamento de informações, entre outras.
+7. Um exemplo prático de sistema distribuído é a Internet, que interconecta diversos computadores e redes pelo mundo todo.
+8. A escalabilidade é um dos desafios enfrentados nos sistemas distribuídos, pois é necessário garantir que o sistema continue funcionando de forma eficiente mesmo quando há aumento no número de componentes ou na demanda.
+9. A segurança da informação é uma preocupação constante nos sistemas distribuídos, exigindo mecanismos de proteção adequados para garantir a integridade e confidencialidade dos dados.
+10. A computação em nuvem é um exemplo de aplicação de sistemas distribuídos, permitindo o acesso a recursos computacionais de forma virtualizada e flexível.
 
 
 Item do edital: 7 Implantação e administração de serviços de nuvem   
@@ -5864,16 +5864,16 @@ Assertivas:
 5. Subtópico:
 5. Gerenciamento e manutenção em um ambiente SaaS
 Assertivas:
-1) O gerenciamento e manutenção em um ambiente SaaS são de responsabilidade do provedor de serviços.
-2) O provedor de serviços SaaS é responsável por garantir a disponibilidade constante dos serviços aos usuários.
-3) A manutenção de infraestrutura física, como servidores e data centers, é realizada pelo provedor de serviços SaaS.
-4) No ambiente SaaS, o provedor de serviços é responsável por garantir a segurança dos dados armazenados.
-5) O provedor de serviços SaaS realiza atualizações e melhorias nos serviços de forma transparente para os usuários.
-6) O gerenciamento de licenças e atualizações de software é realizado pelo provedor de serviços em um ambiente SaaS.
-7) No SaaS, os usuários não precisam se preocupar em realizar backups, pois o provedor de serviços realiza essa tarefa.
-8) O provedor de serviços SaaS fornece suporte técnico aos usuários, solucionando problemas e tirando dúvidas.
-9) No ambiente SaaS, as atualizações de segurança são realizadas pelo provedor de serviços de forma centralizada.
-10) O gerenciamento de performance e escalabilidade também é responsabilidade do provedor de serviços SaaS.
+1. O gerenciamento e manutenção em um ambiente SaaS são de responsabilidade do provedor de serviços.
+2. O provedor de serviços SaaS é responsável por garantir a disponibilidade constante dos serviços aos usuários.
+3. A manutenção de infraestrutura física, como servidores e data centers, é realizada pelo provedor de serviços SaaS.
+4. No ambiente SaaS, o provedor de serviços é responsável por garantir a segurança dos dados armazenados.
+5. O provedor de serviços SaaS realiza atualizações e melhorias nos serviços de forma transparente para os usuários.
+6. O gerenciamento de licenças e atualizações de software é realizado pelo provedor de serviços em um ambiente SaaS.
+7. No SaaS, os usuários não precisam se preocupar em realizar backups, pois o provedor de serviços realiza essa tarefa.
+8. O provedor de serviços SaaS fornece suporte técnico aos usuários, solucionando problemas e tirando dúvidas.
+9. No ambiente SaaS, as atualizações de segurança são realizadas pelo provedor de serviços de forma centralizada.
+10. O gerenciamento de performance e escalabilidade também é responsabilidade do provedor de serviços SaaS.
 
 6. Subtópico:
 6. Impacto do SaaS na redução de custos operacionais 
@@ -6014,30 +6014,30 @@ Observação: Lembre-se de que as afirmativas foram criadas como parte de uma si
 5. Subtópico:
 5. Segurança em ambientes virtuais: políticas de segurança, isolamento e controle de acesso.
 Assertivas:
-1) As políticas de segurança em ambientes virtuais visam proteger informações sensíveis e minimizar riscos de ataques cibernéticos.
-2) A implementação de políticas de segurança em ambientes virtuais deve ser baseada em uma análise de riscos adequada e atualizada.
-3) O isolamento de ambientes virtuais consiste em separar e controlar o acesso entre diferentes sistemas ou redes, a fim de evitar a propagação de ameaças.
-4) O controle de acesso em ambientes virtuais envolve a definição de permissões e restrições de usuários, garantindo que apenas pessoas autorizadas tenham acesso a informações e recursos.
-5) A autenticação de usuários é uma prática de segurança essencial em ambientes virtuais, sendo realizada por meio de senhas, tokens ou outros mecanismos de identificação.
-6) A criptografia é uma técnica utilizada em ambientes virtuais que garante a confidencialidade e integridade de dados, tornando-os ilegíveis para terceiros não autorizados.
-7) A implementação de backups regulares é parte fundamental de uma política de segurança em ambientes virtuais, assegurando a disponibilidade e a recuperação de informações em caso de incidentes.
-8) A atualização de softwares e sistemas operacionais é uma prática crucial para manter a segurança em ambientes virtuais, já que inclui correções para vulnerabilidades conhecidas.
-9) A utilização de firewalls em ambientes virtuais é uma medida eficaz para monitorar e controlar o tráfego de rede, impedindo a entrada de ameaças externas.
-10) A conscientização e treinamento dos usuários são fatores importantes para garantir a segurança em ambientes virtuais, uma vez que muitos ataques ocorrem devido a falhas humanas.
+1. As políticas de segurança em ambientes virtuais visam proteger informações sensíveis e minimizar riscos de ataques cibernéticos.
+2. A implementação de políticas de segurança em ambientes virtuais deve ser baseada em uma análise de riscos adequada e atualizada.
+3. O isolamento de ambientes virtuais consiste em separar e controlar o acesso entre diferentes sistemas ou redes, a fim de evitar a propagação de ameaças.
+4. O controle de acesso em ambientes virtuais envolve a definição de permissões e restrições de usuários, garantindo que apenas pessoas autorizadas tenham acesso a informações e recursos.
+5. A autenticação de usuários é uma prática de segurança essencial em ambientes virtuais, sendo realizada por meio de senhas, tokens ou outros mecanismos de identificação.
+6. A criptografia é uma técnica utilizada em ambientes virtuais que garante a confidencialidade e integridade de dados, tornando-os ilegíveis para terceiros não autorizados.
+7. A implementação de backups regulares é parte fundamental de uma política de segurança em ambientes virtuais, assegurando a disponibilidade e a recuperação de informações em caso de incidentes.
+8. A atualização de softwares e sistemas operacionais é uma prática crucial para manter a segurança em ambientes virtuais, já que inclui correções para vulnerabilidades conhecidas.
+9. A utilização de firewalls em ambientes virtuais é uma medida eficaz para monitorar e controlar o tráfego de rede, impedindo a entrada de ameaças externas.
+10. A conscientização e treinamento dos usuários são fatores importantes para garantir a segurança em ambientes virtuais, uma vez que muitos ataques ocorrem devido a falhas humanas.
 
 6. Subtópico:
 6. Desempenho em ambientes virtuais: gerenciamento de recursos (CPU, memória), balanceamento de carga.
 Assertivas:
-1) O desempenho em ambientes virtuais depende do gerenciamento eficiente de recursos, como CPU e memória.
-2) O balanceamento de carga é uma estratégia essencial para otimizar o desempenho em ambientes virtuais.
-3) No ambiente virtual, a alocação adequada de recursos, como CPU e memória, contribui para um desempenho eficiente.
-4) O monitoramento constante dos recursos, como CPU e memória, é imprescindível para garantir um bom desempenho em ambientes virtuais.
-5) Uma correta distribuição da carga entre os servidores virtuais é fundamental para otimizar o desempenho em ambientes virtuais.
-6) O gerenciamento eficiente da memória, como o uso de técnicas de page swapping, pode impactar positivamente o desempenho em ambientes virtuais.
-7) Um adequado gerenciamento da CPU virtual, como o uso de técnicas de escalonamento de processos, contribui para um melhor desempenho em ambientes virtuais.
-8) Em ambientes virtuais, o desempenho pode ser afetado por picos de demanda, sendo necessário um balanceamento de carga eficiente para minimizar esses impactos.
-9) A virtualização permite uma flexibilidade no aumento ou diminuição de recursos, possibilitando um melhor gerenciamento e balanceamento de carga em ambientes virtuais.
-10) O desempenho em ambientes virtuais pode ser aprimorado por meio de estratégias avançadas de gerenciamento de recursos, como a implementação de políticas de escalonamento dinâmico.
+1. O desempenho em ambientes virtuais depende do gerenciamento eficiente de recursos, como CPU e memória.
+2. O balanceamento de carga é uma estratégia essencial para otimizar o desempenho em ambientes virtuais.
+3. No ambiente virtual, a alocação adequada de recursos, como CPU e memória, contribui para um desempenho eficiente.
+4. O monitoramento constante dos recursos, como CPU e memória, é imprescindível para garantir um bom desempenho em ambientes virtuais.
+5. Uma correta distribuição da carga entre os servidores virtuais é fundamental para otimizar o desempenho em ambientes virtuais.
+6. O gerenciamento eficiente da memória, como o uso de técnicas de page swapping, pode impactar positivamente o desempenho em ambientes virtuais.
+7. Um adequado gerenciamento da CPU virtual, como o uso de técnicas de escalonamento de processos, contribui para um melhor desempenho em ambientes virtuais.
+8. Em ambientes virtuais, o desempenho pode ser afetado por picos de demanda, sendo necessário um balanceamento de carga eficiente para minimizar esses impactos.
+9. A virtualização permite uma flexibilidade no aumento ou diminuição de recursos, possibilitando um melhor gerenciamento e balanceamento de carga em ambientes virtuais.
+10. O desempenho em ambientes virtuais pode ser aprimorado por meio de estratégias avançadas de gerenciamento de recursos, como a implementação de políticas de escalonamento dinâmico.
 
 7. Subtópico:
 7. Armazenamento

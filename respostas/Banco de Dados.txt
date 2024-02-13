@@ -407,16 +407,16 @@ Item do edital: 1.2 SQL
 1. Subtópico:
 1.2.1 Conceitos básicos de SQL
 Assertivas:
-1) A linguagem SQL (Structured Query Language) é utilizada para realizar consultas e manipulações em bancos de dados relacionais.
-2) O SQL é uma linguagem declarativa, ou seja, o usuário descreve a operação que deseja realizar, sem necessidade de especificar os procedimentos internos.
-3) Em SQL, as declarações SELECT são utilizadas para recuperar informações de um banco de dados.
-4) O comando INSERT INTO é utilizado para inserir novos registros em uma tabela.
-5) O comando UPDATE é utilizado para atualizar os dados de um registro em uma tabela.
-6) O comando DELETE é utilizado para excluir registros de uma tabela.
-7) O comando CREATE TABLE é utilizado para criar uma nova tabela em um banco de dados.
-8) A cláusula WHERE é utilizada para filtrar os resultados de uma consulta, retornando apenas os registros que atendam às condições especificadas.
-9) O comando ALTER TABLE é utilizado para adicionar, modificar ou excluir colunas em uma tabela já existente.
-10) A cláusula ORDER BY é utilizada para ordenar os resultados de uma consulta de acordo com colunas especificadas.
+1. A linguagem SQL (Structured Query Language) é utilizada para realizar consultas e manipulações em bancos de dados relacionais.
+2. O SQL é uma linguagem declarativa, ou seja, o usuário descreve a operação que deseja realizar, sem necessidade de especificar os procedimentos internos.
+3. Em SQL, as declarações SELECT são utilizadas para recuperar informações de um banco de dados.
+4. O comando INSERT INTO é utilizado para inserir novos registros em uma tabela.
+5. O comando UPDATE é utilizado para atualizar os dados de um registro em uma tabela.
+6. O comando DELETE é utilizado para excluir registros de uma tabela.
+7. O comando CREATE TABLE é utilizado para criar uma nova tabela em um banco de dados.
+8. A cláusula WHERE é utilizada para filtrar os resultados de uma consulta, retornando apenas os registros que atendam às condições especificadas.
+9. O comando ALTER TABLE é utilizado para adicionar, modificar ou excluir colunas em uma tabela já existente.
+10. A cláusula ORDER BY é utilizada para ordenar os resultados de uma consulta de acordo com colunas especificadas.
 
 2. Subtópico:
 1.2.2 Comandos DDL (Data Definition Language): CREATE, ALTER, DROP
@@ -449,16 +449,16 @@ Assertivas:
 4. Subtópico:
 1.2.4 Funções de agregação em SQL: COUNT, SUM, AVG, MAX e MIN
 Assertivas:
-1) A função COUNT em SQL retorna o número de registros em uma coluna específica de uma tabela.
-2) A função SUM em SQL retorna a soma dos valores em uma coluna específica de uma tabela.
-3) A função AVG em SQL retorna a média dos valores em uma coluna específica de uma tabela.
-4) A função MAX em SQL retorna o valor máximo em uma coluna específica de uma tabela.
-5) A função MIN em SQL retorna o valor mínimo em uma coluna específica de uma tabela.
-6) A função de agregação COUNT em SQL não considera valores NULL.
-7) A função de agregação SUM em SQL pode ser aplicada a colunas numéricas.
-8) A função de agregação AVG em SQL calcula a média aritmética dos valores em uma coluna numérica específica.
-9) A função de agregação MAX em SQL pode ser usada para encontrar a maior data em uma coluna de datas.
-10) A função de agregação MIN em SQL pode ser usada para encontrar o menor valor em uma coluna de caracteres.
+1. A função COUNT em SQL retorna o número de registros em uma coluna específica de uma tabela.
+2. A função SUM em SQL retorna a soma dos valores em uma coluna específica de uma tabela.
+3. A função AVG em SQL retorna a média dos valores em uma coluna específica de uma tabela.
+4. A função MAX em SQL retorna o valor máximo em uma coluna específica de uma tabela.
+5. A função MIN em SQL retorna o valor mínimo em uma coluna específica de uma tabela.
+6. A função de agregação COUNT em SQL não considera valores NULL.
+7. A função de agregação SUM em SQL pode ser aplicada a colunas numéricas.
+8. A função de agregação AVG em SQL calcula a média aritmética dos valores em uma coluna numérica específica.
+9. A função de agregação MAX em SQL pode ser usada para encontrar a maior data em uma coluna de datas.
+10. A função de agregação MIN em SQL pode ser usada para encontrar o menor valor em uma coluna de caracteres.
 
 5. Subtópico:
 1.2.5 Cláusulas WHERE e JOIN em consultas SQL 
@@ -519,16 +519,16 @@ Assertivas:
 9. Subtópico:
 1 2 9
 Assertivas:
-1) O número 1 é o menor número inteiro positivo.
-2) O número 2 é um número par.
-3) A soma dos números 1 e 2 resulta no número 3.
-4) O número 9 é um número ímpar.
-5) O número 2 é um divisor do número 9.
-6) O número 9 não é um número primo.
-7) A multiplicação dos números 1 e 2 resulta no número 2.
-8) O número 9 é um quadrado perfeito.
-9) A subtração dos números 2 e 1 resulta no número 1.
-10) O número 9 é um número triangular.
+1. O número 1 é o menor número inteiro positivo.
+2. O número 2 é um número par.
+3. A soma dos números 1 e 2 resulta no número 3.
+4. O número 9 é um número ímpar.
+5. O número 2 é um divisor do número 9.
+6. O número 9 não é um número primo.
+7. A multiplicação dos números 1 e 2 resulta no número 2.
+8. O número 9 é um quadrado perfeito.
+9. A subtração dos números 2 e 1 resulta no número 1.
+10. O número 9 é um número triangular.
 
 
 Item do edital: 1.3 NOSQL.    
@@ -1096,16 +1096,16 @@ Assertivas:
 2. Subtópico:
 2. Diferenças entre os bancos de dados SQL e NoSQL.
 Assertivas:
-1) Os bancos de dados SQL são baseados em estruturas de tabelas relacionais, enquanto os bancos de dados NoSQL utilizam modelos de dados não relacionais.
-2) Os bancos de dados SQL possuem esquemas rígidos, onde é necessário definir previamente a estrutura da tabela e seus tipos de dados, já os bancos de dados NoSQL possuem esquemas flexíveis, permitindo que os dados sejam armazenados sem a necessidade de um esquema pré-definido.
-3) Em bancos de dados SQL, a consulta é realizada principalmente por meio da linguagem SQL (Structured Query Language), enquanto nos bancos de dados NoSQL, as consultas variam de acordo com o tipo de banco de dados, podendo ser feitas através de APIs específicas ou utilizando uma linguagem de consulta própria.
-4) Bancos de dados SQL são mais eficientes quando se trata de consultas complexas que envolvem junções de tabelas, enquanto bancos de dados NoSQL são mais adequados para situações em que é necessário lidar com grandes quantidades de dados não estruturados.
-5) Devido ao seu esquema flexível, os bancos de dados NoSQL são mais adequados para aplicações web escaláveis, que precisam lidar com grandes volumes de dados e permitir atualizações contínuas do esquema.
-6) Bancos de dados SQL são amplamente utilizados em sistemas de gestão de bancos de dados relacionais, como MySQL, Oracle e PostgreSQL, enquanto bancos de dados NoSQL são mais comumente encontrados em sistemas de bancos de dados orientados a documentos, como MongoDB e Couchbase.
-7) Bancos de dados SQL são projetados para garantir a consistência dos dados, seguindo o ACID (Atomicidade, Consistência, Isolamento e Durabilidade), enquanto bancos de dados NoSQL geralmente priorizam a disponibilidade e a tolerância a falhas, seguindo o modelo BASE (Basically Available, Soft state, Eventually consistent).
-8) Em termos de desempenho, bancos de dados NoSQL são frequentemente mais rápidos em operações de leitura e gravação em comparação com bancos de dados SQL, devido à sua estrutura de dados não relacionais.
-9) Bancos de dados SQL são mais adequados para aplicações que exigem transações complexas, garantindo a integridade dos dados, enquanto bancos de dados NoSQL são mais adequados para aplicações orientadas a documentos ou que precisam lidar com dados não estruturados.
-10) Em termos de escalabilidade horizontal, onde é necessário adicionar mais servidores para lidar com o crescimento da demanda, os bancos de dados NoSQL geralmente superam os bancos de dados SQL, devido à sua arquitetura distribuída e capacidade de expansão mais flexível.
+1. Os bancos de dados SQL são baseados em estruturas de tabelas relacionais, enquanto os bancos de dados NoSQL utilizam modelos de dados não relacionais.
+2. Os bancos de dados SQL possuem esquemas rígidos, onde é necessário definir previamente a estrutura da tabela e seus tipos de dados, já os bancos de dados NoSQL possuem esquemas flexíveis, permitindo que os dados sejam armazenados sem a necessidade de um esquema pré-definido.
+3. Em bancos de dados SQL, a consulta é realizada principalmente por meio da linguagem SQL (Structured Query Language), enquanto nos bancos de dados NoSQL, as consultas variam de acordo com o tipo de banco de dados, podendo ser feitas através de APIs específicas ou utilizando uma linguagem de consulta própria.
+4. Bancos de dados SQL são mais eficientes quando se trata de consultas complexas que envolvem junções de tabelas, enquanto bancos de dados NoSQL são mais adequados para situações em que é necessário lidar com grandes quantidades de dados não estruturados.
+5. Devido ao seu esquema flexível, os bancos de dados NoSQL são mais adequados para aplicações web escaláveis, que precisam lidar com grandes volumes de dados e permitir atualizações contínuas do esquema.
+6. Bancos de dados SQL são amplamente utilizados em sistemas de gestão de bancos de dados relacionais, como MySQL, Oracle e PostgreSQL, enquanto bancos de dados NoSQL são mais comumente encontrados em sistemas de bancos de dados orientados a documentos, como MongoDB e Couchbase.
+7. Bancos de dados SQL são projetados para garantir a consistência dos dados, seguindo o ACID (Atomicidade, Consistência, Isolamento e Durabilidade), enquanto bancos de dados NoSQL geralmente priorizam a disponibilidade e a tolerância a falhas, seguindo o modelo BASE (Basically Available, Soft state, Eventually consistent).
+8. Em termos de desempenho, bancos de dados NoSQL são frequentemente mais rápidos em operações de leitura e gravação em comparação com bancos de dados SQL, devido à sua estrutura de dados não relacionais.
+9. Bancos de dados SQL são mais adequados para aplicações que exigem transações complexas, garantindo a integridade dos dados, enquanto bancos de dados NoSQL são mais adequados para aplicações orientadas a documentos ou que precisam lidar com dados não estruturados.
+10. Em termos de escalabilidade horizontal, onde é necessário adicionar mais servidores para lidar com o crescimento da demanda, os bancos de dados NoSQL geralmente superam os bancos de dados SQL, devido à sua arquitetura distribuída e capacidade de expansão mais flexível.
 
 3. Subtópico:
 3. Tipos de bancos de dados NoSQL: chave-valor, documento, coluna e grafo.
@@ -1351,16 +1351,16 @@ Assertivas:
 2. Subtópico:
 2. Comandos SQL: SELECT, INSERT, UPDATE e DELETE.
 Assertivas:
-1) O comando SELECT é utilizado para consultar dados em um banco de dados.
-2) O comando INSERT é usado para inserir novos registros em uma tabela.
-3) O comando UPDATE é usado para atualizar registros existentes em uma tabela.
-4) O comando DELETE é utilizado para excluir registros de uma tabela.
-5) O comando SELECT permite a utilização de cláusulas como WHERE e ORDER BY.
-6) O comando INSERT requer a especificação das colunas e dos valores a serem inseridos.
-7) O comando UPDATE permite a atualização de múltiplos registros simultaneamente.
-8) O comando DELETE excluirá todos os registros da tabela se a cláusula WHERE não for especificada.
-9) O comando SELECT permite a utilização de funções agregadas, como COUNT, SUM e AVG.
-10) Os comandos SQL permitem a manipulação e recuperação de dados armazenados em bancos de dados relacionais.
+1. O comando SELECT é utilizado para consultar dados em um banco de dados.
+2. O comando INSERT é usado para inserir novos registros em uma tabela.
+3. O comando UPDATE é usado para atualizar registros existentes em uma tabela.
+4. O comando DELETE é utilizado para excluir registros de uma tabela.
+5. O comando SELECT permite a utilização de cláusulas como WHERE e ORDER BY.
+6. O comando INSERT requer a especificação das colunas e dos valores a serem inseridos.
+7. O comando UPDATE permite a atualização de múltiplos registros simultaneamente.
+8. O comando DELETE excluirá todos os registros da tabela se a cláusula WHERE não for especificada.
+9. O comando SELECT permite a utilização de funções agregadas, como COUNT, SUM e AVG.
+10. Os comandos SQL permitem a manipulação e recuperação de dados armazenados em bancos de dados relacionais.
 
 3. Subtópico:
 3. Funções agregadas em SQL: COUNT, SUM, AVG, MAX e MIN.
@@ -1480,39 +1480,39 @@ Assertivas:
 3. Subtópico:
 3. Ferramentas e técnicas para análise e gestão de dados em BI
 Assertivas:
-1) A utilização de ferramentas de Business Intelligence (BI) é fundamental para analisar grandes volumes de dados e obter insights relevantes para a gestão de uma organização.
+1. A utilização de ferramentas de Business Intelligence (BI) é fundamental para analisar grandes volumes de dados e obter insights relevantes para a gestão de uma organização.
 
-2) A técnica de mineração de dados é empregada em BI para identificar padrões e tendências ocultas nos dados, auxiliando na tomada de decisões estratégicas.
+2. A técnica de mineração de dados é empregada em BI para identificar padrões e tendências ocultas nos dados, auxiliando na tomada de decisões estratégicas.
 
-3) Dashboards interativos são ferramentas utilizadas em BI para visualizar e analisar dados de forma dinâmica, possibilitando a identificação rápida de informações relevantes.
+3. Dashboards interativos são ferramentas utilizadas em BI para visualizar e analisar dados de forma dinâmica, possibilitando a identificação rápida de informações relevantes.
 
-4) Técnicas de análise preditiva são aplicadas em soluções de BI para prever comportamentos futuros com base em dados históricos, auxiliando na tomada de decisões mais assertivas.
+4. Técnicas de análise preditiva são aplicadas em soluções de BI para prever comportamentos futuros com base em dados históricos, auxiliando na tomada de decisões mais assertivas.
 
-5) A técnica de ETL (Extract, Transform, Load) é amplamente utilizada em BI para extrair dados de diferentes fontes, transformá-los em um formato adequado e carregá-los em um data warehouse para análise.
+5. A técnica de ETL (Extract, Transform, Load) é amplamente utilizada em BI para extrair dados de diferentes fontes, transformá-los em um formato adequado e carregá-los em um data warehouse para análise.
 
-6) A técnica de OLAP (Online Analytical Processing) é empregada em BI para analisar grandes volumes de dados em tempo real, permitindo realizar consultas e análises complexas de forma ágil.
+6. A técnica de OLAP (Online Analytical Processing) é empregada em BI para analisar grandes volumes de dados em tempo real, permitindo realizar consultas e análises complexas de forma ágil.
 
-7) A utilização de data mining (mineração de dados) em BI permite descobrir informações valiosas e não evidentes nos dados, tornando-se uma ferramenta estratégica para identificar oportunidades de negócio.
+7. A utilização de data mining (mineração de dados) em BI permite descobrir informações valiosas e não evidentes nos dados, tornando-se uma ferramenta estratégica para identificar oportunidades de negócio.
 
-8) Técnicas de data visualization (visualização de dados) são empregadas em soluções de BI para representar informações complexas de forma visualmente atrativa e de fácil compreensão.
+8. Técnicas de data visualization (visualização de dados) são empregadas em soluções de BI para representar informações complexas de forma visualmente atrativa e de fácil compreensão.
 
-9) A utilização de ferramentas de análise e gestão de dados em BI contribui para a melhoria do desempenho organizacional, ao possibilitar a identificação de áreas de otimização e oportunidades de crescimento.
+9. A utilização de ferramentas de análise e gestão de dados em BI contribui para a melhoria do desempenho organizacional, ao possibilitar a identificação de áreas de otimização e oportunidades de crescimento.
 
-10) A técnica de data integration (integração de dados) é utilizada em BI para consolidar informações de diferentes fontes e sistemas, proporcionando uma visão unificada dos dados para análises e decisões mais precisas.
+10. A técnica de data integration (integração de dados) é utilizada em BI para consolidar informações de diferentes fontes e sistemas, proporcionando uma visão unificada dos dados para análises e decisões mais precisas.
 
 4. Subtópico:
 4. Data Warehousing: conceito, arquitetura e componentes
 Assertivas:
-1) O Data Warehousing é uma estratégia utilizada para armazenar e gerenciar grandes volumes de dados de forma organizada e integrada.
-2) A arquitetura de um Data Warehouse é composta por três camadas principais: camada de extração, camada de transformação e camada de carga.
-3) Um Data Warehouse pode ser utilizado para fins analíticos, permitindo a análise de informações históricas e a geração de relatórios avançados.
-4) O conceito de Dimensional Modeling é amplamente aplicado em soluções de Data Warehousing para organizar os dados de forma intuitiva e facilitar a análise.
-5) Os componentes de um Data Warehouse incluem o banco de dados do Data Warehouse, o processo de ETL (Extração, Transformação e Carga) e as ferramentas de análise.
-6) A camada de extração em uma arquitetura de Data Warehouse é responsável por coletar os dados de diferentes fontes e prepará-los para serem carregados no Data Warehouse.
-7) A camada de transformação em um Data Warehouse envolve a limpeza, conformidade e enriquecimento dos dados antes de serem carregados no banco de dados do Data Warehouse.
-8) A camada de carga em um Data Warehouse é responsável por integrar os dados transformados no banco de dados do Data Warehouse, seguindo um modelo dimensional ou relacional.
-9) O Data Warehouse é projetado para facilitar a análise de dados históricos, permitindo tanto consultas rápidas quanto complexas para gerar insights e tomar decisões estratégicas.
-10) A utilização de técnicas de indexação, particionamento e otimização de consultas são comuns em soluções de Data Warehousing para garantir o desempenho e a eficiência na análise de grandes volumes de dados.
+1. O Data Warehousing é uma estratégia utilizada para armazenar e gerenciar grandes volumes de dados de forma organizada e integrada.
+2. A arquitetura de um Data Warehouse é composta por três camadas principais: camada de extração, camada de transformação e camada de carga.
+3. Um Data Warehouse pode ser utilizado para fins analíticos, permitindo a análise de informações históricas e a geração de relatórios avançados.
+4. O conceito de Dimensional Modeling é amplamente aplicado em soluções de Data Warehousing para organizar os dados de forma intuitiva e facilitar a análise.
+5. Os componentes de um Data Warehouse incluem o banco de dados do Data Warehouse, o processo de ETL (Extração, Transformação e Carga) e as ferramentas de análise.
+6. A camada de extração em uma arquitetura de Data Warehouse é responsável por coletar os dados de diferentes fontes e prepará-los para serem carregados no Data Warehouse.
+7. A camada de transformação em um Data Warehouse envolve a limpeza, conformidade e enriquecimento dos dados antes de serem carregados no banco de dados do Data Warehouse.
+8. A camada de carga em um Data Warehouse é responsável por integrar os dados transformados no banco de dados do Data Warehouse, seguindo um modelo dimensional ou relacional.
+9. O Data Warehouse é projetado para facilitar a análise de dados históricos, permitindo tanto consultas rápidas quanto complexas para gerar insights e tomar decisões estratégicas.
+10. A utilização de técnicas de indexação, particionamento e otimização de consultas são comuns em soluções de Data Warehousing para garantir o desempenho e a eficiência na análise de grandes volumes de dados.
 
 5. Subtópico:
 5. Data Mining: conceito, técnicas e aplicações na inteligência de negócios
@@ -1531,16 +1531,16 @@ Assertivas:
 6. Subtópico:
 6. Sistemas OLAP (Online Analytical Processing): características e funcionalidades 
 Assertivas:
-1) Sistemas OLAP são utilizados para análise de dados multidimensionais.
-2) Sistemas OLAP permitem a visualização de dados de forma hierárquica.
-3) Os sistemas OLAP permitem a realização de análises de tendência e previsão.
-4) Uma das principais características dos sistemas OLAP é a capacidade de realizar consultas de forma rápida e eficiente.
-5) Os sistemas OLAP são capazes de lidar com grandes volumes de dados.
-6) Sistemas OLAP possuem interfaces intuitivas e amigáveis para facilitar a interação do usuário.
-7) Os sistemas OLAP permitem a realização de análises de maneira não-linear, explorando diferentes perspectivas dos dados.
-8) Os sistemas OLAP são utilizados para análise de negócios, auxiliando na identificação de oportunidades e na tomada de decisões estratégicas.
-9) Os sistemas OLAP permitem a criação de relatórios e gráficos personalizados para facilitar a compreensão dos dados.
-10) Sistemas OLAP são ferramentas essenciais para a análise de grandes volumes de dados em tempo real.
+1. Sistemas OLAP são utilizados para análise de dados multidimensionais.
+2. Sistemas OLAP permitem a visualização de dados de forma hierárquica.
+3. Os sistemas OLAP permitem a realização de análises de tendência e previsão.
+4. Uma das principais características dos sistemas OLAP é a capacidade de realizar consultas de forma rápida e eficiente.
+5. Os sistemas OLAP são capazes de lidar com grandes volumes de dados.
+6. Sistemas OLAP possuem interfaces intuitivas e amigáveis para facilitar a interação do usuário.
+7. Os sistemas OLAP permitem a realização de análises de maneira não-linear, explorando diferentes perspectivas dos dados.
+8. Os sistemas OLAP são utilizados para análise de negócios, auxiliando na identificação de oportunidades e na tomada de decisões estratégicas.
+9. Os sistemas OLAP permitem a criação de relatórios e gráficos personalizados para facilitar a compreensão dos dados.
+10. Sistemas OLAP são ferramentas essenciais para a análise de grandes volumes de dados em tempo real.
 
 7. Subtópico:
 7. Processo ETL (Extract, Transform, Load): importância na arquitetura BI 

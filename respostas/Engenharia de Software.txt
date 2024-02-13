@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Arquitetura cliente-servidor e suas características
 Assertivas:
-1) Na arquitetura cliente-servidor, o cliente e o servidor são componentes independentes que se comunicam através de uma rede.
-2) O cliente é responsável por solicitar serviços ao servidor, enquanto o servidor é responsável por processar e responder a essas solicitações.
-3) A arquitetura cliente-servidor permite uma distribuição hierárquica de tarefas, onde o servidor concentra os recursos e serviços compartilhados.
-4) O cliente na arquitetura cliente-servidor pode ser um dispositivo como um computador, smartphone ou tablet.
-5) A comunicação entre o cliente e o servidor na arquitetura cliente-servidor geralmente é baseada no protocolo HTTP.
-6) A arquitetura cliente-servidor permite a escalabilidade, facilitando a adição de novos clientes e servidores conforme necessário.
-7) A arquitetura cliente-servidor é amplamente utilizada na internet, onde diversos sites e aplicativos seguem esse modelo para atender a grandes volumes de solicitações.
-8) A arquitetura cliente-servidor possibilita a separação das camadas de aplicação, permitindo a reutilização de componentes e a flexibilidade na implementação de mudanças.
-9) Na arquitetura cliente-servidor, os servidores são projetados para serem confiáveis e disponíveis, garantindo mínima interrupção de serviços.
-10) A arquitetura cliente-servidor oferece um sistema seguro, permitindo a autenticação e autorização dos usuários antes do acesso aos recursos do servidor.
+1. Na arquitetura cliente-servidor, o cliente e o servidor são componentes independentes que se comunicam através de uma rede.
+2. O cliente é responsável por solicitar serviços ao servidor, enquanto o servidor é responsável por processar e responder a essas solicitações.
+3. A arquitetura cliente-servidor permite uma distribuição hierárquica de tarefas, onde o servidor concentra os recursos e serviços compartilhados.
+4. O cliente na arquitetura cliente-servidor pode ser um dispositivo como um computador, smartphone ou tablet.
+5. A comunicação entre o cliente e o servidor na arquitetura cliente-servidor geralmente é baseada no protocolo HTTP.
+6. A arquitetura cliente-servidor permite a escalabilidade, facilitando a adição de novos clientes e servidores conforme necessário.
+7. A arquitetura cliente-servidor é amplamente utilizada na internet, onde diversos sites e aplicativos seguem esse modelo para atender a grandes volumes de solicitações.
+8. A arquitetura cliente-servidor possibilita a separação das camadas de aplicação, permitindo a reutilização de componentes e a flexibilidade na implementação de mudanças.
+9. Na arquitetura cliente-servidor, os servidores são projetados para serem confiáveis e disponíveis, garantindo mínima interrupção de serviços.
+10. A arquitetura cliente-servidor oferece um sistema seguro, permitindo a autenticação e autorização dos usuários antes do acesso aos recursos do servidor.
 
 4. Subtópico:
 4. Tecnologias front-end e back-end em sistemas web
@@ -160,16 +160,16 @@ Assertivas:
 2. Subtópico:
 1.1.2 Funcionamento do protocolo HTTP
 Assertivas:
-1) O protocolo HTTP é responsável pela comunicação entre cliente e servidor na web.
-2) O HTTP utiliza o método de requisição-resposta para trocar informações.
-3) O HTTP opera na camada de aplicação do modelo OSI.
-4) O HTTP utiliza o TCP como protocolo de transporte.
-5) O HTTP suporta a transferência de texto, imagens, vídeos e outros tipos de dados.
-6) O HTTP utiliza URLs para identificar recursos na web.
-7) O HTTP é um protocolo stateless, ou seja, não mantém informações de estado entre requisições.
-8) O HTTP utiliza códigos de status para indicar o resultado da requisição.
-9) O HTTP permite o uso de autenticação, permitindo a proteção de recursos sensíveis.
-10) O HTTP utiliza o cabeçalho para enviar informações adicionais na requisição e na resposta.
+1. O protocolo HTTP é responsável pela comunicação entre cliente e servidor na web.
+2. O HTTP utiliza o método de requisição-resposta para trocar informações.
+3. O HTTP opera na camada de aplicação do modelo OSI.
+4. O HTTP utiliza o TCP como protocolo de transporte.
+5. O HTTP suporta a transferência de texto, imagens, vídeos e outros tipos de dados.
+6. O HTTP utiliza URLs para identificar recursos na web.
+7. O HTTP é um protocolo stateless, ou seja, não mantém informações de estado entre requisições.
+8. O HTTP utiliza códigos de status para indicar o resultado da requisição.
+9. O HTTP permite o uso de autenticação, permitindo a proteção de recursos sensíveis.
+10. O HTTP utiliza o cabeçalho para enviar informações adicionais na requisição e na resposta.
 
 3. Subtópico:
 1.1.3 Métodos de requisição do protocolo HTTP
@@ -188,19 +188,19 @@ Assertivas:
 4. Subtópico:
 1.1.4 Códigos de status do protocolo HTTP
 Assertivas:
-1) O código de status HTTP 200 indica que a requisição foi bem sucedida.
-2) O código de status HTTP 404 indica que a página solicitada não foi encontrada.
-3) O código de status HTTP 302 indica uma redireção temporária.
-4) O código de status HTTP 403 indica que o acesso à página é proibido.
-5) O código de status HTTP 500 indica um erro interno de servidor.
-6) O código de status HTTP 301 indica uma redireção permanente.
-7) O código de status HTTP 401 indica que é necessário autenticação para acessar a página.
-8) O código de status HTTP 304 indica que a página não foi modificada desde a última requisição.
-9) O código de status HTTP 201 indica que uma nova página foi criada com sucesso.
-10) O código de status HTTP 503 indica que o servidor está temporariamente indisponível.
+1. O código de status HTTP 200 indica que a requisição foi bem sucedida.
+2. O código de status HTTP 404 indica que a página solicitada não foi encontrada.
+3. O código de status HTTP 302 indica uma redireção temporária.
+4. O código de status HTTP 403 indica que o acesso à página é proibido.
+5. O código de status HTTP 500 indica um erro interno de servidor.
+6. O código de status HTTP 301 indica uma redireção permanente.
+7. O código de status HTTP 401 indica que é necessário autenticação para acessar a página.
+8. O código de status HTTP 304 indica que a página não foi modificada desde a última requisição.
+9. O código de status HTTP 201 indica que uma nova página foi criada com sucesso.
+10. O código de status HTTP 503 indica que o servidor está temporariamente indisponível.
 
 5. Subtópico:
-1.1.5 Diferenças entre as versões do protocolo HTTP (HTTP 0,9,  0,10, 2 e 3)
+1.1.5 Diferenças entre as versões do protocolo HTTP (HTTP 0,9,  0,10, 2 e 3.
 Assertivas:
 1. O protocolo HTTP 0.9 é a versão mais antiga do protocolo e suporta apenas o método GET para recuperar informações de um servidor.
 2. A versão HTTP 1.0 foi lançada em 1996 e introduziu novos métodos, como POST e HEAD, além de suportar cabeçalhos e códigos de status.
@@ -987,16 +987,16 @@ Assertivas:
 3. Subtópico:
 3. Configuração e Gerenciamento de Servidores Proxy
 Assertivas:
-1) O servidor proxy é utilizado para intermediar a comunicação entre clientes e servidores.
-2) O servidor proxy permite o controle e monitoramento do tráfego de rede.
-3) O servidor proxy pode ser configurado para restringir o acesso a determinados sites ou tipos de conteúdos.
-4) É possível configurar um servidor proxy para autenticar usuários antes de permitir o acesso à internet.
-5) O servidor proxy pode aumentar a velocidade de acesso à internet ao armazenar em cache conteúdos frequentemente acessados.
-6) O gerenciamento de servidores proxy envolve a configuração e monitoramento das políticas de acesso.
-7) O servidor proxy oferece funcionalidades de balanceamento de carga, distribuindo as requisições dos clientes entre diferentes servidores.
-8) A configuração de um servidor proxy pode ser feita por meio de alterações em arquivos de configuração ou por meio de interfaces gráficas.
-9) A escolha do tipo de servidor proxy (HTTP, SOCKS, transparente, reverso, etc.) depende das necessidades e da infraestrutura de cada organização.
-10) O gerenciamento eficiente de servidores proxy envolve a análise de logs de acesso e a adoção de políticas de segurança adequadas.
+1. O servidor proxy é utilizado para intermediar a comunicação entre clientes e servidores.
+2. O servidor proxy permite o controle e monitoramento do tráfego de rede.
+3. O servidor proxy pode ser configurado para restringir o acesso a determinados sites ou tipos de conteúdos.
+4. É possível configurar um servidor proxy para autenticar usuários antes de permitir o acesso à internet.
+5. O servidor proxy pode aumentar a velocidade de acesso à internet ao armazenar em cache conteúdos frequentemente acessados.
+6. O gerenciamento de servidores proxy envolve a configuração e monitoramento das políticas de acesso.
+7. O servidor proxy oferece funcionalidades de balanceamento de carga, distribuindo as requisições dos clientes entre diferentes servidores.
+8. A configuração de um servidor proxy pode ser feita por meio de alterações em arquivos de configuração ou por meio de interfaces gráficas.
+9. A escolha do tipo de servidor proxy (HTTP, SOCKS, transparente, reverso, etc.) depende das necessidades e da infraestrutura de cada organização.
+10. O gerenciamento eficiente de servidores proxy envolve a análise de logs de acesso e a adoção de políticas de segurança adequadas.
 
 4. Subtópico:
 4. Benefícios do Uso de Servidores Proxy em Sistemas Web
@@ -2275,16 +2275,16 @@ Assertivas:
 3. Subtópico:
 3. Comando 'git clone': Clonagem de um repositório existente.
 Assertivas:
-1) O comando 'git clone' é utilizado para fazer uma clonagem de um repositório existente.
-2) A clonagem realizada pelo comando 'git clone' permite criar uma cópia local do repositório.
-3) O comando 'git clone' é utilizado para clonar tanto repositórios locais quanto repositórios remotos.
-4) O comando 'git clone' pode ser utilizado para clonar repositórios hospedados em servidores como o GitHub, GitLab ou Bitbucket.
-5) Ao executar o comando 'git clone', é necessário especificar a URL do repositório que será clonado.
-6) A clonagem realizada pelo comando 'git clone' inclui todas as ramificações e histórico de commits do repositório original.
-7) A clonagem de um repositório existente por meio do comando 'git clone' cria automaticamente um diretório local com o nome do repositório.
-8) A clonagem de um repositório com o comando 'git clone' possibilita a colaboração e contribuição para o projeto de forma descentralizada.
-9) A clonagem precisa de uma conexão com a internet para baixar os arquivos do repositório.
-10) Após clonar um repositório com o comando 'git clone', o repositório local estará pronto para ser utilizado e manipulado através dos comandos Git.
+1. O comando 'git clone' é utilizado para fazer uma clonagem de um repositório existente.
+2. A clonagem realizada pelo comando 'git clone' permite criar uma cópia local do repositório.
+3. O comando 'git clone' é utilizado para clonar tanto repositórios locais quanto repositórios remotos.
+4. O comando 'git clone' pode ser utilizado para clonar repositórios hospedados em servidores como o GitHub, GitLab ou Bitbucket.
+5. Ao executar o comando 'git clone', é necessário especificar a URL do repositório que será clonado.
+6. A clonagem realizada pelo comando 'git clone' inclui todas as ramificações e histórico de commits do repositório original.
+7. A clonagem de um repositório existente por meio do comando 'git clone' cria automaticamente um diretório local com o nome do repositório.
+8. A clonagem de um repositório com o comando 'git clone' possibilita a colaboração e contribuição para o projeto de forma descentralizada.
+9. A clonagem precisa de uma conexão com a internet para baixar os arquivos do repositório.
+10. Após clonar um repositório com o comando 'git clone', o repositório local estará pronto para ser utilizado e manipulado através dos comandos Git.
 
 4. Subtópico:
 4. Comando 'git add': Adição de arquivos ao índice do Git.
@@ -2387,7 +2387,7 @@ Assertivas:
 7. Dicionários podem ser iterados através de suas chaves, valores ou itens (pares chave-valor).
 8. Os conjuntos em Python possuem métodos para realizar operações matemáticas como união, interseção e diferença.
 9. Listas, tuplas e dicionários podem ser aninhados em estruturas mais complexas para organizar dados em hierarquias.
-10. A complexidade de tempo para inserir, pesquisar ou deletar elementos em uma lista é O(n), enquanto nos dicionários é O(1) em média.
+10. A complexidade de tempo para inserir, pesquisar ou deletar elementos em uma lista é O(n), enquanto nos dicionários é O(1. em média.
 
 3. Subtópico:
 3. Funções em Python: Definição e uso de funções, parâmetros padrão e argumentos variáveis.
@@ -2678,16 +2678,16 @@ Assertivas:
 7. Subtópico:
 7. Programação orientada a objetos com Python 
 Assertivas:
-1) A programação orientada a objetos com Python é um paradigma que permite organizar e reutilizar código de forma modular.
-2) Em Python, é possível criar classes que representam objetos com atributos e métodos próprios.
-3) A encapsulação é um conceito fundamental na programação orientada a objetos, e Python permite definir métodos e atributos como públicos, protegidos ou privados.
-4) A herança é um princípio importante na orientação a objetos, e Python suporta a criação de hierarquias de classes através do mecanismo de herança.
-5) É possível usar o polimorfismo em Python, permitindo que objetos de classes diferentes possam ser tratados de forma genérica.
-6) O encapsulamento em Python pode ser obtido através dos modificadores de acesso como o "public", "protected" e "private".
-7) A delegação é uma técnica comum em Python para reutilizar código, permitindo que uma classe utilize métodos de outra classe.
-8) Python suporta múltipla herança, possibilitando que uma classe herde características de várias superclasses.
-9) O polimorfismo em Python permite que um método tenha várias formas, dependendo do objeto que o chama.
-10) Em Python, é possível utilizar um construtor (\_\_init\_\_) para atribuir valores iniciais aos atributos de uma classe no momento da sua criação.
+1. A programação orientada a objetos com Python é um paradigma que permite organizar e reutilizar código de forma modular.
+2. Em Python, é possível criar classes que representam objetos com atributos e métodos próprios.
+3. A encapsulação é um conceito fundamental na programação orientada a objetos, e Python permite definir métodos e atributos como públicos, protegidos ou privados.
+4. A herança é um princípio importante na orientação a objetos, e Python suporta a criação de hierarquias de classes através do mecanismo de herança.
+5. É possível usar o polimorfismo em Python, permitindo que objetos de classes diferentes possam ser tratados de forma genérica.
+6. O encapsulamento em Python pode ser obtido através dos modificadores de acesso como o "public", "protected" e "private".
+7. A delegação é uma técnica comum em Python para reutilizar código, permitindo que uma classe utilize métodos de outra classe.
+8. Python suporta múltipla herança, possibilitando que uma classe herde características de várias superclasses.
+9. O polimorfismo em Python permite que um método tenha várias formas, dependendo do objeto que o chama.
+10. Em Python, é possível utilizar um construtor (\_\_init\_\_) para atribuir valores iniciais aos atributos de uma classe no momento da sua criação.
 
 8. Subtópico:
 8. Bibliotecas padrão do ecossistema Python (como NumPy, Pandas, Matplotlib)
@@ -3356,7 +3356,7 @@ Assertivas:
 5. Em Java, a função hashCode() é usada para calcular o valor de dispersão de um objeto.
 6. Caso ocorra uma colisão, os elementos são armazenados em uma lista encadeada dentro do mesmo índice, mantendo uma estrutura conhecida como "encadeamento separado" ou "resolução de colisão por lista encadeada".
 7. As tabelas Hashing são amplamente utilizadas em Java para implementar estruturas como conjuntos (Set) e mapas (Map).
-8. A complexidade média das operações de busca, inserção e remoção em uma tabela Hashing é O(1).
+8. A complexidade média das operações de busca, inserção e remoção em uma tabela Hashing é O(1..
 9. É possível personalizar a função de dispersão, implementando o método hashCode() nas classes dos objetos a serem armazenados, tornando o cálculo mais específico para o contexto da aplicação.
 10. A tabela Hashing é especialmente útil quando se precisa de acesso rápido a um grande número de elementos, como na busca de palavras em dicionários ou na análise de frequência de caracteres em texto.
 
@@ -3607,16 +3607,16 @@ Assertivas:
 6. Subtópico:
 6. Manipulação de Exceções (Try, Catch, Finally) 
 Assertivas:
-1) A manipulação de exceções é um recurso essencial na programação, pois permite tratar erros e exceções durante a execução do código.
-2) O bloco try é utilizado para envolver o código que pode gerar uma exceção.
-3) O bloco catch é utilizado para capturar e tratar as exceções geradas no bloco try.
-4) É possível ter vários blocos catch para tratar diferentes tipos de exceções.
-5) É possível utilizar o bloco finally para executar um código independentemente de ter ocorrido ou não uma exceção.
-6) Caso uma exceção seja lançada em um bloco try, o programa vai diretamente para o bloco catch correspondente.
-7) O bloco finally é executado sempre, independentemente de ter ocorrido uma exceção ou não.
-8) É possível lançar uma exceção manualmente utilizando a instrução throw.
-9) É recomendado tratar exceções específicas em blocos catch separados, para facilitar a identificação e o tratamento adequado dos erros.
-10) A manipulação adequada de exceções contribui para a robustez e segurança do programa.
+1. A manipulação de exceções é um recurso essencial na programação, pois permite tratar erros e exceções durante a execução do código.
+2. O bloco try é utilizado para envolver o código que pode gerar uma exceção.
+3. O bloco catch é utilizado para capturar e tratar as exceções geradas no bloco try.
+4. É possível ter vários blocos catch para tratar diferentes tipos de exceções.
+5. É possível utilizar o bloco finally para executar um código independentemente de ter ocorrido ou não uma exceção.
+6. Caso uma exceção seja lançada em um bloco try, o programa vai diretamente para o bloco catch correspondente.
+7. O bloco finally é executado sempre, independentemente de ter ocorrido uma exceção ou não.
+8. É possível lançar uma exceção manualmente utilizando a instrução throw.
+9. É recomendado tratar exceções específicas em blocos catch separados, para facilitar a identificação e o tratamento adequado dos erros.
+10. A manipulação adequada de exceções contribui para a robustez e segurança do programa.
 
 7. Subtópico:
 7. Coleções em Java (List, Set, Map)
@@ -3722,16 +3722,16 @@ Assertivas:
 4. Subtópico:
 4. Encapsulamento e Abstração em Python
 Assertivas:
-1) O encapsulamento em Python permite ocultar os detalhes internos de uma classe ou objeto.
-2) A abstração em Python permite criar classes e objetos que representam entidades do mundo real.
-3) Em Python, o encapsulamento é implementado através de convenções de nomenclatura e não por meio de modificadores de acesso.
-4) A abstração em Python pode ser alcançada utilizando classes abstratas e métodos abstratos.
-5) Em Python, o encapsulamento permite controlar o acesso aos atributos e métodos de uma classe ou objeto.
-6) A abstração em Python facilita a modularização do código, tornando-o mais legível e reutilizável.
-7) Em Python, o encapsulamento garante que as alterações internas de uma classe ou objeto não afetem o restante do programa.
-8) A abstração em Python permite criar hierarquias de classes, com classes mais abstratas servindo de base para classes mais específicas.
-9) Em Python, o encapsulamento é uma prática importante para garantir a integridade dos dados e evitar acesso não autorizado.
-10) A abstração em Python permite criar interfaces claras e concisas para utilização de uma classe ou objeto, facilitando o desenvolvimento de outros componentes do programa.
+1. O encapsulamento em Python permite ocultar os detalhes internos de uma classe ou objeto.
+2. A abstração em Python permite criar classes e objetos que representam entidades do mundo real.
+3. Em Python, o encapsulamento é implementado através de convenções de nomenclatura e não por meio de modificadores de acesso.
+4. A abstração em Python pode ser alcançada utilizando classes abstratas e métodos abstratos.
+5. Em Python, o encapsulamento permite controlar o acesso aos atributos e métodos de uma classe ou objeto.
+6. A abstração em Python facilita a modularização do código, tornando-o mais legível e reutilizável.
+7. Em Python, o encapsulamento garante que as alterações internas de uma classe ou objeto não afetem o restante do programa.
+8. A abstração em Python permite criar hierarquias de classes, com classes mais abstratas servindo de base para classes mais específicas.
+9. Em Python, o encapsulamento é uma prática importante para garantir a integridade dos dados e evitar acesso não autorizado.
+10. A abstração em Python permite criar interfaces claras e concisas para utilização de uma classe ou objeto, facilitando o desenvolvimento de outros componentes do programa.
 
 5. Subtópico:
 5. Métodos especiais de classe (construtores, destrutores) 
@@ -3858,25 +3858,25 @@ Assertivas:
 3. Subtópico:
 3. Diferença entre Stack e Heap na memória Java
 Assertivas:
-1) A Stack é uma área de memória utilizada para armazenar variáveis locais e métodos em execução, enquanto o Heap é utilizado para alocar objetos em tempo de execução.
+1. A Stack é uma área de memória utilizada para armazenar variáveis locais e métodos em execução, enquanto o Heap é utilizado para alocar objetos em tempo de execução.
 
-2) O espaço alocado na Stack é limitado e definido durante a compilação, enquanto o Heap pode crescer e diminuir dinamicamente durante a execução do programa.
+2. O espaço alocado na Stack é limitado e definido durante a compilação, enquanto o Heap pode crescer e diminuir dinamicamente durante a execução do programa.
 
-3) A Stack opera de forma eficiente e tem um tempo de acesso rápido, visto que aloca espaço para as variáveis de forma contígua, enquanto o Heap pode ser fragmentado, o que pode afetar o desempenho.
+3. A Stack opera de forma eficiente e tem um tempo de acesso rápido, visto que aloca espaço para as variáveis de forma contígua, enquanto o Heap pode ser fragmentado, o que pode afetar o desempenho.
 
-4) Variáveis e objetos criados na Stack são automaticamente liberados quando o seu escopo é encerrado, enquanto no Heap é necessário o uso de um coletor de lixo (garbage collector) para liberar a memória.
+4. Variáveis e objetos criados na Stack são automaticamente liberados quando o seu escopo é encerrado, enquanto no Heap é necessário o uso de um coletor de lixo (garbage collector) para liberar a memória.
 
-5) O tamanho máximo do Heap pode ser configurado pelo parâmetro -Xmx no momento da execução do programa, permitindo um maior controle sobre a memória disponível.
+5. O tamanho máximo do Heap pode ser configurado pelo parâmetro -Xmx no momento da execução do programa, permitindo um maior controle sobre a memória disponível.
 
-6) A Stack é uma estrutura de dados do tipo LIFO (Last In, First Out), onde as variáveis mais recentes são alocadas no topo, enquanto o Heap é uma estrutura de dados dinâmica.
+6. A Stack é uma estrutura de dados do tipo LIFO (Last In, First Out), onde as variáveis mais recentes são alocadas no topo, enquanto o Heap é uma estrutura de dados dinâmica.
 
-7) Objetos alocados na Stack têm um tempo de vida curto, existindo apenas dentro do escopo de um método, enquanto objetos alocados no Heap podem existir durante a execução de toda a aplicação.
+7. Objetos alocados na Stack têm um tempo de vida curto, existindo apenas dentro do escopo de um método, enquanto objetos alocados no Heap podem existir durante a execução de toda a aplicação.
 
-8) A alocação de espaço na Stack é mais rápida do que no Heap, visto que não é necessário utilizar métodos específicos para alocar e desalocar memória.
+8. A alocação de espaço na Stack é mais rápida do que no Heap, visto que não é necessário utilizar métodos específicos para alocar e desalocar memória.
 
-9) A Stack é compartilhada entre threads, cada uma delas possuindo sua própria área na Stack, enquanto o Heap é compartilhado entre todas as threads da aplicação.
+9. A Stack é compartilhada entre threads, cada uma delas possuindo sua própria área na Stack, enquanto o Heap é compartilhado entre todas as threads da aplicação.
 
-10) Variáveis primitivas, como int e boolean, são alocadas na Stack, enquanto objetos e arrays são alocados no Heap em Java.
+10. Variáveis primitivas, como int e boolean, são alocadas na Stack, enquanto objetos e arrays são alocados no Heap em Java.
 
 4. Subtópico:
 4. Gerenciamento de memória na JVM (Java Virtual Machine)
@@ -4480,16 +4480,16 @@ Assertivas:
 2. Subtópico:
 2. Uso da função input() para entrada de dados em Python
 Assertivas:
-1) A função input() é utilizada para obter dados de entrada do usuário em um programa Python.
-2) A função input() retorna uma string com o conteúdo digitado pelo usuário.
-3) Ao utilizar a função input(), o programa ficará aguardando o input do usuário até que uma entrada seja fornecida.
-4) É possível fornecer uma mensagem de instrução ao usuário utilizando a função input(), por exemplo: input("Digite um número: ").
-5) A função input() pode ser usada para receber entradas do usuário em qualquer tipo de dado, como números inteiros, ponto flutuante ou texto.
-6) Ao utilizar a função input(), é importante realizar tratamento de erros para garantir que o usuário informe dados válidos.
-7) Quando a função input() é utilizada sem atribuir o retorno a uma variável, o valor de entrada é perdido.
-8) É possível converter o valor fornecido pelo usuário na função input() para outro tipo de dado, utilizando funções de conversão como int(), float() ou str().
-9) A função input() é uma forma de interatividade entre o programa e o usuário, permitindo que este forneça dados personalizados durante a execução.
-10) O uso adequado da função input() em programas Python proporciona uma melhor experiência do usuário, permitindo personalização e interação.
+1. A função input() é utilizada para obter dados de entrada do usuário em um programa Python.
+2. A função input() retorna uma string com o conteúdo digitado pelo usuário.
+3. Ao utilizar a função input(), o programa ficará aguardando o input do usuário até que uma entrada seja fornecida.
+4. É possível fornecer uma mensagem de instrução ao usuário utilizando a função input(), por exemplo: input("Digite um número: ").
+5. A função input() pode ser usada para receber entradas do usuário em qualquer tipo de dado, como números inteiros, ponto flutuante ou texto.
+6. Ao utilizar a função input(), é importante realizar tratamento de erros para garantir que o usuário informe dados válidos.
+7. Quando a função input() é utilizada sem atribuir o retorno a uma variável, o valor de entrada é perdido.
+8. É possível converter o valor fornecido pelo usuário na função input() para outro tipo de dado, utilizando funções de conversão como int(), float() ou str().
+9. A função input() é uma forma de interatividade entre o programa e o usuário, permitindo que este forneça dados personalizados durante a execução.
+10. O uso adequado da função input() em programas Python proporciona uma melhor experiência do usuário, permitindo personalização e interação.
 
 3. Subtópico:
 3. Uso da função print() para saída de dados em Python
@@ -4578,16 +4578,16 @@ Assertivas:
 9. Subtópico:
 9. Utilização do módulo sys para manipulação da entrada e saída padrão 
 Assertivas:
-1) O módulo `sys` é utilizado em Python para acessar recursos do interpretador.
-2) O módulo `sys` permite manipular a entrada padrão de um programa Python.
-3) O módulo `sys` possibilita redirecionar a saída padrão de um programa Python.
-4) O módulo `sys` fornece acesso ao argumento de linha de comando de um programa Python.
-5) O módulo `sys` permite interagir com o sistema operacional através de funções específicas.
-6) O módulo `sys` é uma biblioteca padrão em Python e não requer instalação adicional.
-7) O módulo `sys` contém a função `sys.stdin`, que permite ler dados da entrada padrão.
-8) O módulo `sys` contém a função `sys.stdout`, que permite escrever dados na saída padrão.
-9) O módulo `sys` contém a função `sys.stderr`, que permite lidar com erros e mensagens de exceção.
-10) O módulo `sys` é amplamente utilizado em programas Python que requerem manipulação de entrada e saída padrão de forma flexível e eficiente.
+1. O módulo `sys` é utilizado em Python para acessar recursos do interpretador.
+2. O módulo `sys` permite manipular a entrada padrão de um programa Python.
+3. O módulo `sys` possibilita redirecionar a saída padrão de um programa Python.
+4. O módulo `sys` fornece acesso ao argumento de linha de comando de um programa Python.
+5. O módulo `sys` permite interagir com o sistema operacional através de funções específicas.
+6. O módulo `sys` é uma biblioteca padrão em Python e não requer instalação adicional.
+7. O módulo `sys` contém a função `sys.stdin`, que permite ler dados da entrada padrão.
+8. O módulo `sys` contém a função `sys.stdout`, que permite escrever dados na saída padrão.
+9. O módulo `sys` contém a função `sys.stderr`, que permite lidar com erros e mensagens de exceção.
+10. O módulo `sys` é amplamente utilizado em programas Python que requerem manipulação de entrada e saída padrão de forma flexível e eficiente.
 
 10. Subtópico:
 10. Práticas seg
@@ -4925,8 +4925,8 @@ Assertivas:
 3. Tanto o HashMap quanto o TreeMap implementam a interface Map no Java.
 4. O HashMap utiliza uma função de hash para calcular a posição em que um valor será armazenado, proporcionando buscas eficientes.
 5. O TreeMap mantém as chaves ordenadas por meio de uma árvore balanceada, o que garante uma complexidade logarítmica para muitas operações.
-6. A operação de inserção em um HashMap tem tempo médio de complexidade O(1), enquanto no TreeMap é O(log n).
-7. Buscas e remoções em HashMap têm complexidade O(1) em tempo médio, considerando uma boa função de hash.
+6. A operação de inserção em um HashMap tem tempo médio de complexidade O(1., enquanto no TreeMap é O(log n).
+7. Buscas e remoções em HashMap têm complexidade O(1. em tempo médio, considerando uma boa função de hash.
 8. Já no TreeMap, essas operações têm tempo médio de complexidade O(log n).
 9. O HashMap utiliza a função equals() para verificar se duas chaves são iguais, enquanto o TreeMap utiliza o método compareTo() para compará-las.
 10. Ambas estruturas são amplamente utilizadas para o armazenamento eficiente de dados e consultas rápidas, sendo adequadas para diferentes cenários de uso.
@@ -4943,7 +4943,7 @@ Assertivas:
 7. Queues são utilizadas em situações em que é necessário armazenar e processar elementos em ordem de chegada.
 8. Tanto as Stacks quanto as Queues podem ser implementadas em várias linguagens de programação, como C++, Java e Python.
 9. É possível criar Stacks e Queues utilizando tanto arrays (vetores) quanto listas encadeadas como estrutura de armazenamento dos elementos.
-10. A complexidade de tempo das operações de inserção, remoção e busca em Stacks e Queues depende da implementação utilizada, podendo variar entre O(1) e O(n).
+10. A complexidade de tempo das operações de inserção, remoção e busca em Stacks e Queues depende da implementação utilizada, podendo variar entre O(1. e O(n).
 
 6. Subtópico:
 6. Trabalhando com Sets em Java: HashSet, TreeSet, LinkedHashSet 
@@ -4954,9 +4954,9 @@ Assertivas:
 4. O HashSet em Java não permite a inserção de elementos duplicados.
 5. O TreeSet em Java mantém os elementos em ordem crescente ou decrescente, dependendo do comparador utilizado.
 6. O LinkedHashSet em Java é indicado quando é importante manter a ordem de inserção dos elementos.
-7. O HashSet em Java possui uma complexidade de tempo constante O(1) para operações de adição, remoção e busca.
+7. O HashSet em Java possui uma complexidade de tempo constante O(1. para operações de adição, remoção e busca.
 8. O TreeSet em Java possui uma complexidade de tempo O(log n) para operações de adição, remoção e busca.
-9. O LinkedHashSet em Java possui uma complexidade de tempo constante O(1) para operações de adição, remoção e busca.
+9. O LinkedHashSet em Java possui uma complexidade de tempo constante O(1. para operações de adição, remoção e busca.
 10. O HashSet em Java não garante a ordem dos elementos durante a iteração, pois depende da função de dispersão dos elementos.
 
 7. Subtópico:
@@ -4978,7 +4978,7 @@ Assertivas:
 Assertivas:
 1. Os algoritmos de ordenação são utilizados para reorganizar elementos em uma estrutura de dados de forma ascendente ou descendente.
 2. A ordenação por inserção é um algoritmo de ordenação estável, ou seja, mantém a ordem relativa de registros com chaves iguais.
-3. O algoritmo de ordenação por seleção possui complexidade de tempo de execução O(n^2), onde n é o número de elementos na estrutura de dados.
+3. O algoritmo de ordenação por seleção possui complexidade de tempo de execução O(n^2., onde n é o número de elementos na estrutura de dados.
 4. O algoritmo de ordenação por bolha é um dos algoritmos mais simples, porém menos eficientes para ordenação de grandes conjuntos de dados.
 5. A busca binária é um algoritmo eficiente para encontrar um elemento em uma estrutura de dados ordenada, reduzindo o número de comparações necessárias.
 6. O algoritmo de busca sequencial é utilizado para encontrar um elemento em uma estrutura de dados não ordenada, porém possui uma complexidade de tempo de execução maior.
@@ -4996,7 +4996,7 @@ Assertivas:
 4. Listas encadeadas podem ter uma performance inferior em relação a estruturas como vetores, especialmente em operações de busca.
 5. A árvore binária de busca é uma estrutura de dados eficiente para operações de busca, com complexidade O(log n).
 6. Heap é uma estrutura de dados particularmente útil em operações de ordenação, com complexidade O(n log n).
-7. Tabelas de hash podem oferecer uma performance ótima para operações de busca, inserção e remoção, com complexidade média O(1).
+7. Tabelas de hash podem oferecer uma performance ótima para operações de busca, inserção e remoção, com complexidade média O(1..
 8. A escolha da estrutura de dados correta pode otimizar a utilização de recursos computacionais.
 9. Estruturas de dados como pilhas e filas são adequadas para operações de inserção e remoção em extremidades específicas.
 10. É importante considerar as características das operações a serem executadas para escolher a estrutura de dados mais eficiente.
@@ -5201,16 +5201,16 @@ Assertivas:
 3. Subtópico:
 3. Arquitetura e componentes do Spring Framework
 Assertivas:
-1) O Spring Framework é um framework de desenvolvimento de aplicações Java baseado em Inversão de Controle (IoC) e Injeção de Dependência (DI).
-2) O Spring Framework oferece suporte a diversos componentes, como Spring Core, Spring MVC, Spring Data, Spring Security, entre outros.
-3) O componente Spring Core é responsável pela implementação da IoC e DI, permitindo a criação de objetos e gerenciamento de dependências.
-4) O componente Spring MVC é um framework para desenvolvimento de aplicações web baseadas no padrão Model-View-Controller.
-5) O Spring Data é um componente que facilita o acesso e a manipulação de dados em diferentes tipos de bancos de dados, como SQL e NoSQL.
-6) O Spring Security oferece recursos para autenticação e autorização em aplicações web, garantindo a segurança dos dados e recursos.
-7) O Spring Framework promove uma arquitetura modular, permitindo que os desenvolvedores utilizem apenas os componentes necessários para suas aplicações.
-8) O Spring Framework é altamente configurável, permitindo que os desenvolvedores personalizem o comportamento e as funcionalidades de acordo com suas necessidades.
-9) O Spring Framework é amplamente utilizado na indústria de desenvolvimento de software devido à sua facilidade de uso, flexibilidade e robustez.
-10) O conhecimento em Spring Framework é considerado uma habilidade valiosa no mercado de trabalho para desenvolvedores Java.
+1. O Spring Framework é um framework de desenvolvimento de aplicações Java baseado em Inversão de Controle (IoC) e Injeção de Dependência (DI).
+2. O Spring Framework oferece suporte a diversos componentes, como Spring Core, Spring MVC, Spring Data, Spring Security, entre outros.
+3. O componente Spring Core é responsável pela implementação da IoC e DI, permitindo a criação de objetos e gerenciamento de dependências.
+4. O componente Spring MVC é um framework para desenvolvimento de aplicações web baseadas no padrão Model-View-Controller.
+5. O Spring Data é um componente que facilita o acesso e a manipulação de dados em diferentes tipos de bancos de dados, como SQL e NoSQL.
+6. O Spring Security oferece recursos para autenticação e autorização em aplicações web, garantindo a segurança dos dados e recursos.
+7. O Spring Framework promove uma arquitetura modular, permitindo que os desenvolvedores utilizem apenas os componentes necessários para suas aplicações.
+8. O Spring Framework é altamente configurável, permitindo que os desenvolvedores personalizem o comportamento e as funcionalidades de acordo com suas necessidades.
+9. O Spring Framework é amplamente utilizado na indústria de desenvolvimento de software devido à sua facilidade de uso, flexibilidade e robustez.
+10. O conhecimento em Spring Framework é considerado uma habilidade valiosa no mercado de trabalho para desenvolvedores Java.
 
 4. Subtópico:
 4. Desenvolvimento de aplicações web com JSF (JavaServer Faces)
@@ -5358,16 +5358,16 @@ Assertivas:
 5. Subtópico:
 5. Pyramid: Características e funcionalidades
 Assertivas:
-1) A Pyramid é um framework Python para desenvolvimento web.
-2) A Pyramid segue o princípio de ser minimalista, permitindo que o desenvolvedor escolha as ferramentas e bibliotecas mais adequadas.
-3) A arquitetura da Pyramid é baseada no padrão MVC (Model-View-Controller).
-4) A Pyramid oferece suporte à autenticação de usuários, permitindo implementar mecanismos de login e controle de acesso.
-5) A Pyramid possui uma documentação abrangente e bem estruturada, facilitando o aprendizado e a utilização do framework.
-6) A identificação de rotas é uma funcionalidade importante na Pyramid, permitindo mapear URLs para funções ou métodos específicos.
-7) A Pyramid suporta a criação de APIs RESTful, possibilitando a comunicação entre diferentes sistemas.
-8) A estrutura de views na Pyramid é flexível, permitindo tanto o uso de templates como a geração de respostas customizadas.
-9) A integração de bancos de dados é facilitada pela Pyramid, que suporta diferentes sistemas de gerenciamento.
-10) A Pyramid é uma opção adequada para o desenvolvimento de aplicações web de médio a grande porte, devido à sua escalabilidade e flexibilidade.
+1. A Pyramid é um framework Python para desenvolvimento web.
+2. A Pyramid segue o princípio de ser minimalista, permitindo que o desenvolvedor escolha as ferramentas e bibliotecas mais adequadas.
+3. A arquitetura da Pyramid é baseada no padrão MVC (Model-View-Controller).
+4. A Pyramid oferece suporte à autenticação de usuários, permitindo implementar mecanismos de login e controle de acesso.
+5. A Pyramid possui uma documentação abrangente e bem estruturada, facilitando o aprendizado e a utilização do framework.
+6. A identificação de rotas é uma funcionalidade importante na Pyramid, permitindo mapear URLs para funções ou métodos específicos.
+7. A Pyramid suporta a criação de APIs RESTful, possibilitando a comunicação entre diferentes sistemas.
+8. A estrutura de views na Pyramid é flexível, permitindo tanto o uso de templates como a geração de respostas customizadas.
+9. A integração de bancos de dados é facilitada pela Pyramid, que suporta diferentes sistemas de gerenciamento.
+10. A Pyramid é uma opção adequada para o desenvolvimento de aplicações web de médio a grande porte, devido à sua escalabilidade e flexibilidade.
 
 6. Subtópico:
 6. Desenvolvimento de aplicações web com Django 
@@ -6550,16 +6550,16 @@ Assertivas:
 4. Subtópico:
 4. Tratamento de Exceções e Controle de Erros em Java
 Assertivas:
-1) O tratamento de exceções em Java é realizado por meio dos blocos try-catch-finally.
-2) O bloco try é utilizado para encapsular a execução de um código que pode lançar exceções.
-3) O bloco catch é utilizado para capturar exceções específicas e tratar o erro de forma adequada.
-4) O bloco finally é opcional e é executado sempre, independentemente de ocorrer uma exceção ou não.
-5) Uma exceção não tratada pode resultar na interrupção do programa.
-6) Em Java, as exceções são representadas por classes, sendo todas subclasses de Throwable.
-7) É possível criar exceções personalizadas em Java, através da criação de subclasses de Exception ou RuntimeException.
-8) O uso excessivo de blocos try-catch pode prejudicar a legibilidade e manutenibilidade do código.
-9) A cláusula throws é utilizada para indicar quais exceções um método pode lançar.
-10) O tratamento correto de exceções em Java contribui para a robustez e estabilidade dos programas.
+1. O tratamento de exceções em Java é realizado por meio dos blocos try-catch-finally.
+2. O bloco try é utilizado para encapsular a execução de um código que pode lançar exceções.
+3. O bloco catch é utilizado para capturar exceções específicas e tratar o erro de forma adequada.
+4. O bloco finally é opcional e é executado sempre, independentemente de ocorrer uma exceção ou não.
+5. Uma exceção não tratada pode resultar na interrupção do programa.
+6. Em Java, as exceções são representadas por classes, sendo todas subclasses de Throwable.
+7. É possível criar exceções personalizadas em Java, através da criação de subclasses de Exception ou RuntimeException.
+8. O uso excessivo de blocos try-catch pode prejudicar a legibilidade e manutenibilidade do código.
+9. A cláusula throws é utilizada para indicar quais exceções um método pode lançar.
+10. O tratamento correto de exceções em Java contribui para a robustez e estabilidade dos programas.
 
 5. Subtópico:
 5. Uso de Bibliotecas e Pacotes em Java
@@ -6679,16 +6679,16 @@ Assertivas:
 3. Subtópico:
 3. Operadores em Python: Aritméticos, Comparação, Atribuição.
 Assertivas:
-1) Os operadores aritméticos em Python permitem realizar operações matemáticas como adição, subtração, multiplicação e divisão.
-2) O operador de comparação "==" é utilizado em Python para verificar se dois valores são iguais.
-3) O operador de atribuição "=" é utilizado em Python para atribuir um valor a uma variável.
-4) O operador aritmético "//" em Python realiza a divisão inteira entre dois números.
-5) O operador de comparação ">=" em Python verifica se um valor é maior ou igual a outro valor.
-6) O operador de atribuição composta "+=" em Python adiciona um valor à variável existente.
-7) O operador aritmético "*" em Python realiza a multiplicação entre dois números.
-8) O operador de comparação "<=" em Python verifica se um valor é menor ou igual a outro valor.
-9) O operador de atribuição composta "-=" em Python subtrai um valor da variável existente.
-10) O operador aritmético "%" em Python retorna o resto da divisão entre dois números.
+1. Os operadores aritméticos em Python permitem realizar operações matemáticas como adição, subtração, multiplicação e divisão.
+2. O operador de comparação "==" é utilizado em Python para verificar se dois valores são iguais.
+3. O operador de atribuição "=" é utilizado em Python para atribuir um valor a uma variável.
+4. O operador aritmético "//" em Python realiza a divisão inteira entre dois números.
+5. O operador de comparação ">=" em Python verifica se um valor é maior ou igual a outro valor.
+6. O operador de atribuição composta "+=" em Python adiciona um valor à variável existente.
+7. O operador aritmético "*" em Python realiza a multiplicação entre dois números.
+8. O operador de comparação "<=" em Python verifica se um valor é menor ou igual a outro valor.
+9. O operador de atribuição composta "-=" em Python subtrai um valor da variável existente.
+10. O operador aritmético "%" em Python retorna o resto da divisão entre dois números.
 
 4. Subtópico:
 4. Controle de Fluxo em Python: Instruções if-elif-else e loops for e while.
@@ -6952,16 +6952,16 @@ Assertivas:
 3. Subtópico:
 3. Manipulação de arquivos em Python: leitura, escrita e manipulação de arquivos.
 Assertivas:
-1) A linguagem de programação Python possui recursos nativos para manipulação de arquivos.
-2) Em Python, é possível realizar a leitura de um arquivo utilizando a função open(), especificando o caminho do arquivo e o modo de leitura desejado.
-3) Para escrever em um arquivo em Python, é necessário utilizar a função open() em modo de escrita ("w"), especificando o caminho do arquivo.
-4) Em Python, é possível adicionar conteúdo a um arquivo existente, utilizando o modo de escrita e a função open() em modo de "append" ("a").
-5) Para manipular arquivos em Python, é recomendado utilizar o bloco de código "with open()" para garantir o fechamento do arquivo após o seu uso.
-6) O método read() em Python permite a leitura de todo o conteúdo de um arquivo e retorna uma única string.
-7) É possível ler o conteúdo de um arquivo linha por linha utilizando o método readlines() em Python, que retorna uma lista de strings.
-8) Em Python, a função open() aceita um parâmetro opcional para especificar o formato de codificação do arquivo, como "encoding='utf-8'".
-9) É possível verificar se um arquivo existe em Python utilizando a função os.path.exists(), informando o caminho do arquivo como argumento.
-10) Para excluir um arquivo em Python, é necessário utilizar a função os.remove(), informando o caminho do arquivo a ser removido.
+1. A linguagem de programação Python possui recursos nativos para manipulação de arquivos.
+2. Em Python, é possível realizar a leitura de um arquivo utilizando a função open(), especificando o caminho do arquivo e o modo de leitura desejado.
+3. Para escrever em um arquivo em Python, é necessário utilizar a função open() em modo de escrita ("w"), especificando o caminho do arquivo.
+4. Em Python, é possível adicionar conteúdo a um arquivo existente, utilizando o modo de escrita e a função open() em modo de "append" ("a").
+5. Para manipular arquivos em Python, é recomendado utilizar o bloco de código "with open()" para garantir o fechamento do arquivo após o seu uso.
+6. O método read() em Python permite a leitura de todo o conteúdo de um arquivo e retorna uma única string.
+7. É possível ler o conteúdo de um arquivo linha por linha utilizando o método readlines() em Python, que retorna uma lista de strings.
+8. Em Python, a função open() aceita um parâmetro opcional para especificar o formato de codificação do arquivo, como "encoding='utf-8'".
+9. É possível verificar se um arquivo existe em Python utilizando a função os.path.exists(), informando o caminho do arquivo como argumento.
+10. Para excluir um arquivo em Python, é necessário utilizar a função os.remove(), informando o caminho do arquivo a ser removido.
 
 4. Subtópico:
 4. Bibliotecas padrão do Python: uso e aplicação das bibliotecas mais comuns.
@@ -7328,16 +7328,16 @@ Assertivas:
 2. Subtópico:
 2. Comparação entre a sintaxe de Java e Python.
 Assertivas:
-1) A sintaxe de Java é baseada na utilização de chaves {} para delimitar blocos de código, enquanto em Python, a indentação é utilizada para o mesmo propósito.
-2) Em Java, é obrigatório declarar o tipo das variáveis, enquanto Python utiliza a inferência de tipo, permitindo que as variáveis sejam atribuídas sem declaração prévia do tipo.
-3) Em Java, a declaração e inicialização de variáveis de instância dentro de uma classe ocorrem geralmente dentro do construtor, enquanto em Python isso pode ser feito diretamente no corpo da classe.
-4) Em Java, as classes e os métodos são definidos usando a palavra-chave reservada "class" e "public", respectivamente. Em Python, não há necessidade de especificar explicitamente as palavras reservadas para definir classes e métodos.
-5) Em Java, a herança múltipla não é permitida, sendo apenas possível herdar de uma única classe. Em Python, a herança múltipla é suportada, permitindo que uma classe herde características de várias classes.
-6) Java utiliza o operador "new" para criar novos objetos, enquanto Python não requer o uso desse operador para criação de objetos.
-7) Em Java, é obrigatório especificar um tipo de retorno em métodos, mesmo que seja void. Em Python, não é necessário especificar explicitamente o tipo de retorno de um método.
-8) Java segue uma abordagem orientada a objetos mais rígida, exigindo que todos os atributos e métodos pertençam a uma classe. Em Python, é possível criar atributos e métodos fora de uma classe, de forma independente.
-9) Java é fortemente tipado, o que significa que não é permitido atribuir valores de tipos incompatíveis a variáveis. Python é dinamicamente tipado, permitindo atribuição de diferentes tipos de dados a variáveis.
-10) Em Java, a programação genérica é amplamente utilizada, permitindo a criação de classes e métodos com tipos parametrizados. Em Python, embora não seja tão comum, também é possível utilizar a programação genérica usando módulos e bibliotecas específicas.
+1. A sintaxe de Java é baseada na utilização de chaves {} para delimitar blocos de código, enquanto em Python, a indentação é utilizada para o mesmo propósito.
+2. Em Java, é obrigatório declarar o tipo das variáveis, enquanto Python utiliza a inferência de tipo, permitindo que as variáveis sejam atribuídas sem declaração prévia do tipo.
+3. Em Java, a declaração e inicialização de variáveis de instância dentro de uma classe ocorrem geralmente dentro do construtor, enquanto em Python isso pode ser feito diretamente no corpo da classe.
+4. Em Java, as classes e os métodos são definidos usando a palavra-chave reservada "class" e "public", respectivamente. Em Python, não há necessidade de especificar explicitamente as palavras reservadas para definir classes e métodos.
+5. Em Java, a herança múltipla não é permitida, sendo apenas possível herdar de uma única classe. Em Python, a herança múltipla é suportada, permitindo que uma classe herde características de várias classes.
+6. Java utiliza o operador "new" para criar novos objetos, enquanto Python não requer o uso desse operador para criação de objetos.
+7. Em Java, é obrigatório especificar um tipo de retorno em métodos, mesmo que seja void. Em Python, não é necessário especificar explicitamente o tipo de retorno de um método.
+8. Java segue uma abordagem orientada a objetos mais rígida, exigindo que todos os atributos e métodos pertençam a uma classe. Em Python, é possível criar atributos e métodos fora de uma classe, de forma independente.
+9. Java é fortemente tipado, o que significa que não é permitido atribuir valores de tipos incompatíveis a variáveis. Python é dinamicamente tipado, permitindo atribuição de diferentes tipos de dados a variáveis.
+10. Em Java, a programação genérica é amplamente utilizada, permitindo a criação de classes e métodos com tipos parametrizados. Em Python, embora não seja tão comum, também é possível utilizar a programação genérica usando módulos e bibliotecas específicas.
 
 3. Subtópico:
 3. Processo de compilação em Java: Detalhamento e etapas.
@@ -7763,16 +7763,16 @@ Assertivas:
 6. Subtópico:
 6. Tratamento de erros e exceções em ambos os idiomas.
 Assertivas:
-1) No tratamento de erros e exceções em ambos os idiomas, é possível utilizar blocos de código para capturar e tratar erros específicos.
-2) Tanto em Java quanto em Python, é fundamental utilizar mecanismos de tratamento de erros para garantir a robustez e o bom funcionamento dos programas.
-3) Em ambos os idiomas, é possível lançar exceções manualmente por meio da palavra-chave "throw".
-4) Em Java, é obrigatório tratar exceções verificadas utilizando os blocos "try-catch" ou declarando-as na assinatura do método.
-5) Em Python, é possível capturar e tratar exceções específicas utilizando blocos "try-except" e fornecendo tratamentos diferenciados para cada tipo de exceção.
-6) Tanto em Java quanto em Python, é possível utilizar a cláusula "finally" para garantir que um bloco de código seja sempre executado, mesmo após a ocorrência de exceções.
-7) Em ambos os idiomas, é possível criar e utilizar classes personalizadas para representar exceções específicas do domínio do problema.
-8) Em Java, é possível utilizar a palavra-chave "throws" para propagar exceções verificadas para chamadores de um método.
-9) Em Python, é possível utilizar a estrutura "with" para lidar com exceções e recursos que precisam ser fechados após o uso, como arquivos.
-10) Tanto em Java quanto em Python, é possível implementar hierarquias de exceções, onde classes de exceção mais específicas herdam comportamentos de classes de exceção mais genéricas.
+1. No tratamento de erros e exceções em ambos os idiomas, é possível utilizar blocos de código para capturar e tratar erros específicos.
+2. Tanto em Java quanto em Python, é fundamental utilizar mecanismos de tratamento de erros para garantir a robustez e o bom funcionamento dos programas.
+3. Em ambos os idiomas, é possível lançar exceções manualmente por meio da palavra-chave "throw".
+4. Em Java, é obrigatório tratar exceções verificadas utilizando os blocos "try-catch" ou declarando-as na assinatura do método.
+5. Em Python, é possível capturar e tratar exceções específicas utilizando blocos "try-except" e fornecendo tratamentos diferenciados para cada tipo de exceção.
+6. Tanto em Java quanto em Python, é possível utilizar a cláusula "finally" para garantir que um bloco de código seja sempre executado, mesmo após a ocorrência de exceções.
+7. Em ambos os idiomas, é possível criar e utilizar classes personalizadas para representar exceções específicas do domínio do problema.
+8. Em Java, é possível utilizar a palavra-chave "throws" para propagar exceções verificadas para chamadores de um método.
+9. Em Python, é possível utilizar a estrutura "with" para lidar com exceções e recursos que precisam ser fechados após o uso, como arquivos.
+10. Tanto em Java quanto em Python, é possível implementar hierarquias de exceções, onde classes de exceção mais específicas herdam comportamentos de classes de exceção mais genéricas.
 
 7. Subtópico:
 7. Comparação das bibliotecas padrão do Python com as do Java.
@@ -8601,16 +8601,16 @@ Assertivas:
 3. Subtópico:
 3. Operadores em Python: aritméticos, comparação, atribuição e lógicos.
 Assertivas:
-1) Os operadores aritméticos em Python são utilizados para realizar operações matemáticas, como adição, subtração, multiplicação e divisão.
-2) Os operadores de comparação em Python são utilizados para comparar valores e retornar um resultado booleano, indicando se a comparação é verdadeira ou falsa.
-3) Os operadores de atribuição em Python são utilizados para atribuir valores a variáveis, como o operador '='.
-4) Os operadores lógicos em Python são utilizados para combinar ou modificar expressões booleanas e retornar um valor booleano.
-5) O operador aritmético de potência em Python é representado pelo símbolo '**'.
-6) O operador de comparação '==' em Python é utilizado para checar a igualdade entre dois valores.
-7) O operador de comparação '!=' em Python é utilizado para checar a diferença entre dois valores.
-8) O operador de atribuição composta '+=' em Python é utilizado para somar um valor a uma variável e atribuir o resultado à própria variável.
-9) O operador lógico 'and' em Python retorna True se ambos os operandos forem True.
-10) O operador lógico 'or' em Python retorna True se pelo menos um dos operandos for True.
+1. Os operadores aritméticos em Python são utilizados para realizar operações matemáticas, como adição, subtração, multiplicação e divisão.
+2. Os operadores de comparação em Python são utilizados para comparar valores e retornar um resultado booleano, indicando se a comparação é verdadeira ou falsa.
+3. Os operadores de atribuição em Python são utilizados para atribuir valores a variáveis, como o operador '='.
+4. Os operadores lógicos em Python são utilizados para combinar ou modificar expressões booleanas e retornar um valor booleano.
+5. O operador aritmético de potência em Python é representado pelo símbolo '**'.
+6. O operador de comparação '==' em Python é utilizado para checar a igualdade entre dois valores.
+7. O operador de comparação '!=' em Python é utilizado para checar a diferença entre dois valores.
+8. O operador de atribuição composta '+=' em Python é utilizado para somar um valor a uma variável e atribuir o resultado à própria variável.
+9. O operador lógico 'and' em Python retorna True se ambos os operandos forem True.
+10. O operador lógico 'or' em Python retorna True se pelo menos um dos operandos for True.
 
 4. Subtópico:
 4. Controle de fluxo em Python: instruções if, elif e else; loops for e while; break e continue.
@@ -8643,16 +8643,16 @@ Assertivas:
 6. Subtópico:
 6. Manipulação de strings em Python: indexação, fatiamento (slicing), métodos inerentes a strings.
 Assertivas:
-1) O índice de uma string em Python começa em 0.
-2) A indexação de uma string permite acessar um caractere específico da string usando seu índice.
-3) O fatiamento (slicing) de uma string em Python permite obter uma substring a partir de uma posição inicial e uma posição final.
-4) O fatiamento (slicing) com passo negativo em uma string invertê a ordem dos caracteres.
-5) O método 'len()' em Python retorna o número de caracteres em uma string.
-6) O método 'lower()' em Python converte todos os caracteres de uma string em letras minúsculas.
-7) O método 'upper()' em Python converte todos os caracteres de uma string em letras maiúsculas.
-8) O método 'split()' em Python divide uma string em várias substrings com base em um separador.
-9) O método 'join()' em Python concatena elementos de uma lista em uma única string, separando-os por um delimitador específico.
-10) O método 'strip()' em Python remove os espaços em branco no início e no final de uma string.
+1. O índice de uma string em Python começa em 0.
+2. A indexação de uma string permite acessar um caractere específico da string usando seu índice.
+3. O fatiamento (slicing) de uma string em Python permite obter uma substring a partir de uma posição inicial e uma posição final.
+4. O fatiamento (slicing) com passo negativo em uma string invertê a ordem dos caracteres.
+5. O método 'len()' em Python retorna o número de caracteres em uma string.
+6. O método 'lower()' em Python converte todos os caracteres de uma string em letras minúsculas.
+7. O método 'upper()' em Python converte todos os caracteres de uma string em letras maiúsculas.
+8. O método 'split()' em Python divide uma string em várias substrings com base em um separador.
+9. O método 'join()' em Python concatena elementos de uma lista em uma única string, separando-os por um delimitador específico.
+10. O método 'strip()' em Python remove os espaços em branco no início e no final de uma string.
 
 7. Subtópico:
 7. Tratamento
@@ -9032,7 +9032,7 @@ Assertivas:
 5. O autoboxing/unboxing acontece também em expressões aritméticas envolvendo tipos primitivos e classes wrapper.
 6. O autoboxing/unboxing pode ocorrer implicitamente em certos contextos, sem a necessidade de uma chamada explícita ao método correspondente.
 7. O autoboxing/unboxing pode acarretar em diminuição de desempenho em determinadas situações, pois envolve a criação de objetos em memória.
-8. O autoboxing/unboxing é uma das principais funcionalidades introduzidas na versão 5 do Java (Java 1.5).
+8. O autoboxing/unboxing é uma das principais funcionalidades introduzidas na versão 5 do Java (Java 1.5..
 9. O autoboxing/unboxing é amplamente utilizado em várias APIs do Java, como as coleções da biblioteca padrão.
 10. O autoboxing/unboxing pode ser evitado em situações em que o desempenho é crítico, optando-se por trabalhar diretamente com tipos primitivos.
 
@@ -10074,16 +10074,16 @@ Assertivas:
 2. Subtópico:
 2. Orientação a Objetos em Java
 Assertivas:
-1) Em orientação a objetos, o conceito de encapsulamento busca proteger os atributos de uma classe, permitindo o acesso a eles somente por meio de métodos.
-2) Em Java, a herança é uma técnica utilizada em orientação a objetos que permite que uma classe herde características e comportamentos de outra classe.
-3) Polimorfismo é um conceito em orientação a objetos que permite que objetos de classes diferentes sejam tratados de maneira uniforme.
-4) Em Java, interfaces são utilizadas para definir um contrato entre uma classe e outras que desejam implementá-la, estabelecendo métodos que devem ser implementados pelas classes que a utilizarem.
-5) Um objeto em Java é uma instância de uma classe, podendo ter atributos e comportamentos definidos pela classe.
-6) Em orientação a objetos, o conceito de reutilização de código é incentivado pela criação de classes e objetos que podem ser utilizados em diferentes partes de um programa.
-7) O polimorfismo em Java permite que um objeto possa ser referenciado por diferentes tipos de variáveis, proporcionando flexibilidade e extensibilidade ao código.
-8) Na orientação a objetos, o polimorfismo é um importante princípio que permite a criação de métodos genéricos que podem ser utilizados por diferentes objetos.
-9) O conceito de herança em Java permite a criação de hierarquias de classes, em que uma classe pode herdar características e comportamentos de outra classe.
-10) Em Java, construtores são métodos especiais utilizados para inicializar objetos de uma classe, podendo definir argumentos que devem ser passados durante a criação do objeto.
+1. Em orientação a objetos, o conceito de encapsulamento busca proteger os atributos de uma classe, permitindo o acesso a eles somente por meio de métodos.
+2. Em Java, a herança é uma técnica utilizada em orientação a objetos que permite que uma classe herde características e comportamentos de outra classe.
+3. Polimorfismo é um conceito em orientação a objetos que permite que objetos de classes diferentes sejam tratados de maneira uniforme.
+4. Em Java, interfaces são utilizadas para definir um contrato entre uma classe e outras que desejam implementá-la, estabelecendo métodos que devem ser implementados pelas classes que a utilizarem.
+5. Um objeto em Java é uma instância de uma classe, podendo ter atributos e comportamentos definidos pela classe.
+6. Em orientação a objetos, o conceito de reutilização de código é incentivado pela criação de classes e objetos que podem ser utilizados em diferentes partes de um programa.
+7. O polimorfismo em Java permite que um objeto possa ser referenciado por diferentes tipos de variáveis, proporcionando flexibilidade e extensibilidade ao código.
+8. Na orientação a objetos, o polimorfismo é um importante princípio que permite a criação de métodos genéricos que podem ser utilizados por diferentes objetos.
+9. O conceito de herança em Java permite a criação de hierarquias de classes, em que uma classe pode herdar características e comportamentos de outra classe.
+10. Em Java, construtores são métodos especiais utilizados para inicializar objetos de uma classe, podendo definir argumentos que devem ser passados durante a criação do objeto.
 
 3. Subtópico:
 3. Manipulação de Strings e Arrays em Java
@@ -10186,16 +10186,16 @@ Assertivas:
 10. Subtópico:
 10.Java Persistence API (JPA) para persistência de dados
 Assertivas:
-1) A JPA é uma API de persistência de dados em Java, que permite o mapeamento de objetos para registros em um banco de dados relacional.
-2) A JPA é uma especificação da plataforma Java EE para estabelecer um padrão de persistência de objetos em bancos de dados.
-3) O uso da JPA simplifica o acesso e manipulação de dados em aplicações Java, reduzindo a quantidade de código necessário.
-4) A JPA oferece suporte a operações de leitura, gravação, atualização e exclusão de dados de forma transparente ao desenvolvedor.
-5) A JPA utiliza o conceito de ORM (Mapeamento Objeto-Relacional), facilitando a persistência de objetos em bancos de dados relacionais.
-6) A JPA permite o uso de anotações para descrever o mapeamento entre classes de domínio e tabelas do banco de dados.
-7) A JPA utiliza consultas em linguagem JPQL (Java Persistence Query Language) para recuperar dados armazenados no banco de dados.
-8) A JPA oferece suporte a cache de entidades, melhorando a performance de consultas frequentes.
-9) A JPA permite a criação de relacionamentos entre entidades, como associações um-para-um, um-para-muitos e muitos-para-muitos.
-10) A JPA é independente de fornecedores de banco de dados, permitindo a portabilidade de aplicações entre diferentes SGBDs.
+1. A JPA é uma API de persistência de dados em Java, que permite o mapeamento de objetos para registros em um banco de dados relacional.
+2. A JPA é uma especificação da plataforma Java EE para estabelecer um padrão de persistência de objetos em bancos de dados.
+3. O uso da JPA simplifica o acesso e manipulação de dados em aplicações Java, reduzindo a quantidade de código necessário.
+4. A JPA oferece suporte a operações de leitura, gravação, atualização e exclusão de dados de forma transparente ao desenvolvedor.
+5. A JPA utiliza o conceito de ORM (Mapeamento Objeto-Relacional), facilitando a persistência de objetos em bancos de dados relacionais.
+6. A JPA permite o uso de anotações para descrever o mapeamento entre classes de domínio e tabelas do banco de dados.
+7. A JPA utiliza consultas em linguagem JPQL (Java Persistence Query Language) para recuperar dados armazenados no banco de dados.
+8. A JPA oferece suporte a cache de entidades, melhorando a performance de consultas frequentes.
+9. A JPA permite a criação de relacionamentos entre entidades, como associações um-para-um, um-para-muitos e muitos-para-muitos.
+10. A JPA é independente de fornecedores de banco de dados, permitindo a portabilidade de aplicações entre diferentes SGBDs.
 
 
 Item do edital: 14 Transações distribuídas.    
@@ -10577,16 +10577,16 @@ Assertivas:
 7. Subtópico:
 7. Monitoramento e logística no contexto do DevOps 
 Assertivas:
-1) O monitoramento é uma prática essencial no contexto do DevOps, visando a identificação e solução de problemas em tempo real.
-2) A logística no DevOps se refere ao planejamento e coordenação de atividades relacionadas à entrega e implantação de software.
-3) A monitoração contínua é fundamental para garantir a qualidade e estabilidade das aplicações durante todo o ciclo de vida do software.
-4) A logística no DevOps envolve o gerenciamento eficiente de recursos e componentes necessários para a entrega do software.
-5) A implementação de boas práticas de monitoramento proporciona melhorias na detecção precoce de falhas e, consequentemente, uma redução no tempo de resposta para resolução.
-6) O monitoramento no DevOps auxilia na otimização de recursos e no planejamento de capacidade, contribuindo para a melhoria da performance e utilização dos recursos do ambiente.
-7) A logística no contexto do DevOps abrange a gestão do fluxo de trabalho, desde o desenvolvimento até a produção, visando a entrega contínua de software.
-8) O monitoramento no DevOps engloba a coleta, análise e interpretação de dados e métricas, proporcionando uma visão abrangente do desempenho e comportamento das aplicações.
-9) A logística no DevOps busca reduzir os desperdícios e inconsistências nos processos de entrega e implantação de software.
-10) O monitoramento adequado no DevOps possibilita a identificação antecipada de problemas de desempenho e escalabilidade, permitindo ações corretivas antes que afetem o usuário final.
+1. O monitoramento é uma prática essencial no contexto do DevOps, visando a identificação e solução de problemas em tempo real.
+2. A logística no DevOps se refere ao planejamento e coordenação de atividades relacionadas à entrega e implantação de software.
+3. A monitoração contínua é fundamental para garantir a qualidade e estabilidade das aplicações durante todo o ciclo de vida do software.
+4. A logística no DevOps envolve o gerenciamento eficiente de recursos e componentes necessários para a entrega do software.
+5. A implementação de boas práticas de monitoramento proporciona melhorias na detecção precoce de falhas e, consequentemente, uma redução no tempo de resposta para resolução.
+6. O monitoramento no DevOps auxilia na otimização de recursos e no planejamento de capacidade, contribuindo para a melhoria da performance e utilização dos recursos do ambiente.
+7. A logística no contexto do DevOps abrange a gestão do fluxo de trabalho, desde o desenvolvimento até a produção, visando a entrega contínua de software.
+8. O monitoramento no DevOps engloba a coleta, análise e interpretação de dados e métricas, proporcionando uma visão abrangente do desempenho e comportamento das aplicações.
+9. A logística no DevOps busca reduzir os desperdícios e inconsistências nos processos de entrega e implantação de software.
+10. O monitoramento adequado no DevOps possibilita a identificação antecipada de problemas de desempenho e escalabilidade, permitindo ações corretivas antes que afetem o usuário final.
 
 8. Subtópico:
 8. Cultura de colaboração entre desenvolvimento e operações (Dev & Ops)
@@ -10870,16 +10870,16 @@ Assertivas:
 9. Subtópico:
 9. Gestão de configura
 Assertivas:
-1) A gestão de configuração é um processo fundamental para garantir o controle e a integridade dos itens de configuração em um ambiente de TI.
-2) A gestão de configuração envolve a identificação, controle, registro e monitoramento das alterações realizadas em itens de configuração.
-3) A gestão de configuração busca estabelecer uma base de linha de base (baseline) para referência e controle das configurações.
-4) A gestão de configuração tem como objetivo principal minimizar riscos e problemas relacionados à configuração dos itens de um ambiente de TI.
-5) A gestão de configuração deve ser realizada de forma sistemática e consistente, seguindo procedimentos padronizados.
-6) A gestão de configuração ajuda a garantir que as mudanças realizadas em um ambiente de TI sejam devidamente planejadas e autorizadas.
-7) A gestão de configuração é crucial para facilitar a identificação e resolução de problemas relacionados à configuração de sistemas.
-8) A gestão de configuração envolve a definição e manutenção de políticas, processos e ferramentas adequadas para o controle dos itens de configuração.
-9) A gestão de configuração contribui para a maximização da eficiência e da eficácia de um ambiente de TI, reduzindo a ocorrência de falhas e interrupções não planejadas.
-10) A gestão de configuração requer participação e cooperação de diversas áreas de uma organização, incluindo o time de TI, desenvolvedores, analistas de negócio e usuários finais.
+1. A gestão de configuração é um processo fundamental para garantir o controle e a integridade dos itens de configuração em um ambiente de TI.
+2. A gestão de configuração envolve a identificação, controle, registro e monitoramento das alterações realizadas em itens de configuração.
+3. A gestão de configuração busca estabelecer uma base de linha de base (baseline) para referência e controle das configurações.
+4. A gestão de configuração tem como objetivo principal minimizar riscos e problemas relacionados à configuração dos itens de um ambiente de TI.
+5. A gestão de configuração deve ser realizada de forma sistemática e consistente, seguindo procedimentos padronizados.
+6. A gestão de configuração ajuda a garantir que as mudanças realizadas em um ambiente de TI sejam devidamente planejadas e autorizadas.
+7. A gestão de configuração é crucial para facilitar a identificação e resolução de problemas relacionados à configuração de sistemas.
+8. A gestão de configuração envolve a definição e manutenção de políticas, processos e ferramentas adequadas para o controle dos itens de configuração.
+9. A gestão de configuração contribui para a maximização da eficiência e da eficácia de um ambiente de TI, reduzindo a ocorrência de falhas e interrupções não planejadas.
+10. A gestão de configuração requer participação e cooperação de diversas áreas de uma organização, incluindo o time de TI, desenvolvedores, analistas de negócio e usuários finais.
 
 
 Item do edital: 3 Técnicas de desenvolvimento seguro.    
@@ -12569,16 +12569,16 @@ Assertivas:
 6. Subtópico:
 6. Avaliação da experiência do usuário: métodos quantitativos e qualitativos 
 Assertivas:
-1) Métodos quantitativos são usados para medir aspectos objetivos da experiência do usuário, como velocidade de resposta e taxa de sucesso em tarefas específicas.
-2) Métodos qualitativos são usados para compreender as percepções, motivações e necessidades dos usuários em relação a um produto ou serviço.
-3) O teste de usabilidade é um método quantitativo que envolve observar e medir a eficiência, eficácia e satisfação dos usuários em realizar tarefas específicas.
-4) Entrevistas individuais são um método qualitativo usado para explorar a experiência do usuário em profundidade, permitindo uma compreensão mais completa de suas necessidades e expectativas.
-5) A pesquisa de campo é um método qualitativo que envolve a observação dos usuários em seu ambiente natural, permitindo uma compreensão mais realista de suas interações.
-6) A pesquisa por meio de questionários é um método quantitativo que permite coletar dados de uma grande amostra de usuários, possibilitando a generalização de resultados.
-7) O método de avaliação heurística é um método quantitativo que envolve a aplicação de um conjunto de diretrizes ou boas práticas ao produto em análise, a fim de identificar problemas de usabilidade.
-8) A análise de métricas de uso, como tempo de navegação e número de cliques, é um método quantitativo que ajuda a compreender como os usuários interagem com um sistema.
-9) Grupos focais são um método qualitativo em que um moderador facilita a discussão entre um grupo de usuários, para obter insights mais profundos sobre suas experiências.
-10) A avaliação da experiência do usuário por meio de testes de campo é um método quantitativo que envolve a testagem do produto ou serviço em condições reais de uso, coletando dados de desempenho e satisfação dos usuários.
+1. Métodos quantitativos são usados para medir aspectos objetivos da experiência do usuário, como velocidade de resposta e taxa de sucesso em tarefas específicas.
+2. Métodos qualitativos são usados para compreender as percepções, motivações e necessidades dos usuários em relação a um produto ou serviço.
+3. O teste de usabilidade é um método quantitativo que envolve observar e medir a eficiência, eficácia e satisfação dos usuários em realizar tarefas específicas.
+4. Entrevistas individuais são um método qualitativo usado para explorar a experiência do usuário em profundidade, permitindo uma compreensão mais completa de suas necessidades e expectativas.
+5. A pesquisa de campo é um método qualitativo que envolve a observação dos usuários em seu ambiente natural, permitindo uma compreensão mais realista de suas interações.
+6. A pesquisa por meio de questionários é um método quantitativo que permite coletar dados de uma grande amostra de usuários, possibilitando a generalização de resultados.
+7. O método de avaliação heurística é um método quantitativo que envolve a aplicação de um conjunto de diretrizes ou boas práticas ao produto em análise, a fim de identificar problemas de usabilidade.
+8. A análise de métricas de uso, como tempo de navegação e número de cliques, é um método quantitativo que ajuda a compreender como os usuários interagem com um sistema.
+9. Grupos focais são um método qualitativo em que um moderador facilita a discussão entre um grupo de usuários, para obter insights mais profundos sobre suas experiências.
+10. A avaliação da experiência do usuário por meio de testes de campo é um método quantitativo que envolve a testagem do produto ou serviço em condições reais de uso, coletando dados de desempenho e satisfação dos usuários.
 
 7. Subtópico:
 7. Ferramentas modernas para prática de UX 
@@ -12788,25 +12788,25 @@ Item do edital: 7. Programação assíncrona.
 1. Subtópico:
 1. Conceito e fundamentos da programação assíncrona.
 Assertivas:
-1) A programação assíncrona é um paradigma de programação que permite a execução de tarefas independentes de forma simultânea.
+1. A programação assíncrona é um paradigma de programação que permite a execução de tarefas independentes de forma simultânea.
 
-2) Na programação assíncrona, o código não precisa esperar a conclusão de uma tarefa para iniciar a próxima.
+2. Na programação assíncrona, o código não precisa esperar a conclusão de uma tarefa para iniciar a próxima.
 
-3) Um dos principais fundamentos da programação assíncrona é a utilização de eventos e callbacks para lidar com operações não bloqueantes.
+3. Um dos principais fundamentos da programação assíncrona é a utilização de eventos e callbacks para lidar com operações não bloqueantes.
 
-4) A programação assíncrona é amplamente utilizada em aplicações que requerem interações com dispositivos externos, como requisições de rede.
+4. A programação assíncrona é amplamente utilizada em aplicações que requerem interações com dispositivos externos, como requisições de rede.
 
-5) Ao utilizar a programação assíncrona, é possível melhorar a eficiência do código, pois tarefas ociosas não bloqueiam a execução de outras.
+5. Ao utilizar a programação assíncrona, é possível melhorar a eficiência do código, pois tarefas ociosas não bloqueiam a execução de outras.
 
-6) Um exemplo comum de programação assíncrona é a utilização de promessas (promises) em JavaScript.
+6. Um exemplo comum de programação assíncrona é a utilização de promessas (promises) em JavaScript.
 
-7) Na programação assíncrona, é comum o uso de callbacks para lidar com a conclusão de tarefas e tratar possíveis erros.
+7. Na programação assíncrona, é comum o uso de callbacks para lidar com a conclusão de tarefas e tratar possíveis erros.
 
-8) A programação assíncrona é especialmente útil em situações em que as operações são demoradas ou bloqueantes, como operações de I/O.
+8. A programação assíncrona é especialmente útil em situações em que as operações são demoradas ou bloqueantes, como operações de I/O.
 
-9) Um dos desafios da programação assíncrona é lidar com a sequência de execução das tarefas, já que elas não ocorrem de forma linear.
+9. Um dos desafios da programação assíncrona é lidar com a sequência de execução das tarefas, já que elas não ocorrem de forma linear.
 
-10) A programação assíncrona é essencial em ambientes concorrentes, onde várias tarefas precisam ser executadas simultaneamente sem travar a aplicação.
+10. A programação assíncrona é essencial em ambientes concorrentes, onde várias tarefas precisam ser executadas simultaneamente sem travar a aplicação.
 
 2. Subtópico:
 2. Diferenças entre programação síncrona e assíncrona.
@@ -13055,16 +13055,16 @@ Item do edital: 8.1 GraphQL.
 1. Subtópico:
 1. Conceito e fundamentos do GraphQL
 Assertivas:
-1) A linguagem GraphQL foi desenvolvida pelo Facebook em 2012 como uma alternativa aos tradicionais métodos de acesso a dados.
-2) O GraphQL permite que os clientes solicitem exatamente os dados que desejam, evitando a transferência de informações desnecessárias.
-3) O GraphQL utiliza um único endpoint para todas as consultas, em oposição a abordagens tradicionais que possuem endpoints específicos para cada recurso.
-4) O GraphQL utiliza um esquema forte para definir os tipos de dados disponíveis e as operações permitidas.
-5) Os tipos de dados no GraphQL são compostos por campos com tipos específicos, permitindo uma modelagem flexível e ampla personalização.
-6) O GraphQL não possui suporte nativo a autenticação e autorização, significando que esses aspectos devem ser implementados separadamente.
-7) O GraphQL permite a execução de múltiplas consultas em uma única chamada, o que otimiza o desempenho e o consumo de recursos.
-8) O GraphQL possui suporte para mutações, que são operações de escrita que permitem a criação, atualização e exclusão de recursos.
-9) As consultas no GraphQL podem ser facilmente aninhadas, permitindo recuperar informações relacionadas de forma eficiente.
-10) O GraphQL possui suporte nativo a subscrições, o que permite que os clientes recebam notificações em tempo real quando os dados são atualizados.
+1. A linguagem GraphQL foi desenvolvida pelo Facebook em 2012 como uma alternativa aos tradicionais métodos de acesso a dados.
+2. O GraphQL permite que os clientes solicitem exatamente os dados que desejam, evitando a transferência de informações desnecessárias.
+3. O GraphQL utiliza um único endpoint para todas as consultas, em oposição a abordagens tradicionais que possuem endpoints específicos para cada recurso.
+4. O GraphQL utiliza um esquema forte para definir os tipos de dados disponíveis e as operações permitidas.
+5. Os tipos de dados no GraphQL são compostos por campos com tipos específicos, permitindo uma modelagem flexível e ampla personalização.
+6. O GraphQL não possui suporte nativo a autenticação e autorização, significando que esses aspectos devem ser implementados separadamente.
+7. O GraphQL permite a execução de múltiplas consultas em uma única chamada, o que otimiza o desempenho e o consumo de recursos.
+8. O GraphQL possui suporte para mutações, que são operações de escrita que permitem a criação, atualização e exclusão de recursos.
+9. As consultas no GraphQL podem ser facilmente aninhadas, permitindo recuperar informações relacionadas de forma eficiente.
+10. O GraphQL possui suporte nativo a subscrições, o que permite que os clientes recebam notificações em tempo real quando os dados são atualizados.
 
 2. Subtópico:
 2. Diferenças entre GraphQL e REST
@@ -13083,16 +13083,16 @@ Assertivas:
 3. Subtópico:
 3. Estrutura de uma Query no GraphQL
 Assertivas:
-1) Uma Query no GraphQL é uma forma de solicitar dados específicos de um servidor.
-2) A estrutura básica de uma Query no GraphQL começa com a palavra-chave "query" seguida das chaves "{}".
-3) Dentro das chaves, é possível definir os campos que se deseja obter usando a notação de nome seguido de dois pontos, sendo o nome do campo e seus subcampos.
-4) Pode-se adicionar parâmetros a uma Query no GraphQL para filtrar os resultados desejados.
-5) Para fazer referência a um campo específico dentro de uma Query, utiliza-se a notação de ponto.
-6) A estrutura de uma Query no GraphQL permite a busca de dados em profundidades diferentes, retornando informações relacionadas ou aninhadas.
-7) Uma Query no GraphQL pode ser escrita em uma única linha ou com quebras de linha para melhor legibilidade.
-8) É possível renomear um campo dentro de uma Query no GraphQL utilizando a palavra-chave "as".
-9) Dentro de uma Query no GraphQL, é possível adicionar diretivas para controlar o comportamento da requisição, como por exemplo, especificar que um campo seja aplicado apenas se determinada condição for verdadeira.
-10) A estrutura de uma Query no GraphQL é flexível, permitindo que seja construída de acordo com as necessidades do desenvolvedor ou aplicação.
+1. Uma Query no GraphQL é uma forma de solicitar dados específicos de um servidor.
+2. A estrutura básica de uma Query no GraphQL começa com a palavra-chave "query" seguida das chaves "{}".
+3. Dentro das chaves, é possível definir os campos que se deseja obter usando a notação de nome seguido de dois pontos, sendo o nome do campo e seus subcampos.
+4. Pode-se adicionar parâmetros a uma Query no GraphQL para filtrar os resultados desejados.
+5. Para fazer referência a um campo específico dentro de uma Query, utiliza-se a notação de ponto.
+6. A estrutura de uma Query no GraphQL permite a busca de dados em profundidades diferentes, retornando informações relacionadas ou aninhadas.
+7. Uma Query no GraphQL pode ser escrita em uma única linha ou com quebras de linha para melhor legibilidade.
+8. É possível renomear um campo dentro de uma Query no GraphQL utilizando a palavra-chave "as".
+9. Dentro de uma Query no GraphQL, é possível adicionar diretivas para controlar o comportamento da requisição, como por exemplo, especificar que um campo seja aplicado apenas se determinada condição for verdadeira.
+10. A estrutura de uma Query no GraphQL é flexível, permitindo que seja construída de acordo com as necessidades do desenvolvedor ou aplicação.
 
 4. Subtópico:
 4. Mutations no GraphQL: conceito e aplicação
@@ -13153,16 +13153,16 @@ Assertivas:
 8. Subtópico:
 8. Introspection no GraphQL: conceito e utilidade 
 Assertivas:
-1) A introspecção no GraphQL é uma funcionalidade que permite aos desenvolvedores consultar e explorar a estrutura de um esquema GraphQL.
-2) Através da introspecção, é possível obter informações sobre os tipos de dados, campos, interfaces, argumentos e outras características de um esquema GraphQL.
-3) A introspecção no GraphQL é útil no processo de desenvolvimento, pois fornece uma documentação atualizada e em tempo real do esquema GraphQL.
-4) Com a introspecção, os desenvolvedores podem descobrir quais operações são possíveis em um esquema GraphQL e quais argumentos são necessários para cada uma dessas operações.
-5) A funcionalidade de introspecção no GraphQL permite a validação dos dados enviados e recebidos pela API, garantindo a integridade das informações.
-6) A introspecção também facilita a implementação de ferramentas de autocompletar e sugestões de campo em clientes GraphQL.
-7) Utilizando a introspecção, é possível criar consultas dinâmicas que se adaptam às mudanças no esquema GraphQL sem a necessidade de alterar o código-fonte do cliente.
-8) A introspecção no GraphQL é compatível com várias linguagens de programação, o que facilita sua utilização em diferentes ambientes de desenvolvimento.
-9) Por meio da introspecção, é possível realizar testes automatizados para garantir que uma API GraphQL esteja funcionando corretamente.
-10) A introspecção no GraphQL é uma característica essencial para a criação de ferramentas de desenvolvimento eficientes e para facilitar a colaboração entre equipes de desenvolvedores.
+1. A introspecção no GraphQL é uma funcionalidade que permite aos desenvolvedores consultar e explorar a estrutura de um esquema GraphQL.
+2. Através da introspecção, é possível obter informações sobre os tipos de dados, campos, interfaces, argumentos e outras características de um esquema GraphQL.
+3. A introspecção no GraphQL é útil no processo de desenvolvimento, pois fornece uma documentação atualizada e em tempo real do esquema GraphQL.
+4. Com a introspecção, os desenvolvedores podem descobrir quais operações são possíveis em um esquema GraphQL e quais argumentos são necessários para cada uma dessas operações.
+5. A funcionalidade de introspecção no GraphQL permite a validação dos dados enviados e recebidos pela API, garantindo a integridade das informações.
+6. A introspecção também facilita a implementação de ferramentas de autocompletar e sugestões de campo em clientes GraphQL.
+7. Utilizando a introspecção, é possível criar consultas dinâmicas que se adaptam às mudanças no esquema GraphQL sem a necessidade de alterar o código-fonte do cliente.
+8. A introspecção no GraphQL é compatível com várias linguagens de programação, o que facilita sua utilização em diferentes ambientes de desenvolvimento.
+9. Por meio da introspecção, é possível realizar testes automatizados para garantir que uma API GraphQL esteja funcionando corretamente.
+10. A introspecção no GraphQL é uma característica essencial para a criação de ferramentas de desenvolvimento eficientes e para facilitar a colaboração entre equipes de desenvolvedores.
 
 9. Subtópico:
 9. Implementação do Apollo Server para o uso do GraphQl.
@@ -13212,16 +13212,16 @@ Assertivas:
 2. Subtópico:
 2. Protocolos de Comunicação em Web Services (SOAP, REST)
 Assertivas:
-1) SOAP é um protocolo de comunicação baseado em XML, utilizado em Web Services para a troca de mensagens entre sistemas distribuídos.
-2) SOAP oferece um conjunto de regras e padrões para a estruturação e formatação de mensagens, facilitando a integração entre sistemas heterogêneos.
-3) REST (Representational State Transfer) é um estilo arquitetural utilizado em Web Services, baseado no protocolo HTTP e recursos identificáveis por URLs.
-4) REST permite que os clientes acessem e manipulem os dados de um serviço web por meio de operações padrões do HTTP, como GET, POST, PUT e DELETE.
-5) SOAP utiliza o formato XML para a transmissão dos dados, o que pode tornar as mensagens maiores em comparação com REST, que utiliza o formato JSON, mais compacto.
-6) SOAP exige uma estrutura mais complexa para o envio de mensagens, incluindo cabeçalhos e envelopes, enquanto REST é mais simples, com transferências de dados diretas.
-7) SOAP é amplamente utilizado em contextos empresariais, onde a segurança e a confiabilidade são prioritárias, enquanto REST é mais comum em cenários de integração entre sistemas web.
-8) SOAP possui suporte nativo para a execução de transações complexas, enquanto REST é mais voltado para a comunicação entre clientes e serviços de forma mais leve e direta.
-9) SOAP oferece um alto grau de interoperabilidade entre diferentes plataformas e linguagens de programação devido ao uso do XML como formato universal.
-10) REST é mais adequado para situações em que a performance e a escalabilidade são necessárias, devido à simplicidade das requisições e respostas HTTP.
+1. SOAP é um protocolo de comunicação baseado em XML, utilizado em Web Services para a troca de mensagens entre sistemas distribuídos.
+2. SOAP oferece um conjunto de regras e padrões para a estruturação e formatação de mensagens, facilitando a integração entre sistemas heterogêneos.
+3. REST (Representational State Transfer) é um estilo arquitetural utilizado em Web Services, baseado no protocolo HTTP e recursos identificáveis por URLs.
+4. REST permite que os clientes acessem e manipulem os dados de um serviço web por meio de operações padrões do HTTP, como GET, POST, PUT e DELETE.
+5. SOAP utiliza o formato XML para a transmissão dos dados, o que pode tornar as mensagens maiores em comparação com REST, que utiliza o formato JSON, mais compacto.
+6. SOAP exige uma estrutura mais complexa para o envio de mensagens, incluindo cabeçalhos e envelopes, enquanto REST é mais simples, com transferências de dados diretas.
+7. SOAP é amplamente utilizado em contextos empresariais, onde a segurança e a confiabilidade são prioritárias, enquanto REST é mais comum em cenários de integração entre sistemas web.
+8. SOAP possui suporte nativo para a execução de transações complexas, enquanto REST é mais voltado para a comunicação entre clientes e serviços de forma mais leve e direta.
+9. SOAP oferece um alto grau de interoperabilidade entre diferentes plataformas e linguagens de programação devido ao uso do XML como formato universal.
+10. REST é mais adequado para situações em que a performance e a escalabilidade são necessárias, devido à simplicidade das requisições e respostas HTTP.
 
 3. Subtópico:
 3. Formatos de Dados em Web Services (XML, JSON)
@@ -13370,16 +13370,16 @@ Assertivas:
 3. Subtópico:
 3. Metodologias Ágeis em Engenharia de Software
 Assertivas:
-1) As metodologias ágeis em engenharia de software têm como objetivo principal a entrega de valor de maneira incremental e interativa ao cliente.
-2) A adoção de metodologias ágeis em engenharia de software estimula a colaboração e a comunicação contínua entre os membros da equipe.
-3) As metodologias ágeis em engenharia de software enfatizam a adaptação às mudanças durante o desenvolvimento do projeto.
-4) O Manifesto Ágil é um documento que apresenta os valores e princípios que orientam as metodologias ágeis em engenharia de software.
-5) O Scrum é uma das metodologias ágeis mais conhecidas e amplamente utilizadas em engenharia de software.
-6) A metodologia Kanban é baseada em uma abordagem visual que permite o gerenciamento de fluxo contínuo de trabalho em engenharia de software.
-7) A metodologia Lean Software Development possui uma forte ligação com as práticas enxutas de gerenciamento de produção e tem como objetivo eliminar desperdícios durante o desenvolvimento de software.
-8) A metodologia Extreme Programming (XP) é uma abordagem ágil que enfatiza a qualidade do software através de práticas como programação em par e testes automatizados.
-9) As metodologias ágeis em engenharia de software valorizam a interação e a colaboração com o cliente durante todo o ciclo de desenvolvimento do software.
-10) A agilidade em engenharia de software é uma resposta às limitações das abordagens tradicionais de desenvolvimento, buscando maior flexibilidade e eficiência no processo de criação de software.
+1. As metodologias ágeis em engenharia de software têm como objetivo principal a entrega de valor de maneira incremental e interativa ao cliente.
+2. A adoção de metodologias ágeis em engenharia de software estimula a colaboração e a comunicação contínua entre os membros da equipe.
+3. As metodologias ágeis em engenharia de software enfatizam a adaptação às mudanças durante o desenvolvimento do projeto.
+4. O Manifesto Ágil é um documento que apresenta os valores e princípios que orientam as metodologias ágeis em engenharia de software.
+5. O Scrum é uma das metodologias ágeis mais conhecidas e amplamente utilizadas em engenharia de software.
+6. A metodologia Kanban é baseada em uma abordagem visual que permite o gerenciamento de fluxo contínuo de trabalho em engenharia de software.
+7. A metodologia Lean Software Development possui uma forte ligação com as práticas enxutas de gerenciamento de produção e tem como objetivo eliminar desperdícios durante o desenvolvimento de software.
+8. A metodologia Extreme Programming (XP) é uma abordagem ágil que enfatiza a qualidade do software através de práticas como programação em par e testes automatizados.
+9. As metodologias ágeis em engenharia de software valorizam a interação e a colaboração com o cliente durante todo o ciclo de desenvolvimento do software.
+10. A agilidade em engenharia de software é uma resposta às limitações das abordagens tradicionais de desenvolvimento, buscando maior flexibilidade e eficiência no processo de criação de software.
 
 4. Subtópico:
 4. Gerenciamento de Projetos em Engenharia de Software

@@ -253,16 +253,16 @@ Assertivas:
 9. Subtópico:
 9
 Assertivas:
-1) A Constituição Federal de 1988 consagra a liberdade de expressão como um direito fundamental do cidadão brasileiro.
-2) O Tribunal de Contas da União é um órgão de controle externo responsável por fiscalizar a aplicação dos recursos públicos federais.
-3) O Poder Executivo é exercido pelo presidente da República, que é eleito pelo voto popular.
-4) A Lei de Responsabilidade Fiscal impõe limites aos gastos dos governos, visando garantir a responsabilidade na gestão das finanças públicas.
-5) O Congresso Nacional é composto pela Câmara dos Deputados e pelo Senado Federal, sendo responsável pela elaboração e aprovação das leis.
-6) O Supremo Tribunal Federal é a mais alta instância do Poder Judiciário brasileiro, sendo responsável por julgar ações de inconstitucionalidade e garantir a aplicação da Constituição.
-7) Os concursos públicos são regidos pelo princípio da igualdade, garantindo que todos os candidatos tenham as mesmas oportunidades.
-8) A Administração Pública deve agir de acordo com os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.
-9) A licitação é um procedimento obrigatório para a contratação de serviços e aquisição de bens pela Administração Pública, visando garantir a seleção da proposta mais vantajosa para o órgão contratante. 
-10) A Lei de Improbidade Administrativa prevê punições para aqueles que praticarem atos de corrupção ou improbidade no exercício de cargos públicos.
+1. A Constituição Federal de 1988 consagra a liberdade de expressão como um direito fundamental do cidadão brasileiro.
+2. O Tribunal de Contas da União é um órgão de controle externo responsável por fiscalizar a aplicação dos recursos públicos federais.
+3. O Poder Executivo é exercido pelo presidente da República, que é eleito pelo voto popular.
+4. A Lei de Responsabilidade Fiscal impõe limites aos gastos dos governos, visando garantir a responsabilidade na gestão das finanças públicas.
+5. O Congresso Nacional é composto pela Câmara dos Deputados e pelo Senado Federal, sendo responsável pela elaboração e aprovação das leis.
+6. O Supremo Tribunal Federal é a mais alta instância do Poder Judiciário brasileiro, sendo responsável por julgar ações de inconstitucionalidade e garantir a aplicação da Constituição.
+7. Os concursos públicos são regidos pelo princípio da igualdade, garantindo que todos os candidatos tenham as mesmas oportunidades.
+8. A Administração Pública deve agir de acordo com os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.
+9. A licitação é um procedimento obrigatório para a contratação de serviços e aquisição de bens pela Administração Pública, visando garantir a seleção da proposta mais vantajosa para o órgão contratante. 
+10. A Lei de Improbidade Administrativa prevê punições para aqueles que praticarem atos de corrupção ou improbidade no exercício de cargos públicos.
 
 
 Item do edital: 3 Governança de Dados ISO.    
@@ -284,16 +284,16 @@ Assertivas:
 2. Subtópico:
 2. Princípios fundamentais da Governança de Dados ISO.
 Assertivas:
-1) O princípio da responsabilidade é um dos princípios fundamentais da Governança de Dados ISO, estabelecendo a obrigação de garantir que a gestão dos dados seja realizada de forma eficiente e eficaz.
-2) O princípio da orientação ao valor define que a Governança de Dados ISO deve buscar agregar valor à organização por meio da gestão adequada dos dados.
-3) O princípio da integridade estabelece que a Governança de Dados ISO deve garantir a qualidade e a confiabilidade dos dados por meio da adoção de práticas adequadas.
-4) A transparência é um princípio fundamental da Governança de Dados ISO, que busca assegurar que a gestão dos dados seja realizada de maneira clara e compreensível a todas as partes interessadas.
-5) O princípio da prestação de contas determina que os responsáveis pela Governança de Dados ISO devem prestar contas pelos resultados obtidos e tomar medidas corretivas, quando necessário.
-6) O princípio da compatibilidade define que a Governança de Dados ISO deve estar alinhada com as estratégias e objetivos da organização, buscando apoio e aderência dessas diretrizes.
-7) O princípio da segurança estabelece que a Governança de Dados ISO deve garantir a proteção adequada dos dados, evitando a ocorrência de vazamentos ou acesso não autorizado.
-8) O princípio da participação estabelece que a Governança de Dados ISO deve envolver todas as partes interessadas relevantes na tomada de decisões relacionadas à gestão dos dados.
-9) O princípio da consistência determina que a Governança de Dados ISO deve ser implantada de forma sistemática e consistente em toda a organização.
-10) O princípio da melhoria contínua define que a Governança de Dados ISO deve buscar aprimorar constantemente suas práticas e resultados, por meio da avaliação e monitoramento do desempenho.
+1. O princípio da responsabilidade é um dos princípios fundamentais da Governança de Dados ISO, estabelecendo a obrigação de garantir que a gestão dos dados seja realizada de forma eficiente e eficaz.
+2. O princípio da orientação ao valor define que a Governança de Dados ISO deve buscar agregar valor à organização por meio da gestão adequada dos dados.
+3. O princípio da integridade estabelece que a Governança de Dados ISO deve garantir a qualidade e a confiabilidade dos dados por meio da adoção de práticas adequadas.
+4. A transparência é um princípio fundamental da Governança de Dados ISO, que busca assegurar que a gestão dos dados seja realizada de maneira clara e compreensível a todas as partes interessadas.
+5. O princípio da prestação de contas determina que os responsáveis pela Governança de Dados ISO devem prestar contas pelos resultados obtidos e tomar medidas corretivas, quando necessário.
+6. O princípio da compatibilidade define que a Governança de Dados ISO deve estar alinhada com as estratégias e objetivos da organização, buscando apoio e aderência dessas diretrizes.
+7. O princípio da segurança estabelece que a Governança de Dados ISO deve garantir a proteção adequada dos dados, evitando a ocorrência de vazamentos ou acesso não autorizado.
+8. O princípio da participação estabelece que a Governança de Dados ISO deve envolver todas as partes interessadas relevantes na tomada de decisões relacionadas à gestão dos dados.
+9. O princípio da consistência determina que a Governança de Dados ISO deve ser implantada de forma sistemática e consistente em toda a organização.
+10. O princípio da melhoria contínua define que a Governança de Dados ISO deve buscar aprimorar constantemente suas práticas e resultados, por meio da avaliação e monitoramento do desempenho.
 
 3. Subtópico:
 3. Estrutura organizacional para a Governança de Dados ISO.
@@ -849,16 +849,16 @@ Assertivas:
 3. Subtópico:
 3. Os sete princípios orientadores do ITIL v4.
 Assertivas:
-1) Os sete princípios orientadores do ITIL v4 são baseados na ideia de valor do serviço.
-2) Um dos princípios do ITIL v4 é focado no controle e influência do usuário sobre o seu próprio serviço.
-3) A melhoria contínua é um dos princípios-chave do ITIL v4.
-4) O ITIL v4 enfatiza a importância da colaboração e da transparência entre os diversos departamentos de uma organização.
-5) Um dos princípios do ITIL v4 preza pela importância da simplicidade, buscando evitar a complexidade desnecessária nos serviços oferecidos.
-6) O ITIL v4 promove a adoção de uma abordagem holística na gestão de serviços, considerando todos os aspectos relevantes.
-7) A adaptabilidade é um dos princípios-chave do ITIL v4, destacando a necessidade de se ajustar às mudanças e demandas do mercado.
-8) A perspectiva da experiência do usuário é levada em conta no ITIL v4, como um dos princípios orientadores.
-9) A padronização de processos e práticas é incentivada pelo ITIL v4 em um de seus princípios.
-10) A resiliência ganha destaque como um princípio importante do ITIL v4, promovendo a capacidade de lidar com falhas e interrupções de serviços.
+1. Os sete princípios orientadores do ITIL v4 são baseados na ideia de valor do serviço.
+2. Um dos princípios do ITIL v4 é focado no controle e influência do usuário sobre o seu próprio serviço.
+3. A melhoria contínua é um dos princípios-chave do ITIL v4.
+4. O ITIL v4 enfatiza a importância da colaboração e da transparência entre os diversos departamentos de uma organização.
+5. Um dos princípios do ITIL v4 preza pela importância da simplicidade, buscando evitar a complexidade desnecessária nos serviços oferecidos.
+6. O ITIL v4 promove a adoção de uma abordagem holística na gestão de serviços, considerando todos os aspectos relevantes.
+7. A adaptabilidade é um dos princípios-chave do ITIL v4, destacando a necessidade de se ajustar às mudanças e demandas do mercado.
+8. A perspectiva da experiência do usuário é levada em conta no ITIL v4, como um dos princípios orientadores.
+9. A padronização de processos e práticas é incentivada pelo ITIL v4 em um de seus princípios.
+10. A resiliência ganha destaque como um princípio importante do ITIL v4, promovendo a capacidade de lidar com falhas e interrupções de serviços.
 
 4. Subtópico:
 4. O modelo de sistema de valor de serviço (SVS) no ITIL v4.
@@ -933,16 +933,16 @@ Assertivas:
 9. Subtópico:
 9
 Assertivas:
-1) O número 9 é um número ímpar.
-2) Na sequência numérica, o 9 sucede o número 8.
-3) O 9 é um algarismo encontrado no sistema decimal.
-4) O quadrado de 9 é igual a 81.
-5) O número 9 é um múltiplo de 3.
-6) Ao multiplicar qualquer número por 9, o resultado terá a soma dos seus algarismos igual a 9.
-7) O número 9 é um dígito utilizado em diferentes sistemas de numeração, como o decimal e o binário.
-8) A raiz quadrada aproximada de 9 é igual a 3.
-9) O número 9 é um número natural.
-10) O número 9 é um algarismo utilizado no sistema numeral indo-arábico.
+1. O número 9 é um número ímpar.
+2. Na sequência numérica, o 9 sucede o número 8.
+3. O 9 é um algarismo encontrado no sistema decimal.
+4. O quadrado de 9 é igual a 81.
+5. O número 9 é um múltiplo de 3.
+6. Ao multiplicar qualquer número por 9, o resultado terá a soma dos seus algarismos igual a 9.
+7. O número 9 é um dígito utilizado em diferentes sistemas de numeração, como o decimal e o binário.
+8. A raiz quadrada aproximada de 9 é igual a 3.
+9. O número 9 é um número natural.
+10. O número 9 é um algarismo utilizado no sistema numeral indo-arábico.
 
 
 Item do edital: 4 ITIL v4 iso.   

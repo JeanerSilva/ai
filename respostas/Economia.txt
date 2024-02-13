@@ -252,7 +252,7 @@ Assertivas:
 2. O deflator do PIB é utilizado para ajustar os valores monetários do PIB nominal para os valores reais, descontando a influência da variação de preços.
 3. O deflator do PIB é calculado dividindo o PIB nominal pelo PIB real e multiplicando por 100.
 4. A inflação é a elevação contínua e generalizada dos preços de bens e serviços em uma economia ao longo do tempo.
-5. A inflação pode ser medida por meio de diferentes índices, como o Índice de Preços ao Consumidor (IPCA) e o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15).
+5. A inflação pode ser medida por meio de diferentes índices, como o Índice de Preços ao Consumidor (IPCA) e o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15..
 6. A inflação de demanda ocorre quando há excesso de demanda por bens e serviços em relação à capacidade de produção.
 7. A inflação de oferta ocorre quando há um aumento nos custos de produção, como salários e matérias-primas, que é repassado aos preços dos produtos.
 8. Quando o deflator do PIB aumenta, indica-se um aumento no nível geral de preços na economia, ou seja, há inflação.
@@ -766,16 +766,16 @@ Assertivas:
 5. Subtópico:
 5. Consequências legais para a destruição ilegal das moedas.
 Assertivas:
-1) A destruição ilegal das moedas é considerada crime, conforme previsto na legislação brasileira.
-2) A prática de destruir moedas irresponsavelmente pode resultar em processos judiciais.
-3) A legislação brasileira estabelece penalidades para aqueles que destruírem moedas públicas.
-4) As consequências legais para a destruição ilegal de moedas podem incluir multas e até mesmo reclusão.
-5) O Código Penal prevê sanções para aqueles que danificarem, inutilizarem ou subtraírem moedas em curso legal. 
-6) O crime de destruição ilegal de moedas pode ser enquadrado no artigo 163 do Código Penal.
-7) A responsabilidade civil também pode ser atribuída àqueles que danificarem ou destruírem moedas ilegalmente.
-8) Além das penalidades previstas, o infrator pode ser obrigado a indenizar os prejuízos causados pela destruição ilegal das moedas.
-9) A ação de destruir moedas irá de encontro ao princípio constitucional da preservação do patrimônio público.
-10) O Banco Central do Brasil, como regulador do sistema financeiro, também pode aplicar sanções administrativas aos infratores da destruição ilegal de moedas.
+1. A destruição ilegal das moedas é considerada crime, conforme previsto na legislação brasileira.
+2. A prática de destruir moedas irresponsavelmente pode resultar em processos judiciais.
+3. A legislação brasileira estabelece penalidades para aqueles que destruírem moedas públicas.
+4. As consequências legais para a destruição ilegal de moedas podem incluir multas e até mesmo reclusão.
+5. O Código Penal prevê sanções para aqueles que danificarem, inutilizarem ou subtraírem moedas em curso legal. 
+6. O crime de destruição ilegal de moedas pode ser enquadrado no artigo 163 do Código Penal.
+7. A responsabilidade civil também pode ser atribuída àqueles que danificarem ou destruírem moedas ilegalmente.
+8. Além das penalidades previstas, o infrator pode ser obrigado a indenizar os prejuízos causados pela destruição ilegal das moedas.
+9. A ação de destruir moedas irá de encontro ao princípio constitucional da preservação do patrimônio público.
+10. O Banco Central do Brasil, como regulador do sistema financeiro, também pode aplicar sanções administrativas aos infratores da destruição ilegal de moedas.
 
 6. Subtópico:
 6. Diferença entre desmonetização e destruição da moeda.
@@ -848,16 +848,16 @@ Assertivas:
 2. Subtópico:
 2. Estrutura do Sistema Monetário Nacional
 Assertivas:
-1) A estrutura do Sistema Monetário Nacional é regulada pelo Banco Central do Brasil, órgão responsável por formular e executar a política monetária.
-2) O Sistema Monetário Nacional é composto por diversas instituições financeiras, dentre elas: Bancos Comerciais, Bancos Múltiplos, Bancos de Desenvolvimento e Cooperativas de Crédito.
-3) O Banco Central do Brasil tem como função principal promover a estabilidade do valor da moeda e o funcionamento eficiente do Sistema Monetário Nacional.
-4) O Sistema Monetário Nacional é responsável por regular a emissão de moeda fiduciária, assim como a gestão das reservas internacionais do país.
-5) As instituições financeiras que compõem o Sistema Monetário Nacional são supervisionadas e fiscalizadas pelo Banco Central do Brasil, visando garantir a estabilidade e a solidez do sistema financeiro.
-6) O Conselho Monetário Nacional é a autoridade máxima do Sistema Monetário Nacional, sendo responsável por definir diretrizes e normas relacionadas à política monetária e ao sistema financeiro.
-7) A principal finalidade do Sistema Monetário Nacional é promover a estabilidade de preços e o equilíbrio entre oferta e demanda de moeda, visando uma economia saudável e sustentável.
-8) O Banco Central do Brasil atua como o "banco dos bancos" no Sistema Monetário Nacional, oferecendo serviços de compensação de cheques e transferências eletrônicas entre as instituições financeiras.
-9) O Sistema Monetário Nacional também tem como objetivo fomentar o desenvolvimento econômico do país, por meio de instrumentos e políticas monetárias adequadas.
-10) A estrutura do Sistema Monetário Nacional prevê a existência de um Sistema de Pagamentos Brasileiro, responsável por garantir a eficiência e segurança das transações financeiras realizadas entre as instituições.
+1. A estrutura do Sistema Monetário Nacional é regulada pelo Banco Central do Brasil, órgão responsável por formular e executar a política monetária.
+2. O Sistema Monetário Nacional é composto por diversas instituições financeiras, dentre elas: Bancos Comerciais, Bancos Múltiplos, Bancos de Desenvolvimento e Cooperativas de Crédito.
+3. O Banco Central do Brasil tem como função principal promover a estabilidade do valor da moeda e o funcionamento eficiente do Sistema Monetário Nacional.
+4. O Sistema Monetário Nacional é responsável por regular a emissão de moeda fiduciária, assim como a gestão das reservas internacionais do país.
+5. As instituições financeiras que compõem o Sistema Monetário Nacional são supervisionadas e fiscalizadas pelo Banco Central do Brasil, visando garantir a estabilidade e a solidez do sistema financeiro.
+6. O Conselho Monetário Nacional é a autoridade máxima do Sistema Monetário Nacional, sendo responsável por definir diretrizes e normas relacionadas à política monetária e ao sistema financeiro.
+7. A principal finalidade do Sistema Monetário Nacional é promover a estabilidade de preços e o equilíbrio entre oferta e demanda de moeda, visando uma economia saudável e sustentável.
+8. O Banco Central do Brasil atua como o "banco dos bancos" no Sistema Monetário Nacional, oferecendo serviços de compensação de cheques e transferências eletrônicas entre as instituições financeiras.
+9. O Sistema Monetário Nacional também tem como objetivo fomentar o desenvolvimento econômico do país, por meio de instrumentos e políticas monetárias adequadas.
+10. A estrutura do Sistema Monetário Nacional prevê a existência de um Sistema de Pagamentos Brasileiro, responsável por garantir a eficiência e segurança das transações financeiras realizadas entre as instituições.
 
 3. Subtópico:
 3. Papel dos Bancos no Sistema Monetário
@@ -1250,7 +1250,7 @@ Assertivas:
 7. A formação de carteis ou acordos entre empresas para controlar o mercado e restringir a concorrência é considerada ilegal e abusiva em diversos países.
 8. A quebra de um monopólio pode ser benéfica para os consumidores, pois estimula a competição, reduz preços e proporciona maior variedade de escolha.
 9. O monopólio natural pode ser justificado pela existência de economias de escala, que resultam em uma produção mais eficiente e menores custos para a sociedade.
-10. A legislação brasileira busca proteger o consumidor e coibir práticas monopolistas, como a Lei Antitruste (Lei nº 8.884/1994), que prevê punições para empresas que abusem de sua posição dominante no mercado.
+10. A legislação brasileira busca proteger o consumidor e coibir práticas monopolistas, como a Lei Antitruste (Lei nº 8.884/1994., que prevê punições para empresas que abusem de sua posição dominante no mercado.
 
 4. Subtópico:
 4. Diferenças entre Oligopólio e Monopólio Competitivo
@@ -1382,16 +1382,16 @@ Assertivas:
 3. Subtópico:
 3. Estruturas de Mercado: Concorrência Perfeita, Monopólio e Oligopólio
 Assertivas:
-1) Na concorrência perfeita, há um grande número de empresas atuando no mercado, com produtos homogêneos e livre entrada e saída de empresas.
-2) A concorrência perfeita é um tipo de estrutura de mercado em que as empresas são preços tomadores, ou seja, não têm poder de influenciar o preço de mercado.
-3) No monopólio, há apenas uma empresa atuando no mercado, sem concorrência direta, o que lhe confere poder de influenciar o preço.
-4) Os monopólios podem ocorrer quando há barreiras à entrada de novas empresas no mercado, como patentes exclusivas ou controle de recursos essenciais.
-5) O oligopólio é uma estrutura de mercado em que poucas empresas dominam a oferta de produtos ou serviços, podendo haver uma interdependência estratégica entre elas.
-6) No oligopólio, as empresas têm poder de influenciar o preço e podem utilizar estratégias como fixação de cartéis para aumentar seus lucros.
-7) As estruturas de mercado têm grande influência na dinâmica do mercado, afetando a competição, a formação de preços e a inovação.
-8) A concorrência perfeita é considerada o modelo teórico mais eficiente em termos de bem-estar econômico, pois maximiza a produção e minimiza os preços.
-9) O monopólio pode levar a preços mais altos e menor quantidade de bens ou serviços produzidos, resultando em menor bem-estar social.
-10) O oligopólio pode gerar comportamento estratégico entre as empresas, como a competição em preço, a diferenciação de produtos ou a inovação, podendo impactar o mercado de forma significativa.
+1. Na concorrência perfeita, há um grande número de empresas atuando no mercado, com produtos homogêneos e livre entrada e saída de empresas.
+2. A concorrência perfeita é um tipo de estrutura de mercado em que as empresas são preços tomadores, ou seja, não têm poder de influenciar o preço de mercado.
+3. No monopólio, há apenas uma empresa atuando no mercado, sem concorrência direta, o que lhe confere poder de influenciar o preço.
+4. Os monopólios podem ocorrer quando há barreiras à entrada de novas empresas no mercado, como patentes exclusivas ou controle de recursos essenciais.
+5. O oligopólio é uma estrutura de mercado em que poucas empresas dominam a oferta de produtos ou serviços, podendo haver uma interdependência estratégica entre elas.
+6. No oligopólio, as empresas têm poder de influenciar o preço e podem utilizar estratégias como fixação de cartéis para aumentar seus lucros.
+7. As estruturas de mercado têm grande influência na dinâmica do mercado, afetando a competição, a formação de preços e a inovação.
+8. A concorrência perfeita é considerada o modelo teórico mais eficiente em termos de bem-estar econômico, pois maximiza a produção e minimiza os preços.
+9. O monopólio pode levar a preços mais altos e menor quantidade de bens ou serviços produzidos, resultando em menor bem-estar social.
+10. O oligopólio pode gerar comportamento estratégico entre as empresas, como a competição em preço, a diferenciação de produtos ou a inovação, podendo impactar o mercado de forma significativa.
 
 4. Subtópico:
 4. Equilíbrio Geral e Bem-Estar Econômico
@@ -2594,16 +2594,16 @@ Assertivas:
 7. Subtópico:
 7. Análise dos Bens Normais, Inferiores e Giffen na Perspectiva do Equilíbrio do Consumidor
 Assertivas:
-1) A análise dos bens normais na perspectiva do equilíbrio do consumidor está relacionada ao comportamento do consumidor frente a variações do seu poder de compra.
-2) Bens normais são aqueles cuja demanda aumenta quando o rendimento do consumidor aumenta, mantendo-se constante o preço do bem.
-3) A curva de demanda de um bem normal é inclinada positivamente, refletindo a relação entre preço e quantidade demandada, quando o poder de compra do consumidor se mantém constante.
-4) A aquisição de bens superiores, como roupas de marca ou carros de luxo, estão frequentemente associadas ao comportamento dos bens normais na perspectiva do equilíbrio do consumidor.
-5) Bens inferiores são aqueles que possuem uma demanda inversamente relacionada ao aumento do poder de compra do consumidor.
-6) Exemplos de bens inferiores incluem alimentos de baixa qualidade, produtos genéricos e transporte público.
-7) A curva de demanda de bens inferiores é inclinada negativamente, indicando que o aumento do poder de compra do consumidor leva a uma redução na quantidade demandada do bem.
-8) Bens Giffen são uma categoria especial de bens inferiores em que a demanda aumenta quando o preço do bem aumenta, enquanto o poder de compra do consumidor permanece inalterado.
-9) O caso dos bens Giffen é considerado uma exceção à lei da demanda típica dos bens inferiores.
-10) Exemplos teóricos de bens Giffen incluem alimentos básicos, como arroz e batatas, em situações de extrema escassez, em que o aumento do preço desses alimentos leva a um aumento na demanda deles.
+1. A análise dos bens normais na perspectiva do equilíbrio do consumidor está relacionada ao comportamento do consumidor frente a variações do seu poder de compra.
+2. Bens normais são aqueles cuja demanda aumenta quando o rendimento do consumidor aumenta, mantendo-se constante o preço do bem.
+3. A curva de demanda de um bem normal é inclinada positivamente, refletindo a relação entre preço e quantidade demandada, quando o poder de compra do consumidor se mantém constante.
+4. A aquisição de bens superiores, como roupas de marca ou carros de luxo, estão frequentemente associadas ao comportamento dos bens normais na perspectiva do equilíbrio do consumidor.
+5. Bens inferiores são aqueles que possuem uma demanda inversamente relacionada ao aumento do poder de compra do consumidor.
+6. Exemplos de bens inferiores incluem alimentos de baixa qualidade, produtos genéricos e transporte público.
+7. A curva de demanda de bens inferiores é inclinada negativamente, indicando que o aumento do poder de compra do consumidor leva a uma redução na quantidade demandada do bem.
+8. Bens Giffen são uma categoria especial de bens inferiores em que a demanda aumenta quando o preço do bem aumenta, enquanto o poder de compra do consumidor permanece inalterado.
+9. O caso dos bens Giffen é considerado uma exceção à lei da demanda típica dos bens inferiores.
+10. Exemplos teóricos de bens Giffen incluem alimentos básicos, como arroz e batatas, em situações de extrema escassez, em que o aumento do preço desses alimentos leva a um aumento na demanda deles.
 
 8. Subtópico:
 8. Restrições Orçamentárias enfrentadas
