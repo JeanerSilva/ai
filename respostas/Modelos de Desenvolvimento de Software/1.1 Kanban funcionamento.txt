@@ -1,0 +1,135 @@
+Pergunta Original: 1.1 Kanban funcionamento   
+ 
+1. Subtópico:
+1.1.1 Conceito e origem do Kanban
+Assertivas:
+1. O Kanban é um sistema de controle de produção que surgiu no Japão, na década de 1950.
+2. O termo "Kanban" significa "cartão visível" ou "sinal visual" em japonês.
+3. Taiichi Ohno, engenheiro da Toyota, foi o responsável pelo desenvolvimento e implementação do sistema Kanban na indústria automobilística.
+4. O Kanban tem como objetivo principal reduzir gargalos e evitar desperdícios dentro do processo produtivo.
+5. O sistema Kanban utiliza cartões ou outros meios visuais para representar a demanda de produção de cada etapa do processo.
+6. Cada cartão Kanban contém informações sobre a quantidade e o tipo de produto a ser produzido ou movimentado.
+7. O Kanban permite que as atividades de produção sejam ajustadas de acordo com a demanda real, evitando estoques excessivos ou falta de materiais.
+8. O método Kanban trabalha com o conceito de "puxar" a produção, ou seja, as etapas subsequentes do processo são acionadas apenas quando há demanda real.
+9. A implementação do sistema Kanban exige uma análise detalhada do fluxo de valor do processo produtivo, identificando suas etapas e pontos de controle.
+10. O Kanban pode ser aplicado em diferentes setores e atividades além da indústria, como serviços, desenvolvimento de software e gestão de projetos.
+
+2. Subtópico:
+1.1.2 Princípios fundamentais do Kanban
+Assertivas:
+1. Kanban é um sistema visual de gestão e controle de fluxo de trabalho.
+2. O Kanban é baseado em princípios fundamentais como limitar o trabalho em progresso (WIP), visualizar o fluxo de trabalho e otimizar continuamente o processo.
+3. O princípio de limitar o trabalho em progresso (WIP) no Kanban tem como objetivo evitar sobrecarga e gargalos no processo.
+4. A visualização do fluxo de trabalho no Kanban é feita por meio de um quadro com colunas que representam as etapas do processo e cartões que representam as tarefas.
+5. Os cartões no Kanban possuem informações como título da tarefa, responsável, prazo e status.
+6. O fluxo de trabalho no Kanban é baseado no conceito de pull, onde cada etapa do processo puxa as tarefas da etapa anterior.
+7. O Kanban busca maximizar o fluxo contínuo de trabalho, reduzindo o tempo de espera e minimizando os gargalos.
+8. O Kanban utiliza métricas como lead time (tempo necessário para concluir uma tarefa) e cycle time (tempo que uma tarefa fica em um estágio específico do processo) para avaliar o desempenho.
+9. É possível utilizar o Kanban em diversos contextos além do desenvolvimento de software, como na gestão de projetos, marketing, manufatura, entre outros.
+10. O Kanban é uma abordagem flexível, que permite adaptação às necessidades e características específicas de cada equipe ou organização.
+
+3. Subtópico:
+1.1.3 Benefícios e limitações do sistema Kanban
+Assertivas:
+1. O sistema Kanban é uma metodologia de gestão de produção e controle de estoques baseada na utilização de cartões para gerenciar o fluxo de materiais.
+2. Um dos principais benefícios do sistema Kanban é proporcionar uma visão clara e imediata sobre o status e a movimentação dos materiais na produção.
+3. O sistema Kanban permite uma melhor gestão dos estoques, reduzindo os excessos e evitando a escassez de materiais.
+4. A utilização do sistema Kanban possibilita a identificação de gargalos e a implementação de melhorias contínuas no processo produtivo.
+5. Ao implementar o sistema Kanban, é possível promover uma maior colaboração entre os departamentos, favorecendo a comunicação e o trabalho em equipe.
+6. O sistema Kanban permite uma maior flexibilidade de produção, uma vez que a reposição de materiais é realizada conforme a demanda real.
+7. É importante ressaltar que o sistema Kanban não é uma solução para todos os problemas de gestão, sendo necessário considerar outros aspectos do processo produtivo.
+8. O sistema Kanban pode apresentar limitações em situações de alta variabilidade de demanda, dificultando o planejamento e a previsibilidade.
+9. A implementação do sistema Kanban requer um planejamento adequado e a definição dos parâmetros corretos, para que haja efetividade e otimização dos resultados.
+10. A adoção do sistema Kanban pode demandar mudanças culturais e organizacionais, de forma a garantir a correta implementação e a aderência de todos os envolvidos no processo produtivo.
+
+4. Subtópico:
+1.1.4 Diferença entre Kanban e outros métodos ágeis (Scrum, Lean)
+Assertivas:
+1. Kanban, Scrum e Lean são métodos ágeis utilizados para gerenciar projetos e otimizar o fluxo de trabalho.
+2. O Kanban prioriza a visualização do trabalho em andamento por meio de quadros, enquanto o Scrum utiliza sprints para dividir o trabalho em incrementos.
+3. O Scrum e o Lean possuem papéis específicos para os membros da equipe, como o Scrum Master e o Product Owner, enquanto o Kanban não tem papéis definidos.
+4. O Lean tem como objetivo principal a eliminação de desperdícios no processo produtivo, enquanto o Kanban e o Scrum focam em otimizar o fluxo de trabalho.
+5. O Kanban utiliza limites de trabalho em progresso (WIP) para evitar a sobrecarga da equipe, enquanto o Scrum define uma quantidade fixa de trabalho a ser realizado durante cada sprint.
+6. O Scrum utiliza reuniões diárias, como o Daily Scrum, para obter transparência e alinhamento entre a equipe, enquanto o Kanban não possui reuniões específicas.
+7. O Kanban permite mudanças mais frequentes e flexibilidade no fluxo de trabalho, enquanto o Scrum é mais prescritivo e requer uma estrutura mais rígida.
+8. O Lean foi originado no setor de manufatura, com foco na eficiência e redução de desperdícios, enquanto o Kanban e o Scrum são mais amplamente aplicáveis em diferentes áreas de negócio.
+9. O Scrum enfatiza a entrega de valor ao cliente por meio de incrementos funcionais de software, enquanto o Kanban e o Lean têm abordagens mais abrangentes para otimizar o fluxo de trabalho em geral.
+10. O Kanban, Scrum e Lean são ferramentas poderosas para gerenciar projetos ágeis, e a escolha entre eles dependerá das necessidades e contexto específico de cada equipe ou organização.
+
+5. Subtópico:
+1.1.5 Implementação de um sistema Kanban: passos básicos 
+Assertivas:
+1. A implementação de um sistema Kanban requer a identificação clara dos processos-chave da organização.
+
+2. Os passos básicos para a implementação de um sistema Kanban incluem a definição dos limites de trabalho em andamento (WIP) em cada etapa do processo.
+
+3. A utilização de quadros Kanban é uma prática comum para visualizar o fluxo de trabalho e gerenciar as tarefas em cada etapa.
+
+4. A adoção de cartões Kanban, que representam as tarefas, facilita o acompanhamento do status de cada trabalho.
+
+5. A implementação de um sistema Kanban requer o estabelecimento de regras claras sobre a movimentação dos cartões entre as etapas do processo.
+
+6. A redução do WIP (trabalho em andamento) é um objetivo fundamental ao implementar um sistema Kanban.
+
+7. A implementação de um sistema Kanban requer o monitoramento constante do fluxo de trabalho e a identificação de gargalos ou áreas com excesso de trabalho.
+
+8. A criação de métricas para avaliar o desempenho do sistema Kanban é essencial para acompanhar melhorias e identificar oportunidades de otimização.
+
+9. A implementação de um sistema Kanban deve envolver a capacitação dos colaboradores para entenderem o conceito e utilizarem as ferramentas corretamente.
+
+10. A implementação de um sistema Kanban pode trazer diversos benefícios, como a redução de desperdícios, aumento da eficiência operacional e melhoria na entrega de projetos.
+
+6. Subtópico:
+1.1.6 Tipos de cartões Kanban e suas funções 
+Assertivas:
+1. O cartão Kanban é utilizado para controlar a quantidade de itens produzidos em um processo de produção.
+2. O cartão Kanban é um dos métodos mais utilizados para implementar o controle de produção puxada.
+3. O cartão Kanban funciona como um sinal para autorizar a produção ou movimentação de um item.
+4. O cartão Kanban físico é amplamente utilizado em processos de produção com alta demanda e rápida movimentação de estoque.
+5. O cartão Kanban eletrônico é uma solução mais moderna que substitui o uso de cartões físicos por sistemas informatizados.
+6. O cartão Kanban de movimentação é utilizado para controlar a transferência de itens entre áreas ou setores de produção.
+7. O cartão Kanban de produção é utilizado para autorizar a produção de um determinado item.
+8. O cartão Kanban de requisição é utilizado para solicitar a reposição de materiais ou componentes em um processo de produção.
+9. O cartão Kanban de transporte é utilizado para controlar o movimento de itens entre fornecedores e clientes.
+10. O cartão Kanban é uma poderosa ferramenta para melhorar a eficiência e reduzir o desperdício em processos de produção.
+
+7. Subtópico:
+1.11 Aplicação do sistema kanban na gestão de projetos 
+Assertivas:
+1. Na gestão de projetos, o sistema kanban é uma metodologia de controle visual que auxilia no gerenciamento do fluxo de trabalho.
+2. O sistema kanban baseia-se no princípio de limitar a quantidade de trabalho em andamento, de forma a evitar sobrecarga e aumentar a produtividade.
+3. Uma das principais características do sistema kanban é a utilização de quadros físicos ou digitais para representar visualmente as tarefas do projeto.
+4. Com o sistema kanban, é possível identificar facilmente gargalos e pontos de melhoria no processo de execução do projeto.
+5. O sistema kanban permite uma melhor coordenação entre os membros da equipe, fornecendo maior transparência sobre as atividades em andamento.
+6. Ao utilizar o sistema kanban, é possível otimizar o uso dos recursos disponíveis e reduzir o tempo de entrega das tarefas do projeto.
+7. Com a implementação do sistema kanban, é possível reduzir os riscos de atrasos e falhas na execução das atividades do projeto.
+8. O sistema kanban facilita a identificação de prioridades e a alocação eficiente dos recursos, contribuindo para o cumprimento dos prazos estabelecidos.
+9. Através do sistema kanban, é possível promover a colaboração e o trabalho em equipe, aumentando a eficiência na gestão de projetos.
+10. O sistema kanban é uma abordagem flexível e adaptável, que pode ser utilizado em diferentes tipos de projetos e setores.
+
+8. Subtópico:
+2..8 Uso do quadro kanban para visualização de fluxo de trabalho 
+Assertivas:
+1. O quadro kanban é uma ferramenta visual utilizada para visualizar o fluxo de trabalho de uma equipe ou projeto.
+2. O quadro kanban é composto por colunas que representam as etapas do processo, como "a fazer", "em andamento" e "concluído".
+3. Cada tarefa ou atividade é representada por um cartão que é movido pelas colunas do quadro kanban conforme avança no processo.
+4. O uso do quadro kanban facilita a identificação de gargalos e a visualização do progresso do trabalho.
+5. O quadro kanban permite uma melhor distribuição das tarefas entre os membros da equipe.
+6. Uma das principais vantagens do quadro kanban é a possibilidade de identificar onde estão acumulando tarefas, evitando sobrecargas em determinadas etapas.
+7. O quadro kanban auxilia na priorização das tarefas, já que é possível destacar as atividades mais urgentes e importantes.
+8. O quadro kanban promove maior transparência nas atividades do time, já que todos têm acesso visual ao fluxo de trabalho e ao status das tarefas.
+
+9. Subtópico:
+2..9 Gestão da capacidade produt
+Assertivas:
+1. A gestão da capacidade produtiva é uma atividade essencial para garantir a eficiência e eficácia das operações de uma organização.
+2. A capacidade produtiva se refere à quantidade de produtos ou serviços que uma organização é capaz de entregar em um determinado período de tempo.
+3. A gestão da capacidade produtiva busca equilibrar a oferta e a demanda, evitando tanto a ociosidade quanto a sobrecarga dos recursos produtivos.
+4. É fundamental que a gestão da capacidade produtiva considere não apenas os recursos físicos, como máquinas e equipamentos, mas também os recursos humanos e tecnológicos da organização.
+5. Uma adequada gestão da capacidade produtiva permite a entrega de produtos ou serviços dentro dos prazos estabelecidos, gerando satisfação aos clientes.
+6. A gestão da capacidade produtiva deve levar em conta fatores sazonais e flutuações da demanda, de forma a ajustar a oferta de acordo com as necessidades do mercado.
+7. A utilização eficiente da capacidade produtiva pode proporcionar ganhos de produtividade, redução de custos e aumento da competitividade da organização.
+8. A gestão da capacidade produtiva envolve técnicas como planejamento agregado, dimensionamento de recursos e programação da produção, visando otimizar a utilização dos recursos disponíveis.
+9. É importante que a gestão da capacidade produtiva esteja alinhada com a estratégia da organização, de forma a contribuir para o alcance dos objetivos empresariais.
+
+

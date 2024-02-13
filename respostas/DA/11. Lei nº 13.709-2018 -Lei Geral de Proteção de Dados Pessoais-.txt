@@ -1,0 +1,142 @@
+Pergunta Original: 11. Lei nº 13.709-2018 -Lei Geral de Proteção de Dados Pessoais-.     
+1. Subtópico:
+1. Conceito e objetivos da Lei Geral de Proteção de Dados Pessoais (LGPD).
+Assertivas:
+1. A Lei Geral de Proteção de Dados Pessoais (LGPD) é uma legislação brasileira que tem como objetivo garantir a proteção dos dados pessoais dos cidadãos.
+2. A LGPD estabelece princípios fundamentais para o tratamento de dados pessoais, como o consentimento do titular, a finalidade específica, a transparência, a segurança e a responsabilização.
+3. A LGPD se aplica a todas as organizações que realizam o tratamento de dados pessoais, sejam elas públicas ou privadas.
+4. O tratamento de dados pessoais só é permitido se houver uma base legal para isso, como o consentimento do titular ou o cumprimento de uma obrigação legal.
+5. A LGPD confere aos titulares dos dados diversos direitos, como o acesso, a retificação, a exclusão e a portabilidade de seus dados.
+6. As empresas devem adotar medidas técnicas e organizacionais para garantir a proteção dos dados pessoais, como a utilização de criptografia e o estabelecimento de políticas internas de segurança.
+7. Em caso de violação de dados pessoais, as organizações devem notificar a Autoridade Nacional de Proteção de Dados (ANPD) e os titulares afetados.
+8. A LGPD prevê a aplicação de sanções administrativas, como advertências, multas e até mesmo a proibição parcial ou total do exercício de atividades relacionadas ao tratamento de dados.
+9. A ANPD é o órgão responsável por fiscalizar e aplicar as sanções previstas na LGPD, bem como promover a conscientização sobre a proteção de dados.
+10. A LGPD entrou em vigor no Brasil em setembro de 2020 e tem como objetivo fortalecer a privacidade e a segurança dos dados pessoais no país.
+
+2. Subtópico:
+2. Princípios fundamentais da LGPD.
+Assertivas:
+1. A LGPD (Lei Geral de Proteção de Dados) estabelece que a proteção da privacidade e dos dados pessoais é um direito fundamental.
+2. A LGPD visa regular a coleta, o tratamento, o armazenamento e o compartilhamento de dados pessoais por empresas e órgãos públicos.
+3. Um dos princípios fundamentais da LGPD é o consentimento do titular dos dados, que deve ser obtido de forma expressa e inequívoca.
+4. A LGPD estabelece que os dados pessoais só podem ser utilizados para fins específicos e legítimos, devendo ser descartados quando não forem mais necessários para a finalidade inicial.
+5. A transparência é um princípio fundamental da LGPD, que estabelece que as empresas devem informar de forma clara e acessível sobre como os dados pessoais são coletados, tratados e compartilhados.
+6. A LGPD determina que os dados pessoais devem ser mantidos em segurança, através do uso de medidas técnicas e organizacionais adequadas para prevenir acessos não autorizados ou vazamentos.
+7. A LGPD estabelece que o titular dos dados tem o direito de acessar, corrigir, atualizar e excluir suas informações pessoais presentes nos bancos de dados das empresas.
+8. A LGPD prevê a responsabilização das empresas e órgãos públicos que violarem a lei, podendo ocorrer sanções administrativas, civis e até mesmo penais.
+9. Um dos princípios fundamentais da LGPD é a não discriminação, pois é vedado o tratamento diferenciado dos titulares dos dados com base em características como raça, religião, orientação sexual, entre outros.
+10. A LGPD exige que as empresas realizem uma avaliação de impacto à proteção de dados, visando identificar e mitigar eventuais riscos à privacidade dos titulares dos dados.
+
+3. Subtópico:
+3. Direitos do titular dos dados pessoais segundo a LGPD.
+Assertivas:
+1. O titular dos dados pessoais, segundo a LGPD, possui o direito de ser informado sobre o tratamento dos seus dados.
+2. O titular dos dados pessoais tem o direito de acessar seus dados pessoais que estão sendo processados.
+3. O titular dos dados pessoais tem o direito de corrigir seus dados pessoais incompletos, inexatos ou desatualizados.
+4. O titular dos dados pessoais possui o direito de solicitar a anonimização, bloqueio ou eliminação de dados desnecessários ou excessivos.
+5. O titular dos dados pessoais tem o direito de solicitar a portabilidade dos seus dados para outro fornecedor de serviços.
+6. O titular dos dados pessoais possui o direito de revogar o consentimento dado para o tratamento de seus dados.
+7. O titular dos dados pessoais tem o direito de obter informações sobre as entidades públicas e privadas com as quais seus dados pessoais são compartilhados.
+8. O titular dos dados pessoais possui o direito de ser informado sobre a possibilidade de não fornecer consentimento e sobre as consequências dessa decisão.
+9. O titular dos dados pessoais tem o direito de solicitar a revisão das decisões tomadas com base no tratamento automatizado de seus dados.
+10. O titular dos dados pessoais possui o direito de apresentar uma reclamação perante a autoridade nacional de proteção de dados caso seus direitos não sejam respeitados.
+
+4. Subtópico:
+4. Responsabilidades dos agentes de tratamento de dados pessoais.
+Assertivas:
+1. Os agentes de tratamento de dados pessoais têm a responsabilidade de assegurar a privacidade e a proteção dos dados pessoais sob sua responsabilidade.
+2. É dever dos agentes de tratamento de dados informar aos titulares dos dados sobre a finalidade do tratamento, a forma de coleta e armazenamento, bem como os direitos dos titulares.
+3. Os agentes de tratamento de dados são responsáveis por garantir que os dados pessoais sejam coletados de maneira transparente e lícita, com o consentimento do titular ou fundamento jurídico adequado.
+4. É de responsabilidade dos agentes de tratamento de dados adotarem medidas de segurança técnicas e administrativas para proteger os dados contra acesso não autorizado, perda, destruição, alteração ou divulgação indevida.
+5. Os agentes de tratamento de dados devem garantir que as informações pessoais sejam corretas, atualizadas e relevantes para a finalidade do tratamento.
+6. Cabe aos agentes de tratamento de dados assegurar a disponibilidade e o acesso aos dados pessoais pelo titular, sempre que solicitado e em conformidade com a legislação aplicável.
+7. É dever dos agentes de tratamento de dados notificar imediatamente a autoridade competente em caso de incidente de segurança que possa comprometer os dados pessoais.
+8. Os agentes de tratamento de dados são responsáveis por adotar ações para a correção ou eliminação de dados pessoais quando solicitado pelo titular, observadas as hipóteses legais.
+9. Cabe aos agentes de tratamento de dados realizar a análise de impacto à proteção de dados em casos de tratamento de dados de alto risco.
+10. É responsabilidade dos agentes de tratamento de dados celebrar contratos ou termos de responsabilidade com terceiros que tenham acesso aos dados pessoais, garantindo a mesma segurança e proteção dos dados.
+
+5. Subtópico:
+5. Transferência internacional de dados na LGPD.
+Assertivas:
+1. A Lei Geral de Proteção de Dados (LGPD) estabelece regras para a transferência internacional de dados pessoais.
+2. A transferência internacional de dados é o movimento de dados pessoais para fora do território nacional.
+3. A LGPD exige que a transferência internacional de dados seja realizada apenas para países ou organizações que ofereçam um nível adequado de proteção de dados.
+4. Em casos de transferência internacional de dados para países sem nível adequado de proteção, a LGPD prevê a utilização de salvaguardas contratuais ou normativas para garantir a proteção dos dados.
+5. As transferências internacionais de dados podem ser realizadas por meio de cláusulas contratuais, normas corporativas globais, regras vinculativas ou certificações autorizadas.
+6. A LGPD estabelece que os titulares dos dados devem ser informados sobre a transferência internacional de seus dados pessoais, assim como sobre os mecanismos de proteção utilizados.
+7. O consentimento do titular dos dados pode ser uma base legal para a transferência internacional de dados, desde que seja esclarecido de forma adequada e específica.
+8. A Autoridade Nacional de Proteção de Dados (ANPD) é responsável por monitorar e fiscalizar as transferências internacionais de dados, assegurando o cumprimento da LGPD.
+9. A LGPD prevê a possibilidade de transferência internacional de dados, mesmo para países sem nível adequado de proteção, desde que haja um interesse legítimo do controlador de dados e sejam adotadas medidas complementares de proteção.
+10. A transferência internacional de dados pessoais sem o cumprimento das exigências estabelecidas na LGPD pode resultar em sanções administrativas e judiciais.
+
+6. Subtópico:
+6. Autoridade Nacional de Proteção de Dados (ANPD) e suas competências.
+Assertivas:
+1. A ANPD é uma autarquia de natureza especial vinculada ao Ministério da Economia.
+2. A ANPD tem como objetivo implementar políticas públicas para a proteção de dados pessoais no país.
+3. A ANPD é responsável por fiscalizar o cumprimento da Lei Geral de Proteção de Dados (LGPD) pelas organizações e provedores de serviços.
+4. Compete à ANPD a aplicação de sanções administrativas às empresas que descumprirem a LGPD.
+5. A ANPD tem o poder de solicitar informações e documentos necessários para fins de fiscalização e investigação de casos de violação de dados pessoais.
+6. A ANPD pode estabelecer normas e diretrizes para a implementação da LGPD nas organizações.
+7. A ANPD possui autonomia técnica e decisória para tomar as medidas necessárias para o cumprimento da LGPD.
+8. A ANPD é responsável por receber e processar as reclamações e denúncias relacionadas ao tratamento indevido de dados pessoais.
+9. A ANPD pode celebrar acordos de cooperação técnica com outros órgãos para aprimorar ações de proteção de dados.
+10. A ANPD tem o papel de promover a conscientização da sociedade sobre a importância da proteção de dados pessoais.
+
+7. Subtópico:
+7. Sanções administrativas em caso de violação da LGPD.
+Assertivas:
+1. As sanções administrativas em caso de violação da LGPD podem variar entre advertências e multas pecuniárias.
+2. A aplicação das sanções administrativas é da competência da Autoridade Nacional de Proteção de Dados (ANPD).
+3. A imposição de sanções administrativas pela ANPD ocorre após processo administrativo, assegurando o direito à ampla defesa e contraditório.
+4. As multas pecuniárias aplicadas pela ANPD podem chegar a R$ 50.000.000,00 (cinquenta milhões de reais) por infração.
+5. Além das multas, a ANPD pode determinar a publicização da violação de dados, o bloqueio do banco de dados, a suspensão parcial ou total do funcionamento do banco de dados, entre outras sanções.
+6. As sanções administrativas podem ser agravadas em caso de reincidência ou gravidade da violação.
+7. A aplicação das sanções administrativas é pautada pela proporcionalidade e pela razoabilidade, levando em conta fatores como a natureza e a gravidade da infração, a extensão do dano causado, a cooperação do infrator, entre outros.
+8. A ANPD pode aplicar sanções administrativas tanto a empresas e órgãos públicos, quanto a pessoas físicas que exerçam atividades de tratamento de dados.
+9. A aplicação das sanções administrativas pela ANPD tem como objetivo principal garantir a proteção dos direitos dos titulares dos dados pessoais.
+10. As sanções administrativas impostas pela ANPD podem ser objeto de recurso, cujos prazos e procedimentos são definidos pela legislação vigente.
+
+8. Subtópico:
+8. Processo administrativo para apuração das infrações à LGPD.
+Assertivas:
+1. O processo administrativo para apuração das infrações à LGPD é regido pela Lei nº 13.709/2018.
+2. A apuração das infrações à LGPD é realizada pela Autoridade Nacional de Proteção de Dados (ANPD).
+3. O processo administrativo para apuração das infrações à LGPD envolve a instauração de um procedimento administrativo.
+4. O processo administrativo para apuração das infrações à LGPD é conduzido por servidores públicos designados pela ANPD.
+5. O processo administrativo para apuração das infrações à LGPD deve observar o princípio do contraditório e da ampla defesa, garantindo ao infrator o direito de se manifestar.
+6. Durante o processo administrativo para apuração das infrações à LGPD, a ANPD pode solicitar documentos, informações e esclarecimentos necessários para a elucidação dos fatos.
+7. O infrator tem o direito de apresentar defesa escrita no processo administrativo para apuração das infrações à LGPD.
+8. A ANPD pode aplicar sanções administrativas aos infratores, como advertência, multa, suspensão parcial ou total do funcionamento de banco de dados e até mesmo a proibição do exercício das atividades relacionadas ao tratamento de dados.
+9. O processo administrativo para apuração das infrações à LGPD é regido pelo rito processual estabelecido pela ANPD em seus regulamentos.
+10. Da decisão final proferida no processo administrativo para apuração das infrações à LGPD, cabe recurso administrativo, a ser interposto perante a própria ANPD.
+
+9. Subtópico:
+9. Impactos da LGPD nas organizações públicas e privadas.
+Assertivas:
+1. A LGPD (Lei Geral de Proteção de Dados) estabelece diretrizes para o tratamento de dados pessoais por organizações públicas e privadas.
+2. As organizações públicas e privadas estão sujeitas a sanções administrativas caso descumpram as disposições previstas na LGPD.
+3. A LGPD exige o consentimento do titular dos dados para o tratamento de suas informações pessoais.
+4. Organizações públicas e privadas devem nomear um encarregado de proteção de dados para garantir a conformidade com a LGPD.
+5. A LGPD estabelece que é obrigatório informar aos titulares dos dados sobre quais informações estão sendo coletadas e para quais finalidades.
+6. As organizações públicas e privadas devem adotar medidas de segurança adequadas para proteger os dados pessoais sob sua responsabilidade.
+7. A LGPD prevê que os titulares dos dados podem solicitar a exclusão ou retificação de suas informações pessoais, desde que observadas as exceções legais.
+8. A LGPD determina que é proibida a transferência internacional de dados pessoais para países que não garantam um nível adequado de proteção.
+9. A LGPD estabelece que, em caso de vazamento de dados, as organizações devem notificar a Autoridade Nacional de Proteção de Dados (ANPD) e os titulares dos dados afetados.
+10. As organizações públicas e privadas devem se adequar às exigências da LGPD até a data de sua entrada em vigor para evitar a aplicação de multas e sanções.
+
+10. Subtópico:
+10. Rel
+Assertivas:
+1. A relação é um conceito fundamental na área da matemática, sendo definida como um conjunto ordenado de pares ordenados.
+2. Uma relação pode ser representada por meio de um diagrama de flechas, uma tabela ou um gráfico.
+3. Na teoria dos conjuntos, a relação de igualdade é uma relação reflexiva, simétrica e transitiva.
+4. Uma relação de ordem estrita, também conhecida como relação irreflexiva, transitiva e assimétrica, é utilizada para estabelecer uma ordem entre elementos de um conjunto.
+5. Em uma relação de equivalência, além de ser reflexiva, simétrica e transitiva, todos os elementos de um conjunto estão relacionados uns com os outros.
+6. A relação de função, também conhecida como relação unívoca, é caracterizada por atribuir a cada elemento do domínio um único elemento do contradomínio.
+7. Uma relação de função pode ser representada por meio de uma tabela, um gráfico ou uma fórmula matemática.
+8. Uma relação de função inversa é obtida ao inverter as posições do domínio e do contradomínio da relação original.
+9. A relação de composição de funções é uma operação que permite combinar duas funções, onde a função resultante é aplicada à imagem da função anterior.
+10. Em uma relação de bijeção, além de ser uma função, todos os elementos do contradomínio têm um único pré-imagem no domínio.
+
+

@@ -1,0 +1,152 @@
+Pergunta Original: 3 Governança de Dados modelos.    
+ 
+1. Subtópico:
+1. Definição e importância da Governança de Dados
+Assertivas:
+1. A governança de dados refere-se às práticas e processos estabelecidos para gerenciar, proteger e maximizar o valor dos dados em uma organização.
+2. A governança de dados é essencial para garantir a qualidade, integridade, segurança e conformidade dos dados.
+3. A governança de dados busca estabelecer políticas e procedimentos para a criação, uso e descarte adequado dos dados.
+4. A governança de dados promove a transparência e a responsabilidade no uso dos dados, evitando a utilização inadequada ou não autorizada.
+5. A governança de dados é fundamental para auxiliar as organizações na tomada de decisões estratégicas, baseadas em informações confiáveis e atualizadas.
+6. A governança de dados envolve a definição de papéis e responsabilidades claras para os profissionais envolvidos no ciclo de vida dos dados.
+7. A governança de dados está relacionada à criação e manutenção de um dicionário de dados, que descreve as definições e os metadados dos elementos de dados.
+8. A governança de dados requer a implementação de controles de segurança para proteger os dados contra acessos não autorizados ou utilização indevida.
+9. A governança de dados promove a colaboração e comunicação efetiva entre as áreas envolvidas na gestão dos dados, como TI, administração e área jurídica.
+10. A governança de dados é um processo contínuo, que demanda revisões e aprimoramentos constantes para se adaptar às mudanças internas e externas da organização.
+
+2. Subtópico:
+2. Princípios fundamentais da Governança de Dados
+Assertivas:
+1. A governança de dados estabelece diretrizes para a gestão efetiva dos dados em uma organização.
+2. A governança de dados visa garantir a qualidade, integridade e segurança dos dados.
+3. A governança de dados abrange a definição de papéis e responsabilidades claras para a gestão dos dados.
+4. A governança de dados envolve a criação de políticas e procedimentos para a tomada de decisões sobre os dados.
+5. A governança de dados promove a colaboração entre os diferentes setores de uma organização para a gestão dos dados.
+6. A governança de dados busca garantir a conformidade com legislações e regulamentações relacionadas à proteção de dados.
+7. A governança de dados implica na definição de diretrizes para a padronização e harmonização dos dados utilizados pela organização.
+8. A governança de dados engloba a implementação de mecanismos de monitoramento e controle dos dados.
+9. A governança de dados visa garantir a disponibilidade e acessibilidade dos dados de forma confiável.
+10. A governança de dados é um processo contínuo, que requer a revisão e atualização das políticas e práticas de gestão dos dados.
+
+3. Subtópico:
+3. Modelos de Governança de Dados: DAMA-DMBOK, COBIT, CMMI
+Assertivas:
+1. O DAMA-DMBOK é um modelo de governança de dados internacionalmente reconhecido, que fornece um conjunto de melhores práticas para a gestão de dados em organizações.
+2. O COBIT (Control Objectives for Information and Related Technologies) é um modelo de governança corporativa que inclui diretrizes e orientações para a governança de dados.
+3. O CMMI (Capability Maturity Model Integration) é um modelo de governança que fornece um conjunto de boas práticas para o desenvolvimento de produtos e serviços, incluindo a governança de dados.
+4. O DAMA-DMBOK destaca a importância da gestão de metadados, qualidade de dados, segurança da informação e privacidade de dados como elementos fundamentais na governança de dados.
+5. O COBIT aborda a governança de dados como uma parte integrante da governança de TI, enfatizando a importância da definição de papéis e responsabilidades, políticas e procedimentos claros, e monitoramento para garantir a conformidade com os requisitos estabelecidos.
+6. O CMMI inclui práticas relacionadas à governança de dados, tais como o estabelecimento de padrões e processos para a coleta, armazenamento, análise e disseminação de dados dentro da organização.
+7. O DAMA-DMBOK oferece orientações para a criação de estruturas organizacionais, como comitês e conselhos, responsáveis pela tomada de decisões estratégicas sobre a governança de dados.
+8. O COBIT destaca a importância da definição de objetivos de negócios relacionados aos dados, para direcionar atividades de governança e garantir que os dados estejam alinhados com as necessidades da organização.
+9. O CMMI incentiva a realização de avaliações regulares de maturidade da governança de dados para identificar áreas de melhoria e orientar o aprimoramento contínuo.
+10. O DAMA-DMBOK, COBIT e CMMI são modelos complementares e podem ser adotados em conjunto para fornecer uma abordagem abrangente e eficaz para a governança de dados nas organizações.
+
+4. Subtópico:
+4. Papéis e responsabilidades na Governança de Dados
+Assertivas:
+1. A governança de dados tem como principal objetivo garantir que as informações sejam devidamente controladas e utilizadas de forma eficiente.
+2. A governança de dados envolve a definição e aplicação de políticas, procedimentos e diretrizes relacionadas à gestão das informações em uma organização.
+3. Um dos papéis da governança de dados é estabelecer responsabilidades claras para a gestão e proteção das informações, incluindo a designação de proprietários de dados.
+4. A governança de dados inclui a definição de regras e padrões para a coleta, armazenamento, processamento e compartilhamento de dados.
+5. A governança de dados visa garantir a qualidade e integridade dos dados, por meio da definição de metodologias e processos de validação e correção.
+6. Um dos papéis da governança de dados é promover a conscientização sobre a importância da proteção e privacidade dos dados, orientando os colaboradores sobre as boas práticas a serem adotadas.
+7. A governança de dados envolve a realização de auditorias e monitoramento regular das práticas de gestão de dados, a fim de identificar possíveis falhas e implementar melhorias.
+8. A governança de dados inclui o estabelecimento de mecanismos de controle de acesso e restrição de privilégios, garantindo que apenas as pessoas autorizadas tenham acesso às informações.
+9. A governança de dados envolve a definição de políticas de retenção e descarte de informações, de acordo com as legislações vigentes e os requisitos de negócios.
+10. A governança de dados é um processo contínuo e evolutivo, que requer a participação ativa de todas as áreas da organização, visando o uso responsável e eficiente das informações disponíveis.
+
+5. Subtópico:
+5. Políticas e procedimentos na Governança de Dados 
+Assertivas:
+1. A Governança de Dados busca estabelecer políticas e procedimentos para a gestão eficiente e segura das informações em uma organização.
+
+2. As políticas da Governança de Dados são voltadas para promover a integridade, confidencialidade e disponibilidade das informações.
+
+3. A Governança de Dados estabelece diretrizes para a definição de responsabilidades e papéis relacionados à gestão dos dados.
+
+4. Os procedimentos da Governança de Dados envolvem a implementação de controles e mecanismos que garantam a qualidade e a consistência dos dados.
+
+5. A Governança de Dados busca estabelecer padrões e normas para a criação, organização e armazenamento dos dados em uma organização.
+
+6. A implementação da Governança de Dados requer o envolvimento e comprometimento de todos os níveis hierárquicos da organização.
+
+7. A Governança de Dados visa promover a transparência e a responsabilidade na gestão das informações.
+
+8. A Governança de Dados busca minimizar os riscos associados aos dados, prevenindo incidentes de segurança e violações de privacidade.
+
+9. A Governança de Dados é um processo contínuo, que envolve monitoramento e avaliação constantes das práticas adotadas.
+
+10. A Governança de Dados tem como objetivo final a criação de uma cultura organizacional voltada para a valorização e proteção dos dados.
+
+6. Subtópico:
+6. Qualidade dos dados na governança 
+Assertivas:
+1. A qualidade dos dados é fundamental para a efetividade da governança.
+2. A qualidade dos dados impacta diretamente na tomada de decisões estratégicas.
+3. A governança sólida depende de informações confiáveis e de qualidade.
+4. A governança eficiente requer processos bem definidos para garantir a qualidade dos dados.
+5. A falta de qualidade dos dados compromete a eficiência e a eficácia dos processos de governança.
+6. A qualidade dos dados influencia diretamente a credibilidade e confiabilidade das informações geradas.
+7. A governança de dados é essencial para assegurar a qualidade das informações utilizadas nas organizações.
+8. A falta de qualidade dos dados pode gerar distorções nos resultados e causar prejuízos financeiros.
+9. A governança de dados busca garantir a consistência, a acessibilidade e a integridade dos dados.
+10. A qualidade dos dados é um requisito indispensável para a sustentabilidade e sucesso das organizações.
+
+7. Subtópico:
+7. Segurança, privacidade e conformidade em Governança de Dados
+Assertivas:
+1. A segurança é um aspecto fundamental da governança de dados, pois visa proteger informações sensíveis contra acesso não autorizado.
+2. A privacidade é um elemento essencial da governança de dados, sendo responsável por garantir o controle e o consentimento sobre o uso das informações pessoais.
+3. A conformidade com as leis e regulamentações de proteção de dados é um requisito indispensável para a governança efetiva de dados.
+4. A implementação de políticas de segurança da informação é uma prática recomendada para garantir a proteção dos dados e a prevenção contra incidentes de segurança.
+5. A segregação de funções é uma medida de controle importante para evitar conflitos de interesse e garantir a confiabilidade da governança de dados.
+6. A criptografia é uma técnica amplamente utilizada na governança de dados para proteger a confidencialidade das informações durante a transmissão ou armazenamento.
+7. A realização de auditorias regulares é uma atividade essencial para garantir a conformidade e a eficácia das práticas de governança de dados no ambiente organizacional.
+8. A identificação e a avaliação de riscos relacionados à segurança e privacidade dos dados são etapas cruciais na implementação de estratégias de governança de dados.
+9. A definição de políticas claras e diretrizes para o uso e o compartilhamento de dados é um princípio fundamental para uma governança de dados eficiente e segura.
+10. O monitoramento contínuo da conformidade com as regras de governança de dados é uma prática essencial para mitigar riscos e identificar oportunidades de melhorias no ambiente corporativo.
+
+8. Subtópico:
+8. Ferramentas e tecnologias utilizadas na Governança de Dados
+Assertivas:
+1. A governança de dados envolve o uso de ferramentas e tecnologias para garantir a qualidade e integridade das informações.
+2. As ferramentas de gestão de metadados são amplamente utilizadas na governança de dados para facilitar a descrição e o controle dos ativos de informação.
+3. O data profiling é uma tecnologia importante na governança de dados, permitindo a análise e identificação de inconsistências nos dados.
+4. A automação de processos é uma ferramenta utilizada na governança de dados para agilizar tarefas repetitivas, como a validação de dados.
+5. A tecnologia de master data management (MDM) é aplicada na governança de dados para garantir a consistência e a padronização das informações em toda a organização.
+6. A utilização de ferramentas de data quality é essencial na governança de dados, permitindo a detecção e correção de problemas de qualidade nos conjuntos de dados.
+7. A implementação de soluções de data governance envolve o uso de tecnologias que permitem o estabelecimento de políticas, regras e processos para o uso adequado dos dados.
+8. As ferramentas de data lineage são cruciais na governança de dados, fornecendo informações sobre a origem e o histórico dos dados.
+9. A aplicação de técnicas de data masking é uma prática da governança de dados para proteger informações sensíveis e garantir a privacidade dos dados.
+10. As soluções de data cataloging são utilizadas na governança de dados para ajudar na descoberta, organização e classificação dos ativos de informações.
+
+9. Subtópico:
+9. Implementação da estratégia de governança dos dados 
+Assertivas:
+1. A implementação da estratégia de governança dos dados é essencial para garantir a qualidade e integridade das informações organizacionais.
+2. A governança dos dados envolve a definição de processos e políticas para garantir a confidencialidade, disponibilidade e integridade dos dados.
+3. O alinhamento da estratégia de governança dos dados com os objetivos organizacionais é fundamental para garantir a efetividade do processo.
+4. A implementação da estratégia de governança dos dados requer a criação de um comitê responsável pela definição das políticas e diretrizes relacionadas à gestão dos dados.
+5. A governança dos dados envolve a definição de papéis e responsabilidades claras para os diferentes stakeholders envolvidos na gestão dos dados.
+6. A implementação de ferramentas e tecnologias adequadas é essencial para apoiar a governança dos dados.
+7. A estratégia de governança dos dados deve contemplar a realização de auditorias regulares para garantir a conformidade com as políticas e diretrizes estabelecidas.
+8. A implementação da governança dos dados requer a criação de um plano de ação que aborde aspectos como a padronização dos dados, a segurança da informação e a gestão de metadados.
+9. A governança dos dados está diretamente relacionada à efetividade dos processos decisórios e ao alcance dos objetivos organizacionais.
+10. A estratégia de governança dos dados deve ser constantemente revisada e atualizada para acompanhar as mudanças do ambiente organizacional e do mercado.
+
+10. Subtópico:
+10. Benefícios
+Assertivas:
+1. Os benefícios são uma forma de remuneração adicional aos servidores públicos.
+2. Os benefícios podem incluir auxílio-alimentação, auxílio-transporte e auxílio-saúde.
+3. Os benefícios podem ser concedidos de forma compulsória ou facultativa.
+4. Os benefícios são regulamentados por legislação específica.
+5. Os benefícios podem ser modificados ou extintos por meio de alterações legislativas.
+6. Os benefícios não podem ser acumulados com outras vantagens ou gratificações.
+7. Os benefícios podem ser proporcionais ao tempo de serviço do servidor público.
+8. Os benefícios não são considerados verbas de natureza remuneratória ou salarial.
+9. Os benefícios podem variar conforme a carreira, o cargo ou a função exercida pelo servidor público.
+10. Os benefícios são parte integrante dos direitos e deveres do servidor público, conforme estabelecido pela legislação vigente.
+
+

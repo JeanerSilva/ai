@@ -1,0 +1,115 @@
+Pergunta Original: 1.1 Scrum funcionamento   
+ 
+1. Subtópico:
+1.1.1 Conceito e origem do Scrum
+Assertivas:
+1) Scrum é um framework ágil utilizado no desenvolvimento de projetos, principalmente na área de tecnologia da informação.
+2) O Scrum surgiu na década de 1990, como uma resposta à abordagem tradicional de gerenciamento de projetos.
+3) O conceito chave do Scrum é a entrega de valor incremental ao cliente através de iterações curtas e sucessivas, chamadas de sprints.
+4) O Scrum foi inicialmente idealizado para equipes de desenvolvimento de software, mas atualmente é aplicado em diversas áreas e setores.
+5) Uma das principais vantagens do Scrum é a flexibilidade oferecida pela sua abordagem iterativa e adaptativa.
+6) No Scrum, as equipes são autogerenciáveis e multifuncionais, o que estimula a colaboração e a responsabilidade compartilhada.
+7) O Product Owner é o responsável por estabelecer e priorizar as necessidades do cliente no Scrum.
+8) O Scrum Master é o facilitador do processo, responsável por garantir que a equipe entenda e siga os princípios e práticas do Scrum.
+9) Os artefatos básicos do Scrum incluem o Product Backlog, o Sprint Backlog e o Incremento.
+10) A cerimônia de monitoramento do Scrum é chamada de Daily Scrum, onde a equipe revisa o progresso, alinha as atividades e identifica possíveis impedimentos.
+
+2. Subtópico:
+1.1.2 Papéis dentro do Scrum: Product Owner, Scrum Master e Time de Desenvolvimento
+Assertivas:
+1. O Product Owner é responsável por maximizar o valor do produto e garantir que o Time de Desenvolvimento compreenda e execute adequadamente os requisitos do cliente.
+2. O Scrum Master é responsável por facilitar o processo de desenvolvimento, removendo impedimentos e ajudando o Time de Desenvolvimento a alcançar alta performance.
+3. O Time de Desenvolvimento é composto por profissionais responsáveis pela entrega do produto ao final de cada Sprint, seguindo as orientações do Product Owner e as práticas do Scrum.
+4. O Product Owner é o único responsável por definir as prioridades do Product Backlog e possui autonomia para realizar ajustes durante o desenvolvimento do projeto.
+5. O Scrum Master não tem autoridade de comando sobre o Time de Desenvolvimento, mas deve garantir que a equipe esteja aderente aos princípios e processos do Scrum.
+6. O Time de Desenvolvimento é autônomo, tem a responsabilidade coletiva pela entrega do produto e decide como realizar o trabalho durante a Sprint.
+7. O Product Owner é o representante dos stakeholders e deve comunicar as expectativas desses interessados ao Time de Desenvolvimento.
+8. O Scrum Master deve garantir que as reuniões e rituais do Scrum sejam realizados de forma eficiente, facilitando a colaboração e a comunicação entre as partes envolvidas.
+9. O Time de Desenvolvimento é multifuncional, ou seja, possui todas as habilidades necessárias para entregar um produto funcional ao final de cada Sprint.
+10. O Product Owner é responsável por validar a entrega final do produto e assegurar que este esteja alinhado com as expectativas dos stakeholders.
+
+3. Subtópico:
+1.1.3 Artefatos do Scrum: Product Backlog, Sprint Backlog e Incremento de Produto
+Assertivas:
+1. O Product Backlog é um artefato do Scrum que consiste em uma lista priorizada de requisitos, funcionalidades e melhorias a serem desenvolvidos no produto.
+2. O Sprint Backlog é um artefato do Scrum que consiste em uma lista de tarefas selecionadas do Product Backlog para serem desenvolvidas durante um Sprint.
+3. O Incremento de Produto é um artefato do Scrum que consiste na soma de todas as funcionalidades desenvolvidas e testadas durante um Sprint.
+4. O Product Backlog é atualizado e refinado continuamente através da colaboração entre o Product Owner e a equipe Scrum.
+5. O Sprint Backlog é revisado e adaptado diariamente pela equipe Scrum durante a Daily Scrum.
+6. O Product Backlog reflete as necessidades dos stakeholders e as demandas do mercado.
+7. O Sprint Backlog é um plano detalhado para o trabalho a ser realizado durante o Sprint.
+8. O Incremento de Produto deve ser funcional e adicionar valor ao produto após o término de cada Sprint.
+9. Tanto o Product Backlog quanto o Sprint Backlog são transparentes e visíveis para todos os membros da equipe Scrum e stakeholders.
+10. O Incremento de Produto deve ser inspecionado em cada Sprint Review para obter feedback dos stakeholders.
+
+4. Subtópico:
+1.1.4 Eventos no Scrum: Sprint, Planejamento da Sprint, Daily Standup, Revisão da Sprint e Retrospectiva da Sprint 
+Assertivas:
+1. No Scrum, o evento Sprint é o período de tempo determinado em que um incremento do produto deve ser entregue e pode variar de uma a quatro semanas.
+2. O Planejamento da Sprint é um evento que ocorre no início de cada Sprint e tem como objetivo definir o objetivo da Sprint e selecionar os itens do backlog que serão entregues no incremento do produto.
+3. Durante o evento Daily Standup, os membros da Equipe Scrum se reúnem diariamente para compartilhar informações sobre o progresso, discutir as tarefas que serão realizadas e identificar possíveis obstáculos.
+4. A Revisão da Sprint é um evento que marca o fim de cada Sprint, no qual a Equipe Scrum demonstra o incremento do produto aos stakeholders e recebe feedback para planejar as próximas ações.
+5. Durante a Retrospectiva da Sprint, a Equipe Scrum analisa o que funcionou e o que não funcionou durante a Sprint e busca melhorias contínuas para o processo de desenvolvimento do produto.
+6. O evento Sprint, por ser um período de tempo fixo e não sujeito a alterações, promove a previsibilidade e a transparência no desenvolvimento do produto.
+7. No Planejamento da Sprint, a Equipe Scrum seleciona e define as tarefas que serão realizadas durante a Sprint, com base nas prioridades do Product Backlog.
+8. Durante a Daily Standup, é importante que cada membro da Equipe Scrum responda a três perguntas-chave: o que foi feito desde a última reunião, o que será feito até a próxima reunião e quais são os obstáculos encontrados.
+9. A Revisão da Sprint é uma oportunidade para a Equipe Scrum receber feedbacks valiosos dos stakeholders sobre o incremento do produto, o que auxilia no ajuste de prioridades e no planejamento futuro.
+10. A Retrospectiva da Sprint é um momento de reflexão e aprendizado para a Equipe Scrum, no qual são identificadas oportunidades de melhoria para aumentar a eficiência e a qualidade do trabalho.
+
+5. Subtópico:
+1.1.5 Princípios fundamentais do Scrum 
+Assertivas:
+1. O princípio fundamental do Scrum é a entrega de valor de forma incremental e iterativa.
+2. Scrum enfatiza a colaboração constante entre membros da equipe e a comunicação efetiva.
+3. A transparência é um princípio fundamental do Scrum, garantindo que todas as informações sejam claras e acessíveis a todos os membros da equipe.
+4. A adaptação e a flexibilidade são princípios fundamentais do Scrum, permitindo que a equipe realize ajustes constantes ao longo do projeto.
+5. O princípio do empoderamento da equipe é fundamental no Scrum, onde se valoriza a autonomia e a responsabilidade dos membros.
+6. O princípio da auto-organização é essencial no Scrum, confiando na capacidade da equipe em se organizar e tomar decisões.
+7. O princípio da entrega contínua de valor assegura que o produto esteja sempre em um estado utilizável e potencialmente entregável.
+8. A melhoria contínua é um princípio fundamental do Scrum, garantindo que a equipe esteja sempre buscando formas de se aprimorar.
+9. O princípio da inspeção constante permite avaliações frequentes e contínuas do progresso do trabalho e o ajuste necessário.
+10. O princípio da transparência implica em compartilhar informações e progresso com as partes interessadas de forma clara e acessível.
+
+6. Subtópico:
+1.1.6 Benefícios e desafios na implementação do método Scrum
+Assertivas:
+1. A implementação do método Scrum beneficia as equipes por promover a comunicação e a colaboração entre seus membros. (V)
+2. Um dos benefícios da implementação do Scrum é a maior transparência nas atividades do projeto, o que auxilia na identificação de problemas e na tomada de decisões estratégicas. (V)
+3. A adoção do Scrum pode trazer desafios relacionados à resistência à mudança por parte dos membros da equipe, que podem estar acostumados a formas tradicionais de trabalho. (V)
+4. A implementação do Scrum demanda um forte comprometimento da alta liderança para fornecer o suporte necessário, uma vez que mudanças significativas na cultura organizacional podem ser necessárias. (V)
+5. As equipes podem enfrentar desafios na implementação do Scrum relacionados à definição de prioridades e gerenciamento de backlog, especialmente em projetos complexos. (V)
+6. A aplicação do Scrum pode gerar benefícios como a entrega contínua de valor para o cliente, com entregas parciais e frequentes de funcionalidades do produto. (V)
+7. Uma das vantagens do Scrum é a possibilidade de adaptação e flexibilidade, permitindo ajustes e melhorias contínuas ao longo do projeto. (V)
+8. A estrutura do Scrum, baseada em sprints, estimula a motivação e a produtividade da equipe por meio de um ciclo de trabalho limitado e focado. (V)
+9. A implementação do Scrum pode trazer desafios relacionados à gestão do tempo, pois são necessárias reuniões regulares e constantes para revisar o progresso e planejar as próximas etapas. (V)
+10. O Scrum incentiva a participação ativa dos stakeholders, favorecendo a obtenção de feedback constante e possibilitando a melhoria contínua do produto ou serviço. (V)
+
+7. Subtópico:
+1.11 Escalabilidade do scrum em grandes projetos.
+Assertivas:
+1. O Scrum possui mecanismos de escalabilidade que permitem sua aplicação efetiva em grandes projetos.
+2. A escalabilidade do Scrum em grandes projetos ocorre por meio do uso de práticas específicas, como a criação de equipes interfuncionais e a promoção da comunicação eficiente entre elas.
+3. A implementação do Scrum em grandes projetos requer adaptações e modificações para lidar com a complexidade e o tamanho das demandas.
+4. A escalabilidade do Scrum envolve a utilização de ferramentas e técnicas adicionais, como o uso de backlogs compartilhados, para garantir a coordenação de múltiplas equipes.
+5. A estratégia de escalar o Scrum em grandes projetos pode envolver a formação de squads e tribos, que são grupos de equipes interligadas e coordenadas.
+6. A escalabilidade do Scrum em grandes projetos demanda uma liderança forte e focada na gestão de múltiplas equipes, visando garantir a sinergia entre elas.
+7. A adoção de práticas de escalabilidade do Scrum em grandes projetos busca garantir a entrega de valor ao cliente de forma consistente e contínua.
+8. A escalabilidade do Scrum em grandes projetos pode ser alcançada através da criação de uma cultura de experimentação e aprendizado contínuo.
+9. A aplicação do Scrum em grandes projetos requer uma abordagem adaptativa, já que as necessidades e desafios podem se modificar ao longo do tempo.
+10. A escalabilidade do Scrum em grandes projetos é um tema em constante evolução, com a comunidade ágil desenvolvendo novas práticas e abordagens para lidar com desafios cada vez mais complexos.
+
+8. Subtópico:
+8
+Assertivas:
+1) O número 8 é um número inteiro e par.
+2) A soma de todos os números inteiros antecessores ao número 8 é igual a 28.
+3) O quadrado do número 8 é igual a 64.
+4) O número 8 é um múltiplo de 4.
+5) A raiz quadrada do número 8 é um número irracional.
+6) O número 8 é maior do que 6 e menor do que 10.
+7) O algarismo 8 é um número natural.
+8) O número 8 é divisível apenas pelos números 1, 2, 4 e 8.
+9) Em um sistema de numeração decimal, o número 8 representa oito unidades.
+10) O número 8 é um número composto, pois possui mais de dois divisores positivos.
+
+

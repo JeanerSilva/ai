@@ -1,25 +1,3 @@
-Modelos de desenvolvimento de software    
-1 Kanban.    
-1.1 Kanban funcionamento   
-1.2 Kanban premissas   
-1.3 Kanban pessoas envolvidas -papéis-   
-1.4 Kanbanfluxo processual   
-2 Scrum.    
-1.1 Scrum funcionamento   
-1.2 Scrum premissas   
-1.3 Scrum pessoas envolvidas -papéis-   
-1.4 Scrum fluxo processual   
-3 Governança de Dados.    
-3 Governança de Dados IA.    
-3 Governança de Dados modelos.    
-3 Governança de Dados sistemas.    
-3 Governança de Dados Framework.    
-3 Governança de Dados ISO.    
-4 ITIL v4 iso.   
-4 ITIL v4 classificações.   
-4 ITIL v4 processos.   
-4 ITIL v4 questões importantes.  
-
 4.2 Comunicação dos atos administrativos.    
 4.3 Anulação dos atos administrativos    
 4.3.1 revogação dos atos administrativos   

@@ -1,0 +1,129 @@
+Pergunta Original: 1.3 Scrum pessoas envolvidas -papéis-   
+ 
+1. Subtópico:
+1. Definição e funções do Scrum Master
+Assertivas:
+1. O Scrum Master é um papel fundamental no framework Scrum, responsável por promover a adoção e a implementação correta dos princípios e práticas ágeis.
+2. O Scrum Master atua como facilitador, auxiliando a equipe Scrum a entender e implementar as regras e práticas do Scrum de forma eficaz.
+3. Uma das principais funções do Scrum Master é garantir que a equipe Scrum tenha um ambiente de trabalho produtivo e colaborativo, removendo obstáculos e impedimentos que possam afetar o progresso do time.
+4. O Scrum Master realiza reuniões diárias de acompanhamento com a equipe Scrum, conhecidas como Daily Scrum, visando identificar possíveis problemas e alinhar as atividades do time.
+5. Uma das habilidades essenciais do Scrum Master é a capacidade de ajudar a equipe a autogerenciar-se, promovendo a autonomia e a responsabilidade dos membros.
+6. O Scrum Master atua como um agente de mudança, auxiliando a organização a adotar práticas ágeis e a melhorar continuamente seus processos.
+7. O Scrum Master deve ser um facilitador neutro, não tomando partido em decisões técnicas ou de negócio, mas sim fomentando a comunicação e a colaboração entre as partes envolvidas.
+8. O Scrum Master é responsável por garantir que todas as cerimônias do Scrum sejam realizadas de acordo com as regras estabelecidas, como sprint planning, sprint review e sprint retrospective.
+9. Um dos objetivos do Scrum Master é promover a transparência, ajudando a equipe a visualizar o progresso do trabalho por meio de ferramentas como o quadro Kanban.
+10. O Scrum Master atua como um coach, ajudando a equipe a melhorar continuamente sua performance por meio da aplicação de práticas ágeis e da utilização de métricas adequadas.
+
+2. Subtópico:
+2. Responsabilidades e papel do Product Owner
+Assertivas:
+1. O Product Owner é o responsável por maximizar o valor do produto durante todo o seu ciclo de vida.
+2. O papel do Product Owner é garantir a clara definição e priorização de requisitos do produto.
+3. O Product Owner atua como um representante dos stakeholders, garantindo que suas necessidades sejam compreendidas e atendidas.
+4. É responsabilidade do Product Owner gerenciar e atualizar o Product Backlog, priorizando as atividades com base no valor que trazem ao produto.
+5. O Product Owner é responsável por garantir a comunicação e colaboração efetiva entre a equipe de desenvolvimento e os stakeholders.
+6. É papel do Product Owner definir os critérios de aceitação para cada funcionalidade do produto.
+7. O Product Owner deve estar sempre atualizado sobre as tendências de mercado e as necessidades dos usuários para garantir a relevância contínua do produto.
+8. Cabe ao Product Owner tomar decisões claras e rápidas quando necessário, visando o progresso contínuo do projeto.
+9. É responsabilidade do Product Owner garantir que o produto atinja os objetivos de negócio estabelecidos.
+10. O papel do Product Owner exige habilidades de liderança, negociação e comunicação efetiva para garantir o sucesso do produto.
+
+3. Subtópico:
+3. Características e responsabilidades da Equipe de Desenvolvimento
+Assertivas:
+1. A equipe de desenvolvimento é responsável por realizar atividades relacionadas ao desenvolvimento de software ou sistemas.
+2. A equipe de desenvolvimento tem o objetivo de transformar requisitos e especificações em produtos concretos.
+3. A equipe de desenvolvimento é composta por profissionais especializados como desenvolvedores, analistas, testadores, entre outros.
+4. Uma das principais responsabilidades da equipe de desenvolvimento é entregar o produto final dentro do prazo estipulado.
+5. A equipe de desenvolvimento deve seguir as melhores práticas e metodologias adequadas para o desenvolvimento de software.
+6. A equipe de desenvolvimento é responsável por garantir a qualidade do produto final, por meio de testes e revisões.
+7. A equipe de desenvolvimento deve estar sempre atualizada em relação às tecnologias e tendências do mercado.
+8. A equipe de desenvolvimento deve trabalhar de forma colaborativa e em harmonia, visando o melhor resultado para o projeto.
+9. A equipe de desenvolvimento deve ser responsável pela manutenção e atualização do sistema após sua implantação.
+10. A equipe de desenvolvimento deve priorizar a segurança e confidencialidade dos dados durante todo o processo de desenvolvimento.
+
+4. Subtópico:
+4. Inter-relações entre os papéis no Scrum: Scrum Master, Product Owner e Equipe de Desenvolvimento
+Assertivas:
+1. O Scrum Master é responsável por facilitar e garantir a implementação eficiente do framework Scrum.
+2. O Product Owner é responsável por definir e priorizar os requisitos do produto, em colaboração com a equipe de desenvolvimento.
+3. A Equipe de Desenvolvimento é responsável por criar e entregar o incremento do produto no final de cada sprint.
+4. O Scrum Master atua como um líder servo, auxiliando o Product Owner e a equipe de desenvolvimento no cumprimento dos objetivos do projeto.
+5. O Product Owner é responsável por garantir que o produto atenda às necessidades e expectativas dos stakeholders.
+6. A Equipe de Desenvolvimento é auto-organizada e multidisciplinar, capaz de realizar as atividades necessárias para entregar um incremento de software funcional ao final de cada sprint.
+7. O Scrum Master é responsável por remover obstáculos e garantir que a equipe de desenvolvimento tenha um ambiente de trabalho adequado para entregar valor ao produto.
+8. O Product Owner é responsável por manter a transparência em relação ao andamento e às necessidades do projeto, comunicando-se com os stakeholders e garantindo a visibilidade das tarefas realizadas.
+9. A Equipe de Desenvolvimento trabalha em estreita colaboração com o Product Owner para entender, esclarecer e realizar os requisitos do produto.
+10. O Scrum Master possui a função de treinar e capacitar a equipe de desenvolvimento para que esta possa se aprimorar e adotar as práticas ágeis do Scrum.
+
+5. Subtópico:
+5. O papel dos Stakeholders no Scrum 
+Assertivas:
+1. Os Stakeholders desempenham um papel crucial no processo Scrum, pois são pessoas ou grupos que possuem interesse ou influência sobre o projeto.
+2. No Scrum, os Stakeholders são responsáveis por fornecer feedback e direcionar as prioridades e necessidades do projeto.
+3. É papel dos Stakeholders participar ativamente das reuniões de planejamento e revisão do Scrum, a fim de garantir que suas expectativas sejam atendidas.
+4. Os Stakeholders podem ser internos ou externos à organização, representando diferentes áreas de interesse, como clientes, usuários finais, gerentes de produto, entre outros.
+5. Os Stakeholders têm a responsabilidade de trazer informações relevantes sobre o mercado, concorrência e demandas do cliente para o Scrum Team.
+6. É função dos Stakeholders auxiliar na identificação e priorização dos requisitos do projeto, garantindo que as entregas sejam alinhadas com suas necessidades.
+7. Os Stakeholders possuem o poder de tomar decisões e dar direcionamento estratégico ao projeto, ajudando a definir os objetivos e metas a serem alcançados.
+8. No Scrum, os Stakeholders são considerados membros do ambiente externo do projeto, e sua colaboração e engajamento são essenciais para o sucesso do mesmo.
+9. Os Stakeholders podem ter suas expectativas gerenciadas por meio do Product Owner, que atua como intermediário entre o Scrum Team e as partes interessadas.
+10. A comunicação adequada e regular entre os Stakeholders e o Scrum Team é fundamental para garantir a transparência e o alinhamento das expectativas ao longo do projeto.
+
+6. Subtópico:
+6. Importância da comunicação eficaz entre os membros da equipe Scrum 
+Assertivas:
+1. A comunicação eficaz entre os membros da equipe Scrum é vital para garantir a sinergia necessária para o sucesso do projeto.
+2. Uma comunicação eficaz ajuda a evitar mal-entendidos e promover a clareza nas atividades realizadas pela equipe Scrum.
+3. A comunicação adequada entre os membros da equipe Scrum contribui para a identificação e solução rápida de possíveis problemas ou obstáculos que surjam durante o desenvolvimento do projeto.
+4. A comunicação eficaz entre os membros da equipe Scrum fortalece a colaboração e a troca de conhecimento, permitindo um ambiente de trabalho produtivo e saudável.
+5. A comunicação eficaz é fundamental para o compartilhamento de informações relevantes sobre o projeto, tais como requisitos, prazos e metas a serem alcançadas.
+6. A comunicação eficaz permite que a equipe Scrum esteja alinhada com os objetivos estratégicos da organização, promovendo uma melhor integração entre as diferentes áreas envolvidas.
+7. A comunicação eficaz entre os membros da equipe Scrum é essencial para garantir a transparência no processo de desenvolvimento do projeto, facilitando a tomada de decisão de forma conjunta.
+8. A comunicação eficaz entre os membros da equipe Scrum promove o engajamento e a motivação de todos os envolvidos, contribuindo para o alcance de resultados satisfatórios.
+9. A comunicação eficaz permite o compartilhamento de feedbacks construtivos entre os membros da equipe Scrum, visando o aprimoramento contínuo das atividades realizadas.
+10. A comunicação eficaz entre os membros da equipe Scrum é um dos pilares do framework, sendo fundamental para que a metodologia seja aplicada de forma eficiente e eficaz.
+
+7. Subtópico:
+7. Atribuições específicas do Scrum Master na facilitação das cerimônias do Scrum 
+Assertivas:
+1. O Scrum Master é responsável por facilitar as cerimônias do Scrum, como a reunião de planejamento da sprint, revisão da sprint, retrospectiva da sprint e a daily scrum.
+2. O Scrum Master é responsável por auxiliar a equipe na definição e cumprimento das metas estabelecidas em cada cerimônia do Scrum.
+3. O Scrum Master deve garantir que as cerimônias do Scrum sejam organizadas e aconteçam de forma eficiente, promovendo a colaboração e a participação de todos os envolvidos.
+4. O Scrum Master deve assegurar que as cerimônias do Scrum sigam as melhores práticas e princípios do Scrum, buscando constantemente melhorias e adaptações necessárias.
+5. O Scrum Master é responsável por remover obstáculos e impedimentos que possam atrapalhar o bom andamento das cerimônias do Scrum.
+6. O Scrum Master deve atuar como facilitador e mediador nas discussões e tomadas de decisões que ocorrem durante as cerimônias do Scrum.
+7. O Scrum Master é responsável por manter o foco e direcionar as discussões das cerimônias do Scrum para o objetivo estabelecido, evitando desvios e desperdício de tempo.
+8. O Scrum Master deve promover a transparência e a comunicação eficiente durante as cerimônias do Scrum, garantindo que as informações relevantes sejam compartilhadas com toda a equipe.
+9. O Scrum Master deve buscar constantemente o engajamento e o envolvimento de todos os membros da equipe durante as cerimônias do Scrum, incentivando a participação ativa e a colaboração.
+10. O Scrum Master deve realizar a gestão do tempo e do ritmo das cerimônias do Scrum, garantindo que sejam realizadas no tempo adequado e com o nível de detalhamento necessário.
+
+8. Subtópico:
+8. O papel do Product Owner na definição de prioridades no Backlog do Produto 
+Assertivas:
+1. O Product Owner é o responsável por definir as prioridades no Backlog do Produto.
+2. É papel do Product Owner garantir que as prioridades estão alinhadas com as necessidades do cliente e do negócio.
+3. O Product Owner deve considerar o valor de negócio e o impacto nas metas do projeto ao definir as prioridades.
+4. O Product Owner precisa conhecer os requisitos, as necessidades e as expectativas dos stakeholders para definir as prioridades adequadamente.
+5. O Product Owner deve realizar constantes avaliações e ajustes nas prioridades para garantir que estão sempre alinhadas com as demandas do mercado.
+6. A priorização feita pelo Product Owner deve ser transparente e baseada em critérios claros, como retorno sobre investimento e risco.
+7. O Product Owner deve evitar priorizar itens do backlog apenas de acordo com a opinião pessoal, optando por uma abordagem baseada em fatos e dados.
+8. A definição de prioridades pelo Product Owner deve levar em consideração as capacidades e recursos da equipe de desenvolvimento.
+9. O Product Owner deve estar constantemente envolvido com a equipe para entender as dificuldades enfrentadas na implementação das funcionalidades do backlog.
+10. A definição de prioridades é uma responsabilidade contínua do Product Owner ao longo do ciclo de vida do produto.
+
+9. Subtópico:
+9. Como a equipe de desenvolvimento
+Assertivas:
+1. A equipe de desenvolvimento é responsável por implementar e aprimorar sistemas e softwares.
+2. É papel da equipe de desenvolvimento seguir boas práticas de programação para garantir a qualidade do código produzido.
+3. A equipe de desenvolvimento trabalha em colaboração com outros departamentos para identificar e implementar soluções tecnológicas.
+4. É fundamental que a equipe de desenvolvimento esteja atualizada em relação às ferramentas e tecnologias mais recentes do mercado.
+5. A equipe de desenvolvimento deve possuir habilidades de análise e resolução de problemas para identificar e solucionar eventuais bugs ou falhas nos sistemas.
+6. É necessário que a equipe de desenvolvimento tenha conhecimentos sólidos em algoritmos e estruturas de dados para melhorar a eficiência e desempenho dos sistemas desenvolvidos.
+7. A colaboração e comunicação eficiente são fundamentais dentro da equipe de desenvolvimento para garantir a fluidez do trabalho e a entrega de projetos dentro dos prazos estabelecidos.
+8. A equipe de desenvolvimento deve estar preparada para lidar com demandas urgentes e prazos apertados, demonstrando habilidade em gerenciar o tempo e priorizar tarefas.
+9. Aperfeiçoar constantemente as habilidades técnicas e conhecimentos de programação é essencial para o desenvolvedor se manter atualizado e competitivo no mercado de trabalho.
+10. A equipe de desenvolvimento precisa conhecer e aplicar os princípios da programação orientada a objetos para desenvolver sistemas mais robustos e fáceis de manter.
+
+

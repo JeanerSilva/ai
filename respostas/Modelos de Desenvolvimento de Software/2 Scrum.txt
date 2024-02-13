@@ -1,0 +1,123 @@
+Pergunta Original: 2 Scrum.    
+ 
+1. Subtópico:
+1. Definição e princípios do Scrum
+Assertivas:
+1. O Scrum é um framework utilizado para gerenciamento ágil de projetos.
+2. O Scrum se baseia em princípios empíricos, ou seja, no conhecimento e na experiência adquiridos através da prática.
+3. O Scrum valoriza a colaboração e a comunicação constante entre os membros da equipe.
+4. Um dos princípios do Scrum é o de entregar valor incrementalmente, ou seja, entregar partes funcionais do produto ao longo do tempo.
+5. O time Scrum é autônomo e multidisciplinar, responsável por planejar, desenvolver e entregar o produto.
+6. As atividades de planejamento, desenvolvimento e revisão ocorrem em ciclos chamados de sprints, que geralmente têm duração de duas a quatro semanas.
+7. O Scrum valoriza a transparência, com o uso de artefatos visuais, como o quadro de tarefas, para facilitar a visibilidade do progresso.
+8. Reuniões diárias de curta duração, conhecidas como daily stand-ups, são realizadas para promover a comunicação e o alinhamento da equipe.
+9. O Scrum permite a adaptação rápida a mudanças, pois é baseado em inspeção contínua e adaptação do plano conforme necessário.
+10. Um dos papéis fundamentais no Scrum é o de Scrum Master, responsável por garantir a aplicação correta das práticas e princípios do framework.
+
+2. Subtópico:
+2. Papéis e responsabilidades no Scrum: Product Owner, Scrum Master e Time de Desenvolvimento
+Assertivas:
+1. O Product Owner é responsável por definir e priorizar os itens do backlog do produto. 
+2. O Scrum Master é responsável por facilitar e promover a adoção do Scrum dentro da equipe.
+3. O Time de Desenvolvimento é responsável por transformar os itens do backlog do produto em incrementos de trabalho entregáveis.
+4. O Product Owner tem autoridade final na tomada de decisões sobre o produto.
+5. O Scrum Master não possui autoridade de gestão sobre o Time de Desenvolvimento.
+6. O Time de Desenvolvimento é autogerenciável e responsável pela execução do trabalho planejado.
+7. O Product Owner é responsável por garantir a transparência e a visibilidade dos itens do backlog do produto.
+8. O Scrum Master é responsável por remover os impedimentos que prejudicam a produtividade da equipe.
+9. O Time de Desenvolvimento é responsável por determinar como o trabalho será realizado para atender aos objetivos definidos pelo Product Owner.
+10. O Product Owner deve colaborar com o Time de Desenvolvimento para garantir que os requisitos sejam entendidos e implementados corretamente.
+
+3. Subtópico:
+3. Artefatos do Scrum: Product Backlog, Sprint Backlog, Incremento de Produto
+Assertivas:
+1. O Product Backlog é uma lista de todas as funcionalidades, requisitos e melhorias desejadas para o produto.
+2. O Sprint Backlog é uma lista de tarefas específicas que devem ser concluídas durante a Sprint.
+3. O Incremento de Produto é a soma de todas as funcionalidades desenvolvidas e testadas durante a Sprint.
+4. O Product Backlog pode ser atualizado ao longo do tempo à medida que novas exigências surgem ou prioridades mudam.
+5. O Sprint Backlog é definido no início da Sprint e não pode ser alterado até o final da mesma.
+6. O Incremento de Produto deve ser testado de acordo com as definições de pronto definidas pela equipe Scrum.
+7. O Product Backlog é uma responsabilidade do Product Owner, que é responsável por priorizar os itens nele contidos.
+8. O Sprint Backlog é de responsabilidade da equipe Scrum, que é responsável por definir como as tarefas serão realizadas.
+9. O Incremento de Produto deve ser potencialmente entregável, ou seja, atender aos critérios de aceitação acordados.
+10. O Product Backlog, o Sprint Backlog e o Incremento de Produto são artefatos essenciais do Scrum, que ajudam a organizar e controlar o desenvolvimento do produto.
+
+4. Subtópico:
+4. Eventos do Scrum: Sprint Planning, Daily Standup, Sprint Review, Sprint Retrospective
+Assertivas:
+1. No Scrum, o Sprint Planning é um evento dedicado à definição do backlog do produto para o próximo sprint.
+2. Durante o Sprint Planning, a equipe Scrum seleciona os itens do backlog do produto que serão trabalhados durante o sprint.
+3. O Daily Standup é uma reunião diária de curta duração realizada pela equipe Scrum para sincronização e planejamento das atividades.
+4. O objetivo do Daily Standup é promover a transparência e colaboração entre os membros da equipe, além de identificar possíveis impedimentos.
+5. No Sprint Review, a equipe Scrum apresenta o trabalho concluído durante o sprint ao Product Owner e a outras partes interessadas.
+6. O Sprint Review colabora para que o Product Owner possa tomar decisões sobre o produto, considerando o feedback da equipe e dos usuários.
+7. O Sprint Retrospective é um evento em que a equipe Scrum reflete sobre a performance, processo e suas relações internas, buscando melhorias contínuas.
+8. Durante o Sprint Retrospective, a equipe identifica ações a serem implementadas para otimizar a produtividade e a qualidade do trabalho.
+9. O Sprint Retrospective é uma oportunidade para a equipe Scrum celebrar os sucessos alcançados durante o sprint.
+10. Todos os eventos do Scrum são fundamentais para a aplicação eficiente e eficaz do framework, promovendo a adaptação contínua e o aprendizado colaborativo.
+
+5. Subtópico:
+5. Conceito de Sprints e sua duração 
+Assertivas:
+1. O conceito de Sprints é utilizado na metodologia ágil Scrum.
+2. Sprints são periodos de tempo curtos e fixos, com duração de duas a quatro semanas.
+3. Durante um Sprint, uma equipe de desenvolvimento trabalha em um conjunto de itens determinados no planejamento.
+4. Ao final de um Sprint, é esperado que um incremento de software seja entregue e pronto para ser liberado.
+5. Sprints são uma forma de organizar e gerenciar o desenvolvimento iterativo e incremental de um projeto ou produto.
+
+6. Subtópico:
+6. Técnicas de estimativa no Scrum: Planning Poker, Bucket System etc.
+Assertivas:
+1. No Scrum, o Planning Poker é uma técnica de estimativa que utiliza cartas com valores numéricos para estimar o esforço necessário para concluir uma determinada história do usuário.
+2. O Planning Poker baseia-se no consenso para alcançar uma estimativa precisa, uma vez que todos os membros da equipe de desenvolvimento discutem suas estimativas e justificam suas opiniões antes de chegar a um consenso.
+3. O Bucket System é uma técnica de estimativa usada no Scrum, que agrupa as histórias do usuário de acordo com sua complexidade.
+4. Com o Bucket System, as histórias do usuário são divididas em diferentes categorias de esforço - como pequeno, médio e grande, por exemplo - facilitando a estimativa do tempo necessário para implementá-las.
+5. A técnica de estimativa conhecida como Fibonacci é frequentemente utilizada no Scrum, na qual os valores das cartas do Planning Poker seguem a sequência de Fibonacci (1, 2, 3, 5, 8, 13, 21, etc.).
+6. A técnica de estimativa em T-shirt size é uma abordagem utilizada no Scrum para estimar o esforço necessário para implementar uma história do usuário, utilizando tamanhos de roupas, como P, M, G, GG, etc.
+7. No Scrum, a técnica de estimativa com pontos de função é usada para avaliar o tamanho funcional das histórias do usuário, medindo a complexidade e o valor agregado à solução final.
+8. A técnica de estimativa Delphi é frequentemente aplicada no Scrum, na qual as estimativas individuais dos membros da equipe são coletadas anonimamente e consolidadas para obter uma estimativa final.
+9. A técnica de estimativa Wideband Delphi é uma variação da técnica Delphi que utiliza intervalos de estimativa, considerando a incerteza envolvida no processo de desenvolvimento.
+10. No Scrum, é recomendado que a equipe de desenvolvimento utilize mais de uma técnica de estimativa em diferentes estágios do projeto para obter uma estimativa mais precisa e abrangente.
+
+7. Subtópico:
+7. Implementação do Scrum em projetos ágeis 
+Assertivas:
+1. A implementação do Scrum em projetos ágeis visa incrementar a eficiência e qualidade dos resultados.
+2. A adoção do Scrum permite uma maior colaboração e integração entre os membros da equipe de projeto.
+3. O framework Scrum é baseado em princípios ágeis e promove a entrega contínua de valor aos clientes.
+4. A implementação do Scrum requer a divisão do projeto em sprints, que são ciclos de trabalho de curta duração.
+5. No Scrum, a equipe de projeto é responsável pela definição e priorização das atividades a serem realizadas em cada sprint.
+6. O Scrum Master é o responsável por garantir que o time siga as práticas e princípios do Scrum, buscando a melhoria contínua.
+7. O Product Owner é o membro da equipe responsável por representar os interesses do cliente e definir as funcionalidades a serem desenvolvidas.
+8. A implementação do Scrum requer o uso de reuniões diárias, chamadas de daily scrum, para acompanhar o progresso do projeto.
+9. O Scrum utiliza métricas como o burndown chart para permitir o acompanhamento do progresso do projeto ao longo do tempo.
+10. O Scrum é um framework flexível, que pode ser adaptado de acordo com as necessidades e características do projeto em questão.
+
+8. Subtópico:
+8. Benefícios e desafios na adoção do método Scrum 
+Assertivas:
+1. A adoção do método Scrum pode trazer benefícios significativos para as equipes de desenvolvimento de software.
+2. O método Scrum favorece a colaboração e a comunicação entre os membros da equipe.
+3. A utilização do Scrum permite uma maior flexibilidade e adaptabilidade diante das mudanças nos requisitos do projeto.
+4. A implementação do Scrum ajuda a identificar e solucionar problemas de forma mais eficiente.
+5. O método Scrum estimula a transparência e a visibilidade do progresso do projeto.
+6. A adoção do Scrum requer uma mudança cultural significativa dentro da organização.
+7. A correta aplicação do Scrum depende do engajamento e comprometimento de todos os membros da equipe.
+8. O método Scrum demanda uma boa capacidade de planejamento e organização dos projetos.
+9. A implementação do Scrum pode exigir treinamento e capacitação dos membros da equipe.
+10. Os benefícios da adoção do Scrum podem ser percebidos tanto em projetos de pequeno como de grande porte.
+
+9. Subtópico:
+9. Comparação
+Assertivas:
+1. A comparação é uma figura de linguagem que estabelece uma relação entre dois elementos distintos.
+2. A comparação pode ser utilizada para enfatizar características semelhantes entre dois objetos, seres ou situações.
+3. Ao utilizar a comparação, é necessário estabelecer um termo de comparação, que pode ser um adjetivo, advérbio, substantivo ou verbo.
+4. A comparação pode contribuir para a compreensão do texto, ao criar imagens ou exemplos que facilitem a assimilação das informações.
+5. Ao empregar a comparação em um texto, é importante evitar expressões clichês e buscar por comparações originais e surpreendentes.
+6. A comparação pode ser considerada uma figura de pensamento, uma vez que estimula o raciocínio e a reflexão do leitor.
+7. A comparação pode ser utilizada para tornar a escrita mais expressiva, possibilitando o uso de metáforas e a criação de um efeito estético.
+8. A comparação pode ser realizada de forma explícita, quando há a presença de conectivos como "como" ou "tal qual", ou de forma implícita, quando a semelhança é apresentada sem o uso de conectivos específicos.
+9. É possível utilizar a comparação de forma exagerada, criando hipérboles e exageros para intensificar a comparação entre os elementos.
+
+

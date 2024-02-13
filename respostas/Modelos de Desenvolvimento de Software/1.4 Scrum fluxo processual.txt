@@ -1,0 +1,110 @@
+Pergunta Original: 1.4 Scrum fluxo processual   
+ 
+1. Subtópico:
+1. Definição e princípios do Scrum
+Assertivas:
+1. Scrum é um framework ágil para gerenciamento de projetos que tem como objetivo principal melhorar a eficiência e a produtividade de equipes de desenvolvimento.
+2. O Scrum se baseia em três pilares essenciais: transparência, inspeção e adaptação.
+3. O Scrum é uma abordagem iterativa e incremental, dividindo o projeto em ciclos chamados de sprints.
+4. O Scrum possui uma estrutura de papéis bem definidos: Scrum Master, Product Owner e Time de Desenvolvimento.
+5. O Scrum Master é responsável por garantir que o time siga as práticas e os valores do Scrum, além de remover os obstáculos que possam atrapalhar o progresso do projeto.
+6. O Product Owner é o responsável por representar os interesses dos stakeholders do projeto, definir as histórias de usuário e priorizar o backlog do produto.
+7. O Time de Desenvolvimento é formado por profissionais multidisciplinares que possuem habilidades necessárias para entregar as funcionalidades planejadas.
+8. As cerimônias do Scrum incluem: reunião de planejamento do sprint, daily scrum, revisão do sprint e retrospectiva do sprint.
+9. O Scrum utiliza artefatos, como o backlog do produto, backlog do sprint, incremento e gráficos de burndown, para auxiliar no planejamento e acompanhamento do projeto.
+10. A abordagem do Scrum permite uma maior flexibilidade e adaptação durante o desenvolvimento, possibilitando a entrega de valor para o cliente de forma mais rápida e eficiente.
+
+2. Subtópico:
+2. Papéis dentro do Scrum: Product Owner, Scrum Master e Time de Desenvolvimento
+Assertivas:
+1. O Product Owner é o responsável por definir as necessidades do cliente e priorizar o backlog do produto.
+2. O Scrum Master é o responsável por garantir que a equipe de desenvolvimento entenda e siga as práticas do Scrum.
+3. O Time de Desenvolvimento é responsável por realizar as atividades de desenvolvimento e entrega do produto.
+4. O Product Owner é o único responsável por tomar decisões sobre a priorização das funcionalidades a serem desenvolvidas.
+5. O Scrum Master não é um gerente de projeto, mas sim um facilitador do processo ágil.
+6. O Time de Desenvolvimento é auto-organizado e responsável por decidir como realizar as atividades e atingir os objetivos definidos.
+7. O Product Owner é o principal ponto de contato entre a equipe de desenvolvimento e os stakeholders do projeto.
+8. O Scrum Master é responsável por remover obstáculos e impedimentos que possam atrapalhar a equipe de desenvolvimento.
+9. O Time de Desenvolvimento deve ser composto por profissionais capacitados e multidisciplinares.
+10. O Product Owner deve estar disponível para esclarecer dúvidas e fornecer informações necessárias durante o desenvolvimento do produto.
+
+3. Subtópico:
+3. Artefatos do Scrum: Product Backlog, Sprint Backlog e Incremento de Produto
+Assertivas:
+1. O Product Backlog é uma lista ordenada de todas as funcionalidades, requisitos, melhorias e correções que precisam ser implementadas no produto.
+2. O Sprint Backlog é uma lista de todas as tarefas que devem ser realizadas durante um determinado sprint.
+3. O Sprint Backlog é derivado do Product Backlog, no qual as funcionalidades prioritárias são selecionadas para serem implementadas no sprint atual.
+4. O Incremento de Produto é o resultado tangível do trabalho realizado durante um sprint. É uma versão atualizada e funcional do produto.
+5. O Product Backlog é constantemente revisado, priorizado e atualizado ao longo do projeto.
+6. O Sprint Backlog é criado no início de cada sprint, com base nas prioridades e capacidades da equipe.
+7. O Product Backlog é de responsabilidade do Product Owner, enquanto o Sprint Backlog é de responsabilidade da equipe de desenvolvimento.
+8. O Product Backlog é uma ferramenta dinâmica, que permite ajustes e mudanças com base em feedbacks e necessidades do cliente.
+9. Durante o Sprint, as funcionalidades do Product Backlog são implementadas e testadas, resultando no Incremento de Produto.
+10. O Incremento de Produto deve ser entregue ao final de cada sprint, cumprindo as metas estabelecidas no início do sprint.
+
+4. Subtópico:
+4. Eventos no fluxo processual do Scrum: Sprint, Planejamento da Sprint, Daily Standup, Revisão da Sprint e Retrospectiva da Sprint
+Assertivas:
+1. O evento Sprint no fluxo processual do Scrum é um período de tempo bem definido, geralmente de 1 a 4 semanas, no qual o Time de Desenvolvimento realiza o trabalho necessário para atingir o objetivo do Sprint.
+2. O evento Planejamento da Sprint ocorre no início de cada Sprint, no qual o Time de Desenvolvimento, o Scrum Master e o Product Owner se reúnem para definir os incrementos planejados para a próxima Sprint.
+3. O evento Daily Standup é uma reunião diária de curta duração realizada pelo Time de Desenvolvimento, na qual os membros compartilham o progresso do trabalho, discutem as atividades do dia e identificam possíveis impedimentos.
+4. A Revisão da Sprint é um evento realizado no final do Sprint, no qual o Time de Desenvolvimento apresenta os incrementos feitos durante a Sprint para o Product Owner e outras partes interessadas, com o objetivo de obter feedback e adaptar o Product Backlog, se necessário.
+5. O evento Retrospectiva da Sprint é uma reunião realizada no final do Sprint, na qual o Time de Desenvolvimento reflete sobre o processo de desenvolvimento durante a Sprint e identifica possíveis melhorias para serem aplicadas nas próximas Sprints.
+6. Durante o evento Sprint, o Time de Desenvolvimento trabalha de forma autônoma e auto-organizada, selecionando as atividades a serem executadas a partir do Product Backlog.
+7. No Planejamento da Sprint, o Product Owner prioriza e seleciona os itens do Product Backlog que serão incluídos na Sprint, levando em consideração os objetivos e prioridades do projeto.
+8. O Daily Standup é uma reunião de acompanhamento diário em que cada membro do Time de Desenvolvimento responde a três perguntas: o que foi feito desde a última reunião, o que será feito até a próxima reunião e quais são os possíveis impedimentos.
+9. Durante a Revisão da Sprint, o Product Owner tem a oportunidade de avaliar os resultados do Sprint e decidir quais itens do Product Backlog serão incluídos no próximo Sprint.
+10. A Retrospectiva da Sprint é uma oportunidade para o Time de Desenvolvimento refletir sobre o seu próprio processo de trabalho, identificar boas práticas, pontos de melhoria e tomar medidas para aprimorar o trabalho nas próximas Sprints.
+
+5. Subtópico:
+5. Conceito de Sprints e sua duração 
+Assertivas:
+1. O conceito de Sprints é uma prática do framework Scrum, utilizado para gerenciar projetos ágeis.
+2. Os Sprints são periodos curtos e fixos de tempo, onde ocorre o desenvolvimento de um conjunto de funcionalidades.
+3. A duração de um Sprint é definida pela equipe Scrum, geralmente variando entre 1 e 4 semanas.
+4. Durante um Sprint, a equipe foca no desenvolvimento e entrega de um incremento de produto.
+5. Ao final de cada Sprint, são realizadas cerimônias como a revisão do sprint e a retrospectiva, para avaliar o trabalho realizado.
+
+6. Subtópico:
+6. Processo de planejamento em uma sprint no Scrum 
+Assertivas:
+1. O processo de planejamento em uma sprint no Scrum envolve a definição dos objetivos e metas a serem atingidos no período.
+2. Durante o processo de planejamento em uma sprint no Scrum, são selecionadas as tarefas que devem ser realizadas para alcançar os objetivos definidos.
+3. No processo de planejamento em uma sprint no Scrum, é estimado o esforço necessário para a realização de cada tarefa.
+4. Durante o planejamento em uma sprint no Scrum, são identificadas as dependências entre as tarefas a serem realizadas.
+5. O processo de planejamento em uma sprint no Scrum envolve a criação de um backlog de tarefas priorizadas.
+6. Durante o processo de planejamento em uma sprint no Scrum, é determinada a capacidade da equipe de lidar com as tarefas ao longo do período.
+7. No processo de planejamento em uma sprint no Scrum, podem ser realizadas reuniões para esclarecer dúvidas e discutir estratégias.
+8. Durante o planejamento em uma sprint no Scrum, são estabelecidos critérios de aceitação para cada tarefa a ser realizada.
+9. O processo de planejamento em uma sprint no Scrum envolve o estabelecimento de um prazo para a conclusão das tarefas.
+10. Durante o processo de planejamento em uma sprint no Scrum, são definidas as métricas a serem utilizadas para monitorar o progresso das tarefas.
+
+7. Subtópico:
+7. Gestão de projetos utilizando o método Scrum 
+Assertivas:
+1. O Scrum é um método ágil de gestão de projetos que se baseia em iterações curtas e frequentes.
+2. No Scrum, o trabalho é organizado em ciclos chamados de sprints, que geralmente têm duração de duas a quatro semanas.
+3. O Scrum divide as responsabilidades entre três papéis principais: Product Owner, Scrum Master e Equipe de Desenvolvimento.
+4. O Product Owner é responsável por definir as metas do projeto, priorizar as atividades e garantir que o produto seja entregue de acordo com as expectativas do cliente.
+5. O Scrum Master atua como um facilitador, removendo obstáculos e garantindo a aplicação correta do método Scrum.
+6. A Equipe de Desenvolvimento é responsável por realizar o trabalho necessário para atender ao objetivo do sprint.
+7. Durante a revisão do sprint, a Equipe de Desenvolvimento apresenta o que foi concluído no período e recebe feedback do Product Owner.
+8. O Scrum utiliza reuniões diárias chamadas de Daily Scrum para que a equipe possa se sincronizar e identificar possíveis impedimentos.
+9. O Scrum valoriza a transparência, a inspeção e a adaptação contínuas para melhorar a eficiência e a qualidade dos projetos.
+10. O Scrum é amplamente utilizado em empresas de desenvolvimento de software, mas também pode ser aplicado em outros tipos de projetos.
+
+8. Subtópico:
+8. Técnicas para priorização do backlog no processo scrum
+Assertivas:
+1. A priorização do backlog no processo Scrum consiste em ordenar as funcionalidades ou itens de trabalho de acordo com sua importância.
+2. Na técnica de priorização MoSCoW, os itens do backlog são classificados como Must have, Should have, Could have e Won't have, de acordo com sua relevância para o projeto.
+3. A técnica de priorização ROI (Return on Investment) é utilizada no Scrum para priorizar o backlog com base no valor que cada item agrega para o negócio.
+4. A técnica de priorização Kano é usada no Scrum para classificar os itens do backlog em atrativos, unidimensionais, obrigatórios, indiferentes e reversos, de acordo com o impacto no cliente.
+5. A técnica de priorização WSJF (Weighted Shortest Job First) é utilizada no Scrum para priorizar o backlog com base no benefício relativo e na magnitude do trabalho.
+6. A técnica de priorização MoSCoW é uma abordagem eficaz para decidir quais requisitos ou recursos serão incluídos e quais serão descartados no backlog.
+7. A priorização do backlog no Scrum pode ser realizada por meio de reuniões de refinamento, onde a equipe realiza um debate e toma decisões conjuntas sobre a relevância de cada item.
+8. A técnica de priorização RICE (Reach, Impact, Confidence, Effort) é usada no Scrum para priorizar itens do backlog com base em seu alcance, impacto, confiança e esforço necessário.
+9. A priorização do backlog no Scrum é uma atividade contínua que deve ser revisada e ajustada regularmente para atender às necessidades e objetivos em constante mudança do projeto.
+10. A técnica de priorização WSJF é baseada em uma fórmula matemática que leva em consideração o valor, esforço, risco e oportunidade de cada item do backlog.
+
+
