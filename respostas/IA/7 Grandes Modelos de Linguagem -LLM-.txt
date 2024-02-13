@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Características Gerais dos 7 Grandes Modelos de Linguagem
 Assertivas:
-1) O modelo de linguagem de Chomsky, também conhecido como Gramática Gerativa, propõe a existência de regras universais que regem a estrutura das línguas naturais.
-2) O modelo de linguagem de Saussure, conhecido como Estruturalismo, enfoca a relação entre os elementos linguísticos a partir de sua organização em uma estrutura sistemática.
-3) O modelo de linguagem de Hymes, conhecido como Sociolinguística, considera os aspectos sociais e culturais envolvidos na comunicação e no uso das línguas.
-4) O modelo de linguagem de Halliday, conhecido como Funcionalismo, destaca a funcionalidade da linguagem e sua relação com as atividades comunicativas.
-5) O modelo de linguagem de Austin, conhecido como Pragmática, enfoca o estudo dos atos de fala e das intenções comunicativas por trás da linguagem.
-6) O modelo de linguagem de Labov, conhecido como Variação Linguística, busca entender como a linguagem varia de acordo com fatores sociais, regionais e situacionais.
-7) O modelo de linguagem de Piaget, conhecido como Construtivismo, enfoca o desenvolvimento da linguagem nas etapas do desenvolvimento cognitivo infantil.
-8) O modelo de linguagem de Vygotsky, conhecido como Sociointeracionismo, destaca a influência do contexto social e das interações sociais na aquisição e uso da linguagem.
-9) O modelo de linguagem de Dell Hymes, conhecido como Etnografia da Comunicação, investiga a relação entre a linguagem e a cultura em uma perspectiva antropológica.
-10) O modelo de linguagem de Searle, conhecido como Teoria dos Atos de Fala, aborda a linguagem como ação social e examina os diferentes tipos de atos comunicativos que podem ser realizados através da linguagem.
+1. O modelo de linguagem de Chomsky, também conhecido como Gramática Gerativa, propõe a existência de regras universais que regem a estrutura das línguas naturais.
+2. O modelo de linguagem de Saussure, conhecido como Estruturalismo, enfoca a relação entre os elementos linguísticos a partir de sua organização em uma estrutura sistemática.
+3. O modelo de linguagem de Hymes, conhecido como Sociolinguística, considera os aspectos sociais e culturais envolvidos na comunicação e no uso das línguas.
+4. O modelo de linguagem de Halliday, conhecido como Funcionalismo, destaca a funcionalidade da linguagem e sua relação com as atividades comunicativas.
+5. O modelo de linguagem de Austin, conhecido como Pragmática, enfoca o estudo dos atos de fala e das intenções comunicativas por trás da linguagem.
+6. O modelo de linguagem de Labov, conhecido como Variação Linguística, busca entender como a linguagem varia de acordo com fatores sociais, regionais e situacionais.
+7. O modelo de linguagem de Piaget, conhecido como Construtivismo, enfoca o desenvolvimento da linguagem nas etapas do desenvolvimento cognitivo infantil.
+8. O modelo de linguagem de Vygotsky, conhecido como Sociointeracionismo, destaca a influência do contexto social e das interações sociais na aquisição e uso da linguagem.
+9. O modelo de linguagem de Dell Hymes, conhecido como Etnografia da Comunicação, investiga a relação entre a linguagem e a cultura em uma perspectiva antropológica.
+10. O modelo de linguagem de Searle, conhecido como Teoria dos Atos de Fala, aborda a linguagem como ação social e examina os diferentes tipos de atos comunicativos que podem ser realizados através da linguagem.
 
 3. Subtópico:
 3. Modelo de Linguagem N-gramas: Conceito e Aplicações
@@ -34,7 +34,7 @@ Assertivas:
 1. O modelo de linguagem N-gramas é uma abordagem estatística para a previsão de palavras ou caracteres em um texto.
 2. O conceito de N-grama se refere a uma sequência contígua de N elementos (palavras, caracteres, fonemas) em um texto.
 3. O modelo de linguagem N-gramas é amplamente utilizado em tarefas de processamento de linguagem natural, como reconhecimento de fala, tradução automática e correção ortográfica.
-4. Os N-gramas podem ser unigramas (N=1), bigramas (N=2), trigramas (N=3) ou mais, dependendo do tamanho da sequência analisada.
+4. Os N-gramas podem ser unigramas (N=1., bigramas (N=2., trigramas (N=3. ou mais, dependendo do tamanho da sequência analisada.
 5. O modelo de linguagem N-gramas baseia-se na hipótese markoviana, que pressupõe que a probabilidade de ocorrência de uma palavra ou caractere depende apenas das N palavras ou caracteres anteriores.
 6. A aplicação do modelo de linguagem N-gramas envolve a construção de uma tabela de probabilidades condicionais com base em um corpus de treinamento.
 7. Por meio do modelo de linguagem N-gramas, é possível calcular a probabilidade de uma sequência de palavras ou caracteres ocorrer em um texto, auxiliando em tarefas como predição de palavras ou detecção de erros.

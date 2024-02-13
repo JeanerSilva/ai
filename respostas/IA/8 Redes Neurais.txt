@@ -75,8 +75,8 @@ Assertivas:
 Assertivas:
 1. A função de ativação em redes neurais é utilizada para introduzir não-linearidade nas relações entre os neurônios.
 2. Existem diferentes tipos de funções de ativação, como a função sigmoidal, a função tangente hiperbólica e a função ReLU.
-3. A função sigmoidal é amplamente utilizada em redes neurais pela sua capacidade de mapear qualquer número real para um valor no intervalo (0, 1).
-4. A função tangente hiperbólica é similar à função sigmoidal, mas mapeia os valores para o intervalo (-1, 1).
+3. A função sigmoidal é amplamente utilizada em redes neurais pela sua capacidade de mapear qualquer número real para um valor no intervalo (0, 1..
+4. A função tangente hiperbólica é similar à função sigmoidal, mas mapeia os valores para o intervalo (-1, 1..
 5. A função ReLU (Rectified Linear Unit) é a função de ativação mais utilizada atualmente em redes neurais devido à sua simplicidade e eficiência computacional.
 6. A função ReLU mapeia todos os valores negativos para zero e mantém os valores positivos inalterados.
 7. A função softmax é uma função de ativação utilizada para a classificação em problemas de múltiplas classes.

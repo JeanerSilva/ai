@@ -94,7 +94,7 @@ Assertivas:
 5. Em Java, a função hashCode() é usada para calcular o valor de dispersão de um objeto.
 6. Caso ocorra uma colisão, os elementos são armazenados em uma lista encadeada dentro do mesmo índice, mantendo uma estrutura conhecida como "encadeamento separado" ou "resolução de colisão por lista encadeada".
 7. As tabelas Hashing são amplamente utilizadas em Java para implementar estruturas como conjuntos (Set) e mapas (Map).
-8. A complexidade média das operações de busca, inserção e remoção em uma tabela Hashing é O(1).
+8. A complexidade média das operações de busca, inserção e remoção em uma tabela Hashing é O(1..
 9. É possível personalizar a função de dispersão, implementando o método hashCode() nas classes dos objetos a serem armazenados, tornando o cálculo mais específico para o contexto da aplicação.
 10. A tabela Hashing é especialmente útil quando se precisa de acesso rápido a um grande número de elementos, como na busca de palavras em dicionários ou na análise de frequência de caracteres em texto.
 

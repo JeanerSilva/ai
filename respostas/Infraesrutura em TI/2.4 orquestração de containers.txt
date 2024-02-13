@@ -59,11 +59,11 @@ Assertivas:
 5. Subtópico:
 5. Comparativo entre as principais ferramentas de orquestração: vantagens e desvantagens 
 Assertivas:
-1) A ferramenta A apresenta maior capacidade de escalabilidade, possibilitando o gerenciamento de um grande número de hosts de forma eficiente.
-2) A ferramenta B oferece uma interface de usuário mais intuitiva, facilitando o processo de configuração e monitoramento das tarefas.
-3) A ferramenta C possui uma ampla gama de plugins e integrações, permitindo a automação de processos complexos em diferentes ambientes.
-4) A ferramenta D possui uma curva de aprendizado mais íngreme, exigindo maior expertise por parte dos usuários para o pleno aproveitamento de suas funcionalidades.
-5) A ferramenta E oferece um maior suporte e comunidade de usuários ativa, o que facilita a busca por soluções e o compartilhamento de boas práticas.
+1. A ferramenta A apresenta maior capacidade de escalabilidade, possibilitando o gerenciamento de um grande número de hosts de forma eficiente.
+2. A ferramenta B oferece uma interface de usuário mais intuitiva, facilitando o processo de configuração e monitoramento das tarefas.
+3. A ferramenta C possui uma ampla gama de plugins e integrações, permitindo a automação de processos complexos em diferentes ambientes.
+4. A ferramenta D possui uma curva de aprendizado mais íngreme, exigindo maior expertise por parte dos usuários para o pleno aproveitamento de suas funcionalidades.
+5. A ferramenta E oferece um maior suporte e comunidade de usuários ativa, o que facilita a busca por soluções e o compartilhamento de boas práticas.
 
 6. Subtópico:
 6. Processo de implantação da orquestração de containers em um ambiente corporativo 

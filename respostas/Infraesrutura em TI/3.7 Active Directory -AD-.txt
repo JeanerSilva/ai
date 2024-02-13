@@ -59,16 +59,16 @@ Assertivas:
 5. Subtópico:
 5. Gerenciamento de usuários e grupos no AD
 Assertivas:
-1) O Active Directory (AD) é uma ferramenta da Microsoft utilizada para o gerenciamento centralizado de usuários e grupos em um ambiente de rede.
-2) No AD, é possível criar, editar e excluir usuários de forma individual, proporcionando controle sobre as permissões de acesso aos recursos de rede.
-3) Por meio do AD, é possível agrupar usuários em grupos, facilitando a administração de permissões coletivas em um ambiente de rede.
-4) Ao criar grupos no AD, é possível atribuir permissões de acesso a recursos compartilhados, como pastas e impressoras, de forma simplificada.
-5) O AD permite a definição de políticas de segurança, como exigência de senhas complexas e bloqueio de contas após múltiplas tentativas de autenticação inválida.
-6) É possível delegar determinadas tarefas de gerenciamento de usuários e grupos no AD para outros usuários ou grupos, com restrição de permissões específicas.
-7) O AD permite o controle de acesso baseado em funções (RBAC), possibilitando a atribuição de permissões de acordo com os cargos e responsabilidades dos usuários.
-8) Com o AD, é possível criar relatórios sobre o uso e as atividades dos usuários, facilitando a identificação de possíveis irregularidades ou violações de segurança.
-9) O AD suporta a integração com outros sistemas de autenticação, como LDAP e Kerberos, proporcionando maior flexibilidade e interoperabilidade em um ambiente de rede.
-10) O gerenciamento de usuários e grupos no AD é fundamental para garantir a segurança e a eficiência da rede corporativa, facilitando o controle de acesso e atribuição de permissões aos usuários.
+1. O Active Directory (AD) é uma ferramenta da Microsoft utilizada para o gerenciamento centralizado de usuários e grupos em um ambiente de rede.
+2. No AD, é possível criar, editar e excluir usuários de forma individual, proporcionando controle sobre as permissões de acesso aos recursos de rede.
+3. Por meio do AD, é possível agrupar usuários em grupos, facilitando a administração de permissões coletivas em um ambiente de rede.
+4. Ao criar grupos no AD, é possível atribuir permissões de acesso a recursos compartilhados, como pastas e impressoras, de forma simplificada.
+5. O AD permite a definição de políticas de segurança, como exigência de senhas complexas e bloqueio de contas após múltiplas tentativas de autenticação inválida.
+6. É possível delegar determinadas tarefas de gerenciamento de usuários e grupos no AD para outros usuários ou grupos, com restrição de permissões específicas.
+7. O AD permite o controle de acesso baseado em funções (RBAC), possibilitando a atribuição de permissões de acordo com os cargos e responsabilidades dos usuários.
+8. Com o AD, é possível criar relatórios sobre o uso e as atividades dos usuários, facilitando a identificação de possíveis irregularidades ou violações de segurança.
+9. O AD suporta a integração com outros sistemas de autenticação, como LDAP e Kerberos, proporcionando maior flexibilidade e interoperabilidade em um ambiente de rede.
+10. O gerenciamento de usuários e grupos no AD é fundamental para garantir a segurança e a eficiência da rede corporativa, facilitando o controle de acesso e atribuição de permissões aos usuários.
 
 6. Subtópico:
 6. Políticas de Grupo (Group Policy) no AD

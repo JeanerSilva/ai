@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Comandos SQL: SELECT, INSERT, UPDATE e DELETE.
 Assertivas:
-1) O comando SELECT é utilizado para consultar dados em um banco de dados.
-2) O comando INSERT é usado para inserir novos registros em uma tabela.
-3) O comando UPDATE é usado para atualizar registros existentes em uma tabela.
-4) O comando DELETE é utilizado para excluir registros de uma tabela.
-5) O comando SELECT permite a utilização de cláusulas como WHERE e ORDER BY.
-6) O comando INSERT requer a especificação das colunas e dos valores a serem inseridos.
-7) O comando UPDATE permite a atualização de múltiplos registros simultaneamente.
-8) O comando DELETE excluirá todos os registros da tabela se a cláusula WHERE não for especificada.
-9) O comando SELECT permite a utilização de funções agregadas, como COUNT, SUM e AVG.
-10) Os comandos SQL permitem a manipulação e recuperação de dados armazenados em bancos de dados relacionais.
+1. O comando SELECT é utilizado para consultar dados em um banco de dados.
+2. O comando INSERT é usado para inserir novos registros em uma tabela.
+3. O comando UPDATE é usado para atualizar registros existentes em uma tabela.
+4. O comando DELETE é utilizado para excluir registros de uma tabela.
+5. O comando SELECT permite a utilização de cláusulas como WHERE e ORDER BY.
+6. O comando INSERT requer a especificação das colunas e dos valores a serem inseridos.
+7. O comando UPDATE permite a atualização de múltiplos registros simultaneamente.
+8. O comando DELETE excluirá todos os registros da tabela se a cláusula WHERE não for especificada.
+9. O comando SELECT permite a utilização de funções agregadas, como COUNT, SUM e AVG.
+10. Os comandos SQL permitem a manipulação e recuperação de dados armazenados em bancos de dados relacionais.
 
 3. Subtópico:
 3. Funções agregadas em SQL: COUNT, SUM, AVG, MAX e MIN.

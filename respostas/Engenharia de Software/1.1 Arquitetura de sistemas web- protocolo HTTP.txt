@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 1.1.2 Funcionamento do protocolo HTTP
 Assertivas:
-1) O protocolo HTTP é responsável pela comunicação entre cliente e servidor na web.
-2) O HTTP utiliza o método de requisição-resposta para trocar informações.
-3) O HTTP opera na camada de aplicação do modelo OSI.
-4) O HTTP utiliza o TCP como protocolo de transporte.
-5) O HTTP suporta a transferência de texto, imagens, vídeos e outros tipos de dados.
-6) O HTTP utiliza URLs para identificar recursos na web.
-7) O HTTP é um protocolo stateless, ou seja, não mantém informações de estado entre requisições.
-8) O HTTP utiliza códigos de status para indicar o resultado da requisição.
-9) O HTTP permite o uso de autenticação, permitindo a proteção de recursos sensíveis.
-10) O HTTP utiliza o cabeçalho para enviar informações adicionais na requisição e na resposta.
+1. O protocolo HTTP é responsável pela comunicação entre cliente e servidor na web.
+2. O HTTP utiliza o método de requisição-resposta para trocar informações.
+3. O HTTP opera na camada de aplicação do modelo OSI.
+4. O HTTP utiliza o TCP como protocolo de transporte.
+5. O HTTP suporta a transferência de texto, imagens, vídeos e outros tipos de dados.
+6. O HTTP utiliza URLs para identificar recursos na web.
+7. O HTTP é um protocolo stateless, ou seja, não mantém informações de estado entre requisições.
+8. O HTTP utiliza códigos de status para indicar o resultado da requisição.
+9. O HTTP permite o uso de autenticação, permitindo a proteção de recursos sensíveis.
+10. O HTTP utiliza o cabeçalho para enviar informações adicionais na requisição e na resposta.
 
 3. Subtópico:
 1.1.3 Métodos de requisição do protocolo HTTP
@@ -45,19 +45,19 @@ Assertivas:
 4. Subtópico:
 1.1.4 Códigos de status do protocolo HTTP
 Assertivas:
-1) O código de status HTTP 200 indica que a requisição foi bem sucedida.
-2) O código de status HTTP 404 indica que a página solicitada não foi encontrada.
-3) O código de status HTTP 302 indica uma redireção temporária.
-4) O código de status HTTP 403 indica que o acesso à página é proibido.
-5) O código de status HTTP 500 indica um erro interno de servidor.
-6) O código de status HTTP 301 indica uma redireção permanente.
-7) O código de status HTTP 401 indica que é necessário autenticação para acessar a página.
-8) O código de status HTTP 304 indica que a página não foi modificada desde a última requisição.
-9) O código de status HTTP 201 indica que uma nova página foi criada com sucesso.
-10) O código de status HTTP 503 indica que o servidor está temporariamente indisponível.
+1. O código de status HTTP 200 indica que a requisição foi bem sucedida.
+2. O código de status HTTP 404 indica que a página solicitada não foi encontrada.
+3. O código de status HTTP 302 indica uma redireção temporária.
+4. O código de status HTTP 403 indica que o acesso à página é proibido.
+5. O código de status HTTP 500 indica um erro interno de servidor.
+6. O código de status HTTP 301 indica uma redireção permanente.
+7. O código de status HTTP 401 indica que é necessário autenticação para acessar a página.
+8. O código de status HTTP 304 indica que a página não foi modificada desde a última requisição.
+9. O código de status HTTP 201 indica que uma nova página foi criada com sucesso.
+10. O código de status HTTP 503 indica que o servidor está temporariamente indisponível.
 
 5. Subtópico:
-1.1.5 Diferenças entre as versões do protocolo HTTP (HTTP 0,9,  0,10, 2 e 3)
+1.1.5 Diferenças entre as versões do protocolo HTTP (HTTP 0,9,  0,10, 2 e 3.
 Assertivas:
 1. O protocolo HTTP 0.9 é a versão mais antiga do protocolo e suporta apenas o método GET para recuperar informações de um servidor.
 2. A versão HTTP 1.0 foi lançada em 1996 e introduziu novos métodos, como POST e HEAD, além de suportar cabeçalhos e códigos de status.

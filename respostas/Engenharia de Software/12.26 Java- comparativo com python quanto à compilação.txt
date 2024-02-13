@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Comparação entre a sintaxe de Java e Python.
 Assertivas:
-1) A sintaxe de Java é baseada na utilização de chaves {} para delimitar blocos de código, enquanto em Python, a indentação é utilizada para o mesmo propósito.
-2) Em Java, é obrigatório declarar o tipo das variáveis, enquanto Python utiliza a inferência de tipo, permitindo que as variáveis sejam atribuídas sem declaração prévia do tipo.
-3) Em Java, a declaração e inicialização de variáveis de instância dentro de uma classe ocorrem geralmente dentro do construtor, enquanto em Python isso pode ser feito diretamente no corpo da classe.
-4) Em Java, as classes e os métodos são definidos usando a palavra-chave reservada "class" e "public", respectivamente. Em Python, não há necessidade de especificar explicitamente as palavras reservadas para definir classes e métodos.
-5) Em Java, a herança múltipla não é permitida, sendo apenas possível herdar de uma única classe. Em Python, a herança múltipla é suportada, permitindo que uma classe herde características de várias classes.
-6) Java utiliza o operador "new" para criar novos objetos, enquanto Python não requer o uso desse operador para criação de objetos.
-7) Em Java, é obrigatório especificar um tipo de retorno em métodos, mesmo que seja void. Em Python, não é necessário especificar explicitamente o tipo de retorno de um método.
-8) Java segue uma abordagem orientada a objetos mais rígida, exigindo que todos os atributos e métodos pertençam a uma classe. Em Python, é possível criar atributos e métodos fora de uma classe, de forma independente.
-9) Java é fortemente tipado, o que significa que não é permitido atribuir valores de tipos incompatíveis a variáveis. Python é dinamicamente tipado, permitindo atribuição de diferentes tipos de dados a variáveis.
-10) Em Java, a programação genérica é amplamente utilizada, permitindo a criação de classes e métodos com tipos parametrizados. Em Python, embora não seja tão comum, também é possível utilizar a programação genérica usando módulos e bibliotecas específicas.
+1. A sintaxe de Java é baseada na utilização de chaves {} para delimitar blocos de código, enquanto em Python, a indentação é utilizada para o mesmo propósito.
+2. Em Java, é obrigatório declarar o tipo das variáveis, enquanto Python utiliza a inferência de tipo, permitindo que as variáveis sejam atribuídas sem declaração prévia do tipo.
+3. Em Java, a declaração e inicialização de variáveis de instância dentro de uma classe ocorrem geralmente dentro do construtor, enquanto em Python isso pode ser feito diretamente no corpo da classe.
+4. Em Java, as classes e os métodos são definidos usando a palavra-chave reservada "class" e "public", respectivamente. Em Python, não há necessidade de especificar explicitamente as palavras reservadas para definir classes e métodos.
+5. Em Java, a herança múltipla não é permitida, sendo apenas possível herdar de uma única classe. Em Python, a herança múltipla é suportada, permitindo que uma classe herde características de várias classes.
+6. Java utiliza o operador "new" para criar novos objetos, enquanto Python não requer o uso desse operador para criação de objetos.
+7. Em Java, é obrigatório especificar um tipo de retorno em métodos, mesmo que seja void. Em Python, não é necessário especificar explicitamente o tipo de retorno de um método.
+8. Java segue uma abordagem orientada a objetos mais rígida, exigindo que todos os atributos e métodos pertençam a uma classe. Em Python, é possível criar atributos e métodos fora de uma classe, de forma independente.
+9. Java é fortemente tipado, o que significa que não é permitido atribuir valores de tipos incompatíveis a variáveis. Python é dinamicamente tipado, permitindo atribuição de diferentes tipos de dados a variáveis.
+10. Em Java, a programação genérica é amplamente utilizada, permitindo a criação de classes e métodos com tipos parametrizados. Em Python, embora não seja tão comum, também é possível utilizar a programação genérica usando módulos e bibliotecas específicas.
 
 3. Subtópico:
 3. Processo de compilação em Java: Detalhamento e etapas.

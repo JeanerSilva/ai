@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Orientação a Objetos em Java
 Assertivas:
-1) Em orientação a objetos, o conceito de encapsulamento busca proteger os atributos de uma classe, permitindo o acesso a eles somente por meio de métodos.
-2) Em Java, a herança é uma técnica utilizada em orientação a objetos que permite que uma classe herde características e comportamentos de outra classe.
-3) Polimorfismo é um conceito em orientação a objetos que permite que objetos de classes diferentes sejam tratados de maneira uniforme.
-4) Em Java, interfaces são utilizadas para definir um contrato entre uma classe e outras que desejam implementá-la, estabelecendo métodos que devem ser implementados pelas classes que a utilizarem.
-5) Um objeto em Java é uma instância de uma classe, podendo ter atributos e comportamentos definidos pela classe.
-6) Em orientação a objetos, o conceito de reutilização de código é incentivado pela criação de classes e objetos que podem ser utilizados em diferentes partes de um programa.
-7) O polimorfismo em Java permite que um objeto possa ser referenciado por diferentes tipos de variáveis, proporcionando flexibilidade e extensibilidade ao código.
-8) Na orientação a objetos, o polimorfismo é um importante princípio que permite a criação de métodos genéricos que podem ser utilizados por diferentes objetos.
-9) O conceito de herança em Java permite a criação de hierarquias de classes, em que uma classe pode herdar características e comportamentos de outra classe.
-10) Em Java, construtores são métodos especiais utilizados para inicializar objetos de uma classe, podendo definir argumentos que devem ser passados durante a criação do objeto.
+1. Em orientação a objetos, o conceito de encapsulamento busca proteger os atributos de uma classe, permitindo o acesso a eles somente por meio de métodos.
+2. Em Java, a herança é uma técnica utilizada em orientação a objetos que permite que uma classe herde características e comportamentos de outra classe.
+3. Polimorfismo é um conceito em orientação a objetos que permite que objetos de classes diferentes sejam tratados de maneira uniforme.
+4. Em Java, interfaces são utilizadas para definir um contrato entre uma classe e outras que desejam implementá-la, estabelecendo métodos que devem ser implementados pelas classes que a utilizarem.
+5. Um objeto em Java é uma instância de uma classe, podendo ter atributos e comportamentos definidos pela classe.
+6. Em orientação a objetos, o conceito de reutilização de código é incentivado pela criação de classes e objetos que podem ser utilizados em diferentes partes de um programa.
+7. O polimorfismo em Java permite que um objeto possa ser referenciado por diferentes tipos de variáveis, proporcionando flexibilidade e extensibilidade ao código.
+8. Na orientação a objetos, o polimorfismo é um importante princípio que permite a criação de métodos genéricos que podem ser utilizados por diferentes objetos.
+9. O conceito de herança em Java permite a criação de hierarquias de classes, em que uma classe pode herdar características e comportamentos de outra classe.
+10. Em Java, construtores são métodos especiais utilizados para inicializar objetos de uma classe, podendo definir argumentos que devem ser passados durante a criação do objeto.
 
 3. Subtópico:
 3. Manipulação de Strings e Arrays em Java
@@ -129,15 +129,15 @@ Assertivas:
 10. Subtópico:
 10.Java Persistence API (JPA) para persistência de dados
 Assertivas:
-1) A JPA é uma API de persistência de dados em Java, que permite o mapeamento de objetos para registros em um banco de dados relacional.
-2) A JPA é uma especificação da plataforma Java EE para estabelecer um padrão de persistência de objetos em bancos de dados.
-3) O uso da JPA simplifica o acesso e manipulação de dados em aplicações Java, reduzindo a quantidade de código necessário.
-4) A JPA oferece suporte a operações de leitura, gravação, atualização e exclusão de dados de forma transparente ao desenvolvedor.
-5) A JPA utiliza o conceito de ORM (Mapeamento Objeto-Relacional), facilitando a persistência de objetos em bancos de dados relacionais.
-6) A JPA permite o uso de anotações para descrever o mapeamento entre classes de domínio e tabelas do banco de dados.
-7) A JPA utiliza consultas em linguagem JPQL (Java Persistence Query Language) para recuperar dados armazenados no banco de dados.
-8) A JPA oferece suporte a cache de entidades, melhorando a performance de consultas frequentes.
-9) A JPA permite a criação de relacionamentos entre entidades, como associações um-para-um, um-para-muitos e muitos-para-muitos.
-10) A JPA é independente de fornecedores de banco de dados, permitindo a portabilidade de aplicações entre diferentes SGBDs.
+1. A JPA é uma API de persistência de dados em Java, que permite o mapeamento de objetos para registros em um banco de dados relacional.
+2. A JPA é uma especificação da plataforma Java EE para estabelecer um padrão de persistência de objetos em bancos de dados.
+3. O uso da JPA simplifica o acesso e manipulação de dados em aplicações Java, reduzindo a quantidade de código necessário.
+4. A JPA oferece suporte a operações de leitura, gravação, atualização e exclusão de dados de forma transparente ao desenvolvedor.
+5. A JPA utiliza o conceito de ORM (Mapeamento Objeto-Relacional), facilitando a persistência de objetos em bancos de dados relacionais.
+6. A JPA permite o uso de anotações para descrever o mapeamento entre classes de domínio e tabelas do banco de dados.
+7. A JPA utiliza consultas em linguagem JPQL (Java Persistence Query Language) para recuperar dados armazenados no banco de dados.
+8. A JPA oferece suporte a cache de entidades, melhorando a performance de consultas frequentes.
+9. A JPA permite a criação de relacionamentos entre entidades, como associações um-para-um, um-para-muitos e muitos-para-muitos.
+10. A JPA é independente de fornecedores de banco de dados, permitindo a portabilidade de aplicações entre diferentes SGBDs.
 
 

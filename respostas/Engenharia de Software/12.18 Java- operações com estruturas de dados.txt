@@ -50,8 +50,8 @@ Assertivas:
 3. Tanto o HashMap quanto o TreeMap implementam a interface Map no Java.
 4. O HashMap utiliza uma função de hash para calcular a posição em que um valor será armazenado, proporcionando buscas eficientes.
 5. O TreeMap mantém as chaves ordenadas por meio de uma árvore balanceada, o que garante uma complexidade logarítmica para muitas operações.
-6. A operação de inserção em um HashMap tem tempo médio de complexidade O(1), enquanto no TreeMap é O(log n).
-7. Buscas e remoções em HashMap têm complexidade O(1) em tempo médio, considerando uma boa função de hash.
+6. A operação de inserção em um HashMap tem tempo médio de complexidade O(1., enquanto no TreeMap é O(log n).
+7. Buscas e remoções em HashMap têm complexidade O(1. em tempo médio, considerando uma boa função de hash.
 8. Já no TreeMap, essas operações têm tempo médio de complexidade O(log n).
 9. O HashMap utiliza a função equals() para verificar se duas chaves são iguais, enquanto o TreeMap utiliza o método compareTo() para compará-las.
 10. Ambas estruturas são amplamente utilizadas para o armazenamento eficiente de dados e consultas rápidas, sendo adequadas para diferentes cenários de uso.
@@ -68,7 +68,7 @@ Assertivas:
 7. Queues são utilizadas em situações em que é necessário armazenar e processar elementos em ordem de chegada.
 8. Tanto as Stacks quanto as Queues podem ser implementadas em várias linguagens de programação, como C++, Java e Python.
 9. É possível criar Stacks e Queues utilizando tanto arrays (vetores) quanto listas encadeadas como estrutura de armazenamento dos elementos.
-10. A complexidade de tempo das operações de inserção, remoção e busca em Stacks e Queues depende da implementação utilizada, podendo variar entre O(1) e O(n).
+10. A complexidade de tempo das operações de inserção, remoção e busca em Stacks e Queues depende da implementação utilizada, podendo variar entre O(1. e O(n).
 
 6. Subtópico:
 6. Trabalhando com Sets em Java: HashSet, TreeSet, LinkedHashSet 
@@ -79,9 +79,9 @@ Assertivas:
 4. O HashSet em Java não permite a inserção de elementos duplicados.
 5. O TreeSet em Java mantém os elementos em ordem crescente ou decrescente, dependendo do comparador utilizado.
 6. O LinkedHashSet em Java é indicado quando é importante manter a ordem de inserção dos elementos.
-7. O HashSet em Java possui uma complexidade de tempo constante O(1) para operações de adição, remoção e busca.
+7. O HashSet em Java possui uma complexidade de tempo constante O(1. para operações de adição, remoção e busca.
 8. O TreeSet em Java possui uma complexidade de tempo O(log n) para operações de adição, remoção e busca.
-9. O LinkedHashSet em Java possui uma complexidade de tempo constante O(1) para operações de adição, remoção e busca.
+9. O LinkedHashSet em Java possui uma complexidade de tempo constante O(1. para operações de adição, remoção e busca.
 10. O HashSet em Java não garante a ordem dos elementos durante a iteração, pois depende da função de dispersão dos elementos.
 
 7. Subtópico:
@@ -103,7 +103,7 @@ Assertivas:
 Assertivas:
 1. Os algoritmos de ordenação são utilizados para reorganizar elementos em uma estrutura de dados de forma ascendente ou descendente.
 2. A ordenação por inserção é um algoritmo de ordenação estável, ou seja, mantém a ordem relativa de registros com chaves iguais.
-3. O algoritmo de ordenação por seleção possui complexidade de tempo de execução O(n^2), onde n é o número de elementos na estrutura de dados.
+3. O algoritmo de ordenação por seleção possui complexidade de tempo de execução O(n^2., onde n é o número de elementos na estrutura de dados.
 4. O algoritmo de ordenação por bolha é um dos algoritmos mais simples, porém menos eficientes para ordenação de grandes conjuntos de dados.
 5. A busca binária é um algoritmo eficiente para encontrar um elemento em uma estrutura de dados ordenada, reduzindo o número de comparações necessárias.
 6. O algoritmo de busca sequencial é utilizado para encontrar um elemento em uma estrutura de dados não ordenada, porém possui uma complexidade de tempo de execução maior.
@@ -121,7 +121,7 @@ Assertivas:
 4. Listas encadeadas podem ter uma performance inferior em relação a estruturas como vetores, especialmente em operações de busca.
 5. A árvore binária de busca é uma estrutura de dados eficiente para operações de busca, com complexidade O(log n).
 6. Heap é uma estrutura de dados particularmente útil em operações de ordenação, com complexidade O(n log n).
-7. Tabelas de hash podem oferecer uma performance ótima para operações de busca, inserção e remoção, com complexidade média O(1).
+7. Tabelas de hash podem oferecer uma performance ótima para operações de busca, inserção e remoção, com complexidade média O(1..
 8. A escolha da estrutura de dados correta pode otimizar a utilização de recursos computacionais.
 9. Estruturas de dados como pilhas e filas são adequadas para operações de inserção e remoção em extremidades específicas.
 10. É importante considerar as características das operações a serem executadas para escolher a estrutura de dados mais eficiente.

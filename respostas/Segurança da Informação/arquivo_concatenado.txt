@@ -1381,16 +1381,16 @@ Assertivas:
 2. Subtópico:
 2. Tipos de Fatores de Autenticação: Algo que você sabe, algo que você tem e algo que você é
 Assertivas:
-1) Algo que você sabe é um tipo de fator de autenticação baseado em conhecimento prévio, como uma senha ou uma resposta a uma pergunta específica.
-2) Algo que você tem é um tipo de fator de autenticação que envolve a posse física de um objeto, como um cartão inteligente, um token ou um dispositivo móvel.
-3) Algo que você é é um tipo de fator de autenticação baseado em características biométricas únicas, como impressões digitais, reconhecimento facial ou detecção de voz.
-4) Os fatores de autenticação podem ser utilizados em diferentes combinações, dependendo do nível de segurança necessário.
-5) A autenticação baseada em múltiplos fatores (MFA) combina dois ou mais tipos de fatores de autenticação para aumentar a segurança.
-6) A autenticação multifator (MFA) é uma medida eficaz para proteger informações sigilosas e evitar acesso não autorizado.
-7) O uso de múltiplos fatores de autenticação dificulta a tarefa de um invasor em obter acesso não autorizado a sistemas e dados.
-8) Além dos três principais fatores de autenticação, existem outras alternativas, como fatores de autenticação geográficos ou temporais.
-9) A autenticação baseada em algo que você é, como biometria, tem se tornado cada vez mais comum em dispositivos móveis e aplicativos.
-10) A escolha dos fatores de autenticação adequados deve levar em consideração o equilíbrio entre segurança e conveniência para o usuário.
+1. Algo que você sabe é um tipo de fator de autenticação baseado em conhecimento prévio, como uma senha ou uma resposta a uma pergunta específica.
+2. Algo que você tem é um tipo de fator de autenticação que envolve a posse física de um objeto, como um cartão inteligente, um token ou um dispositivo móvel.
+3. Algo que você é é um tipo de fator de autenticação baseado em características biométricas únicas, como impressões digitais, reconhecimento facial ou detecção de voz.
+4. Os fatores de autenticação podem ser utilizados em diferentes combinações, dependendo do nível de segurança necessário.
+5. A autenticação baseada em múltiplos fatores (MFA) combina dois ou mais tipos de fatores de autenticação para aumentar a segurança.
+6. A autenticação multifator (MFA) é uma medida eficaz para proteger informações sigilosas e evitar acesso não autorizado.
+7. O uso de múltiplos fatores de autenticação dificulta a tarefa de um invasor em obter acesso não autorizado a sistemas e dados.
+8. Além dos três principais fatores de autenticação, existem outras alternativas, como fatores de autenticação geográficos ou temporais.
+9. A autenticação baseada em algo que você é, como biometria, tem se tornado cada vez mais comum em dispositivos móveis e aplicativos.
+10. A escolha dos fatores de autenticação adequados deve levar em consideração o equilíbrio entre segurança e conveniência para o usuário.
 
 3. Subtópico:
 3. Implementação e Configuração do MFA
@@ -1636,16 +1636,16 @@ Assertivas:
 2. Subtópico:
 2. Tipos de Firewall: Packet Filtering, Stateful Inspection, Proxy Server
 Assertivas:
-1) O Packet Filtering é um tipo de firewall que verifica o conteúdo de cada pacote de dados em uma rede.
-2) O Stateful Inspection é um tipo de firewall que monitora o estado das conexões de rede para validar o tráfego de entrada e saída.
-3) O Proxy Server é um tipo de firewall que atua como intermediário entre a rede interna e a internet, filtrando e direcionando o tráfego.
-4) O Packet Filtering é menos eficiente em garantir a segurança da rede do que o Stateful Inspection.
-5) O Stateful Inspection garante uma análise mais detalhada do tráfego de rede em comparação com o Packet Filtering.
-6) O Proxy Server protege a rede interna e os usuários contra ameaças externas, como ataques DDoS.
-7) O Packet Filtering pode ser facilmente configurado para bloquear determinados protocolos ou portas em uma rede.
-8) Uma das principais vantagens do Stateful Inspection é sua habilidade de rastrear o estado de cada conexão para garantir maior segurança.
-9) O Proxy Server pode ser configurado para obter um cache de conteúdo, melhorando o desempenho da rede interna ao reutilizar informações já obtidas.
-10) O Packet Filtering analisa cada pacote de dados individualmente, enquanto o Stateful Inspection analisa o contexto e o histórico das conexões para tomar decisões de segurança.
+1. O Packet Filtering é um tipo de firewall que verifica o conteúdo de cada pacote de dados em uma rede.
+2. O Stateful Inspection é um tipo de firewall que monitora o estado das conexões de rede para validar o tráfego de entrada e saída.
+3. O Proxy Server é um tipo de firewall que atua como intermediário entre a rede interna e a internet, filtrando e direcionando o tráfego.
+4. O Packet Filtering é menos eficiente em garantir a segurança da rede do que o Stateful Inspection.
+5. O Stateful Inspection garante uma análise mais detalhada do tráfego de rede em comparação com o Packet Filtering.
+6. O Proxy Server protege a rede interna e os usuários contra ameaças externas, como ataques DDoS.
+7. O Packet Filtering pode ser facilmente configurado para bloquear determinados protocolos ou portas em uma rede.
+8. Uma das principais vantagens do Stateful Inspection é sua habilidade de rastrear o estado de cada conexão para garantir maior segurança.
+9. O Proxy Server pode ser configurado para obter um cache de conteúdo, melhorando o desempenho da rede interna ao reutilizar informações já obtidas.
+10. O Packet Filtering analisa cada pacote de dados individualmente, enquanto o Stateful Inspection analisa o contexto e o histórico das conexões para tomar decisões de segurança.
 
 3. Subtópico:
 3. Configuração e Implementação de Firewalls
@@ -2931,16 +2931,16 @@ Assertivas:
 Assertivas:
 9. Estudos de caso sobre empreendedorismo e gestão empresarial.
 
-1) Os estudos de caso são uma metodologia utilizada para analisar situações reais de empreendedorismo e gestão empresarial.
-2) Os estudos de caso envolvem uma descrição detalhada de uma situação específica, permitindo que os candidatos avaliem problemas, tomem decisões e apresentem soluções.
-3) Os estudos de caso proporcionam aos candidatos a oportunidade de aplicar conceitos teóricos aprendidos em situações práticas.
-4) Na elaboração de um estudo de caso, é importante identificar corretamente os problemas e desafios enfrentados pela empresa analisada.
-5) Os estudos de caso requerem uma análise aprofundada, integrando informações de diferentes áreas como marketing, finanças e recursos humanos.
-6) Na resolução de um estudo de caso, é fundamental apresentar argumentos lógicos e embasados em evidências para sustentar as decisões tomadas.
-7) Os estudos de caso sobre empreendedorismo e gestão empresarial podem abordar desde pequenos negócios até grandes corporações.
-8) Os estudos de caso fornecem um ambiente simulado para que os candidatos demonstrem suas habilidades de gestão e capacidade de resolver problemas.
-9) Os estudos de caso são uma maneira eficaz de avaliar as habilidades práticas dos candidatos em situações reais de negócios.
-10) Na resolução de um estudo de caso, é importante considerar tanto os aspectos estratégicos quanto os operacionais da empresa envolvida.
+1. Os estudos de caso são uma metodologia utilizada para analisar situações reais de empreendedorismo e gestão empresarial.
+2. Os estudos de caso envolvem uma descrição detalhada de uma situação específica, permitindo que os candidatos avaliem problemas, tomem decisões e apresentem soluções.
+3. Os estudos de caso proporcionam aos candidatos a oportunidade de aplicar conceitos teóricos aprendidos em situações práticas.
+4. Na elaboração de um estudo de caso, é importante identificar corretamente os problemas e desafios enfrentados pela empresa analisada.
+5. Os estudos de caso requerem uma análise aprofundada, integrando informações de diferentes áreas como marketing, finanças e recursos humanos.
+6. Na resolução de um estudo de caso, é fundamental apresentar argumentos lógicos e embasados em evidências para sustentar as decisões tomadas.
+7. Os estudos de caso sobre empreendedorismo e gestão empresarial podem abordar desde pequenos negócios até grandes corporações.
+8. Os estudos de caso fornecem um ambiente simulado para que os candidatos demonstrem suas habilidades de gestão e capacidade de resolver problemas.
+9. Os estudos de caso são uma maneira eficaz de avaliar as habilidades práticas dos candidatos em situações reais de negócios.
+10. Na resolução de um estudo de caso, é importante considerar tanto os aspectos estratégicos quanto os operacionais da empresa envolvida.
 
 
 Item do edital: 7.3 NIST CyberSecurity Framework -NIST CSF-.    
@@ -3498,16 +3498,16 @@ Assertivas:
 3. Subtópico:
 3. Criptografia aplicada à proteção de dados em trânsito.
 Assertivas:
-1) A criptografia é um conjunto de técnicas que visa proteger os dados em trânsito, ou seja, durante sua comunicação entre remetente e destinatário.
-2) A criptografia utiliza algoritmos matemáticos para converter os dados em formato ilegível, garantindo assim a confidencialidade das informações.
-3) A criptografia de dados em trânsito é essencial para garantir a segurança de transações bancárias online, evitando ataques de interceptação de dados.
-4) A criptografia de dados em trânsito também é fundamental para garantir a proteção da privacidade em comunicações de alto sigilo, como no caso de troca de informações sensíveis em governos.
-5) Existem diferentes protocolos de criptografia utilizados em redes de computadores, como o SSL/TLS, que são amplamente adotados para proteger a integridade e a confidencialidade dos dados em trânsito.
-6) A criptografia assimétrica é uma técnica utilizada na proteção de dados em trânsito, que envolve o uso de um par de chaves, uma pública e outra privada, para criptografar e descriptografar os dados.
-7) A criptografia simétrica é outra técnica utilizada na proteção de dados em trânsito, em que a mesma chave é utilizada tanto para criptografar quanto para descriptografar os dados.
-8) A segurança dos algoritmos criptográficos utilizados na proteção de dados em trânsito depende da robustez matemática e da impossibilidade de quebrar a chave criptográfica em um tempo viável.
-9) A proteção de dados em trânsito também envolve a utilização de autenticação para garantir que as informações são enviadas e recebidas por entidades legítimas.
-10) A criptografia aplicada à proteção de dados em trânsito desempenha um papel fundamental na segurança da informação, uma vez que impede que pessoas mal-intencionadas tenham acesso e possam explorar os dados sensíveis trafegados em redes de computadores.
+1. A criptografia é um conjunto de técnicas que visa proteger os dados em trânsito, ou seja, durante sua comunicação entre remetente e destinatário.
+2. A criptografia utiliza algoritmos matemáticos para converter os dados em formato ilegível, garantindo assim a confidencialidade das informações.
+3. A criptografia de dados em trânsito é essencial para garantir a segurança de transações bancárias online, evitando ataques de interceptação de dados.
+4. A criptografia de dados em trânsito também é fundamental para garantir a proteção da privacidade em comunicações de alto sigilo, como no caso de troca de informações sensíveis em governos.
+5. Existem diferentes protocolos de criptografia utilizados em redes de computadores, como o SSL/TLS, que são amplamente adotados para proteger a integridade e a confidencialidade dos dados em trânsito.
+6. A criptografia assimétrica é uma técnica utilizada na proteção de dados em trânsito, que envolve o uso de um par de chaves, uma pública e outra privada, para criptografar e descriptografar os dados.
+7. A criptografia simétrica é outra técnica utilizada na proteção de dados em trânsito, em que a mesma chave é utilizada tanto para criptografar quanto para descriptografar os dados.
+8. A segurança dos algoritmos criptográficos utilizados na proteção de dados em trânsito depende da robustez matemática e da impossibilidade de quebrar a chave criptográfica em um tempo viável.
+9. A proteção de dados em trânsito também envolve a utilização de autenticação para garantir que as informações são enviadas e recebidas por entidades legítimas.
+10. A criptografia aplicada à proteção de dados em trânsito desempenha um papel fundamental na segurança da informação, uma vez que impede que pessoas mal-intencionadas tenham acesso e possam explorar os dados sensíveis trafegados em redes de computadores.
 
 4. Subtópico:
 4. Autenticação e integridade dos dados durante o trânsito.
@@ -3739,7 +3739,7 @@ Assertivas:
 Assertivas: 1. A transparência na Administração Pública é um princípio fundamental para garantir o acesso à informação por parte da sociedade.
 2. A prestação de contas é um dever da Administração Pública para garantir transparência e responsabilidade na utilização dos recursos públicos.
 3. A participação social é um mecanismo importante para promover o controle social e a colaboração da sociedade na tomada de decisões governamentais.
-4. A Lei de Acesso à Informação (Lei nº 12.527/2011) garante o direito de toda pessoa, física ou jurídica, de solicitar e receber informações de órgãos e entidades públicas.
+4. A Lei de Acesso à Informação (Lei nº 12.527/2011. garante o direito de toda pessoa, física ou jurídica, de solicitar e receber informações de órgãos e entidades públicas.
 5. O Portal da Transparência é uma ferramenta digital que disponibiliza informações sobre gastos públicos, contratos, licitações e outros dados relacionados à Administração Pública.
 6. A transparência na Administração Pública contribui para evitar a corrupção e o mau uso dos recursos públicos.
 7. A prestação de contas se realiza por meio de relatórios, balancetes, demonstrações financeiras e outros instrumentos de controle financeiro.
@@ -3750,7 +3750,7 @@ Assertivas: 1. A transparência na Administração Pública é um princípio fun
 4. Subtópico: 4. Responsabilidade na Administração Pública: punição por atos ilícitos e garantia de responsabilidade dos gestores públicos.
 Assertivas: 1. A responsabilidade na administração pública é assegurada pela Constituição Federal, que determina a punição por atos ilícitos cometidos por gestores públicos.
 2. A responsabilidade dos gestores públicos abrange tanto a esfera civil como a esfera penal, podendo resultar em indenizações e até mesmo em prisão.
-3. A Lei de Improbidade Administrativa (Lei nº 8.429/1992) estabelece as normas para a responsabilização de gestores públicos que praticam atos ilegais, visando a proteção do patrimônio público.
+3. A Lei de Improbidade Administrativa (Lei nº 8.429/1992. estabelece as normas para a responsabilização de gestores públicos que praticam atos ilegais, visando a proteção do patrimônio público.
 4. Os gestores públicos são responsáveis pela boa gestão dos recursos financeiros e patrimoniais do Estado, estando sujeitos a punições caso violem os princípios da administração pública.
 5. A responsabilidade dos gestores públicos é objetiva, ou seja, independente de existência de culpa, bastando a comprovação do dano e do nexo causal.
 6. A responsabilidade dos gestores públicos se estende aos agentes públicos que estejam sob sua subordinação ou supervisão, garantindo uma ampla proteção ao patrimônio público.
@@ -3863,16 +3863,16 @@ Assertivas:
 3. Subtópico: 
 1.1.3 Órgãos da Administração Direta: estrutura e atribuições.
 Assertivas: 
-1) Os órgãos da Administração Direta são parte da estrutura de execução das políticas públicas do Estado.
-2) São exemplos de órgãos da Administração Direta os ministérios, secretarias e autarquias.
-3) Os órgãos da Administração Direta têm atribuições específicas de acordo com a área de atuação de cada um.
-4) A estrutura dos órgãos da Administração Direta pode variar de acordo com a necessidade e organização de cada setor.
-5) Os órgãos da Administração Direta têm a responsabilidade de implementar as políticas públicas de acordo com as diretrizes estabelecidas.
-6) É de competência dos órgãos da Administração Direta a prestação de serviços públicos e o exercício de atividades administrativas.
-7) Os órgãos da Administração Direta são responsáveis pela gestão e utilização dos recursos públicos.
-8) Os órgãos da Administração Direta estão vinculados diretamente ao poder executivo.
-9) Os órgãos da Administração Direta constituem a estrutura básica do Estado, sendo responsáveis pelo desenvolvimento e implementação de políticas públicas.
-10) Os órgãos da Administração Direta são fundamentais para o funcionamento adequado e eficiente do serviço público.
+1. Os órgãos da Administração Direta são parte da estrutura de execução das políticas públicas do Estado.
+2. São exemplos de órgãos da Administração Direta os ministérios, secretarias e autarquias.
+3. Os órgãos da Administração Direta têm atribuições específicas de acordo com a área de atuação de cada um.
+4. A estrutura dos órgãos da Administração Direta pode variar de acordo com a necessidade e organização de cada setor.
+5. Os órgãos da Administração Direta têm a responsabilidade de implementar as políticas públicas de acordo com as diretrizes estabelecidas.
+6. É de competência dos órgãos da Administração Direta a prestação de serviços públicos e o exercício de atividades administrativas.
+7. Os órgãos da Administração Direta são responsáveis pela gestão e utilização dos recursos públicos.
+8. Os órgãos da Administração Direta estão vinculados diretamente ao poder executivo.
+9. Os órgãos da Administração Direta constituem a estrutura básica do Estado, sendo responsáveis pelo desenvolvimento e implementação de políticas públicas.
+10. Os órgãos da Administração Direta são fundamentais para o funcionamento adequado e eficiente do serviço público.
 
 4. Subtópico: 
 1.1.4 Entidades da Administração Indireta: tipos e finalidades.
@@ -3891,16 +3891,16 @@ Assertivas:
 5. Subtópico: 
 1.1.5 Autarquias: definição e exemplos.
 Assertivas: 
-1) Autarquias são entidades da administração pública indireta, criadas por lei, com personalidade jurídica própria e autonomia administrativa e financeira.
-2) Elas são responsáveis por exercer atividades de interesse público, de forma descentralizada, como se fossem uma extensão do poder central.
-3) As autarquias possuem regime jurídico especial, estabelecido em lei específica.
-4) Elas estão sujeitas ao controle e fiscalização dos órgãos de controle interno e externo.
-5) O mais famoso exemplo de autarquia no Brasil é o Instituto Nacional do Seguro Social (INSS), responsável pelo pagamento de aposentadorias e benefícios previdenciários.
-6) Outro exemplo é a Agência Nacional de Energia Elétrica (ANEEL), que regula o setor energético no país.
-7) O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA) também é uma autarquia, encarregada da fiscalização e proteção do meio ambiente.
-8) A Fundação Instituto Brasileiro de Geografia e Estatística (IBGE) é uma autarquia que realiza pesquisas e produz dados estatísticos para o país.
-9) As universidades federais, como a Universidade de Brasília (UnB), são autarquias responsáveis pela gestão do ensino superior público.
-10) O Serviço Federal de Processamento de Dados (SERPRO) é uma autarquia que presta serviços de tecnologia da informação para órgãos públicos.
+1. Autarquias são entidades da administração pública indireta, criadas por lei, com personalidade jurídica própria e autonomia administrativa e financeira.
+2. Elas são responsáveis por exercer atividades de interesse público, de forma descentralizada, como se fossem uma extensão do poder central.
+3. As autarquias possuem regime jurídico especial, estabelecido em lei específica.
+4. Elas estão sujeitas ao controle e fiscalização dos órgãos de controle interno e externo.
+5. O mais famoso exemplo de autarquia no Brasil é o Instituto Nacional do Seguro Social (INSS), responsável pelo pagamento de aposentadorias e benefícios previdenciários.
+6. Outro exemplo é a Agência Nacional de Energia Elétrica (ANEEL), que regula o setor energético no país.
+7. O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA) também é uma autarquia, encarregada da fiscalização e proteção do meio ambiente.
+8. A Fundação Instituto Brasileiro de Geografia e Estatística (IBGE) é uma autarquia que realiza pesquisas e produz dados estatísticos para o país.
+9. As universidades federais, como a Universidade de Brasília (UnB), são autarquias responsáveis pela gestão do ensino superior público.
+10. O Serviço Federal de Processamento de Dados (SERPRO) é uma autarquia que presta serviços de tecnologia da informação para órgãos públicos.
 
 6. Subtópico: 
 1.1.6 Empresas Públicas: definição e exemplos.
@@ -4299,16 +4299,16 @@ Assertivas:
 4. Subtópico: 
 4. A disciplina no ambiente de trabalho
 Assertivas:
- 1) A disciplina no ambiente de trabalho é fundamental para manter a harmonia e produtividade.
-2) A disciplina contribui para o cumprimento das metas e prazos estabelecidos.
-3) A disciplina no ambiente de trabalho evita conflitos e promove o respeito mútuo entre os colaboradores.
-4) A disciplina auxilia no desenvolvimento de uma cultura de responsabilidade e comprometimento.
-5) A disciplina no ambiente de trabalho implica na observância das regras e normas internas da organização.
-6) A disciplina favorece a construção de um clima organizacional saudável e motivador.
-7) A disciplina promove a eficiência e eficácia das atividades realizadas.
-8) A disciplina requer o cumprimento rigoroso dos horários de trabalho.
-9) A disciplina no ambiente de trabalho exige a pontualidade e cumprimento de prazos e compromissos.
-10) A disciplina contribui para a construção de uma imagem profissional positiva e confiável.
+ 1. A disciplina no ambiente de trabalho é fundamental para manter a harmonia e produtividade.
+2. A disciplina contribui para o cumprimento das metas e prazos estabelecidos.
+3. A disciplina no ambiente de trabalho evita conflitos e promove o respeito mútuo entre os colaboradores.
+4. A disciplina auxilia no desenvolvimento de uma cultura de responsabilidade e comprometimento.
+5. A disciplina no ambiente de trabalho implica na observância das regras e normas internas da organização.
+6. A disciplina favorece a construção de um clima organizacional saudável e motivador.
+7. A disciplina promove a eficiência e eficácia das atividades realizadas.
+8. A disciplina requer o cumprimento rigoroso dos horários de trabalho.
+9. A disciplina no ambiente de trabalho exige a pontualidade e cumprimento de prazos e compromissos.
+10. A disciplina contribui para a construção de uma imagem profissional positiva e confiável.
 
 5. Subtópico: 
 5. Técnicas eficazes para implementar a disciplina
@@ -4915,7 +4915,7 @@ Assertivas:
  1. A Guerra dos Cem Anos foi um caso histórico de abuso de poder por parte dos monarcas franceses e ingleses, resultando em décadas de conflito e devastação.
 2. O regime nazista liderado por Adolf Hitler na Alemanha é um exemplo de uso extremo e abuso de poder, resultando em perseguição, genocídio e a Segunda Guerra Mundial.
 3. O período da escravidão no Brasil foi um caso histórico de abuso de poder, no qual os senhores de escravos exerciam total controle sobre a vida e o trabalho dos escravizados.
-4. A Ditadura Militar no Brasil (1964-1985) é um exemplo de abuso de poder, com censura à imprensa, perseguições políticas e violações dos direitos humanos.
+4. A Ditadura Militar no Brasil (1964-1985. é um exemplo de abuso de poder, com censura à imprensa, perseguições políticas e violações dos direitos humanos.
 5. A Revolução Russa de 1917 levou ao abuso de poder do Estado Soviético, resultando em repressão política, perseguições e gulags.
 6. A Inquisição Espanhola foi um caso histórico no qual a Igreja Católica abusou de poder, perseguindo e torturando aqueles considerados hereges.
 7. O regime do Khmer Vermelho no Camboja, liderado por Pol Pot, é um exemplo de abuso de poder, resultando no genocídio de milhares de pessoas e na destruição cultural e social do país.
@@ -5027,7 +5027,7 @@ Assertivas:
 10. O Regime Jurídico dos Servidores Públicos Civis permite a aplicação de sanções disciplinares, como a demissão e suspensão, em casos de infrações cometidas pelos servidores.
 
 6. Subtópico:
-6. Processo Administrativo Federal (Lei nº 9.784/99)
+6. Processo Administrativo Federal (Lei nº 9.784/99.
 Assertivas:
 1. O processo administrativo federal foi regulamentado pela Lei nº 9.784/99.
 2. O processo administrativo federal abrange os órgãos e entidades da administração pública direta e indireta.
@@ -5243,16 +5243,16 @@ Assertivas:
 2. Subtópico:
 2. Criação e extinção de Autarquias
 Assertivas:
-1) A criação e extinção de autarquias são de competência exclusiva da União, sendo regulamentadas por lei específica.
-2) A criação de uma autarquia visa conferir maior autonomia e eficiência no desempenho de determinada função pública.
-3) A extinção de uma autarquia pode ocorrer devido à ineficiência em seu funcionamento ou à falta de necessidade da sua existência.
-4) A criação de uma autarquia requer a existência de uma lei que aporte os recursos necessários para seu funcionamento.
-5) A extinção de uma autarquia requer o cumprimento de requisitos legais, como a notificação prévia aos servidores e a transferência das atribuições exercidas por ela.
-6) A criação de uma autarquia pode ocorrer em qualquer esfera de governo: federal, estadual ou municipal.
-7) A extinção de uma autarquia requer decisão discricionária do órgão responsável pela administração pública.
-8) A criação de uma autarquia exige a definição de sua competência e abrangência de atuação.
-9) A extinção de uma autarquia pode gerar impactos na prestação de serviços públicos, sendo necessária uma transição adequada para evitar prejuízos.
-10) A criação e extinção de autarquias devem obedecer aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.
+1. A criação e extinção de autarquias são de competência exclusiva da União, sendo regulamentadas por lei específica.
+2. A criação de uma autarquia visa conferir maior autonomia e eficiência no desempenho de determinada função pública.
+3. A extinção de uma autarquia pode ocorrer devido à ineficiência em seu funcionamento ou à falta de necessidade da sua existência.
+4. A criação de uma autarquia requer a existência de uma lei que aporte os recursos necessários para seu funcionamento.
+5. A extinção de uma autarquia requer o cumprimento de requisitos legais, como a notificação prévia aos servidores e a transferência das atribuições exercidas por ela.
+6. A criação de uma autarquia pode ocorrer em qualquer esfera de governo: federal, estadual ou municipal.
+7. A extinção de uma autarquia requer decisão discricionária do órgão responsável pela administração pública.
+8. A criação de uma autarquia exige a definição de sua competência e abrangência de atuação.
+9. A extinção de uma autarquia pode gerar impactos na prestação de serviços públicos, sendo necessária uma transição adequada para evitar prejuízos.
+10. A criação e extinção de autarquias devem obedecer aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.
 
 3. Subtópico:
 3. Classificação das Autarquias: autarquias comuns, autarquias especiais e agências executivas
@@ -5639,7 +5639,7 @@ Assertivas:
 5. A celebração de contratos de gestão nas agências executivas tem como principal finalidade conferir maior segurança jurídica nas relações entre o Estado e a entidade executora.
 
 6. Subtópico:
-6. Legislação aplicável às Agências Executivas (Lei nº 9.649/1998)
+6. Legislação aplicável às Agências Executivas (Lei nº 9.649/1998.
 Assertivas:
 1. A Lei nº 9.649/1998 estabelece disposições sobre a organização e o funcionamento das Agências Executivas.
 2. As Agências Executivas são órgãos integrantes da administração pública indireta e têm autonomia administrativa e financeira.
@@ -6124,16 +6124,16 @@ Assertivas:
 6. Subtópico:
 6. Convalidação e conversão de atos administrativos.
 Assertivas:
-1) A convalidação de um ato administrativo ocorre quando um ato, inicialmente viciado, é sanado e adquire validade retroativa.
-2) A convalidação de um ato administrativo não é possível quando o vício é insanável ou quando atinge direitos de terceiros de forma irremediável.
-3) A conversão de atos administrativos consiste na modificação de um ato inválido em outro ato válido, preservando os efeitos jurídicos já produzidos.
-4) A conversão de atos administrativos pode ocorrer de ofício pela própria administração ou a pedido do interessado.
-5) A convalidação de atos administrativos é passível de controle judicial para verificar a legalidade do ato convalidado.
-6) A conversão de atos administrativos é um instituto que visa aprimorar as decisões da administração, corrigindo eventual vício que possa ter ocorrido.
-7) A convalidação de atos administrativos pode ser realizada tanto para atos vinculados como para atos discricionários.
-8) A conversão de atos administrativos é uma prerrogativa da administração pública, visando a eficiência e a legalidade dos atos praticados.
-9) A convalidação de atos administrativos produz efeitos ex nunc, ou seja, a partir do momento da sua convalidação.
-10) A conversão de atos administrativos não pode alterar os direitos dos terceiros de boa-fé, preservando os efeitos já produzidos em relação a eles.
+1. A convalidação de um ato administrativo ocorre quando um ato, inicialmente viciado, é sanado e adquire validade retroativa.
+2. A convalidação de um ato administrativo não é possível quando o vício é insanável ou quando atinge direitos de terceiros de forma irremediável.
+3. A conversão de atos administrativos consiste na modificação de um ato inválido em outro ato válido, preservando os efeitos jurídicos já produzidos.
+4. A conversão de atos administrativos pode ocorrer de ofício pela própria administração ou a pedido do interessado.
+5. A convalidação de atos administrativos é passível de controle judicial para verificar a legalidade do ato convalidado.
+6. A conversão de atos administrativos é um instituto que visa aprimorar as decisões da administração, corrigindo eventual vício que possa ter ocorrido.
+7. A convalidação de atos administrativos pode ser realizada tanto para atos vinculados como para atos discricionários.
+8. A conversão de atos administrativos é uma prerrogativa da administração pública, visando a eficiência e a legalidade dos atos praticados.
+9. A convalidação de atos administrativos produz efeitos ex nunc, ou seja, a partir do momento da sua convalidação.
+10. A conversão de atos administrativos não pode alterar os direitos dos terceiros de boa-fé, preservando os efeitos já produzidos em relação a eles.
 
 7. Subtópico:
 7. Atos Administrativos discricionários e vinculados: conceito, diferenças e limitações.
@@ -6982,7 +6982,7 @@ Assertivas:
 2. O deflator do PIB é utilizado para ajustar os valores monetários do PIB nominal para os valores reais, descontando a influência da variação de preços.
 3. O deflator do PIB é calculado dividindo o PIB nominal pelo PIB real e multiplicando por 100.
 4. A inflação é a elevação contínua e generalizada dos preços de bens e serviços em uma economia ao longo do tempo.
-5. A inflação pode ser medida por meio de diferentes índices, como o Índice de Preços ao Consumidor (IPCA) e o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15).
+5. A inflação pode ser medida por meio de diferentes índices, como o Índice de Preços ao Consumidor (IPCA) e o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15..
 6. A inflação de demanda ocorre quando há excesso de demanda por bens e serviços em relação à capacidade de produção.
 7. A inflação de oferta ocorre quando há um aumento nos custos de produção, como salários e matérias-primas, que é repassado aos preços dos produtos.
 8. Quando o deflator do PIB aumenta, indica-se um aumento no nível geral de preços na economia, ou seja, há inflação.
@@ -7496,16 +7496,16 @@ Assertivas:
 5. Subtópico:
 5. Consequências legais para a destruição ilegal das moedas.
 Assertivas:
-1) A destruição ilegal das moedas é considerada crime, conforme previsto na legislação brasileira.
-2) A prática de destruir moedas irresponsavelmente pode resultar em processos judiciais.
-3) A legislação brasileira estabelece penalidades para aqueles que destruírem moedas públicas.
-4) As consequências legais para a destruição ilegal de moedas podem incluir multas e até mesmo reclusão.
-5) O Código Penal prevê sanções para aqueles que danificarem, inutilizarem ou subtraírem moedas em curso legal. 
-6) O crime de destruição ilegal de moedas pode ser enquadrado no artigo 163 do Código Penal.
-7) A responsabilidade civil também pode ser atribuída àqueles que danificarem ou destruírem moedas ilegalmente.
-8) Além das penalidades previstas, o infrator pode ser obrigado a indenizar os prejuízos causados pela destruição ilegal das moedas.
-9) A ação de destruir moedas irá de encontro ao princípio constitucional da preservação do patrimônio público.
-10) O Banco Central do Brasil, como regulador do sistema financeiro, também pode aplicar sanções administrativas aos infratores da destruição ilegal de moedas.
+1. A destruição ilegal das moedas é considerada crime, conforme previsto na legislação brasileira.
+2. A prática de destruir moedas irresponsavelmente pode resultar em processos judiciais.
+3. A legislação brasileira estabelece penalidades para aqueles que destruírem moedas públicas.
+4. As consequências legais para a destruição ilegal de moedas podem incluir multas e até mesmo reclusão.
+5. O Código Penal prevê sanções para aqueles que danificarem, inutilizarem ou subtraírem moedas em curso legal. 
+6. O crime de destruição ilegal de moedas pode ser enquadrado no artigo 163 do Código Penal.
+7. A responsabilidade civil também pode ser atribuída àqueles que danificarem ou destruírem moedas ilegalmente.
+8. Além das penalidades previstas, o infrator pode ser obrigado a indenizar os prejuízos causados pela destruição ilegal das moedas.
+9. A ação de destruir moedas irá de encontro ao princípio constitucional da preservação do patrimônio público.
+10. O Banco Central do Brasil, como regulador do sistema financeiro, também pode aplicar sanções administrativas aos infratores da destruição ilegal de moedas.
 
 6. Subtópico:
 6. Diferença entre desmonetização e destruição da moeda.
@@ -7578,16 +7578,16 @@ Assertivas:
 2. Subtópico:
 2. Estrutura do Sistema Monetário Nacional
 Assertivas:
-1) A estrutura do Sistema Monetário Nacional é regulada pelo Banco Central do Brasil, órgão responsável por formular e executar a política monetária.
-2) O Sistema Monetário Nacional é composto por diversas instituições financeiras, dentre elas: Bancos Comerciais, Bancos Múltiplos, Bancos de Desenvolvimento e Cooperativas de Crédito.
-3) O Banco Central do Brasil tem como função principal promover a estabilidade do valor da moeda e o funcionamento eficiente do Sistema Monetário Nacional.
-4) O Sistema Monetário Nacional é responsável por regular a emissão de moeda fiduciária, assim como a gestão das reservas internacionais do país.
-5) As instituições financeiras que compõem o Sistema Monetário Nacional são supervisionadas e fiscalizadas pelo Banco Central do Brasil, visando garantir a estabilidade e a solidez do sistema financeiro.
-6) O Conselho Monetário Nacional é a autoridade máxima do Sistema Monetário Nacional, sendo responsável por definir diretrizes e normas relacionadas à política monetária e ao sistema financeiro.
-7) A principal finalidade do Sistema Monetário Nacional é promover a estabilidade de preços e o equilíbrio entre oferta e demanda de moeda, visando uma economia saudável e sustentável.
-8) O Banco Central do Brasil atua como o "banco dos bancos" no Sistema Monetário Nacional, oferecendo serviços de compensação de cheques e transferências eletrônicas entre as instituições financeiras.
-9) O Sistema Monetário Nacional também tem como objetivo fomentar o desenvolvimento econômico do país, por meio de instrumentos e políticas monetárias adequadas.
-10) A estrutura do Sistema Monetário Nacional prevê a existência de um Sistema de Pagamentos Brasileiro, responsável por garantir a eficiência e segurança das transações financeiras realizadas entre as instituições.
+1. A estrutura do Sistema Monetário Nacional é regulada pelo Banco Central do Brasil, órgão responsável por formular e executar a política monetária.
+2. O Sistema Monetário Nacional é composto por diversas instituições financeiras, dentre elas: Bancos Comerciais, Bancos Múltiplos, Bancos de Desenvolvimento e Cooperativas de Crédito.
+3. O Banco Central do Brasil tem como função principal promover a estabilidade do valor da moeda e o funcionamento eficiente do Sistema Monetário Nacional.
+4. O Sistema Monetário Nacional é responsável por regular a emissão de moeda fiduciária, assim como a gestão das reservas internacionais do país.
+5. As instituições financeiras que compõem o Sistema Monetário Nacional são supervisionadas e fiscalizadas pelo Banco Central do Brasil, visando garantir a estabilidade e a solidez do sistema financeiro.
+6. O Conselho Monetário Nacional é a autoridade máxima do Sistema Monetário Nacional, sendo responsável por definir diretrizes e normas relacionadas à política monetária e ao sistema financeiro.
+7. A principal finalidade do Sistema Monetário Nacional é promover a estabilidade de preços e o equilíbrio entre oferta e demanda de moeda, visando uma economia saudável e sustentável.
+8. O Banco Central do Brasil atua como o "banco dos bancos" no Sistema Monetário Nacional, oferecendo serviços de compensação de cheques e transferências eletrônicas entre as instituições financeiras.
+9. O Sistema Monetário Nacional também tem como objetivo fomentar o desenvolvimento econômico do país, por meio de instrumentos e políticas monetárias adequadas.
+10. A estrutura do Sistema Monetário Nacional prevê a existência de um Sistema de Pagamentos Brasileiro, responsável por garantir a eficiência e segurança das transações financeiras realizadas entre as instituições.
 
 3. Subtópico:
 3. Papel dos Bancos no Sistema Monetário
@@ -8153,16 +8153,16 @@ Assertivas:
 3. Subtópico:
 3. Estruturas de Mercado: Concorrência Perfeita, Monopólio e Oligopólio
 Assertivas:
-1) Na concorrência perfeita, há um grande número de empresas atuando no mercado, com produtos homogêneos e livre entrada e saída de empresas.
-2) A concorrência perfeita é um tipo de estrutura de mercado em que as empresas são preços tomadores, ou seja, não têm poder de influenciar o preço de mercado.
-3) No monopólio, há apenas uma empresa atuando no mercado, sem concorrência direta, o que lhe confere poder de influenciar o preço.
-4) Os monopólios podem ocorrer quando há barreiras à entrada de novas empresas no mercado, como patentes exclusivas ou controle de recursos essenciais.
-5) O oligopólio é uma estrutura de mercado em que poucas empresas dominam a oferta de produtos ou serviços, podendo haver uma interdependência estratégica entre elas.
-6) No oligopólio, as empresas têm poder de influenciar o preço e podem utilizar estratégias como fixação de cartéis para aumentar seus lucros.
-7) As estruturas de mercado têm grande influência na dinâmica do mercado, afetando a competição, a formação de preços e a inovação.
-8) A concorrência perfeita é considerada o modelo teórico mais eficiente em termos de bem-estar econômico, pois maximiza a produção e minimiza os preços.
-9) O monopólio pode levar a preços mais altos e menor quantidade de bens ou serviços produzidos, resultando em menor bem-estar social.
-10) O oligopólio pode gerar comportamento estratégico entre as empresas, como a competição em preço, a diferenciação de produtos ou a inovação, podendo impactar o mercado de forma significativa.
+1. Na concorrência perfeita, há um grande número de empresas atuando no mercado, com produtos homogêneos e livre entrada e saída de empresas.
+2. A concorrência perfeita é um tipo de estrutura de mercado em que as empresas são preços tomadores, ou seja, não têm poder de influenciar o preço de mercado.
+3. No monopólio, há apenas uma empresa atuando no mercado, sem concorrência direta, o que lhe confere poder de influenciar o preço.
+4. Os monopólios podem ocorrer quando há barreiras à entrada de novas empresas no mercado, como patentes exclusivas ou controle de recursos essenciais.
+5. O oligopólio é uma estrutura de mercado em que poucas empresas dominam a oferta de produtos ou serviços, podendo haver uma interdependência estratégica entre elas.
+6. No oligopólio, as empresas têm poder de influenciar o preço e podem utilizar estratégias como fixação de cartéis para aumentar seus lucros.
+7. As estruturas de mercado têm grande influência na dinâmica do mercado, afetando a competição, a formação de preços e a inovação.
+8. A concorrência perfeita é considerada o modelo teórico mais eficiente em termos de bem-estar econômico, pois maximiza a produção e minimiza os preços.
+9. O monopólio pode levar a preços mais altos e menor quantidade de bens ou serviços produzidos, resultando em menor bem-estar social.
+10. O oligopólio pode gerar comportamento estratégico entre as empresas, como a competição em preço, a diferenciação de produtos ou a inovação, podendo impactar o mercado de forma significativa.
 
 4. Subtópico:
 4. Equilíbrio Geral e Bem-Estar Econômico
@@ -8401,7 +8401,7 @@ Assertivas:
 7. A formação de carteis ou acordos entre empresas para controlar o mercado e restringir a concorrência é considerada ilegal e abusiva em diversos países.
 8. A quebra de um monopólio pode ser benéfica para os consumidores, pois estimula a competição, reduz preços e proporciona maior variedade de escolha.
 9. O monopólio natural pode ser justificado pela existência de economias de escala, que resultam em uma produção mais eficiente e menores custos para a sociedade.
-10. A legislação brasileira busca proteger o consumidor e coibir práticas monopolistas, como a Lei Antitruste (Lei nº 8.884/1994), que prevê punições para empresas que abusem de sua posição dominante no mercado.
+10. A legislação brasileira busca proteger o consumidor e coibir práticas monopolistas, como a Lei Antitruste (Lei nº 8.884/1994., que prevê punições para empresas que abusem de sua posição dominante no mercado.
 
 4. Subtópico:
 4. Diferenças entre Oligopólio e Monopólio Competitivo
@@ -9627,16 +9627,16 @@ Assertivas:
 7. Subtópico:
 7. Análise dos Bens Normais, Inferiores e Giffen na Perspectiva do Equilíbrio do Consumidor
 Assertivas:
-1) A análise dos bens normais na perspectiva do equilíbrio do consumidor está relacionada ao comportamento do consumidor frente a variações do seu poder de compra.
-2) Bens normais são aqueles cuja demanda aumenta quando o rendimento do consumidor aumenta, mantendo-se constante o preço do bem.
-3) A curva de demanda de um bem normal é inclinada positivamente, refletindo a relação entre preço e quantidade demandada, quando o poder de compra do consumidor se mantém constante.
-4) A aquisição de bens superiores, como roupas de marca ou carros de luxo, estão frequentemente associadas ao comportamento dos bens normais na perspectiva do equilíbrio do consumidor.
-5) Bens inferiores são aqueles que possuem uma demanda inversamente relacionada ao aumento do poder de compra do consumidor.
-6) Exemplos de bens inferiores incluem alimentos de baixa qualidade, produtos genéricos e transporte público.
-7) A curva de demanda de bens inferiores é inclinada negativamente, indicando que o aumento do poder de compra do consumidor leva a uma redução na quantidade demandada do bem.
-8) Bens Giffen são uma categoria especial de bens inferiores em que a demanda aumenta quando o preço do bem aumenta, enquanto o poder de compra do consumidor permanece inalterado.
-9) O caso dos bens Giffen é considerado uma exceção à lei da demanda típica dos bens inferiores.
-10) Exemplos teóricos de bens Giffen incluem alimentos básicos, como arroz e batatas, em situações de extrema escassez, em que o aumento do preço desses alimentos leva a um aumento na demanda deles.
+1. A análise dos bens normais na perspectiva do equilíbrio do consumidor está relacionada ao comportamento do consumidor frente a variações do seu poder de compra.
+2. Bens normais são aqueles cuja demanda aumenta quando o rendimento do consumidor aumenta, mantendo-se constante o preço do bem.
+3. A curva de demanda de um bem normal é inclinada positivamente, refletindo a relação entre preço e quantidade demandada, quando o poder de compra do consumidor se mantém constante.
+4. A aquisição de bens superiores, como roupas de marca ou carros de luxo, estão frequentemente associadas ao comportamento dos bens normais na perspectiva do equilíbrio do consumidor.
+5. Bens inferiores são aqueles que possuem uma demanda inversamente relacionada ao aumento do poder de compra do consumidor.
+6. Exemplos de bens inferiores incluem alimentos de baixa qualidade, produtos genéricos e transporte público.
+7. A curva de demanda de bens inferiores é inclinada negativamente, indicando que o aumento do poder de compra do consumidor leva a uma redução na quantidade demandada do bem.
+8. Bens Giffen são uma categoria especial de bens inferiores em que a demanda aumenta quando o preço do bem aumenta, enquanto o poder de compra do consumidor permanece inalterado.
+9. O caso dos bens Giffen é considerado uma exceção à lei da demanda típica dos bens inferiores.
+10. Exemplos teóricos de bens Giffen incluem alimentos básicos, como arroz e batatas, em situações de extrema escassez, em que o aumento do preço desses alimentos leva a um aumento na demanda deles.
 
 8. Subtópico:
 8. Restrições Orçamentárias enfrentadas
@@ -10624,16 +10624,16 @@ Assertivas:
 7. Subtópico:
 7. Viés algorítmico, discriminação e justiça em IA 
 Assertivas:
-1) Os algoritmos de inteligência artificial podem conter viés, o que pode resultar em discriminação injusta contra determinados grupos.
-2) A discriminação algorítmica ocorre quando as decisões tomadas por sistemas de IA resultam em tratamentos injustos ou desigualdades com base em características como gênero, raça ou classe social.
-3) A presença de viés algorítmico pode dificultar a busca pela justiça em sistemas de IA, uma vez que decisões injustas podem ser tomadas de forma automatizada.
-4) É fundamental garantir que os algoritmos de inteligência artificial sejam desenvolvidos e treinados de forma a minimizar o viés e evitar a discriminação.
-5) A falta de diversidade nos conjuntos de dados utilizados para treinar algoritmos de IA pode levar a resultados discriminatórios, ampliando desigualdades e injustiças.
-6) A transparência dos algoritmos de IA é crucial para permitir a detecção e mitigação de viés e discriminação.
-7) A análise da justiça em sistemas de IA envolve a avaliação de critérios como igualdade de oportunidades, imparcialidade e equidade de tratamento.
-8) A compreensão dos viéses algorítmicos e dos mecanismos de discriminação em IA é essencial para a criação de políticas e regulamentações que visem evitar e corrigir injustiças.
-9) É necessário implementar medidas de auditoria e monitoramento contínuo dos sistemas de IA, a fim de identificar e corrigir possíveis discriminações algorítmicas.
-10) A busca pela justiça em sistemas de IA demanda uma abordagem multidisciplinar, que envolve não apenas especialistas em tecnologia, mas também profissionais das ciências sociais e jurídicas.
+1. Os algoritmos de inteligência artificial podem conter viés, o que pode resultar em discriminação injusta contra determinados grupos.
+2. A discriminação algorítmica ocorre quando as decisões tomadas por sistemas de IA resultam em tratamentos injustos ou desigualdades com base em características como gênero, raça ou classe social.
+3. A presença de viés algorítmico pode dificultar a busca pela justiça em sistemas de IA, uma vez que decisões injustas podem ser tomadas de forma automatizada.
+4. É fundamental garantir que os algoritmos de inteligência artificial sejam desenvolvidos e treinados de forma a minimizar o viés e evitar a discriminação.
+5. A falta de diversidade nos conjuntos de dados utilizados para treinar algoritmos de IA pode levar a resultados discriminatórios, ampliando desigualdades e injustiças.
+6. A transparência dos algoritmos de IA é crucial para permitir a detecção e mitigação de viés e discriminação.
+7. A análise da justiça em sistemas de IA envolve a avaliação de critérios como igualdade de oportunidades, imparcialidade e equidade de tratamento.
+8. A compreensão dos viéses algorítmicos e dos mecanismos de discriminação em IA é essencial para a criação de políticas e regulamentações que visem evitar e corrigir injustiças.
+9. É necessário implementar medidas de auditoria e monitoramento contínuo dos sistemas de IA, a fim de identificar e corrigir possíveis discriminações algorítmicas.
+10. A busca pela justiça em sistemas de IA demanda uma abordagem multidisciplinar, que envolve não apenas especialistas em tecnologia, mas também profissionais das ciências sociais e jurídicas.
 
 8. Subtópico:
 8. Regulamentações nacionais e internacionais sobre a ética em IA 
@@ -11233,30 +11233,30 @@ Assertivas:
 2. Subtópico:
 2. Componentes fundamentais do PLN: Morfologia, Sintaxe, Semântica e Pragmática
 Assertivas:
-1) A morfologia é responsável pelo estudo das unidades mínimas que compõem as palavras em um texto.
-2) A sintaxe é o campo da linguística que se concentra nas relações gramaticais entre as palavras em uma frase.
-3) A semântica se preocupa com o significado das palavras e como elas se relacionam entre si no contexto de um texto.
-4) A pragmática aborda o uso da linguagem em situações reais de comunicação, considerando fatores como intenção, contexto e inferências.
-5) Os componentes fundamentais do Processamento de Linguagem Natural (PLN) são a morfologia, a sintaxe, a semântica e a pragmática.
-6) O PLN utiliza esses componentes para processar e compreender a linguagem humana de forma automatizada.
-7) A morfologia permite identificar e analisar a estrutura das palavras em um texto, considerando seu radical, prefixo e sufixo.
-8) A sintaxe ajuda a identificar a função de cada palavra em uma frase, determinando relações como sujeito, verbo e complementos.
-9) A semântica permite relacionar as palavras em um texto, compreendendo seu significado individual e combinado.
-10) A pragmática considera o contexto em que uma frase é utilizada, incluindo aspectos como inferências, ironia e intenção comunicativa.
+1. A morfologia é responsável pelo estudo das unidades mínimas que compõem as palavras em um texto.
+2. A sintaxe é o campo da linguística que se concentra nas relações gramaticais entre as palavras em uma frase.
+3. A semântica se preocupa com o significado das palavras e como elas se relacionam entre si no contexto de um texto.
+4. A pragmática aborda o uso da linguagem em situações reais de comunicação, considerando fatores como intenção, contexto e inferências.
+5. Os componentes fundamentais do Processamento de Linguagem Natural (PLN) são a morfologia, a sintaxe, a semântica e a pragmática.
+6. O PLN utiliza esses componentes para processar e compreender a linguagem humana de forma automatizada.
+7. A morfologia permite identificar e analisar a estrutura das palavras em um texto, considerando seu radical, prefixo e sufixo.
+8. A sintaxe ajuda a identificar a função de cada palavra em uma frase, determinando relações como sujeito, verbo e complementos.
+9. A semântica permite relacionar as palavras em um texto, compreendendo seu significado individual e combinado.
+10. A pragmática considera o contexto em que uma frase é utilizada, incluindo aspectos como inferências, ironia e intenção comunicativa.
 
 3. Subtópico:
 3. Técnicas de Análise Léxica no PLN
 Assertivas:
-1) A análise léxica no Processamento de Linguagem Natural (PLN) é uma etapa fundamental para a compreensão de textos.
-2) As técnicas de análise léxica são responsáveis por identificar e classificar os elementos léxicos presentes em um texto.
-3) A análise léxica no PLN envolve a quebra do texto em unidades menores, como palavras e símbolos, chamados de tokens.
-4) Durante a análise léxica, são aplicadas regras gramaticais para identificação de padrões e estruturas linguísticas.
-5) A análise léxica é importante para lidar com desafios como ambiguidade e polissemia nas palavras de um texto.
-6) Um dos objetivos da análise léxica é construir uma representação estruturada das palavras encontradas, conhecida como léxico computacional.
-7) As técnicas de análise léxica podem ser utilizadas para tarefas como correção ortográfica e lematização de palavras.
-8) Durante a análise léxica, é comum o uso de algoritmos de tokenização para dividir o texto em unidades significativas.
-9) A análise léxica é um processo automático que utiliza recursos computacionais para agilizar a identificação e classificação das palavras.
-10) A análise léxica é uma etapa preliminar e essencial para o desenvolvimento de sistemas de PLN e compreensão da linguagem natural.
+1. A análise léxica no Processamento de Linguagem Natural (PLN) é uma etapa fundamental para a compreensão de textos.
+2. As técnicas de análise léxica são responsáveis por identificar e classificar os elementos léxicos presentes em um texto.
+3. A análise léxica no PLN envolve a quebra do texto em unidades menores, como palavras e símbolos, chamados de tokens.
+4. Durante a análise léxica, são aplicadas regras gramaticais para identificação de padrões e estruturas linguísticas.
+5. A análise léxica é importante para lidar com desafios como ambiguidade e polissemia nas palavras de um texto.
+6. Um dos objetivos da análise léxica é construir uma representação estruturada das palavras encontradas, conhecida como léxico computacional.
+7. As técnicas de análise léxica podem ser utilizadas para tarefas como correção ortográfica e lematização de palavras.
+8. Durante a análise léxica, é comum o uso de algoritmos de tokenização para dividir o texto em unidades significativas.
+9. A análise léxica é um processo automático que utiliza recursos computacionais para agilizar a identificação e classificação das palavras.
+10. A análise léxica é uma etapa preliminar e essencial para o desenvolvimento de sistemas de PLN e compreensão da linguagem natural.
 
 4. Subtópico:
 4. Algoritmos de Aprendizado de Máquina aplicados ao PLN
@@ -11419,30 +11419,30 @@ Assertivas:
 7. Subtópico:
 7. Inteligência Artificial (IA) e Machine Learning no Contexto do Big Data
 Assertivas:
-1) A Inteligência Artificial (IA) é uma área da computação que permite o desenvolvimento de sistemas capazes de simular a habilidade humana de raciocinar e tomar decisões.
-2) O Machine Learning, ou Aprendizado de Máquina, é uma subcategoria da IA que se baseia em algoritmos para treinar modelos a partir de grandes volumes de dados.
-3) O Big Data refere-se a conjuntos de dados extremamente volumosos e complexos, que não podem ser tratados de forma tradicional por ferramentas convencionais.
-4) A utilização de IA e Machine Learning no contexto do Big Data permite a extração de insights valiosos e a tomada de decisões mais precisas e eficientes.
-5) Algoritmos de Machine Learning podem ser aplicados na análise de dados do Big Data para identificar padrões e prever comportamentos futuros.
-6) A IA e o Machine Learning são fundamentais no contexto do Big Data para lidar com a enorme quantidade e variedade de informações disponíveis.
-7) A IA e o Machine Learning oferecem aos sistemas a capacidade de aprendizado contínuo, permitindo que se adaptem e melhorem suas capacidades ao longo do tempo.
-8) A integração da IA e o Machine Learning no trato do Big Data possibilita a automatização de tarefas, agilizando processos e reduzindo erros humanos.
-9) A utilização de modelos de IA e Machine Learning com Big Data traz benefícios para áreas como medicina, finanças, segurança e marketing, entre outras.
-10) As aplicações de IA e Machine Learning no contexto do Big Data estão em constante evolução e têm um grande potencial de transformação nos mais diversos setores da sociedade.
+1. A Inteligência Artificial (IA) é uma área da computação que permite o desenvolvimento de sistemas capazes de simular a habilidade humana de raciocinar e tomar decisões.
+2. O Machine Learning, ou Aprendizado de Máquina, é uma subcategoria da IA que se baseia em algoritmos para treinar modelos a partir de grandes volumes de dados.
+3. O Big Data refere-se a conjuntos de dados extremamente volumosos e complexos, que não podem ser tratados de forma tradicional por ferramentas convencionais.
+4. A utilização de IA e Machine Learning no contexto do Big Data permite a extração de insights valiosos e a tomada de decisões mais precisas e eficientes.
+5. Algoritmos de Machine Learning podem ser aplicados na análise de dados do Big Data para identificar padrões e prever comportamentos futuros.
+6. A IA e o Machine Learning são fundamentais no contexto do Big Data para lidar com a enorme quantidade e variedade de informações disponíveis.
+7. A IA e o Machine Learning oferecem aos sistemas a capacidade de aprendizado contínuo, permitindo que se adaptem e melhorem suas capacidades ao longo do tempo.
+8. A integração da IA e o Machine Learning no trato do Big Data possibilita a automatização de tarefas, agilizando processos e reduzindo erros humanos.
+9. A utilização de modelos de IA e Machine Learning com Big Data traz benefícios para áreas como medicina, finanças, segurança e marketing, entre outras.
+10. As aplicações de IA e Machine Learning no contexto do Big Data estão em constante evolução e têm um grande potencial de transformação nos mais diversos setores da sociedade.
 
 8. Subtópico:
 8. Técnicas de Min
 Assertivas:
-1) A mineração é uma atividade econômica que visa a extração de minerais e recursos do subsolo.
-2) A técnica de mineração mais comum é a mineração a céu aberto, que é realizada em grandes áreas de minas a partir da remoção da camada superficial de solo e rochas.
-3) A mineração subterrânea é uma técnica de mineração que envolve a extração de minerais a partir de cavidades subterrâneas.
-4) A mineração pode causar impactos ambientais significativos, como a degradação de ecossistemas, contaminação do solo e recursos hídricos.
-5) A recuperação de áreas degradadas pela mineração é um processo complexo e requer um planejamento cuidadoso para restaurar a biodiversidade e a qualidade do solo e da água.
-6) A mineração é uma atividade econômica importante para muitos países, contribuindo para o desenvolvimento econômico e a geração de empregos.
-7) A mineração de carvão é uma das formas mais antigas de mineração e ainda é utilizada em diversos países como fonte de energia.
-8) A mineração de metais preciosos, como ouro e prata, é uma indústria lucrativa e de grande interesse econômico.
-9) A exploração de minerais em terras indígenas é um tema controverso e levanta questões sobre direitos territoriais e proteção dos valores culturais e ambientais das comunidades indígenas.
-10) A gestão adequada dos resíduos gerados pela mineração é fundamental para minimizar os impactos ambientais e proteger a saúde das populações próximas às áreas de mineração.
+1. A mineração é uma atividade econômica que visa a extração de minerais e recursos do subsolo.
+2. A técnica de mineração mais comum é a mineração a céu aberto, que é realizada em grandes áreas de minas a partir da remoção da camada superficial de solo e rochas.
+3. A mineração subterrânea é uma técnica de mineração que envolve a extração de minerais a partir de cavidades subterrâneas.
+4. A mineração pode causar impactos ambientais significativos, como a degradação de ecossistemas, contaminação do solo e recursos hídricos.
+5. A recuperação de áreas degradadas pela mineração é um processo complexo e requer um planejamento cuidadoso para restaurar a biodiversidade e a qualidade do solo e da água.
+6. A mineração é uma atividade econômica importante para muitos países, contribuindo para o desenvolvimento econômico e a geração de empregos.
+7. A mineração de carvão é uma das formas mais antigas de mineração e ainda é utilizada em diversos países como fonte de energia.
+8. A mineração de metais preciosos, como ouro e prata, é uma indústria lucrativa e de grande interesse econômico.
+9. A exploração de minerais em terras indígenas é um tema controverso e levanta questões sobre direitos territoriais e proteção dos valores culturais e ambientais das comunidades indígenas.
+10. A gestão adequada dos resíduos gerados pela mineração é fundamental para minimizar os impactos ambientais e proteger a saúde das populações próximas às áreas de mineração.
 
 
 Item do edital: 5 Qualidade de Dados.    
@@ -12256,16 +12256,16 @@ Assertivas:
 2. Subtópico:
 2. Características Gerais dos 7 Grandes Modelos de Linguagem
 Assertivas:
-1) O modelo de linguagem de Chomsky, também conhecido como Gramática Gerativa, propõe a existência de regras universais que regem a estrutura das línguas naturais.
-2) O modelo de linguagem de Saussure, conhecido como Estruturalismo, enfoca a relação entre os elementos linguísticos a partir de sua organização em uma estrutura sistemática.
-3) O modelo de linguagem de Hymes, conhecido como Sociolinguística, considera os aspectos sociais e culturais envolvidos na comunicação e no uso das línguas.
-4) O modelo de linguagem de Halliday, conhecido como Funcionalismo, destaca a funcionalidade da linguagem e sua relação com as atividades comunicativas.
-5) O modelo de linguagem de Austin, conhecido como Pragmática, enfoca o estudo dos atos de fala e das intenções comunicativas por trás da linguagem.
-6) O modelo de linguagem de Labov, conhecido como Variação Linguística, busca entender como a linguagem varia de acordo com fatores sociais, regionais e situacionais.
-7) O modelo de linguagem de Piaget, conhecido como Construtivismo, enfoca o desenvolvimento da linguagem nas etapas do desenvolvimento cognitivo infantil.
-8) O modelo de linguagem de Vygotsky, conhecido como Sociointeracionismo, destaca a influência do contexto social e das interações sociais na aquisição e uso da linguagem.
-9) O modelo de linguagem de Dell Hymes, conhecido como Etnografia da Comunicação, investiga a relação entre a linguagem e a cultura em uma perspectiva antropológica.
-10) O modelo de linguagem de Searle, conhecido como Teoria dos Atos de Fala, aborda a linguagem como ação social e examina os diferentes tipos de atos comunicativos que podem ser realizados através da linguagem.
+1. O modelo de linguagem de Chomsky, também conhecido como Gramática Gerativa, propõe a existência de regras universais que regem a estrutura das línguas naturais.
+2. O modelo de linguagem de Saussure, conhecido como Estruturalismo, enfoca a relação entre os elementos linguísticos a partir de sua organização em uma estrutura sistemática.
+3. O modelo de linguagem de Hymes, conhecido como Sociolinguística, considera os aspectos sociais e culturais envolvidos na comunicação e no uso das línguas.
+4. O modelo de linguagem de Halliday, conhecido como Funcionalismo, destaca a funcionalidade da linguagem e sua relação com as atividades comunicativas.
+5. O modelo de linguagem de Austin, conhecido como Pragmática, enfoca o estudo dos atos de fala e das intenções comunicativas por trás da linguagem.
+6. O modelo de linguagem de Labov, conhecido como Variação Linguística, busca entender como a linguagem varia de acordo com fatores sociais, regionais e situacionais.
+7. O modelo de linguagem de Piaget, conhecido como Construtivismo, enfoca o desenvolvimento da linguagem nas etapas do desenvolvimento cognitivo infantil.
+8. O modelo de linguagem de Vygotsky, conhecido como Sociointeracionismo, destaca a influência do contexto social e das interações sociais na aquisição e uso da linguagem.
+9. O modelo de linguagem de Dell Hymes, conhecido como Etnografia da Comunicação, investiga a relação entre a linguagem e a cultura em uma perspectiva antropológica.
+10. O modelo de linguagem de Searle, conhecido como Teoria dos Atos de Fala, aborda a linguagem como ação social e examina os diferentes tipos de atos comunicativos que podem ser realizados através da linguagem.
 
 3. Subtópico:
 3. Modelo de Linguagem N-gramas: Conceito e Aplicações
@@ -12273,7 +12273,7 @@ Assertivas:
 1. O modelo de linguagem N-gramas é uma abordagem estatística para a previsão de palavras ou caracteres em um texto.
 2. O conceito de N-grama se refere a uma sequência contígua de N elementos (palavras, caracteres, fonemas) em um texto.
 3. O modelo de linguagem N-gramas é amplamente utilizado em tarefas de processamento de linguagem natural, como reconhecimento de fala, tradução automática e correção ortográfica.
-4. Os N-gramas podem ser unigramas (N=1), bigramas (N=2), trigramas (N=3) ou mais, dependendo do tamanho da sequência analisada.
+4. Os N-gramas podem ser unigramas (N=1., bigramas (N=2., trigramas (N=3. ou mais, dependendo do tamanho da sequência analisada.
 5. O modelo de linguagem N-gramas baseia-se na hipótese markoviana, que pressupõe que a probabilidade de ocorrência de uma palavra ou caractere depende apenas das N palavras ou caracteres anteriores.
 6. A aplicação do modelo de linguagem N-gramas envolve a construção de uma tabela de probabilidades condicionais com base em um corpus de treinamento.
 7. Por meio do modelo de linguagem N-gramas, é possível calcular a probabilidade de uma sequência de palavras ou caracteres ocorrer em um texto, auxiliando em tarefas como predição de palavras ou detecção de erros.
@@ -12399,25 +12399,25 @@ Assertivas:
 4. Subtópico:
 4. Diferença entre IA Generativa e Discriminativa.
 Assertivas:
-1) A inteligência artificial generativa é capaz de criar novos dados e informações, enquanto a discriminativa se concentra em classificar e identificar padrões existentes nos dados.
+1. A inteligência artificial generativa é capaz de criar novos dados e informações, enquanto a discriminativa se concentra em classificar e identificar padrões existentes nos dados.
 
-2) A IA generativa é frequentemente usada em tarefas como geração de texto, imagens e música, enquanto a discriminativa é amplamente aplicada em classificação de imagens, detecção de fraudes e tradução automática.
+2. A IA generativa é frequentemente usada em tarefas como geração de texto, imagens e música, enquanto a discriminativa é amplamente aplicada em classificação de imagens, detecção de fraudes e tradução automática.
 
-3) A IA generativa utiliza modelos probabilísticos e redes neurais generativas para aprender e gerar dados sintéticos, enquanto a discriminativa se baseia em algoritmos de aprendizado supervisionado para fazer previsões.
+3. A IA generativa utiliza modelos probabilísticos e redes neurais generativas para aprender e gerar dados sintéticos, enquanto a discriminativa se baseia em algoritmos de aprendizado supervisionado para fazer previsões.
 
-4) A IA generativa é mais criativa e gera resultados mais variados, mas a discrimativa possui maior capacidade de aprender com exemplos presentes nos dados de treinamento.
+4. A IA generativa é mais criativa e gera resultados mais variados, mas a discrimativa possui maior capacidade de aprender com exemplos presentes nos dados de treinamento.
 
-5) A IA generativa requer uma maior quantidade de dados de treinamento para alcançar bons resultados, enquanto a discriminativa pode atingir um bom desempenho mesmo com um conjunto de dados menor.
+5. A IA generativa requer uma maior quantidade de dados de treinamento para alcançar bons resultados, enquanto a discriminativa pode atingir um bom desempenho mesmo com um conjunto de dados menor.
 
-6) A IA generativa é mais adequada para tarefas de geração de conteúdo, como criação de roteiros de filmes, pinturas ou músicas originais, enquanto a discriminativa é mais útil para problemas onde é necessário reconhecer e classificar objetos ou características específicas.
+6. A IA generativa é mais adequada para tarefas de geração de conteúdo, como criação de roteiros de filmes, pinturas ou músicas originais, enquanto a discriminativa é mais útil para problemas onde é necessário reconhecer e classificar objetos ou características específicas.
 
-7) A IA generativa pode ser aplicada em áreas como criação de personagens virtuais e geração automática de resumos de texto, enquanto a discriminativa é utilizada em aplicações como reconhecimento facial e identificação de padrões de comportamento em grandes conjuntos de dados.
+7. A IA generativa pode ser aplicada em áreas como criação de personagens virtuais e geração automática de resumos de texto, enquanto a discriminativa é utilizada em aplicações como reconhecimento facial e identificação de padrões de comportamento em grandes conjuntos de dados.
 
-8) Ambas as abordagens, generativa e discriminativa, têm vantagens e desvantagens específicas e são aplicadas de acordo com as necessidades e objetivos de cada projeto de inteligência artificial.
+8. Ambas as abordagens, generativa e discriminativa, têm vantagens e desvantagens específicas e são aplicadas de acordo com as necessidades e objetivos de cada projeto de inteligência artificial.
 
-9) A IA generativa é mais complexa em termos de modelagem e treinamento, exigindo técnicas avançadas de aprendizado de máquina e processamento de linguagem natural, enquanto a discriminativa é mais direta e depende principalmente de algoritmos de classificação.
+9. A IA generativa é mais complexa em termos de modelagem e treinamento, exigindo técnicas avançadas de aprendizado de máquina e processamento de linguagem natural, enquanto a discriminativa é mais direta e depende principalmente de algoritmos de classificação.
 
-10) A IA generativa abre possibilidades inovadoras para a criação de novos conteúdos e soluções criativas, enquanto a discriminativa é importante para aprimorar a eficiência de processos e a tomada de decisões baseada em dados.
+10. A IA generativa abre possibilidades inovadoras para a criação de novos conteúdos e soluções criativas, enquanto a discriminativa é importante para aprimorar a eficiência de processos e a tomada de decisões baseada em dados.
 
 5. Subtópico:
 5. Redes Neurais Generativas Profundas (Deep Learning).
@@ -12583,8 +12583,8 @@ Assertivas:
 Assertivas:
 1. A função de ativação em redes neurais é utilizada para introduzir não-linearidade nas relações entre os neurônios.
 2. Existem diferentes tipos de funções de ativação, como a função sigmoidal, a função tangente hiperbólica e a função ReLU.
-3. A função sigmoidal é amplamente utilizada em redes neurais pela sua capacidade de mapear qualquer número real para um valor no intervalo (0, 1).
-4. A função tangente hiperbólica é similar à função sigmoidal, mas mapeia os valores para o intervalo (-1, 1).
+3. A função sigmoidal é amplamente utilizada em redes neurais pela sua capacidade de mapear qualquer número real para um valor no intervalo (0, 1..
+4. A função tangente hiperbólica é similar à função sigmoidal, mas mapeia os valores para o intervalo (-1, 1..
 5. A função ReLU (Rectified Linear Unit) é a função de ativação mais utilizada atualmente em redes neurais devido à sua simplicidade e eficiência computacional.
 6. A função ReLU mapeia todos os valores negativos para zero e mantém os valores positivos inalterados.
 7. A função softmax é uma função de ativação utilizada para a classificação em problemas de múltiplas classes.

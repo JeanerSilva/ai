@@ -26,16 +26,16 @@ Assertivas:
 2. Subtópico:
 2. Diferença entre Monitoração e Observabilidade
 Assertivas:
-1) A Monitoração é o processo de coletar e analisar dados em tempo real, enquanto a Observabilidade é a capacidade de entender e diagnosticar problemas em um sistema com base nessas informações. (V)
-2) A Monitoração é uma prática mais focada no monitoramento de métricas e alertas, enquanto a Observabilidade envolve uma abordagem mais holística, que inclui rastreamento de logs e análise de eventos. (V)
-3) A Monitoração permite identificar problemas existentes no sistema em tempo real, enquanto a Observabilidade permite entender a causa raiz desses problemas. (V)
-4) A Monitoração é uma ferramenta essencial para manter a disponibilidade de um sistema, enquanto a Observabilidade auxilia na identificação e resolução de problemas de desempenho. (V)
-5) A Observabilidade vai além da Monitoração porque implica em ter uma visão mais ampla, permitindo ao usuário entender o comportamento do sistema como um todo. (V)
-6) A Monitoração é geralmente feita por meio do monitoramento de métricas específicas do sistema, como o uso de CPU e memória, enquanto a Observabilidade envolve a análise de eventos e logs para obter uma visão mais completa. (V)
-7) A Monitoração é voltada principalmente para a identificação de problemas prontamente perceptíveis, enquanto a Observabilidade ajuda a descobrir problemas sutis e de difícil detecção. (V)
-8) A Monitoração é uma prática operacional comumente utilizada, enquanto a Observabilidade é um conceito mais recente, impulsionado pela necessidade de compreender ambientes distribuídos e complexos. (V)
-9) A Monitoração é mais reativa, ou seja, verifica o estado atual do sistema, enquanto a Observabilidade é mais proativa, fornecendo insights sobre possíveis problemas futuros. (V)
-10) A Monitoração é geralmente realizada por meio de ferramentas específicas de monitoramento, enquanto a Observabilidade pode ser alcançada por meio da adoção de boas práticas, ferramentas e arquiteturas adequadas. (V)
+1. A Monitoração é o processo de coletar e analisar dados em tempo real, enquanto a Observabilidade é a capacidade de entender e diagnosticar problemas em um sistema com base nessas informações. (V)
+2. A Monitoração é uma prática mais focada no monitoramento de métricas e alertas, enquanto a Observabilidade envolve uma abordagem mais holística, que inclui rastreamento de logs e análise de eventos. (V)
+3. A Monitoração permite identificar problemas existentes no sistema em tempo real, enquanto a Observabilidade permite entender a causa raiz desses problemas. (V)
+4. A Monitoração é uma ferramenta essencial para manter a disponibilidade de um sistema, enquanto a Observabilidade auxilia na identificação e resolução de problemas de desempenho. (V)
+5. A Observabilidade vai além da Monitoração porque implica em ter uma visão mais ampla, permitindo ao usuário entender o comportamento do sistema como um todo. (V)
+6. A Monitoração é geralmente feita por meio do monitoramento de métricas específicas do sistema, como o uso de CPU e memória, enquanto a Observabilidade envolve a análise de eventos e logs para obter uma visão mais completa. (V)
+7. A Monitoração é voltada principalmente para a identificação de problemas prontamente perceptíveis, enquanto a Observabilidade ajuda a descobrir problemas sutis e de difícil detecção. (V)
+8. A Monitoração é uma prática operacional comumente utilizada, enquanto a Observabilidade é um conceito mais recente, impulsionado pela necessidade de compreender ambientes distribuídos e complexos. (V)
+9. A Monitoração é mais reativa, ou seja, verifica o estado atual do sistema, enquanto a Observabilidade é mais proativa, fornecendo insights sobre possíveis problemas futuros. (V)
+10. A Monitoração é geralmente realizada por meio de ferramentas específicas de monitoramento, enquanto a Observabilidade pode ser alcançada por meio da adoção de boas práticas, ferramentas e arquiteturas adequadas. (V)
 
 3. Subtópico:
 3. Ferramentas de Monitoração e Observabilidade

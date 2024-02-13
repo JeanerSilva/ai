@@ -3,16 +3,16 @@ Item do edital: 1.1 Scrum funcionamento
 1. Subtópico:
 1.1.1 Conceito e origem do Scrum
 Assertivas:
-1) Scrum é um framework ágil utilizado no desenvolvimento de projetos, principalmente na área de tecnologia da informação.
-2) O Scrum surgiu na década de 1990, como uma resposta à abordagem tradicional de gerenciamento de projetos.
-3) O conceito chave do Scrum é a entrega de valor incremental ao cliente através de iterações curtas e sucessivas, chamadas de sprints.
-4) O Scrum foi inicialmente idealizado para equipes de desenvolvimento de software, mas atualmente é aplicado em diversas áreas e setores.
-5) Uma das principais vantagens do Scrum é a flexibilidade oferecida pela sua abordagem iterativa e adaptativa.
-6) No Scrum, as equipes são autogerenciáveis e multifuncionais, o que estimula a colaboração e a responsabilidade compartilhada.
-7) O Product Owner é o responsável por estabelecer e priorizar as necessidades do cliente no Scrum.
-8) O Scrum Master é o facilitador do processo, responsável por garantir que a equipe entenda e siga os princípios e práticas do Scrum.
-9) Os artefatos básicos do Scrum incluem o Product Backlog, o Sprint Backlog e o Incremento.
-10) A cerimônia de monitoramento do Scrum é chamada de Daily Scrum, onde a equipe revisa o progresso, alinha as atividades e identifica possíveis impedimentos.
+1. Scrum é um framework ágil utilizado no desenvolvimento de projetos, principalmente na área de tecnologia da informação.
+2. O Scrum surgiu na década de 1990, como uma resposta à abordagem tradicional de gerenciamento de projetos.
+3. O conceito chave do Scrum é a entrega de valor incremental ao cliente através de iterações curtas e sucessivas, chamadas de sprints.
+4. O Scrum foi inicialmente idealizado para equipes de desenvolvimento de software, mas atualmente é aplicado em diversas áreas e setores.
+5. Uma das principais vantagens do Scrum é a flexibilidade oferecida pela sua abordagem iterativa e adaptativa.
+6. No Scrum, as equipes são autogerenciáveis e multifuncionais, o que estimula a colaboração e a responsabilidade compartilhada.
+7. O Product Owner é o responsável por estabelecer e priorizar as necessidades do cliente no Scrum.
+8. O Scrum Master é o facilitador do processo, responsável por garantir que a equipe entenda e siga os princípios e práticas do Scrum.
+9. Os artefatos básicos do Scrum incluem o Product Backlog, o Sprint Backlog e o Incremento.
+10. A cerimônia de monitoramento do Scrum é chamada de Daily Scrum, onde a equipe revisa o progresso, alinha as atividades e identifica possíveis impedimentos.
 
 2. Subtópico:
 1.1.2 Papéis dentro do Scrum: Product Owner, Scrum Master e Time de Desenvolvimento
@@ -101,15 +101,15 @@ Assertivas:
 8. Subtópico:
 8
 Assertivas:
-1) O número 8 é um número inteiro e par.
-2) A soma de todos os números inteiros antecessores ao número 8 é igual a 28.
-3) O quadrado do número 8 é igual a 64.
-4) O número 8 é um múltiplo de 4.
-5) A raiz quadrada do número 8 é um número irracional.
-6) O número 8 é maior do que 6 e menor do que 10.
-7) O algarismo 8 é um número natural.
-8) O número 8 é divisível apenas pelos números 1, 2, 4 e 8.
-9) Em um sistema de numeração decimal, o número 8 representa oito unidades.
-10) O número 8 é um número composto, pois possui mais de dois divisores positivos.
+1. O número 8 é um número inteiro e par.
+2. A soma de todos os números inteiros antecessores ao número 8 é igual a 28.
+3. O quadrado do número 8 é igual a 64.
+4. O número 8 é um múltiplo de 4.
+5. A raiz quadrada do número 8 é um número irracional.
+6. O número 8 é maior do que 6 e menor do que 10.
+7. O algarismo 8 é um número natural.
+8. O número 8 é divisível apenas pelos números 1, 2, 4 e 8.
+9. Em um sistema de numeração decimal, o número 8 representa oito unidades.
+10. O número 8 é um número composto, pois possui mais de dois divisores positivos.
 
 

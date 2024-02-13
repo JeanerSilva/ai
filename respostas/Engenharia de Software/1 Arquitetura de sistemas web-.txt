@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Arquitetura cliente-servidor e suas características
 Assertivas:
-1) Na arquitetura cliente-servidor, o cliente e o servidor são componentes independentes que se comunicam através de uma rede.
-2) O cliente é responsável por solicitar serviços ao servidor, enquanto o servidor é responsável por processar e responder a essas solicitações.
-3) A arquitetura cliente-servidor permite uma distribuição hierárquica de tarefas, onde o servidor concentra os recursos e serviços compartilhados.
-4) O cliente na arquitetura cliente-servidor pode ser um dispositivo como um computador, smartphone ou tablet.
-5) A comunicação entre o cliente e o servidor na arquitetura cliente-servidor geralmente é baseada no protocolo HTTP.
-6) A arquitetura cliente-servidor permite a escalabilidade, facilitando a adição de novos clientes e servidores conforme necessário.
-7) A arquitetura cliente-servidor é amplamente utilizada na internet, onde diversos sites e aplicativos seguem esse modelo para atender a grandes volumes de solicitações.
-8) A arquitetura cliente-servidor possibilita a separação das camadas de aplicação, permitindo a reutilização de componentes e a flexibilidade na implementação de mudanças.
-9) Na arquitetura cliente-servidor, os servidores são projetados para serem confiáveis e disponíveis, garantindo mínima interrupção de serviços.
-10) A arquitetura cliente-servidor oferece um sistema seguro, permitindo a autenticação e autorização dos usuários antes do acesso aos recursos do servidor.
+1. Na arquitetura cliente-servidor, o cliente e o servidor são componentes independentes que se comunicam através de uma rede.
+2. O cliente é responsável por solicitar serviços ao servidor, enquanto o servidor é responsável por processar e responder a essas solicitações.
+3. A arquitetura cliente-servidor permite uma distribuição hierárquica de tarefas, onde o servidor concentra os recursos e serviços compartilhados.
+4. O cliente na arquitetura cliente-servidor pode ser um dispositivo como um computador, smartphone ou tablet.
+5. A comunicação entre o cliente e o servidor na arquitetura cliente-servidor geralmente é baseada no protocolo HTTP.
+6. A arquitetura cliente-servidor permite a escalabilidade, facilitando a adição de novos clientes e servidores conforme necessário.
+7. A arquitetura cliente-servidor é amplamente utilizada na internet, onde diversos sites e aplicativos seguem esse modelo para atender a grandes volumes de solicitações.
+8. A arquitetura cliente-servidor possibilita a separação das camadas de aplicação, permitindo a reutilização de componentes e a flexibilidade na implementação de mudanças.
+9. Na arquitetura cliente-servidor, os servidores são projetados para serem confiáveis e disponíveis, garantindo mínima interrupção de serviços.
+10. A arquitetura cliente-servidor oferece um sistema seguro, permitindo a autenticação e autorização dos usuários antes do acesso aos recursos do servidor.
 
 4. Subtópico:
 4. Tecnologias front-end e back-end em sistemas web

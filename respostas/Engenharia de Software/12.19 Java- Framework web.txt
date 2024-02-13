@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Arquitetura e componentes do Spring Framework
 Assertivas:
-1) O Spring Framework é um framework de desenvolvimento de aplicações Java baseado em Inversão de Controle (IoC) e Injeção de Dependência (DI).
-2) O Spring Framework oferece suporte a diversos componentes, como Spring Core, Spring MVC, Spring Data, Spring Security, entre outros.
-3) O componente Spring Core é responsável pela implementação da IoC e DI, permitindo a criação de objetos e gerenciamento de dependências.
-4) O componente Spring MVC é um framework para desenvolvimento de aplicações web baseadas no padrão Model-View-Controller.
-5) O Spring Data é um componente que facilita o acesso e a manipulação de dados em diferentes tipos de bancos de dados, como SQL e NoSQL.
-6) O Spring Security oferece recursos para autenticação e autorização em aplicações web, garantindo a segurança dos dados e recursos.
-7) O Spring Framework promove uma arquitetura modular, permitindo que os desenvolvedores utilizem apenas os componentes necessários para suas aplicações.
-8) O Spring Framework é altamente configurável, permitindo que os desenvolvedores personalizem o comportamento e as funcionalidades de acordo com suas necessidades.
-9) O Spring Framework é amplamente utilizado na indústria de desenvolvimento de software devido à sua facilidade de uso, flexibilidade e robustez.
-10) O conhecimento em Spring Framework é considerado uma habilidade valiosa no mercado de trabalho para desenvolvedores Java.
+1. O Spring Framework é um framework de desenvolvimento de aplicações Java baseado em Inversão de Controle (IoC) e Injeção de Dependência (DI).
+2. O Spring Framework oferece suporte a diversos componentes, como Spring Core, Spring MVC, Spring Data, Spring Security, entre outros.
+3. O componente Spring Core é responsável pela implementação da IoC e DI, permitindo a criação de objetos e gerenciamento de dependências.
+4. O componente Spring MVC é um framework para desenvolvimento de aplicações web baseadas no padrão Model-View-Controller.
+5. O Spring Data é um componente que facilita o acesso e a manipulação de dados em diferentes tipos de bancos de dados, como SQL e NoSQL.
+6. O Spring Security oferece recursos para autenticação e autorização em aplicações web, garantindo a segurança dos dados e recursos.
+7. O Spring Framework promove uma arquitetura modular, permitindo que os desenvolvedores utilizem apenas os componentes necessários para suas aplicações.
+8. O Spring Framework é altamente configurável, permitindo que os desenvolvedores personalizem o comportamento e as funcionalidades de acordo com suas necessidades.
+9. O Spring Framework é amplamente utilizado na indústria de desenvolvimento de software devido à sua facilidade de uso, flexibilidade e robustez.
+10. O conhecimento em Spring Framework é considerado uma habilidade valiosa no mercado de trabalho para desenvolvedores Java.
 
 4. Subtópico:
 4. Desenvolvimento de aplicações web com JSF (JavaServer Faces)

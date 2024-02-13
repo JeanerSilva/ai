@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Tipos de Firewall: Packet Filtering, Stateful Inspection, Proxy Server
 Assertivas:
-1) O Packet Filtering é um tipo de firewall que verifica o conteúdo de cada pacote de dados em uma rede.
-2) O Stateful Inspection é um tipo de firewall que monitora o estado das conexões de rede para validar o tráfego de entrada e saída.
-3) O Proxy Server é um tipo de firewall que atua como intermediário entre a rede interna e a internet, filtrando e direcionando o tráfego.
-4) O Packet Filtering é menos eficiente em garantir a segurança da rede do que o Stateful Inspection.
-5) O Stateful Inspection garante uma análise mais detalhada do tráfego de rede em comparação com o Packet Filtering.
-6) O Proxy Server protege a rede interna e os usuários contra ameaças externas, como ataques DDoS.
-7) O Packet Filtering pode ser facilmente configurado para bloquear determinados protocolos ou portas em uma rede.
-8) Uma das principais vantagens do Stateful Inspection é sua habilidade de rastrear o estado de cada conexão para garantir maior segurança.
-9) O Proxy Server pode ser configurado para obter um cache de conteúdo, melhorando o desempenho da rede interna ao reutilizar informações já obtidas.
-10) O Packet Filtering analisa cada pacote de dados individualmente, enquanto o Stateful Inspection analisa o contexto e o histórico das conexões para tomar decisões de segurança.
+1. O Packet Filtering é um tipo de firewall que verifica o conteúdo de cada pacote de dados em uma rede.
+2. O Stateful Inspection é um tipo de firewall que monitora o estado das conexões de rede para validar o tráfego de entrada e saída.
+3. O Proxy Server é um tipo de firewall que atua como intermediário entre a rede interna e a internet, filtrando e direcionando o tráfego.
+4. O Packet Filtering é menos eficiente em garantir a segurança da rede do que o Stateful Inspection.
+5. O Stateful Inspection garante uma análise mais detalhada do tráfego de rede em comparação com o Packet Filtering.
+6. O Proxy Server protege a rede interna e os usuários contra ameaças externas, como ataques DDoS.
+7. O Packet Filtering pode ser facilmente configurado para bloquear determinados protocolos ou portas em uma rede.
+8. Uma das principais vantagens do Stateful Inspection é sua habilidade de rastrear o estado de cada conexão para garantir maior segurança.
+9. O Proxy Server pode ser configurado para obter um cache de conteúdo, melhorando o desempenho da rede interna ao reutilizar informações já obtidas.
+10. O Packet Filtering analisa cada pacote de dados individualmente, enquanto o Stateful Inspection analisa o contexto e o histórico das conexões para tomar decisões de segurança.
 
 3. Subtópico:
 3. Configuração e Implementação de Firewalls

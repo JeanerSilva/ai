@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Operadores em Python: aritméticos, comparação, atribuição e lógicos.
 Assertivas:
-1) Os operadores aritméticos em Python são utilizados para realizar operações matemáticas, como adição, subtração, multiplicação e divisão.
-2) Os operadores de comparação em Python são utilizados para comparar valores e retornar um resultado booleano, indicando se a comparação é verdadeira ou falsa.
-3) Os operadores de atribuição em Python são utilizados para atribuir valores a variáveis, como o operador '='.
-4) Os operadores lógicos em Python são utilizados para combinar ou modificar expressões booleanas e retornar um valor booleano.
-5) O operador aritmético de potência em Python é representado pelo símbolo '**'.
-6) O operador de comparação '==' em Python é utilizado para checar a igualdade entre dois valores.
-7) O operador de comparação '!=' em Python é utilizado para checar a diferença entre dois valores.
-8) O operador de atribuição composta '+=' em Python é utilizado para somar um valor a uma variável e atribuir o resultado à própria variável.
-9) O operador lógico 'and' em Python retorna True se ambos os operandos forem True.
-10) O operador lógico 'or' em Python retorna True se pelo menos um dos operandos for True.
+1. Os operadores aritméticos em Python são utilizados para realizar operações matemáticas, como adição, subtração, multiplicação e divisão.
+2. Os operadores de comparação em Python são utilizados para comparar valores e retornar um resultado booleano, indicando se a comparação é verdadeira ou falsa.
+3. Os operadores de atribuição em Python são utilizados para atribuir valores a variáveis, como o operador '='.
+4. Os operadores lógicos em Python são utilizados para combinar ou modificar expressões booleanas e retornar um valor booleano.
+5. O operador aritmético de potência em Python é representado pelo símbolo '**'.
+6. O operador de comparação '==' em Python é utilizado para checar a igualdade entre dois valores.
+7. O operador de comparação '!=' em Python é utilizado para checar a diferença entre dois valores.
+8. O operador de atribuição composta '+=' em Python é utilizado para somar um valor a uma variável e atribuir o resultado à própria variável.
+9. O operador lógico 'and' em Python retorna True se ambos os operandos forem True.
+10. O operador lógico 'or' em Python retorna True se pelo menos um dos operandos for True.
 
 4. Subtópico:
 4. Controle de fluxo em Python: instruções if, elif e else; loops for e while; break e continue.
@@ -73,16 +73,16 @@ Assertivas:
 6. Subtópico:
 6. Manipulação de strings em Python: indexação, fatiamento (slicing), métodos inerentes a strings.
 Assertivas:
-1) O índice de uma string em Python começa em 0.
-2) A indexação de uma string permite acessar um caractere específico da string usando seu índice.
-3) O fatiamento (slicing) de uma string em Python permite obter uma substring a partir de uma posição inicial e uma posição final.
-4) O fatiamento (slicing) com passo negativo em uma string invertê a ordem dos caracteres.
-5) O método 'len()' em Python retorna o número de caracteres em uma string.
-6) O método 'lower()' em Python converte todos os caracteres de uma string em letras minúsculas.
-7) O método 'upper()' em Python converte todos os caracteres de uma string em letras maiúsculas.
-8) O método 'split()' em Python divide uma string em várias substrings com base em um separador.
-9) O método 'join()' em Python concatena elementos de uma lista em uma única string, separando-os por um delimitador específico.
-10) O método 'strip()' em Python remove os espaços em branco no início e no final de uma string.
+1. O índice de uma string em Python começa em 0.
+2. A indexação de uma string permite acessar um caractere específico da string usando seu índice.
+3. O fatiamento (slicing) de uma string em Python permite obter uma substring a partir de uma posição inicial e uma posição final.
+4. O fatiamento (slicing) com passo negativo em uma string invertê a ordem dos caracteres.
+5. O método 'len()' em Python retorna o número de caracteres em uma string.
+6. O método 'lower()' em Python converte todos os caracteres de uma string em letras minúsculas.
+7. O método 'upper()' em Python converte todos os caracteres de uma string em letras maiúsculas.
+8. O método 'split()' em Python divide uma string em várias substrings com base em um separador.
+9. O método 'join()' em Python concatena elementos de uma lista em uma única string, separando-os por um delimitador específico.
+10. O método 'strip()' em Python remove os espaços em branco no início e no final de uma string.
 
 7. Subtópico:
 7. Tratamento

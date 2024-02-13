@@ -123,7 +123,7 @@ Assertivas:
 2. O deflator do PIB é utilizado para ajustar os valores monetários do PIB nominal para os valores reais, descontando a influência da variação de preços.
 3. O deflator do PIB é calculado dividindo o PIB nominal pelo PIB real e multiplicando por 100.
 4. A inflação é a elevação contínua e generalizada dos preços de bens e serviços em uma economia ao longo do tempo.
-5. A inflação pode ser medida por meio de diferentes índices, como o Índice de Preços ao Consumidor (IPCA) e o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15).
+5. A inflação pode ser medida por meio de diferentes índices, como o Índice de Preços ao Consumidor (IPCA) e o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15..
 6. A inflação de demanda ocorre quando há excesso de demanda por bens e serviços em relação à capacidade de produção.
 7. A inflação de oferta ocorre quando há um aumento nos custos de produção, como salários e matérias-primas, que é repassado aos preços dos produtos.
 8. Quando o deflator do PIB aumenta, indica-se um aumento no nível geral de preços na economia, ou seja, há inflação.

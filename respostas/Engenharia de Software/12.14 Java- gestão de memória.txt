@@ -31,25 +31,25 @@ Assertivas:
 3. Subtópico:
 3. Diferença entre Stack e Heap na memória Java
 Assertivas:
-1) A Stack é uma área de memória utilizada para armazenar variáveis locais e métodos em execução, enquanto o Heap é utilizado para alocar objetos em tempo de execução.
+1. A Stack é uma área de memória utilizada para armazenar variáveis locais e métodos em execução, enquanto o Heap é utilizado para alocar objetos em tempo de execução.
 
-2) O espaço alocado na Stack é limitado e definido durante a compilação, enquanto o Heap pode crescer e diminuir dinamicamente durante a execução do programa.
+2. O espaço alocado na Stack é limitado e definido durante a compilação, enquanto o Heap pode crescer e diminuir dinamicamente durante a execução do programa.
 
-3) A Stack opera de forma eficiente e tem um tempo de acesso rápido, visto que aloca espaço para as variáveis de forma contígua, enquanto o Heap pode ser fragmentado, o que pode afetar o desempenho.
+3. A Stack opera de forma eficiente e tem um tempo de acesso rápido, visto que aloca espaço para as variáveis de forma contígua, enquanto o Heap pode ser fragmentado, o que pode afetar o desempenho.
 
-4) Variáveis e objetos criados na Stack são automaticamente liberados quando o seu escopo é encerrado, enquanto no Heap é necessário o uso de um coletor de lixo (garbage collector) para liberar a memória.
+4. Variáveis e objetos criados na Stack são automaticamente liberados quando o seu escopo é encerrado, enquanto no Heap é necessário o uso de um coletor de lixo (garbage collector) para liberar a memória.
 
-5) O tamanho máximo do Heap pode ser configurado pelo parâmetro -Xmx no momento da execução do programa, permitindo um maior controle sobre a memória disponível.
+5. O tamanho máximo do Heap pode ser configurado pelo parâmetro -Xmx no momento da execução do programa, permitindo um maior controle sobre a memória disponível.
 
-6) A Stack é uma estrutura de dados do tipo LIFO (Last In, First Out), onde as variáveis mais recentes são alocadas no topo, enquanto o Heap é uma estrutura de dados dinâmica.
+6. A Stack é uma estrutura de dados do tipo LIFO (Last In, First Out), onde as variáveis mais recentes são alocadas no topo, enquanto o Heap é uma estrutura de dados dinâmica.
 
-7) Objetos alocados na Stack têm um tempo de vida curto, existindo apenas dentro do escopo de um método, enquanto objetos alocados no Heap podem existir durante a execução de toda a aplicação.
+7. Objetos alocados na Stack têm um tempo de vida curto, existindo apenas dentro do escopo de um método, enquanto objetos alocados no Heap podem existir durante a execução de toda a aplicação.
 
-8) A alocação de espaço na Stack é mais rápida do que no Heap, visto que não é necessário utilizar métodos específicos para alocar e desalocar memória.
+8. A alocação de espaço na Stack é mais rápida do que no Heap, visto que não é necessário utilizar métodos específicos para alocar e desalocar memória.
 
-9) A Stack é compartilhada entre threads, cada uma delas possuindo sua própria área na Stack, enquanto o Heap é compartilhado entre todas as threads da aplicação.
+9. A Stack é compartilhada entre threads, cada uma delas possuindo sua própria área na Stack, enquanto o Heap é compartilhado entre todas as threads da aplicação.
 
-10) Variáveis primitivas, como int e boolean, são alocadas na Stack, enquanto objetos e arrays são alocados no Heap em Java.
+10. Variáveis primitivas, como int e boolean, são alocadas na Stack, enquanto objetos e arrays são alocados no Heap em Java.
 
 4. Subtópico:
 4. Gerenciamento de memória na JVM (Java Virtual Machine)

@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Tipos de Fatores de Autenticação: Algo que você sabe, algo que você tem e algo que você é
 Assertivas:
-1) Algo que você sabe é um tipo de fator de autenticação baseado em conhecimento prévio, como uma senha ou uma resposta a uma pergunta específica.
-2) Algo que você tem é um tipo de fator de autenticação que envolve a posse física de um objeto, como um cartão inteligente, um token ou um dispositivo móvel.
-3) Algo que você é é um tipo de fator de autenticação baseado em características biométricas únicas, como impressões digitais, reconhecimento facial ou detecção de voz.
-4) Os fatores de autenticação podem ser utilizados em diferentes combinações, dependendo do nível de segurança necessário.
-5) A autenticação baseada em múltiplos fatores (MFA) combina dois ou mais tipos de fatores de autenticação para aumentar a segurança.
-6) A autenticação multifator (MFA) é uma medida eficaz para proteger informações sigilosas e evitar acesso não autorizado.
-7) O uso de múltiplos fatores de autenticação dificulta a tarefa de um invasor em obter acesso não autorizado a sistemas e dados.
-8) Além dos três principais fatores de autenticação, existem outras alternativas, como fatores de autenticação geográficos ou temporais.
-9) A autenticação baseada em algo que você é, como biometria, tem se tornado cada vez mais comum em dispositivos móveis e aplicativos.
-10) A escolha dos fatores de autenticação adequados deve levar em consideração o equilíbrio entre segurança e conveniência para o usuário.
+1. Algo que você sabe é um tipo de fator de autenticação baseado em conhecimento prévio, como uma senha ou uma resposta a uma pergunta específica.
+2. Algo que você tem é um tipo de fator de autenticação que envolve a posse física de um objeto, como um cartão inteligente, um token ou um dispositivo móvel.
+3. Algo que você é é um tipo de fator de autenticação baseado em características biométricas únicas, como impressões digitais, reconhecimento facial ou detecção de voz.
+4. Os fatores de autenticação podem ser utilizados em diferentes combinações, dependendo do nível de segurança necessário.
+5. A autenticação baseada em múltiplos fatores (MFA) combina dois ou mais tipos de fatores de autenticação para aumentar a segurança.
+6. A autenticação multifator (MFA) é uma medida eficaz para proteger informações sigilosas e evitar acesso não autorizado.
+7. O uso de múltiplos fatores de autenticação dificulta a tarefa de um invasor em obter acesso não autorizado a sistemas e dados.
+8. Além dos três principais fatores de autenticação, existem outras alternativas, como fatores de autenticação geográficos ou temporais.
+9. A autenticação baseada em algo que você é, como biometria, tem se tornado cada vez mais comum em dispositivos móveis e aplicativos.
+10. A escolha dos fatores de autenticação adequados deve levar em consideração o equilíbrio entre segurança e conveniência para o usuário.
 
 3. Subtópico:
 3. Implementação e Configuração do MFA

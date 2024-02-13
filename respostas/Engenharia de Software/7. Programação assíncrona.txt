@@ -3,25 +3,25 @@ Item do edital: 7. Programação assíncrona.
 1. Subtópico:
 1. Conceito e fundamentos da programação assíncrona.
 Assertivas:
-1) A programação assíncrona é um paradigma de programação que permite a execução de tarefas independentes de forma simultânea.
+1. A programação assíncrona é um paradigma de programação que permite a execução de tarefas independentes de forma simultânea.
 
-2) Na programação assíncrona, o código não precisa esperar a conclusão de uma tarefa para iniciar a próxima.
+2. Na programação assíncrona, o código não precisa esperar a conclusão de uma tarefa para iniciar a próxima.
 
-3) Um dos principais fundamentos da programação assíncrona é a utilização de eventos e callbacks para lidar com operações não bloqueantes.
+3. Um dos principais fundamentos da programação assíncrona é a utilização de eventos e callbacks para lidar com operações não bloqueantes.
 
-4) A programação assíncrona é amplamente utilizada em aplicações que requerem interações com dispositivos externos, como requisições de rede.
+4. A programação assíncrona é amplamente utilizada em aplicações que requerem interações com dispositivos externos, como requisições de rede.
 
-5) Ao utilizar a programação assíncrona, é possível melhorar a eficiência do código, pois tarefas ociosas não bloqueiam a execução de outras.
+5. Ao utilizar a programação assíncrona, é possível melhorar a eficiência do código, pois tarefas ociosas não bloqueiam a execução de outras.
 
-6) Um exemplo comum de programação assíncrona é a utilização de promessas (promises) em JavaScript.
+6. Um exemplo comum de programação assíncrona é a utilização de promessas (promises) em JavaScript.
 
-7) Na programação assíncrona, é comum o uso de callbacks para lidar com a conclusão de tarefas e tratar possíveis erros.
+7. Na programação assíncrona, é comum o uso de callbacks para lidar com a conclusão de tarefas e tratar possíveis erros.
 
-8) A programação assíncrona é especialmente útil em situações em que as operações são demoradas ou bloqueantes, como operações de I/O.
+8. A programação assíncrona é especialmente útil em situações em que as operações são demoradas ou bloqueantes, como operações de I/O.
 
-9) Um dos desafios da programação assíncrona é lidar com a sequência de execução das tarefas, já que elas não ocorrem de forma linear.
+9. Um dos desafios da programação assíncrona é lidar com a sequência de execução das tarefas, já que elas não ocorrem de forma linear.
 
-10) A programação assíncrona é essencial em ambientes concorrentes, onde várias tarefas precisam ser executadas simultaneamente sem travar a aplicação.
+10. A programação assíncrona é essencial em ambientes concorrentes, onde várias tarefas precisam ser executadas simultaneamente sem travar a aplicação.
 
 2. Subtópico:
 2. Diferenças entre programação síncrona e assíncrona.

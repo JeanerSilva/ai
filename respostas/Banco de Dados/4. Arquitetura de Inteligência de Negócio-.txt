@@ -31,39 +31,39 @@ Assertivas:
 3. Subtópico:
 3. Ferramentas e técnicas para análise e gestão de dados em BI
 Assertivas:
-1) A utilização de ferramentas de Business Intelligence (BI) é fundamental para analisar grandes volumes de dados e obter insights relevantes para a gestão de uma organização.
+1. A utilização de ferramentas de Business Intelligence (BI) é fundamental para analisar grandes volumes de dados e obter insights relevantes para a gestão de uma organização.
 
-2) A técnica de mineração de dados é empregada em BI para identificar padrões e tendências ocultas nos dados, auxiliando na tomada de decisões estratégicas.
+2. A técnica de mineração de dados é empregada em BI para identificar padrões e tendências ocultas nos dados, auxiliando na tomada de decisões estratégicas.
 
-3) Dashboards interativos são ferramentas utilizadas em BI para visualizar e analisar dados de forma dinâmica, possibilitando a identificação rápida de informações relevantes.
+3. Dashboards interativos são ferramentas utilizadas em BI para visualizar e analisar dados de forma dinâmica, possibilitando a identificação rápida de informações relevantes.
 
-4) Técnicas de análise preditiva são aplicadas em soluções de BI para prever comportamentos futuros com base em dados históricos, auxiliando na tomada de decisões mais assertivas.
+4. Técnicas de análise preditiva são aplicadas em soluções de BI para prever comportamentos futuros com base em dados históricos, auxiliando na tomada de decisões mais assertivas.
 
-5) A técnica de ETL (Extract, Transform, Load) é amplamente utilizada em BI para extrair dados de diferentes fontes, transformá-los em um formato adequado e carregá-los em um data warehouse para análise.
+5. A técnica de ETL (Extract, Transform, Load) é amplamente utilizada em BI para extrair dados de diferentes fontes, transformá-los em um formato adequado e carregá-los em um data warehouse para análise.
 
-6) A técnica de OLAP (Online Analytical Processing) é empregada em BI para analisar grandes volumes de dados em tempo real, permitindo realizar consultas e análises complexas de forma ágil.
+6. A técnica de OLAP (Online Analytical Processing) é empregada em BI para analisar grandes volumes de dados em tempo real, permitindo realizar consultas e análises complexas de forma ágil.
 
-7) A utilização de data mining (mineração de dados) em BI permite descobrir informações valiosas e não evidentes nos dados, tornando-se uma ferramenta estratégica para identificar oportunidades de negócio.
+7. A utilização de data mining (mineração de dados) em BI permite descobrir informações valiosas e não evidentes nos dados, tornando-se uma ferramenta estratégica para identificar oportunidades de negócio.
 
-8) Técnicas de data visualization (visualização de dados) são empregadas em soluções de BI para representar informações complexas de forma visualmente atrativa e de fácil compreensão.
+8. Técnicas de data visualization (visualização de dados) são empregadas em soluções de BI para representar informações complexas de forma visualmente atrativa e de fácil compreensão.
 
-9) A utilização de ferramentas de análise e gestão de dados em BI contribui para a melhoria do desempenho organizacional, ao possibilitar a identificação de áreas de otimização e oportunidades de crescimento.
+9. A utilização de ferramentas de análise e gestão de dados em BI contribui para a melhoria do desempenho organizacional, ao possibilitar a identificação de áreas de otimização e oportunidades de crescimento.
 
-10) A técnica de data integration (integração de dados) é utilizada em BI para consolidar informações de diferentes fontes e sistemas, proporcionando uma visão unificada dos dados para análises e decisões mais precisas.
+10. A técnica de data integration (integração de dados) é utilizada em BI para consolidar informações de diferentes fontes e sistemas, proporcionando uma visão unificada dos dados para análises e decisões mais precisas.
 
 4. Subtópico:
 4. Data Warehousing: conceito, arquitetura e componentes
 Assertivas:
-1) O Data Warehousing é uma estratégia utilizada para armazenar e gerenciar grandes volumes de dados de forma organizada e integrada.
-2) A arquitetura de um Data Warehouse é composta por três camadas principais: camada de extração, camada de transformação e camada de carga.
-3) Um Data Warehouse pode ser utilizado para fins analíticos, permitindo a análise de informações históricas e a geração de relatórios avançados.
-4) O conceito de Dimensional Modeling é amplamente aplicado em soluções de Data Warehousing para organizar os dados de forma intuitiva e facilitar a análise.
-5) Os componentes de um Data Warehouse incluem o banco de dados do Data Warehouse, o processo de ETL (Extração, Transformação e Carga) e as ferramentas de análise.
-6) A camada de extração em uma arquitetura de Data Warehouse é responsável por coletar os dados de diferentes fontes e prepará-los para serem carregados no Data Warehouse.
-7) A camada de transformação em um Data Warehouse envolve a limpeza, conformidade e enriquecimento dos dados antes de serem carregados no banco de dados do Data Warehouse.
-8) A camada de carga em um Data Warehouse é responsável por integrar os dados transformados no banco de dados do Data Warehouse, seguindo um modelo dimensional ou relacional.
-9) O Data Warehouse é projetado para facilitar a análise de dados históricos, permitindo tanto consultas rápidas quanto complexas para gerar insights e tomar decisões estratégicas.
-10) A utilização de técnicas de indexação, particionamento e otimização de consultas são comuns em soluções de Data Warehousing para garantir o desempenho e a eficiência na análise de grandes volumes de dados.
+1. O Data Warehousing é uma estratégia utilizada para armazenar e gerenciar grandes volumes de dados de forma organizada e integrada.
+2. A arquitetura de um Data Warehouse é composta por três camadas principais: camada de extração, camada de transformação e camada de carga.
+3. Um Data Warehouse pode ser utilizado para fins analíticos, permitindo a análise de informações históricas e a geração de relatórios avançados.
+4. O conceito de Dimensional Modeling é amplamente aplicado em soluções de Data Warehousing para organizar os dados de forma intuitiva e facilitar a análise.
+5. Os componentes de um Data Warehouse incluem o banco de dados do Data Warehouse, o processo de ETL (Extração, Transformação e Carga) e as ferramentas de análise.
+6. A camada de extração em uma arquitetura de Data Warehouse é responsável por coletar os dados de diferentes fontes e prepará-los para serem carregados no Data Warehouse.
+7. A camada de transformação em um Data Warehouse envolve a limpeza, conformidade e enriquecimento dos dados antes de serem carregados no banco de dados do Data Warehouse.
+8. A camada de carga em um Data Warehouse é responsável por integrar os dados transformados no banco de dados do Data Warehouse, seguindo um modelo dimensional ou relacional.
+9. O Data Warehouse é projetado para facilitar a análise de dados históricos, permitindo tanto consultas rápidas quanto complexas para gerar insights e tomar decisões estratégicas.
+10. A utilização de técnicas de indexação, particionamento e otimização de consultas são comuns em soluções de Data Warehousing para garantir o desempenho e a eficiência na análise de grandes volumes de dados.
 
 5. Subtópico:
 5. Data Mining: conceito, técnicas e aplicações na inteligência de negócios
@@ -82,16 +82,16 @@ Assertivas:
 6. Subtópico:
 6. Sistemas OLAP (Online Analytical Processing): características e funcionalidades 
 Assertivas:
-1) Sistemas OLAP são utilizados para análise de dados multidimensionais.
-2) Sistemas OLAP permitem a visualização de dados de forma hierárquica.
-3) Os sistemas OLAP permitem a realização de análises de tendência e previsão.
-4) Uma das principais características dos sistemas OLAP é a capacidade de realizar consultas de forma rápida e eficiente.
-5) Os sistemas OLAP são capazes de lidar com grandes volumes de dados.
-6) Sistemas OLAP possuem interfaces intuitivas e amigáveis para facilitar a interação do usuário.
-7) Os sistemas OLAP permitem a realização de análises de maneira não-linear, explorando diferentes perspectivas dos dados.
-8) Os sistemas OLAP são utilizados para análise de negócios, auxiliando na identificação de oportunidades e na tomada de decisões estratégicas.
-9) Os sistemas OLAP permitem a criação de relatórios e gráficos personalizados para facilitar a compreensão dos dados.
-10) Sistemas OLAP são ferramentas essenciais para a análise de grandes volumes de dados em tempo real.
+1. Sistemas OLAP são utilizados para análise de dados multidimensionais.
+2. Sistemas OLAP permitem a visualização de dados de forma hierárquica.
+3. Os sistemas OLAP permitem a realização de análises de tendência e previsão.
+4. Uma das principais características dos sistemas OLAP é a capacidade de realizar consultas de forma rápida e eficiente.
+5. Os sistemas OLAP são capazes de lidar com grandes volumes de dados.
+6. Sistemas OLAP possuem interfaces intuitivas e amigáveis para facilitar a interação do usuário.
+7. Os sistemas OLAP permitem a realização de análises de maneira não-linear, explorando diferentes perspectivas dos dados.
+8. Os sistemas OLAP são utilizados para análise de negócios, auxiliando na identificação de oportunidades e na tomada de decisões estratégicas.
+9. Os sistemas OLAP permitem a criação de relatórios e gráficos personalizados para facilitar a compreensão dos dados.
+10. Sistemas OLAP são ferramentas essenciais para a análise de grandes volumes de dados em tempo real.
 
 7. Subtópico:
 7. Processo ETL (Extract, Transform, Load): importância na arquitetura BI 

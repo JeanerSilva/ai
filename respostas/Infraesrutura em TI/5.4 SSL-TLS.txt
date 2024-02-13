@@ -99,7 +99,7 @@ Assertivas:
 10. A implementação de SSL/TLS pode afetar o desempenho dos servidores, sendo necessário ajustar as configurações para equilibrar a segurança e a velocidade da comunicação.
 
 8. Subtópico:
-8. Versões do Protocolo TLS (1.0, 1.1, 1.2, 1.3) 
+8. Versões do Protocolo TLS (1.0, 1.1, 1.2, 1.3. 
 Assertivas:
 1. O Protocolo TLS (Transport Layer Security) é uma versão aprimorada do SSL (Secure Sockets Layer) utilizado para estabelecer uma conexão segura entre um cliente e um servidor.
 2. A versão 1.0 do Protocolo TLS é considerada obsoleta e não é mais recomendada para uso devido a vulnerabilidades de segurança conhecidas.
@@ -107,7 +107,7 @@ Assertivas:
 4. A versão 1.2 do Protocolo TLS foi lançada em 2008 e é amplamente utilizada atualmente devido às suas melhorias de segurança e suporte a algoritmos criptográficos mais fortes.
 5. A versão 1.3 do Protocolo TLS foi lançada em 2018 e traz várias melhorias, incluindo um processo de handshake mais rápido e robusto.
 6. A versão 1.3 do Protocolo TLS possui suporte para criptografia de curva elíptica, o que permite um desempenho mais eficiente em dispositivos com recursos limitados, como smartphones.
-7. Todas as versões do Protocolo TLS (1.0, 1.1, 1.2, 1.3) são baseadas em criptografia assimétrica e simétrica para garantir a confidencialidade e integridade dos dados transmitidos.
+7. Todas as versões do Protocolo TLS (1.0, 1.1, 1.2, 1.3. são baseadas em criptografia assimétrica e simétrica para garantir a confidencialidade e integridade dos dados transmitidos.
 8. A escolha da versão do Protocolo TLS utilizada em uma conexão é determinada pela negociação entre o cliente e o servidor, onde ambos devem ser compatíveis com a mesma versão para estabelecer uma conexão segura.
 9. A versão 1.3 do Protocolo TLS introduziu um novo modo de criptografia chamado "TLS 1.3 with early data", que permite ao cliente começar a transmitir dados durante o processo de handshake, reduzindo a latência da conexão.
 10. Os navegadores mais recentes e os servidores de hospedagem de sites geralmente suportam as versões mais recentes do Protocolo TLS, como o TLS 1.2 e 1.3, para garantir a segurança das comunicações online.

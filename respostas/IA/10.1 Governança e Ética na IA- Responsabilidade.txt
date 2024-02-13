@@ -96,16 +96,16 @@ Assertivas:
 7. Subtópico:
 7. Viés algorítmico, discriminação e justiça em IA 
 Assertivas:
-1) Os algoritmos de inteligência artificial podem conter viés, o que pode resultar em discriminação injusta contra determinados grupos.
-2) A discriminação algorítmica ocorre quando as decisões tomadas por sistemas de IA resultam em tratamentos injustos ou desigualdades com base em características como gênero, raça ou classe social.
-3) A presença de viés algorítmico pode dificultar a busca pela justiça em sistemas de IA, uma vez que decisões injustas podem ser tomadas de forma automatizada.
-4) É fundamental garantir que os algoritmos de inteligência artificial sejam desenvolvidos e treinados de forma a minimizar o viés e evitar a discriminação.
-5) A falta de diversidade nos conjuntos de dados utilizados para treinar algoritmos de IA pode levar a resultados discriminatórios, ampliando desigualdades e injustiças.
-6) A transparência dos algoritmos de IA é crucial para permitir a detecção e mitigação de viés e discriminação.
-7) A análise da justiça em sistemas de IA envolve a avaliação de critérios como igualdade de oportunidades, imparcialidade e equidade de tratamento.
-8) A compreensão dos viéses algorítmicos e dos mecanismos de discriminação em IA é essencial para a criação de políticas e regulamentações que visem evitar e corrigir injustiças.
-9) É necessário implementar medidas de auditoria e monitoramento contínuo dos sistemas de IA, a fim de identificar e corrigir possíveis discriminações algorítmicas.
-10) A busca pela justiça em sistemas de IA demanda uma abordagem multidisciplinar, que envolve não apenas especialistas em tecnologia, mas também profissionais das ciências sociais e jurídicas.
+1. Os algoritmos de inteligência artificial podem conter viés, o que pode resultar em discriminação injusta contra determinados grupos.
+2. A discriminação algorítmica ocorre quando as decisões tomadas por sistemas de IA resultam em tratamentos injustos ou desigualdades com base em características como gênero, raça ou classe social.
+3. A presença de viés algorítmico pode dificultar a busca pela justiça em sistemas de IA, uma vez que decisões injustas podem ser tomadas de forma automatizada.
+4. É fundamental garantir que os algoritmos de inteligência artificial sejam desenvolvidos e treinados de forma a minimizar o viés e evitar a discriminação.
+5. A falta de diversidade nos conjuntos de dados utilizados para treinar algoritmos de IA pode levar a resultados discriminatórios, ampliando desigualdades e injustiças.
+6. A transparência dos algoritmos de IA é crucial para permitir a detecção e mitigação de viés e discriminação.
+7. A análise da justiça em sistemas de IA envolve a avaliação de critérios como igualdade de oportunidades, imparcialidade e equidade de tratamento.
+8. A compreensão dos viéses algorítmicos e dos mecanismos de discriminação em IA é essencial para a criação de políticas e regulamentações que visem evitar e corrigir injustiças.
+9. É necessário implementar medidas de auditoria e monitoramento contínuo dos sistemas de IA, a fim de identificar e corrigir possíveis discriminações algorítmicas.
+10. A busca pela justiça em sistemas de IA demanda uma abordagem multidisciplinar, que envolve não apenas especialistas em tecnologia, mas também profissionais das ciências sociais e jurídicas.
 
 8. Subtópico:
 8. Regulamentações nacionais e internacionais sobre a ética em IA 

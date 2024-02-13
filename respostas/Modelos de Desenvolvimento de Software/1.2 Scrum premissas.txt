@@ -59,17 +59,17 @@ Assertivas:
 5. Subtópico:
 5. Eventos do Scrum: Sprint, Reunião de Planejamento da Sprint, Daily Stand-up, Revisão da Sprint e Retrospectiva da Sprint 
 Assertivas:
-1) No Scrum, o evento chamado Sprint é um período de tempo fixo, com duração de uma a quatro semanas, durante o qual são realizadas atividades para atingir um objetivo específico.
-2) A Reunião de Planejamento da Sprint é um evento do Scrum em que a equipe de desenvolvimento define o que será entregue no incremento do produto durante a próxima Sprint.
-3) O Daily Stand-up, também conhecido como Daily Scrum, é um evento diário no Scrum em que a equipe de desenvolvimento se reúne para discutir o progresso do trabalho, as metas do dia e identificar possíveis obstáculos.
-4) A Revisão da Sprint é um evento do Scrum realizado ao final de cada Sprint, no qual a equipe de desenvolvimento apresenta o incremento do produto e recebe feedback dos stakeholders para auxiliar no planejamento da próxima Sprint.
-5) A Retrospectiva da Sprint é um evento realizado ao final da Sprint, cujo objetivo é que a equipe de desenvolvimento reflita sobre a própria forma de trabalho, identificando pontos positivos, oportunidades de melhoria e ações para a próxima Sprint.
+1. No Scrum, o evento chamado Sprint é um período de tempo fixo, com duração de uma a quatro semanas, durante o qual são realizadas atividades para atingir um objetivo específico.
+2. A Reunião de Planejamento da Sprint é um evento do Scrum em que a equipe de desenvolvimento define o que será entregue no incremento do produto durante a próxima Sprint.
+3. O Daily Stand-up, também conhecido como Daily Scrum, é um evento diário no Scrum em que a equipe de desenvolvimento se reúne para discutir o progresso do trabalho, as metas do dia e identificar possíveis obstáculos.
+4. A Revisão da Sprint é um evento do Scrum realizado ao final de cada Sprint, no qual a equipe de desenvolvimento apresenta o incremento do produto e recebe feedback dos stakeholders para auxiliar no planejamento da próxima Sprint.
+5. A Retrospectiva da Sprint é um evento realizado ao final da Sprint, cujo objetivo é que a equipe de desenvolvimento reflita sobre a própria forma de trabalho, identificando pontos positivos, oportunidades de melhoria e ações para a próxima Sprint.
 
-6) Na metodologia Scrum, o evento Sprint refere-se a um período de tempo fixo.
-7) A Reunião de Planejamento da Sprint é responsável por estabelecer os objetivos e planejar o trabalho a ser realizado na Sprint.
-8) O Daily Stand-up é uma reunião diária e breve em que a equipe discute o progresso e eventuais impedimentos.
-9) Durante a Revisão da Sprint, a equipe de desenvolvimento mostra ao stakeholder o que foi concluído na Sprint e recebe feedback.
-10) A Retrospectiva da Sprint permite que a equipe de desenvolvimento analise o próprio processo de trabalho, visando melhorias contínuas.
+6. Na metodologia Scrum, o evento Sprint refere-se a um período de tempo fixo.
+7. A Reunião de Planejamento da Sprint é responsável por estabelecer os objetivos e planejar o trabalho a ser realizado na Sprint.
+8. O Daily Stand-up é uma reunião diária e breve em que a equipe discute o progresso e eventuais impedimentos.
+9. Durante a Revisão da Sprint, a equipe de desenvolvimento mostra ao stakeholder o que foi concluído na Sprint e recebe feedback.
+10. A Retrospectiva da Sprint permite que a equipe de desenvolvimento analise o próprio processo de trabalho, visando melhorias contínuas.
 
 6. Subtópico:
 6. Conceito de Sprints e sua duração 

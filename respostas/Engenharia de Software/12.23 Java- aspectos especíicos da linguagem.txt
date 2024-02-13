@@ -45,16 +45,16 @@ Assertivas:
 4. Subtópico:
 4. Tratamento de Exceções e Controle de Erros em Java
 Assertivas:
-1) O tratamento de exceções em Java é realizado por meio dos blocos try-catch-finally.
-2) O bloco try é utilizado para encapsular a execução de um código que pode lançar exceções.
-3) O bloco catch é utilizado para capturar exceções específicas e tratar o erro de forma adequada.
-4) O bloco finally é opcional e é executado sempre, independentemente de ocorrer uma exceção ou não.
-5) Uma exceção não tratada pode resultar na interrupção do programa.
-6) Em Java, as exceções são representadas por classes, sendo todas subclasses de Throwable.
-7) É possível criar exceções personalizadas em Java, através da criação de subclasses de Exception ou RuntimeException.
-8) O uso excessivo de blocos try-catch pode prejudicar a legibilidade e manutenibilidade do código.
-9) A cláusula throws é utilizada para indicar quais exceções um método pode lançar.
-10) O tratamento correto de exceções em Java contribui para a robustez e estabilidade dos programas.
+1. O tratamento de exceções em Java é realizado por meio dos blocos try-catch-finally.
+2. O bloco try é utilizado para encapsular a execução de um código que pode lançar exceções.
+3. O bloco catch é utilizado para capturar exceções específicas e tratar o erro de forma adequada.
+4. O bloco finally é opcional e é executado sempre, independentemente de ocorrer uma exceção ou não.
+5. Uma exceção não tratada pode resultar na interrupção do programa.
+6. Em Java, as exceções são representadas por classes, sendo todas subclasses de Throwable.
+7. É possível criar exceções personalizadas em Java, através da criação de subclasses de Exception ou RuntimeException.
+8. O uso excessivo de blocos try-catch pode prejudicar a legibilidade e manutenibilidade do código.
+9. A cláusula throws é utilizada para indicar quais exceções um método pode lançar.
+10. O tratamento correto de exceções em Java contribui para a robustez e estabilidade dos programas.
 
 5. Subtópico:
 5. Uso de Bibliotecas e Pacotes em Java

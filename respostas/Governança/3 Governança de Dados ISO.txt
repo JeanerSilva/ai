@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Princípios fundamentais da Governança de Dados ISO.
 Assertivas:
-1) O princípio da responsabilidade é um dos princípios fundamentais da Governança de Dados ISO, estabelecendo a obrigação de garantir que a gestão dos dados seja realizada de forma eficiente e eficaz.
-2) O princípio da orientação ao valor define que a Governança de Dados ISO deve buscar agregar valor à organização por meio da gestão adequada dos dados.
-3) O princípio da integridade estabelece que a Governança de Dados ISO deve garantir a qualidade e a confiabilidade dos dados por meio da adoção de práticas adequadas.
-4) A transparência é um princípio fundamental da Governança de Dados ISO, que busca assegurar que a gestão dos dados seja realizada de maneira clara e compreensível a todas as partes interessadas.
-5) O princípio da prestação de contas determina que os responsáveis pela Governança de Dados ISO devem prestar contas pelos resultados obtidos e tomar medidas corretivas, quando necessário.
-6) O princípio da compatibilidade define que a Governança de Dados ISO deve estar alinhada com as estratégias e objetivos da organização, buscando apoio e aderência dessas diretrizes.
-7) O princípio da segurança estabelece que a Governança de Dados ISO deve garantir a proteção adequada dos dados, evitando a ocorrência de vazamentos ou acesso não autorizado.
-8) O princípio da participação estabelece que a Governança de Dados ISO deve envolver todas as partes interessadas relevantes na tomada de decisões relacionadas à gestão dos dados.
-9) O princípio da consistência determina que a Governança de Dados ISO deve ser implantada de forma sistemática e consistente em toda a organização.
-10) O princípio da melhoria contínua define que a Governança de Dados ISO deve buscar aprimorar constantemente suas práticas e resultados, por meio da avaliação e monitoramento do desempenho.
+1. O princípio da responsabilidade é um dos princípios fundamentais da Governança de Dados ISO, estabelecendo a obrigação de garantir que a gestão dos dados seja realizada de forma eficiente e eficaz.
+2. O princípio da orientação ao valor define que a Governança de Dados ISO deve buscar agregar valor à organização por meio da gestão adequada dos dados.
+3. O princípio da integridade estabelece que a Governança de Dados ISO deve garantir a qualidade e a confiabilidade dos dados por meio da adoção de práticas adequadas.
+4. A transparência é um princípio fundamental da Governança de Dados ISO, que busca assegurar que a gestão dos dados seja realizada de maneira clara e compreensível a todas as partes interessadas.
+5. O princípio da prestação de contas determina que os responsáveis pela Governança de Dados ISO devem prestar contas pelos resultados obtidos e tomar medidas corretivas, quando necessário.
+6. O princípio da compatibilidade define que a Governança de Dados ISO deve estar alinhada com as estratégias e objetivos da organização, buscando apoio e aderência dessas diretrizes.
+7. O princípio da segurança estabelece que a Governança de Dados ISO deve garantir a proteção adequada dos dados, evitando a ocorrência de vazamentos ou acesso não autorizado.
+8. O princípio da participação estabelece que a Governança de Dados ISO deve envolver todas as partes interessadas relevantes na tomada de decisões relacionadas à gestão dos dados.
+9. O princípio da consistência determina que a Governança de Dados ISO deve ser implantada de forma sistemática e consistente em toda a organização.
+10. O princípio da melhoria contínua define que a Governança de Dados ISO deve buscar aprimorar constantemente suas práticas e resultados, por meio da avaliação e monitoramento do desempenho.
 
 3. Subtópico:
 3. Estrutura organizacional para a Governança de Dados ISO.

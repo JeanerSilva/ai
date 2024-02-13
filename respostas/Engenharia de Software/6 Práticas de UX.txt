@@ -68,16 +68,16 @@ Assertivas:
 6. Subtópico:
 6. Avaliação da experiência do usuário: métodos quantitativos e qualitativos 
 Assertivas:
-1) Métodos quantitativos são usados para medir aspectos objetivos da experiência do usuário, como velocidade de resposta e taxa de sucesso em tarefas específicas.
-2) Métodos qualitativos são usados para compreender as percepções, motivações e necessidades dos usuários em relação a um produto ou serviço.
-3) O teste de usabilidade é um método quantitativo que envolve observar e medir a eficiência, eficácia e satisfação dos usuários em realizar tarefas específicas.
-4) Entrevistas individuais são um método qualitativo usado para explorar a experiência do usuário em profundidade, permitindo uma compreensão mais completa de suas necessidades e expectativas.
-5) A pesquisa de campo é um método qualitativo que envolve a observação dos usuários em seu ambiente natural, permitindo uma compreensão mais realista de suas interações.
-6) A pesquisa por meio de questionários é um método quantitativo que permite coletar dados de uma grande amostra de usuários, possibilitando a generalização de resultados.
-7) O método de avaliação heurística é um método quantitativo que envolve a aplicação de um conjunto de diretrizes ou boas práticas ao produto em análise, a fim de identificar problemas de usabilidade.
-8) A análise de métricas de uso, como tempo de navegação e número de cliques, é um método quantitativo que ajuda a compreender como os usuários interagem com um sistema.
-9) Grupos focais são um método qualitativo em que um moderador facilita a discussão entre um grupo de usuários, para obter insights mais profundos sobre suas experiências.
-10) A avaliação da experiência do usuário por meio de testes de campo é um método quantitativo que envolve a testagem do produto ou serviço em condições reais de uso, coletando dados de desempenho e satisfação dos usuários.
+1. Métodos quantitativos são usados para medir aspectos objetivos da experiência do usuário, como velocidade de resposta e taxa de sucesso em tarefas específicas.
+2. Métodos qualitativos são usados para compreender as percepções, motivações e necessidades dos usuários em relação a um produto ou serviço.
+3. O teste de usabilidade é um método quantitativo que envolve observar e medir a eficiência, eficácia e satisfação dos usuários em realizar tarefas específicas.
+4. Entrevistas individuais são um método qualitativo usado para explorar a experiência do usuário em profundidade, permitindo uma compreensão mais completa de suas necessidades e expectativas.
+5. A pesquisa de campo é um método qualitativo que envolve a observação dos usuários em seu ambiente natural, permitindo uma compreensão mais realista de suas interações.
+6. A pesquisa por meio de questionários é um método quantitativo que permite coletar dados de uma grande amostra de usuários, possibilitando a generalização de resultados.
+7. O método de avaliação heurística é um método quantitativo que envolve a aplicação de um conjunto de diretrizes ou boas práticas ao produto em análise, a fim de identificar problemas de usabilidade.
+8. A análise de métricas de uso, como tempo de navegação e número de cliques, é um método quantitativo que ajuda a compreender como os usuários interagem com um sistema.
+9. Grupos focais são um método qualitativo em que um moderador facilita a discussão entre um grupo de usuários, para obter insights mais profundos sobre suas experiências.
+10. A avaliação da experiência do usuário por meio de testes de campo é um método quantitativo que envolve a testagem do produto ou serviço em condições reais de uso, coletando dados de desempenho e satisfação dos usuários.
 
 7. Subtópico:
 7. Ferramentas modernas para prática de UX 

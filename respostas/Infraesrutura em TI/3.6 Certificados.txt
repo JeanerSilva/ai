@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Autenticação e validação de certificados
 Assertivas:
-1) A autenticação de certificados é um processo que visa comprovar a autenticidade e integridade dos mesmos.
-2) A validação de certificados consiste em verificar se os mesmos foram emitidos por uma autoridade confiável.
-3) A autenticação de certificados é essencial para garantir a segurança da comunicação em ambiente digital.
-4) A validação de certificados é realizada por meio de algoritmos criptográficos que verificam a assinatura digital do certificado.
-5) A autenticação de certificados é fundamental em atividades como assinatura eletrônica, autenticação de usuários em sistemas e transações seguras.
-6) A validação de certificados é importante para assegurar a confiabilidade das informações transmitidas por meio de certificados digitais.
-7) A autenticação de certificados é feita com base na verificação da cadeia de certificação, ou seja, da hierarquia das autoridades certificadoras envolvidas.
-8) A validação de certificados envolve a verificação de informações como data de validade, período de revogação e política de certificados.
-9) A autenticação de certificados é um procedimento técnico que confere credibilidade e confiança aos documentos digitais.
-10) A validação de certificados é uma prática amplamente adotada em diversos setores, como o de comércio eletrônico e governamental, visando garantir a identidade das partes envolvidas e a segurança das transações.
+1. A autenticação de certificados é um processo que visa comprovar a autenticidade e integridade dos mesmos.
+2. A validação de certificados consiste em verificar se os mesmos foram emitidos por uma autoridade confiável.
+3. A autenticação de certificados é essencial para garantir a segurança da comunicação em ambiente digital.
+4. A validação de certificados é realizada por meio de algoritmos criptográficos que verificam a assinatura digital do certificado.
+5. A autenticação de certificados é fundamental em atividades como assinatura eletrônica, autenticação de usuários em sistemas e transações seguras.
+6. A validação de certificados é importante para assegurar a confiabilidade das informações transmitidas por meio de certificados digitais.
+7. A autenticação de certificados é feita com base na verificação da cadeia de certificação, ou seja, da hierarquia das autoridades certificadoras envolvidas.
+8. A validação de certificados envolve a verificação de informações como data de validade, período de revogação e política de certificados.
+9. A autenticação de certificados é um procedimento técnico que confere credibilidade e confiança aos documentos digitais.
+10. A validação de certificados é uma prática amplamente adotada em diversos setores, como o de comércio eletrônico e governamental, visando garantir a identidade das partes envolvidas e a segurança das transações.
 
 4. Subtópico:
 4. Certificado digital: conceito, uso e segurança
@@ -87,16 +87,16 @@ Assertivas:
 7. Subtópico:
 7. Uso dos certificados em transações eletrônicas seguras 
 Assertivas:
-1) O uso de certificados digitais é fundamental para garantir a autenticidade das transações eletrônicas.
-2) Os certificados digitais são utilizados para firmar a identidade de pessoas ou entidades envolvidas em transações online.
-3) Através do uso de certificados digitais, é possível garantir a integridade de dados trocados em transações eletrônicas.
-4) A assinatura digital, realizada com o uso de certificados, confere validade jurídica a documentos eletrônicos.
-5) Certificados digitais são emitidos por Autoridades Certificadoras credenciadas e confiáveis.
-6) O uso de certificados digitais em transações eletrônicas impede a falsificação de documentos.
-7) Certificados digitais podem ser utilizados para a autenticação de servidores em transações online seguras. 
-8) Os certificados utilizam algoritmos de criptografia para proteger a segurança das informações transmitidas.
-9) Transações eletrônicas que utilizam certificados digitais são confidenciais, garantindo a privacidade dos dados envolvidos.
-10) A utilização de certificados digitais em transações eletrônicas contribui para a redução de fraudes e crimes cibernéticos.
+1. O uso de certificados digitais é fundamental para garantir a autenticidade das transações eletrônicas.
+2. Os certificados digitais são utilizados para firmar a identidade de pessoas ou entidades envolvidas em transações online.
+3. Através do uso de certificados digitais, é possível garantir a integridade de dados trocados em transações eletrônicas.
+4. A assinatura digital, realizada com o uso de certificados, confere validade jurídica a documentos eletrônicos.
+5. Certificados digitais são emitidos por Autoridades Certificadoras credenciadas e confiáveis.
+6. O uso de certificados digitais em transações eletrônicas impede a falsificação de documentos.
+7. Certificados digitais podem ser utilizados para a autenticação de servidores em transações online seguras. 
+8. Os certificados utilizam algoritmos de criptografia para proteger a segurança das informações transmitidas.
+9. Transações eletrônicas que utilizam certificados digitais são confidenciais, garantindo a privacidade dos dados envolvidos.
+10. A utilização de certificados digitais em transações eletrônicas contribui para a redução de fraudes e crimes cibernéticos.
 
 8. Subtópico:
 8. Legislação relacionada aos certificados digitais no Brasil 

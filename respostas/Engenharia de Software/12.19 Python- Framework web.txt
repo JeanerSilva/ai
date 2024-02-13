@@ -59,16 +59,16 @@ Assertivas:
 5. Subtópico:
 5. Pyramid: Características e funcionalidades
 Assertivas:
-1) A Pyramid é um framework Python para desenvolvimento web.
-2) A Pyramid segue o princípio de ser minimalista, permitindo que o desenvolvedor escolha as ferramentas e bibliotecas mais adequadas.
-3) A arquitetura da Pyramid é baseada no padrão MVC (Model-View-Controller).
-4) A Pyramid oferece suporte à autenticação de usuários, permitindo implementar mecanismos de login e controle de acesso.
-5) A Pyramid possui uma documentação abrangente e bem estruturada, facilitando o aprendizado e a utilização do framework.
-6) A identificação de rotas é uma funcionalidade importante na Pyramid, permitindo mapear URLs para funções ou métodos específicos.
-7) A Pyramid suporta a criação de APIs RESTful, possibilitando a comunicação entre diferentes sistemas.
-8) A estrutura de views na Pyramid é flexível, permitindo tanto o uso de templates como a geração de respostas customizadas.
-9) A integração de bancos de dados é facilitada pela Pyramid, que suporta diferentes sistemas de gerenciamento.
-10) A Pyramid é uma opção adequada para o desenvolvimento de aplicações web de médio a grande porte, devido à sua escalabilidade e flexibilidade.
+1. A Pyramid é um framework Python para desenvolvimento web.
+2. A Pyramid segue o princípio de ser minimalista, permitindo que o desenvolvedor escolha as ferramentas e bibliotecas mais adequadas.
+3. A arquitetura da Pyramid é baseada no padrão MVC (Model-View-Controller).
+4. A Pyramid oferece suporte à autenticação de usuários, permitindo implementar mecanismos de login e controle de acesso.
+5. A Pyramid possui uma documentação abrangente e bem estruturada, facilitando o aprendizado e a utilização do framework.
+6. A identificação de rotas é uma funcionalidade importante na Pyramid, permitindo mapear URLs para funções ou métodos específicos.
+7. A Pyramid suporta a criação de APIs RESTful, possibilitando a comunicação entre diferentes sistemas.
+8. A estrutura de views na Pyramid é flexível, permitindo tanto o uso de templates como a geração de respostas customizadas.
+9. A integração de bancos de dados é facilitada pela Pyramid, que suporta diferentes sistemas de gerenciamento.
+10. A Pyramid é uma opção adequada para o desenvolvimento de aplicações web de médio a grande porte, devido à sua escalabilidade e flexibilidade.
 
 6. Subtópico:
 6. Desenvolvimento de aplicações web com Django 

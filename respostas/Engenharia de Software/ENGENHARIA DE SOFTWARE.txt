@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Metodologias Ágeis em Engenharia de Software
 Assertivas:
-1) As metodologias ágeis em engenharia de software têm como objetivo principal a entrega de valor de maneira incremental e interativa ao cliente.
-2) A adoção de metodologias ágeis em engenharia de software estimula a colaboração e a comunicação contínua entre os membros da equipe.
-3) As metodologias ágeis em engenharia de software enfatizam a adaptação às mudanças durante o desenvolvimento do projeto.
-4) O Manifesto Ágil é um documento que apresenta os valores e princípios que orientam as metodologias ágeis em engenharia de software.
-5) O Scrum é uma das metodologias ágeis mais conhecidas e amplamente utilizadas em engenharia de software.
-6) A metodologia Kanban é baseada em uma abordagem visual que permite o gerenciamento de fluxo contínuo de trabalho em engenharia de software.
-7) A metodologia Lean Software Development possui uma forte ligação com as práticas enxutas de gerenciamento de produção e tem como objetivo eliminar desperdícios durante o desenvolvimento de software.
-8) A metodologia Extreme Programming (XP) é uma abordagem ágil que enfatiza a qualidade do software através de práticas como programação em par e testes automatizados.
-9) As metodologias ágeis em engenharia de software valorizam a interação e a colaboração com o cliente durante todo o ciclo de desenvolvimento do software.
-10) A agilidade em engenharia de software é uma resposta às limitações das abordagens tradicionais de desenvolvimento, buscando maior flexibilidade e eficiência no processo de criação de software.
+1. As metodologias ágeis em engenharia de software têm como objetivo principal a entrega de valor de maneira incremental e interativa ao cliente.
+2. A adoção de metodologias ágeis em engenharia de software estimula a colaboração e a comunicação contínua entre os membros da equipe.
+3. As metodologias ágeis em engenharia de software enfatizam a adaptação às mudanças durante o desenvolvimento do projeto.
+4. O Manifesto Ágil é um documento que apresenta os valores e princípios que orientam as metodologias ágeis em engenharia de software.
+5. O Scrum é uma das metodologias ágeis mais conhecidas e amplamente utilizadas em engenharia de software.
+6. A metodologia Kanban é baseada em uma abordagem visual que permite o gerenciamento de fluxo contínuo de trabalho em engenharia de software.
+7. A metodologia Lean Software Development possui uma forte ligação com as práticas enxutas de gerenciamento de produção e tem como objetivo eliminar desperdícios durante o desenvolvimento de software.
+8. A metodologia Extreme Programming (XP) é uma abordagem ágil que enfatiza a qualidade do software através de práticas como programação em par e testes automatizados.
+9. As metodologias ágeis em engenharia de software valorizam a interação e a colaboração com o cliente durante todo o ciclo de desenvolvimento do software.
+10. A agilidade em engenharia de software é uma resposta às limitações das abordagens tradicionais de desenvolvimento, buscando maior flexibilidade e eficiência no processo de criação de software.
 
 4. Subtópico:
 4. Gerenciamento de Projetos em Engenharia de Software

@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Diferenças entre os bancos de dados SQL e NoSQL.
 Assertivas:
-1) Os bancos de dados SQL são baseados em estruturas de tabelas relacionais, enquanto os bancos de dados NoSQL utilizam modelos de dados não relacionais.
-2) Os bancos de dados SQL possuem esquemas rígidos, onde é necessário definir previamente a estrutura da tabela e seus tipos de dados, já os bancos de dados NoSQL possuem esquemas flexíveis, permitindo que os dados sejam armazenados sem a necessidade de um esquema pré-definido.
-3) Em bancos de dados SQL, a consulta é realizada principalmente por meio da linguagem SQL (Structured Query Language), enquanto nos bancos de dados NoSQL, as consultas variam de acordo com o tipo de banco de dados, podendo ser feitas através de APIs específicas ou utilizando uma linguagem de consulta própria.
-4) Bancos de dados SQL são mais eficientes quando se trata de consultas complexas que envolvem junções de tabelas, enquanto bancos de dados NoSQL são mais adequados para situações em que é necessário lidar com grandes quantidades de dados não estruturados.
-5) Devido ao seu esquema flexível, os bancos de dados NoSQL são mais adequados para aplicações web escaláveis, que precisam lidar com grandes volumes de dados e permitir atualizações contínuas do esquema.
-6) Bancos de dados SQL são amplamente utilizados em sistemas de gestão de bancos de dados relacionais, como MySQL, Oracle e PostgreSQL, enquanto bancos de dados NoSQL são mais comumente encontrados em sistemas de bancos de dados orientados a documentos, como MongoDB e Couchbase.
-7) Bancos de dados SQL são projetados para garantir a consistência dos dados, seguindo o ACID (Atomicidade, Consistência, Isolamento e Durabilidade), enquanto bancos de dados NoSQL geralmente priorizam a disponibilidade e a tolerância a falhas, seguindo o modelo BASE (Basically Available, Soft state, Eventually consistent).
-8) Em termos de desempenho, bancos de dados NoSQL são frequentemente mais rápidos em operações de leitura e gravação em comparação com bancos de dados SQL, devido à sua estrutura de dados não relacionais.
-9) Bancos de dados SQL são mais adequados para aplicações que exigem transações complexas, garantindo a integridade dos dados, enquanto bancos de dados NoSQL são mais adequados para aplicações orientadas a documentos ou que precisam lidar com dados não estruturados.
-10) Em termos de escalabilidade horizontal, onde é necessário adicionar mais servidores para lidar com o crescimento da demanda, os bancos de dados NoSQL geralmente superam os bancos de dados SQL, devido à sua arquitetura distribuída e capacidade de expansão mais flexível.
+1. Os bancos de dados SQL são baseados em estruturas de tabelas relacionais, enquanto os bancos de dados NoSQL utilizam modelos de dados não relacionais.
+2. Os bancos de dados SQL possuem esquemas rígidos, onde é necessário definir previamente a estrutura da tabela e seus tipos de dados, já os bancos de dados NoSQL possuem esquemas flexíveis, permitindo que os dados sejam armazenados sem a necessidade de um esquema pré-definido.
+3. Em bancos de dados SQL, a consulta é realizada principalmente por meio da linguagem SQL (Structured Query Language), enquanto nos bancos de dados NoSQL, as consultas variam de acordo com o tipo de banco de dados, podendo ser feitas através de APIs específicas ou utilizando uma linguagem de consulta própria.
+4. Bancos de dados SQL são mais eficientes quando se trata de consultas complexas que envolvem junções de tabelas, enquanto bancos de dados NoSQL são mais adequados para situações em que é necessário lidar com grandes quantidades de dados não estruturados.
+5. Devido ao seu esquema flexível, os bancos de dados NoSQL são mais adequados para aplicações web escaláveis, que precisam lidar com grandes volumes de dados e permitir atualizações contínuas do esquema.
+6. Bancos de dados SQL são amplamente utilizados em sistemas de gestão de bancos de dados relacionais, como MySQL, Oracle e PostgreSQL, enquanto bancos de dados NoSQL são mais comumente encontrados em sistemas de bancos de dados orientados a documentos, como MongoDB e Couchbase.
+7. Bancos de dados SQL são projetados para garantir a consistência dos dados, seguindo o ACID (Atomicidade, Consistência, Isolamento e Durabilidade), enquanto bancos de dados NoSQL geralmente priorizam a disponibilidade e a tolerância a falhas, seguindo o modelo BASE (Basically Available, Soft state, Eventually consistent).
+8. Em termos de desempenho, bancos de dados NoSQL são frequentemente mais rápidos em operações de leitura e gravação em comparação com bancos de dados SQL, devido à sua estrutura de dados não relacionais.
+9. Bancos de dados SQL são mais adequados para aplicações que exigem transações complexas, garantindo a integridade dos dados, enquanto bancos de dados NoSQL são mais adequados para aplicações orientadas a documentos ou que precisam lidar com dados não estruturados.
+10. Em termos de escalabilidade horizontal, onde é necessário adicionar mais servidores para lidar com o crescimento da demanda, os bancos de dados NoSQL geralmente superam os bancos de dados SQL, devido à sua arquitetura distribuída e capacidade de expansão mais flexível.
 
 3. Subtópico:
 3. Tipos de bancos de dados NoSQL: chave-valor, documento, coluna e grafo.

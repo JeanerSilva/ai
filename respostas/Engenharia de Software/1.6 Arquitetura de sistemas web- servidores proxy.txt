@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Configuração e Gerenciamento de Servidores Proxy
 Assertivas:
-1) O servidor proxy é utilizado para intermediar a comunicação entre clientes e servidores.
-2) O servidor proxy permite o controle e monitoramento do tráfego de rede.
-3) O servidor proxy pode ser configurado para restringir o acesso a determinados sites ou tipos de conteúdos.
-4) É possível configurar um servidor proxy para autenticar usuários antes de permitir o acesso à internet.
-5) O servidor proxy pode aumentar a velocidade de acesso à internet ao armazenar em cache conteúdos frequentemente acessados.
-6) O gerenciamento de servidores proxy envolve a configuração e monitoramento das políticas de acesso.
-7) O servidor proxy oferece funcionalidades de balanceamento de carga, distribuindo as requisições dos clientes entre diferentes servidores.
-8) A configuração de um servidor proxy pode ser feita por meio de alterações em arquivos de configuração ou por meio de interfaces gráficas.
-9) A escolha do tipo de servidor proxy (HTTP, SOCKS, transparente, reverso, etc.) depende das necessidades e da infraestrutura de cada organização.
-10) O gerenciamento eficiente de servidores proxy envolve a análise de logs de acesso e a adoção de políticas de segurança adequadas.
+1. O servidor proxy é utilizado para intermediar a comunicação entre clientes e servidores.
+2. O servidor proxy permite o controle e monitoramento do tráfego de rede.
+3. O servidor proxy pode ser configurado para restringir o acesso a determinados sites ou tipos de conteúdos.
+4. É possível configurar um servidor proxy para autenticar usuários antes de permitir o acesso à internet.
+5. O servidor proxy pode aumentar a velocidade de acesso à internet ao armazenar em cache conteúdos frequentemente acessados.
+6. O gerenciamento de servidores proxy envolve a configuração e monitoramento das políticas de acesso.
+7. O servidor proxy oferece funcionalidades de balanceamento de carga, distribuindo as requisições dos clientes entre diferentes servidores.
+8. A configuração de um servidor proxy pode ser feita por meio de alterações em arquivos de configuração ou por meio de interfaces gráficas.
+9. A escolha do tipo de servidor proxy (HTTP, SOCKS, transparente, reverso, etc.) depende das necessidades e da infraestrutura de cada organização.
+10. O gerenciamento eficiente de servidores proxy envolve a análise de logs de acesso e a adoção de políticas de segurança adequadas.
 
 4. Subtópico:
 4. Benefícios do Uso de Servidores Proxy em Sistemas Web

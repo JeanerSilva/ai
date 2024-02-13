@@ -45,25 +45,25 @@ Assertivas:
 4. Subtópico:
 4. Diferença entre IA Generativa e Discriminativa.
 Assertivas:
-1) A inteligência artificial generativa é capaz de criar novos dados e informações, enquanto a discriminativa se concentra em classificar e identificar padrões existentes nos dados.
+1. A inteligência artificial generativa é capaz de criar novos dados e informações, enquanto a discriminativa se concentra em classificar e identificar padrões existentes nos dados.
 
-2) A IA generativa é frequentemente usada em tarefas como geração de texto, imagens e música, enquanto a discriminativa é amplamente aplicada em classificação de imagens, detecção de fraudes e tradução automática.
+2. A IA generativa é frequentemente usada em tarefas como geração de texto, imagens e música, enquanto a discriminativa é amplamente aplicada em classificação de imagens, detecção de fraudes e tradução automática.
 
-3) A IA generativa utiliza modelos probabilísticos e redes neurais generativas para aprender e gerar dados sintéticos, enquanto a discriminativa se baseia em algoritmos de aprendizado supervisionado para fazer previsões.
+3. A IA generativa utiliza modelos probabilísticos e redes neurais generativas para aprender e gerar dados sintéticos, enquanto a discriminativa se baseia em algoritmos de aprendizado supervisionado para fazer previsões.
 
-4) A IA generativa é mais criativa e gera resultados mais variados, mas a discrimativa possui maior capacidade de aprender com exemplos presentes nos dados de treinamento.
+4. A IA generativa é mais criativa e gera resultados mais variados, mas a discrimativa possui maior capacidade de aprender com exemplos presentes nos dados de treinamento.
 
-5) A IA generativa requer uma maior quantidade de dados de treinamento para alcançar bons resultados, enquanto a discriminativa pode atingir um bom desempenho mesmo com um conjunto de dados menor.
+5. A IA generativa requer uma maior quantidade de dados de treinamento para alcançar bons resultados, enquanto a discriminativa pode atingir um bom desempenho mesmo com um conjunto de dados menor.
 
-6) A IA generativa é mais adequada para tarefas de geração de conteúdo, como criação de roteiros de filmes, pinturas ou músicas originais, enquanto a discriminativa é mais útil para problemas onde é necessário reconhecer e classificar objetos ou características específicas.
+6. A IA generativa é mais adequada para tarefas de geração de conteúdo, como criação de roteiros de filmes, pinturas ou músicas originais, enquanto a discriminativa é mais útil para problemas onde é necessário reconhecer e classificar objetos ou características específicas.
 
-7) A IA generativa pode ser aplicada em áreas como criação de personagens virtuais e geração automática de resumos de texto, enquanto a discriminativa é utilizada em aplicações como reconhecimento facial e identificação de padrões de comportamento em grandes conjuntos de dados.
+7. A IA generativa pode ser aplicada em áreas como criação de personagens virtuais e geração automática de resumos de texto, enquanto a discriminativa é utilizada em aplicações como reconhecimento facial e identificação de padrões de comportamento em grandes conjuntos de dados.
 
-8) Ambas as abordagens, generativa e discriminativa, têm vantagens e desvantagens específicas e são aplicadas de acordo com as necessidades e objetivos de cada projeto de inteligência artificial.
+8. Ambas as abordagens, generativa e discriminativa, têm vantagens e desvantagens específicas e são aplicadas de acordo com as necessidades e objetivos de cada projeto de inteligência artificial.
 
-9) A IA generativa é mais complexa em termos de modelagem e treinamento, exigindo técnicas avançadas de aprendizado de máquina e processamento de linguagem natural, enquanto a discriminativa é mais direta e depende principalmente de algoritmos de classificação.
+9. A IA generativa é mais complexa em termos de modelagem e treinamento, exigindo técnicas avançadas de aprendizado de máquina e processamento de linguagem natural, enquanto a discriminativa é mais direta e depende principalmente de algoritmos de classificação.
 
-10) A IA generativa abre possibilidades inovadoras para a criação de novos conteúdos e soluções criativas, enquanto a discriminativa é importante para aprimorar a eficiência de processos e a tomada de decisões baseada em dados.
+10. A IA generativa abre possibilidades inovadoras para a criação de novos conteúdos e soluções criativas, enquanto a discriminativa é importante para aprimorar a eficiência de processos e a tomada de decisões baseada em dados.
 
 5. Subtópico:
 5. Redes Neurais Generativas Profundas (Deep Learning).

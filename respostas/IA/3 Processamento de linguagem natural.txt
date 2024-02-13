@@ -17,30 +17,30 @@ Assertivas:
 2. Subtópico:
 2. Componentes fundamentais do PLN: Morfologia, Sintaxe, Semântica e Pragmática
 Assertivas:
-1) A morfologia é responsável pelo estudo das unidades mínimas que compõem as palavras em um texto.
-2) A sintaxe é o campo da linguística que se concentra nas relações gramaticais entre as palavras em uma frase.
-3) A semântica se preocupa com o significado das palavras e como elas se relacionam entre si no contexto de um texto.
-4) A pragmática aborda o uso da linguagem em situações reais de comunicação, considerando fatores como intenção, contexto e inferências.
-5) Os componentes fundamentais do Processamento de Linguagem Natural (PLN) são a morfologia, a sintaxe, a semântica e a pragmática.
-6) O PLN utiliza esses componentes para processar e compreender a linguagem humana de forma automatizada.
-7) A morfologia permite identificar e analisar a estrutura das palavras em um texto, considerando seu radical, prefixo e sufixo.
-8) A sintaxe ajuda a identificar a função de cada palavra em uma frase, determinando relações como sujeito, verbo e complementos.
-9) A semântica permite relacionar as palavras em um texto, compreendendo seu significado individual e combinado.
-10) A pragmática considera o contexto em que uma frase é utilizada, incluindo aspectos como inferências, ironia e intenção comunicativa.
+1. A morfologia é responsável pelo estudo das unidades mínimas que compõem as palavras em um texto.
+2. A sintaxe é o campo da linguística que se concentra nas relações gramaticais entre as palavras em uma frase.
+3. A semântica se preocupa com o significado das palavras e como elas se relacionam entre si no contexto de um texto.
+4. A pragmática aborda o uso da linguagem em situações reais de comunicação, considerando fatores como intenção, contexto e inferências.
+5. Os componentes fundamentais do Processamento de Linguagem Natural (PLN) são a morfologia, a sintaxe, a semântica e a pragmática.
+6. O PLN utiliza esses componentes para processar e compreender a linguagem humana de forma automatizada.
+7. A morfologia permite identificar e analisar a estrutura das palavras em um texto, considerando seu radical, prefixo e sufixo.
+8. A sintaxe ajuda a identificar a função de cada palavra em uma frase, determinando relações como sujeito, verbo e complementos.
+9. A semântica permite relacionar as palavras em um texto, compreendendo seu significado individual e combinado.
+10. A pragmática considera o contexto em que uma frase é utilizada, incluindo aspectos como inferências, ironia e intenção comunicativa.
 
 3. Subtópico:
 3. Técnicas de Análise Léxica no PLN
 Assertivas:
-1) A análise léxica no Processamento de Linguagem Natural (PLN) é uma etapa fundamental para a compreensão de textos.
-2) As técnicas de análise léxica são responsáveis por identificar e classificar os elementos léxicos presentes em um texto.
-3) A análise léxica no PLN envolve a quebra do texto em unidades menores, como palavras e símbolos, chamados de tokens.
-4) Durante a análise léxica, são aplicadas regras gramaticais para identificação de padrões e estruturas linguísticas.
-5) A análise léxica é importante para lidar com desafios como ambiguidade e polissemia nas palavras de um texto.
-6) Um dos objetivos da análise léxica é construir uma representação estruturada das palavras encontradas, conhecida como léxico computacional.
-7) As técnicas de análise léxica podem ser utilizadas para tarefas como correção ortográfica e lematização de palavras.
-8) Durante a análise léxica, é comum o uso de algoritmos de tokenização para dividir o texto em unidades significativas.
-9) A análise léxica é um processo automático que utiliza recursos computacionais para agilizar a identificação e classificação das palavras.
-10) A análise léxica é uma etapa preliminar e essencial para o desenvolvimento de sistemas de PLN e compreensão da linguagem natural.
+1. A análise léxica no Processamento de Linguagem Natural (PLN) é uma etapa fundamental para a compreensão de textos.
+2. As técnicas de análise léxica são responsáveis por identificar e classificar os elementos léxicos presentes em um texto.
+3. A análise léxica no PLN envolve a quebra do texto em unidades menores, como palavras e símbolos, chamados de tokens.
+4. Durante a análise léxica, são aplicadas regras gramaticais para identificação de padrões e estruturas linguísticas.
+5. A análise léxica é importante para lidar com desafios como ambiguidade e polissemia nas palavras de um texto.
+6. Um dos objetivos da análise léxica é construir uma representação estruturada das palavras encontradas, conhecida como léxico computacional.
+7. As técnicas de análise léxica podem ser utilizadas para tarefas como correção ortográfica e lematização de palavras.
+8. Durante a análise léxica, é comum o uso de algoritmos de tokenização para dividir o texto em unidades significativas.
+9. A análise léxica é um processo automático que utiliza recursos computacionais para agilizar a identificação e classificação das palavras.
+10. A análise léxica é uma etapa preliminar e essencial para o desenvolvimento de sistemas de PLN e compreensão da linguagem natural.
 
 4. Subtópico:
 4. Algoritmos de Aprendizado de Máquina aplicados ao PLN

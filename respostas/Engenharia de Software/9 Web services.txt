@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Protocolos de Comunicação em Web Services (SOAP, REST)
 Assertivas:
-1) SOAP é um protocolo de comunicação baseado em XML, utilizado em Web Services para a troca de mensagens entre sistemas distribuídos.
-2) SOAP oferece um conjunto de regras e padrões para a estruturação e formatação de mensagens, facilitando a integração entre sistemas heterogêneos.
-3) REST (Representational State Transfer) é um estilo arquitetural utilizado em Web Services, baseado no protocolo HTTP e recursos identificáveis por URLs.
-4) REST permite que os clientes acessem e manipulem os dados de um serviço web por meio de operações padrões do HTTP, como GET, POST, PUT e DELETE.
-5) SOAP utiliza o formato XML para a transmissão dos dados, o que pode tornar as mensagens maiores em comparação com REST, que utiliza o formato JSON, mais compacto.
-6) SOAP exige uma estrutura mais complexa para o envio de mensagens, incluindo cabeçalhos e envelopes, enquanto REST é mais simples, com transferências de dados diretas.
-7) SOAP é amplamente utilizado em contextos empresariais, onde a segurança e a confiabilidade são prioritárias, enquanto REST é mais comum em cenários de integração entre sistemas web.
-8) SOAP possui suporte nativo para a execução de transações complexas, enquanto REST é mais voltado para a comunicação entre clientes e serviços de forma mais leve e direta.
-9) SOAP oferece um alto grau de interoperabilidade entre diferentes plataformas e linguagens de programação devido ao uso do XML como formato universal.
-10) REST é mais adequado para situações em que a performance e a escalabilidade são necessárias, devido à simplicidade das requisições e respostas HTTP.
+1. SOAP é um protocolo de comunicação baseado em XML, utilizado em Web Services para a troca de mensagens entre sistemas distribuídos.
+2. SOAP oferece um conjunto de regras e padrões para a estruturação e formatação de mensagens, facilitando a integração entre sistemas heterogêneos.
+3. REST (Representational State Transfer) é um estilo arquitetural utilizado em Web Services, baseado no protocolo HTTP e recursos identificáveis por URLs.
+4. REST permite que os clientes acessem e manipulem os dados de um serviço web por meio de operações padrões do HTTP, como GET, POST, PUT e DELETE.
+5. SOAP utiliza o formato XML para a transmissão dos dados, o que pode tornar as mensagens maiores em comparação com REST, que utiliza o formato JSON, mais compacto.
+6. SOAP exige uma estrutura mais complexa para o envio de mensagens, incluindo cabeçalhos e envelopes, enquanto REST é mais simples, com transferências de dados diretas.
+7. SOAP é amplamente utilizado em contextos empresariais, onde a segurança e a confiabilidade são prioritárias, enquanto REST é mais comum em cenários de integração entre sistemas web.
+8. SOAP possui suporte nativo para a execução de transações complexas, enquanto REST é mais voltado para a comunicação entre clientes e serviços de forma mais leve e direta.
+9. SOAP oferece um alto grau de interoperabilidade entre diferentes plataformas e linguagens de programação devido ao uso do XML como formato universal.
+10. REST é mais adequado para situações em que a performance e a escalabilidade são necessárias, devido à simplicidade das requisições e respostas HTTP.
 
 3. Subtópico:
 3. Formatos de Dados em Web Services (XML, JSON)

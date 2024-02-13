@@ -73,16 +73,16 @@ Assertivas:
 6. Subtópico:
 6. Manipulação de Exceções (Try, Catch, Finally) 
 Assertivas:
-1) A manipulação de exceções é um recurso essencial na programação, pois permite tratar erros e exceções durante a execução do código.
-2) O bloco try é utilizado para envolver o código que pode gerar uma exceção.
-3) O bloco catch é utilizado para capturar e tratar as exceções geradas no bloco try.
-4) É possível ter vários blocos catch para tratar diferentes tipos de exceções.
-5) É possível utilizar o bloco finally para executar um código independentemente de ter ocorrido ou não uma exceção.
-6) Caso uma exceção seja lançada em um bloco try, o programa vai diretamente para o bloco catch correspondente.
-7) O bloco finally é executado sempre, independentemente de ter ocorrido uma exceção ou não.
-8) É possível lançar uma exceção manualmente utilizando a instrução throw.
-9) É recomendado tratar exceções específicas em blocos catch separados, para facilitar a identificação e o tratamento adequado dos erros.
-10) A manipulação adequada de exceções contribui para a robustez e segurança do programa.
+1. A manipulação de exceções é um recurso essencial na programação, pois permite tratar erros e exceções durante a execução do código.
+2. O bloco try é utilizado para envolver o código que pode gerar uma exceção.
+3. O bloco catch é utilizado para capturar e tratar as exceções geradas no bloco try.
+4. É possível ter vários blocos catch para tratar diferentes tipos de exceções.
+5. É possível utilizar o bloco finally para executar um código independentemente de ter ocorrido ou não uma exceção.
+6. Caso uma exceção seja lançada em um bloco try, o programa vai diretamente para o bloco catch correspondente.
+7. O bloco finally é executado sempre, independentemente de ter ocorrido uma exceção ou não.
+8. É possível lançar uma exceção manualmente utilizando a instrução throw.
+9. É recomendado tratar exceções específicas em blocos catch separados, para facilitar a identificação e o tratamento adequado dos erros.
+10. A manipulação adequada de exceções contribui para a robustez e segurança do programa.
 
 7. Subtópico:
 7. Coleções em Java (List, Set, Map)

@@ -45,25 +45,25 @@ Assertivas:
 4. Subtópico:
 4. Monitoramento e detecção de falhas em sistemas computacionais.
 Assertivas:
-1) O monitoramento de sistemas computacionais é uma estratégia utilizada para identificar falhas e problemas de desempenho em tempo real.
+1. O monitoramento de sistemas computacionais é uma estratégia utilizada para identificar falhas e problemas de desempenho em tempo real.
 
-2) O monitoramento proativo de falhas em sistemas computacionais permite antecipar e prevenir potenciais problemas antes que eles possam afetar a disponibilidade e a confiabilidade dos sistemas.
+2. O monitoramento proativo de falhas em sistemas computacionais permite antecipar e prevenir potenciais problemas antes que eles possam afetar a disponibilidade e a confiabilidade dos sistemas.
 
-3) A detecção de falhas em sistemas computacionais pode ser realizada por meio do uso de monitoramento de logs, métricas de desempenho e testes automatizados.
+3. A detecção de falhas em sistemas computacionais pode ser realizada por meio do uso de monitoramento de logs, métricas de desempenho e testes automatizados.
 
-4) O uso de ferramentas de automação no monitoramento e detecção de falhas em sistemas computacionais contribui para reduzir a necessidade de intervenção manual e aumentar a eficiência do processo.
+4. O uso de ferramentas de automação no monitoramento e detecção de falhas em sistemas computacionais contribui para reduzir a necessidade de intervenção manual e aumentar a eficiência do processo.
 
-5) A implementação de estratégias de alta disponibilidade e redundância em sistemas computacionais auxilia na detecção e mitigação de falhas, minimizando o impacto na continuidade dos serviços.
+5. A implementação de estratégias de alta disponibilidade e redundância em sistemas computacionais auxilia na detecção e mitigação de falhas, minimizando o impacto na continuidade dos serviços.
 
-6) A análise de dados provenientes do monitoramento de sistemas computacionais permite identificar padrões e tendências que podem ajudar na prevenção e resolução de problemas.
+6. A análise de dados provenientes do monitoramento de sistemas computacionais permite identificar padrões e tendências que podem ajudar na prevenção e resolução de problemas.
 
-7) A documentação adequada dos procedimentos de monitoramento e detecção de falhas em sistemas computacionais representa uma etapa crucial para garantir a padronização e a eficácia dessas práticas.
+7. A documentação adequada dos procedimentos de monitoramento e detecção de falhas em sistemas computacionais representa uma etapa crucial para garantir a padronização e a eficácia dessas práticas.
 
-8) A atualização regular dos softwares e sistemas operacionais utilizados em sistemas computacionais contribui para a prevenção de falhas decorrentes de vulnerabilidades conhecidas.
+8. A atualização regular dos softwares e sistemas operacionais utilizados em sistemas computacionais contribui para a prevenção de falhas decorrentes de vulnerabilidades conhecidas.
 
-9) A integração de ferramentas de alerta e notificação em tempo real no monitoramento de sistemas computacionais auxilia na detecção imediata de falhas e na tomada de ações corretivas de forma ágil.
+9. A integração de ferramentas de alerta e notificação em tempo real no monitoramento de sistemas computacionais auxilia na detecção imediata de falhas e na tomada de ações corretivas de forma ágil.
 
-10) A adoção de boas práticas de segurança da informação, como a utilização de criptografia e autenticação forte, contribui para a detecção e prevenção de falhas relacionadas a possíveis ataques cibernéticos.
+10. A adoção de boas práticas de segurança da informação, como a utilização de criptografia e autenticação forte, contribui para a detecção e prevenção de falhas relacionadas a possíveis ataques cibernéticos.
 
 5. Subtópico:
 5. Planejamento e implementação da continuidade dos negócios (Business Continuity Planning - BCP).
@@ -119,15 +119,15 @@ Assertivas:
 8. Subtópico:
 8. Sistemas distrib
 Assertivas:
-1) Os sistemas distribuídos são compostos por um conjunto de computadores interconectados que funcionam de forma coordenada.
-2) Um dos principais objetivos dos sistemas distribuídos é permitir uma maior capacidade computacional, possibilitando a execução de tarefas mais complexas.
-3) Os sistemas distribuídos podem ser formados por computadores localizados em diferentes redes geograficamente dispersas.
-4) A comunicação entre os diferentes componentes de um sistema distribuído é fundamental para o seu funcionamento adequado.
-5) A tolerância a falhas é um aspecto importante nos sistemas distribuídos, pois é necessário garantir o funcionamento mesmo quando ocorrem problemas em um ou mais componentes.
-6) Os sistemas distribuídos podem ser utilizados em diferentes áreas, como processamento de dados, comunicação, armazenamento de informações, entre outras.
-7) Um exemplo prático de sistema distribuído é a Internet, que interconecta diversos computadores e redes pelo mundo todo.
-8) A escalabilidade é um dos desafios enfrentados nos sistemas distribuídos, pois é necessário garantir que o sistema continue funcionando de forma eficiente mesmo quando há aumento no número de componentes ou na demanda.
-9) A segurança da informação é uma preocupação constante nos sistemas distribuídos, exigindo mecanismos de proteção adequados para garantir a integridade e confidencialidade dos dados.
-10) A computação em nuvem é um exemplo de aplicação de sistemas distribuídos, permitindo o acesso a recursos computacionais de forma virtualizada e flexível.
+1. Os sistemas distribuídos são compostos por um conjunto de computadores interconectados que funcionam de forma coordenada.
+2. Um dos principais objetivos dos sistemas distribuídos é permitir uma maior capacidade computacional, possibilitando a execução de tarefas mais complexas.
+3. Os sistemas distribuídos podem ser formados por computadores localizados em diferentes redes geograficamente dispersas.
+4. A comunicação entre os diferentes componentes de um sistema distribuído é fundamental para o seu funcionamento adequado.
+5. A tolerância a falhas é um aspecto importante nos sistemas distribuídos, pois é necessário garantir o funcionamento mesmo quando ocorrem problemas em um ou mais componentes.
+6. Os sistemas distribuídos podem ser utilizados em diferentes áreas, como processamento de dados, comunicação, armazenamento de informações, entre outras.
+7. Um exemplo prático de sistema distribuído é a Internet, que interconecta diversos computadores e redes pelo mundo todo.
+8. A escalabilidade é um dos desafios enfrentados nos sistemas distribuídos, pois é necessário garantir que o sistema continue funcionando de forma eficiente mesmo quando há aumento no número de componentes ou na demanda.
+9. A segurança da informação é uma preocupação constante nos sistemas distribuídos, exigindo mecanismos de proteção adequados para garantir a integridade e confidencialidade dos dados.
+10. A computação em nuvem é um exemplo de aplicação de sistemas distribuídos, permitindo o acesso a recursos computacionais de forma virtualizada e flexível.
 
 

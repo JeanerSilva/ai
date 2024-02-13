@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Operadores em Python: Aritméticos, Comparação, Atribuição.
 Assertivas:
-1) Os operadores aritméticos em Python permitem realizar operações matemáticas como adição, subtração, multiplicação e divisão.
-2) O operador de comparação "==" é utilizado em Python para verificar se dois valores são iguais.
-3) O operador de atribuição "=" é utilizado em Python para atribuir um valor a uma variável.
-4) O operador aritmético "//" em Python realiza a divisão inteira entre dois números.
-5) O operador de comparação ">=" em Python verifica se um valor é maior ou igual a outro valor.
-6) O operador de atribuição composta "+=" em Python adiciona um valor à variável existente.
-7) O operador aritmético "*" em Python realiza a multiplicação entre dois números.
-8) O operador de comparação "<=" em Python verifica se um valor é menor ou igual a outro valor.
-9) O operador de atribuição composta "-=" em Python subtrai um valor da variável existente.
-10) O operador aritmético "%" em Python retorna o resto da divisão entre dois números.
+1. Os operadores aritméticos em Python permitem realizar operações matemáticas como adição, subtração, multiplicação e divisão.
+2. O operador de comparação "==" é utilizado em Python para verificar se dois valores são iguais.
+3. O operador de atribuição "=" é utilizado em Python para atribuir um valor a uma variável.
+4. O operador aritmético "//" em Python realiza a divisão inteira entre dois números.
+5. O operador de comparação ">=" em Python verifica se um valor é maior ou igual a outro valor.
+6. O operador de atribuição composta "+=" em Python adiciona um valor à variável existente.
+7. O operador aritmético "*" em Python realiza a multiplicação entre dois números.
+8. O operador de comparação "<=" em Python verifica se um valor é menor ou igual a outro valor.
+9. O operador de atribuição composta "-=" em Python subtrai um valor da variável existente.
+10. O operador aritmético "%" em Python retorna o resto da divisão entre dois números.
 
 4. Subtópico:
 4. Controle de Fluxo em Python: Instruções if-elif-else e loops for e while.

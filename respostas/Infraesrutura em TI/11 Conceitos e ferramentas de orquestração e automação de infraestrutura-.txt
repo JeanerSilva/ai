@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Conceitos fundamentais em automação e orquestração de infraestrutura
 Assertivas:
-1) A automação de infraestrutura refere-se ao uso de tecnologia para realizar tarefas de forma automatizada, reduzindo a necessidade de intervenção humana.
-2) A orquestração de infraestrutura é a coordenação de diversos elementos e recursos de infraestrutura por meio de um sistema centralizado.
-3) A automação e orquestração de infraestrutura têm como objetivo aumentar a eficiência e agilidade na gestão e provisionamento de recursos de TI.
-4) A automação de infraestrutura envolve a criação de scripts ou código para executar tarefas repetitivas ou complexas automaticamente.
-5) A orquestração de infraestrutura permite a integração entre diferentes sistemas e serviços, facilitando a comunicação e o compartilhamento de informações entre eles.
-6) A automação e orquestração de infraestrutura são essenciais para a implementação e gerenciamento efetivo de ambientes de nuvem.
-7) A automação de infraestrutura pode ser aplicada em diferentes camadas de uma infraestrutura de TI, como redes, servidores, armazenamento, entre outros.
-8) A orquestração de infraestrutura permite a criação de workflows ou fluxos de trabalho automatizados, que definem a sequência de tarefas a serem executadas.
-9) A automação e orquestração de infraestrutura tornam os processos de implementação, provisionamento e manutenção de infraestrutura mais padronizados e escaláveis.
-10) A automação e orquestração de infraestrutura estão diretamente relacionadas à transformação digital nas organizações, possibilitando maior agilidade e eficiência operacional.
+1. A automação de infraestrutura refere-se ao uso de tecnologia para realizar tarefas de forma automatizada, reduzindo a necessidade de intervenção humana.
+2. A orquestração de infraestrutura é a coordenação de diversos elementos e recursos de infraestrutura por meio de um sistema centralizado.
+3. A automação e orquestração de infraestrutura têm como objetivo aumentar a eficiência e agilidade na gestão e provisionamento de recursos de TI.
+4. A automação de infraestrutura envolve a criação de scripts ou código para executar tarefas repetitivas ou complexas automaticamente.
+5. A orquestração de infraestrutura permite a integração entre diferentes sistemas e serviços, facilitando a comunicação e o compartilhamento de informações entre eles.
+6. A automação e orquestração de infraestrutura são essenciais para a implementação e gerenciamento efetivo de ambientes de nuvem.
+7. A automação de infraestrutura pode ser aplicada em diferentes camadas de uma infraestrutura de TI, como redes, servidores, armazenamento, entre outros.
+8. A orquestração de infraestrutura permite a criação de workflows ou fluxos de trabalho automatizados, que definem a sequência de tarefas a serem executadas.
+9. A automação e orquestração de infraestrutura tornam os processos de implementação, provisionamento e manutenção de infraestrutura mais padronizados e escaláveis.
+10. A automação e orquestração de infraestrutura estão diretamente relacionadas à transformação digital nas organizações, possibilitando maior agilidade e eficiência operacional.
 
 4. Subtópico:
 4. Benefícios e desafios da automação de infraestrutura

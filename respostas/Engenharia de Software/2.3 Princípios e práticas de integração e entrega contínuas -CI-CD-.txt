@@ -115,15 +115,15 @@ Assertivas:
 9. Subtópico:
 9. Gestão de configura
 Assertivas:
-1) A gestão de configuração é um processo fundamental para garantir o controle e a integridade dos itens de configuração em um ambiente de TI.
-2) A gestão de configuração envolve a identificação, controle, registro e monitoramento das alterações realizadas em itens de configuração.
-3) A gestão de configuração busca estabelecer uma base de linha de base (baseline) para referência e controle das configurações.
-4) A gestão de configuração tem como objetivo principal minimizar riscos e problemas relacionados à configuração dos itens de um ambiente de TI.
-5) A gestão de configuração deve ser realizada de forma sistemática e consistente, seguindo procedimentos padronizados.
-6) A gestão de configuração ajuda a garantir que as mudanças realizadas em um ambiente de TI sejam devidamente planejadas e autorizadas.
-7) A gestão de configuração é crucial para facilitar a identificação e resolução de problemas relacionados à configuração de sistemas.
-8) A gestão de configuração envolve a definição e manutenção de políticas, processos e ferramentas adequadas para o controle dos itens de configuração.
-9) A gestão de configuração contribui para a maximização da eficiência e da eficácia de um ambiente de TI, reduzindo a ocorrência de falhas e interrupções não planejadas.
-10) A gestão de configuração requer participação e cooperação de diversas áreas de uma organização, incluindo o time de TI, desenvolvedores, analistas de negócio e usuários finais.
+1. A gestão de configuração é um processo fundamental para garantir o controle e a integridade dos itens de configuração em um ambiente de TI.
+2. A gestão de configuração envolve a identificação, controle, registro e monitoramento das alterações realizadas em itens de configuração.
+3. A gestão de configuração busca estabelecer uma base de linha de base (baseline) para referência e controle das configurações.
+4. A gestão de configuração tem como objetivo principal minimizar riscos e problemas relacionados à configuração dos itens de um ambiente de TI.
+5. A gestão de configuração deve ser realizada de forma sistemática e consistente, seguindo procedimentos padronizados.
+6. A gestão de configuração ajuda a garantir que as mudanças realizadas em um ambiente de TI sejam devidamente planejadas e autorizadas.
+7. A gestão de configuração é crucial para facilitar a identificação e resolução de problemas relacionados à configuração de sistemas.
+8. A gestão de configuração envolve a definição e manutenção de políticas, processos e ferramentas adequadas para o controle dos itens de configuração.
+9. A gestão de configuração contribui para a maximização da eficiência e da eficácia de um ambiente de TI, reduzindo a ocorrência de falhas e interrupções não planejadas.
+10. A gestão de configuração requer participação e cooperação de diversas áreas de uma organização, incluindo o time de TI, desenvolvedores, analistas de negócio e usuários finais.
 
 

@@ -108,7 +108,7 @@ Assertivas:
 5. O autoboxing/unboxing acontece também em expressões aritméticas envolvendo tipos primitivos e classes wrapper.
 6. O autoboxing/unboxing pode ocorrer implicitamente em certos contextos, sem a necessidade de uma chamada explícita ao método correspondente.
 7. O autoboxing/unboxing pode acarretar em diminuição de desempenho em determinadas situações, pois envolve a criação de objetos em memória.
-8. O autoboxing/unboxing é uma das principais funcionalidades introduzidas na versão 5 do Java (Java 1.5).
+8. O autoboxing/unboxing é uma das principais funcionalidades introduzidas na versão 5 do Java (Java 1.5..
 9. O autoboxing/unboxing é amplamente utilizado em várias APIs do Java, como as coleções da biblioteca padrão.
 10. O autoboxing/unboxing pode ser evitado em situações em que o desempenho é crítico, optando-se por trabalhar diretamente com tipos primitivos.
 

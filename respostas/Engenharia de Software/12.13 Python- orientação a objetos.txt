@@ -45,16 +45,16 @@ Assertivas:
 4. Subtópico:
 4. Encapsulamento e Abstração em Python
 Assertivas:
-1) O encapsulamento em Python permite ocultar os detalhes internos de uma classe ou objeto.
-2) A abstração em Python permite criar classes e objetos que representam entidades do mundo real.
-3) Em Python, o encapsulamento é implementado através de convenções de nomenclatura e não por meio de modificadores de acesso.
-4) A abstração em Python pode ser alcançada utilizando classes abstratas e métodos abstratos.
-5) Em Python, o encapsulamento permite controlar o acesso aos atributos e métodos de uma classe ou objeto.
-6) A abstração em Python facilita a modularização do código, tornando-o mais legível e reutilizável.
-7) Em Python, o encapsulamento garante que as alterações internas de uma classe ou objeto não afetem o restante do programa.
-8) A abstração em Python permite criar hierarquias de classes, com classes mais abstratas servindo de base para classes mais específicas.
-9) Em Python, o encapsulamento é uma prática importante para garantir a integridade dos dados e evitar acesso não autorizado.
-10) A abstração em Python permite criar interfaces claras e concisas para utilização de uma classe ou objeto, facilitando o desenvolvimento de outros componentes do programa.
+1. O encapsulamento em Python permite ocultar os detalhes internos de uma classe ou objeto.
+2. A abstração em Python permite criar classes e objetos que representam entidades do mundo real.
+3. Em Python, o encapsulamento é implementado através de convenções de nomenclatura e não por meio de modificadores de acesso.
+4. A abstração em Python pode ser alcançada utilizando classes abstratas e métodos abstratos.
+5. Em Python, o encapsulamento permite controlar o acesso aos atributos e métodos de uma classe ou objeto.
+6. A abstração em Python facilita a modularização do código, tornando-o mais legível e reutilizável.
+7. Em Python, o encapsulamento garante que as alterações internas de uma classe ou objeto não afetem o restante do programa.
+8. A abstração em Python permite criar hierarquias de classes, com classes mais abstratas servindo de base para classes mais específicas.
+9. Em Python, o encapsulamento é uma prática importante para garantir a integridade dos dados e evitar acesso não autorizado.
+10. A abstração em Python permite criar interfaces claras e concisas para utilização de uma classe ou objeto, facilitando o desenvolvimento de outros componentes do programa.
 
 5. Subtópico:
 5. Métodos especiais de classe (construtores, destrutores) 

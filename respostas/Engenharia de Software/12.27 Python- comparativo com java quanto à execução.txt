@@ -73,16 +73,16 @@ Assertivas:
 6. Subtópico:
 6. Tratamento de erros e exceções em ambos os idiomas.
 Assertivas:
-1) No tratamento de erros e exceções em ambos os idiomas, é possível utilizar blocos de código para capturar e tratar erros específicos.
-2) Tanto em Java quanto em Python, é fundamental utilizar mecanismos de tratamento de erros para garantir a robustez e o bom funcionamento dos programas.
-3) Em ambos os idiomas, é possível lançar exceções manualmente por meio da palavra-chave "throw".
-4) Em Java, é obrigatório tratar exceções verificadas utilizando os blocos "try-catch" ou declarando-as na assinatura do método.
-5) Em Python, é possível capturar e tratar exceções específicas utilizando blocos "try-except" e fornecendo tratamentos diferenciados para cada tipo de exceção.
-6) Tanto em Java quanto em Python, é possível utilizar a cláusula "finally" para garantir que um bloco de código seja sempre executado, mesmo após a ocorrência de exceções.
-7) Em ambos os idiomas, é possível criar e utilizar classes personalizadas para representar exceções específicas do domínio do problema.
-8) Em Java, é possível utilizar a palavra-chave "throws" para propagar exceções verificadas para chamadores de um método.
-9) Em Python, é possível utilizar a estrutura "with" para lidar com exceções e recursos que precisam ser fechados após o uso, como arquivos.
-10) Tanto em Java quanto em Python, é possível implementar hierarquias de exceções, onde classes de exceção mais específicas herdam comportamentos de classes de exceção mais genéricas.
+1. No tratamento de erros e exceções em ambos os idiomas, é possível utilizar blocos de código para capturar e tratar erros específicos.
+2. Tanto em Java quanto em Python, é fundamental utilizar mecanismos de tratamento de erros para garantir a robustez e o bom funcionamento dos programas.
+3. Em ambos os idiomas, é possível lançar exceções manualmente por meio da palavra-chave "throw".
+4. Em Java, é obrigatório tratar exceções verificadas utilizando os blocos "try-catch" ou declarando-as na assinatura do método.
+5. Em Python, é possível capturar e tratar exceções específicas utilizando blocos "try-except" e fornecendo tratamentos diferenciados para cada tipo de exceção.
+6. Tanto em Java quanto em Python, é possível utilizar a cláusula "finally" para garantir que um bloco de código seja sempre executado, mesmo após a ocorrência de exceções.
+7. Em ambos os idiomas, é possível criar e utilizar classes personalizadas para representar exceções específicas do domínio do problema.
+8. Em Java, é possível utilizar a palavra-chave "throws" para propagar exceções verificadas para chamadores de um método.
+9. Em Python, é possível utilizar a estrutura "with" para lidar com exceções e recursos que precisam ser fechados após o uso, como arquivos.
+10. Tanto em Java quanto em Python, é possível implementar hierarquias de exceções, onde classes de exceção mais específicas herdam comportamentos de classes de exceção mais genéricas.
 
 7. Subtópico:
 7. Comparação das bibliotecas padrão do Python com as do Java.

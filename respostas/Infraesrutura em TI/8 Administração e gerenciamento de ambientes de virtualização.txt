@@ -61,30 +61,30 @@ Observação: Lembre-se de que as afirmativas foram criadas como parte de uma si
 5. Subtópico:
 5. Segurança em ambientes virtuais: políticas de segurança, isolamento e controle de acesso.
 Assertivas:
-1) As políticas de segurança em ambientes virtuais visam proteger informações sensíveis e minimizar riscos de ataques cibernéticos.
-2) A implementação de políticas de segurança em ambientes virtuais deve ser baseada em uma análise de riscos adequada e atualizada.
-3) O isolamento de ambientes virtuais consiste em separar e controlar o acesso entre diferentes sistemas ou redes, a fim de evitar a propagação de ameaças.
-4) O controle de acesso em ambientes virtuais envolve a definição de permissões e restrições de usuários, garantindo que apenas pessoas autorizadas tenham acesso a informações e recursos.
-5) A autenticação de usuários é uma prática de segurança essencial em ambientes virtuais, sendo realizada por meio de senhas, tokens ou outros mecanismos de identificação.
-6) A criptografia é uma técnica utilizada em ambientes virtuais que garante a confidencialidade e integridade de dados, tornando-os ilegíveis para terceiros não autorizados.
-7) A implementação de backups regulares é parte fundamental de uma política de segurança em ambientes virtuais, assegurando a disponibilidade e a recuperação de informações em caso de incidentes.
-8) A atualização de softwares e sistemas operacionais é uma prática crucial para manter a segurança em ambientes virtuais, já que inclui correções para vulnerabilidades conhecidas.
-9) A utilização de firewalls em ambientes virtuais é uma medida eficaz para monitorar e controlar o tráfego de rede, impedindo a entrada de ameaças externas.
-10) A conscientização e treinamento dos usuários são fatores importantes para garantir a segurança em ambientes virtuais, uma vez que muitos ataques ocorrem devido a falhas humanas.
+1. As políticas de segurança em ambientes virtuais visam proteger informações sensíveis e minimizar riscos de ataques cibernéticos.
+2. A implementação de políticas de segurança em ambientes virtuais deve ser baseada em uma análise de riscos adequada e atualizada.
+3. O isolamento de ambientes virtuais consiste em separar e controlar o acesso entre diferentes sistemas ou redes, a fim de evitar a propagação de ameaças.
+4. O controle de acesso em ambientes virtuais envolve a definição de permissões e restrições de usuários, garantindo que apenas pessoas autorizadas tenham acesso a informações e recursos.
+5. A autenticação de usuários é uma prática de segurança essencial em ambientes virtuais, sendo realizada por meio de senhas, tokens ou outros mecanismos de identificação.
+6. A criptografia é uma técnica utilizada em ambientes virtuais que garante a confidencialidade e integridade de dados, tornando-os ilegíveis para terceiros não autorizados.
+7. A implementação de backups regulares é parte fundamental de uma política de segurança em ambientes virtuais, assegurando a disponibilidade e a recuperação de informações em caso de incidentes.
+8. A atualização de softwares e sistemas operacionais é uma prática crucial para manter a segurança em ambientes virtuais, já que inclui correções para vulnerabilidades conhecidas.
+9. A utilização de firewalls em ambientes virtuais é uma medida eficaz para monitorar e controlar o tráfego de rede, impedindo a entrada de ameaças externas.
+10. A conscientização e treinamento dos usuários são fatores importantes para garantir a segurança em ambientes virtuais, uma vez que muitos ataques ocorrem devido a falhas humanas.
 
 6. Subtópico:
 6. Desempenho em ambientes virtuais: gerenciamento de recursos (CPU, memória), balanceamento de carga.
 Assertivas:
-1) O desempenho em ambientes virtuais depende do gerenciamento eficiente de recursos, como CPU e memória.
-2) O balanceamento de carga é uma estratégia essencial para otimizar o desempenho em ambientes virtuais.
-3) No ambiente virtual, a alocação adequada de recursos, como CPU e memória, contribui para um desempenho eficiente.
-4) O monitoramento constante dos recursos, como CPU e memória, é imprescindível para garantir um bom desempenho em ambientes virtuais.
-5) Uma correta distribuição da carga entre os servidores virtuais é fundamental para otimizar o desempenho em ambientes virtuais.
-6) O gerenciamento eficiente da memória, como o uso de técnicas de page swapping, pode impactar positivamente o desempenho em ambientes virtuais.
-7) Um adequado gerenciamento da CPU virtual, como o uso de técnicas de escalonamento de processos, contribui para um melhor desempenho em ambientes virtuais.
-8) Em ambientes virtuais, o desempenho pode ser afetado por picos de demanda, sendo necessário um balanceamento de carga eficiente para minimizar esses impactos.
-9) A virtualização permite uma flexibilidade no aumento ou diminuição de recursos, possibilitando um melhor gerenciamento e balanceamento de carga em ambientes virtuais.
-10) O desempenho em ambientes virtuais pode ser aprimorado por meio de estratégias avançadas de gerenciamento de recursos, como a implementação de políticas de escalonamento dinâmico.
+1. O desempenho em ambientes virtuais depende do gerenciamento eficiente de recursos, como CPU e memória.
+2. O balanceamento de carga é uma estratégia essencial para otimizar o desempenho em ambientes virtuais.
+3. No ambiente virtual, a alocação adequada de recursos, como CPU e memória, contribui para um desempenho eficiente.
+4. O monitoramento constante dos recursos, como CPU e memória, é imprescindível para garantir um bom desempenho em ambientes virtuais.
+5. Uma correta distribuição da carga entre os servidores virtuais é fundamental para otimizar o desempenho em ambientes virtuais.
+6. O gerenciamento eficiente da memória, como o uso de técnicas de page swapping, pode impactar positivamente o desempenho em ambientes virtuais.
+7. Um adequado gerenciamento da CPU virtual, como o uso de técnicas de escalonamento de processos, contribui para um melhor desempenho em ambientes virtuais.
+8. Em ambientes virtuais, o desempenho pode ser afetado por picos de demanda, sendo necessário um balanceamento de carga eficiente para minimizar esses impactos.
+9. A virtualização permite uma flexibilidade no aumento ou diminuição de recursos, possibilitando um melhor gerenciamento e balanceamento de carga em ambientes virtuais.
+10. O desempenho em ambientes virtuais pode ser aprimorado por meio de estratégias avançadas de gerenciamento de recursos, como a implementação de políticas de escalonamento dinâmico.
 
 7. Subtópico:
 7. Armazenamento

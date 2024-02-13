@@ -3,16 +3,16 @@ Item do edital: 8.1 GraphQL.
 1. Subtópico:
 1. Conceito e fundamentos do GraphQL
 Assertivas:
-1) A linguagem GraphQL foi desenvolvida pelo Facebook em 2012 como uma alternativa aos tradicionais métodos de acesso a dados.
-2) O GraphQL permite que os clientes solicitem exatamente os dados que desejam, evitando a transferência de informações desnecessárias.
-3) O GraphQL utiliza um único endpoint para todas as consultas, em oposição a abordagens tradicionais que possuem endpoints específicos para cada recurso.
-4) O GraphQL utiliza um esquema forte para definir os tipos de dados disponíveis e as operações permitidas.
-5) Os tipos de dados no GraphQL são compostos por campos com tipos específicos, permitindo uma modelagem flexível e ampla personalização.
-6) O GraphQL não possui suporte nativo a autenticação e autorização, significando que esses aspectos devem ser implementados separadamente.
-7) O GraphQL permite a execução de múltiplas consultas em uma única chamada, o que otimiza o desempenho e o consumo de recursos.
-8) O GraphQL possui suporte para mutações, que são operações de escrita que permitem a criação, atualização e exclusão de recursos.
-9) As consultas no GraphQL podem ser facilmente aninhadas, permitindo recuperar informações relacionadas de forma eficiente.
-10) O GraphQL possui suporte nativo a subscrições, o que permite que os clientes recebam notificações em tempo real quando os dados são atualizados.
+1. A linguagem GraphQL foi desenvolvida pelo Facebook em 2012 como uma alternativa aos tradicionais métodos de acesso a dados.
+2. O GraphQL permite que os clientes solicitem exatamente os dados que desejam, evitando a transferência de informações desnecessárias.
+3. O GraphQL utiliza um único endpoint para todas as consultas, em oposição a abordagens tradicionais que possuem endpoints específicos para cada recurso.
+4. O GraphQL utiliza um esquema forte para definir os tipos de dados disponíveis e as operações permitidas.
+5. Os tipos de dados no GraphQL são compostos por campos com tipos específicos, permitindo uma modelagem flexível e ampla personalização.
+6. O GraphQL não possui suporte nativo a autenticação e autorização, significando que esses aspectos devem ser implementados separadamente.
+7. O GraphQL permite a execução de múltiplas consultas em uma única chamada, o que otimiza o desempenho e o consumo de recursos.
+8. O GraphQL possui suporte para mutações, que são operações de escrita que permitem a criação, atualização e exclusão de recursos.
+9. As consultas no GraphQL podem ser facilmente aninhadas, permitindo recuperar informações relacionadas de forma eficiente.
+10. O GraphQL possui suporte nativo a subscrições, o que permite que os clientes recebam notificações em tempo real quando os dados são atualizados.
 
 2. Subtópico:
 2. Diferenças entre GraphQL e REST
@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Estrutura de uma Query no GraphQL
 Assertivas:
-1) Uma Query no GraphQL é uma forma de solicitar dados específicos de um servidor.
-2) A estrutura básica de uma Query no GraphQL começa com a palavra-chave "query" seguida das chaves "{}".
-3) Dentro das chaves, é possível definir os campos que se deseja obter usando a notação de nome seguido de dois pontos, sendo o nome do campo e seus subcampos.
-4) Pode-se adicionar parâmetros a uma Query no GraphQL para filtrar os resultados desejados.
-5) Para fazer referência a um campo específico dentro de uma Query, utiliza-se a notação de ponto.
-6) A estrutura de uma Query no GraphQL permite a busca de dados em profundidades diferentes, retornando informações relacionadas ou aninhadas.
-7) Uma Query no GraphQL pode ser escrita em uma única linha ou com quebras de linha para melhor legibilidade.
-8) É possível renomear um campo dentro de uma Query no GraphQL utilizando a palavra-chave "as".
-9) Dentro de uma Query no GraphQL, é possível adicionar diretivas para controlar o comportamento da requisição, como por exemplo, especificar que um campo seja aplicado apenas se determinada condição for verdadeira.
-10) A estrutura de uma Query no GraphQL é flexível, permitindo que seja construída de acordo com as necessidades do desenvolvedor ou aplicação.
+1. Uma Query no GraphQL é uma forma de solicitar dados específicos de um servidor.
+2. A estrutura básica de uma Query no GraphQL começa com a palavra-chave "query" seguida das chaves "{}".
+3. Dentro das chaves, é possível definir os campos que se deseja obter usando a notação de nome seguido de dois pontos, sendo o nome do campo e seus subcampos.
+4. Pode-se adicionar parâmetros a uma Query no GraphQL para filtrar os resultados desejados.
+5. Para fazer referência a um campo específico dentro de uma Query, utiliza-se a notação de ponto.
+6. A estrutura de uma Query no GraphQL permite a busca de dados em profundidades diferentes, retornando informações relacionadas ou aninhadas.
+7. Uma Query no GraphQL pode ser escrita em uma única linha ou com quebras de linha para melhor legibilidade.
+8. É possível renomear um campo dentro de uma Query no GraphQL utilizando a palavra-chave "as".
+9. Dentro de uma Query no GraphQL, é possível adicionar diretivas para controlar o comportamento da requisição, como por exemplo, especificar que um campo seja aplicado apenas se determinada condição for verdadeira.
+10. A estrutura de uma Query no GraphQL é flexível, permitindo que seja construída de acordo com as necessidades do desenvolvedor ou aplicação.
 
 4. Subtópico:
 4. Mutations no GraphQL: conceito e aplicação
@@ -101,16 +101,16 @@ Assertivas:
 8. Subtópico:
 8. Introspection no GraphQL: conceito e utilidade 
 Assertivas:
-1) A introspecção no GraphQL é uma funcionalidade que permite aos desenvolvedores consultar e explorar a estrutura de um esquema GraphQL.
-2) Através da introspecção, é possível obter informações sobre os tipos de dados, campos, interfaces, argumentos e outras características de um esquema GraphQL.
-3) A introspecção no GraphQL é útil no processo de desenvolvimento, pois fornece uma documentação atualizada e em tempo real do esquema GraphQL.
-4) Com a introspecção, os desenvolvedores podem descobrir quais operações são possíveis em um esquema GraphQL e quais argumentos são necessários para cada uma dessas operações.
-5) A funcionalidade de introspecção no GraphQL permite a validação dos dados enviados e recebidos pela API, garantindo a integridade das informações.
-6) A introspecção também facilita a implementação de ferramentas de autocompletar e sugestões de campo em clientes GraphQL.
-7) Utilizando a introspecção, é possível criar consultas dinâmicas que se adaptam às mudanças no esquema GraphQL sem a necessidade de alterar o código-fonte do cliente.
-8) A introspecção no GraphQL é compatível com várias linguagens de programação, o que facilita sua utilização em diferentes ambientes de desenvolvimento.
-9) Por meio da introspecção, é possível realizar testes automatizados para garantir que uma API GraphQL esteja funcionando corretamente.
-10) A introspecção no GraphQL é uma característica essencial para a criação de ferramentas de desenvolvimento eficientes e para facilitar a colaboração entre equipes de desenvolvedores.
+1. A introspecção no GraphQL é uma funcionalidade que permite aos desenvolvedores consultar e explorar a estrutura de um esquema GraphQL.
+2. Através da introspecção, é possível obter informações sobre os tipos de dados, campos, interfaces, argumentos e outras características de um esquema GraphQL.
+3. A introspecção no GraphQL é útil no processo de desenvolvimento, pois fornece uma documentação atualizada e em tempo real do esquema GraphQL.
+4. Com a introspecção, os desenvolvedores podem descobrir quais operações são possíveis em um esquema GraphQL e quais argumentos são necessários para cada uma dessas operações.
+5. A funcionalidade de introspecção no GraphQL permite a validação dos dados enviados e recebidos pela API, garantindo a integridade das informações.
+6. A introspecção também facilita a implementação de ferramentas de autocompletar e sugestões de campo em clientes GraphQL.
+7. Utilizando a introspecção, é possível criar consultas dinâmicas que se adaptam às mudanças no esquema GraphQL sem a necessidade de alterar o código-fonte do cliente.
+8. A introspecção no GraphQL é compatível com várias linguagens de programação, o que facilita sua utilização em diferentes ambientes de desenvolvimento.
+9. Por meio da introspecção, é possível realizar testes automatizados para garantir que uma API GraphQL esteja funcionando corretamente.
+10. A introspecção no GraphQL é uma característica essencial para a criação de ferramentas de desenvolvimento eficientes e para facilitar a colaboração entre equipes de desenvolvedores.
 
 9. Subtópico:
 9. Implementação do Apollo Server para o uso do GraphQl.

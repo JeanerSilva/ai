@@ -86,29 +86,29 @@ Assertivas:
 7. Subtópico:
 7. Inteligência Artificial (IA) e Machine Learning no Contexto do Big Data
 Assertivas:
-1) A Inteligência Artificial (IA) é uma área da computação que permite o desenvolvimento de sistemas capazes de simular a habilidade humana de raciocinar e tomar decisões.
-2) O Machine Learning, ou Aprendizado de Máquina, é uma subcategoria da IA que se baseia em algoritmos para treinar modelos a partir de grandes volumes de dados.
-3) O Big Data refere-se a conjuntos de dados extremamente volumosos e complexos, que não podem ser tratados de forma tradicional por ferramentas convencionais.
-4) A utilização de IA e Machine Learning no contexto do Big Data permite a extração de insights valiosos e a tomada de decisões mais precisas e eficientes.
-5) Algoritmos de Machine Learning podem ser aplicados na análise de dados do Big Data para identificar padrões e prever comportamentos futuros.
-6) A IA e o Machine Learning são fundamentais no contexto do Big Data para lidar com a enorme quantidade e variedade de informações disponíveis.
-7) A IA e o Machine Learning oferecem aos sistemas a capacidade de aprendizado contínuo, permitindo que se adaptem e melhorem suas capacidades ao longo do tempo.
-8) A integração da IA e o Machine Learning no trato do Big Data possibilita a automatização de tarefas, agilizando processos e reduzindo erros humanos.
-9) A utilização de modelos de IA e Machine Learning com Big Data traz benefícios para áreas como medicina, finanças, segurança e marketing, entre outras.
-10) As aplicações de IA e Machine Learning no contexto do Big Data estão em constante evolução e têm um grande potencial de transformação nos mais diversos setores da sociedade.
+1. A Inteligência Artificial (IA) é uma área da computação que permite o desenvolvimento de sistemas capazes de simular a habilidade humana de raciocinar e tomar decisões.
+2. O Machine Learning, ou Aprendizado de Máquina, é uma subcategoria da IA que se baseia em algoritmos para treinar modelos a partir de grandes volumes de dados.
+3. O Big Data refere-se a conjuntos de dados extremamente volumosos e complexos, que não podem ser tratados de forma tradicional por ferramentas convencionais.
+4. A utilização de IA e Machine Learning no contexto do Big Data permite a extração de insights valiosos e a tomada de decisões mais precisas e eficientes.
+5. Algoritmos de Machine Learning podem ser aplicados na análise de dados do Big Data para identificar padrões e prever comportamentos futuros.
+6. A IA e o Machine Learning são fundamentais no contexto do Big Data para lidar com a enorme quantidade e variedade de informações disponíveis.
+7. A IA e o Machine Learning oferecem aos sistemas a capacidade de aprendizado contínuo, permitindo que se adaptem e melhorem suas capacidades ao longo do tempo.
+8. A integração da IA e o Machine Learning no trato do Big Data possibilita a automatização de tarefas, agilizando processos e reduzindo erros humanos.
+9. A utilização de modelos de IA e Machine Learning com Big Data traz benefícios para áreas como medicina, finanças, segurança e marketing, entre outras.
+10. As aplicações de IA e Machine Learning no contexto do Big Data estão em constante evolução e têm um grande potencial de transformação nos mais diversos setores da sociedade.
 
 8. Subtópico:
 8. Técnicas de Min
 Assertivas:
-1) A mineração é uma atividade econômica que visa a extração de minerais e recursos do subsolo.
-2) A técnica de mineração mais comum é a mineração a céu aberto, que é realizada em grandes áreas de minas a partir da remoção da camada superficial de solo e rochas.
-3) A mineração subterrânea é uma técnica de mineração que envolve a extração de minerais a partir de cavidades subterrâneas.
-4) A mineração pode causar impactos ambientais significativos, como a degradação de ecossistemas, contaminação do solo e recursos hídricos.
-5) A recuperação de áreas degradadas pela mineração é um processo complexo e requer um planejamento cuidadoso para restaurar a biodiversidade e a qualidade do solo e da água.
-6) A mineração é uma atividade econômica importante para muitos países, contribuindo para o desenvolvimento econômico e a geração de empregos.
-7) A mineração de carvão é uma das formas mais antigas de mineração e ainda é utilizada em diversos países como fonte de energia.
-8) A mineração de metais preciosos, como ouro e prata, é uma indústria lucrativa e de grande interesse econômico.
-9) A exploração de minerais em terras indígenas é um tema controverso e levanta questões sobre direitos territoriais e proteção dos valores culturais e ambientais das comunidades indígenas.
-10) A gestão adequada dos resíduos gerados pela mineração é fundamental para minimizar os impactos ambientais e proteger a saúde das populações próximas às áreas de mineração.
+1. A mineração é uma atividade econômica que visa a extração de minerais e recursos do subsolo.
+2. A técnica de mineração mais comum é a mineração a céu aberto, que é realizada em grandes áreas de minas a partir da remoção da camada superficial de solo e rochas.
+3. A mineração subterrânea é uma técnica de mineração que envolve a extração de minerais a partir de cavidades subterrâneas.
+4. A mineração pode causar impactos ambientais significativos, como a degradação de ecossistemas, contaminação do solo e recursos hídricos.
+5. A recuperação de áreas degradadas pela mineração é um processo complexo e requer um planejamento cuidadoso para restaurar a biodiversidade e a qualidade do solo e da água.
+6. A mineração é uma atividade econômica importante para muitos países, contribuindo para o desenvolvimento econômico e a geração de empregos.
+7. A mineração de carvão é uma das formas mais antigas de mineração e ainda é utilizada em diversos países como fonte de energia.
+8. A mineração de metais preciosos, como ouro e prata, é uma indústria lucrativa e de grande interesse econômico.
+9. A exploração de minerais em terras indígenas é um tema controverso e levanta questões sobre direitos territoriais e proteção dos valores culturais e ambientais das comunidades indígenas.
+10. A gestão adequada dos resíduos gerados pela mineração é fundamental para minimizar os impactos ambientais e proteger a saúde das populações próximas às áreas de mineração.
 
 

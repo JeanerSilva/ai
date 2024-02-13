@@ -92,7 +92,7 @@ Assertivas:
 3. A criptografia em SMTP é fundamental para proteger o conteúdo das mensagens durante o tráfego, evitando que sejam lidas por terceiros não autorizados.
 4. O uso de criptografia em SMTP impede a interceptação de mensagens e a divulgação de informações sensíveis contidas nelas.
 5. A autenticação em SMTP pode ser feita por meio de diferentes mecanismos, como autenticação com nome de usuário e senha ou certificados digitais.
-6. A criptografia em SMTP pode ser implementada utilizando o protocolo STARTTLS, que inicia uma conexão segura no porto de comunicação padrão (porta 25).
+6. A criptografia em SMTP pode ser implementada utilizando o protocolo STARTTLS, que inicia uma conexão segura no porto de comunicação padrão (porta 25..
 7. O uso de autenticação em SMTP é especialmente importante para provedores de e-mail, que precisam garantir a autenticidade dos remetentes.
 8. A criptografia em SMTP pode ser realizada utilizando certificados digitais, que garantem a autenticidade das partes envolvidas na comunicação.
 9. A autenticação em SMTP pode ser configurada para exigir autenticação tanto do remetente quanto do destinatário da mensagem.

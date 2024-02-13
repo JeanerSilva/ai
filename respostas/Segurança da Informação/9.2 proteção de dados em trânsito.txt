@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Criptografia aplicada à proteção de dados em trânsito.
 Assertivas:
-1) A criptografia é um conjunto de técnicas que visa proteger os dados em trânsito, ou seja, durante sua comunicação entre remetente e destinatário.
-2) A criptografia utiliza algoritmos matemáticos para converter os dados em formato ilegível, garantindo assim a confidencialidade das informações.
-3) A criptografia de dados em trânsito é essencial para garantir a segurança de transações bancárias online, evitando ataques de interceptação de dados.
-4) A criptografia de dados em trânsito também é fundamental para garantir a proteção da privacidade em comunicações de alto sigilo, como no caso de troca de informações sensíveis em governos.
-5) Existem diferentes protocolos de criptografia utilizados em redes de computadores, como o SSL/TLS, que são amplamente adotados para proteger a integridade e a confidencialidade dos dados em trânsito.
-6) A criptografia assimétrica é uma técnica utilizada na proteção de dados em trânsito, que envolve o uso de um par de chaves, uma pública e outra privada, para criptografar e descriptografar os dados.
-7) A criptografia simétrica é outra técnica utilizada na proteção de dados em trânsito, em que a mesma chave é utilizada tanto para criptografar quanto para descriptografar os dados.
-8) A segurança dos algoritmos criptográficos utilizados na proteção de dados em trânsito depende da robustez matemática e da impossibilidade de quebrar a chave criptográfica em um tempo viável.
-9) A proteção de dados em trânsito também envolve a utilização de autenticação para garantir que as informações são enviadas e recebidas por entidades legítimas.
-10) A criptografia aplicada à proteção de dados em trânsito desempenha um papel fundamental na segurança da informação, uma vez que impede que pessoas mal-intencionadas tenham acesso e possam explorar os dados sensíveis trafegados em redes de computadores.
+1. A criptografia é um conjunto de técnicas que visa proteger os dados em trânsito, ou seja, durante sua comunicação entre remetente e destinatário.
+2. A criptografia utiliza algoritmos matemáticos para converter os dados em formato ilegível, garantindo assim a confidencialidade das informações.
+3. A criptografia de dados em trânsito é essencial para garantir a segurança de transações bancárias online, evitando ataques de interceptação de dados.
+4. A criptografia de dados em trânsito também é fundamental para garantir a proteção da privacidade em comunicações de alto sigilo, como no caso de troca de informações sensíveis em governos.
+5. Existem diferentes protocolos de criptografia utilizados em redes de computadores, como o SSL/TLS, que são amplamente adotados para proteger a integridade e a confidencialidade dos dados em trânsito.
+6. A criptografia assimétrica é uma técnica utilizada na proteção de dados em trânsito, que envolve o uso de um par de chaves, uma pública e outra privada, para criptografar e descriptografar os dados.
+7. A criptografia simétrica é outra técnica utilizada na proteção de dados em trânsito, em que a mesma chave é utilizada tanto para criptografar quanto para descriptografar os dados.
+8. A segurança dos algoritmos criptográficos utilizados na proteção de dados em trânsito depende da robustez matemática e da impossibilidade de quebrar a chave criptográfica em um tempo viável.
+9. A proteção de dados em trânsito também envolve a utilização de autenticação para garantir que as informações são enviadas e recebidas por entidades legítimas.
+10. A criptografia aplicada à proteção de dados em trânsito desempenha um papel fundamental na segurança da informação, uma vez que impede que pessoas mal-intencionadas tenham acesso e possam explorar os dados sensíveis trafegados em redes de computadores.
 
 4. Subtópico:
 4. Autenticação e integridade dos dados durante o trânsito.

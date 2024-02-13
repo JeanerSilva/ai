@@ -96,16 +96,16 @@ Assertivas:
 7. Subtópico:
 7. Monitoramento e logística no contexto do DevOps 
 Assertivas:
-1) O monitoramento é uma prática essencial no contexto do DevOps, visando a identificação e solução de problemas em tempo real.
-2) A logística no DevOps se refere ao planejamento e coordenação de atividades relacionadas à entrega e implantação de software.
-3) A monitoração contínua é fundamental para garantir a qualidade e estabilidade das aplicações durante todo o ciclo de vida do software.
-4) A logística no DevOps envolve o gerenciamento eficiente de recursos e componentes necessários para a entrega do software.
-5) A implementação de boas práticas de monitoramento proporciona melhorias na detecção precoce de falhas e, consequentemente, uma redução no tempo de resposta para resolução.
-6) O monitoramento no DevOps auxilia na otimização de recursos e no planejamento de capacidade, contribuindo para a melhoria da performance e utilização dos recursos do ambiente.
-7) A logística no contexto do DevOps abrange a gestão do fluxo de trabalho, desde o desenvolvimento até a produção, visando a entrega contínua de software.
-8) O monitoramento no DevOps engloba a coleta, análise e interpretação de dados e métricas, proporcionando uma visão abrangente do desempenho e comportamento das aplicações.
-9) A logística no DevOps busca reduzir os desperdícios e inconsistências nos processos de entrega e implantação de software.
-10) O monitoramento adequado no DevOps possibilita a identificação antecipada de problemas de desempenho e escalabilidade, permitindo ações corretivas antes que afetem o usuário final.
+1. O monitoramento é uma prática essencial no contexto do DevOps, visando a identificação e solução de problemas em tempo real.
+2. A logística no DevOps se refere ao planejamento e coordenação de atividades relacionadas à entrega e implantação de software.
+3. A monitoração contínua é fundamental para garantir a qualidade e estabilidade das aplicações durante todo o ciclo de vida do software.
+4. A logística no DevOps envolve o gerenciamento eficiente de recursos e componentes necessários para a entrega do software.
+5. A implementação de boas práticas de monitoramento proporciona melhorias na detecção precoce de falhas e, consequentemente, uma redução no tempo de resposta para resolução.
+6. O monitoramento no DevOps auxilia na otimização de recursos e no planejamento de capacidade, contribuindo para a melhoria da performance e utilização dos recursos do ambiente.
+7. A logística no contexto do DevOps abrange a gestão do fluxo de trabalho, desde o desenvolvimento até a produção, visando a entrega contínua de software.
+8. O monitoramento no DevOps engloba a coleta, análise e interpretação de dados e métricas, proporcionando uma visão abrangente do desempenho e comportamento das aplicações.
+9. A logística no DevOps busca reduzir os desperdícios e inconsistências nos processos de entrega e implantação de software.
+10. O monitoramento adequado no DevOps possibilita a identificação antecipada de problemas de desempenho e escalabilidade, permitindo ações corretivas antes que afetem o usuário final.
 
 8. Subtópico:
 8. Cultura de colaboração entre desenvolvimento e operações (Dev & Ops)

@@ -17,16 +17,16 @@ Assertivas:
 2. Subtópico:
 2. Uso da função input() para entrada de dados em Python
 Assertivas:
-1) A função input() é utilizada para obter dados de entrada do usuário em um programa Python.
-2) A função input() retorna uma string com o conteúdo digitado pelo usuário.
-3) Ao utilizar a função input(), o programa ficará aguardando o input do usuário até que uma entrada seja fornecida.
-4) É possível fornecer uma mensagem de instrução ao usuário utilizando a função input(), por exemplo: input("Digite um número: ").
-5) A função input() pode ser usada para receber entradas do usuário em qualquer tipo de dado, como números inteiros, ponto flutuante ou texto.
-6) Ao utilizar a função input(), é importante realizar tratamento de erros para garantir que o usuário informe dados válidos.
-7) Quando a função input() é utilizada sem atribuir o retorno a uma variável, o valor de entrada é perdido.
-8) É possível converter o valor fornecido pelo usuário na função input() para outro tipo de dado, utilizando funções de conversão como int(), float() ou str().
-9) A função input() é uma forma de interatividade entre o programa e o usuário, permitindo que este forneça dados personalizados durante a execução.
-10) O uso adequado da função input() em programas Python proporciona uma melhor experiência do usuário, permitindo personalização e interação.
+1. A função input() é utilizada para obter dados de entrada do usuário em um programa Python.
+2. A função input() retorna uma string com o conteúdo digitado pelo usuário.
+3. Ao utilizar a função input(), o programa ficará aguardando o input do usuário até que uma entrada seja fornecida.
+4. É possível fornecer uma mensagem de instrução ao usuário utilizando a função input(), por exemplo: input("Digite um número: ").
+5. A função input() pode ser usada para receber entradas do usuário em qualquer tipo de dado, como números inteiros, ponto flutuante ou texto.
+6. Ao utilizar a função input(), é importante realizar tratamento de erros para garantir que o usuário informe dados válidos.
+7. Quando a função input() é utilizada sem atribuir o retorno a uma variável, o valor de entrada é perdido.
+8. É possível converter o valor fornecido pelo usuário na função input() para outro tipo de dado, utilizando funções de conversão como int(), float() ou str().
+9. A função input() é uma forma de interatividade entre o programa e o usuário, permitindo que este forneça dados personalizados durante a execução.
+10. O uso adequado da função input() em programas Python proporciona uma melhor experiência do usuário, permitindo personalização e interação.
 
 3. Subtópico:
 3. Uso da função print() para saída de dados em Python
@@ -115,16 +115,16 @@ Assertivas:
 9. Subtópico:
 9. Utilização do módulo sys para manipulação da entrada e saída padrão 
 Assertivas:
-1) O módulo `sys` é utilizado em Python para acessar recursos do interpretador.
-2) O módulo `sys` permite manipular a entrada padrão de um programa Python.
-3) O módulo `sys` possibilita redirecionar a saída padrão de um programa Python.
-4) O módulo `sys` fornece acesso ao argumento de linha de comando de um programa Python.
-5) O módulo `sys` permite interagir com o sistema operacional através de funções específicas.
-6) O módulo `sys` é uma biblioteca padrão em Python e não requer instalação adicional.
-7) O módulo `sys` contém a função `sys.stdin`, que permite ler dados da entrada padrão.
-8) O módulo `sys` contém a função `sys.stdout`, que permite escrever dados na saída padrão.
-9) O módulo `sys` contém a função `sys.stderr`, que permite lidar com erros e mensagens de exceção.
-10) O módulo `sys` é amplamente utilizado em programas Python que requerem manipulação de entrada e saída padrão de forma flexível e eficiente.
+1. O módulo `sys` é utilizado em Python para acessar recursos do interpretador.
+2. O módulo `sys` permite manipular a entrada padrão de um programa Python.
+3. O módulo `sys` possibilita redirecionar a saída padrão de um programa Python.
+4. O módulo `sys` fornece acesso ao argumento de linha de comando de um programa Python.
+5. O módulo `sys` permite interagir com o sistema operacional através de funções específicas.
+6. O módulo `sys` é uma biblioteca padrão em Python e não requer instalação adicional.
+7. O módulo `sys` contém a função `sys.stdin`, que permite ler dados da entrada padrão.
+8. O módulo `sys` contém a função `sys.stdout`, que permite escrever dados na saída padrão.
+9. O módulo `sys` contém a função `sys.stderr`, que permite lidar com erros e mensagens de exceção.
+10. O módulo `sys` é amplamente utilizado em programas Python que requerem manipulação de entrada e saída padrão de forma flexível e eficiente.
 
 10. Subtópico:
 10. Práticas seg

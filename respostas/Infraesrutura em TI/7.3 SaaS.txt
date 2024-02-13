@@ -59,16 +59,16 @@ Assertivas:
 5. Subtópico:
 5. Gerenciamento e manutenção em um ambiente SaaS
 Assertivas:
-1) O gerenciamento e manutenção em um ambiente SaaS são de responsabilidade do provedor de serviços.
-2) O provedor de serviços SaaS é responsável por garantir a disponibilidade constante dos serviços aos usuários.
-3) A manutenção de infraestrutura física, como servidores e data centers, é realizada pelo provedor de serviços SaaS.
-4) No ambiente SaaS, o provedor de serviços é responsável por garantir a segurança dos dados armazenados.
-5) O provedor de serviços SaaS realiza atualizações e melhorias nos serviços de forma transparente para os usuários.
-6) O gerenciamento de licenças e atualizações de software é realizado pelo provedor de serviços em um ambiente SaaS.
-7) No SaaS, os usuários não precisam se preocupar em realizar backups, pois o provedor de serviços realiza essa tarefa.
-8) O provedor de serviços SaaS fornece suporte técnico aos usuários, solucionando problemas e tirando dúvidas.
-9) No ambiente SaaS, as atualizações de segurança são realizadas pelo provedor de serviços de forma centralizada.
-10) O gerenciamento de performance e escalabilidade também é responsabilidade do provedor de serviços SaaS.
+1. O gerenciamento e manutenção em um ambiente SaaS são de responsabilidade do provedor de serviços.
+2. O provedor de serviços SaaS é responsável por garantir a disponibilidade constante dos serviços aos usuários.
+3. A manutenção de infraestrutura física, como servidores e data centers, é realizada pelo provedor de serviços SaaS.
+4. No ambiente SaaS, o provedor de serviços é responsável por garantir a segurança dos dados armazenados.
+5. O provedor de serviços SaaS realiza atualizações e melhorias nos serviços de forma transparente para os usuários.
+6. O gerenciamento de licenças e atualizações de software é realizado pelo provedor de serviços em um ambiente SaaS.
+7. No SaaS, os usuários não precisam se preocupar em realizar backups, pois o provedor de serviços realiza essa tarefa.
+8. O provedor de serviços SaaS fornece suporte técnico aos usuários, solucionando problemas e tirando dúvidas.
+9. No ambiente SaaS, as atualizações de segurança são realizadas pelo provedor de serviços de forma centralizada.
+10. O gerenciamento de performance e escalabilidade também é responsabilidade do provedor de serviços SaaS.
 
 6. Subtópico:
 6. Impacto do SaaS na redução de custos operacionais 

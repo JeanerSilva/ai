@@ -3,16 +3,16 @@ Item do edital: 1.2 SQL
 1. Subtópico:
 1.2.1 Conceitos básicos de SQL
 Assertivas:
-1) A linguagem SQL (Structured Query Language) é utilizada para realizar consultas e manipulações em bancos de dados relacionais.
-2) O SQL é uma linguagem declarativa, ou seja, o usuário descreve a operação que deseja realizar, sem necessidade de especificar os procedimentos internos.
-3) Em SQL, as declarações SELECT são utilizadas para recuperar informações de um banco de dados.
-4) O comando INSERT INTO é utilizado para inserir novos registros em uma tabela.
-5) O comando UPDATE é utilizado para atualizar os dados de um registro em uma tabela.
-6) O comando DELETE é utilizado para excluir registros de uma tabela.
-7) O comando CREATE TABLE é utilizado para criar uma nova tabela em um banco de dados.
-8) A cláusula WHERE é utilizada para filtrar os resultados de uma consulta, retornando apenas os registros que atendam às condições especificadas.
-9) O comando ALTER TABLE é utilizado para adicionar, modificar ou excluir colunas em uma tabela já existente.
-10) A cláusula ORDER BY é utilizada para ordenar os resultados de uma consulta de acordo com colunas especificadas.
+1. A linguagem SQL (Structured Query Language) é utilizada para realizar consultas e manipulações em bancos de dados relacionais.
+2. O SQL é uma linguagem declarativa, ou seja, o usuário descreve a operação que deseja realizar, sem necessidade de especificar os procedimentos internos.
+3. Em SQL, as declarações SELECT são utilizadas para recuperar informações de um banco de dados.
+4. O comando INSERT INTO é utilizado para inserir novos registros em uma tabela.
+5. O comando UPDATE é utilizado para atualizar os dados de um registro em uma tabela.
+6. O comando DELETE é utilizado para excluir registros de uma tabela.
+7. O comando CREATE TABLE é utilizado para criar uma nova tabela em um banco de dados.
+8. A cláusula WHERE é utilizada para filtrar os resultados de uma consulta, retornando apenas os registros que atendam às condições especificadas.
+9. O comando ALTER TABLE é utilizado para adicionar, modificar ou excluir colunas em uma tabela já existente.
+10. A cláusula ORDER BY é utilizada para ordenar os resultados de uma consulta de acordo com colunas especificadas.
 
 2. Subtópico:
 1.2.2 Comandos DDL (Data Definition Language): CREATE, ALTER, DROP
@@ -45,16 +45,16 @@ Assertivas:
 4. Subtópico:
 1.2.4 Funções de agregação em SQL: COUNT, SUM, AVG, MAX e MIN
 Assertivas:
-1) A função COUNT em SQL retorna o número de registros em uma coluna específica de uma tabela.
-2) A função SUM em SQL retorna a soma dos valores em uma coluna específica de uma tabela.
-3) A função AVG em SQL retorna a média dos valores em uma coluna específica de uma tabela.
-4) A função MAX em SQL retorna o valor máximo em uma coluna específica de uma tabela.
-5) A função MIN em SQL retorna o valor mínimo em uma coluna específica de uma tabela.
-6) A função de agregação COUNT em SQL não considera valores NULL.
-7) A função de agregação SUM em SQL pode ser aplicada a colunas numéricas.
-8) A função de agregação AVG em SQL calcula a média aritmética dos valores em uma coluna numérica específica.
-9) A função de agregação MAX em SQL pode ser usada para encontrar a maior data em uma coluna de datas.
-10) A função de agregação MIN em SQL pode ser usada para encontrar o menor valor em uma coluna de caracteres.
+1. A função COUNT em SQL retorna o número de registros em uma coluna específica de uma tabela.
+2. A função SUM em SQL retorna a soma dos valores em uma coluna específica de uma tabela.
+3. A função AVG em SQL retorna a média dos valores em uma coluna específica de uma tabela.
+4. A função MAX em SQL retorna o valor máximo em uma coluna específica de uma tabela.
+5. A função MIN em SQL retorna o valor mínimo em uma coluna específica de uma tabela.
+6. A função de agregação COUNT em SQL não considera valores NULL.
+7. A função de agregação SUM em SQL pode ser aplicada a colunas numéricas.
+8. A função de agregação AVG em SQL calcula a média aritmética dos valores em uma coluna numérica específica.
+9. A função de agregação MAX em SQL pode ser usada para encontrar a maior data em uma coluna de datas.
+10. A função de agregação MIN em SQL pode ser usada para encontrar o menor valor em uma coluna de caracteres.
 
 5. Subtópico:
 1.2.5 Cláusulas WHERE e JOIN em consultas SQL 
@@ -115,15 +115,15 @@ Assertivas:
 9. Subtópico:
 1 2 9
 Assertivas:
-1) O número 1 é o menor número inteiro positivo.
-2) O número 2 é um número par.
-3) A soma dos números 1 e 2 resulta no número 3.
-4) O número 9 é um número ímpar.
-5) O número 2 é um divisor do número 9.
-6) O número 9 não é um número primo.
-7) A multiplicação dos números 1 e 2 resulta no número 2.
-8) O número 9 é um quadrado perfeito.
-9) A subtração dos números 2 e 1 resulta no número 1.
-10) O número 9 é um número triangular.
+1. O número 1 é o menor número inteiro positivo.
+2. O número 2 é um número par.
+3. A soma dos números 1 e 2 resulta no número 3.
+4. O número 9 é um número ímpar.
+5. O número 2 é um divisor do número 9.
+6. O número 9 não é um número primo.
+7. A multiplicação dos números 1 e 2 resulta no número 2.
+8. O número 9 é um quadrado perfeito.
+9. A subtração dos números 2 e 1 resulta no número 1.
+10. O número 9 é um número triangular.
 
 

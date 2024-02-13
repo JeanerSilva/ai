@@ -87,16 +87,16 @@ Assertivas:
 7. Subtópico:
 7. Programação orientada a objetos com Python 
 Assertivas:
-1) A programação orientada a objetos com Python é um paradigma que permite organizar e reutilizar código de forma modular.
-2) Em Python, é possível criar classes que representam objetos com atributos e métodos próprios.
-3) A encapsulação é um conceito fundamental na programação orientada a objetos, e Python permite definir métodos e atributos como públicos, protegidos ou privados.
-4) A herança é um princípio importante na orientação a objetos, e Python suporta a criação de hierarquias de classes através do mecanismo de herança.
-5) É possível usar o polimorfismo em Python, permitindo que objetos de classes diferentes possam ser tratados de forma genérica.
-6) O encapsulamento em Python pode ser obtido através dos modificadores de acesso como o "public", "protected" e "private".
-7) A delegação é uma técnica comum em Python para reutilizar código, permitindo que uma classe utilize métodos de outra classe.
-8) Python suporta múltipla herança, possibilitando que uma classe herde características de várias superclasses.
-9) O polimorfismo em Python permite que um método tenha várias formas, dependendo do objeto que o chama.
-10) Em Python, é possível utilizar um construtor (\_\_init\_\_) para atribuir valores iniciais aos atributos de uma classe no momento da sua criação.
+1. A programação orientada a objetos com Python é um paradigma que permite organizar e reutilizar código de forma modular.
+2. Em Python, é possível criar classes que representam objetos com atributos e métodos próprios.
+3. A encapsulação é um conceito fundamental na programação orientada a objetos, e Python permite definir métodos e atributos como públicos, protegidos ou privados.
+4. A herança é um princípio importante na orientação a objetos, e Python suporta a criação de hierarquias de classes através do mecanismo de herança.
+5. É possível usar o polimorfismo em Python, permitindo que objetos de classes diferentes possam ser tratados de forma genérica.
+6. O encapsulamento em Python pode ser obtido através dos modificadores de acesso como o "public", "protected" e "private".
+7. A delegação é uma técnica comum em Python para reutilizar código, permitindo que uma classe utilize métodos de outra classe.
+8. Python suporta múltipla herança, possibilitando que uma classe herde características de várias superclasses.
+9. O polimorfismo em Python permite que um método tenha várias formas, dependendo do objeto que o chama.
+10. Em Python, é possível utilizar um construtor (\_\_init\_\_) para atribuir valores iniciais aos atributos de uma classe no momento da sua criação.
 
 8. Subtópico:
 8. Bibliotecas padrão do ecossistema Python (como NumPy, Pandas, Matplotlib)

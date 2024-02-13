@@ -26,7 +26,7 @@ Assertivas:
 7. Dicionários podem ser iterados através de suas chaves, valores ou itens (pares chave-valor).
 8. Os conjuntos em Python possuem métodos para realizar operações matemáticas como união, interseção e diferença.
 9. Listas, tuplas e dicionários podem ser aninhados em estruturas mais complexas para organizar dados em hierarquias.
-10. A complexidade de tempo para inserir, pesquisar ou deletar elementos em uma lista é O(n), enquanto nos dicionários é O(1) em média.
+10. A complexidade de tempo para inserir, pesquisar ou deletar elementos em uma lista é O(n), enquanto nos dicionários é O(1. em média.
 
 3. Subtópico:
 3. Funções em Python: Definição e uso de funções, parâmetros padrão e argumentos variáveis.

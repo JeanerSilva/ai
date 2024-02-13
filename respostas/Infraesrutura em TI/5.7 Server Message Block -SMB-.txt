@@ -82,9 +82,9 @@ Assertivas:
 6. Subtópico:
 6. Diferenças entre as versões do SMB: SMB1, SMB2, SMB3 
 Assertivas:
-1. O SMB1 (Server Message Block 1) é a versão mais antiga do protocolo SMB e possui várias vulnerabilidades de segurança.
-2. O SMB2 (Server Message Block 2) foi lançado pela Microsoft em 2006 como uma atualização do SMB1, com melhorias significativas no desempenho e na segurança.
-3. O SMB3 (Server Message Block 3) foi introduzido pela Microsoft em 2012 e trouxe consigo recursos avançados, como suporte a múltiplas conexões, criptografia de ponta a ponta e failover transparente.
+1. O SMB1 (Server Message Block 1. é a versão mais antiga do protocolo SMB e possui várias vulnerabilidades de segurança.
+2. O SMB2 (Server Message Block 2. foi lançado pela Microsoft em 2006 como uma atualização do SMB1, com melhorias significativas no desempenho e na segurança.
+3. O SMB3 (Server Message Block 3. foi introduzido pela Microsoft em 2012 e trouxe consigo recursos avançados, como suporte a múltiplas conexões, criptografia de ponta a ponta e failover transparente.
 4. Enquanto o SMB1 é amplamente considerado inseguro, o SMB2 e SMB3 são considerados mais seguros e robustos.
 5. O SMB1 não suporta o VSS (Volume Shadow Copy Service), que é uma tecnologia usada para criar cópias instantâneas de arquivos em servidores Windows.
 6. O SMB2 e o SMB3 suportam recursos como redirecionamento de pastas, compartilhamento de impressoras e suporte a transferências de arquivos em paralelo.

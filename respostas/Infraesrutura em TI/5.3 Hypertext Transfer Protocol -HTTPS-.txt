@@ -26,16 +26,16 @@ Assertivas:
 2. Subtópico:
 2. Diferenças entre HTTP e HTTPS
 Assertivas:
-1) O HTTPS é uma extensão do protocolo HTTP que proporciona uma camada adicional de segurança por meio da criptografia dos dados transmitidos.
-2) O HTTP é um protocolo de comunicação utilizado para transferir informações na web, enquanto o HTTPS é uma versão segura do HTTP.
-3) A principal diferença entre o HTTP e o HTTPS está na segurança dos dados transmitidos, onde o HTTPS oferece uma navegação mais segura e protegida contra interceptações e ataques.
-4) Enquanto o HTTP transmite os dados de forma não criptografada, o HTTPS usa criptografia para garantir que os dados sejam transmitidos de forma segura, impedindo o acesso não autorizado.
-5) O HTTP utiliza a porta 80 para a comunicação, enquanto o HTTPS utiliza a porta 443.
-6) A utilização do HTTPS é recomendada em páginas que contenham transações financeiras, acesso a dados sensíveis e qualquer tipo de informação privada.
-7) A adoção do HTTPS também influencia no ranqueamento de um site nos resultados de busca, já que os mecanismos de busca privilegiam sites que oferecem maior segurança aos usuários.
-8) Os certificados SSL/TLS são utilizados no HTTPS para autenticar a identidade do servidor e estabelecer uma comunicação segura.
-9) Ao utilizar um site com conexão HTTPS, o usuário pode identificar a presença de um cadeado na barra de endereço do navegador, indicando uma conexão segura.
-10) A implementação do HTTPS exige um esforço maior em termos de configuração e manutenção dos servidores, porém traz mais confiança e privacidade aos usuários.
+1. O HTTPS é uma extensão do protocolo HTTP que proporciona uma camada adicional de segurança por meio da criptografia dos dados transmitidos.
+2. O HTTP é um protocolo de comunicação utilizado para transferir informações na web, enquanto o HTTPS é uma versão segura do HTTP.
+3. A principal diferença entre o HTTP e o HTTPS está na segurança dos dados transmitidos, onde o HTTPS oferece uma navegação mais segura e protegida contra interceptações e ataques.
+4. Enquanto o HTTP transmite os dados de forma não criptografada, o HTTPS usa criptografia para garantir que os dados sejam transmitidos de forma segura, impedindo o acesso não autorizado.
+5. O HTTP utiliza a porta 80 para a comunicação, enquanto o HTTPS utiliza a porta 443.
+6. A utilização do HTTPS é recomendada em páginas que contenham transações financeiras, acesso a dados sensíveis e qualquer tipo de informação privada.
+7. A adoção do HTTPS também influencia no ranqueamento de um site nos resultados de busca, já que os mecanismos de busca privilegiam sites que oferecem maior segurança aos usuários.
+8. Os certificados SSL/TLS são utilizados no HTTPS para autenticar a identidade do servidor e estabelecer uma comunicação segura.
+9. Ao utilizar um site com conexão HTTPS, o usuário pode identificar a presença de um cadeado na barra de endereço do navegador, indicando uma conexão segura.
+10. A implementação do HTTPS exige um esforço maior em termos de configuração e manutenção dos servidores, porém traz mais confiança e privacidade aos usuários.
 
 3. Subtópico:
 3. Processo de criptografia em HTTPS

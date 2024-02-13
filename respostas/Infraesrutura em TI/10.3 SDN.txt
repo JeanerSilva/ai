@@ -68,11 +68,11 @@ Assertivas:
 5. Subtópico:
 5. Diferenças entre redes tradicionais e redes definidas por software (SDN)
 Assertivas:
-1) SDN permite uma maior flexibilidade e agilidade na configuração e gerenciamento de redes em comparação às redes tradicionais.
-2) Ao contrário das redes tradicionais, em SDN a lógica de controle é centralizada e separada dos dispositivos de rede.
-3) SDN permite a programação e automação de redes de forma mais eficiente do que nas redes tradicionais.
-4) Redes tradicionais dependem de configuração manual de cada dispositivo de rede, enquanto em SDN a configuração é feita de forma centralizada e por meio de programação.
-5) Em redes tradicionais, mudanças de topologia e configuração podem ser complexas e demoradas, enquanto em SDN são mais rápidas e fáceis de serem implementadas.
+1. SDN permite uma maior flexibilidade e agilidade na configuração e gerenciamento de redes em comparação às redes tradicionais.
+2. Ao contrário das redes tradicionais, em SDN a lógica de controle é centralizada e separada dos dispositivos de rede.
+3. SDN permite a programação e automação de redes de forma mais eficiente do que nas redes tradicionais.
+4. Redes tradicionais dependem de configuração manual de cada dispositivo de rede, enquanto em SDN a configuração é feita de forma centralizada e por meio de programação.
+5. Em redes tradicionais, mudanças de topologia e configuração podem ser complexas e demoradas, enquanto em SDN são mais rápidas e fáceis de serem implementadas.
 
 6. Subtópico:
 6. Aplicações práticas e casos de uso do SDN

@@ -59,16 +59,16 @@ Assertivas:
 5. Subtópico:
 5. Técnicas eficazes para o uso das ferramentas de monitoramento e logging.
 Assertivas:
-1) O uso de ferramentas de monitoramento e logging permite o acompanhamento em tempo real do desempenho dos sistemas e das aplicações.
-2) O estabelecimento de métricas adequadas é fundamental para uma correta utilização das ferramentas de monitoramento e logging.
-3) As técnicas de correlação de eventos são eficazes para identificar possíveis problemas de desempenho nos sistemas.
-4) A utilização de dashboards personalizáveis facilita a visualização e análise dos dados coletados pelas ferramentas de monitoramento e logging.
-5) A configuração adequada das políticas de alerta é essencial para um sistema eficaz de notificação de eventos anormais.
-6) O uso da tecnologia de inteligência artificial auxilia na identificação de anomalias e na tomada de decisões baseadas em análises dos logs.
-7) A adoção da prática de log centralizado facilita a análise e solução de problemas em ambientes com múltiplos sistemas e servidores.
-8) A implementação de backups dos logs é importante para garantir a disponibilidade e integridade das informações.
-9) O monitoramento de logs em tempo real permite a detecção imediata de eventos críticos e a tomada de ações preventivas.
-10) A análise de logs históricos permite a identificação de tendências e a otimização dos recursos de um ambiente de TI.
+1. O uso de ferramentas de monitoramento e logging permite o acompanhamento em tempo real do desempenho dos sistemas e das aplicações.
+2. O estabelecimento de métricas adequadas é fundamental para uma correta utilização das ferramentas de monitoramento e logging.
+3. As técnicas de correlação de eventos são eficazes para identificar possíveis problemas de desempenho nos sistemas.
+4. A utilização de dashboards personalizáveis facilita a visualização e análise dos dados coletados pelas ferramentas de monitoramento e logging.
+5. A configuração adequada das políticas de alerta é essencial para um sistema eficaz de notificação de eventos anormais.
+6. O uso da tecnologia de inteligência artificial auxilia na identificação de anomalias e na tomada de decisões baseadas em análises dos logs.
+7. A adoção da prática de log centralizado facilita a análise e solução de problemas em ambientes com múltiplos sistemas e servidores.
+8. A implementação de backups dos logs é importante para garantir a disponibilidade e integridade das informações.
+9. O monitoramento de logs em tempo real permite a detecção imediata de eventos críticos e a tomada de ações preventivas.
+10. A análise de logs históricos permite a identificação de tendências e a otimização dos recursos de um ambiente de TI.
 
 6. Subtópico:
 6. Análise dos dados obtidos através do monitoramento e logging na otimização da produção do sistema.

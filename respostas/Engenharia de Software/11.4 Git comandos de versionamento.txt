@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Comando 'git clone': Clonagem de um repositório existente.
 Assertivas:
-1) O comando 'git clone' é utilizado para fazer uma clonagem de um repositório existente.
-2) A clonagem realizada pelo comando 'git clone' permite criar uma cópia local do repositório.
-3) O comando 'git clone' é utilizado para clonar tanto repositórios locais quanto repositórios remotos.
-4) O comando 'git clone' pode ser utilizado para clonar repositórios hospedados em servidores como o GitHub, GitLab ou Bitbucket.
-5) Ao executar o comando 'git clone', é necessário especificar a URL do repositório que será clonado.
-6) A clonagem realizada pelo comando 'git clone' inclui todas as ramificações e histórico de commits do repositório original.
-7) A clonagem de um repositório existente por meio do comando 'git clone' cria automaticamente um diretório local com o nome do repositório.
-8) A clonagem de um repositório com o comando 'git clone' possibilita a colaboração e contribuição para o projeto de forma descentralizada.
-9) A clonagem precisa de uma conexão com a internet para baixar os arquivos do repositório.
-10) Após clonar um repositório com o comando 'git clone', o repositório local estará pronto para ser utilizado e manipulado através dos comandos Git.
+1. O comando 'git clone' é utilizado para fazer uma clonagem de um repositório existente.
+2. A clonagem realizada pelo comando 'git clone' permite criar uma cópia local do repositório.
+3. O comando 'git clone' é utilizado para clonar tanto repositórios locais quanto repositórios remotos.
+4. O comando 'git clone' pode ser utilizado para clonar repositórios hospedados em servidores como o GitHub, GitLab ou Bitbucket.
+5. Ao executar o comando 'git clone', é necessário especificar a URL do repositório que será clonado.
+6. A clonagem realizada pelo comando 'git clone' inclui todas as ramificações e histórico de commits do repositório original.
+7. A clonagem de um repositório existente por meio do comando 'git clone' cria automaticamente um diretório local com o nome do repositório.
+8. A clonagem de um repositório com o comando 'git clone' possibilita a colaboração e contribuição para o projeto de forma descentralizada.
+9. A clonagem precisa de uma conexão com a internet para baixar os arquivos do repositório.
+10. Após clonar um repositório com o comando 'git clone', o repositório local estará pronto para ser utilizado e manipulado através dos comandos Git.
 
 4. Subtópico:
 4. Comando 'git add': Adição de arquivos ao índice do Git.

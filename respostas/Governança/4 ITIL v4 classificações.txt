@@ -31,16 +31,16 @@ Assertivas:
 3. Subtópico:
 3. Os sete princípios orientadores do ITIL v4.
 Assertivas:
-1) Os sete princípios orientadores do ITIL v4 são baseados na ideia de valor do serviço.
-2) Um dos princípios do ITIL v4 é focado no controle e influência do usuário sobre o seu próprio serviço.
-3) A melhoria contínua é um dos princípios-chave do ITIL v4.
-4) O ITIL v4 enfatiza a importância da colaboração e da transparência entre os diversos departamentos de uma organização.
-5) Um dos princípios do ITIL v4 preza pela importância da simplicidade, buscando evitar a complexidade desnecessária nos serviços oferecidos.
-6) O ITIL v4 promove a adoção de uma abordagem holística na gestão de serviços, considerando todos os aspectos relevantes.
-7) A adaptabilidade é um dos princípios-chave do ITIL v4, destacando a necessidade de se ajustar às mudanças e demandas do mercado.
-8) A perspectiva da experiência do usuário é levada em conta no ITIL v4, como um dos princípios orientadores.
-9) A padronização de processos e práticas é incentivada pelo ITIL v4 em um de seus princípios.
-10) A resiliência ganha destaque como um princípio importante do ITIL v4, promovendo a capacidade de lidar com falhas e interrupções de serviços.
+1. Os sete princípios orientadores do ITIL v4 são baseados na ideia de valor do serviço.
+2. Um dos princípios do ITIL v4 é focado no controle e influência do usuário sobre o seu próprio serviço.
+3. A melhoria contínua é um dos princípios-chave do ITIL v4.
+4. O ITIL v4 enfatiza a importância da colaboração e da transparência entre os diversos departamentos de uma organização.
+5. Um dos princípios do ITIL v4 preza pela importância da simplicidade, buscando evitar a complexidade desnecessária nos serviços oferecidos.
+6. O ITIL v4 promove a adoção de uma abordagem holística na gestão de serviços, considerando todos os aspectos relevantes.
+7. A adaptabilidade é um dos princípios-chave do ITIL v4, destacando a necessidade de se ajustar às mudanças e demandas do mercado.
+8. A perspectiva da experiência do usuário é levada em conta no ITIL v4, como um dos princípios orientadores.
+9. A padronização de processos e práticas é incentivada pelo ITIL v4 em um de seus princípios.
+10. A resiliência ganha destaque como um princípio importante do ITIL v4, promovendo a capacidade de lidar com falhas e interrupções de serviços.
 
 4. Subtópico:
 4. O modelo de sistema de valor de serviço (SVS) no ITIL v4.
@@ -115,15 +115,15 @@ Assertivas:
 9. Subtópico:
 9
 Assertivas:
-1) O número 9 é um número ímpar.
-2) Na sequência numérica, o 9 sucede o número 8.
-3) O 9 é um algarismo encontrado no sistema decimal.
-4) O quadrado de 9 é igual a 81.
-5) O número 9 é um múltiplo de 3.
-6) Ao multiplicar qualquer número por 9, o resultado terá a soma dos seus algarismos igual a 9.
-7) O número 9 é um dígito utilizado em diferentes sistemas de numeração, como o decimal e o binário.
-8) A raiz quadrada aproximada de 9 é igual a 3.
-9) O número 9 é um número natural.
-10) O número 9 é um algarismo utilizado no sistema numeral indo-arábico.
+1. O número 9 é um número ímpar.
+2. Na sequência numérica, o 9 sucede o número 8.
+3. O 9 é um algarismo encontrado no sistema decimal.
+4. O quadrado de 9 é igual a 81.
+5. O número 9 é um múltiplo de 3.
+6. Ao multiplicar qualquer número por 9, o resultado terá a soma dos seus algarismos igual a 9.
+7. O número 9 é um dígito utilizado em diferentes sistemas de numeração, como o decimal e o binário.
+8. A raiz quadrada aproximada de 9 é igual a 3.
+9. O número 9 é um número natural.
+10. O número 9 é um algarismo utilizado no sistema numeral indo-arábico.
 
 
