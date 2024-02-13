@@ -4,7 +4,9 @@
 concatenar_arquivos() {
     pasta=$1
     arquivo_concatenado="$pasta.txt"
-    find "$pasta" -type f -exec cat {} + > "$arquivo_concatenado"
+    nome_do_arquivo=$(echo "$arquivo_concatenado" | sed 's/\///g')
+    echo $nome_do_arquivo
+    find "$pasta" -type f -exec cat {} + > "$nome_do_arquivo"
 }
 
 # Percorre todas as pastas e executa a função concatenar_arquivos
