@@ -61,9 +61,9 @@ def processar_perguntas(nome_arquivo, contexto):
         arquivo =  sanitize_filename(pergunta[:-2]) + ".txt"
         with open("respostas/" + arquivo, 'a', encoding='utf-8') as arquivo_respostas:
             informacoes_subtopicos = gerar_subtopicos_e_perguntas(pergunta, contexto)
-            arquivo_respostas.write(f"Pergunta Original: {pergunta} \n")
+            arquivo_respostas.write(f"Item do edital: {pergunta} \n")
             for i, (subtópico, resposta_subtópico) in enumerate(informacoes_subtopicos, start=1):
-                arquivo_respostas.write(f"{i}. Subtópico:\n{subtópico}\nAssertivas:\n{resposta_subtópico}\n\n")
+                arquivo_respostas.write(f"{i}. Subtópico: {subtópico}\nAssertivas:\n{resposta_subtópico}\n\n")
             arquivo_respostas.write("\n")
 
 contexto = carrega("contexto.txt")
