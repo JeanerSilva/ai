@@ -128,66 +128,47 @@ Engenharia de Software - Git funcionamento.
 Engenharia de Software - Git principais comandos.
 Engenharia de Software - Git comandos de configuração.
 Engenharia de Software - Git comandos de versionamento.
-Engenharia de Software - Python-.
-Engenharia de Software - Python- ecossistema.
-Engenharia de Software - Python- hello world.
-Engenharia de Software - Python- variáveis.
-Engenharia de Software - Python- sintaxe básica.
-Engenharia de Software - Python- palavras reservadas.
-Engenharia de Software - Python- tipos de dados.
-Engenharia de Software - Python- operações com strings.
-Engenharia de Software - Python- classes.
-Engenharia de Software - Python- orientação a objeto.
-Engenharia de Software - Python- herança.
-Engenharia de Software - Python- polimorfismo.
-Engenharia de Software - Python- tipos de estruturas de dados.
-Engenharia de Software - Python- operações com estruturas de dados.
-Engenharia de Software - Python- orientação a objetos.
-Engenharia de Software - Python- gestão de memória.
-Engenharia de Software - Python- tratamento de exceções.
-Engenharia de Software - Python- entrada e saída de dados.
-Engenharia de Software - Python- bibliotecas e Frameworks.
-Engenharia de Software - Python- operações com estruturas de dados.
-Engenharia de Software - Python- Framework web.
-Engenharia de Software - Python- testes.
-Engenharia de Software - Python- bibliotecas de testes.
-Engenharia de Software - Python- exemplos de testes.
-Engenharia de Software - Python- aspectos especíicos da linguagem.
-Engenharia de Software - Python- padrões de projetos.
-Engenharia de Software - Python- integração com bancos de dados.
-Engenharia de Software - Python- comparativo com java quanto à compilação.
-Engenharia de Software - Python- comparativo com java quanto à execução.
-Engenharia de Software - Python- comparativo com java quanto à sintaxe.
-Engenharia de Software - Java.
-Engenharia de Software - Java- ecossistema.
-Engenharia de Software - Java- hello world.
-Engenharia de Software - Java- variáveis.
-Engenharia de Software - Java- sintaxe básica.
-Engenharia de Software - Java- palavras reservadas.
-Engenharia de Software - Java- tipos de dados.
-Engenharia de Software - Java- operações com strings.
-Engenharia de Software - Java- classes.
-Engenharia de Software - Java- orientação a objeto.
-Engenharia de Software - Java- herança.
-Engenharia de Software -Java- polimorfismo.
-Engenharia de Software - Java- tipos de estruturas de dados.
-Engenharia de Software - Java- orientação a objetos.
-Engenharia de Software - Java- gestão de memória.
-Engenharia de Software - Java- tratamento de exceções.
-Engenharia de Software - Java- entrada e saída de dados.
-Engenharia de Software - Java- bibliotecas e Frameworks.
-Engenharia de Software - Java- tipos de estruturas de dados.
-Engenharia de Software - Java- operações com estruturas de dados.
-Engenharia de Software - Java- Framework web.
-Engenharia de Software - Java- testes.
-Engenharia de Software - Java- bibliotecas de testes.
-Engenharia de Software - Java- exemplos de testes.
-Engenharia de Software - Java- aspectos específicos da linguagem.
-Engenharia de Software - Java- padrões de projetos.
-Engenharia de Software - Java- integração com bancos de dados.
-Engenharia de Software - Java- comparativo com python quanto à compilação.
-Engenharia de Software - Java- comparativo com python quanto à execução.
-Engenharia de Software - Java- comparativo com python quanto à sintaxe.
+Python - Linguagem de Programação Python: Sintaxe e Semântica, Tipos de Dados e Estruturas, Funções e Módulos, Programação Orientada a Objetos
+Python - Ambientes de Desenvolvimento: IDEs (Integrated Development Environments), PyCharm, VS Code com extensões Python, Spyder, Editores de Texto, Sublime Text, Atom, Vim
+Python - Gerenciamento de Pacotes: pip (Python Package Installer), Anaconda e conda, Virtualenv e venv, Gerenciamento de Dependências
+Python - Frameworks e Bibliotecas: Web Development, Django, Flask, FastAPI, Data Science e Machine Learning, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Desenvolvimento de Jogos, Pygame, Panda3D, Automatização de Tarefas, BeautifulSoup, Selenium, GUI (Graphical User Interface), Tkinter, PyQt, Kivy
+Python - Bancos de Dados: SQLite, PostgreSQL, MySQL, MongoDB, SQLAlchemy (ORM)
+Python - Desenvolvimento Web: Servidores Web, Gunicorn, uWSGI, APIs RESTful, Flask-RESTful, Django REST Framework, Templating Engines, Jinja2, Django Templates
+Python - Testes e Qualidade de Código: Unittest, pytest, Coverage, Pylint
+Python - Automação e Scripting: Scripting de Sistemas, Automação de Tarefas, Scripting de Redes
+Python - variáveis.
+Python - palavras reservadas.
+Python - tipos de dados.
+Python - gestão de memória.
+Python - tratamento de exceções.
+Python - operações com estruturas de dados.
+Python - aspectos específicos da linguagem.
+Python - padrões de projetos.
+Python - integração com bancos de dados.
+Python - comparativo com java quanto à compilação.
+Python - comparativo com java quanto à execução.
+Python - comparativo com java quanto à sintaxe.
+Java - Linguagem de Programação Java:, Sintaxe e Semântica, Estruturas de Dados, Orientação a Objetos, Gerenciamento de Memória
+Java - Plataformas Java:, Java SE (Standard Edition), Java EE (Enterprise Edition), Java ME (Micro Edition), JavaFX
+Java - Desenvolvimento Web em Java:, Servlets e JSP (JavaServer Pages), Frameworks MVC (Model-View-Controller), Spring MVC, JavaServer Faces (JSF), Struts, Tecnologias de Persistência de Dados, JDBC (Java Database Connectivity), JPA (Java Persistence API), Hibernate
+Java - Desenvolvimento de Aplicativos Desktop:, Swing, AWT (Abstract Window Toolkit), JavaFX
+Java - Desenvolvimento Mobile em Java:, Desenvolvimento Android com Java, Ferramentas e SDKs para Desenvolvimento Android
+Java - Ferramentas e Ambientes de Desenvolvimento:, IDEs (Integrated Development Environments), Eclipse, IntelliJ IDEA, NetBeans, Ferramentas de Build e Gerenciamento de Dependências, Maven, Gradle, Ferramentas de Controle de Versão, Git, Subversion (SVN)
+Java - Padrões de Projeto em Java:, Padrões de Criação, Singleton, Factory, Builder, Padrões Estruturais, Adapter, Facade, Decorator, Padrões Comportamentais, Observer, Strategy, Template Method
+Java - Segurança em Java:, Gerenciamento de Credenciais e Permissões, Prevenção de Vulnerabilidades, Criptografia e Assinatura Digital
+Java - Comunidade e Recursos de Aprendizado:, Fóruns de Discussão e Comunidades Online, Tutoriais e Documentação Oficial, Blogs e Sites Especializados, Livros e Cursos Online
+Java - variáveis.
+Java - palavras reservadas.
+Java - tipos de dados.
+Java- gestão de memória.
+Java- tratamento de exceções.
+Java- operações com estruturas de dados.
+Java- aspectos específicos da linguagem.
+Java- padrões de projetos.
+Java- integração com bancos de dados.
+Java- comparativo com python quanto à compilação.
+Java- comparativo com python quanto à execução.
+Java- comparativo com python quanto à sintaxe.
 Engenharia de Software - Transações distribuídas.
 Engenharia de Software - Distributed Ledger Technology -DLT-.
 Infraestrutura em TI - Conceitos de infraestrutura como código.
