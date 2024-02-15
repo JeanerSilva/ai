@@ -6,16 +6,16 @@ from helpers import *
 
 def obter_resposta_subtopicos(subtópico):
     messages_resposta = [
-        {"role": "system", "content": "Você é um assistente que explica subtópicos em detalhes de modo a prover uma pessoa que fará concurso público"},
-        {"role": "user", "content": f"Discorra de forma aprofundada sobre o seguinte tema: {subtópico}. Se forem citados tipos, subtipos, classificações, tendências ou grupos, fale detidamente sobre cada um deles e cite exemplos."}
+        {"role": "system", "content": "Você é um especialista no assunto"},
+        {"role": "user", "content": f"{subtópico}"}
     ]
     response_resposta = openai.ChatCompletion.create(
         #model="gpt-4",
         model="gpt-3.5-turbo",
         messages=messages_resposta,
-        temperature=0.1,
-        max_tokens=2000,
-        frequency_penalty=1.0
+        #temperature=0.1,
+        #max_tokens=2000,
+        #frequency_penalty=1.0
     )
     
     return response_resposta['choices'][0]['message']['content'].strip()
@@ -44,6 +44,8 @@ def gerar_subtopicos_e_perguntas(pergunta, contexto):
         informacoes_subtopicos = []
  
         for subtópico in subtópicos:
+            subtópico = subtópico.replace("\n", "").replace("- Tópico: ", "").replace("  - Subtópico: ", ", ")
+            print(f"subtópico=: {subtópico} ")
             if subtópico:
                 resposta_subtópico = obter_resposta_subtopicos(pergunta)
                 #resposta_subtópico = subtópico
@@ -54,14 +56,6 @@ def gerar_subtopicos_e_perguntas(pergunta, contexto):
     except Exception as e:
         print(f"Erro ao gerar subtopicos e perguntas: {e}")
         return []
-
-def ehTopico(string):
-    num_pontos = string.count('.', 0, string[5:].find(' '))
-    if num_pontos == 1:
-        return True
-    else:
-        return False
-
 
 def processar_perguntas(nome_arquivo, contexto):
     with open(nome_arquivo, 'r', encoding='utf-8') as arquivo:

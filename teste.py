@@ -1,12 +1,41 @@
 
-subtópicos = ['- Conceito de kanban:', '  - Definição de kanban;', '  - Origem do kanban;', '  - Princípios do kanban;', '  - Benefícios do kanban;', '  - Limitações do kanban.', '', '- Implementação do kanban:', '  - Planejamento da implementação do kanban;', '  - Etapas para implementar o kanban;', '  - Definição de limites de trabalho;', '  - Criação de quadros kanban;', '  - Definição de cartões kanban;', '  - Estabelecimento de políticas de fluxo;', '  - Monitoramento e controle do kanban.', '', '- Tipos de kanban:', '  - Kanban de produção;', '  - Kanban de movimentação;', '  - Kanban de fornecimento;', '  - Kanban de sinalização;', '  - Kanban eletrônico.', '', '- Práticas ágeis relacionadas ao kanban:', '  - Kanban e Scrum;', '  - Kanban e Lean;', '  - Kanban e DevOps;', '  - Kanban e Agile.', '', '- Exemplos de aplicação do kanban:', '  - Kanban na indústria;', '  - Kanban na área de serviços;', '  - Kanban na gestão de projetos;', '  - Kanban na área de TI;', '  - Kanban na área de saúde.', '', '- Ferramentas e softwares para kanban:', '  - Trello;', '  - Jira;', '  - Kanbanize;', '  - LeanKit;', '  - Kanban Tool.', '', '- Casos de sucesso com kanban:', '  - Toyota e o sistema kanban;', '  - Casos de empresas que implementaram o kanban com sucesso;', '  - Resultados alcançados com a adoção do kanban.', '', '- Desafios e problemas comuns no uso do kanban:', '  - Resistência à mudança;', '  - Falta de comprometimento;', '  - Dificuldade em definir políticas de fluxo;', '  - Problemas de comunicação;', '  - Falta de acompanhamento e monitoramento adequados.']
+last_response = """ - Tópico: Conceito de macroeconomia
+  - Subtópico: Definição de macroeconomia
+  - Subtópico: Objetivos da macroeconomia
+  - Subtópico: Principais indicadores macroeconômicos
 
-retorno = ""
+- Tópico: Agregados monetários
+  - Subtópico: Definição de agregados monetários
+  - Subtópico: Tipos de agregados monetários
+  - Subtópico: Funções dos agregados monetários na economia
+
+- Tópico: Medição dos agregados monetários
+  - Subtópico: Métodos de medição dos agregados monetários
+  - Subtópico: Importância da medição dos agregados monetários
+  - Subtópico: Limitações na medição dos agregados monetários
+
+- Tópico: Relação entre agregados monetários e a economia
+  - Subtópico: Influência dos agregados monetários na inflação
+  - Subtópico: Impacto dos agregados monetários no crescimento econômico
+  - Subtópico: Papel dos agregados monetários na política monetária
+
+- Tópico: Política monetária
+  - Subtópico: Definição de política monetária
+  - Subtópico: Instrumentos da política monetária
+  - Subtópico: Objetivos da política monetária
+
+- Tópico: Importância dos agregados monetários para a política monetária
+  - Subtópico: Utilização dos agregados monetários como indicadores econômicos
+  - Subtópico: Relação entre os agregados monetários e as metas da política monetária
+  - Subtópico: Avaliação dos agregados monetários na formulação da política monetária"""
+
+subtópicos = last_response.strip().split('\n\n')
+#print(subtópicos)
+
 for subtópico in subtópicos:
-    subtópico_corrigido = subtópico.replace("  - ", "-").replace("- ", "---")
-    retorno = retorno + subtópico_corrigido
-subtópicos = retorno.split('---')
+    subtópico = subtópico.replace("\n", "").replace("- Tópico: ", "").replace("  - Subtópico: ", ", ")
+    print(f"{subtópico} \n")
+
 
 #for subtópico in subtópicos_corrigidos:
 #    print(subtópico)
-print(subtópicos)
