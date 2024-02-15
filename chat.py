@@ -1,8 +1,6 @@
 import openai
-
-openai.api_key =='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'
-
-
+from secret import apikey
+openai.api_key = apikey
 from helpers import *
 
 
@@ -69,3 +67,4 @@ def processar_perguntas(nome_arquivo, contexto):
 contexto = carrega("contexto.txt")
 
 processar_perguntas('perguntas.txt', contexto)
+
