@@ -1,0 +1,67 @@
+
+Item do edital: 122. kanban   
+1. Subtópico: 1. Conceitos básicos do kanban
+Tópicos relacionados ao kanban:
+2. Subtópico: 2. Implementação do kanban
+   1.1. Definição de kanban   1.2. Origem e história do kanban   1.3. Princípios do kanban   1.4. Benefícios do kanban
+3. Subtópico: 3. Tipos de kanban
+   2.1. Planejamento da implementação do kanban   2.2. Definição dos fluxos de trabalho   2.3. Criação dos quadros kanban   2.4. Estabelecimento de limites de trabalho em progresso (WIP)   2.5. Monitoramento e controle do kanban
+4. Subtópico: 4. Métricas e indicadores do kanban
+   3.1. Kanban de produção   3.2. Kanban de transporte   3.3. Kanban de movimentação   3.4. Kanban de informação
+5. Subtópico: 5. Integração do kanban com outras metodologias ágeis
+   4.1. Tempo médio de ciclo (Cycle Time)   4.2. Tempo médio de entrega (Lead Time)   4.3. Taxa de entrega (Delivery Rate)   4.4. Taxa de retrabalho (Rework Rate)   4.5. Taxa de eficiência (Efficiency Rate)
+6. Subtópico: 6. Desafios e melhores práticas do kanban
+   5.1. Kanban e Scrum   5.2. Kanban e Lean   5.3. Kanban e Agile
+7. Subtópico: 7. Exemplos de aplicação do kanban em diferentes setores
+   6.1. Identificação e resolução de gargalos   6.2. Gestão de mudanças e resistência à adoção do kanban   6.3. Melhoria contínua do kanban   6.4. Engajamento da equipe no uso do kanban
+8. Subtópico:    7.3
+   7.1. Kanban na indústria de manufatura   7.2. Kanban na área de desenvolvimento de software
+
+Item do edital: 122. kanban   
+1. 1. Conceitos básicos do kanban
+Tópicos relacionados ao kanban:
+2. 2. Práticas e técnicas do kanban
+   1.1. Origem e história do kanban   1.2. Definição e significado do kanban   1.3. Princípios e valores do kanban
+3. 3. Implementação do kanban
+   2.1. Quadro kanban   2.2. Cartões kanban   2.3. Limites de trabalho em progresso (WIP)   2.4. Fluxo contínuo   2.5. Reuniões diárias (daily stand-up)   2.6. Métricas e indicadores do kanban
+4. 4. Aplicações do kanban
+   3.1. Preparação para a implementação do kanban   3.2. Mapeamento do fluxo de trabalho   3.3. Definição de políticas e regras do kanban   3.4. Treinamento e capacitação da equipe   3.5. Acompanhamento e melhoria contínua do kanban
+5. 5. Vantagens e benefícios do kanban
+   4.1. Kanban no desenvolvimento de software   4.2. Kanban na gestão de projetos   4.3. Kanban na gestão de processos   4.4. Kanban na gestão de estoques   4.5. Kanban na gestão de serviços
+6. 6. Desafios e considerações do kanban
+   5.1. Melhoria da visibilidade e transparência do trabalho   5.2. Redução de desperdícios e gargalos   5.3. Aumento da produtividade e eficiência   5.4. Melhoria da qualidade e satisfação do cliente   5.5. Facilitação da colaboração e comunicação entre equipes
+
+Item do edital: 122. kanban   
+
+Item do edital: 122. kanban   
+
+Item do edital: 122. kanban   
+1. 1.1 Origem e história do kanban
+1. Conceito de kanban
+2. 1.3 Princípios e filosofia do kanban
+1.2 Definição e significado do termo kanban
+3. 2.1 Uso do kanban na gestão de projetos
+2. Aplicação do kanban
+4. 2.3 Utilização do kanban no gerenciamento de estoques
+2.2 Implementação do kanban em processos de produção
+5. 3.1 Melhoria da eficiência e produtividade
+3. Benefícios do kanban
+6. 3.3 Aumento da visibilidade e transparência nos processos
+3.2 Redução de desperdícios e custos
+7. 4.1 Kanban de produção
+4. Tipos de kanban
+8. 4.3 Kanban de movimentação
+4.2 Kanban de transporte
+9. 5.1 Quadro kanban
+5. Ferramentas e técnicas relacionadas ao kanban
+10. 5.3 Cálculo do número de kanbans
+5.2 Cartões kanban
+11. 6.1 Toyota e o sistema Toyota de produção
+6. Exemplos de empresas que utilizam o kanban
+12. 7. Desafios e limitações do kanban
+6.2 Casos de sucesso na implementação do kanban em outras organizações
+13. 7.2 Limitações do kanban em ambientes complexos
+7.1 Resistência à mudança e dificuldades de implementação
+
+Item do edital: 122. kanban   
+
