@@ -1,0 +1,113 @@
+Item do edital: 1.2 Raciocínio lógico: Lógica de argumentação: analogias, inferências, deduções e conclusões.  
+ 
+1. - Analogias
+  - Tipos de analogias
+  - Exemplos de analogias
+  - Aplicações de analogias em raciocínio lógico
+A lógica de argumentação é uma área da lógica que estuda os diferentes tipos de raciocínio utilizados para construir e avaliar argumentos. Ela envolve a análise das relações entre as premissas e a conclusão de um argumento, buscando determinar se o raciocínio utilizado é válido ou não.
+
+Um dos principais elementos da lógica de argumentação são as analogias. As analogias são comparações entre duas situações ou objetos que possuem características semelhantes, com o objetivo de inferir algo sobre uma delas com base na outra. Por exemplo, se alguém diz "Assim como um pássaro voa no céu, um avião também voa", está utilizando uma analogia para inferir que assim como os pássaros têm a capacidade de voar, os aviões também têm essa capacidade.
+
+Outro elemento importante na lógica de argumentação são as inferências. As inferências são conclusões tiradas a partir das premissas apresentadas em um argumento. Elas podem ser classificadas em dois tipos: dedutivas e indutivas.
+
+As deduções são inferências nas quais a conclusão segue necessariamente das premissas apresentadas. Em outras palavras, se as premissas forem verdadeiras, então a conclusão também será verdadeira. Por exemplo:
+
+Premissa 1: Todos os seres humanos são mortais.
+Premissa 2: João é um ser humano.
+Conclusão: Portanto, João é mortal.
+
+Nesse caso, se aceitarmos as duas premissas como verdadeiras (o que é razoável), então podemos concluir logicamente que João é mortal.
+
+Já as induções são inferências nas quais a conclusão é provável, mas não necessariamente verdadeira, com base nas premissas apresentadas. Elas são mais fracas do que as deduções e envolvem um grau de incerteza. Por exemplo:
+
+Premissa 1: Todos os cisnes observados até agora são brancos.
+Conclusão: Portanto, todos os cisnes são brancos.
+
+Nesse caso, a conclusão é provável com base nas observações feitas até o momento, mas não podemos afirmar com certeza absoluta que todos os cisnes são brancos apenas com base nessas observações.
+
+Além das inferências, a lógica de argumentação também estuda as conclusões dos argumentos. As conclusões podem ser classificadas em duas categorias principais: válidas e inválidas.
+
+Uma conclusão válida é aquela que segue logicamente das premissas apresentadas no argumento. Ou seja, se todas as premissas forem verdadeiras, então a conclusão também será verdadeira. Por outro lado, uma conclusão inválida é aquela que não segue logicamente das premissas apresentadas.
+
+Por exemplo:
+
+Premissa 1: Todos os mamíferos têm pelos.
+Premissa 2: Um cachorro tem pelos.
+Conclusão: Portanto, um cachorro é um mamífero (conclusão válida).
+
+No exemplo acima, a conclusão segue logicamente das duas premissas apresentadas e pode ser considerada válida.
+
+Em resumo, a lógica de argumentação envolve o estudo dos diferentes tipos de raciocínio utilizados para construir e avaliar argumentos. Isso inclui o uso de analogias para inferir algo sobre uma situação com base em outra, a distinção entre inferências dedutivas e indutivas, e a classificação das conclusões como válidas ou inválidas. O conhecimento desses conceitos é fundamental para o desenvolvimento de um raciocínio lógico sólido e eficaz.
+2. - Inferências
+  - Tipos de inferências
+  - Exemplos de inferências
+  - Aplicações de inferências em raciocínio lógico
+A lógica de argumentação é uma área da lógica que se dedica ao estudo das estruturas e técnicas utilizadas para construir e avaliar argumentos. Ela envolve a análise de analogias, inferências, deduções e conclusões presentes em um raciocínio.
+
+Uma analogia é uma forma de raciocínio que busca estabelecer semelhanças entre dois objetos ou situações diferentes. Ela pode ser usada para explicar conceitos complexos por meio de exemplos mais simples e familiares. Por exemplo, podemos usar a analogia do funcionamento de um relógio para explicar o funcionamento do sistema solar.
+
+As inferências são conclusões tiradas com base em informações disponíveis. Elas podem ser classificadas em duas categorias principais: inferência indutiva e inferência dedutiva.
+
+A inferência indutiva ocorre quando se parte de observações específicas para chegar a uma conclusão geral. Por exemplo, se todas as maçãs que já vi são vermelhas, posso fazer a inferência indutiva de que todas as maçãs são vermelhas.
+
+Já a inferência dedutiva ocorre quando se parte de premissas gerais ou universais para chegar a uma conclusão específica. Por exemplo, se todas as pessoas têm um coração e João é uma pessoa, então João tem um coração.
+
+As deduções são formas específicas de raciocínio dedutivo em que se segue rigorosamente regras lógicas pré-estabelecidas para chegar à conclusão correta. Um exemplo clássico é o silogismo: "Todos os homens são mortais; Sócrates é homem; Logo, Sócrates é mortal".
+
+As conclusões são as respostas ou resultados obtidos a partir de um raciocínio lógico. Elas podem ser verdadeiras ou falsas, dependendo da validade do argumento utilizado.
+
+É importante destacar que o raciocínio lógico e a lógica de argumentação são habilidades fundamentais para a resolução de problemas e tomada de decisões em diversas áreas do conhecimento. No contexto dos concursos públicos, esses temas costumam ser abordados em questões que exigem análise crítica e interpretação de informações.
+
+Além disso, existem diferentes tipos de argumentos que podem ser utilizados na construção de uma lógica de argumentação. Alguns exemplos incluem:
+
+- Argumento por analogia: quando se estabelece uma relação entre dois objetos ou situações semelhantes para inferir uma conclusão.
+- Argumento por autoridade: quando se utiliza a opinião ou conhecimento especializado de uma pessoa como base para sustentar um ponto.
+- Argumento por causa e consequência: quando se estabelece uma relação causal entre eventos para inferir uma conclusão.
+- Argumento por contradição: quando se identifica contradições internas em um raciocínio para refutá-lo.
+- Argumento por exemplo: quando se utiliza um exemplo específico como evidência para sustentar um ponto geral.
+
+Em resumo, o estudo da lógica de argumentação envolve compreender as estruturas e técnicas utilizadas na construção e avaliação dos argumentos. Isso inclui analisar analogias, inferências indutivas e dedutivas, além das diferentes formas pelas quais os argumentos podem ser apresentados. Dominar esses conceitos é fundamental para desenvolver habilidades de raciocínio lógico e crítico, o que pode ser útil em diversas situações, incluindo a resolução de questões em concursos públicos.
+3. - Deduções
+  - Tipos de deduções
+  - Exemplos de deduções
+  - Aplicações de deduções em raciocínio lógico
+A lógica de argumentação é uma área da lógica que estuda os processos de raciocínio utilizados para construir e avaliar argumentos. Ela envolve a análise das relações entre as premissas (informações iniciais) e a conclusão de um argumento, buscando determinar se o raciocínio utilizado é válido ou não.
+
+Dentro da lógica de argumentação, existem diferentes elementos que são estudados em detalhes. Alguns desses elementos incluem analogias, inferências, deduções e conclusões. Vamos explorar cada um desses elementos separadamente:
+
+1. Analogias: As analogias são comparações entre duas situações ou objetos diferentes com base em suas semelhanças relevantes. Elas são frequentemente usadas para ilustrar um ponto ou explicar uma ideia complexa por meio de exemplos mais simples e familiares. Por exemplo, podemos usar a seguinte analogia: "Assim como uma árvore precisa de raízes fortes para crescer saudável, uma empresa precisa ter bases sólidas para se desenvolver".
+
+2. Inferências: As inferências são conclusões que podem ser tiradas com base nas informações disponíveis. Elas envolvem o uso do raciocínio indutivo (partindo de casos específicos para chegar a uma generalização) ou do raciocínio dedutivo (partindo de princípios gerais para chegar a conclusões específicas). Por exemplo, se sabemos que todos os mamíferos têm pelos e que um cachorro é um mamífero, podemos inferir que o cachorro tem pelos.
+
+3. Deduções: As deduções são formas específicas de inferência em que as conclusões são necessariamente verdadeiras se as premissas forem verdadeiras. Elas seguem um padrão lógico estrito, conhecido como silogismo. Por exemplo, se sabemos que "todos os homens são mortais" e que "Sócrates é um homem", podemos deduzir que "Sócrates é mortal".
+
+4. Conclusões: As conclusões são o resultado final de um argumento, baseadas nas premissas e no raciocínio utilizado. Elas podem ser consideradas válidas ou inválidas com base na lógica utilizada para chegar a elas. Uma conclusão válida é aquela em que o raciocínio utilizado está correto e as premissas são verdadeiras.
+
+É importante ressaltar que a lógica de argumentação não se limita apenas a esses elementos mencionados acima, mas eles representam alguns dos principais aspectos estudados nessa área do conhecimento.
+
+No contexto de concursos públicos, o estudo da lógica de argumentação é fundamental para desenvolver habilidades analíticas e críticas na interpretação de textos e na resolução de problemas complexos. Compreender os diferentes tipos de raciocínio lógico ajuda os candidatos a identificar falácias em argumentações, avaliar a validade dos argumentos apresentados nas questões do concurso e construir suas próprias respostas fundamentadas logicamente.
+
+Portanto, ao estudar para concursos públicos, é essencial dedicar tempo ao aprendizado da lógica de argumentação e praticar sua aplicação por meio da resolução de exercícios específicos sobre esse tema.
+4. - Conclusões
+  - Tipos de conclusões
+  - Exemplos de conclusões
+  - Aplicações de conclusões em raciocínio lógico
+A lógica de argumentação é uma área da lógica que estuda os diferentes tipos de argumentos e as estruturas utilizadas para construí-los. Ela envolve a análise das analogias, inferências, deduções e conclusões presentes em um raciocínio.
+
+As analogias são comparações entre duas situações ou objetos que possuem características semelhantes. Elas são utilizadas para ilustrar um ponto de vista ou explicar algo complexo por meio de algo mais simples. Por exemplo, podemos utilizar a analogia do corpo humano para explicar o funcionamento de uma organização: assim como o corpo humano possui diferentes órgãos que desempenham funções específicas, uma organização também possui diferentes departamentos com responsabilidades distintas.
+
+As inferências são conclusões tiradas a partir das informações disponíveis. Elas podem ser feitas por meio da observação, do raciocínio indutivo (partindo de casos particulares para chegar a uma generalização) ou do raciocínio dedutivo (partindo de premissas verdadeiras para chegar a uma conclusão necessariamente verdadeira). Por exemplo, se sabemos que todos os mamíferos têm pelos e que um cachorro é um mamífero, podemos inferir que o cachorro tem pelos.
+
+As deduções são formas específicas de inferência em que se parte de premissas gerais para chegar a conclusões específicas. A dedução segue regras formais bem definidas e é considerada válida quando sua estrutura está correta. Um exemplo clássico é o silogismo: "Todos os homens são mortais; Sócrates é homem; Logo, Sócrates é mortal".
+
+As conclusões são as afirmações finais que se chega a partir de um raciocínio. Elas podem ser verdadeiras ou falsas, dependendo da validade do argumento utilizado. É importante ressaltar que uma conclusão pode ser válida mesmo que não seja verdadeira, pois a validade está relacionada à estrutura lógica do argumento.
+
+Além desses conceitos básicos, existem diferentes tipos de argumentos e estruturas utilizadas na lógica de argumentação. Alguns exemplos incluem:
+
+- Argumento por analogia: utiliza-se uma analogia para estabelecer uma relação entre dois objetos ou situações e inferir algo sobre um deles com base no outro.
+- Argumento indutivo: parte-se de casos particulares para chegar a uma generalização. Por exemplo, se observamos que todos os cisnes que vimos até agora são brancos, podemos induzir que todos os cisnes são brancos.
+- Argumento dedutivo válido: segue regras formais bem definidas e é considerado válido quando sua estrutura está correta. Um exemplo é o modus ponens: "Se chove, então a rua fica molhada; Chove; Logo, a rua fica molhada".
+- Argumento dedutivo inválido: possui uma estrutura incorreta ou premissas falsas. Por exemplo: "Todos os pássaros têm penas; O pinguim tem penas; Logo, o pinguim é um pássaro" (essa conclusão é inválida porque nem todo animal com penas é necessariamente um pássaro).
+
+É importante compreender esses conceitos e saber identificar as diferentes formas de raciocínio lógico em questões de concurso público. A prática de exercícios e a familiarização com os diferentes tipos de argumentos ajudam a desenvolver essa habilidade.
+

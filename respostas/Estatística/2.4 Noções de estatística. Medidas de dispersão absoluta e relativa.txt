@@ -1,0 +1,55 @@
+Item do edital: 2.4 Noções de estatística. Medidas de dispersão absoluta e relativa.  
+ 
+1. - Medidas de dispersão absoluta:
+  - Amplitude;
+  - Variância;
+  - Desvio padrão;
+  - Desvio médio absoluto.
+Noções de estatística são fundamentais para a compreensão e análise de dados em diversas áreas do conhecimento, incluindo a administração, economia, ciências sociais e biológicas. Uma das principais ferramentas estatísticas utilizadas é o cálculo das medidas de dispersão absoluta e relativa.
+
+As medidas de dispersão são utilizadas para avaliar o grau de variabilidade ou espalhamento dos dados em relação à média. Elas fornecem informações importantes sobre a distribuição dos valores observados em um conjunto de dados, permitindo uma melhor compreensão da sua natureza.
+
+Existem diferentes medidas de dispersão que podem ser calculadas, sendo as mais comuns: amplitude total, desvio médio absoluto (DMA), variância e desvio padrão.
+
+A amplitude total é a medida mais simples e direta da dispersão absoluta. Ela consiste na diferença entre o maior valor observado (valor máximo) e o menor valor observado (valor mínimo) no conjunto de dados. Por exemplo, se tivermos os seguintes valores: 10, 15, 20, 25 e 30; a amplitude total seria igual a 30 - 10 = 20.
+
+O desvio médio absoluto (DMA) é uma medida que indica quanto os valores individuais se afastam da média aritmética do conjunto de dados. Para calcular o DMA, subtrai-se cada valor individual pela média aritmética dos valores observados no conjunto de dados. Em seguida, calcula-se a média desses desvios absolutos obtidos. Por exemplo:
+
+Conjunto de dados: 10, 15 ,20 ,25 ,30
+Média aritmética: (10 +15 + 20 + 25 + 30) / 5 = 20
+Desvios absolutos: |10-20|, |15-20|, |20-20|, |25-20|, |30-20|
+Média dos desvios absolutos: (10+5+0+5+10)/5 = 6
+
+A variância é uma medida que indica o quão dispersos os valores estão em relação à média. Ela é calculada através da soma dos quadrados dos desvios de cada valor em relação à média aritmética. Em seguida, divide-se essa soma pelo número total de valores observados no conjunto de dados. Por exemplo:
+
+Conjunto de dados: 10,15 ,20 ,25 ,30
+Média aritmética: (10 +15 + 20 + 25 + 30) / 5 = 20
+Desvios ao quadrado: (10 - 20)^2 , (15 - 20)^2 , (20 - 2)^2 , (25 -2 )^2 ,(30 -2 )^2 
+Soma dos desvios ao quadrado: (100+25+0+25+100) =250
+Variância :250/5=50
+
+O desvio padrão é a raiz quadrada da variância e fornece uma medida mais intuitiva da dispersão relativa dos dados em relação à média. Ele indica o quanto os valores individuais se afastam da média aritmética do conjunto de dados em termos das unidades originais do problema. No exemplo anterior:
+
+Desvio padrão : √50 ≈7.07
+
+É importante ressaltar que as medidas de dispersão são sensíveis a valores extremos ou discrepantes nos dados. Portanto, é necessário analisar cuidadosamente o contexto e a natureza dos dados antes de interpretar as medidas de dispersão.
+
+Em resumo, as medidas de dispersão absoluta e relativa são ferramentas estatísticas essenciais para avaliar a variabilidade dos dados em relação à média. Elas fornecem informações valiosas sobre a distribuição dos valores observados em um conjunto de dados, permitindo uma melhor compreensão da sua natureza e características.
+2. - Medidas de dispersão relativa:
+  - Coeficiente de variação.
+Noções de estatística são fundamentais para a compreensão e análise de dados em diversas áreas do conhecimento, incluindo a administração, economia, ciências sociais e biológicas. Uma das principais ferramentas estatísticas utilizadas é o cálculo das medidas de dispersão absoluta e relativa.
+
+As medidas de dispersão são utilizadas para avaliar o grau de variabilidade dos dados em relação à média. Elas fornecem informações importantes sobre como os valores estão distribuídos ao redor da média, permitindo uma melhor compreensão da amplitude dos dados.
+
+Existem várias medidas de dispersão absoluta que podem ser utilizadas. A mais simples delas é a amplitude total, que consiste na diferença entre o maior e o menor valor observado em um conjunto de dados. Por exemplo, se tivermos um conjunto com os seguintes valores: 2, 4, 6, 8 e 10; a amplitude total seria igual a 10 - 2 = 8.
+
+Outra medida bastante utilizada é a variância. A variância mede o quão distantes os valores individuais estão da média do conjunto de dados. Ela é calculada através da soma dos quadrados das diferenças entre cada valor observado e a média aritmética do conjunto dividida pelo número total de observações menos um (n-1). Quanto maior for o valor da variância, maior será a dispersão dos dados em relação à média.
+
+Uma variação da variância é o desvio padrão. O desvio padrão é simplesmente a raiz quadrada positiva da variância. Ele também mede como os valores individuais se afastam da média do conjunto de dados. O desvio padrão é uma medida de dispersão mais comumente utilizada, pois possui a mesma unidade de medida dos dados originais, facilitando a interpretação.
+
+Além das medidas de dispersão absoluta, também existem as medidas de dispersão relativa. Essas medidas são utilizadas para comparar a variabilidade entre diferentes conjuntos de dados que possuem unidades diferentes ou escalas distintas. A medida mais comum é o coeficiente de variação, que é calculado dividindo o desvio padrão pela média e multiplicando por 100 para obter uma porcentagem.
+
+O coeficiente de variação permite comparar a variabilidade relativa entre diferentes conjuntos de dados. Por exemplo, se tivermos dois conjuntos: um com média 50 e desvio padrão 10; e outro com média 100 e desvio padrão 20; podemos calcular os coeficientes de variação para cada conjunto (10/50 * 100 = 20% e 20/100 * 100 = 20%) e concluir que ambos possuem a mesma variabilidade relativa.
+
+Em resumo, as medidas de dispersão absoluta (como amplitude total, variância e desvio padrão) são utilizadas para avaliar o grau em que os valores individuais se afastam da média do conjunto. Já as medidas de dispersão relativa (como o coeficiente de variação) permitem comparar a variabilidade entre diferentes conjuntos independentemente das unidades ou escalas utilizadas. O conhecimento dessas medidas é essencial para uma análise estatística adequada dos dados em diversos contextos acadêmicos ou profissionais.
+

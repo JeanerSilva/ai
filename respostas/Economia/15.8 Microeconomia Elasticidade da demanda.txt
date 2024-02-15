@@ -1,0 +1,51 @@
+Item do edital: 15.8 Microeconomia: Elasticidade da demanda.   
+ 
+1. - Conceito de elasticidade da demanda;
+- Fatores que influenciam a elasticidade da demanda;
+- Tipos de elasticidade da demanda;
+- Fórmula para calcular a elasticidade da demanda;
+- Interpretação dos valores da elasticidade da demanda;
+- Elasticidade da demanda perante variações de preço;
+- Elasticidade da demanda perante variações de renda;
+- Elasticidade da demanda perante variações de preço de produtos substitutos;
+- Elasticidade da demanda perante variações de preço de produtos complementares;
+- Elasticidade da demanda e a curva de demanda;
+- Elasticidade da demanda e a receita total;
+- Elasticidade da demanda e a elasticidade da oferta;
+- Elasticidade da demanda e a determinação do preço de equilíbrio;
+- Elasticidade da demanda e a política de preços;
+- Elasticidade da demanda e a tomada de decisões empresariais.
+A elasticidade da demanda é um conceito fundamental na microeconomia que mede a sensibilidade da quantidade demandada de um bem ou serviço em relação a uma mudança no preço desse bem ou serviço. Em outras palavras, a elasticidade da demanda indica o quanto os consumidores estão dispostos a alterar sua demanda quando ocorre uma variação no preço.
+
+Existem diferentes tipos de elasticidade da demanda, cada um com suas características e interpretações específicas. Os principais tipos são: elasticidade-preço da demanda, elasticidade-renda da demanda e elasticidade-cruzada da demanda.
+
+A elasticidade-preço da demanda (ou simplesmente elasticidade-preço) mede o impacto que uma mudança no preço tem sobre a quantidade procurada de um bem ou serviço. Ela é calculada pela fórmula:
+
+Elasticidade-preço = (% variação na quantidade procurada) / (% variação no preço)
+
+Se o valor resultante for maior do que 1, diz-se que a demanda é elástica, indicando que os consumidores são muito sensíveis às mudanças de preço e tendem a reduzir significativamente sua compra quando o preço aumenta. Por exemplo, se o preço do café aumentar em 10% e como resultado as pessoas reduzem seu consumo em 20%, então teríamos uma elasticidade-preço igual a -2 (-20%/10% = -2).
+
+Por outro lado, se o valor for menor do que 1 (mas ainda positivo), diz-se que a demanda é inelástica. Nesse caso, os consumidores não são tão sensíveis às mudanças de preços e continuam comprando mesmo com aumentos nos preços. Por exemplo, se o preço dos medicamentos aumentar em 10% e as pessoas reduzirem seu consumo em apenas 5%, teríamos uma elasticidade-preço igual a -0,5 (-5%/10% = -0,5).
+
+Além disso, se o valor for igual a 1, diz-se que a demanda é unitária. Nesse caso, uma variação percentual no preço resultará em uma variação percentual equivalente na quantidade procurada.
+
+A elasticidade-renda da demanda mede o impacto que uma mudança na renda dos consumidores tem sobre a quantidade procurada de um bem ou serviço. Ela é calculada pela fórmula:
+
+Elasticidade-renda = (% variação na quantidade procurada) / (% variação na renda)
+
+Se o valor resultante for positivo, diz-se que o bem é normal e sua demanda é elástica em relação à renda. Isso significa que os consumidores tendem a comprar mais do bem quando sua renda aumenta e menos quando sua renda diminui. Por exemplo, se a renda das pessoas aumentar em 10% e como resultado elas comprarem 20% mais café, então teríamos uma elasticidade-renda igual a 2 (20%/10% = 2).
+
+Por outro lado, se o valor for negativo (mas ainda positivo), diz-se que o bem é inferior e sua demanda também é elástica em relação à renda. Nesse caso, os consumidores tendem a comprar menos do bem quando sua renda aumentar e mais quando sua rende diminuir.
+
+A elasticidade-cruzada da demandamede o impacto que uma mudança no preço de um bem tem sobre a quantidade procurada de outro bem relacionado. Elas são calculadas pela fórmula:
+
+Elasticidade-cruzada = (% variação na quantidade procurada do bem X) / (% variação no preço do bem Y)
+
+Se o valor resultante for positivo, diz-se que os bens são substitutos e a demanda é elástica em relação ao preço. Isso significa que um aumento no preço de um bem leva a um aumento na demanda pelo outro bem. Por exemplo, se o preço da manteiga aumentar em 10% e como resultado as pessoas comprarem 15% mais margarina, então teríamos uma elasticidade-cruzada igual a 1,5 (15%/10% = 1,5).
+
+Por outro lado, se o valor for negativo (mas ainda positivo), diz-se que os bens são complementares e a demanda também é elástica em relação ao preço. Nesse caso, um aumento no preço de um bem leva a uma redução na demanda pelo outro bem.
+
+É importante ressaltar que essas elasticidades podem variar entre diferentes produtos e mercados. Além disso, as elasticidades podem ser influenciadas por fatores como disponibilidade de substitutos ou complementos para o produto em questão, hábitos de consumo dos consumidores e nível de renda da população.
+
+Em resumo, entender a elasticidade da demanda é fundamental para as empresas tomarem decisões estratégicas sobre preços e produção. Elas precisam conhecer como seus consumidores reagem às mudanças nos preços dos produtos oferecidos para ajustar suas estratégias comerciais adequadamente.
+

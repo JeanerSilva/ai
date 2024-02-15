@@ -1,0 +1,31 @@
+Item do edital: 22.1 Tipos de Aprendizado de máquina: Não Supervisionado, 
+ 
+1. - Tópico: Aprendizado de máquina não supervisionado
+  - Subtópico: Definição e conceitos básicos
+  - Subtópico: Principais algoritmos de aprendizado de máquina não supervisionado
+  - Subtópico: Aplicações do aprendizado de máquina não supervisionado
+  - Subtópico: Desafios e limitações do aprendizado de máquina não supervisionado
+  - Subtópico: Técnicas de avaliação e validação de modelos de aprendizado de máquina não supervisionado
+  - Subtópico: Tendências e avanços recentes no aprendizado de máquina não supervisionado
+O aprendizado de máquina é uma área da inteligência artificial que se baseia em algoritmos e modelos estatísticos para permitir que os computadores aprendam a partir de dados, sem serem explicitamente programados. Existem diferentes tipos de aprendizado de máquina, sendo um deles o aprendizado não supervisionado.
+
+No aprendizado não supervisionado, o objetivo principal é encontrar padrões ou estruturas nos dados sem ter informações prévias sobre as classes ou rótulos dos exemplos. Diferentemente do aprendizado supervisionado, onde os dados são rotulados e o algoritmo busca aprender a relação entre as características dos dados e suas respectivas classes, no aprendizado não supervisionado não há essa informação prévia.
+
+Existem diversos subtipos e classificações dentro do aprendizado não supervisionado. Alguns dos principais são:
+
+1. Agrupamento (Clustering): O agrupamento é uma técnica que visa dividir um conjunto de dados em grupos ou clusters com base em suas similaridades. O objetivo é agrupar objetos similares juntos e objetos diferentes separadamente. Existem várias abordagens para realizar o agrupamento, como k-means, DBSCAN (Density-Based Spatial Clustering of Applications with Noise) e hierarchical clustering.
+
+2. Redução da dimensionalidade: A redução da dimensionalidade tem como objetivo reduzir a quantidade de variáveis ​​ou características presentes nos dados sem perder muita informação relevante. Isso pode ser útil quando se lida com conjuntos de dados muito grandes ou quando se deseja visualizar os dados em um espaço bidimensional ou tridimensional para melhor compreensão. Exemplos populares incluem Análise das Componentes Principais (PCA - Principal Component Analysis) e t-SNE (t-Distributed Stochastic Neighbor Embedding).
+
+3. Regras de associação: As regras de associação são usadas para descobrir relações interessantes entre itens em grandes conjuntos de dados. Essas regras são frequentemente usadas em análise de mercado, onde o objetivo é encontrar padrões e associações entre produtos comprados por diferentes clientes. Um exemplo famoso é o algoritmo Apriori.
+
+4. Detecção de anomalias: A detecção de anomalias visa identificar padrões ou instâncias que se desviam significativamente do comportamento normal dos dados. Isso pode ser útil em várias áreas, como segurança cibernética, detecção de fraudes financeiras e monitoramento industrial. Algoritmos comuns incluem One-Class SVM (Support Vector Machine) e Isolation Forest.
+
+Além desses subtipos, existem outras classificações menos comuns no aprendizado não supervisionado, como aprendizado por reforço não supervisionado e aprendizado profundo não supervisionado.
+
+É importante ressaltar que esses subtipos podem se sobrepor ou serem combinados dependendo do problema específico a ser resolvido. Por exemplo, pode-se usar uma técnica de agrupamento para pré-processar os dados antes da aplicação da redução da dimensionalidade.
+
+Em relação às tendências atuais no aprendizado não supervisionado, destaca-se o uso crescente do aprendizado profundo (deep learning), que permite a extração automática de características complexas dos dados sem a necessidade explícita de engenharia manual das características.
+
+Em suma, o aprendizado não supervisionado é uma área importante dentro do campo do aprendizado de máquina que busca encontrar estruturas ocultas nos dados sem ter informações prévias sobre as classes ou rótulos dos exemplos. Os subtipos e classificações mencionados acima fornecem uma visão geral dos diferentes métodos e técnicas utilizados nesse tipo de aprendizado.
+

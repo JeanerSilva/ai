@@ -1,0 +1,181 @@
+Item do edital: 1.3 Raciocínio lógico:  Lógica sentencial (ou proposicional).  
+ 
+1. - Tópico: Conceitos básicos de lógica sentencial
+  - Subtópico: Proposições
+  - Subtópico: Conectivos lógicos
+  - Subtópico: Tabelas verdade
+A lógica sentencial, também conhecida como lógica proposicional, é um ramo da lógica que estuda as proposições e as relações entre elas. Ela é uma das principais áreas do raciocínio lógico e é amplamente utilizada em diversas áreas do conhecimento, como matemática, ciência da computação e filosofia.
+
+Uma proposição é uma afirmação que pode ser verdadeira ou falsa. Por exemplo, "hoje está chovendo" e "2 + 2 = 4" são exemplos de proposições. A lógica sentencial se preocupa em analisar a estrutura dessas proposições e as operações que podem ser realizadas com elas.
+
+Existem diferentes tipos de operadores na lógica sentencial que nos permitem combinar ou modificar proposições. Alguns dos principais operadores são:
+
+1. Negação (¬): Este operador inverte o valor de verdade de uma proposição. Por exemplo, se P for a afirmação "hoje está chovendo", então ¬P seria a negação dessa afirmação: "hoje não está chovendo".
+
+2. Conjunção (∧): Este operador representa a conjunção (ou interseção) entre duas proposições. Ele só será verdadeiro se ambas as proposições forem verdadeiras. Por exemplo, se P for a afirmação "hoje está chovendo" e Q for a afirmação "está frio", então P ∧ Q seria a conjunção dessas duas afirmações: "hoje está chovendo E está frio".
+
+3. Disjunção (∨): Este operador representa a disjunção (ou união) entre duas proposições. Ele será verdadeiro se pelo menos uma das proposições for verdadeira. Por exemplo, se P for a afirmação "hoje está chovendo" e Q for a afirmação "está frio", então P ∨ Q seria a disjunção dessas duas afirmações: "hoje está chovendo OU está frio".
+
+4. Implicação (→): Este operador representa uma implicação lógica entre duas proposições. Ele será falso apenas quando a primeira proposição for verdadeira e a segunda for falsa. Por exemplo, se P for a afirmação "se estudo, passo no concurso" e Q for a afirmação "passei no concurso", então P → Q seria a implicação dessas duas afirmações: "se estudo, então passo no concurso".
+
+5. Bicondicional (↔): Este operador representa uma equivalência lógica entre duas proposições. Ele será verdadeiro apenas quando as duas proposições tiverem o mesmo valor de verdade (ambas verdadeiras ou ambas falsas). Por exemplo, se P for a afirmação "hoje é sábado" e Q for a afirmação "não tenho trabalho", então P ↔ Q seria o bicondicional dessas duas afirmações: "hoje é sábado SE E SOMENTE SE não tenho trabalho".
+
+Além dos operadores mencionados acima, existem também outros conceitos importantes na lógica sentencial:
+
+- Tautologia: É uma fórmula que é sempre verdadeira, independentemente dos valores de suas variáveis componentes.
+
+- Contradição: É uma fórmula que é sempre falsa.
+
+- Contingência: É uma fórmula que pode ser verdadeira ou falsa, dependendo dos valores de suas variáveis componentes.
+
+- Tabela-verdade: É uma tabela que mostra todas as combinações possíveis de valores de verdade para as proposições envolvidas em uma fórmula e o valor de verdade resultante da aplicação dos operadores lógicos.
+
+- Leis da lógica sentencial: São regras que governam a manipulação das proposições e dos operadores lógicos. Algumas das leis mais conhecidas são a lei da identidade, lei do terceiro excluído e lei da contradição.
+
+Em resumo, a lógica sentencial é um campo importante do raciocínio lógico que estuda as proposições e suas relações através de operadores como negação, conjunção, disjunção, implicação e bicondicional. Ela permite analisar a estrutura das afirmações e determinar sua validade ou invalidade através do uso de tabelas-verdade e leis específicas.
+2. - Tópico: Equivalências lógicas
+  - Subtópico: Leis de De Morgan
+  - Subtópico: Leis de idempotência
+  - Subtópico: Leis de absorção
+A lógica sentencial, também conhecida como lógica proposicional, é um ramo da lógica que estuda as proposições e as relações entre elas. Ela é uma das principais áreas do raciocínio lógico e é amplamente utilizada em diversas áreas do conhecimento, como matemática, ciência da computação e filosofia.
+
+Uma proposição é uma afirmação que pode ser verdadeira ou falsa. Por exemplo, "hoje está chovendo" é uma proposição que pode ser verdadeira ou falsa dependendo das condições climáticas no momento. As proposições são representadas por letras maiúsculas (p.ex., P, Q) e podem ser combinadas através de conectivos lógicos para formar novas proposições.
+
+Existem cinco principais conectivos lógicos na lógica sentencial: negação (~), conjunção (∧), disjunção (∨), condicional (→) e bicondicional (↔). Cada um desses conectivos possui suas próprias regras de formação de novas proposições.
+
+- A negação (~) inverte o valor de verdade de uma proposição. Por exemplo, se P representa a afirmação "hoje está chovendo", então ~P representa a negação dessa afirmação: "hoje não está chovendo".
+
+- A conjunção (∧) combina duas proposições em uma única afirmação composta. Por exemplo, se P representa a afirmação "hoje está chovendo" e Q representa a afirmação "estou com guarda-chuva", então P ∧ Q representa a conjunção dessas duas afirmativas: "hoje está chovendo e estou com guarda-chuva".
+
+- A disjunção (∨) também combina duas proposições em uma única afirmação composta, mas dessa vez pelo menos uma das proposições precisa ser verdadeira. Por exemplo, se P representa a afirmação "hoje está chovendo" e Q representa a afirmação "estou com guarda-chuva", então P ∨ Q representa a disjunção dessas duas afirmativas: "hoje está chovendo ou estou com guarda-chuva".
+
+- A condicional (→) estabelece uma relação de implicação entre duas proposições. Por exemplo, se P representa a afirmação "hoje está chovendo" e Q representa a afirmação "vou levar o guarda-chuva", então P → Q significa que se hoje está chovendo, então vou levar o guarda-chuva.
+
+- O bicondicional (↔) é um conectivo lógico que indica que duas proposições são equivalentes. Por exemplo, se P representa a afirmação "hoje está chovendo" e Q representa a afirmação "vou levar o guarda-chuva", então P ↔ Q significa que hoje está chovendo se e somente se vou levar o guarda-chuva.
+
+Além dos conectivos lógicos básicos, existem também outros conceitos importantes na lógica sentencial:
+
+- Tautologia: Uma tautologia é uma proposição composta que é sempre verdadeira independentemente dos valores de verdade das proposições simples envolvidas. Por exemplo, (P ∨ ~P) é uma tautologia porque sempre será verdadeiro.
+
+- Contradição: Uma contradição é uma proposição composta que é sempre falsa independentemente dos valores de verdade das proposições simples envolvidas. Por exemplo, (P ∧ ~P) é uma contradição porque sempre será falso.
+
+- Contingência: Uma contingência é uma proposição composta que pode ser verdadeira ou falsa dependendo dos valores de verdade das proposições simples envolvidas. Por exemplo, (P → Q) é uma contingência porque seu valor de verdade depende dos valores de P e Q.
+
+Esses são apenas alguns conceitos básicos da lógica sentencial. Existem ainda muitos outros tópicos a serem explorados, como tabelas-verdade, equivalências lógicas, formas normais e resolução lógica. O estudo aprofundado desses temas é fundamental para o desenvolvimento do raciocínio lógico e sua aplicação em diversas áreas do conhecimento.
+3. - Tópico: Implicação lógica
+  - Subtópico: Implicação material
+  - Subtópico: Implicação lógica
+  - Subtópico: Implicação reversa
+A lógica sentencial, também conhecida como lógica proposicional, é um ramo da lógica que estuda as proposições e as relações entre elas. Ela é uma das principais áreas do raciocínio lógico e é amplamente utilizada em diversas áreas do conhecimento, como matemática, ciência da computação e filosofia.
+
+Uma proposição é uma afirmação que pode ser considerada verdadeira ou falsa. Por exemplo, "hoje está chovendo" e "2 + 2 = 4" são exemplos de proposições. A lógica sentencial se preocupa em analisar a estrutura dessas proposições e as formas como elas podem ser combinadas para formar argumentos válidos.
+
+Existem diferentes tipos de conectivos na lógica sentencial que são usados para combinar proposições. Os principais conectivos são:
+
+1. Negação (¬): Este conectivo inverte o valor de verdade de uma proposição. Por exemplo, se P representa a afirmação "hoje está chovendo", então ¬P representa a negação dessa afirmação: "hoje não está chovendo".
+
+2. Conjunção (∧): Este conectivo combina duas proposicões em uma única afirmação composta chamada conjunção ou produto cartesiano das duas propostas originais. Por exemplo, se P representa a afirmacão "hoje está chovendo" e Q representa a afirmacao "está frio", então P ∧ Q representaria a afirmação "hoje está chovendo e está frio".
+
+3. Disjunção (∨): Este conectivo combina duas proposições em uma única afirmação composta chamada disjunção ou soma lógica das duas propostas originais. Por exemplo, se P representa a afirmacão "hoje está chovendo" e Q representa a afirmacao "está frio", então P ∨ Q representaria a afirmação "hoje está chovendo ou está frio".
+
+4. Implicação (→): Este conectivo estabelece uma relação de implicação entre duas proposições. Por exemplo, se P representa a afirmacão "se hoje estiver chovendo, então vou levar um guarda-chuva" e Q representa a afirmacao "hoje está chovendo", então P → Q representaria a afirmação "se hoje estiver chovendo, então vou levar um guarda-chuva".
+
+5. Bicondicional (↔): Este conectivo estabelece uma relação de equivalência entre duas proposições. Por exemplo, se P representa a afirmacão "uma figura é um quadrado" e Q representa a afirmacao "todos os lados da figura são iguais", então P ↔ Q representaria a afirmação "uma figura é um quadrado se e somente se todos os lados da figura são iguais".
+
+Além desses conectivos básicos, existem também outros operadores mais complexos que podem ser construídos usando esses conectivos básicos.
+
+A lógica sentencial também envolve o uso de tabelas verdade para analisar as relações entre as proposições em diferentes combinações de valores verdadeiros e falsos. Essas tabelas permitem determinar se um argumento é válido ou não.
+
+No estudo da lógica sentencial, também são abordados tópicos como equivalência lógica, leis de De Morgan, formas normais (forma normal conjuntiva e forma normal disjuntiva), entre outros.
+
+Em resumo, a lógica sentencial é uma área fundamental do raciocínio lógico que estuda as proposições e as relações entre elas. Ela utiliza conectivos para combinar proposições e analisa a validade dos argumentos por meio de tabelas verdade. O conhecimento dessa área é essencial para o desenvolvimento de habilidades de raciocínio crítico e dedutivo em diversas áreas do conhecimento.
+4. - Tópico: Tautologia, contradição e contingência
+  - Subtópico: Definição de tautologia
+  - Subtópico: Definição de contradição
+  - Subtópico: Definição de contingência
+A lógica sentencial, também conhecida como lógica proposicional, é um ramo da lógica que estuda as proposições e as relações entre elas. Ela é uma parte fundamental do raciocínio lógico e é amplamente utilizada em diversas áreas do conhecimento, incluindo matemática, ciência da computação e filosofia.
+
+Uma proposição é uma afirmação que pode ser verdadeira ou falsa. Por exemplo, "hoje está chovendo" e "2 + 2 = 4" são exemplos de proposições. A lógica sentencial se preocupa em analisar a estrutura dessas proposições e como elas se relacionam umas com as outras.
+
+Existem diferentes tipos de conectivos na lógica sentencial que nos permitem combinar proposições para formar novas afirmações. Alguns dos principais conectivos são:
+
+1. Negação (¬): Este conectivo inverte o valor de verdade de uma proposição. Por exemplo, se P for a afirmação "hoje está chovendo", então ¬P seria a afirmação "hoje não está chovendo".
+
+2. Conjunção (∧): Este conectivo representa a operação "e". Ele só retorna verdadeiro quando ambas as proposições envolvidas são verdadeiras. Por exemplo, se P for a afirmação "hoje está ensolarado" e Q for a afirmacão "está calor", então P ∧ Q seria a afirmação "hoje está ensolarado e está calor".
+
+3. Disjunção (∨): Este conectivo representa a operação "ou". Ele retorna verdadeiro se pelo menos uma das proposições envolvidas for verdadeira. Por exemplo, se P for a afirmação "hoje está ensolarado" e Q for a afirmacão "está chovendo", então P ∨ Q seria a afirmação "hoje está ensolarado ou está chovendo".
+
+4. Implicação (→): Este conectivo representa a implicação lógica. Ele retorna falso apenas quando o antecedente é verdadeiro e o consequente é falso. Por exemplo, se P for a afirmação "se estudo, passarei no concurso" e Q for a afirmacão "passei no concurso", então P → Q seria a afirmação "se estudo, passei no concurso".
+
+5. Bicondicional (↔): Este conectivo representa uma equivalência lógica entre duas proposições. Ele retorna verdadeiro apenas quando ambas as proposições têm o mesmo valor de verdade. Por exemplo, se P for a afirmacão "está chovendo" e Q for a afirmacaó “estou com um guarda-chuva”, entaõ P ↔ Q seria “está chovendo se, e somente se, estou com um guarda-chuva”.
+
+Além desses conectivos básicos, existem também outros mais complexos que podem ser construídos utilizando-os em combinação.
+
+A lógica sentencial também pode ser classificada em diferentes subtipos ou sistemas formais dependendo das regras utilizadas para manipular as proposições. Alguns exemplos de sistemas formais são a lógica clássica, a lógica intuicionista e a lógica modal.
+
+A lógica sentencial é uma ferramenta poderosa para analisar argumentos e inferências. Ela permite que sejamos capazes de identificar inconsistências, validar argumentos e construir provas formais. É uma habilidade essencial para qualquer pessoa que deseja ter um bom desempenho em concursos públicos que envolvam raciocínio lógico.
+5. - Tópico: Argumentos lógicos
+  - Subtópico: Argumentos válidos
+  - Subtópico: Argumentos inválidos
+  - Subtópico: Regras de inferência lógica
+A lógica sentencial, também conhecida como lógica proposicional, é um ramo da lógica que estuda as proposições e suas relações. Uma proposição é uma afirmação que pode ser verdadeira ou falsa. A lógica sentencial se preocupa em analisar a estrutura interna das proposições e como elas se combinam para formar argumentos válidos.
+
+Existem diferentes tipos de proposições na lógica sentencial. As principais são:
+
+1. Proposição simples: É uma afirmação básica que não pode ser dividida em partes menores significativas. Exemplos de proposições simples são "O sol está brilhando" e "2 + 2 = 4".
+
+2. Proposição composta: É uma afirmação formada pela combinação de duas ou mais proposições simples usando conectivos lógicos, como "e", "ou" e "não". Exemplos de proposições compostas são "Chove e faz frio" e "Se chover, então eu levo o guarda-chuva".
+
+Os conectivos lógicos desempenham um papel fundamental na construção das proposições compostas na lógica sentencial. Alguns dos principais conectivos são:
+
+1. Conjunção (E): Representada pelo símbolo "&", a conjunção é usada para combinar duas ou mais proposições com o objetivo de formar uma nova afirmação verdadeira apenas quando todas as afirmativas individuais forem verdadeiras.
+
+Exemplo: Seja p a afirmativa “Está chovendo” e q a afirmativa “Está frio”. A conjunção p & q seria verdadeira apenas se ambas as afirmativas fossem verdadeiras, ou seja, se estivesse chovendo e também estivesse frio.
+
+2. Disjunção (OU): Representada pelo símbolo "∨", a disjunção é usada para combinar duas ou mais proposições com o objetivo de formar uma nova afirmação verdadeira quando pelo menos uma das afirmativas individuais for verdadeira.
+
+Exemplo: Seja p a afirmativa “Está chovendo” e q a afirmativa “Está frio”. A disjunção p ∨ q seria verdadeira se pelo menos uma das duas afirmativas fosse verdadeira, ou seja, se estivesse chovendo ou estivesse frio.
+
+3. Negação (NÃO): Representada pelo símbolo "¬" ou "~", a negação é usada para inverter o valor de verdade de uma proposição. Ou seja, se uma proposição é verdadeira, sua negação será falsa e vice-versa.
+
+Exemplo: Seja p a afirmativa “Está chovendo”. A negação ¬p seria verdadeira apenas se não estivesse chovendo.
+
+Além desses conectivos básicos, existem outros conectivos lógicos mais complexos na lógica sentencial, como implicação condicional (→) e bicondicional (↔), que são utilizados para expressar relações entre proposições compostas.
+
+A lógica sentencial também envolve o uso de tabelas-verdade para determinar os valores de verdade das proposições compostas em diferentes combinações dos valores de suas componentes. Essas tabelas ajudam na análise da validade dos argumentos construídos com base nas regras da lógica sentencial.
+
+Em resumo, a lógica sentencial é um ramo da lógica que estuda as proposições e suas relações por meio de conectivos lógicos. Ela permite analisar a estrutura interna das proposições e como elas se combinam para formar argumentos válidos. O conhecimento sobre os diferentes tipos de proposições e conectivos lógicos é essencial para compreender e resolver problemas relacionados ao raciocínio lógico em concursos públicos.
+6. - Tópico: Técnicas de resolução de problemas
+  - Subtópico: Tabelas verdade
+  - Subtópico: Álgebra booleana
+  - Subtópico: Diagramas de Venn
+A lógica sentencial, também conhecida como lógica proposicional, é um ramo da lógica que estuda as proposições e as relações entre elas. Ela é uma das principais áreas do raciocínio lógico e é amplamente utilizada em diversos campos, como matemática, ciência da computação e filosofia.
+
+Uma proposição é uma afirmação que pode ser verdadeira ou falsa. Por exemplo, "hoje está chovendo" e "2 + 2 = 4" são exemplos de proposições. Na lógica sentencial, essas proposições são representadas por símbolos para facilitar a análise.
+
+Existem diferentes tipos de conectivos na lógica sentencial que permitem combinar ou modificar proposições. Os principais conectivos são:
+
+1. Negação (¬): representa a negação de uma proposição. Por exemplo, se p for a proposição "hoje está chovendo", então ¬p seria a negação dessa afirmação: "hoje não está chovendo".
+
+2. Conjunção (∧): representa a conjunção (ou interseção) de duas ou mais proposições. Por exemplo, se p for a afirmação "hoje está chovendo" e q for a afirmação "está frio", então p ∧ q seria a afirmação "hoje está chovendo E está frio".
+
+3. Disjuncão (∨): representa a disjuncão (ou união) de duas ou mais propostasões.
+Por exemplo: Seja p = "hoje está chovendo" e q = "hoje está frio", então p ∨ q seria a afirmação "hoje está chovendo OU hoje está frio".
+
+4. Implicação (→): representa a implicação lógica entre duas proposições. Por exemplo, se p for a afirmação "se está chovendo, então está molhado" e q for a afirmação "está chovendo", então p → q seria a afirmação "se está chovendo, então está molhado".
+
+5. Bicondicional (↔): representa uma equivalência lógica entre duas proposições. Por exemplo, se p for a afirmacão "está calor" e q for a afirmação "naõ esta´frio", então p ↔ q seria a afirmação ˜esta´ calor SE E SOMENTE SE naõ esta´frio.
+
+Esses conectivos podem ser combinados para formar expressões mais complexas na lógica sentencial. Por exemplo, podemos ter expressões como ¬(p ∧ q) ou (p ∨ ¬q) → r.
+
+Além dos conectivos básicos mencionados acima, existem outros conectivos derivados que podem ser usados na lógica sentencial para simplificar as expressões ou representar relações mais complexas entre as proposições.
+
+Por exemplo:
+- Condicional: é um conectivo derivado definido como ¬p ∨ q.
+- Negação da condicional: é um conectivo derivado definido como p ∧ ¬q.
+- Disjunção exclusiva: é um conectivo derivado definido como (p ∨ q) ∧ ¬(p ∧ q).
+
+Esses são apenas alguns exemplos de conectivos derivados, mas existem muitos outros que podem ser utilizados na lógica sentencial.
+
+Em resumo, a lógica sentencial é uma área do raciocínio lógico que estuda as proposições e as relações entre elas. Ela utiliza símbolos e conectivos para representar e combinar proposições, permitindo a análise e o raciocínio sobre afirmações complexas. O conhecimento dessa área é fundamental para resolver problemas de lógica em concursos públicos e em diversas outras áreas do conhecimento.
+

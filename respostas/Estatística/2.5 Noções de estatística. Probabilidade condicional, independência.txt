@@ -1,0 +1,66 @@
+Item do edital: 2.5 Noções de estatística. Probabilidade condicional, independência.  
+ 
+1. - Probabilidade condicional:
+  - Conceito de probabilidade condicional;
+  - Fórmula da probabilidade condicional;
+  - Exemplos de aplicação da probabilidade condicional;
+  - Teorema de Bayes.
+A estatística é uma área da matemática que lida com a coleta, análise, interpretação e apresentação de dados. Ela desempenha um papel fundamental em diversas áreas do conhecimento, como economia, ciências sociais, medicina e engenharia. Nesse contexto, as noções de probabilidade condicional e independência são conceitos importantes para entender a relação entre eventos.
+
+A probabilidade condicional é uma medida de chance que leva em consideração informações adicionais sobre um evento. Ela é calculada levando-se em conta o conhecimento prévio sobre outro evento relacionado. Formalmente, a probabilidade condicional de um evento A dado que ocorreu o evento B é denotada por P(A|B) e pode ser calculada pela fórmula:
+
+P(A|B) = P(A ∩ B) / P(B)
+
+Onde P(A ∩ B) representa a probabilidade da interseção dos eventos A e B (ou seja, a ocorrência simultânea dos dois eventos), enquanto P(B) representa a probabilidade do evento B ocorrer.
+
+Um exemplo prático para ilustrar esse conceito seria o seguinte: suponha que você esteja jogando um dado honesto de seis faces numeradas de 1 a 6. Seja A o evento "obter um número par" e seja B o evento "obter um número maior ou igual a 4". Nesse caso, podemos calcular:
+
+P(A|B) = P(A ∩ B) / P(B)
+         = (2/6)/(3/6)
+         = 2/3
+
+Isso significa que se você já sabe que obteve um número maior ou igual a 4 no dado lançado, então há uma chance de 2/3 de que o número obtido seja par.
+
+Já a independência entre eventos ocorre quando a ocorrência (ou não) de um evento não afeta a probabilidade do outro evento. Formalmente, dois eventos A e B são independentes se e somente se:
+
+P(A ∩ B) = P(A) * P(B)
+
+Isso significa que a probabilidade da interseção dos eventos é igual ao produto das probabilidades individuais. Em outras palavras, saber que um evento ocorreu não fornece nenhuma informação adicional sobre a ocorrência do outro evento.
+
+Um exemplo comum para ilustrar esse conceito é o lançamento de uma moeda honesta e um dado honesto simultaneamente. Seja A o evento "obter cara na moeda" e seja B o evento "obter 4 no dado". Nesse caso, podemos calcular:
+
+P(A ∩ B) = P(A) * P(B)
+         = (1/2)*(1/6)
+         = 1/12
+
+Isso significa que a probabilidade de obter cara na moeda e 4 no dado simultaneamente é igual a 1/12. Como os resultados desses dois eventos são independentes, saber que obteve cara na moeda não afeta em nada as chances de obter 4 no dado.
+
+Em resumo, as noções de probabilidade condicional e independência são fundamentais para entender como eventos estão relacionados entre si em estatística. Através desses conceitos, é possível calcular probabilidades mais precisas levando-se em conta informações adicionais sobre outros eventos relacionados.
+2. - Independência:
+  - Conceito de eventos independentes;
+  - Cálculo da probabilidade de eventos independentes;
+  - Exemplos de eventos independentes;
+  - Relação entre probabilidade condicional e independência.
+A noção de estatística é fundamental para compreender e analisar dados em diversas áreas do conhecimento, incluindo a economia, a medicina, a psicologia e até mesmo a administração pública. Nesse contexto, dois conceitos importantes são a probabilidade condicional e a independência.
+
+A probabilidade condicional é uma medida que expressa a chance de um evento ocorrer dado que outro evento já tenha ocorrido. Ela é representada pela fórmula P(A|B), onde A e B são eventos distintos. A interpretação dessa fórmula é que queremos calcular qual é a probabilidade de o evento A acontecer sabendo-se que o evento B já ocorreu.
+
+Um exemplo clássico para ilustrar esse conceito é o lançamento de dois dados honestos. Suponha que queremos calcular qual é a probabilidade de obter um número par no primeiro dado (evento A) sabendo-se que o resultado da soma dos dois dados foi 7 (evento B). Para resolver esse problema, podemos utilizar uma tabela ou diagrama chamado espaço amostral para listar todas as possibilidades:
+
+1-6
+2-5
+3-4
+4-3
+5-2
+6-1
+
+Nesse caso, temos 36 possíveis resultados igualmente prováveis (cada combinação tem 1/36 de chance). Dentre esses resultados, apenas 6 têm soma igual a 7: (1,6), (2,5), (3,4), (4,3), (5,2) e (6,1). Desses seis casos favoráveis ao evento B , três também são favoráveis ao evento A: os pares (2 ,5 ),(4 ,3 )e(6 ,1 ). Portanto, a probabilidade condicional de obter um número par no primeiro dado sabendo-se que a soma é 7 é de 3/6 ou 1/2.
+
+Já a independência entre dois eventos ocorre quando a ocorrência (ou não ocorrência) de um evento não influencia na probabilidade do outro evento acontecer. Em outras palavras, se A e B são eventos independentes, então P(A|B) = P(A) e P(B|A) = P(B).
+
+Um exemplo clássico para ilustrar esse conceito é o lançamento de uma moeda honesta e um dado honesto. Suponha que queremos calcular qual é a probabilidade de obter cara na moeda (evento A) e obter um número par no dado (evento B). Nesse caso, os eventos são independentes porque o resultado da moeda não afeta em nada as chances do dado dar um número par. A probabilidade de obter cara na moeda é 1/2 e a probabilidade de obter um número par no dado também é 1/2. Portanto, podemos dizer que esses dois eventos são independentes.
+
+É importante ressaltar que nem todos os problemas envolvendo duas variáveis aleatórias serão casos claros de independência ou dependência condicional. Existem técnicas estatísticas mais avançadas para analisar essas relações em situações mais complexas.
+
+Em resumo, as noções de estatística como probabilidade condicional e independência são fundamentais para entendermos como calcular probabilidades em diferentes contextos. Elas nos permitem analisar dados com maior precisão e tomar decisões embasadas em informações quantitativas.
+

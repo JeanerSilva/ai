@@ -1,0 +1,35 @@
+Item do edital: 1.7 Raciocínio lógico: Leis de Morgan; problemas. 
+ 
+1. - Leis de Morgan:
+  - Definição das Leis de Morgan;
+  - Aplicação das Leis de Morgan em proposições simples;
+  - Aplicação das Leis de Morgan em proposições compostas;
+  - Exemplos de aplicação das Leis de Morgan.
+As Leis de Morgan são um conjunto de regras fundamentais no raciocínio lógico que descrevem a relação entre as operações lógicas de negação, conjunção e disjunção. Essas leis foram formuladas pelo matemático britânico Augustus De Morgan no século XIX e são amplamente utilizadas em diversas áreas, como matemática, ciência da computação e lógica formal.
+
+Existem duas leis principais nas Leis de Morgan: a primeira é conhecida como Lei da Negação da Conjunção e a segunda é chamada de Lei da Negação da Disjunção. Vamos analisar cada uma delas em detalhes:
+
+1) Lei da Negação da Conjunção: essa lei estabelece que a negação de uma conjunção (representada pelo símbolo ∧) é equivalente à disjunção das negações dos termos individuais. Em outras palavras, se temos duas proposições P e Q, então ¬(P ∧ Q) é o mesmo que ¬P ∨ ¬Q.
+
+Por exemplo, considere as proposições "Hoje está chovendo" (P) e "Estou com guarda-chuva" (Q). A negação dessa conjunção seria "Não está chovendo ou não estou com guarda-chuva". Essa lei permite simplificar expressões complexas ao aplicar a negação individualmente em cada termo.
+
+2) Lei da Negação da Disjunção: essa lei estabelece que a negação de uma disjunção (representada pelo símbolo ∨) é equivalente à conjunçã
+2. - Problemas de raciocínio lógico:
+  - Tipos de problemas de raciocínio lógico;
+  - Estratégias para resolver problemas de raciocínio lógico;
+  - Exemplos de problemas de raciocínio lógico;
+  - Dicas para resolver problemas de raciocínio lógico.
+As Leis de Morgan são um conjunto de regras fundamentais na lógica matemática que descrevem a relação entre as operações lógicas de negação, conjunção e disjunção. Essas leis foram formuladas pelo matemático britânico Augustus De Morgan no século XIX e são amplamente utilizadas em problemas de raciocínio lógico.
+
+A primeira lei de Morgan afirma que a negação de uma conjunção é equivalente à disjunção das negações dos termos individuais. Em outras palavras, se temos duas proposições A e B, a negação da conjunção "A e B" é equivalente à disjunção das negações individuais: "não A ou não B". Por exemplo, se A representa "João é alto" e B representa "Maria é inteligente", então a negação da afirmação "João é alto e Maria é inteligente" seria "João não é alto ou Maria não é inteligente".
+
+A segunda lei de Morgan estabelece que a negação de uma disjunção é equivalente à conjunção das negações dos termos individuais. Ou seja, se temos duas proposições A e B, a negação da disjunção "A ou B" equivale à conjunção das suas respectivas negações: "não A e não B". Utilizando o mesmo exemplo anterior, se A representa "João está feliz" e B representa "Maria está triste", então a negação da afirmação "João está feliz ou Maria está triste" seria "João não está feliz e Maria não está triste".
+
+Essas leis são extremamente úteis para simplificar expressões lógicas complexas. Ao aplicar as Leis de Morgan, podemos transformar uma expressão em uma forma mais simples e mais fácil de analisar. Além disso, elas também são utilizadas para provar a equivalência entre diferentes formas de expressões lógicas.
+
+No contexto dos problemas de raciocínio lógico, as Leis de Morgan podem ser aplicadas para resolver questões que envolvem proposições compostas. Por exemplo, suponha que um problema apresente duas afirmações: "Se chove ou faz frio, então eu levo o guarda-chuva" e "Eu não levei o guarda-chuva". Podemos utilizar as Leis de Morgan para reescrever essas afirmações em termos negativos e analisá-las logicamente.
+
+Aplicando a primeira lei de Morgan na primeira afirmação, temos: "Se não chove e não faz frio, então eu não levo o guarda-chuva". Em seguida, podemos combinar essa nova afirmação com a segunda: "Não chove e não faz frio" implica em "Eu não levei o guarda-chuva". Portanto, concluímos que se não chover nem fizer frio, então eu realmente não levei o guarda-chuva.
+
+Essa é apenas uma aplicação básica das Leis de Morgan em problemas lógicos. Existem muitos outros exemplos e variações dessas leis que podem ser explorados em concursos públicos ou qualquer outro tipo de teste que envolva raciocínio lógico. É importante compreender bem essas leis e praticar sua aplicação para obter sucesso nesse tipo de questão.
+

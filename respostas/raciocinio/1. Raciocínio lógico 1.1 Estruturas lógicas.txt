@@ -1,0 +1,88 @@
+Item do edital: 1. Raciocínio lógico: 1.1 Estruturas lógicas.  
+ 
+1. - Tópico: Raciocínio lógico
+  - Subtópico: Estruturas lógicas
+  - Subtópico: Proposições lógicas
+  - Subtópico: Tabelas verdade
+  - Subtópico: Conectivos lógicos
+  - Subtópico: Implicação lógica
+  - Subtópico: Equivalência lógica
+  - Subtópico: Leis de De Morgan
+  - Subtópico: Diagramas lógicos
+  - Subtópico: Argumentos lógicos
+  - Subtópico: Validade de argumentos lógicos
+  - Subtópico: Regras de inferência lógica
+  - Subtópico: Lógica proposicional
+  - Subtópico: Lógica de primeira ordem
+  - Subtópico: Lógica modal
+  - Subtópico: Lógica fuzzy
+  - Subtópico: Lógica temporal
+  - Subtópico: Lógica difusa
+  - Subtópico: Lógica matemática
+  - Subtópico: Lógica booleana
+  - Subtópico: Lógica de programação
+  - Subtópico: Lógica formal
+  - Subtópico: Lógica simbólica
+  - Subtópico: Lógica matemática aplicada à computação
+  - Subtópico: Lógica de predicados
+  - Subtópico: Lógica de segunda ordem
+  - Subtópico: Lógica de terceira ordem
+  - Subtópico: Lógica de quarta ordem
+  - Subtópico: Lógica de ordem superior
+  - Subtópico: Lógica intuicionista
+  - Subtópico: Lógica clássica
+  - Subtópico: Lógica paraconsistente
+  - Subtópico: Lógica relevante
+  - Subtópico: Lógica não monotônica
+  - Subtópico: Lógica modal não clássica
+  - Subtópico: Lógica epistêmica
+  - Subtópico: Lógica deôntica
+  - Subtópico: Lógica temporal linear
+  - Subtópico: Lógica temporal linear com passado
+  - Subtópico: Lógica temporal linear com futuro
+  - Subtópico: Lógica temporal linear com passado e futuro
+  - Subtópico: Lógica temporal linear com passado, presente e futuro
+  - Subtópico: Lógica temporal linear com passado e presente
+  - Subtópico: Lógica temporal linear com presente e futuro
+  - Subtópico: Lógica temporal linear com presente
+  - Subtópico: Lógica temporal linear com futuro
+  - Subtópico: Lógica temporal linear com passado e presente e futuro
+  - Subtópico: Lógica temporal linear com passado e presente e futuro e presente
+  - Subtópico: Lógica temporal linear com passado e presente e futuro e passado
+  - Subtópico: Lógica temporal linear com passado e presente e futuro e futuro
+  - Subtópico: Lógica temporal linear com passado e presente e futuro e passado e presente
+  - Subtópico: Lógica temporal linear com passado e presente e futuro e passado e futuro
+  - Subtópico: Lógica temporal linear com passado e presente e futuro e presente e futuro
+  - Subtópico: Lógica temporal linear com passado e presente e futuro e passado e presente e futuro
+O raciocínio lógico é uma habilidade fundamental para a resolução de problemas e tomada de decisões. Ele envolve a capacidade de analisar informações, identificar padrões, estabelecer relações entre diferentes elementos e chegar a conclusões válidas.
+
+Dentro do campo do raciocínio lógico, existem diversas estruturas lógicas que são utilizadas para organizar o pensamento e facilitar a compreensão dos problemas. Essas estruturas fornecem um conjunto de regras e princípios que ajudam na formulação de argumentos coerentes.
+
+Uma das estruturas mais básicas é o silogismo, que consiste em um tipo específico de argumento dedutivo composto por duas premissas e uma conclusão. Por exemplo:
+
+Premissa 1: Todos os mamíferos são animais.
+Premissa 2: Todos os cães são mamíferos.
+Conclusão: Logo, todos os cães são animais.
+
+Outra estrutura lógica comum é o condicional ou implicação. Nesse caso, temos uma relação entre duas proposições em que uma implica na outra. Por exemplo:
+
+Se choveu hoje (proposição A), então as ruas estão molhadas (proposição B).
+
+Existem também as estruturas lógicas chamadas disjunção (ou) e conjunção (e). A disjunção ocorre quando temos duas ou mais proposições ligadas pela palavra "ou", indicando que pelo menos uma delas deve ser verdadeira. Já a conjunção ocorre quando temos duas ou mais proposições ligadas pela palavra "e", indicando que todas elas devem ser verdadeiras.
+
+Além dessas estruturas básicas, existem também outras mais complexas, como a negação, a equivalência lógica e o raciocínio por casos. A negação é utilizada para expressar a contraposição de uma proposição. Por exemplo:
+
+Proposição: Todos os pássaros voam.
+Negação: Nem todos os pássaros voam.
+
+A equivalência lógica ocorre quando duas proposições têm o mesmo valor lógico, ou seja, são verdadeiras ou falsas ao mesmo tempo. Por exemplo:
+
+Proposição 1: Se choveu hoje, então as ruas estão molhadas.
+Proposição 2: As ruas estão molhadas se choveu hoje.
+
+O raciocínio por casos é utilizado quando um problema pode ser dividido em diferentes situações ou cenários possíveis. Cada caso é analisado separadamente e as conclusões são obtidas para cada um deles.
+
+É importante ressaltar que essas estruturas lógicas podem ser combinadas e utilizadas em conjunto na resolução de problemas mais complexos. Além disso, existem diferentes métodos e técnicas que podem auxiliar no desenvolvimento do raciocínio lógico, como diagramas de Venn, tabelas-verdade e árvores de decisão.
+
+Em resumo, as estruturas lógicas são ferramentas fundamentais para o desenvolvimento do raciocínio lógico. Elas permitem organizar o pensamento de forma coerente e sistemática, facilitando a compreensão dos problemas e auxiliando na busca por soluções válidas.
+

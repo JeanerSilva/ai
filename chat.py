@@ -7,14 +7,14 @@ from helpers import *
 def obter_resposta_subtopicos(subtópico):
     messages_resposta = [
         {"role": "system", "content": "Você é um assistente que explica subtópicos em detalhes de modo a prover uma pessoa que fará concurso público"},
-        {"role": "user", "content": f"fale informações importantes sobre o seguinte subtópico: {subtópico}. Se forem citados tipos, subtipos, classificações, tendências ou grupos, fale detidamente sobre cada um deles e cite exemplos."}
+        {"role": "user", "content": f"Discorra de forma aprofundada sobre o seguinte tema: {subtópico}. Se forem citados tipos, subtipos, classificações, tendências ou grupos, fale detidamente sobre cada um deles e cite exemplos."}
     ]
     response_resposta = openai.ChatCompletion.create(
         #model="gpt-4",
         model="gpt-3.5-turbo",
         messages=messages_resposta,
         temperature=0.1,
-        max_tokens=500,
+        max_tokens=2000,
         frequency_penalty=1.0
     )
     
@@ -38,22 +38,15 @@ def gerar_subtopicos_e_perguntas(pergunta, contexto):
 
         last_response = response_subtopicos['choices'][0]['message']['content']
         print(f"last_response======: {last_response} ")
-        subtópicos = last_response.strip().split('\n')
-        print(f"subtópicos2======: {subtópicos} ")
-        retorno = ""
-        for subtópico in subtópicos:
-            subtópico_corrigido = subtópico.replace("  - ", "-").replace("- ", "---")
-            retorno = retorno + subtópico_corrigido
-        subtópicos = retorno.split('---')
-        informacoes_subtopicos = []
-
+        subtópicos = last_response.strip().split('\n\n')
         print(f"subtópicos3======: {subtópicos} ")
+
+        informacoes_subtopicos = []
  
         for subtópico in subtópicos:
             if subtópico:
-                #resposta_subtópico = obter_resposta_subtopicos(pergunta)
-                resposta_subtópico = subtópico
-                #print(resposta_subtópico)
+                resposta_subtópico = obter_resposta_subtopicos(pergunta)
+                #resposta_subtópico = subtópico
                 informacoes_subtopicos.append((subtópico, resposta_subtópico))
 
 

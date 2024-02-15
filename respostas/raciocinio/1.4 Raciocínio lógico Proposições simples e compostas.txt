@@ -1,0 +1,122 @@
+Item do edital: 1.4 Raciocínio lógico: Proposições simples e compostas.  
+ 
+1. - Tópico: Proposições simples
+  - Subtópico: Definição de proposição simples
+  - Subtópico: Exemplos de proposições simples
+  - Subtópico: Conectivos lógicos utilizados em proposições simples
+O raciocínio lógico é uma habilidade fundamental para resolver problemas e tomar decisões de forma coerente e consistente. No contexto de concursos públicos, o conhecimento sobre proposições simples e compostas é essencial, pois elas são a base para a compreensão de outros conceitos relacionados à lógica.
+
+Uma proposição é uma afirmação que pode ser verdadeira ou falsa. Ela expressa um pensamento completo que pode ser avaliado como sendo verdadeiro ou falso. Por exemplo, "Hoje está chovendo" é uma proposição, pois podemos verificar se ela é verdadeira ou falsa observando as condições climáticas.
+
+As proposições podem ser classificadas em dois tipos principais: simples e compostas.
+
+Proposições simples são aquelas que não podem ser divididas em partes menores com significado independente. Elas são as unidades básicas da lógica. Alguns exemplos de proposições simples são:
+
+- "2 + 2 = 4"
+- "Brasil é um país localizado na América do Sul"
+- "Todos os gatos têm cauda"
+
+Por outro lado, as proposições compostas são formadas pela combinação de duas ou mais proposições simples usando conectivos lógicos. Os conectivos mais comuns são: negação (não), conjunção (e), disjunção (ou), condicional (se...então) e bicondicional (se e somente se). Vejamos alguns exemplos:
+
+- Negativação: Se temos a proposição simples "A", sua negação seria representada por "~A". Por exemplo, se A representa a afirmação "Hoje está chovendo", então ~A seria a negação dessa afirmação, ou seja, "Hoje não está chovendo".
+
+- Conjunção: A conjunção é representada pelo conectivo "e". Por exemplo, se temos as proposições simples "A" e "B", a proposição composta seria representada por "A e B". Por exemplo, se A representa a afirmação "Hoje está chovendo" e B representa a afirmação "Estou com um guarda-chuva", então a proposição composta seria "Hoje está chovendo e estou com um guarda-chuva".
+
+- Disjunção: A disjunção é representada pelo conectivo "ou". Por exemplo, se temos as proposições simples "A" e "B", a proposição composta seria representada por "A ou B". Por exemplo, se A representa a afirmação
+2. - Tópico: Proposições compostas
+  - Subtópico: Definição de proposição composta
+  - Subtópico: Exemplos de proposições compostas
+  - Subtópico: Conectivos lógicos utilizados em proposições compostas
+  - Subtópico: Tabelas verdade para proposições compostas
+O raciocínio lógico é uma habilidade fundamental para resolver problemas e tomar decisões de forma coerente e consistente. No contexto de concursos públicos, o conhecimento sobre proposições simples e compostas é essencial, pois elas são a base para a compreensão de outros conceitos relacionados à lógica.
+
+Uma proposição é uma afirmação que pode ser verdadeira ou falsa. Ela pode ser representada por uma letra maiúscula, como P, Q ou R. As proposições simples são aquelas que não podem ser divididas em partes menores com significado próprio. Por exemplo:
+
+- "O sol está brilhando."
+- "2 + 2 = 4."
+- "Brasil é um país da América do Sul."
+
+As proposições compostas são formadas pela combinação de duas ou mais proposições simples através dos conectivos lógicos: negação (~), conjunção (^), disjunção (v) e implicação (→). Vamos entender cada um desses conectivos:
+
+1) Negação (~): A negação de uma proposição P é representada por ~P e tem o valor oposto ao da proposição original. Por exemplo:
+   - Se P: "O sol está brilhando.", então ~P: "O sol não está brilhando."
+
+2) Conjunção (^): A conjunção entre duas proposições P e Q é representada por P ^ Q e só será verdadeira se ambas as proposições forem verdadeiras. Caso contrário, será falsa. Exemplo:
+   - Se P: "Hoje chove." e Q: "Estou com guarda-chuva.", então P ^ Q: "Hoje chove E estou com guarda-chuva."
+
+3) Disjunção (v): A disjunção entre duas proposições P e Q é representada por P v Q e será verdadeira se pelo menos uma das proposições for verdadeira. Será falsa apenas se ambas as proposições forem falsas. Exemplo:
+   - Se P: "Hoje chove." e Q: "Estou com guarda-chuva.", então P v Q: "Hoje chove OU estou com guarda-chuva."
+
+4) Implicação (→): A implicação entre duas proposições P e Q é representada por P → Q e significa que a veracidade de P implica na veracidade de Q. Ela será falsa apenas quando a primeira proposição for verdadeira e a segunda for falsa. Exemplo:
+   - Se P: "Se eu estudar, vou passar no concurso." e Q: "Eu passei no concurso.", então P → Q: "Se eu estudar, então vou passar no concurso."
+
+Além desses conectivos básicos, existem outros mais complexos, como a bicondicional (↔), que representa uma equivalência lógica entre duas proposições.
+
+É importante destacar que o conhecimento sobre as tabelas-verdade dos conectivos lógicos é fundamental para entender o valor lógico das proposições compostas em diferentes combinações de valores verdadeiros ou falsos das suas partes constituintes.
+
+Em resumo, o estudo das proposições simples e compostas envolve compreender os diferentes tipos de conectivos lógicos, suas definições e como eles afetam o valor lógico das afirmações. Dominar esse tema permitirá ao candidato resolver problemas de raciocínio lógico com mais facilidade e precisão durante a prova do concurso público.
+3. - Tópico: Raciocínio lógico
+  - Subtópico: Definição de raciocínio lógico
+  - Subtópico: Importância do raciocínio lógico
+  - Subtópico: Exemplos de exercícios de raciocínio lógico
+O raciocínio lógico é uma habilidade fundamental para resolver problemas e tomar decisões de forma coerente e consistente. No contexto de concursos públicos, o conhecimento sobre proposições simples e compostas é essencial, pois elas são a base para a compreensão de outros conceitos relacionados à lógica.
+
+Uma proposição é uma afirmação que pode ser verdadeira ou falsa. Ela pode ser expressa por meio de uma sentença declarativa, como "o sol está brilhando" ou "2 + 2 = 5". As proposições podem ser classificadas em dois tipos principais: simples e compostas.
+
+As proposições simples são aquelas que não podem ser divididas em partes menores com significado próprio. Elas são as unidades básicas da lógica. Alguns exemplos de proposições simples são:
+
+- "Hoje está chovendo."
+- "Maria tem 25 anos."
+- "Todos os gatos têm rabo."
+
+Por outro lado, as proposições compostas são formadas pela combinação de duas ou mais proposições simples usando conectivos lógicos, como "e", "ou" e "não". Os conectivos lógicos permitem construir novas afirmações a partir das relações entre as proposições iniciais. Alguns exemplos de conectivos lógicos incluem:
+
+- Conjunção (representada pelo conectivo "e"): une duas ou mais afirmações com o objetivo de formar uma nova afirmação verdadeira apenas se todas as afirmações originais forem verdadeiras. Por exemplo: "João estuda matemática E Maria estuda física."
+
+- Disjunção (representada pelo conectivo "ou"): une duas ou mais afirmações com o objetivo de formar uma nova afirmação verdadeira se pelo menos uma das afirmações originais for verdadeira. Por exemplo: "O carro é vermelho OU o carro é azul."
+
+- Negação (representada pelo conectivo "não"): inverte o valor de verdade de uma proposição. Por exemplo: "Não está chovendo."
+
+Além desses conectivos básicos, existem outros mais complexos, como a implicação e a equivalência lógica, que são utilizados para estabelecer relações entre proposições compostas.
+
+É importante ressaltar que as proposições compostas podem ser representadas por meio de tabelas-verdade, que mostram todas as possíveis combinações dos valores de verdade das proposições simples envolvidas e o valor resultante da proposição composta.
+
+No estudo do raciocínio lógico, também é comum encontrar classificações adicionais para as proposições compostas. Alguns exemplos incluem:
+
+- Proposição condicional: é uma forma especial de disjunção em que a primeira parte da sentença implica na segunda parte. Por exemplo: "Se chover, então eu levarei um guarda-chuva."
+
+- Proposição bicondicional: ocorre quando duas sentenças estão relacionadas por meio da conjunção e implicação simultaneamente. Por exemplo: "Eu irei à praia se e somente se fizer sol."
+
+Esses são apenas alguns exemplos dos tipos e subtipos de proposições simples e compostas encontrados no estudo do raciocínio lógico. É importante estudar cada um desses conceitos em detalhes para ter um bom domínio sobre o assunto e aplicá-los de forma correta em questões de concursos públicos.
+4. - Tópico: Proposições simples e compostas
+  - Subtópico: Diferenças entre proposições simples e compostas
+  - Subtópico: Exemplos de proposições simples e compostas
+  - Subtópico: Utilização de proposições simples e compostas em problemas de lógica
+O raciocínio lógico é uma habilidade fundamental para resolver problemas e tomar decisões de forma coerente e consistente. No contexto de concursos públicos, o conhecimento sobre proposições simples e compostas é essencial, pois elas são a base para a compreensão de outros conceitos relacionados à lógica.
+
+Uma proposição é uma afirmação que pode ser verdadeira ou falsa. Ela expressa um fato ou uma ideia completa que pode ser avaliada como verdadeira ou falsa. Por exemplo, "Hoje está chovendo" é uma proposição, pois podemos verificar se ela é verdadeira ou falsa observando o clima atual.
+
+As proposições podem ser classificadas em dois tipos: simples e compostas.
+
+Proposições simples são aquelas que não podem ser divididas em partes menores com significado independente. Elas são as unidades básicas da lógica. Alguns exemplos de proposições simples são:
+
+- "O sol nasce no leste."
+- "2 + 2 = 4."
+- "Brasil é um país localizado na América do Sul."
+
+Proposições compostas são formadas pela combinação de duas ou mais proposições simples usando conectivos lógicos, como "e", "ou" e "se...então". Os conectivos lógicos permitem criar novas proposições a partir das existentes. Alguns exemplos de conectivos lógicos incluem:
+
+- Conjunção (e): une duas proposições com o objetivo de obter uma nova afirmação verdadeira apenas quando ambas as afirmações originais também forem verdadeiras. Por exemplo: "João estuda matemática E Maria estuda história."
+
+- Disjunção (ou): une duas proposições com o objetivo de obter uma nova afirmação verdadeira quando pelo menos uma das afirmações originais for verdadeira. Por exemplo: "O carro é azul OU o carro é vermelho."
+
+- Implicação (se...então): relaciona duas proposições, onde a primeira é chamada de antecedente e a segunda de consequente. A implicação é verdadeira sempre que o antecedente for falso ou quando ambos forem verdadeiros. Por exemplo: "Se chove, então eu levo um guarda-chuva."
+
+Além desses conectivos lógicos básicos, existem outros mais complexos, como a negação (não), a bicondicional (se e somente se) e a condicional inversa.
+
+É importante compreender as diferentes combinações possíveis entre as proposições simples para analisar corretamente as proposições compostas. Para isso, podemos utilizar tabelas-verdade, que mostram todas as possibilidades de valores verdadeiros ou falsos para cada combinação das proposições envolvidas.
+
+No estudo do raciocínio lógico em concursos públicos, também podem ser abordados subtipos específicos de proposições compostas, como tautologias (proposição sempre verdadeira), contradições (proposição sempre falsa) e contingências (proposição cujo valor depende do contexto).
+
+Em resumo, entender os conceitos de proposições simples e compostas no contexto do raciocínio lógico é fundamental para resolver problemas relacionados à lógica em concursos públicos. É necessário compreender os diferentes tipos de conectivos lógicos e suas aplicações, bem como a análise correta das proposições compostas por meio de tabelas-verdade.
+
