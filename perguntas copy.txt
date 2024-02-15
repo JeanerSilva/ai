@@ -1,309 +1,322 @@
-1 Raciocínio lógico- 1.1 Estruturas lógicas.  
-1 Raciocínio lógico- 1.2 Lógica de argumentação: analogias, inferências, deduções e conclusões.  
-1 Raciocínio lógico- 1.3 Lógica sentencial (ou proposicional).  
-1 Raciocínio lógico- 10.3.1 Proposições simples e compostas.  
-1 Raciocínio lógico- 10.3.2 Tabelas-verdade.  
-1 Raciocínio lógico- 10.3.3 Equivalências.  
-1 Raciocínio lógico- 10.3.4 Leis de Morgan; problemas.  
-2 Noções de estatística - 2.1 População e amostra.  
-2 Noções de estatística - 2.2 Histogramas e curvas de frequência.  
-2 Noções de estatística - 2.3 Medidas de posição: média, moda, mediana e separatrizes.  
-2 Noções de estatística - 2.4 Medidas de dispersão absoluta e relativa.  
-2 Noções de estatística - 2.5 Probabilidade condicional, independência.  
-2 Noções de estatística - 2.6 Variável aleatória e funções de distribuição. 
-1. Macroeconomia   
-2. Macroeconomia - Contas nacionais.    
-3. Macroeconomia - Agregados monetários.    
-4. Macroeconomia - Multiplicador monetário   
-4.1 Macroeconomia - criação de moeda   
-4.2 Macroeconomia - destruição de moeda.    
-5. Macroeconomia - Contas do sistema monetário.    
-6. Macroeconomia - Balanço de pagamentos.    
-0. Microeconomia   
-1. Microeconomia - Estrutura de mercado.    
-2.1 Microeconomia - Formas de organização da atividade econômica    
-2.2 Microeconomia - o papel dos preços custo de oportunidade    
-2.3 Microeconomia - fronteiras das possibilidades de produção.    
-3 Microeconomia - Oferta e demanda.    
-3.1 Microeconomia - Curvas de indiferença.    
-3.2 Microeconomia - Restrição orçamentária.    
-3.3 Microeconomia - Equilíbrio do consumidor.    
-3.4 Microeconomia - Efeitos preço renda e substituição.    
-3.5 Microeconomia - Curva de demanda.    
-3.6 Microeconomia -  Elasticidade da demanda.    
-1 Inteligência Artificial - Aprendizado de Máquina.    
-2 Inteligência Artificial - Deep learning.    
-3 Inteligência Artificial - Processamento de linguagem natural.    
-4 Inteligência Artificial - Big data.    
-5 Inteligência Artificial - Qualidade de Dados.    
-6 Inteligência Artificial - Tipos de Aprendizado-    
-6.1 Inteligência Artificial - Aprendizado Supervisionado    
-6.2 Inteligência Artificial - Aprendizado Não Supervisionado    
-6.3 Inteligência Artificial - Aprendizado Semi Supervisionado    
-6.4 Inteligência Artificial - Aprendizado Por Reforço    
-6.5 Inteligência Artificial - Aprendizado Por Transferência.    
-7 Inteligência Artificial - Grandes Modelos de Linguagem -LLM-    
-7.1 Inteligência Artificial - IA Generativa.    
-8 Inteligência Artificial - Redes Neurais.    
-9 Inteligência Artificial - MLOps-    
-9.1 Inteligência Artificial - MLOps- Gestão de código   
-9.2 Inteligência Artificial -  MLOps- treinamento   
-9.3 Inteligência Artificial - MLOps- implantação   
-9.4 Inteligência Artificial - MLOps- monitoramento e versionamento de modelos   
-9.5 Inteligência Artificial - MLOps- automação do ciclo de produção.    
-10 Inteligência Artificial - Governança e Ética na IA-    
-10.1 Inteligência Artificial - Governança e Ética na IA- Transparência   
-10.1 Inteligência Artificial - Governança e Ética na IA- Responsabilidade   
-10.1 Inteligência Artificial - Governança e Ética na IA- Explicabilidade   
-10.1 Inteligência Artificial - Governança e Ética na IA- Privacidade   
-10.1 Inteligência Artificial - Governança e Ética na IA- Segurança   
-10.1 Inteligência Artificial - Governança e Ética na IA- Viés.    
-1 Segurança da Informação - Gestão de Identidades e Acesso-    
-1.1 Segurança da Informação - Autenticação e Autorização    
-1.2 Segurança da Informação - Single Sign-On -SSO-    
-1.3 Segurança da Informação - Security Assertion Markup Language -SAML-    
-1.4 Segurança da Informação - OAuth2 e    
-1.5 Segurança da Informação - OpenId Connect.    
-2 Segurança da Informação - Privacidade e segurança por padrão.    
-3 Segurança da Informação - Principais tipos de ataques e vulnerabilidades.    
-4 Segurança da Informação - Controles e testes de segurança para aplicações Web e Web Services.    
-5 Segurança da Informação - Múltiplos Fatores de Autenticação -MFA-.    
-6 Segurança da Informação - Soluções para Segurança da Informação-    
-6.1 Segurança da Informação - Firewall   
-6.2 Segurança da Informação - Intrusion Detection System -IDS-   
-6.3 Segurança da Informação - Intrusion Prevention System -IPS-   
-6.4 Segurança da Informação - Security Information and Event Management -SIEM-   
-6.5 Segurança da Informação - Proxy   
-6.6 Identity Access Management -IAM-   
-6.7 Privileged Access Management -PAM-   
-6.8 Segurança da Informação - Antivírus   
-6.9 Segurança da Informação - Antispam.    
-7 Segurança da Informação - Frameworks de segurança da informação e segurança cibernética   
-7.1 Segurança da Informação - MITRE ATT&CK   
-7.2 Segurança da Informação - CIS Controls   
-7.3 Segurança da Informação - NIST CyberSecurity Framework -NIST CSF-.    
-8 Segurança da Informação - Tratamento de Incidentes Cibernéticos.    
-9 Segurança da Informação - Assinatura e certificação digital   
-9.1 Segurança da Informação - criptografia    
-9.2 Segurança da Informação - proteção de dados em trânsito   
-9.3 Segurança da Informação - proteção de dados em repouso.    
-10 Segurança da Informação - Segurança em nuvens   
-10.1 Segurança da Informação - segurança de contêineres.    
-1 Engenharia de Software - Arquitetura de sistemas web-    
-1.1 Engenharia de Software - Arquitetura de sistemas web- protocolo HTTP   
-1.2 Engenharia de Software - Arquitetura de sistemas web- HTTP-2   
-1.3 Engenharia de Software - Arquitetura de sistemas web- gRPC   
-1.4 Engenharia de Software - Arquitetura de sistemas web- WebSockets   
-1.5 Engenharia de Software - Arquitetura de sistemas web- TLS   
-1.6 Engenharia de Software - Arquitetura de sistemas web- servidores proxy   
-1.7 Engenharia de Software - Arquitetura de sistemas web- cache   
-1.8 Engenharia de Software - Arquitetura de sistemas web- DNS   
-1.9 Engenharia de Software - Arquitetura de sistemas web- balanceamento de carga   
-1.10 Arquitetura de sistemas web- tolerância a falhas e escalabilidade em sistemas web.    
-2 Engenharia de Software - Princípios e práticas de DevOps   
-2.1 Engenharia de Software - Princípios e práticas de DevSecOps   
-2.3 Engenharia de Software - Princípios e práticas de integração e entrega contínuas -CI-CD-.    
-3 Engenharia de Software - Técnicas de desenvolvimento seguro.    
-4 Engenharia de Software - Testes de software-    
-4.1 Engenharia de Software - Testes unitários   
-4.2 Engenharia de Software - Testes de Integração   
-4.3 Engenharia de Software - TDD   
-4.4 Engenharia de Software - BDD.    
-5 Engenharia de Software - Arquiteturas em camadas   
-5.1 Engenharia de Software – arquitetura baseada em serviços   
-5.2 Engenharia de Software - microsserviços -orquestração de serviços e API gateway-   
-5.3 Engenharia de Software - orientação a eventos    
-5.4 Engenharia de Software - modelo cliente-servidor   
-5.4 Engenharia de Software - modelo serverless.    
-6 Engenharia de Software - Práticas de UX   
-6.1 Engenharia de Software - Práticas UI design.    
-7. Engenharia de Software - Programação assíncrona.    
-8. Engenharia de Software - RESTful    
-8.1 Engenharia de Software - GraphQL.    
-9 Engenharia de Software - Web services.    
-10 Engenharia de Software - Padrão GoF   
-10.1 Engenharia de Software - Padrão GRASP.    
-11 Engenharia de Software - Git.    
-11.1 Engenharia de Software -  Git funcionamento   
-11.2 Engenharia de Software - Git principais comandos   
-11.3 Engenharia de Software - Git comandos de configuração   
-11.4 Engenharia de Software - Git comandos de versionamento   
-12 Engenharia de Software - Python-    
-12.1 Engenharia de Software - Python- ecossistema   
-12.2 Engenharia de Software - Python- hello world   
-12.3 Engenharia de Software - Python- variáveis   
-12.4 Engenharia de Software - Python- sintaxe básica    
-12.5 Engenharia de Software - Python- palavras reservadas   
-12.6 Engenharia de Software - Python- tipos de dados   
-12.7 Engenharia de Software - Python- operações com strings   
-12.8 Engenharia de Software - Python- classes   
-12.9 Engenharia de Software - Python- orientação a objeto   
-12.10 Engenharia de Software - Python- herança   
-12.11 Engenharia de Software - Python- polimorfismo   
-12.12 Engenharia de Software - Python- tipos de estruturas de dados   
-12.13 Engenharia de Software - Python- orientação a objetos   
-12.14 Engenharia de Software - Python- gestão de memória   
-12.15 Engenharia de Software - Python- tratamento de exceções   
-12.16 Engenharia de Software - Python- entrada e saída de dados   
-12.17 Engenharia de Software -  Python- bibliotecas e Frameworks   
-12.18 Engenharia de Software - Python- operações com estruturas de dados   
-12.19 Engenharia de Software -  Python- Framework web   
-12.20 Engenharia de Software - Python- testes   
-12.21 Engenharia de Software -  Python- bibliotecas de testes   
-12.22 Engenharia de Software -  Python- exemplos de testes   
-12.23 Engenharia de Software - Python- aspectos especíicos da linguagem   
-12.24 Engenharia de Software - Python- padrões de projetos   
-12.25 Engenharia de Software - Python- integração com bancos de dados   
-12.26 Engenharia de Software - Python- comparativo com java quanto à compilação   
-12.27 Engenharia de Software - Python- comparativo com java quanto à execução   
-12.28 Engenharia de Software - Python- comparativo com java quanto à sintaxe   
-13. Engenharia de Software - Java.    
-12.1 Engenharia de Software - Java- ecossistema   
-12.2 Engenharia de Software - Java- hello world   
-12.3 Engenharia de Software - Java- variáveis   
-12.4 Engenharia de Software - Java- sintaxe básica    
-12.5 Engenharia de Software - Java- palavras reservadas   
-12.6 Engenharia de Software - Java- tipos de dados   
-12.7 Engenharia de Software - Java- operações com strings   
-12.8 Engenharia de Software - Java- classes   
-12.9 Engenharia de Software - Java- orientação a objeto   
-12.10 Engenharia de Software - Java- herança   
-12.11 Java- polimorfismo   
-12.12 Engenharia de Software - Java- tipos de estruturas de dados   
-12.13 Engenharia de Software - Java- orientação a objetos   
-12.14 Engenharia de Software - Java- gestão de memória   
-12.15 Engenharia de Software - Java- tratamento de exceções   
-12.16 Engenharia de Software - Java- entrada e saída de dados   
-12.17 Engenharia de Software - Java- bibliotecas e Frameworks   
-12.18 Engenharia de Software -  Java- operações com estruturas de dados   
-12.19 Engenharia de Software - Java- Framework web   
-12.20 Engenharia de Software - Java- testes   
-12.21 Engenharia de Software - Java- bibliotecas de testes   
-12.22 Engenharia de Software - Java- exemplos de testes   
-12.23 Engenharia de Software - Java- aspectos especíicos da linguagem   
-12.24 Engenharia de Software - Java- padrões de projetos   
-12.25 Engenharia de Software - Java- integração com bancos de dados   
-12.26 Engenharia de Software - Java- comparativo com python quanto à compilação   
-12.27 Engenharia de Software - Java- comparativo com python quanto à execução   
-12.28 Engenharia de Software - Java- comparativo com python quanto à sintaxe   
-14 Engenharia de Software - Transações distribuídas.    
-15 Engenharia de Software - Distributed Ledger Technology -DLT-.    
-1 Infraestrutura em TI - Conceitos de infraestrutura como código    
-1.1 Infraestrutura em TI -  automação de infraestrutura de TI.    
-2 Infraestrutura em TI - Docker   
-2.1 Infraestrutura em TI -  Kubernetes-   
-2.3 Infraestrutura em TI - boas práticas para infraestrutura e   
-2.4 Infraestrutura em TI - orquestração de containers.    
-3 Infraestrutura em TI - Serviços de Rede Microsoft Windows Server-   
-3.1 Infraestrutura em TI - DNS    
-3.2 Infraestrutura em TI - DHCP    
-3.4 Infraestrutura em TI - Radius    
-3.5 Infraestrutura em TI - Autenticação    
-3.6 Infraestrutura em TI - Certificados    
-3.7 Infraestrutura em TI - Active Directory -AD-.    
-4 Infraestrutura em TI - Monitoração observabilidade   
-4.1 Infraestrutura em TI - análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging    
-4.2 Infraestrutura em TI - Nagios    
-4.3 Infraestrutura em TI - Prometheus    
-4.4 Infraestrutura em TI - Grafana    
-4.5 Infraestrutura em TI - Elasticsearch    
-4.6 Infraestrutura em TI - Kibana    
-4.7 Infraestrutura em TI - Application Performance Monitoring -APM-   
-4.8 Infraestrutura em TI - outras ferramentas de análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging   
-5 Infraestrutura em TI - Protocolos da camada de aplicação   
-5.1 Infraestrutura em TI - Simple Mail Transfer Protocol -SMTP-    
-5.2 Infraestrutura em TI - Hypertext Transfer Protocol -HTTP-    
-5.3 Infraestrutura em TI - Hypertext Transfer Protocol -HTTPS-    
-5.4 Infraestrutura em TI – SSL TLS    
-5.5 Infraestrutura em TI - Lightweight Directory Access Protocol -LDAP-    
-5.6 Infraestrutura em TI - Network File System -NFS-    
-5.7 Infraestrutura em TI - Server Message Block -SMB-.    
-6 Infraestrutura em TI - Tolerância a falhas e continuidade de operação.    
-7 Infraestrutura em TI - Implantação e administração de serviços de nuvem   
-7.1 Infraestrutura em TI - IaaS    
-7.2 Infraestrutura em TI - PaaS    
-7.3 Infraestrutura em TI - SaaS.    
-8 Infraestrutura em TI - Administração e gerenciamento de ambientes de virtualização.    
-9 Infraestrutura em TI - Administração e operação do Microsoft Windows Server   
-9.1 Infraestrutura em TI - Administração e operação do Linux.    
-10 Infraestrutura em TI - Conceitos de redes    
-10.1 Infraestrutura em TI - LAN    
-10.2 Infraestrutura em TI - WAN   
-10.3 Infraestrutura em TI - SDN.    
-11 Infraestrutura em TI - Conceitos e ferramentas de orquestração e automação de infraestrutura-    
-11.1 Infraestrutura em TI -  ferramentas de orquestração e automação de infraestrutura- Puppet    
-11.2 Infraestrutura em TI - ferramentas de orquestração e automação de infraestrutura- Ansible.    
-1. Bancos de Dados - sistemas de bancos de dados   
-1.1 Bancos de Dados - sistemas de gerenciamento de banco de dados SGBDs    
-1.2 Bancos de Dados - SQL   
-1.3 Bancos de Dados - NOSQL.    
-2. Bancos de Dados - Modelagens de dados   
-2.1 Bancos de Dados - Modelagens de dados- relacional   
-2.2 Bancos de Dados - Modelagens de dados- multidimensional   
-2.3 Bancos de Dados - Modelagens de dados- nosql.    
-3. Bancos de Dados - SQL Procedural Language    
-3.1 Bancos de Dados - SQL Structured Query Language    
-4. Bancos de Dados - Arquitetura de Inteligência de Negócio-    
-4.1 Bancos de Dados - DataWarehouse    
-4.2 Bancos de Dados - DataMart    
-4.3 Bancos de Dados - DataLake    
-4.4 Bancos de Dados - DataMesh.    
-1 Modelos de desenvolvimento de software - Kanban.    
-1.1 Modelos de desenvolvimento de software - Kanban funcionamento   
-1.2 Modelos de desenvolvimento de software - Kanban premissas   
-1.3 Modelos de desenvolvimento de software - Kanban pessoas envolvidas -papéis-   
-1.4 Modelos de desenvolvimento de software – Kanban fluxo processual   
-2 Modelos de desenvolvimento de software - Scrum.    
-1.1 Modelos de desenvolvimento de software - Scrum funcionamento   
-1.2 Modelos de desenvolvimento de software - Scrum premissas   
-1.3 Modelos de desenvolvimento de software - Scrum pessoas envolvidas -papéis-   
-1.4 Modelos de desenvolvimento de software - Scrum fluxo processual   
-3 Governança de Dados.    
-3 Governança de Dados - Governança de Dados IA.    
-3 Governança de Dados - Governança de Dados modelos.    
-3 Governança de Dados - Governança de Dados sistemas.    
-3 Governança de Dados - Governança de Dados Framework.    
-3 Governança de Dados - Governança de Dados ISO.    
-4 Governança de Dados - ITIL v4 iso.   
-4 Governança de Dados - ITIL v4 classificações.   
-4 Governança de Dados - ITIL v4 processos.   
-4 Governança de Dados - ITIL v4 questões importantes.  
-Lei nº 11.813/2013 (Lei de conflito de interesses).   
-Lei nº 12.527/2011(Lei de Acesso à Informação).   
-Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais). 
-1. Direito administrativo - Administração pública - princípios básicos.
-1.1 Direito administrativo - Administração direta e indireta.
-2.1 Direito administrativo - Poderes administrativos - poder hierárquico  
-2.2. Direito administrativo - Poderes administrativos - poder disciplinar  
-2.3. Direito administrativo - Poderes administrativos - poder regulamentar  
-2.4. Direito administrativo - Poderes administrativos - poder de polícia 
-2.5. Direito administrativo - Poderes administrativos - poder normativo.    
-2.6 Direito administrativo - Poderes administrativos - Uso e abuso do poder.    
-3.1 Direito administrativo - Organização administrativa brasileira - conceito de serviços    
-3.2 Direito administrativo - Organização administrativa brasileira - princípios do serviço público    
-3.2 Direito administrativo - Organização administrativa brasileira - Autarquias    
-3.3 Direito administrativo - Organização administrativa brasileira - agências reguladoras    
-3.4 Direito administrativo - Organização administrativa brasileira - agências executivas    
-3.5 Direito administrativo - Organização administrativa brasileira - fundações públicas    
-3.6 Direito administrativo - Organização administrativa brasileira - empresas públicas    
-3.7 Direito administrativo - Organização administrativa brasileira - sociedades de economia mista.    
-4.1.1 Direito administrativo - Ato administrativo - Conceito de atos administrativos    
-4.1.2 Direito administrativo - Ato administrativo - requisitos do ato administrativo    
-4.1.3 Direito administrativo - Ato administrativo - atributos dos atos administrativos   
-4.2 Direito administrativo - Ato administrativo - Comunicação dos atos administrativos.    
-4.3 Direito administrativo - Ato administrativo - Anulação dos atos administrativos    
-4.3.1 Direito administrativo - Ato administrativo -  revogação dos atos administrativos   
-4.3.2 Direito administrativo - Ato administrativo - convalidação dos atos administrativos    
-4.4 Direito administrativo - Ato administrativo - Discricionariedade e vinculação.    
-5. Direito administrativo - Servidores públicos - cargo emprego e função públicos.    
-5.1.1 Direito administrativo - Servidores públicos - Disposições preliminares da lei 8.112-1990.    
-5.1.2 Direito administrativo - Servidores públicos - Provimento vacância remoção redistribuição e substituição na lei 8.112-1990.    
-5.1.3 Direito administrativo - Servidores públicos - Direitos e vantagens da lei 8.112-1990.    
-5.1.4 Direito administrativo - Servidores públicos - Regime disciplinar da lei 8.112-1990.    
-5.1.5 Direito administrativo - Servidores públicos - Seguridade social do servidor- aposentadoria e pensão civil.    
-5.1.6 Direito administrativo - Servidores públicos - Processo administrativo disciplinar.    
-7. Direito administrativo - Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal -Decreto nº 1.171-1994-.    
-8. Direito administrativo - Código de Conduta da Alta Administração Federal.    
-9. Direito administrativo - Lei de conflito de interesses -Lei nº 11.813-2013-.    
-10. Direito administrativo - Lei de Acesso à Informação -Lei nº 12.527-2011-.    
-11. Direito administrativo - Lei nº 13.709-2018 -Lei Geral de Proteção de Dados Pessoais-. 
+Inteligência Artificial - Aprendizado de Máquina.
+Inteligência Artificial - Deep learning.
+Inteligência Artificial - Processamento de linguagem natural.
+Inteligência Artificial - Big data.
+Inteligência Artificial - Qualidade de Dados.
+Inteligência Artificial - Tipos de Aprendizado-.
+Inteligência Artificial - Aprendizado Supervisionado.
+Inteligência Artificial - Aprendizado Não Supervisionado.
+Inteligência Artificial - Aprendizado Semi Supervisionado.
+Inteligência Artificial - Aprendizado Por Reforço.
+Inteligência Artificial - Aprendizado Por Transferência.
+Inteligência Artificial - Grandes Modelos de Linguagem -LLM-.
+Inteligência Artificial - IA Generativa.
+Inteligência Artificial - Redes Neurais.
+Inteligência Artificial - MLOps-.
+Inteligência Artificial - MLOps- Gestão de código.
+Inteligência Artificial - MLOps- treinamento.
+Inteligência Artificial - MLOps- implantação.
+Inteligência Artificial - MLOps- monitoramento e versionamento de modelos.
+Inteligência Artificial - MLOps- automação do ciclo de produção.
+Inteligência Artificial - Governança e Ética na IA.
+Inteligência Artificial - Governança e Ética na IA- Transparência.
+Inteligência Artificial - Governança e Ética na IA- Responsabilidade.
+Inteligência Artificial - Governança e Ética na IA- Explicabilidade.
+Inteligência Artificial - Governança e Ética na IA- Privacidade.
+Inteligência Artificial - Governança e Ética na IA- Segurança.
+Inteligência Artificial - Governança e Ética na IA- Viés.
+Raciocínio lógico - Estruturas lógicas.
+Raciocínio lógico - Lógica de argumentação: analogias, inferências, deduções e conclusões.
+Raciocínio lógico - Lógica sentencial (ou proposicional).
+Raciocínio lógico - Proposições simples e compostas.
+Raciocínio lógico - Tabelas-verdade.
+Raciocínio lógico - Equivalências.
+Raciocínio lógico - Leis de Morgan; problemas.
+Noções de estatística - População e amostra.
+Noções de estatística - Histogramas e curvas de frequência.
+Noções de estatística - Medidas de posição: média, moda, mediana e separatrizes.
+Noções de estatística - Medidas de dispersão absoluta e relativa.
+Noções de estatística - Probabilidade condicional, independência.
+Noções de estatística - Variável aleatória e funções de distribuição.
+Macroeconomia.
+Macroeconomia - Contas nacionais.
+Macroeconomia - Agregados monetários.
+Macroeconomia - Multiplicador monetário.
+Macroeconomia - criação de moeda.
+Macroeconomia - destruição de moeda.
+Macroeconomia - Contas do sistema monetário.
+Macroeconomia - Balanço de pagamentos.
+Microeconomia.
+Microeconomia - Estrutura de mercado.
+Microeconomia - Formas de organização da atividade econômica.
+Microeconomia - o papel dos preços custo de oportunidade.
+Microeconomia - fronteiras das possibilidades de produção.
+Microeconomia - Oferta e demanda.
+Microeconomia - Curvas de indiferença.
+Microeconomia - Restrição orçamentária.
+Microeconomia - Equilíbrio do consumidor.
+Microeconomia - Efeitos preço renda e substituição.
+Microeconomia - Curva de demanda.
+Microeconomia - Elasticidade da demanda.
+Segurança da Informação - Gestão de Identidades e Acesso-.
+Segurança da Informação - Autenticação e Autorização.
+Segurança da Informação - Single Sign-On -SSO-.
+Segurança da Informação - Security Assertion Markup Language -SAML-.
+Segurança da Informação - OAuth2.
+Segurança da Informação - OpenId Connect.
+Segurança da Informação - Privacidade e segurança por padrão.
+Segurança da Informação - Principais tipos de ataques e vulnerabilidades.
+Segurança da Informação - Controles e testes de segurança para aplicações Web e Web Services.
+Segurança da Informação - Múltiplos Fatores de Autenticação -MFA-.
+Segurança da Informação - Soluções para Segurança da Informação-.
+Segurança da Informação - Firewall.
+Segurança da Informação - Intrusion Detection System -IDS-.
+Segurança da Informação - Intrusion Prevention System -IPS-.
+Segurança da Informação - Security Information and Event Management -SIEM-.
+Segurança da Informação - Proxy.
+Segurança da Informação - Identity Access Management -IAM-.
+Segurança da Informação - Privileged Access Management -PAM-.
+Segurança da Informação - Antivírus.
+Segurança da Informação - Antispam.
+Segurança da Informação - Frameworks de segurança da informação e segurança cibernética.
+Segurança da Informação - MITRE ATT&CK.
+Segurança da Informação - CIS Controls.
+Segurança da Informação - NIST CyberSecurity Framework -NIST CSF-.
+Segurança da Informação - Tratamento de Incidentes Cibernéticos.
+Segurança da Informação - Assinatura e certificação digital.
+Segurança da Informação - criptografia.
+Segurança da Informação - proteção de dados em trânsito.
+Segurança da Informação - proteção de dados em repouso.
+Segurança da Informação - Segurança em nuvens.
+Segurança da Informação - segurança de contêineres.
+Engenharia de Software - Arquitetura de sistemas web-.
+Engenharia de Software - Arquitetura de sistemas web- protocolo HTTP.
+Engenharia de Software - Arquitetura de sistemas web- HTTP-2.
+Engenharia de Software - Arquitetura de sistemas web- gRPC.
+Engenharia de Software - Arquitetura de sistemas web- WebSockets.
+Engenharia de Software - Arquitetura de sistemas web- TLS.
+Engenharia de Software - Arquitetura de sistemas web- servidores proxy.
+Engenharia de Software - Arquitetura de sistemas web- cache.
+Engenharia de Software - Arquitetura de sistemas web- DNS.
+Engenharia de Software - Arquitetura de sistemas web- balanceamento de carga.
+Engenharia de Software - Arquitetura de sistemas web- tolerância a falhas e escalabilidade em sistemas web.
+Engenharia de Software - Princípios e práticas de DevOps.
+Engenharia de Software - Princípios e práticas de DevSecOps.
+Engenharia de Software - Princípios e práticas de integração e entrega contínuas -CI-CD-.
+Engenharia de Software - Técnicas de desenvolvimento seguro.
+Engenharia de Software - Testes de software-.
+Engenharia de Software - Testes unitários.
+Engenharia de Software - Testes de Integração.
+Engenharia de Software - TDD.
+Engenharia de Software - BDD.
+Engenharia de Software - Arquiteturas em camadas.
+Engenharia de Software – arquitetura baseada em serviços.
+Engenharia de Software - microsserviços -orquestração de serviços e API gateway-.
+Engenharia de Software - orientação a eventos.
+Engenharia de Software - modelo cliente-servidor.
+Engenharia de Software - modelo serverless.
+Engenharia de Software - Práticas de UX.
+Engenharia de Software - Práticas UI design.
+Engenharia de Software - Programação assíncrona.
+Engenharia de Software - RESTful.
+Engenharia de Software - GraphQL.
+Engenharia de Software - Web services.
+Engenharia de Software - Padrão GoF.
+Engenharia de Software - Padrão GRASP.
+Engenharia de Software - Git.
+Engenharia de Software - Git funcionamento.
+Engenharia de Software - Git principais comandos.
+Engenharia de Software - Git comandos de configuração.
+Engenharia de Software - Git comandos de versionamento.
+Engenharia de Software - Python-.
+Engenharia de Software - Python- ecossistema.
+Engenharia de Software - Python- hello world.
+Engenharia de Software - Python- variáveis.
+Engenharia de Software - Python- sintaxe básica.
+Engenharia de Software - Python- palavras reservadas.
+Engenharia de Software - Python- tipos de dados.
+Engenharia de Software - Python- operações com strings.
+Engenharia de Software - Python- classes.
+Engenharia de Software - Python- orientação a objeto.
+Engenharia de Software - Python- herança.
+Engenharia de Software - Python- polimorfismo.
+Engenharia de Software - Python- tipos de estruturas de dados.
+Engenharia de Software - Python- operações com estruturas de dados.
+Engenharia de Software - Python- orientação a objetos.
+Engenharia de Software - Python- gestão de memória.
+Engenharia de Software - Python- tratamento de exceções.
+Engenharia de Software - Python- entrada e saída de dados.
+Engenharia de Software - Python- bibliotecas e Frameworks.
+Engenharia de Software - Python- operações com estruturas de dados.
+Engenharia de Software - Python- Framework web.
+Engenharia de Software - Python- testes.
+Engenharia de Software - Python- bibliotecas de testes.
+Engenharia de Software - Python- exemplos de testes.
+Engenharia de Software - Python- aspectos especíicos da linguagem.
+Engenharia de Software - Python- padrões de projetos.
+Engenharia de Software - Python- integração com bancos de dados.
+Engenharia de Software - Python- comparativo com java quanto à compilação.
+Engenharia de Software - Python- comparativo com java quanto à execução.
+Engenharia de Software - Python- comparativo com java quanto à sintaxe.
+Engenharia de Software - Java.
+Engenharia de Software - Java- ecossistema.
+Engenharia de Software - Java- hello world.
+Engenharia de Software - Java- variáveis.
+Engenharia de Software - Java- sintaxe básica.
+Engenharia de Software - Java- palavras reservadas.
+Engenharia de Software - Java- tipos de dados.
+Engenharia de Software - Java- operações com strings.
+Engenharia de Software - Java- classes.
+Engenharia de Software - Java- orientação a objeto.
+Engenharia de Software - Java- herança.
+Engenharia de Software -Java- polimorfismo.
+Engenharia de Software - Java- tipos de estruturas de dados.
+Engenharia de Software - Java- orientação a objetos.
+Engenharia de Software - Java- gestão de memória.
+Engenharia de Software - Java- tratamento de exceções.
+Engenharia de Software - Java- entrada e saída de dados.
+Engenharia de Software - Java- bibliotecas e Frameworks.
+Engenharia de Software - Java- tipos de estruturas de dados.
+Engenharia de Software - Java- operações com estruturas de dados.
+Engenharia de Software - Java- Framework web.
+Engenharia de Software - Java- testes.
+Engenharia de Software - Java- bibliotecas de testes.
+Engenharia de Software - Java- exemplos de testes.
+Engenharia de Software - Java- aspectos específicos da linguagem.
+Engenharia de Software - Java- padrões de projetos.
+Engenharia de Software - Java- integração com bancos de dados.
+Engenharia de Software - Java- comparativo com python quanto à compilação.
+Engenharia de Software - Java- comparativo com python quanto à execução.
+Engenharia de Software - Java- comparativo com python quanto à sintaxe.
+Engenharia de Software - Transações distribuídas.
+Engenharia de Software - Distributed Ledger Technology -DLT-.
+Infraestrutura em TI - Conceitos de infraestrutura como código.
+Infraestrutura em TI - automação de infraestrutura de TI.
+Infraestrutura em TI - Docker.
+Infraestrutura em TI - Kubernetes-.
+Infraestrutura em TI - boas práticas para infraestrutura e.
+Infraestrutura em TI - orquestração de containers.
+Infraestrutura em TI - Serviços de Rede Microsoft Windows Server-.
+Infraestrutura em TI - DNS.
+Infraestrutura em TI - DHCP.
+Infraestrutura em TI - Radius.
+Infraestrutura em TI - Autenticação.
+Infraestrutura em TI - Certificados.
+Infraestrutura em TI - Active Directory -AD-.
+Infraestrutura em TI - Monitoração observabilidade.
+Infraestrutura em TI - análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging.
+Infraestrutura em TI - Nagios.
+Infraestrutura em TI - Prometheus.
+Infraestrutura em TI - Grafana.
+Infraestrutura em TI - Elasticsearch.
+Infraestrutura em TI - Kibana.
+Infraestrutura em TI - Application Performance Monitoring -APM-.
+Infraestrutura em TI - outras ferramentas de análise de sistemas em produção por meio do uso de ferramentas de monitoramento e logging.
+Infraestrutura em TI - Protocolos da camada de aplicação.
+Infraestrutura em TI - Simple Mail Transfer Protocol -SMTP-.
+Infraestrutura em TI - Hypertext Transfer Protocol -HTTP-.
+Infraestrutura em TI - Hypertext Transfer Protocol -HTTPS-.
+Infraestrutura em TI – SSL TLS.
+Infraestrutura em TI - Lightweight Directory Access Protocol -LDAP-.
+Infraestrutura em TI - Network File System -NFS-.
+Infraestrutura em TI - Server Message Block -SMB-.
+Infraestrutura em TI - Tolerância a falhas e continuidade de operação.
+Infraestrutura em TI - Implantação e administração de serviços de nuvem.
+Infraestrutura em TI - IaaS.
+Infraestrutura em TI - PaaS.
+Infraestrutura em TI - SaaS.
+Infraestrutura em TI - Administração e gerenciamento de ambientes de virtualização.
+Infraestrutura em TI - Administração e operação do Microsoft Windows Server.
+Infraestrutura em TI - Administração e operação do Linux.
+Infraestrutura em TI - Conceitos de redes.
+Infraestrutura em TI - LAN.
+Infraestrutura em TI - WAN.
+Infraestrutura em TI - SDN.
+Infraestrutura em TI - Conceitos e ferramentas de orquestração e automação de infraestrutura-.
+Infraestrutura em TI - ferramentas de orquestração e automação de infraestrutura- Puppet.
+Infraestrutura em TI - ferramentas de orquestração e automação de infraestrutura- Ansible.
+Bancos de Dados - sistemas de bancos de dados.
+Bancos de Dados - sistemas de gerenciamento de banco de dados SGBDs.
+Bancos de Dados - SQL.
+Bancos de Dados - NOSQL.
+Bancos de Dados - Modelagens de dados.
+Bancos de Dados - Modelagens de dados- relacional.
+Bancos de Dados - Modelagens de dados- multidimensional.
+Bancos de Dados - Modelagens de dados- nosql.
+Bancos de Dados - SQL Procedural Language.
+Bancos de Dados - SQL Structured Query Language.
+Bancos de Dados - Arquitetura de Inteligência de Negócio-.
+Bancos de Dados - DataWarehouse.
+Bancos de Dados - DataMart.
+Bancos de Dados - DataLake.
+Bancos de Dados - DataMesh.
+Kanban Princípios: Visualização do Trabalho, Limitação do Trabalho em Progresso (WIP), Gestão do Fluxo, Melhoria Contínua.
+Kanban Quadro Kanban:Colunas: "A fazer","Em andamento","Concluído", Cartões: Descrição da tarefa,Responsável,Prazo,.
+Kanban Implementação do Kanban: Configuração do Quadro Kanban, Reuniões de Stand-up, Métricas e Indicadores, Lead time, Cycle time, Throughput,.
+Kanban em diferentes contextos:Desenvolvimento de Software, Gestão de Projetos,Operações e Manufatura,.
+Kanban Digital vs. Físico: Ferramentas Digitais, Quadro Físico,.
+Scrum - Visão Geral do Scrum: Definição e Conceitos Básicos, Pilares do Scrum: Transparência, Inspeção, Adaptação.
+Scrum - Papéis no Scrum: Scrum Master, Product Owner, Equipe de Desenvolvimento.
+Scrum - Eventos do Scrum: Sprint: Planejamento da Sprint, Reunião Diária (Daily Scrum), Revisão da Sprint, Retrospectiva da Sprint.
+Scrum - Artefatos do Scrum: Product Backlog, Sprint Backlog, Incremento,.
+Scrum - Práticas e Técnicas do Scrum: Estimativas, Planning Poker, Story Points, Refinamento do Backlog, Definition of Done (DoD).
+Scrum - Scrum em diferentes contextos: Desenvolvimento de Software, Gerenciamento de Projetos, Marketing, Pesquisa e Desenvolvimento.
+Scrum - Scrum em Escala: Scrum of Scrums, Nexus Framework, LeSS (Large-Scale Scrum).
+Scrum - Ferramentas e Tecnologias para Scrum: Ferramentas de Gerenciamento de Projetos Scrum, Ferramentas de Comunicação e Colaboração, Ferramentas de Gestão de Tarefas e Sprint Boards.
+Scrum - Cultura e Valores do Scrum: Colaboração, Responsabilidade, Melhoria Contínua.
+Governança de dados: Visão Geral da Governança de Dados:, Definição e Conceitos Básicos, Objetivos da Governança de Dados, Benefícios da Governança de Dados.
+Governança de dados: Estrutura Organizacional:, Papéis e Responsabilidades na Governança de Dados, Comitê de Governança de Dados, Funções de Stewardship de Dados.
+Governança de dados: Processos e Políticas:, Estabelecimento de Políticas de Governança de Dados, Gestão de Metadados, Gestão de Qualidade de Dados, Gestão de Segurança de Dados.
+Governança de dados: Frameworks e Padrões:, ITIL (Information Technology Infrastructure Library), COBIT (Control Objectives for Information and Related Technology), ISO/IEC 38500 (Governança de TI), DAMA DMBOK (Data Management Body of Knowledge).
+Governança de dados: Implementação e Melhoria Contínua:, Estratégias de Implementação da Governança de Dados, Avaliação de Maturidade da Governança de Dados, Melhoria Contínua da Governança de Dados.
+Governança de dados: Gestão de Riscos e Compliance:, Avaliação de Riscos de Dados, Conformidade com Regulamentações (GDPR, LGPD, etc.), Auditoria e Monitoramento da Governança de Dados.
+Governança de dados: Cultura Organizacional e Educação:, Cultura de Dados na Organização, Educação e Conscientização sobre Governança de Dados, Incentivos e Reconhecimento.
+Governança de dados: Tecnologias e Ferramentas:, Ferramentas de Catalogação e Inventário de Dados, Ferramentas de Gerenciamento de Metadados, Ferramentas de Qualidade de Dados, Ferramentas de Segurança de Dados.
+ITIL v4 - Visão Geral: Introdução, História e evolução, Estrutura do.
+ITIL v4 - Princípios: Foco no valor, Comece onde você está, Progresso iterativo, Colaboração e visibilidade, práticas holísticas, Manutenção e automação.
+ITIL v4 - Dimensões do Serviço:, Organizações e Pessoas, Informação e Tecnologia, Parceiros e Fornecedores, Fluxos de Valor e Processos.
+ITIL v4 - Modelo de Operação do Serviço: Práticas de Gerenciamento de Serviços, Práticas Técnicas e Práticas de Gerenciamento, Conceitos-chave e Definições.
+ITIL v4 - Ciclo de Vida do Serviço: Estratégia de Serviço, Desenho de Serviço, Transição de Serviço, Operação de Serviço, Melhoria Contínua de Serviço.
+ITIL v4 - Melhoria Contínua do Serviço: Princípios da Melhoria Contínua, Modelo PDCA (Plan-Do-Check-Act), Métricas e KPIs (Key Performance Indicators).
+ITIL v4 - Integração com Outras Práticas: DevOps, Agile, Lean, Service Management, Gerenciamento de Projetos.
+ITIL v4 - Adoção e Implementação do ITIL v4: Estratégias de Adoção do ITIL v4, Desafios Comuns na Implementação do ITIL v4, Estudos de Caso de Sucesso.
+ITIL v4 - Certificação ITIL v4: Níveis de Certificação, Exames e Preparação, Benefícios da Certificação ITIL v4.
+Lei nº 11.813/2013 (Lei de conflito de interesses).
+Lei nº 12.527/2011(Lei de Acesso à Informação).
+Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais).
+Direito administrativo - Administração pública - princípios básicos.
+Direito administrativo - Administração direta e indireta.
+Direito administrativo - Poderes administrativos - poder hierárquico.
+Direito administrativo - Poderes administrativos - poder disciplinar.
+Direito administrativo - Poderes administrativos - poder regulamentar.
+Direito administrativo - Poderes administrativos - poder de polícia.
+Direito administrativo - Poderes administrativos - poder normativo.
+Direito administrativo - Poderes administrativos - Uso e abuso do poder.
+Direito administrativo - Organização administrativa brasileira - conceito de serviços.
+Direito administrativo - Organização administrativa brasileira - princípios do serviço público.
+Direito administrativo - Organização administrativa brasileira - Autarquias.
+Direito administrativo - Organização administrativa brasileira - agências reguladoras.
+Direito administrativo - Organização administrativa brasileira - agências executivas.
+Direito administrativo - Organização administrativa brasileira - fundações públicas.
+Direito administrativo - Organização administrativa brasileira - empresas públicas.
+Direito administrativo - Organização administrativa brasileira - sociedades de economia mista.
+Direito administrativo - Ato administrativo - Conceito de atos administrativos.
+Direito administrativo - Ato administrativo - requisitos do ato administrativo.
+Direito administrativo - Ato administrativo - atributos dos atos administrativos.
+Direito administrativo - Ato administrativo - Comunicação dos atos administrativos.
+Direito administrativo - Ato administrativo - Anulação dos atos administrativos.
+Direito administrativo - Ato administrativo - revogação dos atos administrativos.
+Direito administrativo - Ato administrativo - convalidação dos atos administrativos.
+Direito administrativo - Ato administrativo - Discricionariedade e vinculação.
+Direito administrativo - Servidores públicos - cargo emprego e função públicos.
+Direito administrativo - Servidores públicos - Disposições preliminares da lei 8.112-1990.
+Direito administrativo - Servidores públicos - Provimento vacância remoção redistribuição e substituição na lei 8.112-1990.
+Direito administrativo - Servidores públicos - Direitos e vantagens da lei 8.112-1990.
+Direito administrativo - Servidores públicos - Regime disciplinar da lei 8.112-1990.
+Direito administrativo - Servidores públicos - Seguridade social do servidor- aposentadoria e pensão civil.
+Direito administrativo - Servidores públicos - Processo administrativo disciplinar.
+Direito administrativo - Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal -Decreto nº 1.171-1994-.
+Direito administrativo - Código de Conduta da Alta Administração Federal.
+Direito administrativo - Lei de conflito de interesses -Lei nº 11.813-2013-.
+Direito administrativo - Lei de Acesso à Informação -Lei nº 12.527-2011-.
+Direito administrativo - Lei nº 13.709-2018 -Lei Geral de Proteção de Dados Pessoais-.

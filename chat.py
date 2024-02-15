@@ -62,7 +62,10 @@ def processar_perguntas(nome_arquivo, contexto):
         perguntas = arquivo.readlines()
 
     for pergunta in perguntas:
-        arquivo =  sanitize_filename(pergunta[:-2]) + ".txt"
+        arquivo =  sanitize_filename(pergunta).replace("\n", "")
+        if len(arquivo) > 100:
+            arquivo = arquivo[:100] 
+        arquivo = arquivo + ".txt"
         with open("respostas/" + arquivo, 'a', encoding='utf-8') as arquivo_respostas:
             informacoes_subtopicos = gerar_subtopicos_e_perguntas(pergunta, contexto)
 
