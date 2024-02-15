@@ -37,29 +37,24 @@ def gerar_subtopicos_e_perguntas(pergunta, contexto):
         )
 
         last_response = response_subtopicos['choices'][0]['message']['content']
+        print(f"last_response======: {last_response} ")
         subtópicos = last_response.strip().split('\n')
+        print(f"subtópicos2======: {subtópicos} ")
+        retorno = ""
+        for subtópico in subtópicos:
+            subtópico_corrigido = subtópico.replace("  - ", "-").replace("- ", "---")
+            retorno = retorno + subtópico_corrigido
+        subtópicos = retorno.split('---')
         informacoes_subtopicos = []
 
-        print(f"subtópicos======: {subtópicos} ")
-
-        topico = ""
-        pergunta = ""        
+        print(f"subtópicos3======: {subtópicos} ")
+ 
         for subtópico in subtópicos:
             if subtópico:
-                if ehTopico(subtópico):
-                    if pergunta == "":
-                        topico = subtópico
-                        print(f"adicionando: {topico} ao subtópico")
-                        pergunta = topico                                        
-                    else:                    
-                        #resposta_subtópico = obter_resposta_subtopicos(pergunta)
-                        print(f"pergunta: {pergunta}+++\n")
-                        resposta_subtópico = pergunta
-                        #print(f"resposta_subtópico: {resposta_subtópico}+++\n\n")
-                        informacoes_subtopicos.append((subtópico, resposta_subtópico))
-                        pergunta = ""
-                else:
-                    pergunta = pergunta + subtópico
+                #resposta_subtópico = obter_resposta_subtopicos(pergunta)
+                resposta_subtópico = subtópico
+                #print(resposta_subtópico)
+                informacoes_subtopicos.append((subtópico, resposta_subtópico))
 
 
         return informacoes_subtopicos
