@@ -6,33 +6,34 @@ from helpers import *
 
 def obter_resposta_subtopicos(subtópico):
     messages_resposta = [
-        {"role": "system", "content": "Você é um assistente que explica subtópicos em detalhes de modo a prover uma pessoa que fará concurso público"},
-        {"role": "user", "content": f"fale exaustivamente sobre o seguinte subtópico: {subtópico}. Se forem citados tipos, subtipos, classificações, tendências ou grupos, fale detidamente sobre cada um deles e cite exemplos."}
+        {"role": "system", "content": "Você trabalha no CESPE/CEBRASPE e faz perguntas para concursos públicos. As perguntas são inteligentes sem obviedades"},
+        {"role": "user", "content": f"Crie 10 afirmativas diretas e verdadeiras estilo CESPE/CEBRASPE sobre: {subtópico}"}
     ]
     response_resposta = openai.ChatCompletion.create(
-        #model="gpt-4",
         model="gpt-3.5-turbo",
-        messages=messages_resposta,
-        temperature=0.1,
-        max_tokens=1024,
-        frequency_penalty=1.0
+        messages=messages_resposta
     )
     return response_resposta['choices'][0]['message']['content'].strip()
 
 def gerar_subtopicos_e_perguntas(pergunta, contexto):
     try:
         messages = [
-            {"role": "system", "content": "Você é um assistente que gera subtópicos a partir de tópicos. Os subtópicos são os mais relevantes para elaboração de questões de concursos"},
-            {"role": "user", "content": f"Dado o seguinte tema: '{pergunta.strip()}', liste importantes subtópicos relacionados."}
+            {"role": "system", "content": "Você é um assistente que gera subtópicos a parti de tópicos. Os subtópicos são os mais relevantes para elaboração de questões de concursos"},
+            {"role": "user", "content": f"Dado o seguinte tema: '{pergunta.strip()}', liste os 10 mais importantes subtópicos relacionados, aptos a serem objeto de concurso público do CESPE."}
         ]
+
+        temperature=0.1
+        max_tokens=150
+        frequency_penalty=1.0
 
         response_subtopicos = openai.ChatCompletion.create(
             #model="gpt-3.5-turbo",  
-            model="gpt-3.5-turbo",
+            model="gpt-4",
             messages=messages,
-            temperature=0.1,
-            max_tokens=20,
-            # frequency_penalty=1.0
+            temperature=temperature,
+            max_tokens=max_tokens,
+            frequency_penalty=frequency_penalty
+
         )
         
         # Processar a resposta para extrair os subtópicos
@@ -42,9 +43,7 @@ def gerar_subtopicos_e_perguntas(pergunta, contexto):
 
         for subtópico in subtópicos:
             if subtópico:
-                #print(subtópico)
                 resposta_subtópico = obter_resposta_subtopicos(subtópico)
-                #print(resposta_subtópico)
                 informacoes_subtopicos.append((subtópico, resposta_subtópico))
 
         return informacoes_subtopicos
@@ -62,7 +61,7 @@ def processar_perguntas(nome_arquivo, contexto):
             informacoes_subtopicos = gerar_subtopicos_e_perguntas(pergunta, contexto)
             arquivo_respostas.write(f"Item do edital: {pergunta} \n")
             for i, (subtópico, resposta_subtópico) in enumerate(informacoes_subtopicos, start=1):
-                arquivo_respostas.write(f"{i}. Subtópico: {subtópico}\n{resposta_subtópico}\n")
+                arquivo_respostas.write(f"{i}. Subtópico: {subtópico}\nAssertivas:\n{resposta_subtópico}\n\n")
             arquivo_respostas.write("\n")
 
 contexto = carrega("contexto.txt")
