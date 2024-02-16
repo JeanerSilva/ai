@@ -1,0 +1,83 @@
+Item do edital: Infraestrutura em TI - Certificados.
+ 
+1. Certificados de Segurança em TI, Certificado SSL/TLS, Certificado de Autenticação de Servidor, Certificado de Assinatura de Código, Certificado de Autenticação de Cliente
+A infraestrutura em TI é fundamental para o funcionamento das empresas e organizações nos dias de hoje, fornecendo o suporte necessário para todas as operações de tecnologia da informação. Os certificados em infraestrutura em TI são uma forma de comprovar os conhecimentos e habilidades de profissionais nesse campo. Aqui estão alguns certificados comuns na área de infraestrutura em TI:
+
+1. CompTIA A+: Este é um certificado básico para profissionais de TI que desejam trabalhar na área de suporte e manutenção de hardware e software.
+
+2. Cisco Certified Network Associate (CCNA): Esse certificado da Cisco é voltado para profissionais de rede e valida as habilidades em configuração e solução de problemas de redes de tamanho médio.
+
+3. Microsoft Certified Solutions Associate (MCSA): A Microsoft oferece uma variedade de certificações em infraestrutura em TI, começando com o MCSA, que abrange uma ampla gama de tópicos, como Windows Server, SQL Server, Office 365 e Azure.
+
+4. VMware Certified Professional (VCP): Este certificado é voltado para profissionais de virtualização, fornecendo validação das habilidades em implementação, gerenciamento e solução de problemas em ambientes VMware.
+
+5. ITIL Foundation: ITIL (Information Technology Infrastructure Library) é um conjunto de melhores práticas para a gestão de serviços de TI. O certificado ITIL Foundation é ideal para profissionais que desejam entender e aplicar essas práticas em suas organizações.
+
+6. Amazon Web Services (AWS) Certified Solutions Architect: Para aqueles que desejam se especializar em serviços em nuvem da Amazon, o certificado AWS Certified Solutions Architect é altamente valorizado. Ele valida as habilidades na construção de infraestrutura e aplicativos na plataforma AWS.
+
+Esses são apenas alguns exemplos de certificações em infraestrutura em TI. É importante destacar que cada certificação tem seus próprios requisitos e níveis de dificuldade. A escolha de qual certificado obter dependerá dos objetivos e interesses do profissional, bem como das necessidades da empresa ou organização em que atua.
+2. Certificados de Qualidade em TI, Certificado ISO 9001, Certificado ISO 27001, Certificado CMMI, Certificado ITIL
+A infraestrutura de TI é um conjunto de recursos e serviços que suportam o funcionamento de uma organização com relação à tecnologia da informação. Ela é constituída por componentes físicos, como servidores, redes de computadores, armazenamento de dados e dispositivos de segurança, além de software e sistemas.
+
+No contexto dos certificados em infraestrutura de TI, eles geralmente se referem a certificações profissionais que validam o conhecimento e as habilidades de um profissional nessa área. Existem diversas certificações disponíveis, algumas das mais populares são:
+
+1. CompTIA A+: Destinada a profissionais de suporte técnico, essa certificação abrange conhecimentos gerais em hardware, software, redes e segurança.
+
+2. Cisco Certified Network Associate (CCNA): Focado em redes de computadores, é uma certificação da Cisco que valida habilidades de configuração, instalação e resolução de problemas em redes.
+
+3. Microsoft Certified Solutions Associate (MCSA): Disponível em diferentes especialidades, como servidores, nuvem, bancos de dados, entre outros, essa certificação atesta as habilidades do profissional na implementação de soluções Microsoft.
+
+4. Certified Information Systems Security Professional (CISSP): É uma certificação em segurança da informação que demonstra conhecimentos avançados na proteção de sistemas e dados.
+
+5. ITIL Foundation: Focado em gerenciamento de serviços de TI, essa certificação valida conhecimentos em práticas e processos para garantir a eficiência e qualidade dos serviços de TI.
+
+Essas são apenas algumas das certificações disponíveis na área de infraestrutura de TI. É importante ressaltar que a escolha da certificação a ser obtida dependerá dos interesses e objetivos profissionais de cada indivíduo.
+3. Certificados de Competência em TI, Certificado Microsoft Certified Professional (MCP), Certificado Cisco Certified Network Associate (CCNA), Certificado CompTIA A+, Certificado Project Management Professional (PMP)
+Infraestrutura de TI refere-se às tecnologias, sistemas e equipamentos necessários para suportar uma organização ou empresa. Os certificados em infraestrutura de TI são uma maneira de demonstrar proficiência em certas habilidades e conhecimentos relacionados à área.
+
+Existem vários tipos de certificados disponíveis em infraestrutura de TI, abrangendo diversas áreas e tecnologias. Alguns dos certificados mais populares incluem:
+
+1. CompTIA A+: Certificado destinado a profissionais de suporte técnico, que abrange conhecimentos em hardware, redes e segurança.
+
+2. Cisco CCNA: Certificado da Cisco Systems, que certifica habilidades em redes, roteamento e comutação.
+
+3. Microsoft Certified Solutions Associate (MCSA): Certificado da Microsoft, que abrange habilidades fundamentais em administração de sistemas operacionais Windows e servidores.
+
+4. VMware Certified Professional (VCP): Certificado da VMware, que certifica conhecimentos em virtualização e gerenciamento de data centers.
+
+5. ITIL Foundation: Certificado em Gerenciamento de Serviços de TI, que abrange as melhores práticas para gerenciamento de serviços de TI.
+
+Esses são apenas alguns exemplos de certificados em infraestrutura de TI. Existem muitos outros disponíveis, cada um com seu próprio foco e requisitos específicos. A escolha do certificado mais adequado dependerá dos objetivos profissionais e das habilidades desejadas.
+4. Certificados de Conformidade em TI, Certificado PCI DSS, Certificado HIPAA, Certificado GDPR, Certificado SOX
+Os certificados em infraestrutura de TI são credenciais que comprovam a habilidade e o conhecimento de um profissional em determinadas tecnologias e práticas relacionadas à infraestrutura de tecnologia da informação.
+
+Existem diversos certificados disponíveis no mercado, cada um focado em uma área específica da infraestrutura de TI, como redes, segurança, virtualização, armazenamento, nuvem e gerenciamento de sistemas.
+
+Alguns dos certificados mais reconhecidos e procurados na área de infraestrutura de TI incluem:
+
+- Cisco Certified Network Associate (CCNA): certificado para profissionais de redes que demonstra conhecimento em roteadores e switches Cisco.
+
+- Microsoft Certified Solutions Associate (MCSA): certificado que comprova habilidades em administração de sistemas Windows Server e ambientes de nuvem da Microsoft, como o Azure.
+
+- CompTIA Security+: certificado de segurança da informação que valida habilidades em identificação de ameaças, criptografia, controle de acesso e segurança de rede.
+
+- VMware Certified Professional (VCP): certificação para profissionais que trabalham com virtualização utilizando as soluções da VMware.
+
+- AWS Certified Solutions Architect: certificação para profissionais que trabalham com a plataforma de computação em nuvem da Amazon Web Services (AWS).
+
+Esses são apenas alguns exemplos de certificados populares na área de infraestrutura de TI. É importante ressaltar que a escolha do certificado a ser obtido deve ser baseada nas necessidades e objetivos profissionais de cada indivíduo. Cada certificação exige estudo e dedicação para ser obtida, mas pode trazer reconhecimento e melhores oportunidades de carreira para os profissionais de TI.
+5. Certificados de Conhecimento em TI, Certificado ITIL Foundation, Certificado COBIT Foundation, Certificado PRINCE2 Foundation, Certificado Six Sigma Green Belt
+Os certificados na área de infraestrutura em TI são uma forma de comprovar que um profissional possui habilidades e conhecimentos específicos necessários para projetar, implementar e gerenciar infraestruturas de tecnologia da informação.
+
+Existem diversos certificados disponíveis, oferecidos por instituições e organizações renomadas na área de TI. Alguns dos certificados mais comuns na área de infraestrutura em TI são:
+
+1. CompTIA: A CompTIA oferece certificações como o CompTIA A+, que abrange conhecimentos básicos de infraestrutura de TI, e o CompTIA Network+, que enfoca especificamente redes de computadores.
+
+2. Microsoft: A Microsoft oferece uma ampla gama de certificações relacionadas à infraestrutura em TI, como o Microsoft Certified: Azure Administrator Associate, que valida as habilidades de gerenciamento e implantação de recursos no Microsoft Azure, e o Microsoft Certified: Azure Solutions Architect Expert, que atesta as habilidades de design e implementação de soluções baseadas em nuvem usando o Azure.
+
+3. Cisco: A Cisco oferece certificações como o Cisco Certified Network Associate (CCNA) e o Cisco Certified Network Professional (CCNP), que focam em habilidades de rede e infraestrutura.
+
+4. ITIL: A ITIL (Information Technology Infrastructure Library) é um conjunto de práticas e frameworks para gerenciamento de serviços de TI. A certificação ITIL Foundation é uma das mais populares na área de infraestrutura em TI, fornecendo uma visão geral das melhores práticas no gerenciamento de serviços de TI.
+
+Além desses certificados, existem muitos outros disponíveis no mercado, abrangendo várias áreas da infraestrutura em TI, como segurança da informação, virtualização, armazenamento de dados, entre outros. É importante escolher certificados que sejam relevantes para o seu campo de atuação e que estejam alinhados com as suas metas de carreira.
+

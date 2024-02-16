@@ -1,0 +1,33 @@
+Item do edital: Raciocínio lógico - Leis de Morgan; problemas.
+ 
+1. - Leis de Morgan  - Conceito das Leis de Morgan  - Aplicações das Leis de Morgan  - Exemplos de aplicação das Leis de Morgan- Problemas envolvendo as Leis de Morgan  - Resolução de problemas utilizando as Leis de Morgan  - Exercícios práticos de aplicação das Leis de Morgan  - Dificuldades comuns na resolução de problemas com as Leis de Morgan- Estratégias para resolver problemas com as Leis de Morgan  - Identificação das operações lógicas envolvidas  - Simplificação de expressões utilizando as Leis de Morgan  - Uso de tabelas verdade para resolver problemas com as Leis de Morgan- Exercícios de fixação  - Exercícios de múltipla escolha sobre as Leis de Morgan  - Exercícios práticos de resolução de problemas com as Leis de Morgan  - Exercícios de interpretação de expressões lógicas utilizando as Leis de Morgan
+As leis de Morgan são um conjunto de duas regras básicas utilizadas na lógica proposicional. Elas nos permitem realizar a negação de uma proposição composta ou combinar negações de proposições individuais. 
+
+A primeira lei de Morgan estabelece que a negação de uma conjunção é equivalente à disjunção das negações das proposições individuais. Em outras palavras:
+
+ ¬(A ∧ B) ≡ ¬A ∨ ¬B
+
+Isso significa que se queremos negar uma proposição que envolve a interseção de duas condições, podemos negar cada uma das condições individualmente e combinar as negações usando uma operação de disjunção.
+
+A segunda lei de Morgan estabelece que a negação de uma disjunção é equivalente à conjunção das negações das proposições individuais. Em outras palavras:
+
+ ¬(A ∨ B) ≡ ¬A ∧ ¬B
+
+Isso significa que se queremos negar uma proposição que envolve a união de duas condições, podemos negar cada uma das condições individualmente e combinar as negações usando uma operação de conjunção.
+
+Essas leis de Morgan são úteis para simplificar expressões lógicas complexas e são amplamente utilizadas em diversos domínios, como ciência da computação, matemática e eletrônica. 
+
+Um exemplo prático do uso das leis de Morgan seria o seguinte problema: 
+
+Suponha que temos duas afirmações:
+- A: "O carro está quebrado."
+- B: "O motor está funcionando."
+
+Queremos negar a proposição que diz "O carro está quebrado e o motor está funcionando" usando as leis de Morgan.
+
+A proposição original seria A ∧ B, e vamos negá-la aplicando a primeira lei de Morgan: 
+
+¬(A ∧ B) ≡ ¬A ∨ ¬B 
+
+Portanto, a negação da proposição original é "O carro não está quebrado ou o motor não está funcionando".
+

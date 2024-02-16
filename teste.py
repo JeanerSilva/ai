@@ -29,7 +29,10 @@ last_response = """ - Tópico: Conceito de macroeconomia
   - Subtópico: Relação entre os agregados monetários e as metas da política monetária
   - Subtópico: Avaliação dos agregados monetários na formulação da política monetária"""
 
-subtópicos = last_response.strip().split('\n\n')
+if "\n\n" in last_response:
+    subtópicos = last_response.strip().split('\n\n')
+else:
+    subtópicos = last_response.strip().split('\n')
 #print(subtópicos)
 
 for subtópico in subtópicos:

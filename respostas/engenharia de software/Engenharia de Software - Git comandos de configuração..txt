@@ -1,0 +1,152 @@
+Item do edital: Engenharia de Software - Git comandos de configuração.
+ 
+1. Introdução ao Git, O que é Git?, Por que usar o Git?, Conceitos básicos do Git
+A configuração do Git é feita por meio de comandos executados no terminal ou na linha de comando. Abaixo estão alguns comandos úteis para configurar o Git:
+
+1. Definir seu nome de usuário:
+```
+git config --global user.name "Seu nome"
+```
+
+2. Definir seu endereço de e-mail:
+```
+git config --global user.email "seuemail@example.com"
+```
+
+3. Definir o editor de texto padrão para o Git (opcional):
+```
+git config --global core.editor nome_editor
+```
+Substitua "nome_editor" pelo nome do editor de texto que você deseja usar, como "vim", "nano", "sublime", etc.
+
+4. Definir a cor da saída do Git:
+```
+git config --global color.ui true
+```
+
+Isso habilitará a cor na saída do Git, o que pode ser útil para melhorar a legibilidade.
+
+5. Definir o limite de tamanho dos arquivos a serem enviados (opcional):
+```
+git config --global http.postBuffer tamanho_em_bytes
+```
+
+Isso é útil ao lidar com arquivos grandes, para garantir que o buffer de envio seja grande o suficiente.
+
+Esses são apenas alguns exemplos de comandos de configuração do Git. Você pode encontrar mais opções de configuração na documentação oficial do Git.
+2. Comandos básicos do Git, Inicializando um repositório Git, Adicionando arquivos ao repositório, Realizando commits, Visualizando o histórico de commits
+A configuração do Git é essencial para que o software funcione corretamente e de acordo com as necessidades de cada usuário. Aqui estão alguns dos comandos de configuração mais comuns que você pode usar:
+
+1. Configurando seu nome de usuário:
+
+```
+git config --global user.name "Seu nome"
+```
+
+2. Configurando seu endereço de e-mail:
+
+```
+git config --global user.email "seuemail@example.com"
+```
+
+3. Exibindo suas configurações atuais:
+
+```
+git config --list
+```
+
+4. Definindo um editor de texto padrão para suas mensagens de commit:
+
+```
+git config --global core.editor "nome_do_editor"
+```
+
+5. Configurando rebase ao invés de merge por padrão:
+
+```
+git config --global pull.rebase true
+```
+
+6. Configurando o limite de colunas para exibir no terminal:
+
+```
+git config --global core.pager "less -S"
+```
+
+7. Desabilitando o auto-merge durante um pull:
+
+```
+git config --global pull.ff only
+```
+
+Estes são apenas alguns dos comandos de configuração do Git que podem ser úteis para personalizar sua experiência de uso. Lembre-se de sempre consultar a documentação oficial do Git para obter mais informações sobre cada comando e suas opções.
+3. Configuração do Git, Configurando o nome de usuário, Configurando o email, Configurando o editor de texto padrão, Configurando aliases
+A Engenharia de Software é uma disciplina que envolve a aplicação de princípios de engenharia no desenvolvimento de software. Uma ferramenta essencial para os desenvolvedores de software é o Git, que é um sistema de controle de versões distribuído amplamente utilizado para rastrear alterações em projetos de software.
+
+Aqui estão alguns comandos de configuração do Git que são úteis ao trabalhar com o sistema:
+
+1. Configurando o nome do usuário:
+   git config --global user.name "Seu Nome"
+
+2. Configurando o email do usuário:
+   git config --global user.email "seuemail@example.com"
+
+3. Configurando o editor de texto padrão:
+   git config --global core.editor "nome_do_editor"
+
+4. Configurando as cores da interface do Git:
+   git config --global color.ui auto
+
+5. Exibindo as configurações do Git:
+   git config --list
+
+6. Configurando o comportamento do Git ao usar o comando pull:
+   git config --global pull.rebase true
+
+7. Configurando o comportamento do Git ao usar o comando push:
+   git config --global push.default current
+
+É importante configurar seu nome de usuário e email corretamente, pois essas informações são associadas às suas alterações e commits no Git. O editor de texto padrão define qual editor de texto será usado para abrir mensagens de commit e outras tarefas.
+
+As cores da interface do Git são úteis para melhorar a legibilidade das informações exibidas no terminal. Você pode personalizar as cores conforme sua preferência.
+
+Existem várias outras configurações que você pode definir no Git, dependendo das necessidades e preferências do seu fluxo de trabalho. A documentação oficial do Git é um ótimo recurso para aprender mais sobre as possibilidades de configuração do Git.
+4. Comandos avançados do Git, Branches e merges, Resolvendo conflitos de merge, Desfazendo commits, Trabalhando com repositórios remotos
+Aqui estão alguns dos comandos de configuração mais comuns no Git:
+
+1. git config --global user.name "Seu Nome": Configura o nome do usuário globalmente.
+
+2. git config --global user.email "seuemail@email.com": Configura o email do usuário globalmente.
+
+3. git config --global core.editor "Nome do editor": Configura o editor padrão para abrir mensagens de commit.
+
+4. git config --global color.ui true: Habilita a exibição de cores na saída do Git.
+
+5. git config --global alias. atalho "comando": Cria um alias para um comando git específico. Por exemplo, "git config --global alias.st status" criará um atalho "st" para o comando "git status".
+
+6. git config --global --unset alias.atalho: Remove um alias pré-existente.
+
+7. git config --list: Lista todas as configurações do Git.
+
+8. git config --global --edit: Abre o arquivo de configuração do Git no editor padrão.
+
+Esses são apenas alguns exemplos de comandos de configuração do Git. Existem muitos outros comandos disponíveis para personalizar o comportamento do Git de acordo com suas necessidades. Para obter mais informações sobre comandos de configuração do Git, consulte a documentação oficial do Git.
+5. Boas práticas com o Git, Utilizando branches para desenvolvimento, Escrevendo mensagens de commit claras e concisas, Realizando code reviews, Utilizando tags para marcar versões
+A engenharia de software é uma área voltada para o desenvolvimento de softwares e sistemas complexos, e o Git é uma ferramenta fundamental nesse processo de desenvolvimento colaborativo.
+
+O Git é um sistema de controle de versão distribuído, que permite que várias pessoas trabalhem em um mesmo projeto de forma simultânea, controlando as alterações feitas nos arquivos de forma organizada e segura.
+
+A configuração do Git envolve algumas etapas iniciais para que seja possível utilizá-lo corretamente. Aqui estão alguns dos comandos de configuração mais importantes:
+
+- git config --global user.name "Seu Nome": Este comando permite que você defina o nome do usuário que estará associado a todos os commits que serão feitos. É importante definir corretamente o seu nome para que todas as contribuições fiquem devidamente registradas.
+
+- git config --global user.email "seu@email.com": Semelhante ao comando anterior, este permite que você defina o email do usuário que estará associado aos commits.
+
+- git config --global color.ui auto: Com este comando, é possível habilitar as cores na saída do Git no terminal. Essa opção é útil para facilitar a visualização e a interpretação das informações contidas nas mensagens de commit, logs e outros comandos.
+
+- git config --global core.editor "seu_editor_preferido": Permite definir o editor de texto que será usado para a edição de mensagens de commit e outras operações. É importante configurar um editor com o qual você esteja familiarizado e que facilite o seu trabalho.
+
+Além desses comandos principais, existem diversas outras configurações que podem ser feitas no Git, como a definição dos aliases (apelidos) para comandos frequentemente utilizados, a configuração de hooks (scripts personalizados que são executados em fases específicas do ciclo de vida do Git) e muitas outras opções.
+
+É importante ressaltar que esses comandos de configuração são executados uma única vez, no momento em que você está configurando o Git. Depois disso, você pode utilizar o Git normalmente para trabalhar nos seus projetos.
+

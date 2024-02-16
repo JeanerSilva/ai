@@ -1,0 +1,32 @@
+Item do edital: Java - tipos de dados.
+ 
+1. Tipos primitivos, Inteiros, Ponto flutuante, Caracteres, Booleanos  Tipos de referência, Classes, Interfaces, Arrays  Conversão de tipos, Conversão implícita, Conversão explícita  Variáveis e constantes, Declaração de variáveis, Inicialização de variáveis, Constantes  Escopo de variáveis, Escopo local, Escopo de classe  Literais, Literais numéricos, Literais de caracteres, Literais booleanos  Wrappers, Integer, Double, Character, Boolean
+Como especialista no assunto, vou compartilhar informações sobre os tipos de dados em Java.
+
+Java é uma linguagem de programação fortemente tipada, o que significa que todas as variáveis devem ser declaradas com um tipo específico antes de serem usadas.
+
+Existem dois tipos de dados em Java: tipos primitivos e tipos de referência.
+
+1. Tipos Primitivos:
+Os tipos primitivos representam valores simples e são armazenados diretamente na memória do computador. Em Java, existem oito tipos primitivos:
+
+- byte: representa números inteiros de 8 bits.
+- short: representa números inteiros de 16 bits.
+- int: representa números inteiros de 32 bits.
+- long: representa números inteiros de 64 bits.
+- float: representa números de ponto flutuante de 32 bits.
+- double: representa números de ponto flutuante de 64 bits.
+- boolean: representa valores verdadeiro ou falso (true/false).
+- char: representa um único caractere Unicode de 16 bits.
+
+Por exemplo, a declaração "int idade = 25;" declara uma variável chamada "idade" do tipo int e atribui o valor 25 a ela.
+
+2. Tipos de Referência:
+Os tipos de referência são usados para armazenar referências a objetos em Java. Eles não armazenam os dados reais dos objetos, mas sim seu endereço de memória. Os tipos de referência são definidos pelas classes e interfaces presentes no código.
+
+Por exemplo, a declaração "String nome = new String("John");" declara uma variável chamada "nome" do tipo String (tipo de referência) e atribui um objeto String contendo o valor "John" a ela.
+
+Além dos tipos primitivos e de referência padrão, Java também permite a criação de tipos de dados personalizados por meio de classes e interfaces definidas pelos programadores.
+
+É importante entender os diferentes tipos de dados em Java para poder usar corretamente as variáveis e alocar a quantidade certa de memória.
+

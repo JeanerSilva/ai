@@ -1,0 +1,85 @@
+Item do edital: Engenharia de Software - Programação assíncrona.
+ 
+1. Conceitos básicos de programação assíncrona, Definição de programação assíncrona, Diferença entre programação síncrona e assíncrona, Vantagens e desvantagens da programação assíncrona
+A programação assíncrona é uma técnica utilizada na engenharia de software para lidar com tarefas que precisam ser executadas de forma não sequencial. Isso significa que um programa pode começar uma tarefa e, enquanto ela está sendo processada, continuar executando outras tarefas em paralelo.
+
+A programação assíncrona é especialmente útil em situações em que uma tarefa pode levar muito tempo para ser concluída, como fazer uma solicitação de rede para um servidor remoto ou ler um arquivo grande do disco. Em vez de ficar esperando pela conclusão dessas operações, o programa pode continuar executando outras tarefas enquanto aguarda o resultado da operação assíncrona.
+
+Existem várias técnicas e abordagens para implementar a programação assíncrona, dependendo da linguagem de programação e do ambiente utilizado. Entre as técnicas mais comuns estão o uso de callbacks, Promises/async-await, eventos e fluxos de dados assíncronos.
+
+Um dos principais benefícios da programação assíncrona é a melhoria da eficiência e do desempenho do programa, já que ele pode executar várias tarefas ao mesmo tempo, em vez de esperar por cada uma delas ser concluída antes de iniciar a próxima.
+
+No entanto, a programação assíncrona também pode ser mais complexa de ser implementada e depurada, pois exige um cuidado especial para evitar problemas como condições de corrida e vazamentos de memória.
+
+Em resumo, a programação assíncrona é uma ferramenta poderosa na engenharia de software para lidar com operações demoradas e melhorar a eficiência do programa. Ela permite que tarefas sejam executadas em paralelo, aumentando o desempenho e a escalabilidade do software.
+2. Técnicas de programação assíncrona, Callbacks, Promises, Async/await
+A programação assíncrona é uma abordagem utilizada na engenharia de software para lidar com tarefas que podem levar algum tempo para serem concluídas. Em vez de fazer uma espera bloqueante pelo resultado de uma tarefa, a programação assíncrona permite que outras tarefas sejam executadas enquanto aguardamos o resultado. 
+
+Existem várias técnicas para implementar a programação assíncrona em diferentes linguagens de programação. Algumas das abordagens mais comuns incluem o uso de callbacks, promises e async/await.
+
+A programação assíncrona é especialmente útil quando lidamos com operações que podem ser lentas, como acesso a bancos de dados, chamadas de rede ou processamento de dados intensivos. Ao usar a programação assíncrona, podemos evitar bloqueios no fluxo de execução do programa e melhorar a eficiência geral.
+
+No entanto, é importante ressaltar que a programação assíncrona pode adicionar complexidade ao código, especialmente quando lidamos com lógica complexa ou dependências entre tarefas assíncronas. Além disso, também é essencial ter cuidado com possíveis problemas como condições de corrida ou vazamentos de recursos.
+
+No geral, a programação assíncrona é uma técnica poderosa na engenharia de software que nos permite lidar de forma eficiente com tarefas que levam tempo para serem concluídas, melhorando a eficiência e responsividade de nossos programas.
+3. Frameworks e bibliotecas para programação assíncrona, Node.js, React.js, Angular.js
+A programação assíncrona é uma técnica na engenharia de software que permite que um programa execute múltiplas tarefas de forma simultânea e não bloqueante. Ao contrário da programação síncrona, onde cada tarefa é executada de forma sequencial, na programação assíncrona as tarefas podem ser executadas em paralelo e os resultados podem ser retornados em momentos diferentes, sem a necessidade de esperar o término de uma tarefa para iniciar outra.
+
+Um exemplo comum de uso da programação assíncrona é a comunicação entre processos ou a comunicação entre uma aplicação e uma API da web. Imagine que você tenha um programa que precisa fazer uma requisição HTTP para obter dados de uma API remota. Na programação síncrona, o programa seria bloqueado até que a resposta da requisição fosse recebida, o que pode levar algum tempo dependendo da latência da rede. Já na programação assíncrona, o programa pode continuar executando outras tarefas enquanto aguarda a resposta da requisição, aumentando a eficiência e a capacidade de resposta do programa.
+
+Existem várias técnicas e abordagens para implementar a programação assíncrona, como o uso de callbacks, promises, async/await, entre outros. Cada uma dessas técnicas tem suas vantagens e desvantagens, e a escolha da melhor abordagem depende do contexto e das necessidades do projeto.
+
+A programação assíncrona também é muito importante em sistemas distribuídos e escaláveis, onde é necessário lidar com múltiplas requisições concorrentes de forma eficiente. Ao utilizar a programação assíncrona, é possível escalar a capacidade de processamento do sistema sem a necessidade de alocar recursos adicionais.
+
+No entanto, é importante mencionar que a programação assíncrona pode ser mais complexa de entender e de depurar em comparação com a programação síncrona, especialmente quando se lida com o tratamento de erros e o controle de fluxo do programa. Portanto, é importante ter um bom entendimento das boas práticas e técnicas para lidar com a programação assíncrona de forma eficiente e eficaz.
+4. Tratamento de erros na programação assíncrona, Tratamento de exceções, Gerenciamento de erros assíncronos, Estratégias de fallback
+Na engenharia de software, a programação assíncrona refere-se a um estilo de codificação que permite que uma aplicação execute várias tarefas simultaneamente, sem bloquear o fluxo principal do programa. Isso é especialmente útil em situações em que uma tarefa pode levar muito tempo para ser concluída, como chamadas de rede, acesso a banco de dados ou operações intensivas em CPU.
+
+A programação assíncrona permite que o programa inicie uma tarefa, continue executando outras partes do código e, em seguida, seja notificado quando a tarefa assíncrona for concluída. Isso evita que o programa fique bloqueado e aguardando a conclusão de uma operação.
+
+Existem diferentes técnicas para implementar a programação assíncrona. Uma delas é o uso de callbacks, onde um bloco de código é definido para ser executado quando a tarefa assíncrona for concluída. Outra técnica é o uso de Promises, que representam o resultado futuro de uma operação assíncrona e permitem que o programa trate o resultado quando estiver disponível.
+
+Além disso, em linguagens de programação modernas, como JavaScript, Python e C#, existem frameworks e bibliotecas que facilitam a programação assíncrona. Por exemplo, o asyncio no Python, o async/await no JavaScript e o async/await no C#.
+
+A programação assíncrona oferece muitas vantagens, como a melhora no desempenho e na responsividade do programa, pois permite que várias tarefas sejam executadas em paralelo. No entanto, também apresenta desafios adicionais, como o gerenciamento adequado de concorrência e a compreensão do fluxo de execução do programa.
+
+Em resumo, a programação assíncrona é uma abordagem importante na engenharia de software para lidar com tarefas demoradas e melhorar o desempenho das aplicações. É necessário considerar cuidadosamente a implementação e o uso correto das técnicas assíncronas para garantir um código eficiente e confiável.
+5. Testes de unidades em programação assíncrona, Testes de callbacks, Testes de promises, Testes de funções assíncronas com async/await
+A programação assíncrona é uma técnica utilizada na Engenharia de Software que permite que determinadas tarefas sejam executadas de forma independente, sem bloquear a execução do programa principal. Isso é particularmente útil em situações em que uma tarefa pode levar algum tempo para ser concluída, como acessar um banco de dados remoto ou fazer uma chamada de rede.
+
+A principal diferença entre a programação síncrona e assíncrona é o fluxo de controle. Na programação síncrona, uma tarefa é executada e aguarda o resultado antes de prosseguir para a próxima. Já na programação assíncrona, uma tarefa é iniciada e o programa principal continua sua execução enquanto a tarefa está sendo processada. Quando a tarefa é concluída, um callback é executado para lidar com o resultado.
+
+Existem várias maneiras de implementar a programação assíncrona, dependendo da linguagem de programação e do ambiente de desenvolvimento. Alguns exemplos de técnicas e ferramentas comuns incluem:
+
+- Threads e concorrência: é possível usar threads ou processos separados para executar tarefas assíncronas, garantindo que o programa principal continue a execução normalmente.
+
+- Event loops: essenciais para suportar programação assíncrona em linguagens como Python, JavaScript e Ruby. Event loops permitem que várias tarefas sejam executadas em um único thread, coordenando a execução assíncrona.
+
+- Promises e Futures: são objetos que representam o resultado de uma operação assíncrona. Eles podem ser usados para encadear tarefas e lidar com erros de forma mais elegante.
+
+- Bibliotecas e frameworks: muitas linguagens têm bibliotecas específicas ou frameworks que facilitam o uso da programação assíncrona. Alguns exemplos incluem o asyncio em Python, o Node.js em JavaScript e o async/await em C#.
+
+A programação assíncrona pode melhorar consideravelmente o desempenho e a capacidade de resposta de um programa, permitindo que ele execute várias tarefas simultaneamente. Porém, também apresenta desafios adicionais, como lidar com a concorrência de recursos compartilhados e garantir que as operações assíncronas sejam realizadas corretamente.
+
+Em resumo, a programação assíncrona na engenharia de software é uma abordagem eficiente para lidar com operações demoradas ou bloqueantes, permitindo que o programa principal continue a execução enquanto as tarefas assíncronas são processadas.
+6. Aplicações práticas da programação assíncrona, Requisições HTTP assíncronas, Processamento paralelo, Integração de sistemas assíncronos
+A engenharia de software é uma disciplina que se concentra no desenvolvimento de software de qualidade, utilizando métodos e técnicas para projetar, implementar, testar e manter sistemas de software.
+
+A programação assíncrona é uma abordagem para o desenvolvimento de software em que as tarefas são executadas de forma não sequencial. Ao contrário da programação síncrona, em que as tarefas são executadas uma após a outra, na programação assíncrona, várias tarefas podem ser executadas ao mesmo tempo.
+
+Uma das principais vantagens da programação assíncrona é a capacidade de lidar com tarefas que possuem um tempo de execução longo e podem bloquear a execução do programa inteiro. Por exemplo, em um sistema que precisa fazer uma solicitação a um servidor remoto, a programação assíncrona permite que a solicitação seja feita e o programa continue executando outras tarefas, sem esperar pela resposta do servidor.
+
+A programação assíncrona é amplamente utilizada em sistemas que exigem alta capacidade de processamento, como aplicativos web, serviços de nuvem e aplicativos móveis. Alguns dos conceitos e técnicas utilizados na programação assíncrona incluem:
+
+- Callbacks: são funções que são chamadas quando uma tarefa assíncrona é concluída. Os callbacks permitem que o programa execute outras tarefas enquanto aguarda a conclusão da tarefa assíncrona.
+
+- Promessas: são objetos que representam o resultado de uma operação assíncrona, que pode ser uma conclusão bem-sucedida ou um erro. As promessas permitem que o programa especifique ações a serem executadas quando uma tarefa assíncrona é concluída.
+
+- Eventos: são gatilhos que ocorrem em resposta a uma ação ou mudança de estado. Os eventos podem ser usados para notificar o programa quando uma tarefa assíncrona é concluída.
+
+- Threads: são unidades independentes de execução em um programa. A execução de tarefas assíncronas pode ser distribuída em várias threads, permitindo que várias tarefas sejam executadas simultaneamente.
+
+- Filas de mensagens: são estruturas de dados que armazenam as tarefas a serem executadas. As tarefas assíncronas são colocadas em uma fila de mensagens e executadas quando há recursos disponíveis.
+
+Na engenharia de software, a programação assíncrona é uma abordagem importante para otimizar o desempenho e a eficiência de sistemas de software. É importante considerar as implicações do uso da programação assíncrona, como a necessidade de lidar com condições de corrida e a complexidade do código assíncrono. Um bom entendimento dos conceitos e técnicas da programação assíncrona é essencial para projetar e implementar sistemas de software robustos e eficientes.
+

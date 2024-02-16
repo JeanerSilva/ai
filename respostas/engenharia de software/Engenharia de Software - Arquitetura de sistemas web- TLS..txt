@@ -1,0 +1,41 @@
+Item do edital: Engenharia de Software - Arquitetura de sistemas web- TLS.
+ 
+1. Engenharia de Software, Conceitos básicos de Engenharia de Software, Processos de desenvolvimento de software, Metodologias ágeis, Qualidade de software, Testes de software
+Arquitetura de sistemas web, em termos de engenharia de software, é a estrutura de organização e design de um sistema web. Ela envolve a definição de componentes, camadas e tecnologias utilizadas na construção do sistema.
+
+Um dos aspectos importantes a ser considerado na arquitetura de sistemas web é a segurança. Nesse contexto, o TLS (Transport Layer Security) tem um papel fundamental.
+
+TLS é um protocolo de segurança que garante a comunicação segura entre um cliente e um servidor por meio de criptografia. Ele é utilizado para proteger informações confidenciais, como senhas, números de cartão de crédito e dados pessoais, durante a transmissão pela internet.
+
+Na arquitetura de sistemas web, o TLS é implementado na camada de transporte, garantindo que a comunicação entre o cliente e o servidor seja protegida contra interceptação e manipulação por terceiros mal-intencionados.
+
+Ao utilizar o TLS, o sistema web estabelece uma conexão segura, autenticando o servidor para o cliente e, em alguns casos, autenticando também o cliente para o servidor. Além disso, o protocolo de segurança garante a integridade dos dados transmitidos e impede que eles sejam lidos por pessoas não autorizadas.
+
+A implementação do TLS em um sistema web envolve a configuração de certificados digitais, que são emitidos por uma autoridade certificadora confiável e garantem a autenticidade do servidor.
+
+Em resumo, a arquitetura de sistemas web deve incluir a implementação do TLS para garantir a segurança das transações e proteção dos dados durante a comunicação pela internet. É importante contar com especialistas no assunto para realizar a configuração correta do protocolo e garantir a segurança do sistema web.
+2. Arquitetura de sistemas web, Conceitos básicos de arquitetura de sistemas web, Modelos de arquitetura de sistemas web (ex: MVC, MVVM), Padrões de projeto para sistemas web, Escalabilidade e desempenho de sistemas web
+Como especialista em Engenharia de Software, posso fornecer algumas informações sobre a arquitetura de sistemas web e o uso de TLS (Transport Layer Security).
+
+A arquitetura de sistemas web refere-se à estrutura geral de um sistema web, incluindo a forma como seus componentes estão organizados e interagem entre si. Existem várias abordagens e padrões arquiteturais comuns para sistemas web, como o modelo cliente-servidor, a arquitetura em camadas e a arquitetura orientada a serviços (SOA).
+
+No contexto da segurança de sistemas web, o uso do TLS é essencial. O TLS é um protocolo criptográfico que proporciona comunicação segura através da internet. Ele utiliza criptografia para proteger a integridade e a confidencialidade dos dados transmitidos entre o cliente (navegador) e o servidor.
+
+Ao utilizar o TLS em um sistema web, a comunicação entre o cliente e o servidor é criptografada, o que significa que os dados são transformados em um formato ilegível para qualquer pessoa que intercepte a comunicação. Isso protege contra ataques como interceptação de dados, adulteração de conteúdo e falsificação de identidade.
+
+Para implementar o TLS em uma arquitetura de sistema web, é necessário configurar um certificado SSL (Secure Sockets Layer) ou TLS no servidor. Esse certificado é emitido por uma autoridade certificadora confiável e contém informações sobre a identidade do servidor. O cliente verifica a autenticidade desse certificado para garantir que esteja se comunicando com o servidor correto.
+
+Além disso, é importante garantir que a aplicação web esteja configurada corretamente para usar o TLS. Isso envolve habilitar o suporte ao TLS nas configurações do servidor e configurar o redirecionamento do tráfego HTTP para HTTPS, que é a versão segura do protocolo HTTP.
+
+Em resumo, a arquitetura de sistemas web envolve o planejamento e organização dos componentes de um sistema para garantir sua eficiência, segurança e escalabilidade. A inclusão do TLS na arquitetura é essencial para fornecer comunicação segura entre o cliente e o servidor.
+3. TLS (Transport Layer Security), Conceitos básicos de TLS, Criptografia e segurança em TLS, Certificados digitais e autoridades de certificação, Implementação e configuração de TLS em sistemas web
+A engenharia de software é uma disciplina que se concentra no desenvolvimento de sistemas de software de alta qualidade, eficientes e confiáveis. A arquitetura de sistemas web é uma área específica dentro da engenharia de software que se concentra em projetar e organizar a estrutura de um sistema web.
+
+TLS (Transport Layer Security) é um protocolo de segurança que fornece comunicação segura através de uma rede de computadores. Ele é amplamente utilizado em sistemas web para proteger a transferência de dados confidenciais, como informações de login, dados de pagamento e informações pessoais.
+
+A arquitetura de sistemas web deve levar em consideração a implementação de TLS para garantir a segurança das informações durante a comunicação entre os clientes (navegadores) e os servidores web. Isso envolve a configuração adequada do servidor web para suportar o uso de TLS, a geração de certificados e chaves criptográficas, e a implementação correta das práticas de segurança recomendadas.
+
+Além disso, a arquitetura de sistemas web deve levar em conta a escalabilidade e a disponibilidade dos servidores que executam a aplicação, bem como a eficiência na transferência de dados entre os clientes e o servidor. Uma arquitetura bem projetada é essencial para garantir que o sistema web seja seguro, confiável e capaz de lidar com um número crescente de usuários e demandas de tráfego.
+
+Em resumo, a arquitetura de sistemas web deve considerar a implementação de TLS para garantir a segurança das comunicações, além de abordar aspectos como escalabilidade, disponibilidade e eficiência na transferência de dados. Isso garante a confiabilidade e o bom funcionamento de um sistema web.
+

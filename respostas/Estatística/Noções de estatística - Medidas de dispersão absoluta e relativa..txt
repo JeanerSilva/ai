@@ -1,0 +1,31 @@
+Item do edital: Noções de estatística - Medidas de dispersão absoluta e relativa.
+ 
+1. - Medidas de dispersão absoluta:  - Amplitude;  - Variância;  - Desvio padrão;  - Desvio médio absoluto.
+As medidas de dispersão são usadas para avaliar o quão espalhados ou agrupados estão os valores de um conjunto de dados. Elas fornecem informações sobre a variação dos dados em relação à média. Existem duas medidas principais de dispersão: a absoluta e a relativa.
+
+A medida de dispersão absoluta mais comumente usada é o desvio padrão. Ele indica a dispersão dos dados ao redor da média. Quanto maior o desvio padrão, maior a dispersão dos dados. O desvio padrão é calculado pela raiz quadrada da variância. A fórmula para o cálculo do desvio padrão populacional é dada por:
+
+σ = √(Σ(X - μ)² / N)
+
+onde σ é o desvio padrão populacional, Σ representa a soma, X representa cada valor do conjunto de dados, μ é a média dos dados e N é o tamanho do conjunto de dados.
+
+Já a medida de dispersão relativa mais comum é o coeficiente de variação. Ele é utilizado para comparar a dispersão de dois conjuntos de dados que possuem médias diferentes. O coeficiente de variação é calculado dividindo o desvio padrão pela média e multiplicando por 100 para obter o resultado em porcentagem. A fórmula para o cálculo do coeficiente de variação é dada por:
+
+CV = (σ / μ) * 100
+
+onde CV é o coeficiente de variação, σ é o desvio padrão e μ é a média dos dados.
+
+Essas medidas de dispersão são úteis em várias áreas, como na análise de dados estatísticos, na comparação de desempenho de diferentes grupos ou populações, na avaliação de riscos financeiros e em pesquisas científicas. Elas ajudam a fornecer uma compreensão mais completa dos dados e a identificar possíveis padrões ou anomalias.
+2. - Medidas de dispersão relativa:  - Coeficiente de variação;  - Coeficiente de assimetria;  - Coeficiente de curtose.
+As medidas de dispersão absoluta e relativa são usadas na estatística para examinar o grau de dispersão ou variação dos dados em relação à média.
+
+A medida de dispersão absoluta mais comum é a amplitude, que é a diferença entre o valor máximo e mínimo de um conjunto de dados. A amplitude fornece uma ideia geral da variação dos dados, mas é sensível a valores extremos e não leva em consideração a distribuição dos dados ao longo da escala.
+
+Outra medida de dispersão absoluta é o desvio padrão, que é a média das diferenças entre cada valor de dados e a média. O desvio padrão fornece uma medida mais precisa da dispersão dos dados, levando em consideração a distância de cada valor em relação à média. Valores maiores de desvio padrão indicam maior dispersão dos dados.
+
+A variância é outra medida de dispersão absoluta, que é o quadrado do desvio padrão. A vantagem da variância é que ela fornece uma medida da dispersão ponderada, atribuindo maior peso a valores mais distantes da média.
+
+Para obter uma medida de dispersão relativa, podemos usar o coeficiente de variação, que é o desvio padrão dividido pela média e multiplicado por 100. O coeficiente de variação permite comparar a dispersão dos dados em diferentes conjuntos, independentemente dos valores absolutos.
+
+Em resumo, as medidas de dispersão absoluta, como amplitude, desvio padrão e variância, fornecem uma ideia da variação dos dados em termos absolutos. Já as medidas de dispersão relativa, como o coeficiente de variação, permitem comparar a dispersão dos dados em diferentes conjuntos e fornecem uma perspectiva relativa da dispersão dos dados.
+

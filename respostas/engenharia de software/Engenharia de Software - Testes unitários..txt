@@ -1,0 +1,25 @@
+Item do edital: Engenharia de Software - Testes unitários.
+ 
+1. - Importância dos testes unitários  - Benefícios dos testes unitários  - Papel dos testes unitários no desenvolvimento de software- Conceitos básicos de testes unitários  - Definição de testes unitários  - Características dos testes unitários  - Princípios dos testes unitários- Frameworks de testes unitários  - Exemplos de frameworks de testes unitários (JUnit, NUnit, PHPUnit)  - Funcionalidades dos frameworks de testes unitários  - Como utilizar frameworks de testes unitários- Estratégias de teste  - Teste de caixa branca  - Teste de caixa preta  - Teste de caixa cinza- Técnicas de teste  - Teste de unidade  - Teste de integração  - Teste de regressão  - Teste de cobertura de código- Boas práticas de testes unitários  - Escrever testes independentes e isolados  - Utilizar mocks e stubs  - Manter os testes atualizados  - Automatizar os testes unitários- Desafios e problemas comuns nos testes unitários  - Testes lentos e demorados  - Testes quebrados ou falhando  - Dificuldade em testar código legado  - Dependências externas nos testes unitários
+Como especialista em Engenharia de Software, posso compartilhar algumas informações sobre testes unitários.
+
+Os testes unitários são uma prática crucial na Engenharia de Software, pois ajudam a garantir a qualidade do código produzido. Eles são realizados em nível de unidade, ou seja, testam cada unidade isolada do sistema, como funções, métodos ou classes.
+
+Existem várias bibliotecas e frameworks disponíveis para auxiliar no desenvolvimento de testes unitários, como JUnit para Java, XCTest para Swift e NUnit para .NET. Essas ferramentas fornecem recursos para escrever casos de teste, executá-los e relatar os resultados.
+
+Ao escrever testes unitários, é importante considerar os seguintes pontos:
+
+1. Cobertura de código: Procure garantir que todos os trechos de código sejam testados, incluindo casos de sucesso e falha. Isso ajuda a identificar possíveis bugs e lacunas de funcionalidade.
+
+2. Testes automatizados: Automatizar os testes permite executá-los repetidamente e rapidamente, o que ajuda a detectar regressões e facilita a integração contínua.
+
+3. Testes independentes: Cada teste unitário deve ser independente dos outros, ou seja, não deve depender do resultado de outro teste. Isso garante a confiabilidade dos resultados e facilita a manutenção dos testes.
+
+4. Testes abrangentes: Certifique-se de testar todos os caminhos possíveis dentro da unidade. Isso inclui testar casos extremos, como entradas vazias, valores nulos ou limites de entrada.
+
+5. Boas práticas de codificação: Aplicar boas práticas de codificação também é importante nos testes unitários. Isso inclui usar nomes claros para os testes, manter os testes concisos e legíveis e evitar código duplicado.
+
+6. Integração com outras práticas de teste: Os testes unitários devem ser complementados por outros tipos de testes, como testes de integração, testes de sistema e testes de aceitação, para obter uma cobertura completa dos requisitos e funcionalidades do aplicativo.
+
+Em resumo, os testes unitários são uma parte essencial do processo de desenvolvimento de software e ajudam a garantir a qualidade do código. Seguir as boas práticas ao escrever testes unitários contribui para a confiabilidade e manutenibilidade do software.
+

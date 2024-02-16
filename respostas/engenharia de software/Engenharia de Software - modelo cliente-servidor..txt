@@ -1,0 +1,67 @@
+Item do edital: Engenharia de Software - modelo cliente-servidor.
+ 
+1. Conceitos básicos de Engenharia de Software, Definição de Engenharia de Software, Processos de Engenharia de Software, Princípios da Engenharia de Software
+A engenharia de software é uma disciplina que se destaca no desenvolvimento e no gerenciamento de sistemas de software complexos e confiáveis. Ela envolve a aplicação de princípios e práticas de engenharia na construção, no teste e na manutenção de sistemas de software.
+
+Um dos modelos mais comuns utilizados na engenharia de software é o modelo cliente-servidor. Nesse modelo, o software é dividido em duas partes distintas: o cliente e o servidor.
+
+O cliente é a parte do sistema que faz solicitações de serviços ao servidor. Ele pode ser um aplicativo de desktop, um aplicativo para dispositivos móveis ou um aplicativo web. O cliente é responsável por fornecer uma interface de usuário e interagir com o usuário final.
+
+O servidor é a parte do sistema que recebe as solicitações do cliente, processa-as e retorna as respostas adequadas. Ele geralmente executa em um ambiente de servidor dedicado e é responsável por armazenar e gerenciar os dados do sistema, realizar cálculos complexos ou processar lógica de negócios.
+
+O modelo cliente-servidor permite que várias instâncias de cliente se conectem ao servidor simultaneamente e compartilhem recursos e informações. Isso torna o modelo escalável, flexível e eficiente, pois as tarefas podem ser distribuídas e executadas em paralelo.
+
+Existem diferentes arquiteturas de software que podem ser utilizadas no modelo cliente-servidor, como a arquitetura de três camadas (cliente, servidor de aplicação e servidor de banco de dados) ou a arquitetura orientada a serviços (SOA), em que os serviços são expostos pelo servidor e podem ser consumidos pelo cliente.
+
+A engenharia de software aplicada ao modelo cliente-servidor envolve a definição e o design das interfaces entre o cliente e o servidor, a implementação das funcionalidades e a garantia de que o sistema seja confiável, seguro, escalável e de fácil manutenção.
+
+Além disso, é importante considerar a comunicação entre o cliente e o servidor, que pode ser feita por meio de protocolos de rede como TCP/IP ou HTTP, e a segurança, com medidas como autenticação e criptografia para proteger a integridade e a confidencialidade dos dados.
+
+Em resumo, a engenharia de software aplicada ao modelo cliente-servidor envolve o design, a implementação e o gerenciamento de sistemas de software que são divididos em partes cliente e servidor, permitindo a comunicação e o compartilhamento de recursos entre eles. Esse modelo é amplamente utilizado em diversas aplicações, desde sites e aplicativos até sistemas de gestão empresarial.
+2. Modelo cliente-servidor, Definição e características do modelo cliente-servidor, Componentes do modelo cliente-servidor, Vantagens e desvantagens do modelo cliente-servidor
+A Engenharia de Software é a disciplina que estuda a criação e manutenção de sistemas de software de forma sistemática e eficiente. Um dos modelos arquiteturais mais comuns é o modelo cliente-servidor.
+
+No modelo cliente-servidor, o software é dividido em duas partes principais: o cliente e o servidor. O cliente é responsável por solicitar e receber serviços do servidor, enquanto o servidor é responsável por processar essas solicitações e fornecer os serviços solicitados.
+
+O cliente e o servidor podem estar em máquinas diferentes e se comunicam por meio de uma rede, como a internet. O cliente geralmente é uma interface de usuário, como um aplicativo ou um navegador da web, que permite ao usuário interagir com o sistema. O servidor é responsável por realizar as tarefas de processamento de dados e fornecer os resultados ao cliente.
+
+Essa arquitetura oferece várias vantagens, como a capacidade de distribuir a carga de processamento entre vários servidores, permitir a escalabilidade do sistema e possibilitar a atualização do software sem afetar os clientes. Além disso, o modelo cliente-servidor permite a implementação de sistemas que podem ser acessados de diferentes dispositivos, como desktops, laptops, smartphones e tablets.
+
+No entanto, também há desafios associados a esse modelo, como a necessidade de gerenciar a segurança dos dados transmitidos entre o cliente e o servidor, garantir a disponibilidade e escalabilidade do servidor e lidar com problemas de latência na comunicação entre os dois.
+
+A Engenharia de Software desempenha um papel fundamental no desenvolvimento de sistemas cliente-servidor, ajudando a projetar, implementar e testar as diferentes partes do sistema, além de garantir a qualidade e a eficiência do software. Portanto, é importante que os engenheiros de software tenham um bom entendimento do modelo cliente-servidor e sejam capazes de aplicar os princípios e técnicas adequadas para desenvolver sistemas eficientes e confiáveis nessa arquitetura.
+3. Arquitetura de software no modelo cliente-servidor, Camadas da arquitetura cliente-servidor, Comunicação entre cliente e servidor, Protocolos utilizados no modelo cliente-servidor
+A engenharia de software é uma disciplina que trata da aplicação de princípios e práticas para o desenvolvimento de softwares de alta qualidade. Um dos modelos arquiteturais mais comuns na engenharia de software é o modelo cliente-servidor.
+
+No modelo cliente-servidor, os sistemas são divididos em duas partes principais: o cliente e o servidor. O cliente é responsável por solicitar serviços ou recursos ao servidor, enquanto o servidor é responsável por processar essas solicitações e fornecer as respostas correspondentes.
+
+Nesse modelo, o cliente e o servidor se comunicam por meio de uma rede, geralmente a internet. O cliente envia uma solicitação ao servidor, que por sua vez processa a solicitação e envia uma resposta de volta ao cliente.
+
+Existem várias vantagens em utilizar o modelo cliente-servidor na engenharia de software. Uma delas é a modularidade, pois as funcionalidades são divididas entre o cliente e o servidor, facilitando a manutenção e atualização do sistema. Além disso, o modelo permite o compartilhamento de recursos entre vários clientes de forma eficiente.
+
+No entanto, é importante destacar que o sucesso da aplicação do modelo cliente-servidor depende de uma boa arquitetura e do uso adequado de protocolos de comunicação, como o HTTP. Também é importante considerar aspectos como escalabilidade, segurança e disponibilidade do sistema.
+
+Em resumo, o modelo cliente-servidor é amplamente utilizado na engenharia de software para desenvolver sistemas distribuídos e redes de computadores, permitindo a comunicação eficiente entre os clientes e o servidor.
+4. Desenvolvimento de software no modelo cliente-servidor, Linguagens de programação utilizadas, Ferramentas e frameworks para desenvolvimento cliente-servidor, Boas práticas de desenvolvimento no modelo cliente-servidor
+A engenharia de software é uma disciplina que envolve a aplicação de princípios e métodos científicos para o desenvolvimento e manutenção de software de alta qualidade. Um dos modelos mais comuns de arquitetura de software é o modelo cliente-servidor.
+
+No modelo cliente-servidor, o sistema é dividido em duas partes distintas: o cliente e o servidor. O cliente é responsável por solicitar e fazer requisições ao servidor, enquanto o servidor é responsável por processar essas requisições e fornecer os serviços solicitados pelo cliente.
+
+Existem várias vantagens no uso do modelo cliente-servidor na engenharia de software. Uma delas é a distribuição de carga, onde o processamento é dividido entre o cliente e o servidor, permitindo melhor desempenho e escalabilidade. Além disso, o modelo oferece maior flexibilidade e modularidade na implementação do sistema, permitindo que o cliente e o servidor sejam desenvolvidos e atualizados independentemente um do outro.
+
+Na arquitetura cliente-servidor, a comunicação entre o cliente e o servidor geralmente ocorre por meio de protocolos de rede, como o HTTP ou o TCP/IP. O cliente envia uma solicitação ao servidor, que a processa e envia uma resposta de volta ao cliente. Essa troca de informações pode ser feita de forma síncrona, onde o cliente espera pela resposta do servidor antes de continuar, ou de forma assíncrona, onde o cliente pode continuar a executar outras tarefas enquanto aguarda a resposta do servidor.
+
+A arquitetura cliente-servidor é amplamente utilizada em uma variedade de aplicações, desde sistemas web até sistemas distribuídos. É uma abordagem eficaz para a implementação de sistemas escaláveis e robustos, permitindo a separação de responsabilidades entre o cliente e o servidor. No entanto, é importante considerar as características e requisitos específicos do sistema ao escolher o modelo cliente-servidor como arquitetura.
+5. Segurança no modelo cliente-servidor, Principais ameaças e vulnerabilidades, Medidas de segurança para proteção do sistema cliente-servidor, Autenticação e autorização no modelo cliente-servidor
+A engenharia de software é uma disciplina que se dedica ao desenvolvimento de softwares de alta qualidade, seguros e confiáveis. O modelo cliente-servidor é um dos principais modelos arquiteturais utilizados nessa área.
+
+Nesse modelo, o software é dividido em duas partes principais: o cliente e o servidor. O cliente é a interface com a qual o usuário interage, enquanto o servidor é a parte que processa as requisições dos clientes e fornece os recursos necessários.
+
+O modelo cliente-servidor possui várias vantagens. Uma delas é a escalabilidade, pois é possível adicionar mais servidores para lidar com um maior número de requisições de clientes. Além disso, o modelo permite uma maior modularidade e flexibilidade no desenvolvimento do software.
+
+No entanto, o modelo também apresenta desafios. Um deles é garantir a segurança das comunicações entre cliente e servidor, já que essas informações podem ser sensíveis e precisam ser protegidas. Além disso, a latência na comunicação entre cliente e servidor pode ser um problema em sistemas distribuídos.
+
+Existem várias tecnologias e protocolos que podem ser utilizados na implementação do modelo cliente-servidor, como por exemplo HTTP, TCP/IP, REST e SOAP. O desenvolvimento nesse modelo requer conhecimento de linguagens de programação, protocolos de comunicação, bancos de dados e outras ferramentas e tecnologias relacionadas.
+
+Em resumo, a engenharia de software no modelo cliente-servidor envolve projetar, desenvolver e implementar sistemas que possuam uma arquitetura dividida entre cliente e servidor, permitindo uma interação eficiente e segura entre eles.
+

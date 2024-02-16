@@ -1,0 +1,31 @@
+Item do edital: Java- tratamento de exceções.
+ 
+1. Tratamento de exceções em Java, O que são exceções em Java, Tipos de exceções em Java, Bloco try-catch, Bloco finally, Lançamento de exceções, Tratamento de exceções específicas, Tratamento de exceções genéricas, Hierarquia de exceções em Java, Exceções verificadas e não verificadas, Propagação de exceções, Criação de exceções personalizadas, Boas práticas no tratamento de exceções em Java
+Como especialista em Java, vou explicar o tratamento de exceções nessa linguagem.
+
+Em Java, exceções são eventos que indicam condições anormais que ocorrem durante a execução de um programa. O tratamento de exceções é uma forma de lidar com essas situações e evitar que o programa pare de funcionar abruptamente.
+
+Existem dois tipos principais de exceções em Java: exceções verificadas e exceções não verificadas. Exceções verificadas são aquelas que precisam ser tratadas ou declaradas no código. Exemplos comuns de exceções verificadas são IOException e SQLException. Já as exceções não verificadas são aquelas que não precisam ser tratadas ou declaradas. Exemplos comuns de exceções não verificadas são NullPointerException e ArrayIndexOutOfBoundsException.
+
+O tratamento de exceções em Java é feito utilizando os blocos try, catch e finally. O bloco try é onde o código arriscado é colocado, ou seja, o código que pode lançar uma exceção. Dentro do bloco try, você pode ter várias instruções que podem lançar exceções.
+
+Após o bloco try, você pode ter um ou mais blocos catch. Cada bloco catch trata um tipo específico de exceção. Dentro de um bloco catch, você pode tratar a exceção de acordo com a necessidade do seu programa, como exibir uma mensagem de erro ou tomar uma ação específica.
+
+Além disso, é possível ter um bloco finally opcional. O bloco finally é executado sempre, independentemente de ter ocorrido uma exceção ou não. É útil para liberar recursos, como fechar conexões de banco de dados ou liberar arquivos, independentemente do resultado do bloco try.
+
+Aqui está um exemplo básico de tratamento de exceções em Java:
+
+try {
+   // Código arriscado que pode lançar exceção
+} catch (Excecao1 e1) {
+   // Tratamento para exceção 1
+} catch (Excecao2 e2) {
+   // Tratamento para exceção 2
+} finally {
+   // Código a ser executado sempre
+}
+
+É importante lembrar que o tratamento de exceções em Java não é obrigatório. Se você não tratar uma exceção verificada, será necessário declará-la na assinatura do método ou adicionar a cláusula throws para indicar que essa exceção pode ser lançada pelo método.
+
+Em resumo, o tratamento de exceções em Java é essencial para garantir que um programa possa lidar com situações inesperadas e continuar funcionando de forma adequada. Através dos blocos try, catch e finally, é possível tratar diferentes tipos de exceções e definir ações específicas para cada caso.
+

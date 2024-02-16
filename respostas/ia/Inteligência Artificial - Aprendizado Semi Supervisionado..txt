@@ -1,0 +1,69 @@
+Item do edital: Inteligência Artificial - Aprendizado Semi Supervisionado.
+ 
+1. Introdução à Inteligência Artificial, Definição de Inteligência Artificial, História da Inteligência Artificial, Aplicações da Inteligência Artificial
+No campo da inteligência artificial, o aprendizado semi-supervisionado é uma abordagem intermediária entre o aprendizado supervisionado e o aprendizado não supervisionado. Nesta técnica, um modelo de IA é treinado com um conjunto de dados que contém algumas instâncias rotuladas (dados de treinamento) e algumas instâncias não rotuladas (dados não rotulados).
+
+O objetivo do aprendizado semi-supervisionado é aproveitar as informações contidas nos dados não rotulados para melhorar o desempenho do modelo. A ideia é que, ao combinar informações das instâncias rotuladas e não rotuladas durante o treinamento, o modelo seja capaz de aprender padrões e realizar previsões mais precisas.
+
+Existem várias abordagens para realizar o aprendizado semi-supervisionado. Uma técnica comum é a propagação de rótulos, que consiste em atribuir rótulos para as instâncias não rotuladas com base em sua proximidade com as instâncias rotuladas. Outra abordagem é o treinamento do modelo em duas etapas, onde inicialmente é treinado com os dados rotulados e depois refinado com os dados não rotulados.
+
+O aprendizado semi-supervisionado é usado em muitas aplicações de IA, onde o custo de rotulação dos dados pode ser alto ou a disponibilidade de dados rotulados pode ser limitada. Com essa abordagem, é possível obter melhores resultados de previsão, aproveitando ao máximo todas as informações disponíveis.
+
+No entanto, é importante destacar que o aprendizado semi-supervisionado também apresenta desafios e limitações. Como o modelo está aprendendo com dados não rotulados, pode haver um risco maior de introduzir erros nos dados de treinamento. Além disso, a eficácia dessa abordagem depende da quantidade e qualidade dos dados não rotulados disponíveis.
+
+Em resumo, o aprendizado semi-supervisionado é uma técnica promissora para melhorar o desempenho dos modelos de IA, utilizando informações de dados rotulados e não rotulados. É uma área de pesquisa ativa e continua a evoluir como uma ferramenta importante no campo da inteligência artificial.
+2. Aprendizado de Máquina, Definição de Aprendizado de Máquina, Tipos de Aprendizado de Máquina (Supervisionado, Não Supervisionado, Semi Supervisionado), Algoritmos de Aprendizado de Máquina
+Aprendizado semi-supervisionado é uma área de estudo da inteligência artificial que combina elementos do aprendizado supervisionado (em que o modelo é treinado com exemplos rotulados) e do aprendizado não supervisionado (em que o modelo é treinado com exemplos não rotulados).
+
+Nesse tipo de aprendizado, parte dos dados de treinamento é rotulada, enquanto a outra parte é não rotulada. A ideia por trás disso é que ter apenas dados rotulados pode ser limitante, especialmente quando rotular os dados é caro e demorado. A inclusão de dados não rotulados pode ajudar a melhorar o desempenho do modelo, permitindo que ele faça generalizações mais precisas e se adapte melhor a diferentes situações.
+
+Existem várias técnicas de aprendizado semi-supervisionado que podem ser aplicadas, como:
+
+1. Propagação de rótulo: essa técnica atribui rótulos aos dados não rotulados com base nas informações fornecidas pelos dados rotulados mais próximos. Assim, o modelo aprende com os dados rotulados e usa essa informação para inferir os rótulos dos dados não rotulados.
+
+2. Modelos generativos: esses modelos são usados para construir um modelo probabilístico que representa a distribuição conjunta dos dados rotulados e não rotulados. Com base nesse modelo, é possível fazer inferências sobre os rótulos dos dados não rotulados.
+
+3. Co-teaching: nessa abordagem, dois modelos são treinados em conjunto, cada um com um conjunto diferente de exemplos rotulados. Durante o treinamento, os modelos compartilham informações sobre os exemplos rotulados que o outro modelo teve um bom desempenho, ajudando assim a melhorar a generalização.
+
+O aprendizado semi-supervisionado tem encontrado aplicações em diferentes áreas, como processamento de texto, visão computacional e reconhecimento de fala. Essas técnicas permitem que se aproveite ao máximo os dados disponíveis, tornando o processo de treinamento mais eficiente e eficaz.
+3. Aprendizado Semi Supervisionado, Definição de Aprendizado Semi Supervisionado, Vantagens e Desvantagens do Aprendizado Semi Supervisionado, Algoritmos de Aprendizado Semi Supervisionado
+A aprendizagem semi supervisionada é uma abordagem na área de inteligência artificial que visa combinar elementos de aprendizado supervisionado e não supervisionado para treinar um modelo de forma mais eficiente.
+
+No aprendizado supervisionado, o modelo é treinado usando um conjunto de dados rotulados, ou seja, cada exemplo de entrada tem uma classe atribuída. Já no aprendizado não supervisionado, não há rotulagem, e o modelo precisa encontrar agrupamentos ou padrões nos dados por conta própria.
+
+No aprendizado semi supervisionado, utilizamos um conjunto de dados contendo tanto exemplos rotulados quanto não rotulados. O objetivo é aproveitar a informação dos exemplos rotulados para guiar o processo de aprendizado nos exemplos não rotulados, aproveitando ao máximo os recursos disponíveis.
+
+Existem várias abordagens para o aprendizado semi supervisionado, incluindo algoritmos de propagação de rótulos, algoritmos de co-normalização e métodos baseados em grafos.
+
+Uma das principais vantagens do aprendizado semi supervisionado é que ele pode ser útil quando temos poucos dados rotulados e muitos dados não rotulados. Isso ocorre porque rotular dados pode ser uma tarefa cara e demorada que requer especialistas humanos. Portanto, aproveitar os dados não rotulados ajuda a melhorar o desempenho do modelo.
+
+No entanto, uma desvantagem da abordagem semi supervisionada é que ela pode ser sensível à qualidade dos dados não rotulados. Se esses dados forem ruidosos ou conterem outliers, eles podem afetar negativamente o desempenho do modelo.
+
+Em resumo, o aprendizado semi supervisionado é uma abordagem na inteligência artificial que combina elementos de aprendizado supervisionado e não supervisionado para treinar modelos de forma mais eficiente, aproveitando tanto os dados rotulados quanto os não rotulados. É uma maneira de lidar com situações em que rotular todos os dados pode ser impraticável, custoso ou demorado.
+4. Aplicações do Aprendizado Semi Supervisionado, Classificação de Texto, Detecção de Anomalias, Segmentação de Imagens
+Aprendizado Semi Supervisionado é uma abordagem na área de Inteligência Artificial que combina elementos de aprendizado supervisionado e não supervisionado. Nesse tipo de aprendizado, temos um conjunto de dados rotulados (aprendizado supervisionado) e um conjunto de dados não rotulados (aprendizado não supervisionado).
+
+A principal ideia por trás do aprendizado semi supervisionado é que, ao utilizar um pequeno conjunto de dados rotulados, podemos aproveitar informações e padrões presentes nos dados não rotulados para melhorar o desempenho do modelo de aprendizado.
+
+O aprendizado semi supervisionado é útil em situações em que rotular um grande conjunto de dados pode ser caro, demorado ou impraticável. Nesses casos, podemos usar os dados não rotulados, que geralmente são mais abundantes, para aprender características latentes ou identificar padrões que possam ajudar a melhorar as previsões do modelo.
+
+Existem diversas abordagens e algoritmos utilizados no aprendizado semi supervisionado, como o Self-Training, onde o modelo é treinado com os dados rotulados e, em seguida, é aplicado aos dados não rotulados para rotulá-los; o Co-Training, onde diferentes fontes de dados são utilizadas para treinar modelos independentes, que depois são combinados para fazer as previsões; e o Label Propagation, que propaga os rótulos conhecidos para os dados não rotulados com base em sua similaridade com os dados rotulados.
+
+Embora o aprendizado semi supervisionado possa trazer benefícios significativos em algumas situações, é importante ressaltar que ele também apresenta desafios e limitações. Por exemplo, a qualidade dos rótulos iniciais pode afetar o desempenho do modelo e a propagação incorreta de rótulos pode levar a resultados imprecisos.
+
+Por fim, o aprendizado semi supervisionado é uma área de pesquisa ativa e em constante evolução na Inteligência Artificial, com aplicações em diversas áreas, como reconhecimento de fala, processamento de texto e visão computacional.
+5. Desafios e Futuro do Aprendizado Semi Supervisionado, Limitações do Aprendizado Semi Supervisionado, Avanços Recentes no Aprendizado Semi Supervisionado, Perspectivas Futuras do Aprendizado Semi Supervisionado
+Aprendizado semi-supervisionado é uma abordagem utilizada no campo da inteligência artificial para treinar algoritmos de aprendizado de máquina com um conjunto de dados que contém tanto exemplos rotulados quanto não rotulados. 
+
+No aprendizado supervisionado tradicional, todos os dados de treinamento são rotulados, ou seja, cada exemplo tem uma classe ou categoria correta associada a ele. No entanto, em muitas situações, pode ser difícil ou caro rotular todos os dados disponíveis. É aí que o aprendizado semi-supervisionado entra em jogo.
+
+Nesse contexto, apenas uma pequena quantidade de exemplos é rotulada e o restante dos dados é não rotulado. O algoritmo é treinado usando os exemplos rotulados e busca induzir uma função de classificação para atribuir rótulos aos exemplos não rotulados. 
+
+Existem várias técnicas e abordagens diferentes no aprendizado semi-supervisionado. Alguns métodos são baseados em modelos generativos, onde um modelo é ajustado aos dados rotulados e não rotulados para estimar a distribuição subjacente dos dados. Outros métodos são baseados em propagação de rótulos, onde os rótulos dos exemplos rotulados são propagados para os exemplos não rotulados com base em sua semelhança.
+
+O aprendizado semi-supervisionado é útil em situações em que rotular um grande volume de dados é caro ou demorado. Ele também pode ajudar a melhorar a precisão de um modelo de aprendizado de máquina, pois pode aproveitar a informação contida nos dados não rotulados.
+
+No entanto, é importante ter cuidado ao usar técnicas de aprendizado semi-supervisionado, pois a qualidade das previsões pode depender da qualidade dos exemplos rotulados e da representatividade dos exemplos não rotulados. Além disso, a escolha adequada do método semi-supervisionado e seus parâmetros também é um fator importante para obter bons resultados.
+
+Em suma, o aprendizado semi-supervisionado é uma técnica útil na área de inteligência artificial para treinar algoritmos com dados rotulados e não rotulados, permitindo aproveitar informações adicionais e reduzir custos de rotulagem.
+

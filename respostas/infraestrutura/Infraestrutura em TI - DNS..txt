@@ -1,0 +1,97 @@
+Item do edital: Infraestrutura em TI - DNS.
+ 
+1. Introdução ao DNS, O que é DNS?, Como funciona o DNS?, Importância do DNS na infraestrutura de TI
+Infraestrutura de TI (Tecnologia da Informação) é o conjunto de recursos físicos e virtuais necessários para suportar diferentes processos de uma organização. O DNS (Domain Name System) é um dos componentes importantes dessa infraestrutura.
+
+O DNS é responsável por traduzir nomes de domínio em endereços IP, permitindo que os usuários acessem sites e serviços da internet usando nomes facilmente identificáveis em vez de endereços numéricos. Ele permite que os usuários digitem um nome de domínio, como www.exemplo.com, e sejam automaticamente direcionados ao endereço IP correto do servidor onde o site está hospedado.
+
+A infraestrutura de DNS consiste em servidores de DNS, distribuídos em diferentes partes do mundo, que trabalham em conjunto para fornecer a resolução de nomes de domínio. Esses servidores são hierarquicamente organizados em zonas, sendo a zona raiz o ponto mais alto da hierarquia.
+
+Existem diferentes tipos de servidores DNS, incluindo:
+
+1. Servidores raiz: são os servidores localizados no topo da hierarquia do DNS e são responsáveis por fornecer informações sobre os servidores autoritativos para os domínios de nível superior.
+2. Servidores autoritativos: são os servidores responsáveis por armazenar as informações do DNS para um domínio específico. Eles mantêm registros, como registros de recursos (A, AAAA, CNAME, MX, etc.), que associam nomes de domínio a endereços IP e outros recursos.
+3. Servidores de cache: são servidores que armazenam em cache as respostas do DNS para acelerar as consultas subsequentes. Eles ajudam a reduzir a carga nos servidores autoritativos e melhorar a latência na resolução de nomes.
+
+Além disso, existem também diversos protocolos e tecnologias relacionadas a infraestrutura de DNS, como o protocolo DNSSEC (para garantir a autenticidade e integridade dos dados DNS) e o DNS anycast (para distribuir o tráfego de DNS entre servidores réplicas em diferentes localidades geográficas).
+
+A infraestrutura de DNS é fundamental para o funcionamento da internet, permitindo a comunicação eficiente entre os dispositivos e serviços online. É importante garantir a disponibilidade, segurança e escalabilidade dessa infraestrutura para garantir a experiência do usuário.
+2. Componentes do DNS, Servidores DNS, Zonas DNS, Registros DNS
+A infraestrutura de TI é um conjunto de componentes, processos e tecnologias que suportam a operação de sistemas de informação em uma organização. O DNS (Domain Name System) é um dos componentes principais da infraestrutura de TI.
+
+O DNS é um sistema hierárquico de nomenclatura de domínio usado para traduzir nomes de domínio legíveis por humanos em endereços IP. Em outras palavras, ele é responsável por atribuir um nome de domínio, como www.exemplo.com, a um endereço IP numérico, como 192.168.0.1.
+
+Ao fazer uma solicitação para um nome de domínio, seu dispositivo envia essa solicitação para um servidor DNS. Esse servidor, por sua vez, consultará outros servidores DNS para obter a resolução do nome de domínio. Se o servidor encontrar o endereço IP associado ao nome de domínio, ele retornará essa informação para o dispositivo solicitante.
+
+A infraestrutura do DNS inclui vários componentes, como servidores DNS primários e secundários, zonas de DNS, registros DNS (como A, MX, CNAME, etc.) e tecnologias como DNSSEC (segurança de DNS) e Anycast (redirecionamento geográfico).
+
+A implementação e a manutenção adequadas da infraestrutura de DNS são cruciais para garantir um acesso confiável e seguro à internet e aos sistemas de uma organização. Isso inclui o gerenciamento correto dos registros DNS, a atualização regular dos servidores DNS com as informações mais recentes e a implementação de medidas de segurança adequadas, como o uso de DNSSEC para prevenir ataques de envenenamento DNS.
+
+Além disso, a infraestrutura de DNS é fundamental para a operação de outros serviços de rede, como e-mails, servidores web, VPNs e muito mais. A implementação de uma infraestrutura de DNS eficiente e bem projetada é vital para garantir a disponibilidade e a confiabilidade desses serviços.
+3. Tipos de Servidores DNS, Servidor DNS primário, Servidor DNS secundário, Servidor DNS cache
+DNS, ou Domain Name System, é um sistema de gerenciamento de nomes de domínio na Internet. Ele permite que os usuários acessem recursos on-line usando nomes de domínio em vez de endereços IP. O DNS é uma infraestrutura crítica para a Internet, pois ajuda a traduzir nomes de domínio legíveis por humanos em endereços IP que os computadores podem entender.
+
+O DNS funciona através de uma hierarquia de servidores, chamados de servidores DNS. Esses servidores são responsáveis por armazenar e servir informações sobre os nomes de domínio registrados. Existem diferentes tipos de servidores DNS, incluindo servidores primários, servidores secundários e servidores raiz.
+
+O servidor DNS primário é responsável por armazenar as informações de zona de um domínio específico e responder às consultas DNS. Ele também é responsável por atualizar e propagar essas informações para outros servidores secundários.
+
+Os servidores secundários são cópias de segurança do servidor primário. Eles também armazenam informações de zona, mas sua função principal é fornecer redundância e distribuir a carga de consultas DNS.
+
+Os servidores raiz são os servidores no topo da hierarquia DNS. Eles são responsáveis por direcionar as consultas para os servidores de TLD (Top-Level Domain), como .com, .org, etc. Esses servidores TLD, por sua vez, direcionam as consultas para os servidores autoritativos, que possuem as informações específicas sobre um domínio.
+
+Além disso, o DNS também permite a implementação de registros adicionais, como registros MX para gerenciar o envio de e-mails, registros SPF para autenticação de e-mails, registros SRV para serviços específicos, registros TXT para informações adicionais, entre outros.
+
+Em resumo, o DNS é uma infraestrutura essencial na Internet que traduz nomes de domínio em endereços IP. Ele funciona através de uma hierarquia de servidores DNS e possibilita o gerenciamento de diversos registros adicionais para diferentes finalidades. É uma ferramenta fundamental para a comunicação na Internet.
+4. Resolução de Nomes, Consulta recursiva, Consulta iterativa, Caching de consultas
+A infraestrutura de TI é composta por uma série de componentes e tecnologias, incluindo redes, servidores, sistemas operacionais, armazenamento de dados, segurança, entre outros. O DNS (Domain Name System) é um componente chave na infraestrutura de TI, sendo responsável por traduzir nomes de domínio em endereços IP.
+
+O DNS permite que os usuários acessem sites ou serviços online digitando um nome de domínio fácil de lembrar, em vez de terem que digitar um endereço IP numérico. Por exemplo, em vez de digitar "http://216.58.204.110" para acessar o Google, podemos simplesmente digitar "www.google.com".
+
+O DNS funciona usando uma hierarquia de servidores DNS distribuídos em todo o mundo. Quando um usuário digita um nome de domínio em um navegador, o computador faz uma consulta aos servidores DNS locais para obter o endereço IP correspondente ao nome de domínio. Se o servidor DNS local não souber a resposta, ele consulta outros servidores DNS na hierarquia até encontrar a resposta correta. Por fim, o endereço IP é retornado para o computador do usuário, permitindo que a comunicação ocorra.
+
+Além da tradução de nomes de domínio, o DNS também desempenha um papel importante na segurança da infraestrutura de TI. Por exemplo, o DNS pode ser usado para bloquear o acesso a sites maliciosos conhecidos, direcionando solicitações para um endereço IP diferente ou bloqueando a resolução DNS completamente.
+
+Em resumo, o DNS é um componente essencial da infraestrutura de TI, permitindo a tradução de nomes de domínio em endereços IP para possibilitar o acesso a sites e serviços online. Além disso, o DNS também desempenha um papel importante na segurança da infraestrutura de TI, ajudando a bloquear o acesso a sites maliciosos conhecidos.
+5. Configuração do DNS, Configuração de servidores DNS, Configuração de zonas DNS, Configuração de registros DNS
+A infraestrutura em TI relacionada ao DNS (Domain Name System) envolve todos os componentes e processos necessários para garantir a resolução de nomes de domínio em endereços IP. O DNS é uma parte fundamental da infraestrutura de internet e é responsável por traduzir nomes de domínio legíveis para os seres humanos em endereços IP numéricos que os computadores possam entender.
+
+A infraestrutura de DNS inclui os seguintes componentes:
+
+1. Servidores DNS: são os principais componentes da infraestrutura DNS. Há dois tipos principais de servidores DNS: servidores autoritativos e servidores recursivos. Os servidores autoritativos têm a função de armazenar informações sobre os domínios que são responsáveis. Os servidores recursivos realizam consultas em nome dos clientes, buscando informações de outros servidores DNS para obter respostas.
+
+2. Zonas DNS: são áreas de controle dentro de um domínio que contêm informações sobre os registros DNS relacionados. Cada zona contém informações sobre o domínio principal e seus subdomínios, bem como os registros DNS associados, como registros A, CNAME, MX, etc.
+
+3. Registros DNS: são as entradas individuais em uma zona DNS que contêm as informações específicas para a resolução de nomes. Os registros mais comuns incluem registros A (que associam nomes de domínio a endereços IP), registros MX (que apontam para os servidores de e-mail associados ao domínio), registros CNAME (que fornecem alias para outros nomes de domínio) e registros TXT (que contêm informações adicionais sobre um domínio).
+
+4. Servidores de nome raiz: são os servidores DNS de nível mais alto na hierarquia do DNS. Eles são responsáveis por direcionar consultas para os servidores autoritativos de cada domínio para que as respostas corretas possam ser obtidas.
+
+5. Resolução de nomes: é o processo de tradução de nomes de domínio em endereços IP. O processo envolve a consulta sucessiva de servidores DNS até que o endereço IP correto seja encontrado.
+
+Além desses componentes, a infraestrutura em TI relacionada ao DNS também envolve protocolos de comunicação, como o protocolo UDP (User Datagram Protocol) e o protocolo TCP (Transmission Control Protocol), que permitem a transmissão de informações de consulta e resposta entre os servidores DNS.
+
+Garantir uma infraestrutura de DNS eficiente e confiável é fundamental para garantir o funcionamento adequado das operações da internet, como a navegação na web, a entrega de e-mails e a resolução correta de nomes de domínio.
+6. Segurança no DNS, DNSSEC, Proteção contra ataques de negação de serviço (DDoS), Proteção contra ataques de envenenamento de cache
+A infraestrutura de DNS (Domain Name System) em TI é uma parte essencial da arquitetura da rede e tem como objetivo facilitar a comunicação entre os dispositivos conectados à internet. O DNS é responsável por converter os nomes de domínio dos sites em endereços IP, possibilitando a localização dos servidores onde as páginas estão hospedadas.
+
+A infraestrutura de DNS é composta por diversos elementos, incluindo servidores DNS, registros DNS, zonas de DNS e protocolos de comunicação. Os servidores DNS são responsáveis por armazenar as informações sobre os nomes de domínio e seus respectivos endereços IP. Existem diferentes tipos de servidores DNS, como servidores primários e servidores secundários, que trabalham juntos para garantir a disponibilidade e a redundância dos serviços.
+
+Os registros DNS são os registros individuais dentro de um servidor DNS, que contêm as informações específicas sobre um determinado nome de domínio, como o endereço IP associado a ele. Esses registros podem ser configurados pelo administrador da infraestrutura de TI para redirecionar os pedidos DNS para diferentes destinos, como servidores de email, servidores de aplicativos ou servidores web.
+
+As zonas de DNS são as partições lógicas da infraestrutura de DNS, que agrupam os registros relacionados aos nomes de domínio sob uma autoridade única. As zonas podem ser configuradas para delegar a responsabilidade do gerenciamento dos nomes de domínio para diferentes pessoas ou organizações.
+
+Além dos componentes mencionados, também existem protocolos de comunicação específicos para o DNS, como o protocolo DNS (UDP 53) e o protocolo de transferência de zona (AXFR). Esses protocolos permitem a troca de informações entre os servidores DNS e a resolução de nomes de domínio.
+
+Em resumo, a infraestrutura de DNS em TI é fundamental para o funcionamento da internet, pois permite a tradução de nomes de domínio em endereços IP, facilitando o acesso aos recursos online. É importante que os administradores de infraestrutura de TI tenham conhecimento sobre os principais conceitos e componentes envolvidos no DNS para garantir sua correta configuração e funcionamento.
+7. Ferramentas e Protocolos relacionados ao DNS, nslookup, dig, DNS-over-HTTPS (DoH)
+A infraestrutura de TI é um conjunto de recursos físicos, de rede e de software que suportam um ambiente de tecnologia da informação. O DNS (Domain Name System) é um componente fundamental da infraestrutura que permite a tradução de nomes de domínio em endereços IP.
+
+O DNS funciona como um diretório telefônico da Internet, onde os nomes de domínio (como exemplo.com) são associados a endereços IP (como 192.168.0.1). Quando um usuário digita um nome de domínio em um navegador, o DNS é responsável por localizar e retornar o endereço IP correspondente para que seja possível estabelecer uma conexão com o servidor correto.
+
+A infraestrutura de DNS é composta por diferentes componentes, como servidores DNS, registros DNS e zonas. Os servidores DNS são responsáveis por armazenar e fornecer informações sobre os registros DNS de um domínio específico. Os registros DNS contêm informações como endereços IP, registros de correio, registros de serviço e outros.
+
+Além disso, existem diferentes tipos de servidores DNS, como servidor DNS primário, servidor DNS secundário e servidor DNS raiz. O servidor DNS primário é responsável por armazenar e atualizar os registros DNS de um domínio específico. O servidor DNS secundário é uma cópia do servidor DNS primário e é usado para fins de redundância e backup. O servidor DNS raiz é o primeiro ponto de contato na hierarquia de servidores DNS e é responsável por direcionar as consultas DNS para os servidores DNS autorizados corretos.
+
+A infraestrutura de DNS precisa ser configurada corretamente para garantir um funcionamento adequado. Isso inclui a configuração de registros DNS corretos, a criação e atualização de zonas, a configuração de servidores DNS autorizados e a implementação de mecanismos de segurança, como DNSSEC (Domain Name System Security Extensions).
+
+Em resumo, a infraestrutura de DNS é uma parte essencial da infraestrutura de TI, permitindo a tradução de nomes de domínio em endereços IP e garantindo a navegação correta na Internet. É importante ter um conhecimento sólido sobre o DNS e suas configurações para garantir um ambiente de TI eficiente e seguro.
+

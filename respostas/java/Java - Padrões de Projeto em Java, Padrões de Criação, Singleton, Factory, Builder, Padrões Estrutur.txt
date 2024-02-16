@@ -1,0 +1,22 @@
+Item do edital: Java - Padrões de Projeto em Java:, Padrões de Criação, Singleton, Factory, Builder, Padrões Estruturais, Adapter, Facade, Decorator, Padrões Comportamentais, Observer, Strategy, Template Method
+ 
+1. - Padrões de Projeto em Java:  - Padrões de Criação:    - Singleton    - Factory    - Builder  - Padrões Estruturais:    - Adapter    - Facade    - Decorator  - Padrões Comportamentais:    - Observer    - Strategy    - Template Method
+Como especialista em Padrões de Projeto em Java, tenho conhecimento sobre os padrões de criação, estruturais e comportamentais mais comuns. Aqui estão alguns detalhes sobre cada um deles:
+
+Padrões de Criação:
+1. Singleton: Permite a criação de uma única instância de uma classe e fornece um ponto de acesso global a essa instância.
+2. Factory: Cria objetos sem especificar explicitamente a classe exata do objeto que será criado.
+3. Builder: Permite a criação de objetos complexos passo a passo, separando a construção do objeto da sua representação.
+
+Padrões Estruturais:
+1. Adapter: Permite que objetos com interfaces incompatíveis trabalhem juntos, envolvendo um objeto com uma interface compatível para torná-lo compatível com outro objeto.
+2. Facade: Fornece uma interface simplificada para um conjunto complexo de classes, tornando mais fácil o uso dessas classes pelo cliente.
+3. Decorator: Adiciona funcionalidade a um objeto existente de forma dinâmica, sem alterar sua interface.
+
+Padrões Comportamentais:
+1. Observer: Permite a definição de um mecanismo de assinatura para notificar objetos sobre mudanças em um estado ou evento.
+2. Strategy: Permite a seleção de um algoritmo a ser utilizado em tempo de execução, encapsulando cada algoritmo em uma classe separada.
+3. Template Method: Define o esqueleto de um algoritmo, deixando alguns detalhes para serem implementados nas subclasses.
+
+Esses padrões de projeto em Java são amplamente utilizados na indústria de desenvolvimento de software para resolver problemas comuns de projeto. Eles fornecem soluções flexíveis e escaláveis, aumentando a modularidade e reusabilidade do código.
+

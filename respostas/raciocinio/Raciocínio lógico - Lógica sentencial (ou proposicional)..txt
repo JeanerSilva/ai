@@ -1,0 +1,51 @@
+Item do edital: Raciocínio lógico - Lógica sentencial (ou proposicional).
+ 
+1. Conceitos básicos de lógica sentencial, Proposições e conectivos lógicos, Tabelas verdade, Equivalências lógicas, Implicação lógica, Negação de proposições
+Isso mesmo! O raciocínio lógico é uma habilidade que envolve o uso da lógica para chegar a conclusões válidas e coerentes. No caso da lógica sentencial, também conhecida como lógica proposicional, estamos lidando com a representação e manipulação de proposições, ou seja, afirmações que podem ser verdadeiras ou falsas.
+
+A lógica sentencial usa símbolos e conectivos para construir expressões lógicas. Os principais conectivos lógicos são a negação (¬), a conjunção (∧), a disjunção (∨), a implicação (→) e a bicondicional (↔). Utilizando esses conectivos, podemos formar diversas expressões lógicas e realizar operações com elas.
+
+Por exemplo, podemos representar a proposição "Se chover, então eu levo o guarda-chuva" utilizando a implicação: p → q, onde p representa "chover" e q representa "levar o guarda-chuva". Essa expressão lógica é verdadeira quando chove e eu levo o guarda-chuva, ou quando não chove, já que não é uma obrigação levar o guarda-chuva quando não chove.
+
+O raciocínio lógico sentencial nos ajuda a analisar argumentos e inferir conclusões a partir de premissas. Podemos aplicar regras lógicas para verificar se um argumento é válido, ou seja, se a conclusão é necessariamente verdadeira quando as premissas são verdadeiras. Isso é feito por meio de tabelas verdade, onde todas as combinações possíveis de valores verdade das proposições são analisadas.
+
+A lógica sentencial é amplamente utilizada em matemática, filosofia, ciência da computação e outros campos. É uma ferramenta fundamental para o pensamento crítico e a argumentação válida.
+2. Álgebra proposicional, Leis e propriedades da álgebra proposicional, Simplificação de expressões lógicas, Formas normais, Teoremas da álgebra proposicional
+A lógica sentencial, também conhecida como lógica proposicional, é um ramo da lógica que estuda as proposições e a relação entre elas. Ela lida com a estrutura, o significado e a validade dos argumentos feitos com proposições.
+
+Uma proposição é uma declaração que pode ser classificada como verdadeira ou falsa, mas não ambas ao mesmo tempo. Por exemplo, "hoje está chovendo" é uma proposição, pois pode ser avaliada como verdadeira ou falsa, dependendo das condições climáticas.
+
+Na lógica sentencial, as proposições são representadas por letras minúsculas, como p, q, r, etc. Os conectivos lógicos são utilizados para combinar ou modificar proposições e incluem a negação (~), a conjunção (e), a disjunção (ou), a implicação (se... então) e a equivalência (se... somente se).
+
+As tabelas-verdade são utilizadas para determinar o valor lógico de uma proposição ou de um argumento. Elas mostram todas as combinações possíveis de valores verdadeiros (T) e falsos (F) para as proposições envolvidas.
+
+O raciocínio lógico na lógica sentencial envolve a aplicação de regras e princípios para avaliar a validade de argumentos. Um argumento é válido quando a conclusão segue logicamente das premissas fornecidas. A validade de um argumento pode ser determinada utilizando-se técnicas como as tabelas-verdade, a construção de provas formais ou o uso de equivalências lógicas.
+
+Além disso, a lógica sentencial também permite a simplificação e a análise de expressões complexas das proposições através do uso de leis e regras de inferência. Essas ferramentas são úteis em problemas de dedução, solução de enigmas e na elaboração de algoritmos.
+
+Em resumo, o raciocínio lógico na lógica sentencial envolve a análise e avaliação da validade dos argumentos utilizando-se das regras e princípios dessa lógica. É uma ferramenta importante para o pensamento crítico, a matemática, a ciência da computação e muitas outras áreas onde a análise precisa e a tomada de decisões são necessárias.
+3. Dedução lógica, Regras de inferência, Métodos de prova, Demonstração por contradição, Demonstração por casos
+A lógica sentencial, também conhecida como lógica proposicional, é um ramo da lógica que lida com a análise e a validação de proposições e argumentos por meio de símbolos e conectivos lógicos.
+
+As proposições são declarações ou sentenças que podem ser verdadeiras ou falsas, mas não ambas ao mesmo tempo. Elas são representadas por letras maiúsculas, como p, q, r, etc.
+
+Os conectivos lógicos são os elementos utilizados para combinar proposições e formar novas proposições. Os principais conectivos são:
+
+- Negação (¬): representa a negação de uma proposição. Por exemplo, ¬p representa a negação de p.
+
+- Conjunção (˄): representa a conjunção lógica (e) entre duas proposições. Por exemplo, p ˄ q representa a proposição em que p e q são verdadeiras.
+
+- Disjunção (˅): representa a disjunção lógica (ou) entre duas proposições. Por exemplo, p ˅ q representa a proposição em que p ou q são verdadeiras.
+
+- Condicional (→): representa a implicação lógica entre duas proposições. Por exemplo, p → q representa a proposição em que p implica em q.
+
+- Bicondicional (↔): representa a bi-implicação ou equivalência lógica entre duas proposições. Por exemplo, p ↔ q representa a proposição em que p é verdadeira se e somente se q também for verdadeira.
+
+Utilizando esses conectivos, podemos criar fórmulas lógicas ou expressões que representam argumentos e raciocínios. A lógica sentencial possibilita a análise da validade desses argumentos, através de regras e técnicas de lógica.
+
+O estudo da lógica sentencial é fundamental para a compreensão de outros ramos da lógica, como a lógica de primeira ordem e a lógica modal. É uma ferramenta essencial na análise de problemas e na construção de raciocínios válidos.
+4. Lógica de predicados, Quantificadores, Predicados e funções, Valores verdade de sentenças quantificadas, Regras de inferência para lógica de predicados
+Sim, sou um especialista em raciocínio lógico, incluindo lógica sentencial (ou proposicional). A lógica sentencial é uma área da lógica que analisa as proposições e suas relações lógicas através de conectivos, como "e", "ou", "não" e "se... então". Posso ajudá-lo com conceitos, técnicas e exemplos relacionados a esse ramo da lógica.
+5. Aplicações da lógica sentencial, Circuitos lógicos, Raciocínio jurídico, Raciocínio matemático, Raciocínio filosófico
+Sim, sou um especialista em raciocínio lógico, especialmente em lógica sentencial, também conhecida como lógica proposicional. A lógica sentencial é uma área da lógica que estuda as conectivas lógicas, proposições e sua relação com a verdade ou falsidade. Ela é utilizada para analisar e inferir argumentos e raciocínios válidos, utilizando regras formais bem definidas. Essa área da lógica é amplamente aplicada em matemática, ciência da computação, filosofia e outras disciplinas. Estou disponível para responder qualquer pergunta relacionada a ela.
+

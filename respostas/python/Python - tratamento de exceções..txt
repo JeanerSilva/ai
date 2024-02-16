@@ -1,0 +1,524 @@
+Item do edital: Python - tratamento de exceções.
+ 
+1. Introdução ao tratamento de exceções, O que são exceções, Por que tratar exceções, Sintaxe básica do tratamento de exceções em Python
+No Python, o tratamento de exceções é uma técnica utilizada para lidar com erros que podem ocorrer durante a execução de um programa. O objetivo é capturar essas exceções e fornecer um comportamento alternativo, em vez de interromper abruptamente a execução do programa.
+
+Existem várias formas de tratar exceções em Python, sendo as principais:
+
+1. Bloco try-except: É utilizado para capturar exceções específicas que podem ocorrer dentro de um bloco de código. O código dentro do bloco try é executado normalmente, e se ocorrer uma exceção, o código dentro do bloco except é executado para lidar com a exceção. É possível ter vários blocos except para diferentes tipos de exceções.
+
+Exemplo:
+
+```python
+try:
+    # código que pode gerar uma exceção
+    resultado = 10 / 0
+except ZeroDivisionError:
+    print("Erro: Divisão por zero.")
+```
+
+2. Bloco try-except-else: Além do bloco except, é possível utilizar um bloco else que é executado se nenhum erro ocorrer dentro do bloco try. Isso é útil quando queremos executar determinadas ações apenas em caso de sucesso.
+
+Exemplo:
+
+```python
+try:
+    resultado = 10 / 2
+except ZeroDivisionError:
+    print("Erro: Divisão por zero.")
+else:
+    print("O resultado da divisão é:", resultado)
+```
+
+3. Bloco try-except-finally: Além do bloco except, é possível utilizar um bloco finally que é sempre executado, independentemente se uma exceção ocorrer ou não. O bloco finally é útil para garantir que determinadas ações sejam executadas, como fechar arquivos ou conexões de banco de dados, mesmo em caso de erro.
+
+Exemplo:
+
+```python
+try:
+    arquivo = open("arquivo.txt", "w")
+    arquivo.write("Conteúdo do arquivo")
+except FileNotFoundError:
+    print("Erro: Arquivo não encontrado.")
+finally:
+    arquivo.close()
+```
+
+Além dessas formas de tratamento de exceções, também é possível criar exceções personalizadas, utilizando a palavra-chave raise. Isso é útil quando queremos sinalizar um erro específico dentro do nosso código.
+
+Exemplo:
+
+```python
+def dividir(a, b):
+    if b == 0:
+        raise ValueError("Erro: Divisão por zero.")
+    return a / b
+
+try:
+    resultado = dividir(10, 0)
+except ValueError as e:
+    print(e)
+```
+
+Em resumo, o tratamento de exceções em Python permite capturar e lidar com erros de forma adequada durante a execução de um programa, garantindo que ele continue funcionando corretamente mesmo em caso de falhas inesperadas. É uma técnica importante para o desenvolvimento de um código robusto e confiável.
+2. Tipos de exceções em Python, Exceções built-in do Python, Exceções personalizadas
+O tratamento de exceções é um recurso fundamental em qualquer programa em Python. Ele permite que você lide com erros e exceções de forma adequada, evitando interrupções no fluxo normal do programa.
+
+Em Python, o tratamento de exceções é feito usando as declarações try e except. A declaração try é usada para envolver o código que pode gerar uma exceção, e a declaração except é usada para tratar essa exceção.
+
+Aqui está um exemplo básico de como usar o tratamento de exceções em Python:
+
+```
+try:
+    # código que pode gerar uma exceção
+    # ...
+except ExceptionType:
+    # código para tratar a exceção do tipo ExceptionType
+    # ...
+```
+
+No exemplo acima, o código dentro do bloco try será executado normalmente. Se uma exceção do tipo ExceptionType for gerada, o fluxo do programa será interrompido e o código dentro do bloco except será executado em seu lugar.
+
+Existem diferentes tipos de exceções que podem ser tratadas em Python. Alguns exemplos comuns são:
+
+- ZeroDivisionError: gerado quando ocorre uma divisão por zero.
+- FileNotFoundError: gerado quando um arquivo não é encontrado.
+- IndexError: gerado quando um índice está fora do intervalo válido.
+- ValueError: gerado quando um valor não é válido para um determinado tipo.
+
+Você pode tratar exceções específicas usando declarações except separadas para cada tipo de exceção. Por exemplo:
+
+```
+try:
+    # código que pode gerar uma exceção
+    # ...
+except ZeroDivisionError:
+    # código para tratar a exceção de divisão por zero
+    # ...
+except FileNotFoundError:
+    # código para tratar a exceção de arquivo não encontrado
+    # ...
+```
+
+Além disso, você também pode usar a declaração else para executar um bloco de código somente se nenhuma exceção for gerada. E pode usar a declaração finally para executar um bloco de código que sempre será executado, independentemente de ocorrer uma exceção ou não.
+
+```
+try:
+    # código que pode gerar uma exceção
+    # ...
+except ExceptionType:
+    # código para tratar a exceção do tipo ExceptionType
+    # ...
+else:
+    # código para ser executado somente se nenhuma exceção for gerada
+    # ...
+finally:
+    # código para ser executado sempre, independentemente de ocorrer uma exceção ou não
+    # ...
+```
+
+No tratamento de exceções em Python, é importante ter cuidado para não capturar exceções de forma muito genérica, pois isso pode dificultar a depuração de erros e encobrir problemas reais em seu código. É recomendado capturar exceções específicas sempre que possível, e lidar com elas de maneira adequada para que o programa continue funcionando corretamente.
+3. Bloco try-except, Utilizando o bloco try-except para tratar exceções, Tratando exceções específicas, Bloco else no tratamento de exceções, Bloco finally no tratamento de exceções
+O tratamento de exceções em Python é uma estrutura que permite aos desenvolvedores lidar com erros e exceções durante a execução de um programa de forma controlada.
+
+No Python, as exceções são erros que ocorrem durante a execução de um programa e que podem interromper sua execução normal. Um exemplo comum de exceção é a divisão por zero: ao dividir um número por zero, o interpretador do Python lança uma exceção do tipo ZeroDivisionError.
+
+Para tratar as exceções em Python, utiliza-se a estrutura try-except. Dentro do bloco try, coloca-se o código que pode gerar uma exceção. Se uma exceção ocorrer durante a execução desse código, o Python a captura e a passa para o bloco except correspondente.
+
+A estrutura básica do tratamento de exceções em Python é a seguinte:
+
+```
+try:
+   # código que pode gerar uma exceção
+except Excecao:
+   # código para tratar a exceção
+```
+
+Onde Excecao é o tipo de exceção que se deseja capturar. Pode-se especificar vários blocos except para tratar diferentes tipos de exceções.
+
+Além disso, é possível utilizar também os blocos else e finally.
+
+O bloco else é opcional e será executado somente se nenhum erro ou exceção ocorrer no try. Já o bloco finally é opcional e será sempre executado, independentemente de ocorrer uma exceção ou não.
+
+Dentro do bloco except ou finally, pode-se ter várias ações, como exibir uma mensagem de erro, registrar o erro em um log, reverter uma transação, entre outras.
+
+Além disso, é possível criar suas próprias exceções personalizadas em Python, através da criação de classes que herdam da classe Exception ou de suas subclasses.
+
+Em resumo, o tratamento de exceções em Python é uma ferramenta poderosa para lidar com erros e exceções de forma controlada durante a execução de um programa. É importante conhecer e entender seu funcionamento para garantir a robustez e a confiabilidade do código.
+4. Lançando exceções, Utilizando a declaração raise para lançar exceções, Criando exceções personalizadas
+O tratamento de exceções em Python é uma técnica utilizada para lidar com erros durante a execução de um programa. Quando um erro ocorre durante a execução de um programa, normalmente uma exceção é levantada, interrompendo a execução normal do programa.
+
+O tratamento de exceções permite que o programador defina um bloco de código para lidar com a exceção de forma apropriada, evitando a interrupção do programa.
+
+Existem várias formas de tratar exceções em Python, mas a estrutura mais comum é o bloco try-except. Nesse bloco de código, o código que pode gerar uma exceção é colocado no bloco try, e o código que deve ser executado caso a exceção ocorra é colocado no bloco except.
+
+A sintaxe básica da estrutura try-except é a seguinte:
+
+```python
+try:
+    # Código que pode gerar exceção
+except:
+    # Código que trata a exceção
+```
+
+É possível especificar qual tipo de exceção deve ser tratado no bloco except, utilizando a seguinte sintaxe:
+
+```python
+try:
+    # Código que pode gerar exceção
+except TipoDeExcecao:
+    # Código que trata a exceção de tipo TipoDeExcecao
+```
+
+Também é possível tratar múltiplos tipos de exceção no mesmo bloco except, separando-os por vírgula:
+
+```python
+try:
+    # Código que pode gerar exceção
+except (TipoDeExcecao1, TipoDeExcecao2):
+    # Código que trata as exceções de tipo TipoDeExcecao1 e TipoDeExcecao2
+```
+
+Além do bloco except, é possível utilizar os blocos else e finally na estrutura try-except. O bloco else é executado quando nenhum erro ocorre no bloco try, enquanto o bloco finally é sempre executado, independentemente de ocorrer uma exceção ou não.
+
+```python
+try:
+    # Código que pode gerar exceção
+except:
+    # Código que trata a exceção
+else:
+    # Código que é executado caso nenhum erro ocorra no bloco try
+finally:
+    # Código que é sempre executado
+```
+
+No bloco except, é possível utilizar a palavra-chave "as" para atribuir informações adicionais sobre a exceção a uma variável. Por exemplo:
+
+```python
+try:
+    # Código que pode gerar exceção
+except TipoDeExcecao as e:
+    # Código que trata a exceção e utiliza a variável e
+```
+
+A variável "e" conterá informações detalhadas sobre a exceção, como a mensagem de erro e outros atributos relacionados.
+
+Além da estrutura try-except, Python também oferece outros mecanismos para tratamento de exceções, como as cláusulas try-finally, que permitem garantir que um bloco de código seja executado, independentemente de ocorrer uma exceção ou não, e a instrução raise, que permite levantar uma exceção manualmente.
+
+Em resumo, o tratamento de exceções em Python permite que o programador controle a forma como os erros são tratados durante a execução do programa, evitando que eles interrompam a execução normal e permitindo que sejam feitas ações apropriadas para lidar com eles.
+5. Tratamento de exceções aninhadas, Tratando exceções em blocos aninhados, Acessando informações da exceção
+O tratamento de exceções em Python é uma forma de lidar com erros e situações imprevistas que podem ocorrer durante a execução do programa. Essas exceções podem ser erros de sintaxe, erros de lógica ou erros causados por entradas inválidas do usuário, por exemplo.
+
+A estrutura básica para tratamento de exceções em Python é o bloco try-except. Dentro do bloco try, colocamos o código que pode gerar uma exceção. Se ocorrer uma exceção dentro do bloco try, o programa vai executar o bloco except correspondente à exceção lançada.
+
+Aqui está um exemplo básico de tratamento de exceções em Python:
+
+```python
+try:
+   # Código que pode gerar uma exceção
+except TipoExcecao:
+   # Código a ser executado caso ocorra a exceção
+else:
+   # Código a ser executado caso não ocorra nenhuma exceção
+finally:
+   # Código que sempre será executado, independentemente de ter ocorrido uma exceção ou não
+```
+
+No exemplo acima, substitua "TipoExcecao" pela exceção que você deseja tratar. Por exemplo, se você quiser tratar a exceção de divisão por zero, substitua por ZeroDivisionError.
+
+Dentro do bloco except, você pode executar ações específicas de tratamento da exceção, como exibir uma mensagem de erro para o usuário ou registrar o erro em um arquivo de log.
+
+O bloco else é opcional e será executado apenas se nenhuma exceção for lançada dentro do bloco try.
+
+O bloco finally também é opcional e será sempre executado, independentemente de ter ocorrido uma exceção ou não. É comum usar o bloco finally para fechar recursos abertos, como arquivos ou conexões de banco de dados.
+
+Além do bloco try-except, é possível também utilizar o bloco try-except-finally, que permite executar o bloco finally mesmo se uma exceção não foi lançada.
+
+```
+try:
+   # Código que pode gerar uma exceção
+except TipoExcecao:
+   # Código a ser executado caso ocorra a exceção
+finally:
+   # Código que sempre será executado, independentemente de ter ocorrido uma exceção ou não
+```
+
+Outra forma de tratar exceções em Python é utilizando a declaração raise, que permite lançar uma exceção manualmente. Isso pode ser útil quando você deseja criar suas próprias exceções personalizadas.
+
+```
+try:
+   raise TipoExcecao("Mensagem de erro")
+except TipoExcecao as e:
+   print("Exceção capturada:", e)
+```
+
+Nesse exemplo, a exceção TipoExcecao é lançada manualmente com a mensagem de erro informada. Em seguida, o bloco except captura a exceção e o código dentro dele é executado.
+
+O tratamento de exceções em Python é uma ferramenta poderosa para melhorar a robustez e a confiabilidade do seu código, permitindo que você lide de forma adequada com erros. É importante identificar e tratar as exceções pertinentes ao seu programa para garantir um funcionamento adequado.
+6. Tratamento de exceções em cadeia, Tratando múltiplas exceções em um único bloco try-except, Hierarquia de exceções em Python
+Python é uma linguagem de programação que oferece recursos avançados para o tratamento de exceções. O tratamento de exceções é uma técnica usada para lidar com erros que podem ocorrer durante a execução de um programa.
+
+As exceções em Python são erros que podem ocorrer durante a execução do código, como tentar dividir um número por zero, acessar uma posição inválida de uma lista, ou até mesmo erros de importação de módulos.
+
+Para tratar exceções em Python, utilizamos as estruturas try-except. O bloco try contém o código que pode gerar uma exceção, e o bloco except contém o código que será executado caso ocorra uma exceção.
+
+A estrutura básica do tratamento de exceções em Python é a seguinte:
+
+```
+try:
+    # código que pode gerar uma exceção
+except <tipo de exceção>:
+    # código para tratar a exceção
+```
+
+Podemos especificar o tipo de exceção que queremos tratar utilizando a palavra-chave `except` seguida do nome da exceção. Por exemplo, se quisermos tratar apenas exceções do tipo `ZeroDivisionError`, podemos escrever:
+
+```
+try:
+    # código que pode gerar uma exceção
+except ZeroDivisionError:
+    # código para tratar a exceção
+```
+
+Podemos também utilizar vários blocos `except` para tratar diferentes tipos de exceções:
+
+```
+try:
+    # código que pode gerar uma exceção
+except ZeroDivisionError:
+    # código para tratar a exceção do tipo ZeroDivisionError
+except ValueError:
+    # código para tratar a exceção do tipo ValueError
+```
+
+Caso não saibamos qual exceção pode ocorrer, podemos utilizar um bloco `except` sem especificar o tipo de exceção:
+
+```
+try:
+    # código que pode gerar uma exceção
+except:
+    # código para tratar a exceção
+```
+
+Podemos utilizar também um bloco `finally`, que contém código que será sempre executado, independentemente se ocorrer uma exceção ou não. Por exemplo:
+
+```
+try:
+    # código que pode gerar uma exceção
+except:
+    # código para tratar a exceção
+finally:
+    # código que será sempre executado
+```
+
+Além disso, podemos utilizar a palavra-chave `raise` para lançar uma exceção manualmente. Por exemplo:
+
+```
+raise ValueError("Ocorreu um erro!")
+```
+
+Com o tratamento de exceções em Python, podemos fornecer feedback ao usuário sobre qualquer erro que ocorra durante a execução do programa e tomar as medidas adequadas para resolver o problema.
+7. Utilizando a cláusula else no tratamento de exceções, Executando código apenas se nenhuma exceção for lançada
+O tratamento de exceções em Python é uma técnica utilizada para lidar com erros e situações inesperadas que podem ocorrer durante a execução de um programa. As exceções podem ocorrer devido a erros de sintaxe, erros de tipo, erros de divisão por zero, entre outros.
+
+Em Python, o tratamento de exceções é realizado utilizando a estrutura try-except. O bloco try contém o código que pode gerar uma exceção, enquanto o bloco except é utilizado para capturar e lidar com a exceção.
+
+Vamos ver um exemplo básico de tratamento de exceções em Python:
+
+```python
+try:
+    # código que pode gerar exceção
+    x = 10 / 0
+except ZeroDivisionError:
+    # trata a exceção de divisão por zero
+    print("Erro: divisão por zero.")
+```
+
+No exemplo acima, o bloco try tenta realizar a divisão de 10 por zero, o que causará uma exceção do tipo ZeroDivisionError. O bloco except captura essa exceção e imprime uma mensagem de erro adequada.
+
+É possível utilizar vários blocos except para tratar diferentes tipos de exceções. Além disso, também é possível utilizar o bloco else para executar um código caso nenhuma exceção seja gerada, e o bloco finally para executar um código independentemente de ter ocorrido exceção ou não.
+
+```python
+try:
+    # código que pode gerar exceção
+    arquivo = open("arquivo.txt", "r")
+    conteudo = arquivo.read()
+except FileNotFoundError:
+    # trata a exceção de arquivo não encontrado
+    print("Erro: arquivo não encontrado.")
+except IOError:
+    # trata a exceção de erro de leitura do arquivo
+    print("Erro: erro de leitura do arquivo.")
+else:
+    # código a ser executado se nenhuma exceção for gerada
+    print("Arquivo lido com sucesso.")
+finally:
+    # código a ser executado independentemente de ter ocorrido exceção ou não
+    arquivo.close()
+```
+
+No exemplo acima, o bloco try tenta abrir e ler um arquivo chamado "arquivo.txt". Se o arquivo não for encontrado, o bloco except FileNotFoundError é executado. Se ocorrer algum erro de leitura do arquivo, o bloco except IOError é executado. Se nenhum erro ocorrer, o bloco else é executado. Por fim, o bloco finally é executado para garantir que o arquivo seja sempre fechado, independentemente de ter ocorrido exceção ou não.
+
+É importante destacar que é possível criar exceções personalizadas em Python utilizando a palavra-chave raise. Desta forma, você pode definir suas próprias exceções e tratá-las de forma específica ao longo do seu programa.
+8. Utilizando a cláusula finally no tratamento de exceções, Executando código independentemente de exceções
+O Python possui um mecanismo de tratamento de exceções que permite lidar com erros e exceções durante a execução do programa. Isso evita que o programa seja interrompido de forma abrupta e permite que o desenvolvedor tome ações alternativas quando ocorrer um erro.
+
+O tratamento de exceções em Python é feito com o uso de blocos try-except. O bloco try contém o código que pode gerar uma exceção, enquanto o bloco except contém o código para lidar com a exceção.
+
+Por exemplo, suponha que você tenha o seguinte código:
+
+```python
+try:
+    x = int(input("Digite um número inteiro: "))
+    print(f"O número digitado foi {x}")
+except ValueError:
+    print("Oops! Você não digitou um número inteiro válido.")
+```
+
+Nesse código, o bloco try tenta converter a entrada do usuário para um número inteiro. Se o usuário digitar algo que não seja um número válido, uma exceção do tipo ValueError será gerada. O bloco except irá capturar essa exceção e exibirá uma mensagem de erro adequada.
+
+Você também pode usar múltiplos blocos except para lidar com diferentes tipos de exceções de forma diferente. Por exemplo:
+
+```python
+try:
+    x = int(input("Digite um número inteiro: "))
+    resultado = 10 / x
+    print(f"O resultado da divisão é {resultado}")
+except ValueError:
+    print("Oops! Você não digitou um número inteiro válido.")
+except ZeroDivisionError:
+    print("Oops! Você não pode dividir por zero.")
+```
+
+Nesse exemplo, além de capturar erros de valor inválido, também capturamos erros de divisão por zero. Cada tipo de exceção possui seu próprio nome, que pode ser utilizado no bloco except para capturá-la.
+
+Além disso, é possível utilizar um bloco finally opcional, que sempre será executado, independentemente de ocorrer ou não uma exceção. Por exemplo:
+
+```python
+try:
+    x = int(input("Digite um número inteiro: "))
+    resultado = 10 / x
+    print(f"O resultado da divisão é {resultado}")
+except ValueError:
+    print("Oops! Você não digitou um número inteiro válido.")
+except ZeroDivisionError:
+    print("Oops! Você não pode dividir por zero.")
+finally:
+    print("O programa foi encerrado.")
+```
+
+No bloco finally, podemos realizar tarefas de limpeza ou encerrar o programa de forma adequada.
+
+Além do try-except-finally, existem outras instruções relacionadas ao tratamento de exceções em Python, como raise, que permite lançar uma exceção manualmente, e assert, que permite testar se uma condição é verdadeira e, caso contrário, lançar uma exceção. Essas instruções podem ser úteis em situações específicas, mas a base do tratamento de exceções em Python é o uso dos blocos try-except-finally.
+9. Tratamento de exceções em funções, Tratando exceções em funções, Retornando valores especiais em caso de exceção
+O tratamento de exceções em Python é uma técnica importante para lidar com erros e falhas durante a execução de um programa. Ele permite que o código identifique e responda a erros específicos sem interromper o programa como um todo.
+
+Existem três principais blocos de código para tratamento de exceções em Python: try, except e finally.
+
+O bloco try é usado para encapsular o código que pode gerar uma exceção. É neste bloco que você coloca o código que pode apresentar um problema, como uma divisão por zero ou a abertura de um arquivo inexistente.
+
+O bloco except é usado para especificar o tipo de exceção que você deseja tratar. Você pode definir múltiplos blocos except para lidar com exceções diferentes de maneiras distintas. Caso nenhuma exceção seja tratada pelo bloco except, a exceção será propagada para blocos superiores do programa.
+
+O bloco finally é opcional e é executado independentemente de ter ocorrido ou não uma exceção. Ele é geralmente utilizado para finalizar recursos, como fechar um arquivo ou encerrar uma conexão com um banco de dados.
+
+A estrutura básica do tratamento de exceções em Python é a seguinte:
+
+```
+try:
+    # código que pode gerar exceção
+except ExcecaoTipo1:
+    # código para tratar ExcecaoTipo1
+except ExcecaoTipo2:
+    # código para tratar ExcecaoTipo2
+finally:
+    # código que será executado independentemente de ter ocorrido ou não uma exceção
+```
+
+Além disso, é possível utilizar a cláusula `else` logo após o bloco `except`, para especificar um código a ser executado caso nenhuma exceção tenha sido lançada.
+
+É importante ressaltar que é possível tratar exceções personalizadas, criando uma nova classe de exceção. Isso permite que você crie uma exceção específica para seu programa e defina como ela será tratada.
+
+Um exemplo de tratamento de exceções em Python:
+
+```
+try:
+    num1 = int(input("Digite um número: "))
+    num2 = int(input("Digite outro número: "))
+    resultado = num1 / num2
+    print("A divisão é: ", resultado)
+except ZeroDivisionError:
+    print("Não é possível realizar divisão por zero!")
+except ValueError:
+    print("Você deve digitar apenas números inteiros!")
+finally:
+    print("Fim do programa.")
+```
+
+Neste exemplo, o código tenta realizar uma divisão e trata as exceções de divisão por zero (`ZeroDivisionError`) e conversão de string para inteiro inválida (`ValueError`).
+
+O tratamento de exceções em Python é uma ferramenta poderosa para lidar com erros de maneira controlada e permitir que o programa continue sua execução sem ser interrompido. É uma prática recomendada para garantir a robustez e estabilidade do código.
+10. Boas práticas no tratamento de exceções, Evitando capturar exceções genéricas, Lidando com exceções de forma adequada, Documentando exceções em código
+O tratamento de exceções no Python permite que você responda a erros ou situações inesperadas de maneira controlada. Quando ocorre uma exceção durante a execução de um programa, o interpretador Python suspende a execução normal do programa e procura por um bloco de código que trate a exceção. Se um bloco de tratamento de exceção adequado for encontrado, o código dentro desse bloco será executado para lidar com a exceção.
+
+A sintaxe básica para tratamento de exceções em Python é a seguinte:
+
+```python
+try:
+    # Código que pode gerar uma exceção
+except ExceptionType:
+    # Código para lidar com a exceção
+```
+
+O bloco `try` contém o código que pode gerar uma exceção. Se uma exceção do tipo especificado ocorrer nesse bloco, o código dentro do bloco `except` será executado.
+
+Por exemplo, vamos supor que você tenha o seguinte código em Python:
+
+```python
+num1 = int(input("Digite um número: "))
+num2 = int(input("Digite outro número: "))
+resultado = num1 / num2
+print("O resultado da divisão é:", resultado)
+```
+
+Se você digitar "0" como o segundo número, ocorrerá uma exceção `ZeroDivisionError` porque não é possível dividir um número por zero. Para lidar com essa exceção, você pode adicionar um bloco `try`/`except` ao código:
+
+```python
+try:
+    num1 = int(input("Digite um número: "))
+    num2 = int(input("Digite outro número: "))
+    resultado = num1 / num2
+    print("O resultado da divisão é:", resultado)
+except ZeroDivisionError:
+    print("Não é possível dividir por zero.")
+```
+
+Nesse caso, se ocorrer uma exceção `ZeroDivisionError`, a mensagem "Não é possível dividir por zero" será exibida em vez de mostrar o erro completo.
+
+Você também pode adicionar vários blocos `except` para lidar com diferentes tipos de exceções. Por exemplo:
+
+```python
+try:
+    # Código que pode gerar exceções
+except ValueError:
+    # Código para lidar com exceções do tipo ValueError
+except ZeroDivisionError:
+    # Código para lidar com exceções do tipo ZeroDivisionError
+except:
+    # Código para lidar com qualquer outra exceção
+```
+
+Dentro dos blocos `except`, você pode incluir qualquer código que desejar para lidar com a exceção. Isso pode incluir mensagens de erro personalizadas, ações de recuperação ou até mesmo o registro e relatório da exceção.
+
+Também é possível usar um bloco `finally` opcional depois dos blocos `except`. O código dentro do bloco `finally` será sempre executado, independentemente de ocorrer uma exceção ou não. Isso é útil para garantir que certas tarefas sejam executadas, como fechar arquivos ou liberar recursos, independentemente de ocorrerem erros.
+
+```python
+try:
+    # Código que pode gerar exceções
+except:
+    # Código para lidar com exceções
+finally:
+    # Código a ser executado sempre
+```
+
+Em resumo, o tratamento de exceções em Python permite que você lide com erros de maneira controlada, fornecendo uma maneira de capturar, tratar e responder a exceções durante a execução do seu programa. É uma técnica importante para garantir que seus programas possam lidar com situações imprevistas e continuar executando corretamente.
+

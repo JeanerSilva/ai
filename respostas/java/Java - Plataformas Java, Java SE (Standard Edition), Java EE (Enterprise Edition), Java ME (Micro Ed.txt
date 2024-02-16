@@ -1,0 +1,45 @@
+Item do edital: Java - Plataformas Java:, Java SE (Standard Edition), Java EE (Enterprise Edition), Java ME (Micro Edition), JavaFX
+ 
+1. - Java SE (Standard Edition):  - Introdução ao Java SE;  - Principais características do Java SE;  - Estrutura e componentes do Java SE;  - Aplicações e casos de uso do Java SE.
+Correto! 
+- Java SE (Standard Edition): é a plataforma básica do Java, que inclui as bibliotecas fundamentais e as ferramentas de desenvolvimento necessárias para criar aplicativos Java para desktop.
+- Java EE (Enterprise Edition): é uma plataforma voltada para o desenvolvimento de aplicativos empresariais de grande escala. Ela oferece um conjunto de componentes e APIs adicionais para o desenvolvimento de aplicativos distribuídos, como servidores de aplicativos, frameworks de desenvolvimento web e ferramentas de persistência de dados.
+- Java ME (Micro Edition): é projetado para dispositivos embarcados e de baixo consumo de energia, como dispositivos móveis, sensores e appliances. Ele oferece um conjunto reduzido de bibliotecas e APIs para atender às restrições de recursos desses dispositivos.
+- JavaFX: é uma plataforma para a criação de aplicativos ricos em recursos e interfaces de usuário modernas. Ele permite a criação de aplicativos desktop, web e móveis, com suporte a animações, gráficos avançados e interações de usuário intuitivas.
+2. - Java EE (Enterprise Edition):  - Introdução ao Java EE;  - Principais características do Java EE;  - Estrutura e componentes do Java EE;  - Aplicações e casos de uso do Java EE.
+Isso mesmo! Java tem várias plataformas diferentes, cada uma com suas características e funcionalidades específicas.
+
+- Java SE (Standard Edition): é a plataforma Java básica, que fornece todas as bibliotecas e APIs necessárias para desenvolver aplicativos desktop, aplicativos de linha de comando e algumas aplicações baseadas em servidor.
+
+- Java EE (Enterprise Edition): é a plataforma Java voltada para o desenvolvimento de aplicativos corporativos e de negócios. Ela fornece um conjunto de APIs e serviços adicionais, como suporte a transações distribuídas, segurança, persistência de dados e escalabilidade. É muito utilizada para desenvolver aplicações web, aplicativos móveis e serviços em nuvem.
+
+- Java ME (Micro Edition): é a plataforma Java voltada para dispositivos com recursos limitados, como celulares, PDAs e equipamentos embarcados. Ela fornece um subconjunto das funcionalidades do Java SE, otimizado para dispositivos com menos memória, processamento e recursos de exibição.
+
+- JavaFX: é uma plataforma Java voltada para a criação de interfaces gráficas ricas e interativas. Ela permite o desenvolvimento de aplicativos desktop, móveis e web com recursos visuais avançados, como animações, gráficos 2D e 3D, efeitos visuais e mídia.
+
+Cada plataforma tem sua própria API e conjunto de ferramentas específicas para o desenvolvimento e execução de aplicativos.
+3. - Java ME (Micro Edition):  - Introdução ao Java ME;  - Principais características do Java ME;  - Estrutura e componentes do Java ME;  - Aplicações e casos de uso do Java ME.
+Plataformas Java são ambientes de software desenvolvidos pela Oracle que permitem a execução de aplicativos e serviços utilizando a linguagem de programação Java. Existem várias plataformas Java disponíveis, cada uma com foco em um conjunto específico de necessidades e casos de uso.
+
+Java SE (Standard Edition) é a plataforma base do Java, projetada principalmente para o desenvolvimento de aplicativos desktop e de servidor. Ela fornece as bibliotecas e APIs essenciais para a criação de aplicativos Java com funcionalidades básicas, como gerenciamento de memória, E/S de arquivos, comunicação em rede, manipulação de dados, entre outros.
+
+Java EE (Enterprise Edition), por outro lado, é uma extensão do Java SE, projetada para o desenvolvimento de aplicativos corporativos complexos e em grande escala. Ela fornece uma série de APIs e recursos adicionais para construir aplicativos web, serviços web, aplicações distribuídas, entre outros. A plataforma também inclui tecnologias como JPA (Java Persistence API) para acesso a bancos de dados, EJB (Enterprise JavaBeans) para desenvolvimento de componentes empresariais, Servlets e JavaServer Faces para desenvolvimento web, entre outros.
+
+Java ME (Micro Edition) é uma plataforma Java voltada para o desenvolvimento de aplicativos em dispositivos embarcados e móveis com recursos de hardware limitados. Ela é projetada para aplicações que requerem desempenho e uso eficiente de recursos, como jogos para celular, aplicativos de mensagens, entre outros.
+
+JavaFX é uma plataforma para a criação de interfaces gráficas de usuário (GUI) ricas e interativas. Ela permite o desenvolvimento de aplicativos com recursos avançados de design, animações, efeitos visuais, mídia e integração com outras tecnologias. JavaFX pode ser usado em conjunto com Java SE ou Java EE para o desenvolvimento de aplicações desktop ou web com interfaces gráficas atraentes.
+
+Cada plataforma Java possui suas próprias características e é projetada para atender a diferentes necessidades de desenvolvimento. A escolha da plataforma depende do tipo de aplicativo que você deseja criar e dos requisitos específicos do seu projeto.
+4. - JavaFX:  - Introdução ao JavaFX;  - Principais características do JavaFX;  - Estrutura e componentes do JavaFX;  - Aplicações e casos de uso do JavaFX.
+Java é uma linguagem de programação muito popular que é usada para desenvolver uma ampla variedade de aplicativos em diferentes plataformas. Existem várias plataformas Java disponíveis, cada uma delas com seu próprio conjunto de recursos e finalidades específicas.
+
+- Java SE (Standard Edition): é a plataforma básica do Java, adequada para desenvolver aplicativos de desktop e aplicativos gerais. Ela fornece os recursos essenciais da linguagem Java, como estruturas de controle, manipulação de exceções, suporte a entrada/saída de dados, entre outros. Também inclui a biblioteca de classes Java, que fornece um conjunto abrangente de funcionalidades para desenvolver aplicativos Java.
+
+- Java EE (Enterprise Edition): essa plataforma é projetada para desenvolver aplicativos corporativos de grande escala. Ela inclui recursos avançados que permitem o desenvolvimento de aplicativos web, serviços web, aplicativos de middleware e outros sistemas distribuídos. A plataforma Java EE fornece funcionalidades como acesso a banco de dados, gerenciamento de transações, segurança, escalabilidade e muito mais.
+
+- Java ME (Micro Edition): essa plataforma é voltada para o desenvolvimento de aplicativos para dispositivos com recursos limitados, como dispositivos móveis, aparelhos eletrônicos, entre outros. Ela possui uma biblioteca de classes otimizada para dispositivos com capacidade de processamento e recursos de memória limitados.
+
+- JavaFX: trata-se de uma plataforma de aplicativos de interface gráfica do usuário (GUI) para Java. Ela permite o desenvolvimento de aplicativos de desktop e aplicativos móveis com interfaces de usuário atraentes e ricas em recursos. O JavaFX também pode ser usado para desenvolver aplicativos da web, combinar animações, gráficos e recursos multimídia.
+
+Essas plataformas Java são complementares e podem ser usadas em conjunto para atender às diferentes necessidades de desenvolvimento de software. Os desenvolvedores podem escolher a plataforma Java adequada com base nos requisitos do projeto e nos recursos oferecidos por cada plataforma.
+

@@ -1,0 +1,107 @@
+Item do edital: Engenharia de Software - Padrão GRASP.
+ 
+1. Introdução ao Padrão GRASP, Definição e objetivo do Padrão GRASP, Histórico e origem do Padrão GRASP, Benefícios e vantagens do uso do Padrão GRASP
+O Padrão GRASP (General Responsibility Assignment Software Patterns), ou Padrões Gerais de Atribuição de Responsabilidade em Software, é uma coleção de princípios e diretrizes para a atribuição de responsabilidades entre as classes em um sistema orientado a objetos. Esses padrões são amplamente utilizados na engenharia de software para ajudar os desenvolvedores a projetar sistemas flexíveis, extensíveis e com baixo acoplamento.
+
+Existem nove padrões GRASP principais:
+
+1. Controller (Controlador): Responsável por receber e coordenar as solicitações do usuário, além de gerenciar as ações a serem executadas.
+
+2. Creator (Criador): Responsável por criar e inicializar instâncias de classes.
+
+3. Information Expert (Especialista em Informações): Responsável por conter as informações necessárias para executar uma operação, minimizando o acoplamento entre as classes.
+
+4. Low Coupling (Baixo Acoplamento): Responsável por reduzir a dependência entre classes, promovendo a flexibilidade e reutilização de código.
+
+5. High Cohesion (Alta Coesão): Responsável por manter as responsabilidades de uma classe relacionadas entre si, promovendo a modularidade e manutenção do sistema.
+
+6. Indirection (Indireção): Responsável por direcionar a comunicação entre classes, reduzindo o acoplamento direto.
+
+7. Polymorphism (Polimorfismo): Responsável por permitir que diferentes classes implementem a mesma interface, possibilitando a substituição de objetos em tempo de execução.
+
+8. Protected Variations (Variações Protegidas): Responsável por proteger o sistema contra mudanças externas, encapsulando as partes mais sujeitas a variações.
+
+9. Pure Fabrication (Fabricação Pura): Responsável por criar classes artificiais, que são utilizadas para centralizar funções não relacionadas a nenhuma classe existente.
+
+Esses padrões GRASP são aplicados durante o processo de design do sistema, auxiliando os desenvolvedores a tomar decisões sobre a atribuição de responsabilidades e o design das classes. Eles ajudam a promover uma arquitetura flexível, modular e de fácil manutenção.
+2. Princípios do Padrão GRASP, Expert, Creator, Controller, Low Coupling, High Cohesion, Polymorphism, Indirection, Pure Fabrication, Protected Variations
+O padrão GRASP (General Responsibility Assignment Software Patterns) é uma coleção de padrões de atribuição de responsabilidades que ajudam a definir a atribuição de responsabilidades para as classes em um sistema orientado a objetos.
+
+O objetivo do padrão GRASP é manter o baixo acoplamento e a alta coesão entre as classes de um sistema, garantindo que cada classe tenha uma única responsabilidade bem definida. Isso torna o sistema mais flexível e facilita a manutenção e evolução do código.
+
+Existem vários padrões GRASP que podem ser aplicados em diferentes situações. Alguns dos padrões mais comuns são:
+
+1. Controlador (Controller): Responsável por coordenar e controlar as interações entre as classes e objetos.
+2. Especialista em Informações (Information Expert): Responsável por possuir as informações necessárias para realizar determinada operação ou tomar uma decisão.
+3. Criador (Creator): Responsável por criar e inicializar novos objetos.
+4. Polimorfismo (Polymorphism): Responsável por permitir que diferentes objetos possam ser tratados de forma polimórfica, ou seja, permitindo uma mesma operação em diferentes objetos.
+5. Baixo Acoplamento (Low Coupling): Responsável por manter baixo o acoplamento entre as classes, minimizando dependências.
+6. Alta Coesão (High Cohesion): Responsável por manter alta a coesão entre as classes, ou seja, garantir que cada classe tenha uma única responsabilidade bem definida.
+
+Esses padrões podem ser combinados e aplicados de acordo com as necessidades do sistema. O padrão GRASP fornece diretrizes para ajudar os desenvolvedores a tomar decisões sobre a estrutura do sistema e atribuição de responsabilidades, tornando o código mais compreensível, reutilizável e fácil de manter.
+3. Aplicação do Padrão GRASP, Identificação de classes e responsabilidades, Definição de relacionamentos entre classes, Definição de padrões de comunicação entre classes, Resolução de problemas de design utilizando o Padrão GRASP
+O padrão GRASP (General Responsibility Assignment Software Patterns) é um conjunto de princípios e diretrizes que auxiliam na definição da atribuição de responsabilidades entre classes e objetos em um sistema de software. Ele oferece uma abordagem sistemática para a atribuição de responsabilidades e ajuda a promover um design de software mais modular, coeso e de fácil manutenção.
+
+Existem nove padrões GRASP principais, que são os seguintes:
+
+1. Controller: Responsável por receber e gerenciar as requisições do sistema, coordenando as ações necessárias.
+2. Creator: Responsável por criar novas instâncias de objetos. Evita que a criação de objetos esteja espalhada em diferentes partes do sistema, concentrando-a em um único lugar.
+3. Information Expert: Responsável por ter o conhecimento necessário para realizar uma tarefa específica. Geralmente, é atribuída a responsabilidade ao objeto que possui os dados necessários para executar a operação.
+4. High Cohesion: Responsabilidade atribuída a um grupo de classes que têm um forte relacionamento funcional entre si, compartilhando dados e métodos relacionados.
+5. Low Coupling: Responsabilidade atribuída a classes com poucas dependências de outras classes. A ideia é minimizar o acoplamento entre classes e promover a reutilização de código.
+6. Indirection: Responsabilidade atribuída a um objeto intermediário que realiza uma operação em nome de outro objeto.
+7. Polymorphism: Responsabilidade atribuída a uma hierarquia de classes que implementam um comportamento diferente em cada uma delas. Isso permite que o sistema se adapte a mudanças no comportamento sem a necessidade de alterar o código existente.
+8. Protected Variations: Responsabilidade atribuída a uma classe que é responsável por proteger o sistema de variações externas, isolando-o das mudanças que possam ocorrer em componentes externos.
+9. Pure Fabrication: Responsabilidade atribuída a uma classe que não representa um conceito do domínio do problema, mas é criada com o propósito de melhorar o design do sistema. Essa classe não possui atribuições óbvias, mas ajuda a evitar a colocação de responsabilidade em outros objetos.
+
+É importante ressaltar que os padrões GRASP não devem ser aplicados de forma isolada, mas sim em conjunto, considerando as características e necessidades do sistema em questão.
+4. Exemplos de uso do Padrão GRASP, Exemplo de aplicação do padrão Expert, Exemplo de aplicação do padrão Creator, Exemplo de aplicação do padrão Controller, Exemplo de aplicação do padrão Low Coupling, Exemplo de aplicação do padrão High Cohesion, Exemplo de aplicação do padrão Polymorphism, Exemplo de aplicação do padrão Indirection, Exemplo de aplicação do padrão Pure Fabrication, Exemplo de aplicação do padrão Protected Variations
+O padrão GRASP (General Responsibility Assignment Software Patterns) é um conjunto de princípios e padrões de design de software que auxiliam no processo de atribuição de responsabilidades das classes em um sistema orientado a objetos.
+
+1. Especialista (Expert):
+O princípio do Especialista afirma que uma classe deve ser responsável por conter a informação ou o comportamento necessário para realizar uma determinada tarefa. Isso significa que a responsabilidade deve ser atribuída à classe que possui o conhecimento necessário para realizá-la.
+
+2. Controlador (Controller):
+O padrão Controlador é responsável por coordenar as interações entre os objetos e gerenciar o fluxo de controle em um sistema software. Ele atua como intermediário entre a interface do usuário e os objetos envolvidos.
+
+3. Criador (Creator):
+O padrão Criador define que uma classe deve ser responsável por criar instâncias de outras classes, caso seja necessário. O objetivo é evitar a criação de dependências desnecessárias entre as classes.
+
+4. Indireção (Indirection):
+O princípio de Indireção diz que as classes devem se comunicar por meio de intermediários, como interfaces, para reduzir o acoplamento entre elas. Isso permite que as classes sejam substituídas ou reutilizadas de forma mais fácil.
+
+5. Polimorfismo (Polymorphism):
+O princípio do Polimorfismo afirma que a mesma mensagem pode ser enviada para diferentes tipos de objetos, e cada objeto executará a mensagem de acordo com seu próprio comportamento. Isso possibilita a reutilização de código e a extensibilidade do sistema.
+
+6. Baixo acoplamento (Low Coupling):
+O princípio do Baixo Acoplamento preconiza que as classes devem ter poucas dependências entre si. Isso é importante para facilitar a manutenção, a reutilização e a evolução do sistema, pois as alterações em uma classe têm menos impacto sobre as outras.
+
+7. Alta coesão (High Cohesion):
+O princípio da Alta Coesão sugere que as responsabilidades de uma classe devem ser altamente relacionadas e coesas, ou seja, uma classe deve ter um único motivo para mudar. Isso melhora a compreensão do código e a modularidade do sistema.
+
+Esses são os sete padrões e princípios do padrão GRASP. Quando aplicados corretamente, eles podem ajudar a criar um sistema de software bem estruturado, com baixo acoplamento, alta coesão e responsabilidades bem definidas.
+5. Considerações finais sobre o Padrão GRASP, Limitações e desafios na aplicação do Padrão GRASP, Recomendações para o uso efetivo do Padrão GRASP, Tendências e evolução do Padrão GRASP na Engenharia de Software
+O padrão GRASP (General Responsibility Assignment Software Patterns) é uma abordagem para atribuição de responsabilidades em sistemas orientados a objetos. Ele fornece um conjunto de diretrizes que ajudam a identificar e definir as responsabilidades das classes em um software.
+
+Existem nove padrões GRASP principais:
+
+1. Controlador: é responsável por coordenar e gerenciar as interações entre os objetos, recebendo as requisições do usuário e delegando as ações apropriadas para as classes correspondentes.
+
+2. Criador: tem a responsabilidade de criar objetos de outras classes, sendo responsável por inicializar e organizar a criação dos objetos.
+
+3. Especialista: é a classe que possui a informação necessária e expertise para realizar uma determinada responsabilidade. Ela é responsável por realizar a tarefa solicitada ou delegar a responsabilidade para outra classe.
+
+4. Indireção: é uma classe intermediária que atua como um ponto de entrada para outras classes. Ela reduz o acoplamento entre as classes, pois permite que a comunicação entre elas seja feita por meio da classe intermediária.
+
+5. Interface polimórfica: é uma interface ou classe abstrata que define um comportamento comum para um conjunto de classes relacionadas, permitindo que as classes clientes tratem essas classes de forma polimórfica, sem se preocupar com a implementação específica.
+
+6. Pura Fabricação: é responsável por criar e gerenciar objetos de uma mesma classe ou de uma família de classes relacionadas. Ela fornece um acesso centralizado para esses objetos e é útil para abstrair a complexidade da criação dos mesmos.
+
+7. Proteção de informação: é responsável por controlar e gerenciar o acesso às informações de uma classe. Essa classe protege o acesso direto à informação, possuindo métodos para obter e alterar os dados de forma controlada.
+
+8. Variação localizada: é usada quando há um comportamento que varia entre as classes de um mesmo tipo, mas que não pode ser determinado por um polimorfismo simples. Nesse caso, uma classe especializada é criada para lidar com a variação.
+
+9. Controller: é responsável por gerenciar o fluxo de controle em um sistema, atribuindo responsabilidades aos outros objetos envolvidos nas interações.
+
+Esses padrões podem ser aplicados em conjunto ou separadamente, dependendo das necessidades de um sistema de software. Eles ajudam a tornar o design de software mais flexível, modular e com baixo acoplamento, facilitando a manutenção e evolução do sistema.
+

@@ -1,0 +1,91 @@
+Item do edital: Infraestrutura em TI - Kibana.
+ 
+1. Introdução ao Kibana, O que é o Kibana, História e evolução do Kibana, Principais características e funcionalidades do Kibana
+A infraestrutura em TI é um conjunto de recursos e serviços necessários para suportar e garantir o bom funcionamento dos sistemas e aplicações de uma organização. No contexto do Kibana, que é uma ferramenta de visualização de dados e análise em tempo real, a infraestrutura em TI envolve diferentes aspectos.
+
+A infraestrutura física ou de hardware inclui servidores, dispositivos de armazenamento, redes e outros equipamentos necessários para hospedar a aplicação do Kibana. É importante garantir um ambiente adequado, tanto em termos de capacidade de processamento e armazenamento quanto em termos de disponibilidade e redundância para evitar falhas e interrupções.
+
+Além da infraestrutura física, a infraestrutura em TI também envolve aspectos de software. Isso inclui o sistema operacional e suas configurações, bem como as ferramentas e bibliotecas necessárias para executar o Kibana. Também é importante garantir que todas as dependências e requisitos de software estejam adequadamente configurados e atualizados.
+
+Outro aspecto importante da infraestrutura em TI para o Kibana é a infraestrutura de rede. Isso inclui o dimensionamento adequado e a configuração de dispositivos de rede, como roteadores, switches e firewalls, para garantir a conectividade e o desempenho adequados entre os componentes da infraestrutura e os usuários finais.
+
+Além disso, a implantação e o gerenciamento de uma infraestrutura em nuvem podem ser relevantes para o Kibana. A computação em nuvem oferece flexibilidade e escalabilidade para hospedar o Kibana, permitindo a adição e remoção dinâmica de recursos de acordo com as necessidades da aplicação.
+
+Por fim, a segurança também é um aspecto crítico da infraestrutura em TI para o Kibana. É importante garantir o acesso adequado e seguro aos dados e funcionalidades do Kibana, além de implementar políticas de segurança, como autenticação de usuários, criptografia e monitoramento de atividades suspeitas.
+
+Em resumo, a infraestrutura em TI para o Kibana envolve aspectos físicos, como servidores e redes, e aspectos de software, como sistemas operacionais e dependências de software, bem como a configuração adequada de segurança e a implantação em nuvem, se aplicável.
+2. Arquitetura do Kibana, Componentes principais do Kibana, Integração com outros componentes de infraestrutura em TI, Escalabilidade e alta disponibilidade do Kibana
+Kibana é uma ferramenta de visualização de dados open source que faz parte do conjunto de aplicativos do Elastic Stack, juntamente com o Elasticsearch, Logstash e Beats. É amplamente utilizado na área de infraestrutura de Tecnologia da Informação (TI) para análise e monitoramento de logs e métricas em tempo real.
+
+A principal função do Kibana é permitir a exploração, análise e visualização de dados armazenados no Elasticsearch. Ele conta com uma interface amigável e intuitiva, permitindo a criação de painéis interativos, gráficos e dashboards personalizados. Com o Kibana, é possível extrair insights valiosos a partir dos dados coletados, facilitando a identificação de padrões, tendências e problemas dentro da infraestrutura.
+
+Alguns dos principais recursos oferecidos pelo Kibana incluem:
+
+1. Pesquisa e exploração de dados: O Kibana oferece uma interface de pesquisa avançada e filtros poderosos que permitem localizar dados específicos em grandes volumes de registros. Também é possível realizar análises de dados por meio de consultas complexas e visualizações interativas.
+
+2. Visualizações e dashboards personalizados: Com o Kibana, é possível criar visualizações personalizadas, como gráficos de barras, tabelas, mapas e métricas. Essas visualizações podem ser combinadas para criar painéis interativos e informativos, permitindo o monitoramento e a análise em tempo real dos dados.
+
+3. Alertas e notificações: O Kibana possui recursos avançados de alerta que permitem definir condições e ações personalizadas com base em eventos específicos. Isso permite a detecção automática de anomalias e a geração de notificações em tempo real para a equipe responsável.
+
+4. Integração com outras ferramentas: O Kibana é altamente integrável com outras ferramentas do Elastic Stack, como o Elasticsearch, Logstash e Beats, permitindo a coleta, análise e visualização de dados de diferentes fontes de forma centralizada.
+
+Em resumo, o Kibana é uma poderosa ferramenta de visualização de dados que auxilia na análise e monitoramento da infraestrutura de TI. Com sua interface intuitiva e recursos avançados, é possível extrair insights valiosos para a tomada de decisões mais assertivas e a resolução rápida de problemas.
+3. Configuração e instalação do Kibana, Requisitos de hardware e software, Passo a passo da instalação do Kibana, Configuração inicial do Kibana
+A infraestrutura em TI para Kibana é composta por diversos componentes que juntos permitem o uso eficiente dessa ferramenta de visualização de dados. A seguir, vou listar os principais elementos da infraestrutura em TI para Kibana:
+
+1. Servidor: É necessário um servidor para hospedar o Kibana. Ele pode ser físico ou virtual e deve possuir os recursos necessários para suportar o processamento e armazenamento dos dados que serão analisados e visualizados.
+
+2. Sistema Operacional: O servidor precisa ter um sistema operacional compatível com o Kibana. Geralmente, utiliza-se o Linux (como CentOS, Ubuntu, etc.) ou o Windows Server.
+
+3. Elasticsearch: O Kibana é frequentemente usado em conjunto com o Elasticsearch, que é uma ferramenta de pesquisa e análise de dados em tempo real. O Elasticsearch é responsável por armazenar os dados que serão visualizados pelo Kibana e também por indexá-los de forma eficiente.
+
+4. Logstash: O Logstash é outra ferramenta frequentemente utilizada em conjunto com o Kibana. Ele é responsável por coletar, processar e enriquecer os dados que serão posteriormente visualizados no Kibana.
+
+5. Nginx ou Apache: Para permitir o acesso ao Kibana de forma segura e controlada, é comum utilizar um servidor de proxy reverso como o Nginx ou o Apache. Essa camada adicional de segurança ajuda a proteger o Kibana contra ataques externos.
+
+6. Balanceamento de carga: Caso o ambiente receba um grande volume de dados e/ou tenha muitos usuários acessando o Kibana simultaneamente, pode ser necessário utilizar técnicas de balanceamento de carga. Isso pode ser feito através de ferramentas como o HAProxy ou com o uso de serviços em nuvem, como a elastic da Elastic Cloud.
+
+7. Monitoramento e alerta: Para garantir o bom funcionamento da infraestrutura do Kibana, é recomendado usar ferramentas de monitoramento, como o Elasticsearch Monitoring, o Kibana Monitoring, o Nagios, o Zabbix, entre outros. Essas ferramentas podem monitorar o desempenho, a disponibilidade e a capacidade do ambiente, além de enviar alertas em caso de problemas ou anomalias.
+
+8. Segurança: Para proteger o Kibana e os dados que serão visualizados, é importante implementar medidas de segurança adequadas. Isso inclui coisas como autenticação e autorização de usuários, criptografia de comunicações, firewall, controle de acesso, entre outros.
+
+Esses são os principais componentes da infraestrutura em TI para Kibana. É importante ressaltar que a escolha da infraestrutura adequada dependerá do volume de dados, da quantidade de usuários, dos requisitos de desempenho e da disponibilidade desejada. Cabe a cada organização avaliar suas necessidades e recursos disponíveis antes de implementar a infraestrutura para o Kibana.
+4. Utilização do Kibana, Criação de dashboards e visualizações, Exploração e análise de dados com o Kibana, Uso de filtros e consultas no Kibana
+A infraestrutura em TI é um conjunto de recursos físicos, hardware, software e rede necessários para suportar as operações de uma empresa ou organização. No contexto específico do Kibana, estamos falando de uma solução de visualização e análise de dados, que faz parte da pilha ELK (Elasticsearch, Logstash e Kibana) da Elastic.
+
+Em termos de infraestrutura em TI, para implantar o Kibana, algumas considerações são importantes:
+
+1. Hardware: O Kibana pode ser executado em um único servidor ou em um cluster de servidores, dependendo do volume de dados a serem processados e do número de usuários simultâneos. É recomendado ter um hardware com poder de processamento adequado e memória suficiente para lidar com a carga de trabalho.
+
+2. Sistema operacional: O Kibana é compatível com diversos sistemas operacionais, incluindo Windows, Linux e macOS. É importante escolher um sistema operacional que seja suportado oficialmente para garantir estabilidade e segurança.
+
+3. Elasticsearch: O Kibana depende do Elasticsearch como mecanismo de armazenamento e busca de dados. É necessário configurar um cluster do Elasticsearch para armazenar os dados que serão visualizados e analisados no Kibana.
+
+4. Rede: Uma rede estável e de alta velocidade é essencial para garantir a comunicação eficiente entre os componentes do Kibana (servidor de aplicativos, Elasticsearch, etc.) e para permitir que os usuários acessem a interface do Kibana.
+
+5. Segurança: O Kibana lida com dados sensíveis e importantes, portanto, é fundamental implementar medidas de segurança adequadas. Isso pode incluir autenticação de usuário, controle de acesso baseado em função, criptografia de dados em trânsito e em repouso, entre outras práticas recomendadas de segurança.
+
+6. Monitoramento: Uma infraestrutura em TI eficiente inclui sistemas de monitoramento para acompanhar o desempenho do Kibana, identificar possíveis falhas ou gargalos e tomar medidas corretivas proativas.
+
+7. Backup e recuperação de desastres: Para garantir a disponibilidade contínua do Kibana, é importante implementar estratégias de backup e recuperação de desastres para proteger os dados e permitir a restauração rápida em caso de falhas ou interrupções.
+
+Essas são apenas algumas considerações básicas em relação à infraestrutura em TI para o Kibana. É importante considerar a escala, os requisitos específicos da organização e as melhores práticas recomendadas para garantir um ambiente de implantação robusto e confiável.
+5. Segurança e monitoramento no Kibana, Configuração de autenticação e autorização, Auditoria e registro de atividades no Kibana, Monitoramento de desempenho e disponibilidade do Kibana
+Kibana é um software de visualização de dados de código aberto que faz parte da suíte de software Elastic Stack. É amplamente utilizado na infraestrutura de TI para análise e visualização de dados em tempo real. 
+
+Kibana permite que os usuários criem painéis interativos, gráficos e tabelas para visualizar os dados coletados. Ele fornece uma interface amigável para explorar, visualizar e analisar grandes volumes de dados de várias fontes, como logs de servidores, métricas de desempenho e dados de segurança. Isso ajuda os administradores de TI a entenderem melhor o desempenho dos sistemas, identificar problemas e tomar decisões informadas para otimizar a infraestrutura.
+
+Com o Kibana, os usuários podem criar e compartilhar painéis personalizados que agregam, filtram e resumem dados específicos. Eles podem criar visualizações de dados como gráficos de barras, gráficos de pizza, tabelas e mapas geográficos para entender informações-chave de maneira mais eficaz.
+
+Além disso, Kibana é altamente configurável, permitindo aos usuários personalizarem a aparência e o comportamento dos painéis e visualizações de acordo com suas necessidades. Ele também suporta várias integrações de dados, permitindo a conexão com várias fontes de dados para consolidar e analisar informações em um só lugar.
+
+Em resumo, o Kibana é uma ferramenta poderosa para a infraestrutura de TI, que permite visualizar e analisar dados em tempo real para melhorar a eficiência operacional, identificar problemas e tomar decisões informadas para otimizar a infraestrutura.
+6. Boas práticas e dicas para o uso do Kibana, Organização e estruturação dos dashboards, Otimização de consultas e visualizações, Melhores práticas de segurança e monitoramento no Kibana
+Kibana é uma plataforma de visualização de dados que permite explorar, analisar e visualizar os dados armazenados no Elasticsearch. Como parte do conjunto de ferramentas da Elastic Stack, o Kibana permite criar painéis interativos, gráficos e mapas a partir dos dados coletados.
+
+No contexto da infraestrutura de TI, o Kibana pode ser utilizado para monitorar e analisar diversos aspectos das operações de TI, como logs de servidores, métricas de desempenho, eventos de segurança, entre outras informações. Com o Kibana, é possível criar visualizações personalizadas para acompanhar diferentes aspectos da infraestrutura, como a disponibilidade dos servidores, consumo de recursos, utilização de largura de banda, entre outros.
+
+Além disso, o Kibana permite a criação de dashboards e relatórios interativos para facilitar o monitoramento e a tomada de decisões. É possível criar alertas configurados para disparar notificações quando determinadas métricas ou eventos atingirem níveis críticos.
+
+Dessa forma, o Kibana se torna uma ferramenta poderosa para a gestão da infraestrutura de TI, oferecendo uma visão holística dos dados e permitindo uma análise mais profunda e precisa. Ele pode ser utilizado em conjunto com outras ferramentas da Elastic Stack, como o Elasticsearch (para armazenamento e busca de dados) e o Logstash (para processamento de logs), formando uma solução completa de monitoramento de infraestrutura.
+

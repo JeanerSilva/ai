@@ -1,0 +1,109 @@
+Item do edital: Infraestrutura em TI - Conceitos de redes.
+ 
+1. Conceitos básicos de redes, Tipos de redes (LAN, WAN, MAN), Topologias de redes (estrela, anel, barramento), Protocolos de rede (TCP/IP, Ethernet), Endereçamento IP (IPv4, IPv6), Equipamentos de rede (switch, roteador, modem)
+A infraestrutura de Tecnologia da Informação (TI) refere-se aos sistemas, dispositivos, redes, serviços e recursos necessários para suportar e gerenciar as atividades de TI em uma organização. É uma parte fundamental de qualquer ambiente de TI, pois fornece a base para o funcionamento eficiente e seguro dos sistemas e processos.
+
+Um aspecto crucial da infraestrutura de TI é a rede. Uma rede de computadores consiste em dispositivos conectados entre si que permitem a comunicação e o compartilhamento de recursos. Ela pode ser uma rede local (LAN), que conecta dispositivos em um escritório ou edifício específico, ou uma rede de longa distância (WAN), que interconecta dispositivos em várias localidades geográficas.
+
+As redes são baseadas em protocolos de comunicação, que são conjuntos de regras que definem como os dispositivos se comunicam. O protocolo mais comum é o TCP/IP (Transmission Control Protocol/Internet Protocol), que é a base da Internet e também é amplamente utilizado em redes corporativas.
+
+Existem vários componentes principais em uma infraestrutura de rede:
+
+1. Switches: São dispositivos que interconectam vários dispositivos em uma rede local e permitem a troca de informações entre eles.
+
+2. Roteadores: São responsáveis por encaminhar os dados entre diferentes redes. Eles determinam a rota mais eficiente para enviar pacotes de dados de um dispositivo para outro.
+
+3. Firewalls: São dispositivos ou softwares que protegem a rede, monitorando e filtrando o tráfego de dados com base em regras de segurança definidas. Eles ajudam a prevenir ataques maliciosos e o acesso não autorizado à rede.
+
+4. Servidores: São computadores de alto desempenho projetados para fornecer serviços específicos na rede, como armazenamento de arquivos, hospedagem de sites, e-mail, entre outros.
+
+5. Cabos e infraestrutura física: São os meios pelos quais os dispositivos são conectados, como cabos de rede (Ethernet), conectores, racks e armários de telecomunicações.
+
+Além desses componentes de rede física, também é importante considerar os aspectos de rede sem fio, como pontos de acesso wireless (Wi-Fi), que permitem dispositivos se conectarem à rede sem a necessidade de cabos.
+
+A infraestrutura de TI também envolve os requisitos de energia, refrigeração e segurança física dos dispositivos de rede e servidores. Uma infraestrutura adequada garante uma rede confiável, segura e de alto desempenho, essencial para as operações diárias de uma organização.
+2. Infraestrutura física de redes, Cabos de rede (UTP, fibra óptica), Conectores e tomadas (RJ-45, SC, LC), Rack de rede, Patch panel, Organização e identificação dos cabos
+A infraestrutura de TI é o conjunto de componentes físicos e virtuais necessários para suportar as operações tecnológicas de uma organização. Isso inclui hardware, software, rede, servidores, armazenamento de dados, sistemas de segurança e muito mais.
+
+No contexto de redes, a infraestrutura de TI refere-se aos elementos utilizados para conectar dispositivos e permitir a comunicação de dados entre eles. Existem diferentes tipos de redes, como redes locais (LAN), redes de área ampla (WAN), redes sem fio (Wi-Fi) e redes virtuais privadas (VPN).
+
+A infraestrutura de rede é composta por vários componentes, incluindo:
+
+1. Dispositivos de rede: computadores, servidores, roteadores, switches, pontes, hubs, firewalls, entre outros.
+
+2. Meios de transmissão: cabos (cobre, fibra óptica), transmissão sem fio (Wi-Fi, satélite, celular).
+
+3. Protocolos de rede: TCP/IP (Transmission Control Protocol/Internet Protocol), DNS (Domain Name System), DHCP (Dynamic Host Configuration Protocol), entre outros.
+
+4. Serviços de rede: serviços de autenticação, serviços de diretório, serviços de impressão, serviços de email, etc.
+
+5. Topologia de rede: define como os dispositivos de rede estão interconectados e como o tráfego de dados é encaminhado.
+
+6. Segurança de rede: medidas para proteger a rede contra acesso não autorizado, incluindo firewalls, sistemas de detecção de intrusões (IDS), sistemas de prevenção de intrusões (IPS), sistemas de autenticação, entre outros.
+
+Além disso, a infraestrutura de rede também pode incluir elementos como servidores de armazenamento, sistemas de backup e recuperação, balanceadores de carga, gateways de segurança e muito mais.
+
+É importante que as redes sejam projetadas e implementadas corretamente para garantir uma comunicação eficiente e segura entre os dispositivos. Uma infraestrutura de TI bem planejada e mantida é essencial para o bom funcionamento de uma organização e para otimizar o desempenho das operações tecnológicas.
+3. Infraestrutura lógica de redes, Endereçamento IP e máscara de sub-rede, Configuração de roteadores e switches, VLANs (Virtual LANs), Segurança de rede (firewall, VPN), Serviços de rede (DNS, DHCP)
+A infraestrutura em TI é o conjunto de recursos físicos, de software, de redes e de suporte necessários para a operação e gerenciamento dos sistemas de tecnologia da informação de uma organização. No contexto das redes, a infraestrutura de TI refere-se aos componentes físicos e lógicos necessários para a comunicação de dados entre dispositivos.
+
+Existem alguns conceitos fundamentais no campo das redes de computadores:
+
+1. Topologia de rede: Refere-se ao arranjo físico ou lógico dos dispositivos em uma rede. As topologias mais comuns são a topologia em estrela, em anel, em barramento e em malha.
+
+2. Protocolo de rede: É um conjunto de regras que define como os dispositivos se comunicam e trocam informações entre si na rede. Exemplos de protocolos de rede populares são TCP/IP, Ethernet, Wi-Fi e DNS.
+
+3. Endereço IP: É um identificador numérico único atribuído a cada dispositivo em uma rede IP. Existem dois tipos de endereços IP: IPv4 e IPv6.
+
+4. Roteador: É um dispositivo de rede responsável por encaminhar pacotes de dados entre diferentes redes. Ele atua como uma ponte entre a rede local e a Internet.
+
+5. Switch: É um dispositivo de rede que conecta vários dispositivos em uma rede local. Ele atua como um ponto de conexão central, permitindo a comunicação entre os dispositivos conectados.
+
+6. Firewall: É um sistema de segurança que monitora e controla o tráfego de rede, impedindo o acesso não autorizado a uma rede ou protegendo-a contra ameaças externas.
+
+7. Servidor: É um dispositivo de rede ou software que fornece serviços ou recursos para outros dispositivos em uma rede. Pode ser um servidor de arquivos, servidor web, servidor de email, entre outros.
+
+8. VLAN (Virtual Local Area Network): É uma divisão lógica de uma rede em sub-redes virtuais independentes. Elas permitem isolar e segmentar o tráfego de rede para melhorar o desempenho, a segurança e a gerenciabilidade da rede.
+
+Esses são apenas alguns dos conceitos básicos de redes em infraestrutura de TI. A área é ampla e complexa, com muitos outros conceitos e tecnologias envolvidos.
+4. Segurança em redes, Criptografia e autenticação, Firewall e IDS/IPS, VPN (Virtual Private Network), Políticas de segurança, Prevenção de ataques (DDoS, phishing)
+Infraestrutura em TI é o conjunto de recursos físicos, lógicos, procedimentos e pessoas que suportam o funcionamento da tecnologia da informação em uma organização. Nesse contexto, a infraestrutura de rede é uma parte fundamental, pois é responsável por conectar os dispositivos e sistemas, permitindo a troca de informações e o acesso aos recursos compartilhados.
+
+Existem diferentes conceitos relacionados às redes de computadores:
+
+1. Topologia de rede: refere-se ao layout físico ou lógico da rede, que define a forma como os dispositivos são interconectados. Exemplos de topologias comuns são: estrela, anel, barramento e malha.
+
+2. Protocolos de rede: são as regras e normas que definem como os dispositivos se comunicam em uma rede. Exemplos de protocolos são: TCP/IP, Ethernet, Wi-Fi e Bluetooth.
+
+3. Endereçamento IP: é o sistema utilizado para identificar os dispositivos em uma rede. Cada dispositivo recebe um endereço IP único, que é utilizado para rotear os pacotes de dados corretamente.
+
+4. Roteamento: é o processo de direcionar os pacotes de dados entre diferentes redes. Os roteadores são responsáveis por realizar essa função, fazendo com que os pacotes cheguem corretamente ao seu destino.
+
+5. Segurança de rede: refere-se às medidas adotadas para proteger a rede contra ameaças e ataques cibernéticos. Isso inclui o uso de firewalls, criptografia e autenticação, entre outras técnicas.
+
+6. Redes locais (LAN) e redes de longa distância (WAN): as redes locais são utilizadas para conectar dispositivos em uma área geográfica limitada, como um escritório. Já as redes de longa distância são utilizadas para conectar dispositivos em locais geograficamente distantes, como diferentes filiais de uma empresa.
+
+7. Virtualização de rede: é uma técnica que permite criar redes virtuais em cima de uma infraestrutura física. Isso proporciona flexibilidade e escalabilidade, além de facilitar a administração e o gerenciamento da rede.
+
+Esses são alguns dos principais conceitos relacionados à infraestrutura de redes em TI. É importante entender esses fundamentos para projetar, implementar e manter redes eficientes e seguras.
+5. Gerenciamento de redes, Monitoramento de redes, Gerenciamento de tráfego, Backup e recuperação de dados, Planejamento de capacidade, Documentação de rede
+A infraestrutura em TI é um conjunto de componentes, sistemas e tecnologias que suportam a infraestrutura geral de uma organização. Isso inclui redes de computadores, servidores, armazenamento de dados, sistemas de segurança, software e hardware, entre outros. À medida que a tecnologia da informação continua a avançar, a infraestrutura em TI está se tornando cada vez mais complexa e essencial para o sucesso das organizações.
+
+Um dos principais componentes da infraestrutura em TI é a rede de computadores. Uma rede de computadores é um conjunto de dispositivos interconectados que podem compartilhar recursos e trocar informações. Existem vários conceitos-chave relacionados a redes de computadores:
+
+1. Topologia de rede: refere-se ao arranjo físico ou lógico dos dispositivos em uma rede. Existem diferentes tipos de topologias, como estrela, anel e barramento.
+
+2. Protocolos de rede: são conjuntos de regras que governam a comunicação entre dispositivos em uma rede. Protocolos comuns incluem TCP/IP (Transmission Control Protocol/Internet Protocol) e Ethernet.
+
+3. Endereço IP: é um número exclusivo atribuído a cada dispositivo conectado a uma rede. O endereço IP permite a identificação e comunicação entre dispositivos em uma rede.
+
+4. Roteamento: é o processo de direcionar o tráfego de rede entre dispositivos. Os roteadores são responsáveis ​​por encaminhar pacotes de dados entre diferentes redes.
+
+5. Segurança de rede: trata das medidas de proteção e precauções em relação ao acesso não autorizado, violação de dados e ataques cibernéticos. Isso inclui criptografia, firewalls, autenticação de usuários e políticas de segurança.
+
+6. LAN (Local Area Network) e WAN (Wide Area Network): LAN refere-se a uma rede de computadores localizada em uma área geográfica restrita, como uma empresa ou campus. WAN, por outro lado, é uma rede que abrange uma área geográfica maior e pode incluir várias redes locais interconectadas.
+
+7. Velocidade da rede: a velocidade de uma rede é medida em termos de largura de banda, que determina a quantidade de dados que podem ser transferidos em um determinado período de tempo. A velocidade da rede pode ser afetada por fatores como a tecnologia de conexão e o número de dispositivos em uma rede.
+
+Esses são apenas alguns dos conceitos básicos de redes de computadores na infraestrutura em TI. Esses conceitos são essenciais para entender e gerenciar efetivamente as redes em uma organização.
+

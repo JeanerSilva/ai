@@ -1,0 +1,263 @@
+Item do edital: Engenharia de Software - Git principais comandos.
+ 
+1. Introdução ao Git, O que é Git?, História do Git, Vantagens do uso do Git
+Com certeza! Aqui estão alguns dos principais comandos do Git:
+
+- `git init`: inicializa um novo repositório Git.
+- `git clone <url>`: cria uma cópia de um repositório remoto em seu computador.
+- `git add <arquivo>`: adiciona um arquivo específico ao índice.
+- `git add .`: adiciona todos os arquivos modificados ao índice.
+- `git commit -m "<mensagem>"`: registra as mudanças no repositório.
+- `git push origin <branch>`: envia os commits locais para o repositório remoto.
+- `git pull origin <branch>`: sincroniza o repositório local com as mudanças mais recentes do repositório remoto.
+- `git branch`: lista todas as branches existentes no repositório.
+- `git branch <nome>`: cria uma nova branch com o nome especificado.
+- `git checkout <branch>`: alterna para a branch especificada.
+- `git merge <branch>`: mescla as mudanças da branch especificada na branch atual.
+- `git status`: exibe o estado atual do repositório.
+- `git log`: exibe o histórico de commits.
+
+Esses são apenas alguns dos comandos mais comumente utilizados no Git. Existem muitos outros comandos e opções disponíveis para auxiliar no desenvolvimento de software em equipe.
+2. Instalação e Configuração do Git, Como instalar o Git, Configuração inicial do Git, Configuração global do Git
+Como especialista em Engenharia de Software, posso compartilhar com você alguns dos principais comandos do Git, que é um sistema de controle de versão amplamente utilizado no desenvolvimento de software. Esses comandos te ajudarão a trabalhar com eficiência ao gerenciar seu repositório Git. Aqui estão alguns dos principais comandos:
+
+1. git init: Inicia um novo repositório Git na pasta atual.
+2. git clone [URL]: Clona (faz uma cópia) de um repositório remoto para o seu computador.
+3. git add [arquivo/pasta]: Adiciona um arquivo ou pasta ao índice (staging area), para que as alterações possam ser commitadas.
+4. git commit -m "[mensagem]": Grava as alterações na linha do tempo do repositório com uma mensagem descritiva.
+5. git status: Mostra o estado atual do repositório, incluindo arquivos modificados, adicionados ou excluídos.
+6. git log: Mostra um registro detalhado de todos os commits feitos no repositório.
+7. git diff: Mostra as diferenças entre os arquivos modificados e as versões anteriores.
+8. git branch: Lista todas as branches (ramificações) no repositório.
+9. git checkout [branch]: Muda para uma branch específica.
+10. git merge [branch]: Une as modificações de uma branch específica à branch atual.
+11. git push: Envia as alterações locais para um repositório remoto.
+12. git pull: Atualiza o repositório local com as alterações do repositório remoto.
+
+Esses são apenas alguns dos comandos Git mais comumente utilizados. Há muitos outros comandos e opções disponíveis para atender às suas necessidades específicas. É recomendável que você também estude e pratique mais sobre o Git para melhorar sua familiaridade com esse sistema de controle de versão.
+3. Comandos básicos do Git, git init, git clone, git add, git commit, git push, git pull
+Como especialista em Engenharia de Software, posso fornecer os principais comandos do Git que são amplamente utilizados no processo de controle de versão de código. Aqui estão alguns dos comandos mais comuns:
+
+1. git init: Cria um novo repositório Git vazio.
+2. git clone [url]: Clona um repositório existente do Git para o seu computador.
+3. git add [arquivo]: Adiciona um arquivo específico ao próximo commit.
+4. git commit -m "[mensagem]": Registra as alterações dos arquivos adicionados no repositório, com uma mensagem descritiva.
+5. git push: Envia as alterações no repositório local para o repositório remoto.
+6. git pull: Obtém as alterações do repositório remoto e as mescla com o repositório local.
+7. git branch: Lista todas as branches existentes no repositório.
+8. git branch [nome]: Cria uma nova branch com o nome especificado.
+9. git checkout [branch]: Altera o branch atual para a branch especificada.
+10. git merge [branch]: Mescla as alterações da branch especificada com a branch atual.
+11. git status: Exibe o status das alterações no repositório.
+12. git log: Exibe o histórico de commits do repositório.
+13. git fetch: Obtém todas as alterações do repositório remoto, mas não mescla as branches.
+14. git reset [arquivo]: Desfaz as alterações no arquivo especificado, mantendo outros arquivos alterados.
+15. git reset --hard: Descarta todas as alterações locais no repositório e retorna ao último commit.
+
+Esses são apenas alguns dos comandos mais comuns do Git. Há muitos outros comandos e opções disponíveis para lidar com situações mais avançadas no controle de versão de código. É sempre recomendado consultar a documentação oficial do Git para obter informações mais detalhadas sobre cada comando.
+4. Branches no Git, O que são branches, Criando e gerenciando branches, Merging de branches
+Aqui estão alguns dos principais comandos do Git que são úteis na engenharia de software:
+
+1. git init: Cria um novo repositório Git vazio.
+
+2. git clone [URL do repositório]: Clona um repositório Git existente para uma pasta local.
+
+3. git add [arquivo]: Adiciona um arquivo ao índice (staging area) para ser commitado.
+
+4. git commit -m "[mensagem do commit]": Cria um novo commit com os arquivos adicionados ao índice.
+
+5. git status: Mostra o status atual do repositório, incluindo os arquivos modificados, adicionados e removidos.
+
+6. git log: Mostra o registro de commit, incluindo os autores, mensagens e datas.
+
+7. git pull: Atualiza o repositório local com as alterações mais recentes do repositório remoto.
+
+8. git push: Envia os commits locais para o repositório remoto.
+
+9. git branch: Lista todas as branches existentes no repositório.
+
+10. git checkout [branch]: Move-se para a branch especificada.
+
+11. git merge [branch]: Incorpora as alterações da branch especificada na branch atual.
+
+12. git stash: Guarda as alterações atuais em uma área temporária, permitindo que você mude de branch sem fazer commit.
+
+13. git remote add [nome] [URL do repositório]: Adiciona um novo repositório remoto ao seu repositório local.
+
+14. git remote -v: Lista os repositórios remotos configurados.
+
+Esses são apenas alguns dos comandos básicos do Git. Existem muitos outros comandos e opções úteis, mas estes devem ser suficientes para começar a trabalhar com o Git na engenharia de software. É importante aprender mais sobre o Git e seu fluxo de trabalho para aproveitar ao máximo essa ferramenta de controle de versão.
+5. Trabalhando com repositórios remotos, git remote, git fetch, git merge, git push
+Como especialista em Engenharia de Software, posso fornecer uma lista dos principais comandos do Git para ajudá-lo em seu trabalho de controle de versão e colaboração com outros desenvolvedores. Aqui estão alguns comandos essenciais do Git:
+
+1. git init: Inicializa um novo repositório Git em um diretório vazio ou existente.
+
+2. git clone [URL]: Baixa um repositório Git existente para o seu computador.
+
+3. git add [arquivo]: Adiciona um arquivo específico ao índice (staging area) para ser commitado.
+
+4. git commit -m "[mensagem]": Realiza um commit do(s) arquivo(s) adicionado(s) ao repositório Git, junto com uma mensagem descritiva.
+
+5. git status: Exibe o status atual do repositório Git, mostrando arquivos modificados, arquivos adicionados e os commits pendentes.
+
+6. git log: Mostra o histórico de commits do repositório Git.
+
+7. git branch: Lista todas as branches existentes no repositório Git.
+
+8. git checkout [branch]: Muda para a branch especificada.
+
+9. git merge [branch]: Combina as alterações da branch especificada com a branch atual.
+
+10. git pull: Atualiza o repositório local com as alterações mais recentes do repositório remoto.
+
+11. git push: Envia suas alterações para o repositório remoto.
+
+12. git remote -v: Exibe as URLs dos repositórios remotos associados ao repositório local.
+
+13. git fetch: Recupera os commits mais recentes do repositório remoto sem mesclá-los em sua branch atual.
+
+14. git revert [commit]: Desfaz as alterações do commit especificado, criando um novo commit com as alterações desfeitas.
+
+15. git reset [arquivo]: Remove o arquivo especificado do índice (staging area).
+
+Esses são apenas alguns dos principais comandos do Git. Existem muitos outros comandos e funcionalidades disponíveis para explorar e aprofundar seu conhecimento em controle de versão com o Git.
+6. Resolução de conflitos no Git, O que são conflitos, Como resolver conflitos, Melhores práticas para evitar conflitos
+A engenharia de software é uma disciplina que combina princípios de ciência da computação e engenharia para desenvolver software de maneira eficiente e confiável. O Git é uma ferramenta amplamente utilizada no desenvolvimento de software para controle de versão e colaboração em equipe. Abaixo, estão alguns dos principais comandos do Git:
+
+1. git init:
+Inicializa um repositório Git em um diretório existente.
+
+2. git clone:
+Clona um repositório existente do Git para um diretório local.
+
+3. git add:
+Adiciona um arquivo ao índice (staging area) para ser controlado pelo Git.
+
+4. git commit:
+Grava alterações feitas em arquivos do índice no repositório.
+
+5. git push:
+Envia alterações locais para um repositório remoto.
+
+6. git pull:
+Atualiza um repositório local com as alterações mais recentes de um repositório remoto.
+
+7. git branch:
+Lista, cria ou exclui branches (ramificações) no repositório.
+
+8. git checkout:
+Alterna entre branches ou restaura arquivos de um commit específico.
+
+9. git merge:
+Combina alterações de uma branch para outra.
+
+10. git stash:
+Guarda alterações não commitadas em uma pilha temporária para poder alternar de branch ou commit.
+
+11. git status:
+Mostra o status atual dos arquivos no repositório.
+
+12. git log:
+Mostra o histórico de commits no repositório.
+
+13. git remote:
+Configura conexões com repositórios remotos.
+
+14. git fetch:
+Busca as alterações mais recentes de um repositório remoto, mas não as mescla automaticamente.
+
+15. git rebase:
+Aplica as alterações de uma branch em outra, substituindo o histórico original.
+
+Esses comandos são apenas alguns dos principais recursos do Git. Há muitos outros comandos e funcionalidades disponíveis para gerenciar efetivamente o controle de versão e colaboração em um projeto de software.
+7. Gitignore, O que é o arquivo .gitignore, Como utilizar o .gitignore, Exemplos de uso do .gitignore
+Aqui estão alguns dos principais comandos do Git que são amplamente utilizados em Engenharia de Software:
+
+1. git init: Inicia um novo repositório Git em um diretório vazio ou transforma um diretório existente em um repositório Git.
+
+2. git clone <URL>: Clona um repositório Git existente para o diretório local.
+
+3. git add <arquivo>: Adiciona um arquivo específico ao índice do Git para ser registrado no próximo commit.
+
+4. git commit -m "<mensagem>": Cria um novo commit com os arquivos presentes no índice e uma mensagem de commit.
+
+5. git status: Exibe o estado atual do seu repositório - quais arquivos foram modificados, adicionados ou removidos.
+
+6. git pull: Atualiza o repositório local com as alterações mais recentes do repositório remoto.
+
+7. git push: Envia as alterações locais para o repositório remoto.
+
+8. git branch: Lista todas as branches do repositório atual.
+
+9. git checkout <branch>: Muda para a branch especificada.
+
+10. git merge <branch>: Une a branch especificada à branch atual.
+
+11. git log: Exibe o histórico de commits do repositório.
+
+12. git revert <commit>: Desfaz um commit específico, criando um novo commit com as alterações revertidas.
+
+13. git remote add <nome> <URL>: Adiciona um repositório remoto ao repositório local.
+
+14. git remote -v: Lista todos os repositórios remotos associados ao repositório local.
+
+15. git fetch <nome>: Recupera as atualizações mais recentes do repositório remoto especificado.
+
+Esses são apenas alguns dos comandos mais comumente usados no Git. Existem muitos outros comandos disponíveis com diferentes funcionalidades, mas esses devem ser suficientes para trabalhar com o Git em Engenharia de Software.
+8. Gitflow, O que é Gitflow, Como utilizar o Gitflow, Benefícios do Gitflow
+Claro! Aqui estão alguns dos principais comandos do Git:
+
+1. git init: Inicializa um novo repositório Git em um diretório vazio.
+
+2. git clone: Clona um repositório Git existente para um diretório local.
+
+3. git add: Adiciona arquivos ao índice do Git (staging area) para serem incluídos no próximo commit.
+
+4. git commit: Confirma as alterações feitas nos arquivos do índice do Git e cria um novo commit.
+
+5. git push: Envia os commits locais para um repositório remoto.
+
+6. git pull: Atualiza o repositório local com as alterações mais recentes do repositório remoto.
+
+7. git branch: Lista, cria ou exclui branches (ramificações) no repositório.
+
+8. git checkout: Muda para uma branch específica ou restaura arquivos para um estado específico.
+
+9. git merge: Combina as alterações de uma branch para outra.
+
+10. git status: Mostra o estado atual do repositório, incluindo os arquivos modificados, adicionados ou excluídos.
+
+11. git log: Exibe o histórico de commits do repositório.
+
+12. git stash: Guarda as mudanças em um local temporário para que você possa alterar de branch ou aplicar comandos sem commitar as alterações.
+
+Esses são apenas alguns dos comandos mais básicos e comuns do Git. Existem muitos outros comandos e funcionalidades mais avançadas disponíveis.
+9. Ferramentas e integrações com o Git, GitHub, Bitbucket, GitLab, IDEs e editores de código com suporte ao Git
+Como especialista em Engenharia de Software, posso lhe fornecer uma lista dos principais comandos Git que você deve conhecer:
+
+1. git init: Inicializa um repositório Git em um diretório específico.
+
+2. git clone [repositório]: Clona um repositório existente para um novo diretório local.
+
+3. git add [arquivo]: Adiciona um arquivo ao próximo commit.
+
+4. git commit -m "[mensagem]": Registra as mudanças feitas nos arquivos adicionados.
+
+5. git push: Envio as mudanças locais para o repositório remoto.
+
+6. git pull: Atualiza o repositório local com as alterações mais recentes do repositório remoto.
+
+7. git branch: Lista as branchs disponíveis no repositório local.
+
+8. git branch [nome da branch]: Cria uma nova branch.
+
+9. git checkout [nome da branch]: Troca para uma branch específica.
+
+10. git merge [nome da branch]: Combina as alterações de uma branch com a branch atual.
+
+11. git status: Mostra o status atual do repositório (arquivos modificados, adicionados, excluídos).
+
+12. git log: Exibe o histórico de commits.
+
+Esses são apenas alguns dos comandos Git mais comumente usados. Git é uma ferramenta poderosa para controle de versionamento e colaboração em projetos de software. Se você está começando com Git, sugiro explorar esses comandos para obter uma melhor compreensão do funcionamento básico desta ferramenta.
+

@@ -1,0 +1,97 @@
+Item do edital: Engenharia de Software - modelo serverless.
+ 
+1. Conceitos básicos de Engenharia de Software, Definição de Engenharia de Software, Processos de Engenharia de Software, Princípios da Engenharia de Software
+A engenharia de software é uma disciplina que envolve o desenvolvimento, manutenção e evolução de software de alta qualidade. Uma das abordagens mais recentes na engenharia de software é o modelo serverless.
+
+O modelo serverless, também conhecido como arquitetura sem servidor, é um paradigma de computação em nuvem em que o provedor de computação em nuvem é responsável por gerenciar e dimensionar automaticamente os recursos de computação necessários para executar o código do aplicativo. Isso permite que os desenvolvedores se concentrem apenas na lógica de negócios do aplicativo, sem se preocupar com a infraestrutura subjacente.
+
+Nesse modelo, o desenvolvedor escreve pequenos trechos de código, também chamados de "funções", e os implanta em um provedor de nuvem, como Amazon Web Services (AWS), Azure, Google Cloud Platform (GCP) ou IBM Cloud.
+
+As principais vantagens da engenharia de software no modelo serverless incluem:
+
+1. Escalabilidade automática: o provedor de nuvem dimensiona automaticamente os recursos de computação necessários para lidar com a carga de trabalho do aplicativo, permitindo que o aplicativo se adapte às demandas em tempo real.
+
+2. Custo reduzido: com a arquitetura serverless, os desenvolvedores pagam apenas pelo tempo de execução das funções, sem a necessidade de provisionar recursos permanentes.
+
+3. Maior agilidade de desenvolvimento: o desenvolvedor pode se concentrar apenas na lógica do aplicativo e não precisa se preocupar com tarefas de gerenciamento de infraestrutura, como provisionamento de servidores e configuração de rede.
+
+4. Confiabilidade: com a arquitetura serverless, o provedor de nuvem é responsável por garantir a disponibilidade e confiabilidade do ambiente de execução.
+
+No entanto, também existem algumas considerações a serem levadas em conta ao adotar o modelo serverless. Por exemplo, é importante ter um bom entendimento dos limites e restrições impostos pelos provedores de nuvem, como a duração máxima de execução das funções ou o tamanho máximo permitido para os dados de entrada e saída.
+
+Em resumo, a engenharia de software no modelo serverless é uma abordagem que permite que os desenvolvedores se concentrem apenas na lógica do aplicativo, enquanto o provedor de nuvem cuida dos aspectos de infraestrutura. Essa abordagem oferece vantagens como escalabilidade automática, custo reduzido, agilidade e confiabilidade, mas requer um bom entendimento dos limites e restrições impostos pelos fornecedores de nuvem.
+2. Modelo Serverless, Definição de modelo serverless, Arquitetura serverless, Vantagens e desvantagens do modelo serverless
+A engenharia de software é uma disciplina que envolve o desenvolvimento de softwares eficientes, confiáveis e de alta qualidade. No contexto da computação em nuvem, o modelo serverless é um paradigma de computação em que a infraestrutura e o gerenciamento de servidores são abstraídos do desenvolvedor. Isso significa que, em vez de se preocupar com a configuração e manutenção de servidores, os desenvolvedores podem se concentrar apenas na lógica de negócios de suas aplicações.
+
+No modelo serverless, a aplicação é dividida em pequenas funções, também conhecidas como "funções sem servidor", que são acionadas por eventos. Essas funções são executadas em ambientes de computação altamente escalonáveis e efêmeros, que são fornecidos por provedores de serviços em nuvem, como a AWS (Amazon Web Services), Azure (Microsoft) e GCP (Google Cloud Platform).
+
+Existem várias vantagens em adotar o modelo serverless na engenharia de software. Primeiro, há uma redução significativa na complexidade e no custo de gerenciamento de infraestrutura. Os desenvolvedores podem se concentrar exclusivamente no desenvolvimento de código, sem se preocupar com questões relacionadas a servidores. Além disso, o modelo serverless oferece escalabilidade automática, ou seja, a capacidade de lidar com variações de carga de forma eficiente e sem intervenção manual. Isso permite que as aplicações sejam dimensionadas de acordo com a demanda, garantindo uma experiência de usuário sempre estável e de alto desempenho.
+
+No entanto, também existem desafios no modelo serverless. Uma preocupação comum é o tempo de inicialização das funções, pois pode haver um atraso inicial quando uma função é acionada pela primeira vez. Além disso, pode ser mais difícil depurar e monitorar aplicações serverless, pois a execução ocorre em ambientes controlados pelo provedor de serviços em nuvem.
+
+No geral, a engenharia de software com o modelo serverless oferece uma abordagem moderna e eficiente para o desenvolvimento de aplicações escaláveis e orientadas a eventos. No entanto, é importante entender os aspectos específicos deste modelo e suas implicações antes de adotá-lo em um projeto.
+3. Tecnologias utilizadas no modelo serverless, Funções como serviço (Function as a Service - FaaS), Serviços de armazenamento e banco de dados, Serviços de autenticação e autorização
+A engenharia de software é uma disciplina que engloba técnicas, métodos e práticas para desenvolver software de forma eficiente e de alta qualidade. O modelo serverless, por outro lado, é uma abordagem de arquitetura de software onde o desenvolvedor não precisa se preocupar com a infraestrutura de servidores subjacente.
+
+No modelo serverless, a infraestrutura é fornecida pelo provedor de serviços em nuvem e os desenvolvedores só precisam se concentrar na codificação da lógica de negócios. As aplicações são projetadas em torno de funções que são acionadas por eventos, como uma solicitação HTTP.
+
+Existem várias vantagens no uso do modelo serverless na engenharia de software, como:
+
+1. Escalabilidade automática: o provedor de serviços em nuvem gerencia a escalabilidade da infraestrutura, dimensionando automaticamente os recursos conforme necessário.
+
+2. Menor custo: como a infraestrutura é gerenciada pelo provedor de serviços em nuvem, você paga apenas pelo tempo de execução das funções, não pelos servidores em si.
+
+3. Agilidade: o modelo serverless permite que os desenvolvedores se concentrem apenas no desenvolvimento de código, tornando o processo de desenvolvimento mais rápido.
+
+4. Maior disponibilidade: o provedor de serviços em nuvem garante alta disponibilidade, gerenciando a replicação de funções em várias regiões geográficas.
+
+5. Manutenção simplificada: com o modelo serverless, o provedor de serviços em nuvem é responsável por atualizações, correções e gerenciamento da infraestrutura. Os desenvolvedores podem se concentrar na lógica de negócios.
+
+No entanto, existem algumas considerações ao usar o modelo serverless. É importante lembrar que, como a execução do código é gerenciada pelo provedor de serviços em nuvem, pode haver algumas limitações, como tempo de execução máximo e recursos disponíveis.
+
+Além disso, a arquitetura serverless é mais adequada para aplicativos que são baseados em eventos, como microsserviços, aplicativos web ou mobile backend. Para aplicativos monolíticos, pode ser necessário fazer modificações significativas para funcionar de forma serverless.
+
+Em resumo, a engenharia de software no modelo serverless oferece várias vantagens, como escalabilidade automática, menor custo e agilidade no desenvolvimento. No entanto, é importante entender as limitações e considerações ao adotar essa abordagem arquitetural.
+4. Desenvolvimento de aplicações serverless, Linguagens de programação utilizadas, Frameworks e ferramentas para desenvolvimento serverless, Boas práticas de desenvolvimento serverless
+A Engenharia de Software é uma disciplina que se concentra em projetar, desenvolver e manter sistemas de software de alta qualidade. O modelo serverless é uma abordagem na qual as aplicações são construídas usando serviços gerenciados na nuvem, com a infraestrutura e os servidores sendo totalmente gerenciados pelo provedor de nuvem.
+
+Nesse modelo, o desenvolvedor não precisa se preocupar com a infraestrutura subjacente, como provisionamento de servidores, escalabilidade e segurança. Em vez disso, o foco é na lógica da aplicação e na implementação de funções ou serviços individuais que podem ser executados em resposta a eventos específicos.
+
+Uma das principais vantagens do modelo serverless é sua escalabilidade automática. Os provedores de nuvem podem ajustar dinamicamente os recursos alocados para atender à demanda em tempo real. Isso permite que as aplicações lidem com picos de tráfego e sejam altamente disponíveis, sem a necessidade de provisionamento ou configuração manual de servidores.
+
+Outra vantagem é a redução de custos. No modelo serverless, os desenvolvedores pagam apenas pelo tempo de execução e pelos recursos realmente utilizados pelas funções ou serviços. Isso elimina a necessidade de pagar por servidores ociosos, resultando em uma economia significativa.
+
+No entanto, o modelo serverless também apresenta alguns desafios. A principal é a complexidade da arquitetura distribuída. Como as aplicações são compostas por várias funções ou serviços diferentes, é necessário considerar a comunicação e a coordenação entre eles. Além disso, a falta de controle direto da infraestrutura pode limitar algumas possibilidades de personalização ou otimização.
+
+No geral, a engenharia de software no modelo serverless requer uma mudança de mentalidade e uma compreensão profunda dos serviços oferecidos pelos provedores de nuvem. No entanto, quando implementado corretamente, esse modelo pode resultar em aplicações altamente escaláveis, resilientes e eficientes.
+5. Implantação e gerenciamento de aplicações serverless, Provedores de serviços serverless, Implantação e escalabilidade de aplicações serverless, Monitoramento e gerenciamento de aplicações serverless
+A engenharia de software envolve a aplicação de princípios e práticas para desenvolver, testar e manter software de alta qualidade. Um modelo serverless, ou sem servidor, é um padrão de arquitetura em que o desenvolvedor não precisa gerenciar a infraestrutura subjacente, como servidores físicos ou máquinas virtuais. Em vez disso, o desenvolvedor pode se concentrar na lógica de negócio e delegar a gestão da infraestrutura para o provedor de serviços em nuvem.
+
+Nesse modelo, as aplicações são compostas por funções individuais que são executadas de maneira independente, geralmente em resposta a eventos específicos. Cada função é acionada apenas quando necessário, e não há um servidor em execução continuamente aguardando solicitações.
+
+Existem várias vantagens na adoção do modelo serverless na engenharia de software. Algumas delas incluem:
+
+1. Escalabilidade automática: as funções serverless são dimensionadas automaticamente conforme a demanda. Isso significa que a aplicação pode lidar com picos de tráfego sem a necessidade de provisionar recursos adicionais manualmente.
+
+2. Custo reduzido: o modelo serverless permite pagar apenas pelo tempo de execução das funções, sem a necessidade de manter servidores em funcionamento continuamente. Isso pode resultar em uma redução significativa nos custos de infraestrutura.
+
+3. Foco no código: com a infraestrutura gerenciada pelo provedor de serviços em nuvem, os desenvolvedores podem se concentrar exclusivamente na lógica de negócio e no desenvolvimento de código, em vez de se preocupar com a infraestrutura subjacente.
+
+4. Tempo de resposta rápido: como as funções serverless são executadas em resposta a eventos, elas podem ser acionadas rapidamente, garantindo um tempo de resposta ágil para as solicitações dos usuários.
+
+No entanto, é importante considerar algumas desvantagens do modelo serverless. Uma limitação comum é a maior complexidade na depuração e no gerenciamento de dependências entre as funções. Além disso, alguns provedores de serviços em nuvem têm limitações de tempo de execução e recursos disponíveis para as funções serverless.
+
+Em resumo, a adoção do modelo serverless na engenharia de software pode trazer benefícios significativos, como escalabilidade automática, redução de custos e foco no desenvolvimento de código. No entanto, é importante avaliar e entender as limitações e desafios específicos desse modelo antes de aplicá-lo em seus projetos.
+6. Segurança no modelo serverless, Desafios de segurança no modelo serverless, Melhores práticas de segurança para aplicações serverless, Ferramentas e serviços de segurança para aplicações serverless
+A engenharia de software é a área responsável pelo desenvolvimento de software de maneira sistemática e eficiente, seguindo boas práticas e utilizando métodos e técnicas adequadas. O modelo serverless é um conceito relativamente novo na engenharia de software, que tem ganhado popularidade nos últimos anos.
+
+No modelo serverless, também conhecido como computação sem servidor, o desenvolvedor não precisa se preocupar com a infraestrutura e o gerenciamento dos servidores em que o software será executado. Nesse modelo, o fornecedor de nuvem é responsável por provisionar, escalar e gerenciar os recursos necessários para executar as aplicações.
+
+Os principais benefícios do modelo serverless são a escalabilidade automática, o pagamento apenas pelos recursos utilizados, redução de custos e agilidade no desenvolvimento e implantação de aplicações. Além disso, o modelo serverless permite que os desenvolvedores foquem mais na lógica de negócio e menos na infraestrutura.
+
+Para desenvolver aplicações serverless, é necessário utilizar serviços fornecidos pelas plataformas de nuvem, como AWS Lambda, Azure Functions e Google Cloud Functions. Esses serviços permitem que os desenvolvedores escrevam código executável em resposta a eventos, como uma requisição HTTP, um upload de arquivo ou uma atualização em um banco de dados.
+
+Na engenharia de software serverless, é importante considerar aspectos como a granularidade dos serviços, o gerenciamento de dependências, a monitoração e o tratamento de erros, a segurança e a conformidade com regulamentações. Além disso, é preciso entender as limitações e características específicas de cada plataforma de nuvem.
+
+Em resumo, a engenharia de software serverless é um modelo promissor para o desenvolvimento de aplicações escaláveis, flexíveis e eficientes, com menor custo e maior velocidade de implantação. Porém, é necessário ter conhecimento específico dessa abordagem e das ferramentas e serviços disponíveis na nuvem.
+

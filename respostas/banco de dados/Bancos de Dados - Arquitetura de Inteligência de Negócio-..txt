@@ -1,0 +1,109 @@
+Item do edital: Bancos de Dados - Arquitetura de Inteligência de Negócio-.
+ 
+1. Bancos de Dados, Conceitos básicos de bancos de dados, Modelos de bancos de dados (relacional, hierárquico, etc.), Linguagens de consulta (SQL, etc.), Sistemas de gerenciamento de bancos de dados (SGBD)
+Na arquitetura de Inteligência de Negócio (Business Intelligence), os bancos de dados desempenham um papel fundamental. Eles são responsáveis por armazenar, organizar e gerenciar os dados necessários para análises e tomadas de decisão estratégicas.
+
+Existem diferentes tipos de bancos de dados utilizados na arquitetura de Inteligência de Negócio, como:
+
+1. Banco de Dados Transacional: Também conhecido como OLTP (Online Transaction Processing), é responsável por armazenar os dados em tempo real que são gerados pelas operações regulares da empresa, como vendas, estoque, compras, etc.
+
+2. Banco de Dados Analítico: Também conhecido como OLAP (Online Analytical Processing), é utilizado para armazenar os dados históricos e consolidados da empresa. Esses bancos de dados são otimizados para consultas complexas e análises multidimensionais, permitindo a descoberta de tendências e padrões nos dados.
+
+3. Data Warehouse: É uma coleção de dados de diferentes fontes que são transformados, integrados e organizados em um único local. O objetivo é criar uma base de dados consolidada e consistente para análise, sendo utilizado como fonte principal para a Inteligência de Negócio.
+
+4. Data Mart: É um subconjunto de um Data Warehouse, focado em uma área de negócio específica. Geralmente, são criados diferentes Data Marts para cada departamento ou processo da empresa, proporcionando agilidade e simplificando as análises.
+
+5. Data Lake: É uma arquitetura de armazenamento que permite o armazenamento de grandes volumes de dados em sua forma bruta. Diferente dos Data Warehouses e Data Marts, os dados no Data Lake não são transformados ou organizados previamente, permitindo uma maior flexibilidade ao explorá-los posteriormente.
+
+Além disso, é comum utilizar técnicas de modelagem de dados específicas para o ambiente de Inteligência de Negócio, como o modelo dimensional (star schema e snowflake schema), que facilitam a análise e a consulta dos dados.
+
+Em resumo, os bancos de dados na arquitetura de Inteligência de Negócio são essenciais para garantir a disponibilidade, a integridade e a confiabilidade dos dados utilizados nas análises e na tomada de decisão estratégica da empresa.
+2. Arquitetura de Inteligência de Negócio, Conceitos básicos de inteligência de negócio, Componentes da arquitetura de inteligência de negócio (data warehouse, data mart, etc.), Processo de extração, transformação e carga de dados (ETL), Ferramentas de análise e visualização de dados
+A arquitetura de inteligência de negócio (BI) em bancos de dados refere-se à estrutura e configuração do sistema que permite a coleta, armazenamento, processamento e análise de dados para tomada de decisões e suporte a atividades de negócio.
+
+Existem algumas etapas principais para a implementação de uma arquitetura de BI em um banco de dados:
+
+1. Identificação de requisitos: Nessa etapa, é necessário identificar quais são as necessidades de inteligência de negócios da organização e definir os objetivos que serão alcançados com a implementação do BI.
+
+2. Modelagem de dados: Nessa etapa, é criado um modelo de dados que representa as informações relevantes para o BI. Isso inclui a definição de tabelas, relacionamentos entre elas e atributos pertinentes às análises.
+
+3. Extração, transformação e carga (ETL): Nesse passo, os dados são extraídos de diferentes fontes, como sistemas transacionais, arquivos ou outros bancos de dados. Esses dados são então transformados e preparados para serem carregados no ambiente de BI.
+
+4. Armazenamento e processamento de dados: Os dados extraídos e transformados são armazenados em um banco de dados especialmente projetado para suportar o BI. Esse banco de dados, conhecido como data warehouse, é otimizado para consultas rápidas e análises complexas.
+
+5. Ferramentas de análise: Para acessar e visualizar os dados armazenados no data warehouse, são utilizadas ferramentas de análise e geração de relatórios. Essas ferramentas fornecem interfaces intuitivas e recursos avançados para a exploração dos dados e criação de dashboards e relatórios.
+
+6. Disponibilização dos dados: Nessa etapa, os dados e análises são disponibilizados para os usuários finais. Isso pode ser feito por meio de portais, aplicativos móveis ou qualquer outra forma de acesso conveniente para os usuários.
+
+7. Monitoramento e manutenção: O ambiente de BI precisa ser monitorado e mantido regularmente para garantir a integridade dos dados e o bom desempenho das consultas e análises. Isso inclui a atualização e limpeza dos dados, bem como a otimização das consultas quando necessário.
+
+Ao implementar uma arquitetura de inteligência de negócio em um banco de dados, é importante considerar aspectos como a segurança dos dados, escalabilidade do sistema, requisitos de desempenho e também a capacidade de promover a colaboração entre os usuários. Além disso, é fundamental envolver os stakeholders da organização durante todas as etapas do processo para garantir que as soluções de BI atendam às necessidades de negócio da empresa.
+3. Data Warehouse, Conceitos básicos de data warehouse, Modelagem dimensional, Processo de construção de um data warehouse, Técnicas de extração, transformação e carga de dados (ETL)
+A arquitetura de inteligência de negócio é uma estrutura que permite a coleta, organização, análise e apresentação de dados para suportar processos de tomada de decisão dentro de uma organização. Essa arquitetura se baseia no uso de bancos de dados para armazenar as informações necessárias para a análise e geração de relatórios e dashboards.
+
+Existem diferentes tipos de bancos de dados que podem ser utilizados na arquitetura de inteligência de negócio, cada um com suas características específicas. Alguns dos principais são:
+
+1. Banco de Dados Relacional: É o tipo mais comum de banco de dados utilizado em ambientes de inteligência de negócio. Ele organiza as informações em tabelas estruturadas com linhas e colunas. Os dados são armazenados de forma organizada e relacionada entre as tabelas, permitindo a realização de consultas complexas e a geração de relatórios detalhados.
+
+2. Banco de Dados Multidimensional: Esse tipo de banco de dados é utilizado para armazenar e analisar grandes volumes de dados relacionados, como os dados de vendas de uma empresa. Ele organiza as informações em forma de cubos multidimensionais, onde cada dimensão representa uma característica dos dados, como produto, tempo e região. Isso permite uma análise mais rápida e eficiente dos dados.
+
+3. Banco de Dados NoSQL: Esse tipo de banco de dados não utiliza a estrutura de tabelas do banco de dados relacional, permitindo maior flexibilidade na modelagem dos dados. Ele é utilizado quando há a necessidade de armazenar grandes volumes de dados não estruturados, como textos, imagens e vídeos. Além disso, o banco de dados NoSQL também é adequado para ambientes de Big Data, que envolvem o processamento de grandes quantidades de informações.
+
+Além dos bancos de dados, a arquitetura de inteligência de negócio também envolve outros componentes, como os ETL (Extract, Transform, Load), que são responsáveis pela extração, transformação e carregamento dos dados para o banco de dados. Também são utilizadas ferramentas de visualização, como dashboards e relatórios, para apresentar os dados de forma clara e compreensível para os usuários finais.
+
+Por fim, é importante destacar que a escolha do banco de dados e da arquitetura de inteligência de negócio depende das necessidades e características específicas de cada organização. É fundamental analisar os requisitos e objetivos do projeto para selecionar a solução mais adequada.
+4. Data Mart, Conceitos básicos de data mart, Tipos de data mart (departamental, setorial, etc.), Processo de construção de um data mart, Integração de data marts com o data warehouse
+Arquitetura de Inteligência de Negócio (ou Business Intelligence, em inglês) refere-se a um conjunto de processos, tecnologias e ferramentas que ajudam as organizações a coletar, gerenciar e analisar dados para apoio à tomada de decisões estratégicas.
+
+Dentro desse contexto, bancos de dados desempenham um papel fundamental na arquitetura de inteligência de negócios. Eles são utilizados para armazenar e gerenciar os dados necessários para as análises e relatórios que suportam as operações e estratégias das organizações.
+
+Existem diferentes tipos de bancos de dados que podem ser utilizados na arquitetura de inteligência de negócios. Alguns dos mais comuns incluem:
+
+- Banco de dados relacional: é o tipo de banco de dados mais tradicional e bem estabelecido. Ele organiza os dados em tabelas, com relacionamentos definidos entre elas. É comumente usado para armazenar informações estruturadas, como dados financeiros, de vendas e de recursos humanos.
+
+- Banco de dados multidimensional: é projetado especificamente para realizar análises complexas em grandes volumes de dados. Ele armazena os dados em um formato otimizado para consultas rápidas e eficientes, geralmente utilizando a estrutura de cubos.
+
+- Banco de dados orientado a documentos: é uma alternativa ao modelo relacional, onde os dados são armazenados em documentos no formato JSON, XML ou BSON. Esses bancos de dados são altamente flexíveis e escaláveis, permitindo que os dados não estruturados e semiestruturados sejam armazenados e consultados eficientemente.
+
+- Banco de dados em memória: são bancos de dados que mantêm os dados em memória principal, em vez de armazená-los em discos. Isso permite consultas mais rápidas e eficientes, adequadas para análises em tempo real e processamento de grande volume de dados.
+
+Além disso, é comum utilizar tecnologias de processamento paralelo, como bancos de dados distribuídos ou sistemas de computação em cluster, para lidar com grandes conjuntos de dados e realizar análises mais complexas.
+
+A arquitetura de inteligência de negócios também pode envolver a integração de múltiplos bancos de dados, incluindo fontes externas, como bancos de dados de terceiros ou dados provenientes de APIs. Isso permite que as organizações tenham uma visão abrangente e integrada de seus dados, facilitando a geração de insights e a tomada de decisões informadas.
+
+No geral, a escolha do banco de dados na arquitetura de inteligência de negócios depende das necessidades específicas da organização, do volume e do tipo de dados que precisam ser armazenados e analisados, bem como dos recursos e requisitos de desempenho disponíveis. É importante considerar as capacidades de processamento, armazenamento e escalabilidade do banco de dados para garantir uma arquitetura eficaz e eficiente.
+5. Ferramentas de Análise e Visualização de Dados, Conceitos básicos de ferramentas de análise e visualização de dados, Tipos de ferramentas (OLAP, dashboards, etc.), Funcionalidades e recursos das ferramentas, Exemplos de ferramentas populares no mercado
+A Arquitetura de Inteligência de Negócio (BI) é responsável por fornecer uma estrutura que permite a captura, o armazenamento, a análise e a visualização de dados para suportar processos de tomada de decisão em uma organização.
+
+No âmbito de bancos de dados, a arquitetura de BI geralmente envolve uma combinação de várias tecnologias e componentes, como um sistema de gerenciamento de banco de dados (SGBD), um data warehouse, ferramentas de extração, transformação e carga de dados (ETL), ferramentas de análise de dados (OLAP) e ferramentas de visualização de dados.
+
+A arquitetura de BI pode ser dividida em camadas, sendo a primeira camada responsável pela extração de dados de várias fontes, como bancos de dados operacionais, planilhas e arquivos de texto. Esses dados são então transportados para um data warehouse, que é uma base de dados otimizada para consultas analíticas e armazenamento de grandes volumes de dados históricos.
+
+Na camada do data warehouse, os dados são organizados em estruturas analíticas hierárquicas, como cubos OLAP, que permitem análises multidimensionais. Esses cubos podem ser acessados por ferramentas de análise, que permitem aos usuários executar consultas complexas e criar relatórios e dashboards interativos.
+
+A camada final da arquitetura de BI é a camada de visualização de dados, onde os resultados das análises são apresentados de forma visualmente atraente e intuitiva. Isso pode ser feito por meio de gráficos, tabelas, mapas e outras representações visuais.
+
+Os bancos de dados desempenham um papel fundamental na arquitetura de BI, pois são responsáveis por armazenar e gerenciar os dados que serão analisados e visualizados. Os SGBDs devem ser capazes de lidar com grandes volumes de dados e fornecer acesso rápido e eficiente para consultas e análises. Além disso, devem ter recursos avançados, como suporte a consultas SQL complexas, índices e otimização de desempenho.
+
+Em resumo, a arquitetura de BI baseada em bancos de dados é essencial para permitir uma análise completa e eficaz dos dados de uma organização, fornecendo insights valiosos para o processo de tomada de decisão.
+6. Processo de Extração, Transformação e Carga de Dados (ETL), Conceitos básicos de ETL, Fases do processo de ETL (extração, transformação, carga), Técnicas e boas práticas de ETL, Ferramentas de ETL disponíveis no mercado
+Nos bancos de dados, a Arquitetura de Inteligência de Negócio (BI) é um conjunto de processos, tecnologias e ferramentas que permitem a coleta, armazenamento, gerenciamento e análise de informações para apoiar a tomada de decisões estratégicas nas organizações.
+
+A arquitetura de BI é composta por diferentes componentes que trabalham juntos para fornecer uma visão completa dos dados da empresa. Esses componentes incluem:
+
+1. Fontes de dados: as fontes de dados são os sistemas e aplicativos que geram informações dentro da organização. Isso pode incluir sistemas de transações, bancos de dados, planilhas, entre outros.
+
+2. Camada de extração, transformação e carga (ETL): a camada ETL é responsável por extrair dados de várias fontes, transformá-los em um formato comum e carregá-los no local de armazenamento de dados. Isso permite que os dados sejam padronizados e consistentes para análise.
+
+3. Data Warehouse: o data warehouse é o local onde os dados são armazenados de forma estruturada e otimizada para a análise. Ele suporta consultas complexas e fornece uma visão consolidada dos dados de toda a organização.
+
+4. Camada de modelagem de dados: a camada de modelagem de dados define a estrutura dos dados no data warehouse. Pode incluir esquemas dimensionais, esquemas em estrela ou esquemas de cubo, dependendo das necessidades de análise e das perguntas que precisam ser respondidas.
+
+5. Ferramentas de análise: as ferramentas de análise permitem que os usuários explorem os dados armazenados no data warehouse. Isso pode incluir ferramentas de relatórios, OLAP (Online Analytical Processing), data mining, dashboards, entre outros.
+
+6. Camada de entrega de informações: essa camada é responsável por fornecer as informações analíticas aos usuários finais. Isso pode incluir relatórios pré-definidos, painéis de controle interativos, alertas automáticos, entre outros.
+
+A arquitetura de BI permite que as organizações tomem decisões informadas e baseadas em dados, identifiquem tendências, padrões e oportunidades de negócios e melhorem o desempenho geral da empresa. Ao ter acesso a informações relevantes e em tempo real, as empresas podem identificar áreas de melhoria, otimizar processos e impulsionar o crescimento.
+
+Em resumo, a arquitetura de Inteligência de Negócio (BI) nos bancos de dados é um conjunto de processos e tecnologias que permitem a transformação de dados brutos em informações valiosas para tomada de decisões estratégicas nas organizações.
+

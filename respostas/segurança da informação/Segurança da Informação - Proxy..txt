@@ -1,0 +1,23 @@
+Item do edital: Segurança da Informação - Proxy.
+ 
+1. - Conceitos básicos de segurança da informação  - Confidencialidade  - Integridade  - Disponibilidade- O que é um proxy  - Definição  - Funcionamento  - Tipos de proxy (forward, reverse, transparente)- Benefícios do uso de um proxy  - Aumento da segurança  - Controle de acesso à internet  - Melhoria no desempenho da rede- Funcionalidades de um proxy  - Filtragem de conteúdo  - Cache de dados  - Anonimato na navegação- Configuração de um proxy  - Configuração do navegador  - Configuração em dispositivos móveis  - Configuração em servidores- Riscos e desafios na utilização de um proxy  - Possibilidade de ataques de segurança  - Impacto na velocidade da conexão  - Necessidade de atualizações e manutenção constante- Melhores práticas para utilização de um proxy  - Escolha do tipo de proxy adequado às necessidades  - Configuração correta e segura  - Monitoramento e atualização regular do proxy
+A segurança da informação é uma área essencial para garantir a proteção dos dados e sistemas de uma organização ou indivíduo. Um dos recursos utilizados para aumentar essa segurança é o uso de proxies.
+
+Um proxy é um servidor intermediário que atua como uma espécie de "intermediário" entre o dispositivo do usuário e o site ou serviço que ele deseja acessar. Ele recebe as solicitações do dispositivo e as encaminha para o destino, retornando as respostas para o dispositivo do usuário.
+
+Existem diferentes tipos de proxies, como proxies de aplicativos, proxies reversos e proxies de encaminhamento. Cada tipo tem suas próprias funções e características. Por exemplo, um proxy reverso é utilizado para proteger um servidor web, atuando como um intermediário entre os usuários e o servidor, enquanto um proxy de aplicativo é usado para direcionar solicitações de um aplicativo para a internet.
+
+Os proxies podem ser configurados para fornecer uma série de benefícios relacionados à segurança da informação. Alguns desses benefícios incluem:
+
+1. Anonimato: um proxy pode ocultar o endereço IP do dispositivo do usuário, dificultando o rastreamento das atividades online.
+
+2. Filtragem de conteúdo: um proxy pode ser configurado para bloquear ou permitir o acesso a determinados sites ou conteúdos, ajudando a prevenir a exposição a ameaças online.
+
+3. Caching: os proxies podem armazenar em cache as respostas dos sites ou serviços acessados, aumentando assim a velocidade de acesso às informações e reduzindo a carga nos servidores.
+
+4. Inspeção de tráfego: alguns proxies podem realizar inspeção profunda de pacotes, analisando o conteúdo das comunicações para identificar e bloquear ameaças, como malware ou ataques de negação de serviço.
+
+No entanto, é importante ressaltar que os proxies também podem apresentar riscos à segurança se não forem configurados corretamente. Por exemplo, proxies maliciosos podem ser usados para capturar informações sensíveis, como senhas ou dados de cartão de crédito.
+
+Portanto, ao utilizar um proxy, é fundamental garantir que ele seja confiável, configurado adequadamente e atualizado regularmente para garantir a segurança das informações. Também é importante implementar outras medidas de segurança, como criptografia, autenticação de usuários e monitoramento de tráfego, para complementar o uso do proxy e proteger efetivamente os dados e sistemas.
+

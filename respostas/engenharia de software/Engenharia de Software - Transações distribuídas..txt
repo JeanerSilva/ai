@@ -1,0 +1,75 @@
+Item do edital: Engenharia de Software - Transações distribuídas.
+ 
+1. Conceitos básicos de transações distribuídas, Definição de transações distribuídas, Propriedades ACID (Atomicidade, Consistência, Isolamento e Durabilidade), Desafios e problemas comuns em transações distribuídas
+A engenharia de software é a disciplina que se dedica ao desenvolvimento de software de alta qualidade, usando abordagens científicas e práticas de engenharia. Ela engloba diferentes áreas, como análise de requisitos, projeto de software, codificação, testes, implantação e manutenção.
+
+As transações distribuídas, por sua vez, referem-se a transações que ocorrem em sistemas distribuídos, ou seja, em que as operações envolvem diferentes partes do sistema que estão localizadas em diferentes computadores ou dispositivos. Nesse contexto, a engenharia de software desempenha um papel importante na concepção e implementação de sistemas que suportam transações distribuídas de forma eficiente e confiável.
+
+Uma transação distribuída ocorre quando um conjunto de operações é executado simultaneamente em diferentes partes do sistema distribuído, com o objetivo de manter a consistência dos dados e garantir a integridade das operações. Para lidar com a complexidade dessa tarefa, são utilizados diferentes protocolos e técnicas, como o protocolo de duas fases (2PC) e o protocolo de compensação (compensating transactions).
+
+A engenharia de software desempenha um papel fundamental no desenvolvimento de sistemas que suportam transações distribuídas. Ela envolve a definição de requisitos, o projeto de arquitetura, a implementação do código e os testes de unidade e integração. Além disso, a equipe de engenharia de software também é responsável por garantir a escalabilidade, a robustez e a segurança do sistema, a fim de lidar com as demandas de transações distribuídas.
+
+Em resumo, a engenharia de software desempenha um papel crucial no desenvolvimento de sistemas que suportam transações distribuídas. Ela envolve a aplicação de boas práticas de engenharia de software para garantir a eficiência, confiabilidade e integridade das transações em ambientes distribuídos.
+2. Protocolos de controle de concorrência em transações distribuídas, Protocolo de bloqueio, Protocolo de serialização, Protocolo de controle de concorrência otimista
+Como especialista em engenharia de software e transações distribuídas, posso lhe fornecer informações sobre como lidar com esse tipo de sistema.
+
+Transações distribuídas referem-se a transações que ocorrem em um ambiente distribuído, onde diferentes componentes do sistema estão localizados em diferentes máquinas ou locais geográficos. Essas transações podem envolver múltiplos bancos de dados, serviços ou sistemas.
+
+Um dos principais desafios de transações distribuídas é garantir a consistência dos dados em todo o sistema. Isso significa que, independentemente de onde os dados estejam sendo manipulados ou atualizados, eles devem permanecer consistentes e refletir as alterações de forma correta.
+
+Uma abordagem comum para lidar com transações distribuídas é o uso de protocolos de coordenação, como o two-phase commit (2PC) ou o three-phase commit (3PC). Esses protocolos permitem que os diferentes componentes do sistema coordenem suas ações e garantam que todas as transações sejam confirmadas ou desfeitas de forma consistente.
+
+No entanto, esses protocolos têm algumas desvantagens, como a latência aumentada e a necessidade de comunicação síncrona entre os componentes do sistema. Outras abordagens, como transações compensatórias ou transações relaxadas, podem ser usadas para lidar com casos em que o uso de protocolos de coordenação não é viável.
+
+Além disso, é importante considerar a escalabilidade e o desempenho do sistema ao lidar com transações distribuídas. A distribuição de dados e tarefas em todo o sistema pode exigir um planejamento cuidadoso e o uso de técnicas como o particionamento de dados, balanceamento de carga e cache distribuído.
+
+Em resumo, a engenharia de software em transações distribuídas envolve o projeto e a implementação de sistemas que possam lidar com transações em um ambiente distribuído, garantindo a consistência dos dados e o desempenho do sistema. Isso requer o uso de protocolos de coordenação, considerações de escalabilidade e o entendimento dos desafios específicos associados a esse tipo de sistema.
+3. Gerenciamento de transações distribuídas, Coordenador e participantes, Protocolo de duas fases de confirmação, Protocolo de três fases de confirmação
+Como especialista em Engenharia de Software, posso fornecer informações sobre transações distribuídas. 
+
+Transações distribuídas são transações que envolvem múltiplos sistemas distribuídos em uma rede. Essas transações são necessárias quando um processo precisa realizar uma série de operações em diferentes sistemas, garantindo a atomicidade, consistência, isolamento e durabilidade.
+
+Existem várias abordagens para realizar transações distribuídas, como o protocolo Two-Phase Commit (2PC) e o protocolo Three-Phase Commit (3PC). No 2PC, um coordenador é responsável por coordenar a confirmação ou cancelamento da transação entre os sistemas distribuídos. Já no 3PC, além das fases de preparação e confirmação, há uma fase adicional chamada de fase de zona de incerteza.
+
+Além dos protocolos de transação, é importante considerar o gerenciamento de concorrência em transações distribuídas. O controle de concorrência garante que várias transações possam ser executadas simultaneamente, ao mesmo tempo em que mantém a consistência dos dados. Um exemplo de técnica de controle de concorrência em transações distribuídas é o bloqueio distribuído.
+
+Outro aspecto importante a considerar em transações distribuídas é a tolerância a falhas. Devido à natureza distribuída dos sistemas, é essencial que haja mecanismos para lidar com falhas de comunicação ou avarias em um ou mais sistemas da rede. Protocolos como o protocolo de recuperação de transação (X/Open XA) podem ser usados para garantir a recuperação em caso de falhas.
+
+Em resumo, transações distribuídas são essenciais para garantir a integridade e a consistência dos dados em sistemas distribuídos. Para implementar com sucesso transações distribuídas, é necessário considerar protocolos de transação, gerenciamento de concorrência e tolerância a falhas.
+4. Replicação de dados em transações distribuídas, Replicação síncrona vs. assíncrona, Estratégias de consistência em replicação de dados, Gerenciamento de conflitos em replicação de dados
+Como especialista em Engenharia de Software, posso fornecer informações sobre transações distribuídas. 
+
+Em um ambiente de transações distribuídas, várias operações são executadas em diferentes sistemas ou dispositivos, e essas operações precisam ser consistentes e confiáveis. A execução dessas operações geralmente envolve a coordenação e a sincronização de várias partes envolvidas.
+
+Existem várias abordagens para implementar transações distribuídas, sendo a mais comum o protocolo de duas fases de confirmação (2PC). Neste protocolo, um coordenador inicia a transação e coordena as etapas de votação e confirmação entre todos os participantes envolvidos. Se todos os participantes concordarem em confirmar a transação, o coordenador enviará um comando de confirmação a todos eles. Se algum participante não puder confirmar a transação, o coordenador emitirá um comando para abortar a transação.
+
+No entanto, o protocolo 2PC tem algumas desvantagens, como a necessidade de comunicação síncrona e a possibilidade de um participante ficar bloqueado indefinidamente. Para mitigar esses problemas, outras abordagens, como a transação compensatória e o protocolo semântico, foram propostas.
+
+Além disso, a escalabilidade e o desempenho são considerações importantes ao lidar com transações distribuídas. É necessário projetar sistemas que possam lidar com grandes volumes de transações e garantir que a latência da comunicação não afete negativamente a execução das transações.
+
+Em resumo, transações distribuídas na engenharia de software envolvem a coordenação de operações em diferentes sistemas ou dispositivos para garantir a consistência e a confiabilidade das transações. Existem várias abordagens e protocolos disponíveis para implementar transações distribuídas, cada um com suas vantagens e desvantagens. A escalabilidade e o desempenho também são considerações importantes ao projetar sistemas com transações distribuídas.
+5. Transações distribuídas em sistemas distribuídos, Arquitetura cliente-servidor, Arquitetura peer-to-peer, Transações distribuídas em sistemas de banco de dados distribuídos
+Transações distribuídas são um conceito importante na engenharia de software, especialmente em sistemas distribuídos, onde múltiplos componentes ou nós do sistema precisam cooperar para executar uma transação.
+
+Uma transação distribuída ocorre quando uma operação ou conjunto de operações precisa ser executada em vários nós do sistema simultaneamente, garantindo a atomicidade, consistência, isolamento e durabilidade (ACID) da transação como um todo. Essas propriedades ACID são essenciais para garantir a integridade dos dados e a consistência do sistema.
+
+Em uma transação distribuída, é necessário coordenar a execução das operações em diferentes nós, garantindo que todas elas sejam executadas corretamente ou, em caso de falha, sejam desfeitas em todos os nós envolvidos. Isso requer um mecanismo de coordenação, como o Protocolo de Confirmação Distribuída (Two-Phase Commit) ou o Protocolo de Confirmação de Três Fases (Three-Phase Commit), para garantir a consistência e atomicidade da transação.
+
+Além disso, as transações distribuídas também enfrentam desafios adicionais, como a comunicação em rede entre os nós, a resolução de conflitos e gerenciamento de deadlock. A otimização do desempenho do sistema também é um fator importante a ser considerado em transações distribuídas, pois a latência de rede e a carga de trabalho distribuída podem afetar a resposta do sistema.
+
+Muitas tecnologias e frameworks estão disponíveis para facilitar o desenvolvimento de transações distribuídas, como o Java Transaction API (JTA) e o Message-Driven Bean (MDB) no contexto de Java EE, ou o Microsoft Distributed Transaction Coordinator (MSDTC) no contexto do Windows.
+
+Em resumo, a engenharia de software de transações distribuídas envolve a coordenação de execução de operações em diferentes nós, garantindo a atomicidade e consistência das transações em sistemas distribuídos, enquanto enfrenta desafios adicionais como comunicação em rede, resolução de conflitos e otimização de desempenho.
+6. Ferramentas e tecnologias para transações distribuídas, Middleware de transações distribuídas, Sistemas de mensageria, Bancos de dados distribuídos
+Engenharia de Software é a disciplina que aplica princípios, métodos e técnicas para o desenvolvimento e manutenção de sistemas de software de alta qualidade. Já as transações distribuídas referem-se à execução de transações em sistemas distribuídos, onde várias partes independentes trabalham juntas para alcançar um objetivo comum.
+
+As transações distribuídas são desafiadoras devido à natureza distribuída dos sistemas envolvidos. Em uma transação distribuída, várias operações devem ser executadas em diferentes nós ou servidores, e é necessário garantir que todas elas sejam executadas corretamente e de forma consistente, mesmo em caso de falhas.
+
+Para lidar com esses desafios, várias técnicas e abordagens podem ser utilizadas na engenharia de software de transações distribuídas. Uma delas é o uso de protocolos de consenso, como o Two-Phase Commit (2PC) ou o Three-Phase Commit (3PC), que coordenam a execução das operações em diferentes nós do sistema.
+
+Outra abordagem comum é a utilização de sistemas de banco de dados distribuídos, que permitem o armazenamento e acesso a dados de forma distribuída, mantendo a consistência dos dados através de mecanismos de replicação, particionamento e transações distribuídas.
+
+Além disso, é importante considerar a escalabilidade e a tolerância a falhas na engenharia de software de transações distribuídas, garantindo que o sistema possa lidar com um grande número de operações simultâneas e seja capaz de se recuperar de falhas de hardware ou software sem comprometer a integridade ou consistência dos dados.
+
+Em resumo, a engenharia de software de transações distribuídas é uma disciplina importante para garantir a correta execução de operações em sistemas distribuídos, levando em consideração aspectos como coordenação, consistência, escalabilidade e tolerância a falhas.
+

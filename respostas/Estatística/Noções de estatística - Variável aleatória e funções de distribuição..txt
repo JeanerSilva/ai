@@ -1,0 +1,31 @@
+Item do edital: Noções de estatística - Variável aleatória e funções de distribuição.
+ 
+1. - Variável aleatória:  - Definição de variável aleatória;  - Tipos de variáveis aleatórias (discretas e contínuas);  - Função de probabilidade de uma variável aleatória discreta;  - Função de densidade de probabilidade de uma variável aleatória contínua;  - Esperança e variância de uma variável aleatória;  - Momentos de uma variável aleatória.
+Uma variável aleatória é uma função que associa um valor numérico a cada resultado em um espaço amostral de um experimento aleatório. Essa função pode ser discreta ou contínua, dependendo do tipo de resultados possíveis.
+
+Uma variável aleatória discreta assume apenas um conjunto enumerável de valores possíveis. Por exemplo, o número de caras que aparecem ao lançar uma moeda várias vezes é uma variável aleatória discreta, pois só pode ser 0, 1, 2, etc.
+
+Uma variável aleatória contínua pode assumir qualquer valor dentro de um intervalo específico. Por exemplo, a altura de uma pessoa é uma variável aleatória contínua, pois pode assumir qualquer valor dentro de um intervalo de altura.
+
+A função de distribuição de uma variável aleatória é uma função que descreve a probabilidade de obter um determinado valor ou um intervalo de valores para essa variável. Em outras palavras, ela relaciona os valores da variável aleatória com suas respectivas probabilidades.
+
+Para uma variável aleatória discreta, a função de distribuição é chamada de função de massa de probabilidade (PMF). Ela atribui a cada valor possível da variável aleatória uma probabilidade de ocorrer.
+
+Para uma variável aleatória contínua, a função de distribuição é chamada de função densidade de probabilidade (PDF). Ela descreve a probabilidade de que a variável caia em um intervalo de valores específico.
+
+A função de distribuição acumulada (CDF) é outra função importante relacionada à variável aleatória. Ela calcula a probabilidade acumulada de que a variável seja menor ou igual a um determinado valor.
+
+Através dessas funções de distribuição, é possível realizar cálculos estatísticos, como calcular a média, a variância e a mediana da variável aleatória.
+2. - Funções de distribuição:  - Definição de função de distribuição;  - Função de distribuição acumulada de uma variável aleatória discreta;  - Função de distribuição acumulada de uma variável aleatória contínua;  - Propriedades das funções de distribuição;  - Cálculo de probabilidades utilizando a função de distribuição;  - Transformação de variáveis aleatórias através de funções de distribuição.
+Uma variável aleatória é uma função que associa um valor numérico a cada resultado possível de um experimento aleatório. Ela descreve o comportamento de uma aleatoriedade específica no contexto do experimento.
+
+Existem dois tipos principais de variáveis aleatórias: discretas e contínuas. Variáveis aleatórias discretas têm um conjunto finito ou infinito contável de valores possíveis, enquanto variáveis aleatórias contínuas podem assumir qualquer valor em um intervalo específico.
+
+A função de distribuição de uma variável aleatória, também conhecida como função de distribuição acumulada (FDA), é uma função que descreve a probabilidade de a variável aleatória assumir um valor menor ou igual a um certo ponto em seu intervalo de valores possíveis.
+
+A função de distribuição de uma variável aleatória discreta é geralmente representada pela função acumulada de probabilidade (FAP). Dado um valor x, a FAP P(X ≤ x) é a probabilidade de a variável aleatória X assumir um valor menor ou igual a x.
+
+A função de distribuição de uma variável aleatória contínua é geralmente representada pela função de densidade de probabilidade (FDP). Dado um ponto x, a FDP f(x) não representa uma probabilidade direta, mas sim a densidade de probabilidade da variável aleatória assumir um valor nesse ponto.
+
+Essas funções de distribuição são utilizadas para calcular probabilidades, calcular médias e desvios padrão, realizar testes de hipóteses, entre outras análises estatísticas. Elas fornecem informações valiosas sobre o comportamento de uma variável aleatória e ajudam a entender os padrões e comportamentos dos dados do experimento em questão.
+

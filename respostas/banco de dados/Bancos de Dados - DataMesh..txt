@@ -1,0 +1,27 @@
+Item do edital: Bancos de Dados - DataMesh.
+ 
+1. Bancos de Dados, Conceitos básicos de bancos de dados, Modelos de bancos de dados (relacional, hierárquico, etc.), Linguagens de consulta (SQL, NoSQL, etc.), Normalização de bancos de dados, Indexação e otimização de consultas, Transações e controle de concorrência
+Bancos de dados são estruturas utilizadas para armazenar, organizar e gerenciar grandes volumes de informações de forma eficiente. Eles desempenham um papel fundamental no armazenamento de dados para aplicações de software, permitindo a recuperação e manipulação dos dados de maneira rápida e precisa.
+
+Uma abordagem relativamente recente em relação aos bancos de dados é a DataMesh, que propõe uma arquitetura distribuída e descentralizada para lidar com a complexidade e escala dos sistemas modernos. Ao contrário das arquiteturas de banco de dados tradicionais, que geralmente centralizam o controle e a gestão dos dados, a DataMesh busca distribuir a responsabilidade pelos dados entre os diferentes domínios de uma organização.
+
+A ideia por trás da DataMesh é que cada domínio seja responsável por seu próprio conjunto de dados, sua semântica e suas regras de negócio. Isso permite que os sistemas em um domínio sejam autônomos e responsáveis por manter e gerenciar seus próprios dados. Cada domínio tem sua própria equipe de desenvolvimento e pode escolher o banco de dados mais adequado para suas necessidades, permitindo flexibilidade e especialização.
+
+Nesse contexto, a comunicação e a integração entre os diferentes domínios é feita através de eventos assíncronos, que permitem a troca de informações e a sincronização dos dados entre os sistemas. Os eventos são gravados em um log e podem ser consumidos pelas aplicações interessadas, garantindo a consistência dos dados em todo o ecossistema.
+
+Essa abordagem descentralizada e distribuída traz benefícios como escalabilidade, flexibilidade e autonomia dos domínios. No entanto, também traz desafios na gestão e governança dos dados, pois é necessário garantir a consistência e a integridade dos dados em todo o sistema. É necessário estabelecer diretrizes e padrões para garantir a interoperabilidade e a consistência dos dados entre os domínios.
+
+Em resumo, a abordagem de DataMesh para bancos de dados busca descentralizar e distribuir a responsabilidade pelos dados, permitindo que cada domínio seja autônomo e responsável por seus próprios dados. Essa abordagem traz benefícios como escalabilidade e flexibilidade, mas também traz desafios na gestão e governança dos dados.
+2. DataMesh, Definição e conceitos básicos de DataMesh, Arquitetura de DataMesh, Integração de dados em DataMesh, Governança de dados em DataMesh, Desafios e benefícios do uso de DataMesh, Exemplos de implementação de DataMesh em empresas
+DataMesh é uma abordagem recente para o gerenciamento de dados em um ambiente distribuído. Ao contrário da arquitetura tradicional de banco de dados centralizado, onde todos os dados são armazenados e gerenciados por um único banco de dados, a DataMesh propõe uma abordagem mais descentralizada e distribuída.
+
+Nessa abordagem, as empresas são vistas como uma rede de domínios autônomos que possuem seus próprios bancos de dados e responsabilidades de dados específicas. Cada domínio é responsável por gerenciar seus próprios dados e disponibilizar interfaces bem definidas para que outros domínios possam acessar esses dados de maneira segura.
+
+A ideia por trás do conceito de DataMesh é permitir que as empresas sejam mais ágeis e escaláveis na forma como gerenciam seus dados. Ao descentralizar o gerenciamento de dados entre vários domínios, é possível evitar gargalos e pontos únicos de falha. Além disso, os domínios têm a liberdade de escolher as tecnologias de banco de dados mais adequadas para suas necessidades específicas, em vez de serem limitados a uma única solução.
+
+No entanto, a implementação de uma arquitetura DataMesh pode ser complexa e desafiadora. É necessário estabelecer diretrizes claras e padrões de comunicação entre os domínios, além de garantir a segurança e a integridade dos dados compartilhados.
+
+Existem várias tecnologias e ferramentas disponíveis que podem ser usadas para implementar uma arquitetura DataMesh, como microsserviços, APIs, protocolos de comunicação e tecnologias de replicação de dados.
+
+Em resumo, a abordagem de DataMesh propõe uma forma mais distribuída e descentralizada de gerenciamento de dados, permitindo que as empresas sejam mais ágeis e escaláveis em sua abordagem aos dados. No entanto, a implementação dessa abordagem pode ser complexa e requer a consideração de vários aspectos técnicos e organizacionais.
+

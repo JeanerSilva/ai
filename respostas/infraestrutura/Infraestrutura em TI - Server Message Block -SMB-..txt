@@ -1,0 +1,73 @@
+Item do edital: Infraestrutura em TI - Server Message Block -SMB-.
+ 
+1. Introdução ao Server Message Block (SMB), O que é o SMB, História e evolução do SMB, Funcionamento básico do SMB
+O Server Message Block (SMB) é um protocolo de rede usado principalmente para compartilhar arquivos, impressoras e outros recursos em uma rede. É usado em ambientes Windows e permite que os computadores se conectem e compartilhem recursos uns com os outros.
+
+A infraestrutura em TI relacionada ao SMB envolve a configuração e gerenciamento de servidores, compartilhamento de arquivos, segurança de acesso e suporte técnico necessário para garantir a disponibilidade e funcionalidade do SMB em uma rede.
+
+A infraestrutura em TI relacionada ao SMB pode incluir:
+
+1. Servidores SMB: são dispositivos que executam o serviço SMB e que armazenam e compartilham arquivos e recursos com outros dispositivos na rede. Esses servidores são configurados e gerenciados para garantir que eles estejam sempre disponíveis e funcionando corretamente.
+
+2. Compartilhamento de arquivos: o SMB permite que os computadores compartilhem arquivos uns com os outros em uma rede. A infraestrutura em TI relacionada ao SMB envolve a criação e configuração de compartilhamentos de arquivos nos servidores SMB e a configuração dos privilégios de acesso para os usuários.
+
+3. Segurança de acesso: o SMB fornece recursos de segurança para restringir o acesso a determinados compartilhamentos de arquivos e recursos. A infraestrutura em TI relacionada ao SMB envolve a implementação de autenticação, criptografia e outras medidas de segurança para proteger os dados e recursos compartilhados através do SMB.
+
+4. Monitoramento e suporte técnico: a infraestrutura em TI relacionada ao SMB também envolve o monitoramento contínuo dos servidores SMB e a identificação e solução de problemas que possam surgir. Além disso, a infraestrutura em TI relacionada ao SMB envolve o suporte técnico aos usuários que podem encontrar dificuldades ao acessar ou compartilhar arquivos através do SMB.
+
+Em resumo, a infraestrutura em TI relacionada ao SMB envolve a configuração, gerenciamento e suporte contínuo de servidores, compartilhamento de arquivos e segurança de acesso para garantir que o protocolo SMB funcione corretamente em uma rede.
+2. Protocolo SMB, Versões do protocolo SMB, Características e funcionalidades do SMB, Segurança no SMB
+O Server Message Block (SMB) é um protocolo de rede amplamente utilizado para compartilhamento de arquivos, impressoras, portas seriais e comunicação entre computadores em uma rede local. Ele foi desenvolvido inicialmente pela IBM nos anos 80 e, desde então, foi adotado pela Microsoft como parte integrante do sistema operacional Windows.
+
+O SMB permite que os dispositivos em uma rede acessem e compartilhem recursos uns com os outros, como arquivos e impressoras. Ele opera na camada de aplicação do modelo OSI e utiliza o conjunto de protocolos TCP/IP para transportar os dados pela rede.
+
+Dentre as principais características do SMB, destacam-se:
+
+1. Compartilhamento de arquivos: possibilita que usuários acessem e compartilhem arquivos em uma rede, seja em um ambiente Windows ou em sistemas operacionais não Windows, como Linux e Unix.
+
+2. Transmissão de pacotes: o protocolo SMB divide as informações em pacotes menores para facilitar a transmissão pela rede e assegurar a integridade dos dados.
+
+3. Autenticação e autorização: o SMB utiliza autenticação para verificar a identidade dos usuários que acessam os recursos compartilhados e autorização para controlar as permissões de acesso.
+
+4. Segurança: o protocolo SMB oferece opções de segurança, como criptografia de dados, para proteger as informações durante a transmissão pela rede.
+
+5. Impressão em rede: o SMB permite que uma impressora conectada a um computador seja compartilhada com outros dispositivos em uma rede, possibilitando que usuários em diferentes computadores enviem impressões para a mesma impressora.
+
+O SMB evoluiu ao longo dos anos e passou por várias versões, como SMBv1, SMBv2 e SMBv3. As versões mais recentes trazem melhorias de desempenho, segurança e suporte a recursos avançados, como o suporte a armazenamento em nuvem.
+
+No entanto, é importante destacar que o SMB também é alvo de vulnerabilidades e ataques de segurança, sendo necessário tomar medidas para proteger os recursos compartilhados e garantir a integridade e confidencialidade dos dados transmitidos pela rede.
+3. Implementação do SMB, Configuração do SMB em servidores Windows, Configuração do SMB em servidores Linux, Integração do SMB com outros serviços de rede
+O Server Message Block (SMB) é um protocolo de compartilhamento de arquivos de rede que permite que os computadores em uma rede compartilhem arquivos e recursos, como impressoras e scanners. Ele é um componente fundamental da infraestrutura de TI, especialmente em ambientes corporativos.
+
+O protocolo SMB opera na camada de aplicação do modelo OSI e é usado para compartilhar arquivos e dados em uma rede local (LAN) ou até mesmo na internet. Ele fornece uma maneira eficiente de compartilhar e acessar arquivos em diferentes sistemas operacionais, como Windows, Linux e macOS.
+
+O SMB é amplamente utilizado em ambientes empresariais para permitir o compartilhamento de arquivos entre os usuários e também para a criação de servidores de arquivos. Ele permite que várias máquinas acessem e trabalhem com os mesmos arquivos simultaneamente, fornecendo um ambiente de colaboração eficiente.
+
+Além do compartilhamento de arquivos, o protocolo SMB também suporta recursos de impressão e gerenciamento de permissões, permitindo que os administradores controlem o acesso a pastas e arquivos compartilhados.
+
+O SMB tem evoluído ao longo dos anos, com diferentes versões sendo lançadas, como o SMBv2 e o SMBv3, que ofereceram melhorias significativas em termos de desempenho, segurança e recursos.
+
+Em resumo, o protocolo SMB é uma parte essencial da infraestrutura de TI para compartilhamento de arquivos e recursos em redes locais. Ele permite que os usuários acessem e trabalhem juntos em arquivos de forma eficiente, tornando-se uma ferramenta importante para a colaboração e produtividade nas organizações.
+4. Uso do SMB, Compartilhamento de arquivos e pastas, Acesso remoto a recursos de rede, Impressão em rede utilizando o SMB
+O Server Message Block (SMB) é um protocolo de rede usado para compartilhar arquivos, impressoras e outros recursos em uma rede local. É uma parte essencial da infraestrutura de TI, especialmente em ambientes Windows.
+
+O SMB permite que os usuários acessem e compartilhem arquivos e pastas em uma rede, bem como imprimam documentos em uma impressora compartilhada. Ele fornece uma maneira fácil e eficiente de compartilhar recursos de computação, permitindo que vários usuários acessem e utilizem esses recursos simultaneamente.
+
+Além disso, o SMB também desempenha um papel importante na autenticação e segurança da rede. Ele permite que os usuários se autentiquem e acessem os recursos apenas se tiverem as permissões apropriadas. O SMB também suporta criptografia de dados para garantir que as informações transmitidas pela rede sejam protegidas contra acesso não autorizado.
+
+No contexto da infraestrutura de TI, o SMB é usado principalmente em servidores de arquivos, onde os dados estão armazenados centralmente e podem ser acessados por vários usuários. Ele facilita o compartilhamento e o acesso a informações em toda a organização, melhorando a colaboração e a eficiência do trabalho em equipe.
+
+Em resumo, o SMB é uma parte essencial da infraestrutura de TI, proporcionando compartilhamento de recursos, autenticação de usuários e segurança de dados em uma rede local. É amplamente utilizado em ambientes Windows e desempenha um papel fundamental na colaboração e produtividade dos usuários.
+5. Problemas e soluções relacionados ao SMB, Erros comuns no uso do SMB, Melhores práticas para evitar problemas no SMB, Soluções para problemas de desempenho no SMB
+Server Message Block (SMB), também conhecido como Common Internet File System (CIFS), é um protocolo de rede utilizado para compartilhar arquivos, impressoras e outros recursos entre dispositivos em uma rede. Ele é comumente usado em ambientes de trabalho com sistemas operacionais Windows.
+
+O SMB permite que vários computadores acessem e compartilhem os mesmos arquivos e recursos em uma rede local. Ele funciona como um protocolo de comunicação entre computadores para transferência de dados, autenticação de usuários e controle de acesso aos recursos compartilhados.
+
+Existem várias versões do protocolo SMB, sendo as mais comuns o SMB1, SMB2 e SMB3. Cada versão introduz melhorias em termos de desempenho, segurança e funcionalidade.
+
+No contexto da infraestrutura de TI, o SMB é fundamental para compartilhar arquivos e recursos em redes corporativas. Os servidores de arquivos Windows geralmente implementam o SMB para permitir que os usuários acessem e compartilhem arquivos em uma rede local. Além disso, os servidores de backup também podem usar o SMB para fazer backup de dados para armazenamento em rede.
+
+No entanto, é importante destacar que o SMB também pode apresentar vulnerabilidades e riscos de segurança. Algumas versões mais antigas do protocolo, como o SMB1, são consideradas inseguras devido a falhas de segurança conhecidas. Portanto, é recomendável que as organizações atualizem para versões mais recentes do protocolo SMB (SMB2 ou SMB3) e apliquem patches de segurança regularmente para proteger suas redes contra ataques.
+
+Em resumo, o SMB é um protocolo essencial para a infraestrutura de TI, permitindo o compartilhamento de arquivos e recursos em redes corporativas. No entanto, é importante manter-se atualizado com as versões mais recentes do protocolo e adotar medidas de segurança adequadas para proteger a rede contra ameaças.
+

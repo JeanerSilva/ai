@@ -1,0 +1,79 @@
+Item do edital: Engenharia de Software - BDD.
+ 
+1. Introdução ao BDD, Definição de BDD, Benefícios do BDD, Princípios do BDD
+A engenharia de software é uma disciplina que lida com a criação e manutenção de sistemas de software de alta qualidade. Ela envolve várias etapas, desde a análise e design até o desenvolvimento, teste e manutenção. Uma abordagem popular na engenharia de software é o Desenvolvimento Orientado a Comportamento (BDD), que se concentra em escrever testes automatizados antes de implementar o código.
+
+O BDD é baseado na ideia de que os resultados desejados do software devem ser especificados em termos de comportamento, ao invés de apenas listar requisitos. Isso promove uma comunicação mais clara entre as partes interessadas e os desenvolvedores, ajudando a garantir que todos tenham uma compreensão clara das expectativas de como o software deve se comportar. 
+
+No BDD, os testes são escritos em uma linguagem natural, chamada Gherkin, que é fácil de entender tanto para desenvolvedores quanto para não desenvolvedores. Esses testes são então automatizados usando ferramentas de teste, como Cucumber ou SpecFlow. Essas ferramentas executam os testes e fornecem relatórios detalhados sobre o sucesso ou falha de cada cenário de teste.
+
+A vantagem do BDD é que ele promove a colaboração entre as partes interessadas do projeto e os desenvolvedores, reduzindo a lacuna de comunicação. Além disso, o BDD ajuda a manter os testes atualizados e relevantes, pois eles são escritos antes da implementação do código. Isso também ajuda a garantir que o software atenda aos requisitos de negócios e forneça valor aos usuários.
+
+No entanto, o BDD não é apenas sobre escrever testes. Ele também enfatiza a criação de uma cultura de colaboração e compartilhamento de conhecimento entre as equipes de desenvolvimento. Isso inclui a realização de sessões conjuntas de planejamento e revisão de testes, bem como a documentação clara dos cenários de teste.
+
+Em resumo, a engenharia de software BDD é uma abordagem que promove uma melhor comunicação, colaboração e qualidade do software, garantindo que o software atenda aos requisitos do negócio e forneça valor aos usuários finais.
+2. Processo de Desenvolvimento com BDD, Planejamento de cenários, Escrita de cenários, Automação de cenários, Execução de cenários
+BDD (Behavior Driven Development) é uma abordagem de desenvolvimento de software que se concentra na colaboração entre desenvolvedores, analistas de negócios e stakeholders para garantir um entendimento claro dos requisitos e comportamentos do sistema.
+
+A Engenharia de Software, por sua vez, é uma disciplina que engloba métodos, técnicas e ferramentas para o desenvolvimento de software de forma organizada e eficiente.
+
+Quando aplicada a BDD, a Engenharia de Software procura utilizar as melhores práticas e técnicas para implementar e automatizar os cenários de teste definidos em linguagem natural, permitindo assim que os requisitos e comportamentos do sistema sejam especificados com clareza e reusabilidade.
+
+Algumas das principais práticas utilizadas na Engenharia de Software aplicada ao BDD incluem:
+
+- Escrita de cenários em linguagem natural, utilizando a sintaxe Gherkin. Essa abordagem permite que os cenários sejam facilmente entendidos por todos os envolvidos no projeto, não apenas pelos desenvolvedores.
+
+- Automação dos cenários de teste, utilizando ferramentas como o Cucumber, SpecFlow ou Behave. Essas ferramentas permitem que a especificação em linguagem natural seja transformada em código executável, facilitando a validação dos comportamentos do sistema de forma automatizada.
+
+- Integração contínua, que possibilita a execução automática dos testes sempre que houver uma atualização no código fonte. Isso ajuda a identificar problemas de integração e regressão de forma rápida e automatizada.
+
+- Colaboração entre desenvolvedores, analistas de negócios e stakeholders durante todo o processo de desenvolvimento. Essa abordagem deixa claro para todos envolvidos quais são os comportamentos esperados do sistema e ajuda a evitar mal-entendidos e retrabalho.
+
+Ao aplicar a Engenharia de Software ao desenvolvimento com BDD, as equipes podem obter benefícios como maior clareza e entendimento dos requisitos, testes automatizados abrangentes e diminuição da lacuna entre desenvolvimento e negócios. Isso resulta em um processo de desenvolvimento mais fluído, com menos erros e com maior alinhamento com as necessidades do negócio.
+3. Linguagem Gherkin, Estrutura básica da linguagem, Palavras-chave do Gherkin, Escrevendo cenários com Gherkin
+BDD (Behavior Driven Development) é uma abordagem de engenharia de software que se concentra na colaboração entre os desenvolvedores, testadores e stakeholders para definir e aprimorar o comportamento do software.
+
+Ao contrário do desenvolvimento tradicional baseado em requisitos, o BDD se concentra no comportamento que o software deve exibir em diferentes cenários. Isso é feito por meio de especificações escritas em linguagem natural que descrevem o comportamento esperado do software. Essas especificações são chamadas de user stories ou cenários de teste.
+
+O BDD segue uma abordagem iterativa e incremental, onde cada cenário é implementado, testado e refinado até que o comportamento desejado seja alcançado. Os cenários são escritos usando uma linguagem chamada Gherkin, que é uma linguagem de especificação simples e legível por humanos.
+
+A prática do BDD também inclui a automação de testes utilizando ferramentas específicas, como Cucumber ou SpecFlow, que executam os cenários de teste escritos em Gherkin e verificam se o software está se comportando conforme especificado.
+
+Além disso, o BDD promove a integração contínua, onde os cenários de teste são executados continuamente durante o processo de desenvolvimento para garantir que o software esteja funcionando corretamente.
+
+Em resumo, a abordagem BDD na engenharia de software envolve a colaboração entre as partes interessadas, a escrita de especificações legíveis por humanos, a automação de testes e a integração contínua para garantir que o software atenda aos requisitos e ao comportamento esperado pelos usuários.
+4. Ferramentas de BDD, Cucumber, SpecFlow, JBehave
+BDD (Behavior-Driven Development) é uma metodologia de desenvolvimento de software que se baseia na comunicação e colaboração entre desenvolvedores, analistas de negócio e stakeholders para criar um software de qualidade, com foco nas necessidades e comportamentos do usuário final.
+
+O BDD utiliza uma linguagem simples e não técnica conhecida como Gherkin, que permite criar cenários de teste descritos em linguagem natural. Esses cenários descrevem o comportamento esperado do sistema e são escritos em um formato "dado-quando-então", onde o "dado" é o cenário atual, o "quando" é a ação do usuário e o "então" é o resultado esperado.
+
+Esses cenários são escritos antes do desenvolvimento e servem como base para a criação dos testes automatizados, garantindo que o software funcione corretamente de acordo com as especificações. Além disso, a metodologia BDD promove uma abordagem orientada a comportamento, o que significa que as funcionalidades são desenvolvidas em pequenos incrementos, priorizando as necessidades essenciais do usuário.
+
+O BDD também incentiva a colaboração entre as equipes, garantindo que todos os envolvidos tenham um entendimento comum sobre como o sistema deve se comportar. Essa colaboração é facilitada por meio da utilização de ferramentas que permitem a escrita e execução dos testes, como o Cucumber.
+
+No geral, o BDD se concentra em criar um software que atenda às necessidades reais do usuário, permitindo uma maior eficácia na comunicação entre as equipes, melhor qualidade do software e maior satisfação do cliente. Essa metodologia vem se tornando cada vez mais popular no desenvolvimento de software, principalmente em projetos ágeis.
+5. Integração com outras práticas de Engenharia de Software, Integração com Testes Unitários, Integração com Testes de Aceitação, Integração com Continuous Integration
+A Engenharia de Software é uma disciplina que se preocupa com a criação de softwares de qualidade, que atendam às necessidades dos usuários e sejam desenvolvidos de forma eficiente. Uma das abordagens utilizadas na Engenharia de Software é o Behavior Driven Development (BDD), que tem como objetivo alinhar os requisitos de negócio com o desenvolvimento de software.
+
+O BDD é uma extensão do Test Driven Development (TDD) e se baseia em definir e validar o comportamento esperado do software através de cenários escritos na forma de histórias de usuário. Esses cenários são escritos em uma linguagem natural, compreensível pelos stakeholders do projeto, e servem como base para a comunicação e colaboração entre as equipes de desenvolvimento, testes e negócio.
+
+O BDD segue um ciclo de desenvolvimento baseado em três pilares principais: a descoberta, a definição e a automação. Na fase de descoberta, a equipe busca entender os requisitos do sistema e as necessidades dos usuários. Na fase de definição, as histórias de usuário são detalhadas, os cenários são escritos e o comportamento esperado é acordado com os stakeholders. Na fase de automação, os cenários são implementados e os testes automatizados são desenvolvidos para validar o comportamento do sistema.
+
+Uma das principais vantagens do BDD é a comunicação clara e efetiva entre as equipes, possibilitando um alinhamento melhor entre o desenvolvimento e os objetivos de negócio. Além disso, o BDD também contribui para o desenvolvimento de software de qualidade, já que os cenários de teste são escritos antes da implementação e servem como uma especificação viva do sistema.
+
+Para utilizar o BDD, é necessário utilizar ferramentas que suportem a escrita e execução dos cenários de teste. Algumas das ferramentas mais populares são o Cucumber e o Behave, que permitem escrever os cenários em linguagem natural e vinculá-los com a implementação do código.
+
+Em resumo, a abordagem BDD na Engenharia de Software busca alinhar os requisitos de negócio com o desenvolvimento de software, através da escrita e validação de cenários de teste escritos em linguagem natural. Isso contribui para a comunicação e colaboração entre as equipes e para o desenvolvimento de software de qualidade.
+6. Desafios e melhores práticas em BDD, Identificação de cenários relevantes, Manutenção de cenários, Colaboração entre desenvolvedores e stakeholders
+A engenharia de software é uma disciplina que se dedica ao desenvolvimento de software de forma estruturada, utilizando princípios e metodologias para conceber, construir, testar e manter sistemas de software. Uma das abordagens utilizadas nesse processo é o Behavior Driven Development (BDD), que é uma técnica de desenvolvimento ágil que visa alinhar os interesses dos envolvidos no desenvolvimento de software.
+
+No BDD, o foco principal é no comportamento do software, ou seja, nas saídas e reações que o sistema deve apresentar em resposta a estímulos específicos. Essa abordagem é baseada em cenários e utiliza uma linguagem de especificação que é compreensível tanto para desenvolvedores quanto para os stakeholders do projeto.
+
+Nesse contexto, o processo de desenvolvimento de software começa com a definição dos comportamentos esperados pelo sistema. Esses comportamentos são descritos em formato de cenários, que são escritos utilizando uma linguagem natural. Em seguida, os cenários são validados por meio de testes automatizados, que são executados periodicamente para garantir que o software está se comportando corretamente.
+
+Uma das principais vantagens do BDD é a comunicação efetiva entre os diferentes envolvidos no projeto. Ao utilizar uma linguagem comum para descrever os cenários, as partes interessadas podem entender e validar o comportamento esperado do sistema de forma mais clara. Isso diminui o risco de mal-entendidos e auxilia no alinhamento das expectativas.
+
+Além disso, o BDD promove a colaboração entre desenvolvedores, testadores e clientes, uma vez que todos estão envolvidos no processo de criação e validação dos cenários. Isso melhora a qualidade do software, pois os potenciais problemas são identificados e corrigidos precocemente.
+
+Em resumo, a engenharia de software BDD é uma abordagem eficaz para o desenvolvimento de software. Ela combina técnicas ágeis, linguagem de especificação e colaboração para garantir que o sistema atenda aos comportamentos esperados pelos usuários finais.
+

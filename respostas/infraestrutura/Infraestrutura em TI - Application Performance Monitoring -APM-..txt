@@ -1,0 +1,75 @@
+Item do edital: Infraestrutura em TI - Application Performance Monitoring -APM-.
+ 
+1. Infraestrutura em TI, Conceito de infraestrutura em TI, Importância da infraestrutura em TI, Componentes da infraestrutura em TI
+A infraestrutura em TI para Application Performance Monitoring (APM) é fundamental para garantir o bom funcionamento e desempenho das aplicações de uma organização.
+
+APM geralmente envolve a coleta, análise e monitoramento de métricas relacionadas ao desempenho de aplicações, como tempo de resposta, latência, utilização de recursos, erros e disponibilidade. Essas informações são cruciais para identificar gargalos, problemas de desempenho e otimizar a experiência do usuário.
+
+A infraestrutura para APM inclui uma série de componentes, como:
+
+1. Agentes: são responsáveis por coletar dados de desempenho nas aplicações, normalmente instalados nos servidores onde as aplicações estão sendo executadas.
+
+2. Monitoramento de aplicativos: é necessário instrumentar a aplicação com código que permite coletar métricas específicas sobre seu desempenho.
+
+3. Coletores de dados: recebem os dados coletados pelos agentes e armazenam em um banco de dados para análise.
+
+4. Ferramentas de análise: são responsáveis por analisar os dados coletados, identificar anomalias e fornecer informações úteis sobre o desempenho da aplicação.
+
+5. Painéis de controle e relatórios: exibem as informações coletadas e analisadas de forma visual para que os usuários possam tomar as decisões adequadas para melhorar o desempenho das aplicações.
+
+Além disso, a infraestrutura para APM também precisa considerar a escalabilidade e a segurança, principalmente em ambientes em nuvem, onde as aplicações podem estar distribuídas em diversos servidores ou até mesmo em diferentes provedores.
+
+Existem várias ferramentas disponíveis no mercado que podem ser usadas para implementar uma infraestrutura de APM, como Dynatrace, New Relic, AppDynamics, entre outras. Cada uma delas possui recursos específicos, portanto é importante avaliar as necessidades e objetivos da organização antes de escolher uma solução.
+
+Em resumo, a infraestrutura em TI para APM é essencial para garantir o desempenho e a disponibilidade das aplicações, permitindo que as organizações identifiquem problemas e façam otimizações para melhorar a experiência do usuário.
+2. Application Performance Monitoring (APM), Definição de APM, Objetivos do APM, Benefícios do APM
+Como especialista em infraestrutura de TI, posso lhe fornecer informações sobre Application Performance Monitoring (APM).
+
+O Application Performance Monitoring (APM) é uma prática que visa monitorar e gerenciar o desempenho de aplicativos em ambiente de produção. O objetivo é garantir a disponibilidade e a performance adequada dos aplicativos, a fim de melhorar a experiência do usuário e evitar possíveis impactos no negócio.
+
+Existem diversas ferramentas de APM disponíveis no mercado, que oferecem recursos como monitoramento de tempo de resposta, rastreamento de transações, identificação de gargalos de desempenho, entre outros. Essas ferramentas geralmente incluem funcionalidades de monitoramento de infraestrutura, como servidores, bancos de dados e redes, além de monitoramento de aplicativos propriamente dito.
+
+Ao implementar uma solução de APM, é importante definir quais são as metas de desempenho para cada aplicativo, para que se possa estabelecer os parâmetros de monitoramento adequados. Além disso, é necessário configurar alertas para notificar a equipe responsável caso algum indicador de desempenho esteja abaixo do esperado.
+
+Através do uso de ferramentas de APM, é possível identificar problemas de desempenho em tempo real e tomar medidas corretivas de forma rápida e eficiente. Além disso, essas ferramentas permitem a análise de dados históricos, o que possibilita a identificação de tendências e a adoção de medidas preventivas para evitar problemas futuros.
+
+Em resumo, o Application Performance Monitoring é uma prática essencial para garantir o bom funcionamento dos aplicativos em ambiente de produção, proporcionando uma melhor experiência do usuário e evitando impactos financeiros negativos para as empresas.
+3. Ferramentas de APM, Principais ferramentas de APM disponíveis no mercado, Funcionalidades das ferramentas de APM, Critérios para escolha de uma ferramenta de APM
+A infraestrutura em TI é uma parte fundamental para garantir o bom desempenho e a disponibilidade contínua de aplicativos e sistemas. E o Application Performance Monitoring (APM) é uma ferramenta utilizada para monitorar e analisar o desempenho de aplicativos em tempo real.
+
+O APM é uma solução que ajuda a identificar e diagnosticar problemas de desempenho em aplicativos, permitindo uma rápida detecção e resolução de problemas. Essa ferramenta coleta e analisa dados relacionados ao desempenho de aplicativos e fornece informações sobre aspectos como tempo de resposta, latência, uso de recursos do sistema e erros.
+
+Entre as principais funcionalidades do APM, podemos destacar:
+
+1. Monitoramento do tempo de resposta: o APM pode rastrear todas as transações em um aplicativo e fornecer informações detalhadas sobre o tempo de resposta de cada uma delas. Isso permite identificar gargalos e propor melhorias para otimizar o desempenho.
+
+2. Análise de causa raiz: com o APM, é possível identificar a causa raiz de um problema de desempenho, permitindo uma resolução mais eficiente. Isso é feito através da análise de métricas, rastreamento de transações e correlação de eventos.
+
+3. Alertas e notificações: o APM pode enviar alertas e notificações em tempo real quando um problema de desempenho é detectado. Isso permite que os responsáveis ​​pela infraestrutura de TI possam agir rapidamente para resolver o problema antes que ele afete os usuários finais.
+
+4. Visibilidade da experiência do usuário: o APM permite acompanhar a experiência do usuário em tempo real, fornecendo informações sobre tempo de resposta, erros e qualquer outra métrica relevante. Isso ajuda a identificar problemas que podem estar afetando a experiência do usuário e tomar medidas para resolvê-los.
+
+Em resumo, o Application Performance Monitoring é uma ferramenta essencial para garantir a disponibilidade e o desempenho adequado de aplicativos, permitindo uma rápida detecção e resolução de problemas. Com o APM, é possível monitorar e analisar o desempenho de aplicativos em tempo real, identificando problemas e otimizando o desempenho.
+4. Monitoramento de desempenho de aplicações, Importância do monitoramento de desempenho de aplicações, Métricas utilizadas no monitoramento de desempenho de aplicações, Técnicas e práticas para o monitoramento de desempenho de aplicações
+A infraestrutura em TI é essencial para garantir o bom desempenho das aplicações e sistemas de uma empresa. Uma das ferramentas utilizadas para monitorar e otimizar o desempenho das aplicações é o Application Performance Monitoring (APM).
+
+O APM é uma solução de monitoramento que fornece visibilidade em tempo real sobre o desempenho das aplicações, identificando possíveis gargalos e problemas para a equipe de TI. Ele coleta métricas como tempo de resposta, taxa de erro, consumo de recursos e tempos de carregamento de páginas, entre outros.
+
+Com o APM, é possível identificar e resolver problemas de desempenho de forma proativa, antes que eles afetem os usuários finais. Além disso, o monitoramento contínuo permite acompanhar tendências de desempenho ao longo do tempo e tomar medidas preventivas para evitar problemas futuros.
+
+O APM também oferece recursos de rastreamento de transações, permitindo que os desenvolvedores identifiquem os principais pontos problemáticos em um fluxo de transação. Isso é especialmente útil em ambientes complexos, como sistemas distribuídos, onde várias partes estão envolvidas no processamento de uma transação.
+
+Os benefícios de implementar uma ferramenta de APM incluem a redução dos tempos de inatividade, melhor desempenho das aplicações, maior satisfação do usuário, economia de tempo e recursos de TI, entre outros. Além disso, o APM pode ser integrado com outras soluções de monitoramento e análise, proporcionando uma visão abrangente do ambiente de TI da empresa.
+
+Em resumo, o APM desempenha um papel fundamental na infraestrutura de TI, garantindo o funcionamento adequado e eficiente das aplicações empresariais. É uma ferramenta essencial para monitorar e otimizar o desempenho das aplicações, identificando e resolvendo problemas antes que eles afetem os usuários finais.
+5. Desafios do APM, Desafios técnicos do APM, Desafios organizacionais do APM, Estratégias para superar os desafios do APM
+Infraestrutura em TI refere-se a toda a infraestrutura tecnológica necessária para suportar as operações de uma empresa, incluindo hardware, redes, software e serviços de suporte. A infraestrutura em TI é fundamental para garantir o desempenho, a disponibilidade e a segurança dos sistemas e aplicativos utilizados pela empresa.
+
+Uma parte importante da infraestrutura em TI é o Application Performance Monitoring (APM), que se refere ao conjunto de ferramentas e técnicas utilizadas para monitorar o desempenho dos aplicativos em tempo real. O APM é fundamental para identificar e solucionar problemas que possam afetar o desempenho dos aplicativos, como lentidão, quedas e erros.
+
+O APM envolve a coleta de dados de desempenho, como tempo de resposta, tempo de carregamento, utilização de recursos e erros de aplicativo. Esses dados são analisados ​​e exibidos em painéis de controle que fornecem informações detalhadas sobre o desempenho do aplicativo. Com base nessas informações, os administradores de TI podem identificar gargalos de desempenho, tomar medidas corretivas e otimizar o desempenho do aplicativo.
+
+O APM pode ser usado para monitorar aplicativos em uma variedade de ambientes, incluindo servidores físicos, servidores virtuais, nuvem pública e híbrida. Ele também pode monitorar aplicativos em diferentes plataformas, como desktop, web e mobile.
+
+Em resumo, o APM é uma parte essencial da infraestrutura em TI, pois garante o desempenho adequado dos aplicativos utilizados pelas empresas. Ao monitorar e otimizar o desempenho dos aplicativos, o APM ajuda a melhorar a experiência do usuário, evitar quedas e maximizar a produtividade e eficiência das operações de TI.
+

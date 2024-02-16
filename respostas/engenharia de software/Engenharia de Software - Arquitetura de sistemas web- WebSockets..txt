@@ -1,0 +1,19 @@
+Item do edital: Engenharia de Software - Arquitetura de sistemas web- WebSockets.
+ 
+1. Engenharia de Software, Conceitos básicos de Engenharia de Software, Processos de desenvolvimento de software, Metodologias ágeis, Qualidade de softwareArquitetura de sistemas web, Conceitos básicos de arquitetura de sistemas web, Modelos de arquitetura de sistemas web (ex: MVC, MVVM), Padrões de projeto para arquitetura de sistemas web, Escalabilidade e desempenho em sistemas webWebSockets, Conceitos básicos de WebSockets, Funcionamento e protocolo do WebSocket, Aplicações e casos de uso do WebSocket, Implementação e uso do WebSocket em sistemas web
+A engenharia de software é a disciplina que estuda os princípios, métodos e ferramentas para o desenvolvimento de software de maneira eficiente e confiável. Ela abrange todas as etapas do ciclo de vida do software, desde a concepção até a manutenção.
+
+A arquitetura de sistemas web refere-se à estrutura geral de um sistema web, incluindo a forma como os componentes e subsistemas se organizam e interagem entre si. Ela determina como os dados fluem através do sistema, como as funcionalidades são implementadas e como a segurança é garantida.
+
+WebSockets é uma tecnologia que permite a comunicação bidirecional em tempo real entre um navegador web e um servidor. Ela foi introduzida para superar as limitações das antigas técnicas de comunicação, como requisições HTTP repetitivas, que eram menos eficientes em termos de uso de recursos e tempo de resposta.
+
+Com WebSockets, é possível criar aplicações web interativas e em tempo real, como chats, jogos multiplayer, compartilhamento de dados em tempo real e muitas outras. A comunicação é estabelecida através de um único socket, permitindo uma comunicação mais eficiente e rápida.
+
+A implementação de WebSockets normalmente envolve o uso de bibliotecas ou frameworks específicos, que facilitam a criação da infraestrutura necessária para a comunicação bidirecional. Essas bibliotecas também fornecem uma API para manipular os eventos de comunicação, como a recepção e envio de mensagens.
+
+A arquitetura de um sistema web com WebSockets pode variar dependendo das necessidades específicas do projeto. No entanto, algumas práticas comuns incluem a utilização de um servidor WebSocket dedicado, que lida com a comunicação em tempo real, e um servidor web convencional, que lida com as requisições HTTP padrão.
+
+Além disso, é importante considerar a escalabilidade do sistema, garantindo que ele possa lidar com um grande número de conexões simultâneas. A utilização de balanciadores de carga e a distribuição de conexões entre vários servidores WebSocket podem ajudar a atingir essa escalabilidade.
+
+Em resumo, a arquitetura de sistemas web com WebSockets permite a criação de aplicações web interativas em tempo real, fornecendo uma comunicação mais eficiente e rápida entre o navegador e o servidor. O seu uso requer um bom entendimento dos princípios de engenharia de software e das melhores práticas de arquitetura de sistemas.
+

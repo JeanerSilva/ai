@@ -1,0 +1,99 @@
+Item do edital: Engenharia de Software - Arquiteturas em camadas.
+ 
+1. Conceitos básicos de Engenharia de Software, Definição de Engenharia de Software, Processos de Engenharia de Software, Princípios da Engenharia de Software
+A arquitetura em camadas é uma abordagem comum na engenharia de software que visa dividir um sistema em camadas distintas, cada uma com responsabilidades específicas. Cada camada tem suas próprias funções e interage com as camadas adjacentes de maneira bem definida.
+
+A arquitetura em camadas oferece alguns benefícios, como uma maior reutilização de código, facilidade de manutenção e escalabilidade. Além disso, ela promove uma melhor organização do código e uma separação clara de preocupações.
+
+As camadas típicas em uma arquitetura em camadas são:
+
+1. Camada de Apresentação (ou Interface do Usuário): Responsável pela interação com o usuário, exibindo informações e coletando inputs. Normalmente é composta por interfaces gráficas, páginas web, APIs, etc.
+
+2. Camada de Aplicação (ou Lógica de Negócio): Responsável pela lógica de negócio do sistema. Aqui acontecem as validações, cálculos, processamentos de dados, etc. Essa camada se comunica com a camada de apresentação e com a camada de acesso a dados.
+
+3. Camada de Acesso a Dados: Responsável pelo acesso e manipulação dos dados persistidos, seja em um banco de dados, em arquivos ou em outros sistemas. Normalmente é composta por queries SQL ou métodos de acesso a APIs.
+
+Apesar dessa estrutura básica, é comum encontrar arquiteturas em camadas mais complexas, com camadas adicionais para, por exemplo, acesso a serviços externos, integração com sistemas legados ou camadas específicas para abstração de tecnologias.
+
+Existem diferentes maneiras de implementar arquiteturas em camadas, como a arquitetura MVC (Model-View-Controller) ou a arquitetura MVVM (Model-View-ViewModel), que adicionam uma camada adicional de abstração para melhorar a separação de responsabilidades.
+
+É importante ressaltar que a escolha da arquitetura em camadas depende das características e necessidades do sistema em questão, assim como da tecnologia utilizada. É uma abordagem bastante flexível e amplamente utilizada na engenharia de software.
+2. Arquitetura de Software, Definição de Arquitetura de Software, Importância da Arquitetura de Software, Princípios da Arquitetura de Software
+Arquitetura em camadas, também conhecida como arquitetura multicamadas ou arquitetura em n camadas, é um estilo arquitetônico comumente utilizado na engenharia de software. Nesse tipo de arquitetura, um sistema é dividido em camadas distintas, onde cada camada possui uma responsabilidade específica.
+
+A arquitetura em camadas permite que o sistema seja projetado de maneira modular, proporcionando maior flexibilidade, reusabilidade e manutenibilidade. Além disso, as camadas podem ser desenvolvidas e testadas de forma independente, facilitando a colaboração entre diferentes equipes de desenvolvimento.
+
+Geralmente, uma arquitetura em camadas é composta por três camadas principais: apresentação, lógica de negócios e persistência de dados.
+
+A camada de apresentação, também conhecida como camada de interface com o usuário, é responsável por receber as requisições do usuário e exibir a resposta do sistema. Ela pode ser implementada utilizando uma interface gráfica, uma API ou qualquer outra forma de interação com o usuário.
+
+A camada de lógica de negócios, também chamada de camada de domínio ou camada de aplicação, contém as regras de negócio e os algoritmos necessários para processar as requisições do usuário. Ela é responsável por coordenar a lógica do sistema e realizar as operações necessárias para atender às solicitações dos usuários.
+
+Por fim, a camada de persistência de dados é responsável por gerenciar o acesso e a manipulação dos dados do sistema. Ela pode incluir bancos de dados, arquivos, serviços de armazenamento em nuvem ou qualquer outro meio de persistir os dados.
+
+A comunicação entre as camadas é realizada através de interfaces bem definidas, garantindo a separação de preocupações e facilitando a manutenção e evolução do sistema. É comum utilizar padrões de projeto, como o padrão MVC (Model-View-Controller), para implementar a arquitetura em camadas de forma eficiente.
+
+Além das três camadas principais, em algumas arquiteturas mais complexas, podem ser adicionadas camadas adicionais, como uma camada de serviços ou uma camada de segurança. Essas camadas extras são opcionais e podem ser incluídas de acordo com os requisitos do sistema.
+
+Em resumo, a arquitetura em camadas é uma abordagem eficiente para desenvolver sistemas de software complexos, pois permite a separação de responsabilidades, facilita a colaboração entre equipes e promove a reutilização de código.
+3. Arquiteturas em camadas, Definição de Arquiteturas em camadas, Características das Arquiteturas em camadas, Vantagens e desvantagens das Arquiteturas em camadas, Exemplos de Arquiteturas em camadas
+Arquitetura em camadas é um padrão comum na engenharia de software que organiza um sistema em camadas distintas de funcionalidades. Cada camada é responsável por um conjunto específico de tarefas e interage apenas com as camadas adjacentes, seguindo o princípio de separação de preocupações.
+
+Geralmente, uma arquitetura em camadas é composta por três camadas principais:
+
+1. Camada de Apresentação (ou Interface de Usuário): Esta camada é responsável pela interação do usuário com o sistema. Ela apresenta as informações ao usuário de forma visual e recebe as entradas do usuário. Pode conter interfaces de usuário, como telas, páginas web ou aplicativos mobile.
+
+2. Camada de Lógica de Negócio (ou Camada de Aplicação): Esta camada contém a lógica do sistema. Ela lida com as regras de negócio, realiza cálculos, processa dados e toma decisões. É responsável por garantir a consistência e validade dos dados manipulados. Pode conter classes e métodos que implementam a funcionalidade do sistema.
+
+3. Camada de Persistência (ou Camada de Dados): Esta camada é responsável pelo armazenamento e recuperação dos dados. Ela interage diretamente com o banco de dados ou qualquer outro mecanismo de persistência utilizado. Pode conter classes e métodos que realizam as operações de acesso a dados, como inserção, atualização, exclusão e consulta.
+
+As camadas são organizadas hierarquicamente, sendo que as camadas superiores dependem das camadas inferiores para seu funcionamento. Uma alteração em uma camada não deve afetar as demais, desde que a interface entre elas seja mantida.
+
+A arquitetura em camadas promove a modularidade, a reutilização de código, a testabilidade e a manutenibilidade do sistema. Além disso, facilita a escalabilidade e permite a substituição de componentes de uma camada sem afetar o restante do sistema.
+
+No entanto, é importante ressaltar que a divisão em camadas nem sempre é necessária ou adequada para todos os sistemas. A escolha da arquitetura depende das necessidades e requisitos do projeto, bem como da experiência e conhecimento dos desenvolvedores. Por isso, é fundamental avaliar cuidadosamente a aplicabilidade e benefícios dessa abordagem para cada caso específico.
+4. Componentes de uma Arquitetura em camadas, Camada de apresentação, Camada de negócio, Camada de persistência, Comunicação entre as camadas
+Arquitetura em camadas é uma abordagem comum na Engenharia de Software para a organização e estruturação de sistemas. Essa arquitetura divide o sistema em diferentes camadas lógicas, cada uma com um propósito específico e uma responsabilidade bem definida.
+
+Uma arquitetura em camadas geralmente consiste nas seguintes camadas:
+
+1. Interface de Usuário (Presentation Layer): Esta é a camada com a qual os usuários interagem. Ela lida com a apresentação dos dados para os usuários e captura a entrada do usuário. Pode incluir interfaces gráficas de usuário (GUI) ou interfaces de linha de comando (CLI), dependendo do sistema.
+
+2. Camada de Lógica de Negócios (Business Logic Layer): Esta camada contém o cerne da lógica de negócios do sistema. Ela processa os dados fornecidos pela camada de interface de usuário e toma decisões com base nesses dados. É nesta camada que são implementadas as regras de negócio e a lógica principal da aplicação.
+
+3. Camada de Acesso a Dados (Data Access Layer): Esta camada é responsável pelo acesso e manipulação dos dados subjacentes. Ela se comunica com um banco de dados ou qualquer outra fonte de dados externa e fornece mecanismos para criar, ler, atualizar e excluir os dados.
+
+Essa divisão em camadas permite uma maior separação de preocupações e a modularização do sistema. Cada camada pode ser desenvolvida, testada e mantida independentemente das outras, tornando o sistema mais flexível e fácil de escalar. Além disso, essa arquitetura promove a reutilização de código, uma vez que diferentes sistemas podem compartilhar as mesmas camadas.
+
+No entanto, é importante notar que a arquitetura em camadas não é uma solução adequada para todos os tipos de sistemas. Alguns sistemas podem exigir abordagens diferentes, como arquitetura orientada a serviços (SOA) ou arquitetura orientada a microsserviços. A escolha da arquitetura mais adequada dependerá dos requisitos e características específicas do sistema em questão.
+5. Padrões de projeto para Arquiteturas em camadas, MVC (Model-View-Controller), MVP (Model-View-Presenter), MVVM (Model-View-ViewModel), Padrão Repository
+A arquitetura em camadas é um padrão de design de software amplamente utilizado na engenharia de software. Consiste em dividir um sistema em várias camadas, onde cada camada possui uma responsabilidade específica e se comunica apenas com as camadas adjacentes.
+
+As camadas geralmente são organizadas de forma hierárquica, com a camada de apresentação ou interface do usuário na parte superior, seguida pela camada de lógica de negócios (ou camada de serviço), camada de acesso a dados e, por fim, a camada de armazenamento de dados.
+
+Cada camada desempenha um papel fundamental no sistema e possui suas próprias regras de negócios e funcionalidades distintas. A camada de apresentação é responsável pela interação com o usuário, exibindo a interface gráfica e coletando informações inseridas. A camada de lógica de negócios é responsável por processar as informações fornecidas pela camada de apresentação e implementar as regras de negócios. A camada de acesso a dados é responsável por recuperar e salvar dados do banco de dados ou de outras fontes de dados. E, por fim, a camada de armazenamento de dados é responsável por persistir os dados em algum tipo de armazenamento permanente.
+
+A principal vantagem da arquitetura em camadas é a separação de preocupações, onde cada camada tem sua própria responsabilidade e pode ser desenvolvida, testada e mantida independentemente das outras camadas. Isso facilita a manutenção do sistema, a inserção de novos recursos e a escalabilidade, pois as camadas podem ser modificadas ou substituídas sem afetar as outras camadas.
+
+No entanto, a arquitetura em camadas também pode introduzir complexidade adicional, pois cada camada precisa se comunicar com as camadas adjacentes e garantir que os dados sejam transferidos corretamente. É importante definir interfaces claras e utilizar padrões de design adequados para garantir a integração eficaz das camadas.
+
+Em resumo, a arquitetura em camadas é uma abordagem eficiente para separar as preocupações e organizar um sistema em componentes independentes e interconectados. É amplamente utilizada na engenharia de software e oferece benefícios como manutenibilidade, escalabilidade e modularidade.
+6. Exemplos de aplicações com Arquiteturas em camadas, Sistemas de gerenciamento de banco de dados, Aplicações web, Sistemas de controle de versão, Sistemas de gerenciamento de projetos
+A arquitetura em camadas é um padrão comum utilizado na engenharia de software para projetar e organizar sistemas complexos. Essa arquitetura divide o sistema em camadas lógicas, cada uma com responsabilidades específicas e interações bem definidas com as outras camadas.
+
+As camadas são organizadas hierarquicamente, com a camada de mais alta abstração no topo e a camada de mais baixo nível no fundo. Cada camada se comunica apenas com as camadas imediatamente acima e abaixo dela, seguindo o princípio da dependência de abstração.
+
+As camadas mais comuns em uma arquitetura em camadas são:
+
+1. Interface do usuário (UI): É a camada responsável pela interação com o usuário. Aqui estão presentes as telas, formulários e todos os componentes gráficos que permitem ao usuário interagir com o sistema.
+
+2. Lógica de negócios: Também conhecida como camada de aplicação, é responsável por implementar as regras de negócio do sistema. Aqui estão presentes os algoritmos, validações e processamentos que definem as funcionalidades e comportamentos do sistema.
+
+3. Acesso a dados: Essa camada é responsável por realizar a comunicação com a camada de armazenamento de dados, como um banco de dados ou um sistema de arquivos. Ela encapsula a lógica de acesso aos dados, como consultas SQL ou chamadas a APIs externas.
+
+4. Armazenamento de dados: É a camada onde os dados são armazenados permanentemente, seja em um banco de dados relacional, um banco de dados NoSQL, um sistema de arquivos ou qualquer outro meio de persistência.
+
+Essa divisão em camadas permite que cada uma tenha uma responsabilidade bem definida, facilitando a manutenção e evolução do sistema. Além disso, a separação de preocupações proporcionada pela arquitetura em camadas permite a reutilização de código e a escalabilidade do sistema, já que cada camada pode ser tratada de forma independente.
+
+É importante ressaltar que a arquitetura em camadas não é a única forma de organizar um sistema, e que cada projeto possui suas particularidades. Outras arquiteturas, como a arquitetura orientada a serviços (SOA) e a arquitetura microservices, também são amplamente utilizadas e podem ser mais adequadas para determinados contextos.
+

@@ -1,0 +1,27 @@
+Item do edital: Java- gestão de memória.
+ 
+1. Conceitos básicos de gerenciamento de memória em Java, Alocação de memória, Desalocação de memória, Coleta de lixo (garbage collection)Tipos de memória em Java, Heap, Stack, PermGen (Permanent Generation)Gerenciamento manual de memória em Java, Uso de ponteiros, Liberação de memóriaGerenciamento automático de memória em Java, Coleta de lixo (garbage collection), Algoritmos de coleta de lixo, Ciclo de vida dos objetosProblemas comuns de gerenciamento de memória em Java, Vazamento de memória (memory leak), Fragmentação de memória, OutOfMemoryErrorBoas práticas de gerenciamento de memória em Java, Uso eficiente de objetos, Evitar vazamentos de memória, Otimização de código
+O gerenciamento de memória em Java é realizado de forma automática pelo Garbage Collector (Coletor de Lixo). O Garbage Collector é responsável por identificar e liberar a memória que não está mais em uso. 
+
+Em Java, não é necessário que o programador se preocupe com a alocação e liberação de memória manualmente. Isso ocorre porque a linguagem possui o conceito de alocação dinâmica de memória, onde os objetos são alocados na memória heap. 
+
+Quando um objeto não possui mais referências para ele (ou seja, não existe mais nenhuma variável que aponte para ele), o Garbage Collector identifica esse objeto como "lixo" e o libera da memória, recuperando assim o espaço ocupado por ele.
+
+O Garbage Collector é executado de forma transparente, em segundo plano, e é otimizado para realizar a coleta de lixo de maneira eficiente. Isso significa que ele só é executado quando é necessário, levando em consideração fatores como o consumo de memória e a quantidade de objetos não referenciados.
+
+Apesar de ser um processo automatizado, é importante que os programadores tenham conhecimento sobre o funcionamento do Garbage Collector, para evitar problemas como vazamentos de memória e reduzir o consumo desnecessário de recursos.
+
+Algumas boas práticas para o gerenciamento de memória em Java são:
+
+- Evite criar referências desnecessárias para objetos, pois isso pode aumentar o tempo de execução do Garbage Collector. Sempre que possível, atribua null para variáveis que não são mais necessárias.
+
+- Tenha cuidado com a criação de objetos temporários em loops, pois a criação excessiva de objetos pode reduzir o desempenho do programa. Procure reutilizar objetos sempre que possível.
+
+- Utilize tamanhos adequados para arrays e coleções, evitando alocações desnecessárias de memória.
+
+- Utilize ferramentas de análise de memória, como o Profiler, para identificar possíveis vazamentos de memória ou problemas de consumo excessivo de recursos.
+
+- Tome cuidado com a utilização de referências fortes em objetos que possuem um ciclo de vida longo, como objetos dentro de um cache. Nesses casos, o uso de referências fracas ou suaves pode ser mais adequado para evitar vazamentos de memória.
+
+Em resumo, o gerenciamento de memória em Java é realizado de forma automática pelo Garbage Collector, mas é importante que os programadores tenham conhecimento sobre esse processo para evitar problemas de vazamento de memória e otimizar o consumo de recursos.
+

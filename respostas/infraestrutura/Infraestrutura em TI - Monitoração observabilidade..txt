@@ -1,0 +1,67 @@
+Item do edital: Infraestrutura em TI - Monitoração observabilidade.
+ 
+1. Infraestrutura em TI, Redes de computadores, Servidores, Armazenamento de dados, Virtualização, Segurança da informação
+A monitoração e a observabilidade são componentes essenciais para a infraestrutura de TI. A monitoração consiste na coleta e análise de métricas e eventos em tempo real para identificar problemas e garantir o funcionamento adequado dos sistemas de TI. Isso envolve o monitoramento de recursos de hardware, como servidores e redes, bem como a monitoração de aplicativos, serviços e experiência do usuário.
+
+A observabilidade, por sua vez, é uma abordagem mais abrangente que vai além da simples coleta de métricas e eventos. Ela envolve a criação de um sistema que permite entender não apenas o que está acontecendo, mas também por que está acontecendo. A observabilidade envolve a análise de logs, rastreamentos e outras informações contextuais para fornecer insights sobre o desempenho e a eficiência da infraestrutura de TI.
+
+Para implementar uma monitoração eficiente e uma observabilidade adequada, são necessárias várias ferramentas e técnicas. Algumas das principais tecnologias que podem ser utilizadas incluem:
+
+1. Ferramentas de monitoração de infraestrutura: Essas ferramentas ajudam a monitorar o desempenho de servidores, redes, bancos de dados, dispositivos de armazenamento e outros componentes de infraestrutura. Elas alertam os responsáveis quando ocorrem falhas ou quando ocorrem eventos fora do padrão.
+
+2. Ferramentas de monitoração de aplicativos e serviços: Essas ferramentas são usadas para monitorar de perto o desempenho de aplicativos e serviços em tempo real. Elas podem rastrear métricas de desempenho, tempo de resposta, transações bem-sucedidas e outras métricas relevantes.
+
+3. Análise de logs: Analisar logs de eventos é uma parte importante da observabilidade. Através da análise de logs, é possível identificar problemas e anomalias, rastrear problemas de desempenho e investigar incidentes de segurança.
+
+4. Rastreamento distribuído: O rastreamento distribuído é uma técnica utilizada para monitorar o fluxo de dados entre os diferentes componentes de um sistema distribuído. Com ele, é possível identificar gargalos, tempos de resposta elevados e outros problemas relacionados à distribuição das aplicações.
+
+5. Análise de dados em tempo real: A análise de dados em tempo real permite identificar e agir rapidamente em relação a eventos e anomalias. Ela pode ser usada para detectar padrões e tendências em tempo real, bem como para automatizar ações corretivas.
+
+Implementar uma estratégia eficaz de monitoração e observabilidade requer conhecimento técnico e experiência. É importante fazer uma análise detalhada dos requisitos e objetivos da organização, bem como da infraestrutura de TI existente, para garantir que sejam escolhidas as ferramentas e técnicas mais adequadas. Além disso, é fundamental realizar monitoramento contínuo e ajustar as estratégias conforme necessário para garantir o bom funcionamento da infraestrutura de TI.
+2. Monitoração, Ferramentas de monitoração, Monitoração de desempenho, Monitoração de disponibilidade, Monitoração de capacidade, Monitoração de eventos
+A infraestrutura em TI é composta por diversos elementos técnicos que garantem o funcionamento adequado dos sistemas e aplicações de uma empresa. Dentre esses elementos, a monitoração e observabilidade são fundamentais para manter a disponibilidade, desempenho e segurança dos ambientes de TI.
+
+A monitoração em TI é responsável por coletar informações em tempo real sobre o estado e o desempenho dos diferentes componentes da infraestrutura de TI, como servidores, redes, bancos de dados, dispositivos de armazenamento, entre outros. Essas informações são monitoradas e analisadas para identificar eventuais problemas, falhas ou gargalos, permitindo que medidas corretivas sejam tomadas antes que eles afetem os usuários finais.
+
+A observabilidade, por sua vez, é uma abordagem que busca fornecer uma visão holística dos sistemas em produção, permitindo que os administradores de TI visualizem e entendam como as diferentes partes da infraestrutura se interagem e impactam o desempenho geral. A observabilidade também envolve o monitoramento, mas vai além, ao incluir a coleta e análise de métricas, registros (logs) e rastreamentos (traces), por exemplo.
+
+Para garantir uma monitoração e observabilidade eficientes, é preciso utilizar ferramentas modernas e robustas, capazes de coletar e analisar grandes volumes de dados em tempo real. Além disso, é importante estabelecer métricas de desempenho e SLAs (Service Level Agreements) claros, que permitam avaliar adequadamente o desempenho dos sistemas e dar suporte à tomada de decisões.
+
+Outro ponto relevante é a automação, que pode ser aplicada na configuração e implantação de soluções de monitoração e observabilidade, além de permitir ações automáticas em resposta a eventos e alertas identificados. A automação reduz a dependência das intervenções manuais, aumentando a eficiência do processo de monitoração e observabilidade.
+
+Em resumo, a monitoração e a observabilidade são elementos essenciais da infraestrutura em TI, sendo fundamentais para garantir a disponibilidade, desempenho e segurança dos sistemas e aplicações. Investir em ferramentas modernas, estabelecer métricas claras e automatizar processos são aspectos importantes para garantir uma monitoração e observabilidade eficientes.
+3. Observabilidade, Logs, Métricas, Rastreamento distribuído, Telemetria, Análise de dados
+Infraestrutura em TI refere-se a todos os componentes físicos e virtuais necessários para suportar uma infraestrutura de Tecnologia da Informação. Isso inclui servidores, sistemas operacionais, redes, bancos de dados, equipamentos de armazenamento e outros dispositivos relacionados.
+
+A monitoração e observabilidade em infraestrutura de TI envolve o acompanhamento e análise ativa dos diferentes componentes da infraestrutura, a fim de garantir que tudo esteja funcionando corretamente e detectar problemas o mais rápido possível. Isso é essencial para garantir um desempenho otimizado, evitar falhas e maximizar a disponibilidade dos serviços.
+
+Existem várias ferramentas e abordagens disponíveis para monitorar a infraestrutura de TI. Essas ferramentas podem coletar informações sobre métricas de desempenho, como tempos de resposta, utilização da CPU, memória e largura de banda de rede. Os dados coletados são então analisados ​​e podem ser usados ​​para criar alertas, detectar padrões de comportamento anormais e tomar medidas corretivas.
+
+Além da monitoração, a observabilidade também é um conceito importante na infraestrutura de TI. Enquanto a monitoração é mais voltada para o acompanhamento e análise de métricas, a observabilidade visa entender o comportamento interno do sistema e identificar como os diferentes componentes interagem entre si. Isso pode envolver o uso de logs de aplicativos e infraestrutura, rastreamento de transações e análise de eventos para obter uma visão mais completa do sistema.
+
+A monitoração e observabilidade são fundamentais para manter uma infraestrutura de TI confiável e eficiente. Ao detectar e solucionar problemas rapidamente, as empresas podem evitar tempo de inatividade não planejado, minimizar interrupções dos serviços e melhorar a experiência do usuário. Portanto, é essencial investir em ferramentas e processos robustos de monitoramento e observabilidade.
+4. Gerenciamento de incidentes, Identificação de incidentes, Classificação de incidentes, Priorização de incidentes, Escalonamento de incidentes, Resolução de incidentes
+A infraestrutura em TI refere-se ao conjunto de hardware, software, redes e recursos necessários para permitir o funcionamento de sistemas de tecnologia da informação. Isso inclui servidores, roteadores, switches, armazenamento de dados, virtualização, sistemas operacionais e muito mais.
+
+A monitoração observabilidade é uma prática essencial na infraestrutura de TI. Ela envolve o monitoramento contínuo de todos os componentes da infraestrutura, a fim de detectar e solucionar problemas em tempo real. Isso inclui a coleta de métricas, logs e eventos relacionados aos sistemas e aplicativos para entender melhor seu desempenho e identificar possíveis pontos de falha.
+
+A observabilidade vai além do monitoramento tradicional, que apenas verifica se os sistemas estão online. Com a observabilidade, é possível obter uma visão mais abrangente e detalhada de todo o ambiente de TI. Ela permite identificar tendências, analisar padrões de comportamento e antecipar problemas potenciais. Isso é especialmente importante em ambientes de TI complexos e distribuídos, onde há múltiplos componentes interconectados.
+
+Existem várias ferramentas e tecnologias disponíveis para implementar a monitoração observabilidade na infraestrutura de TI. Algumas das principais incluem sistemas de monitoramento de rede, ferramentas de gerenciamento de logs, soluções de monitoramento de desempenho de aplicativos (APM) e plataformas de análise de dados em tempo real.
+
+A monitoração observabilidade permite que os profissionais de TI obtenham insights valiosos sobre seu ambiente, garantindo a disponibilidade, desempenho e segurança dos sistemas. Além disso, ela ajuda a melhorar a eficiência operacional, identificando áreas de otimização e automatizando tarefas de monitoramento e solução de problemas.
+
+Como especialista em infraestrutura em TI e monitoração observabilidade, é necessário ter um bom conhecimento das principais ferramentas e tecnologias disponíveis, bem como habilidades sólidas em análise de dados e resolução de problemas. É importante também acompanhar as tendências e desenvolvimentos mais recentes nessa área em constante evolução.
+5. Automação, Automação de tarefas, Automação de processos, Automação de monitoração, Automação de resolução de incidentes, Automação de provisionamento de recursos
+A infraestrutura em TI é essencial para garantir o funcionamento adequado dos sistemas e aplicativos de uma organização. Monitoração e observabilidade são termos relacionados à capacidade de rastrear, medir e analisar o desempenho dos componentes de uma infraestrutura de TI.
+
+A monitoração é o processo de coleta de dados sobre o desempenho de uma infraestrutura de TI, como o uso de recursos do servidor, a utilização da capacidade de armazenamento e a latência da rede. Esses dados são coletados por meio de ferramentas de monitoramento, como sistemas de monitoramento de rede, ferramentas de rastreamento de logs e métricas de servidores.
+
+Já a observabilidade é a capacidade de analisar esses dados de monitoração para obter insights sobre o desempenho do sistema. Isso envolve a utilização de técnicas de análise de dados, como criação de dashboards, alarmes e relatórios para identificar possíveis problemas de desempenho, gargalos ou anomalias.
+
+A monitoração e observabilidade são fundamentais para garantir que a infraestrutura de TI esteja funcionando de forma eficiente e correta. Por meio dessas práticas, as equipes de TI podem identificar problemas antes que eles afetem os usuários finais, tomar ações corretivas adequadas e planejar o dimensionamento e a capacidade futura da infraestrutura.
+
+Existem várias ferramentas disponíveis no mercado para monitoração e observabilidade, como Zabbix, Nagios, Splunk e Prometheus. Essas ferramentas auxiliam nas tarefas de monitoração e análise de dados, oferecendo recursos avançados, como alertas em tempo real, visualizações personalizadas e integração com outras ferramentas de gestão de TI.
+
+Em resumo, a monitoração e observabilidade são práticas essenciais para manter a infraestrutura de TI em bom funcionamento, permitindo a detecção precoce de problemas e a melhoria contínua do desempenho dos sistemas.
+
