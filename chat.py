@@ -39,7 +39,6 @@ def gerar_subtopicos_e_perguntas(pergunta, contexto):
         last_response = response_subtopicos['choices'][0]['message']['content']
         print(f"last_response======: {last_response} ")
         subtópicos = last_response.strip().split('\n\n')
-        print(f"subtópicos3======: {subtópicos} ")
 
         informacoes_subtopicos = []
 
@@ -47,8 +46,6 @@ def gerar_subtopicos_e_perguntas(pergunta, contexto):
             subtópicos = last_response.strip().split('\n\n')
         else:
             subtópicos = last_response.strip().split('\n')
-
-        print(f"subtópicos4======: {subtópicos} ")
  
         for subtópico in subtópicos:
             subtópico = subtópico.replace("\n", "").replace("- Tópico: ", "").replace("  - Subtópico: ", ", ")

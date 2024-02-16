@@ -1,0 +1,57 @@
+Item do edital: Scrum - Visão Geral do Scrum: Definição e Conceitos Básicos, Pilares do Scrum: Transparência, Inspeção, Adaptação.
+ 
+1. - Definição e Conceitos Básicos do Scrum:  - O que é Scrum;  - Origem e histórico do Scrum;  - Princípios do Scrum;  - Papéis no Scrum: Scrum Master, Product Owner e Time de Desenvolvimento;  - Artefatos do Scrum: Product Backlog, Sprint Backlog e Incremento.
+Scrum é um framework ágil que tem como objetivo facilitar o desenvolvimento de produtos complexos. Ele é baseado em princípios de transparência, inspeção e adaptação, e promove a colaboração e a entrega contínua de valor.
+
+O Scrum é definido por três papéis principais: o Product Owner, o Scrum Master e o Time de Desenvolvimento. O Product Owner representa os interesses dos stakeholders e é responsável por definir e priorizar os itens do Product Backlog. O Scrum Master é responsável por garantir a correta aplicação do Scrum e por ajudar o Time de Desenvolvimento a ser mais eficiente. O Time de Desenvolvimento é responsável por desenvolver o produto e entregar incrementos de valor a cada Sprint.
+
+O Scrum é baseado em Sprints, que são períodos fixos de tempo durante os quais o Time de Desenvolvimento trabalha para entregar um incremento de produto funcional. No início do Sprint, o Time de Desenvolvimento seleciona os itens do Product Backlog que serão trabalhados e estima o esforço necessário para concluí-los. Durante o Sprint, o Time de Desenvolvimento se auto-organiza para realizar o trabalho e o Scrum Master facilita o processo.
+
+Durante o Sprint, o progresso é acompanhado por meio de reuniões diárias de 15 minutos, chamadas de Daily Scrums. No final do Sprint, ocorre a Reunião de Revisão do Sprint, na qual o Time de Desenvolvimento demonstra o incremento de produto concluído. Em seguida, ocorre a Reunião de Retrospectiva do Sprint, na qual o Time de Desenvolvimento analisa o próprio desempenho e busca melhorias para o próximo Sprint.
+
+Os pilares do Scrum são a transparência, a inspeção e a adaptação. A transparência refere-se à clareza de informações e processos, permitindo que todos os envolvidos entendam o que está sendo desenvolvido e como. A inspeção envolve a avaliação constante do progresso, tanto do produto quanto do processo, por meio de reuniões e revisões. A adaptação envolve a capacidade de realizar ajustes e melhorias com base nas inspeções realizadas.
+
+Em resumo, o Scrum é um framework ágil que promove a colaboração, a entrega contínua de valor e a adaptação constante. Ele é baseado nos pilares da transparência, inspeção e adaptação, e é amplamente utilizado no desenvolvimento de produtos complexos.
+2. - Pilares do Scrum:  - Transparência:    - Importância da transparência no Scrum;    - Como garantir a transparência no Scrum;    - Benefícios da transparência no Scrum.
+Scrum é um framework ágil utilizado para o gerenciamento de projetos complexos. Ele foi originalmente desenvolvido para a área de desenvolvimento de software, mas tem sido amplamente adotado em diferentes setores e tipos de projetos.
+
+O Scrum é baseado em três pilares fundamentais: transparência, inspeção e adaptação. Esses pilares são essenciais para o sucesso de qualquer projeto que utiliza o framework.
+
+Transparência significa que todas as informações relevantes sobre o projeto devem ser visíveis e compartilhadas por todos os membros da equipe. Isso inclui o progresso do projeto, os riscos identificados, os impedimentos encontrados, entre outros. A transparência ajuda a promover a colaboração e o trabalho em equipe.
+
+Já a inspeção está relacionada à avaliação constante do trabalho realizado. A equipe deve fazer revisões periódicas do trabalho concluído para garantir que ele esteja de acordo com os objetivos do projeto e atendendo às expectativas dos stakeholders. A inspeção também permite identificar problemas e oportunidades de melhoria.
+
+A adaptação é a capacidade de ajustar o trabalho de acordo com as mudanças e aprendizados obtidos durante o projeto. O Scrum reconhece que é difícil prever de forma precisa e detalhada tudo o que será necessário ao longo do projeto. Por isso, ele incentiva a equipe a ser flexível e se adaptar às mudanças para alcançar os melhores resultados.
+
+Além desses pilares, o Scrum também possui papéis e artefatos importantes. Os três principais papéis são o Product Owner (responsável por definir e priorizar as funcionalidades do produto), o Scrum Master (responsável por garantir a aplicação correta do Scrum e eliminar os obstáculos que possam surgir) e a equipe (responsável por desenvolver o produto).
+
+Os principais artefatos do Scrum incluem o Product Backlog (uma lista de todas as funcionalidades desejadas para o produto), o Sprint Backlog (uma lista das funcionalidades que serão desenvolvidas em um determinado período de tempo - conhecido como sprint) e o Incremento do Produto (o resultado do trabalho concluído ao final de cada sprint).
+
+Em resumo, o Scrum é um framework ágil que tem como base os pilares da transparência, inspeção e adaptação. Ele permite que projetos complexos sejam realizados de forma colaborativa, flexível e adaptável, proporcionando um maior valor para o cliente.
+3.   - Inspeção:    - Significado da inspeção no Scrum;    - Momentos de inspeção no Scrum;    - Como realizar a inspeção no Scrum;    - Benefícios da inspeção no Scrum.
+Scrum é um framework ágil utilizado no desenvolvimento de projetos, especialmente na área de tecnologia, onde a complexidade e a incerteza são comuns. Ele foi criado para trazer mais eficiência, flexibilidade e resultados para as equipes de trabalho.
+
+A principal característica do Scrum é a sua abordagem iterativa e incremental, ou seja, o projeto é dividido em ciclos de trabalho chamados de Sprints, que geralmente têm duração de 2 a 4 semanas. No início de cada Sprint, o time faz uma reunião de planejamento, onde são definidas as tarefas a serem realizadas durante aquele período. Durante a Sprint, são realizadas reuniões diárias para acompanhar o progresso do trabalho.
+
+Além disso, o Scrum possui três papéis principais: o Product Owner, que é o responsável por representar os interesses dos stakeholders e garantir que o produto esteja alinhado com as necessidades do mercado; o Scrum Master, que é o facilitador do processo e ajuda a equipe a utilizar o Scrum de forma correta; e o Time de Desenvolvimento, que é o responsável por realizar as tarefas e entregar o produto.
+
+Os pilares do Scrum são fundamentais para o sucesso do processo. Transparência significa que todas as informações sobre o projeto devem ser claras e compartilhadas com todos os envolvidos. Inspeção se refere a avaliar regularmente o progresso do trabalho e identificar possíveis problemas ou obstáculos. E adaptação significa que, com base nas informações coletadas na inspeção, o time deve ser capaz de se adaptar e fazer ajustes necessários para garantir a entrega do produto.
+
+Esses são apenas conceitos básicos do Scrum, mas o framework vai muito além disso, com uma série de práticas e técnicas que auxiliam no planejamento, na comunicação e na melhoria contínua do processo de desenvolvimento.
+4.   - Adaptação:    - Conceito de adaptação no Scrum;    - Momentos de adaptação no Scrum;    - Como realizar a adaptação no Scrum;    - Benefícios da adaptação no Scrum.
+O Scrum é um framework ágil para gestão e desenvolvimento de produtos. Ele foi criado para lidar com projetos complexos, nos quais é necessário adaptar-se às mudanças de forma rápida e eficiente.
+
+O Scrum é fundamentado em três pilares principais: transparência, inspeção e adaptação.
+
+1. Transparência: significa que todos os aspectos relevantes do trabalho devem ser visíveis e entendidos por todos os envolvidos. Isso inclui a definição clara dos objetivos, das tarefas a serem executadas, das métricas de sucesso e dos processos envolvidos.
+
+2. Inspeção: o Scrum enfatiza a importância da verificação constante do progresso e dos resultados alcançados. Isso é feito através de cerimônias específicas, como as reuniões diárias (Daily Scrum), onde a equipe compartilha o que foi feito, o que será feito e quais são os impedimentos.
+
+3. Adaptação: um dos princípios fundamentais do Scrum é a capacidade de adaptação. Com base nas inspeções realizadas durante o ciclo de desenvolvimento, a equipe é capaz de identificar problemas e oportunidades de melhoria, e ajustar o plano de trabalho e o produto de acordo.
+
+O Scrum também possui papéis e artefatos definidos. Os principais papéis são o Product Owner, responsável por priorizar e definir as funcionalidades do produto; o Scrum Master, responsável por garantir o uso adequado do framework e remover obstáculos; e a equipe de desenvolvimento, responsável pela execução das tarefas.
+
+Os principais artefatos do Scrum são o Product Backlog, que contém todas as funcionalidades desejadas para o produto; o Sprint Backlog, que contém as tarefas selecionadas para serem realizadas em um sprint; e o Incremento, que é o resultado do trabalho realizado em cada sprint.
+
+Em resumo, o Scrum é uma abordagem flexível que permite às equipes entregarem valor de forma incremental e iterativa. Ele se baseia nos princípios da transparência, inspeção e adaptação, e utiliza papéis e artefatos específicos para facilitar o processo de desenvolvimento de produtos.
+
