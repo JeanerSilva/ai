@@ -77,7 +77,7 @@ def processar_perguntas(nome_arquivo, contexto):
 
             arquivo_respostas.write(f"Item do edital: {pergunta} \n")
             for i, (subtópico, resposta_subtópico) in enumerate(informacoes_subtopicos, start=1):
-                arquivo_respostas.write(f"{i}. {subtópico}\n{resposta_subtópico}\n")
+                arquivo_respostas.write(f"{i}. {subtópico}\n{resposta_subtópico}\n ===")
             arquivo_respostas.write("\n")
 
 contexto = carrega("contexto.txt")

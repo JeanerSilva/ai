@@ -1,10 +1,6 @@
-Item do edital: 2. Noções de estatística: 2.1 População e amostra.  
+﻿Item do edital: 2. Noções de estatística: 2.1 População e amostra.  
  
-1. - Tópico: População
-  - Subtópico: Definição de população
-  - Subtópico: Características da população
-  - Subtópico: Tipos de população (finita e infinita)
-  - Subtópico: Exemplos de população
+1. - Tópico: População: Subtópico: Definição de população,  Subtópico: Características da população,  Subtópico: Tipos de população (finita e infinita), Subtópico: Exemplos de população
 A estatística é uma disciplina que lida com a coleta, organização, análise e interpretação de dados. Ela desempenha um papel fundamental em diversas áreas do conhecimento, como ciências sociais, economia, medicina e engenharia. Para compreender os conceitos básicos da estatística, é importante entender as noções de população e amostra.
 
 2.1 População e amostra:
@@ -32,12 +28,14 @@ Além desses tipos de amostragem mencionados acima, existem também outros conce
 - Classificações: são categorias ou grupos nos quais os elementos da população podem ser divididos. Por exemplo, ao estudar a preferência de um determinado produto entre diferentes faixas etárias, podemos classificar os indivíduos em grupos como jovens (18-25 anos), adultos (26-40 anos) e idosos (acima de 40 anos).
 
 Em resumo, as noções de população e amostra são fundamentais para a estatística. A seleção adequada da amostra é essencial para garantir resultados confiáveis ​​e generalizáveis ​​para toda a população. Existem diferentes tipos de amostragem que podem ser utilizados, dependendo do contexto do estudo. Além disso, é importante compreender conceitos relacionados como tendências, grupos e classificações para uma análise mais completa dos dados.
+
 2. - Tópico: Amostra
   - Subtópico: Definição de amostra
   - Subtópico: Características da amostra
   - Subtópico: Tipos de amostragem (aleatória simples, estratificada, por conglomerados, etc.)
   - Subtópico: Tamanho da amostra
   - Subtópico: Exemplos de amostra
+
 A noção de população e amostra é fundamental para o estudo da estatística. A população refere-se ao conjunto completo de elementos que possuem uma característica em comum e sobre os quais se deseja fazer inferências. Por exemplo, se estamos interessados em estudar a altura dos estudantes de uma universidade, a população seria composta por todos os estudantes dessa universidade.
 
 No entanto, muitas vezes é inviável ou impraticável obter informações sobre toda a população. É nesse contexto que entra o conceito de amostra. Uma amostra é um subconjunto representativo da população que permite extrair conclusões sobre ela como um todo.
