@@ -2,7 +2,7 @@ from spire.doc import *
 from spire.doc.common import *
 
 
-def resume_diretorio(diretorio):
+def convert_diretorio_to_doc(diretorio):
     arquivos = [arquivo for arquivo in os.listdir(diretorio) if arquivo.endswith('.txt')]
     for nome_arquivo in arquivos:
         converte_arquivo(diretorio, nome_arquivo)    
@@ -17,4 +17,6 @@ def converte_arquivo(diretorio, nome_arquivo):
     document.SaveToFile(diretorio + nome_base + ".doc", FileFormat.Docx2016)
     document.Close()
 
-resume_diretorio("respostas/")
+#convert_diretorio_to_doc("respostas/")
+    
+    converte_arquivo("./", "ipea.txt")

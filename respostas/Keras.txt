@@ -1,0 +1,17 @@
+Item do edital: Keras  
+Keras é uma biblioteca de código aberto para redes neurais de alto nível, escrita em Python e capaz de rodar sobre o TensorFlow, CNTK ou Theano. Ela foi projetada para ser fácil de usar, modular e extensível, permitindo aos usuários construir rapidamente protótipos de modelos de redes neurais.
+
+Aqui estão alguns pontos-chave sobre o Keras:
+
+1. Simplicidade: Keras foi projetado para ser simples e intuitivo, permitindo que os usuários construam modelos de redes neurais de forma rápida e fácil.
+
+2. Modularidade: Keras permite a criação de modelos de redes neurais de forma modular, o que significa que os usuários podem facilmente adicionar, remover ou modificar camadas em seus modelos.
+
+3. Flexibilidade: Keras suporta a criação de uma ampla variedade de arquiteturas de redes neurais, incluindo redes neurais convolucionais, redes neurais recorrentes e redes neurais profundas.
+
+4. Integração com TensorFlow: Keras foi integrado ao TensorFlow como sua API de alto nível padrão a partir da versão 2.0, o que significa que os usuários podem aproveitar os recursos poderosos do TensorFlow enquanto usam a simplicidade e facilidade de uso do Keras.
+
+5. Comunidade ativa: Keras possui uma comunidade ativa de desenvolvedores e usuários que contribuem com tutoriais, exemplos e suporte, tornando mais fácil para os iniciantes aprender e usar a biblioteca.
+
+Em resumo, o Keras é uma excelente escolha para quem deseja construir e treinar modelos de redes neurais de forma rápida e eficiente, sem a necessidade de lidar com detalhes de baixo nível.
+ ===

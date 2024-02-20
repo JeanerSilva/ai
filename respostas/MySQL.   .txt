@@ -1,0 +1,26 @@
+Item do edital: MySQL.   
+ 
+MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto amplamente utilizado em todo o mundo. Ele é conhecido por sua confiabilidade, desempenho e facilidade de uso. Abaixo estão alguns pontos importantes sobre o MySQL:
+
+1. Modelo Relacional: O MySQL segue o modelo de banco de dados relacional, onde os dados são armazenados em tabelas que se relacionam umas com as outras por meio de chaves primárias e estrangeiras.
+
+2. Linguagem SQL: A linguagem padrão para interagir com o MySQL é o SQL (Structured Query Language). Com o SQL, é possível realizar operações como inserir, atualizar, excluir e recuperar dados de um banco de dados.
+
+3. Comandos SQL: Alguns comandos SQL comuns usados no MySQL incluem SELECT (para recuperar dados), INSERT (para adicionar novos registros), UPDATE (para modificar registros existentes) e DELETE (para remover registros).
+
+4. Chaves Primárias e Estrangeiras: No MySQL, as chaves primárias são usadas para identificar exclusivamente cada registro em uma tabela, enquanto as chaves estrangeiras são usadas para estabelecer relacionamentos entre tabelas.
+
+5. Índices: O MySQL suporta a criação de índices em colunas de tabelas para melhorar o desempenho das consultas. Os índices ajudam a acelerar a recuperação de dados, especialmente em tabelas grandes.
+
+6. Transações: O MySQL suporta transações, que permitem agrupar várias operações de banco de dados em uma única unidade lógica de trabalho. Isso garante a consistência e a integridade dos dados.
+
+7. Armazenamento de Dados: O MySQL oferece diferentes mecanismos de armazenamento, como InnoDB, MyISAM e MEMORY, cada um com suas próprias características e benefícios.
+
+8. Segurança: O MySQL fornece recursos de segurança robustos, como controle de acesso baseado em permissões, criptografia de dados e auditoria de logs para proteger os dados armazenados no banco de dados.
+
+9. Replicação e Clusterização: O MySQL suporta replicação, que permite criar cópias dos dados em vários servidores para fins de backup e escalabilidade. Além disso, é possível configurar clusters de servidores MySQL para distribuir a carga e melhorar a disponibilidade.
+
+10. Comunidade e Suporte: O MySQL é mantido pela Oracle Corporation e possui uma grande comunidade de usuários ativos que contribuem com suporte, documentação e plugins para estender suas funcionalidades.
+
+Esses são apenas alguns aspectos importantes do MySQL. Se você tiver dúvidas mais específicas ou precisar de mais informações sobre algum tópico em particular, fique à vontade para perguntar.
+ ===

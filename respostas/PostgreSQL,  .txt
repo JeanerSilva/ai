@@ -1,0 +1,20 @@
+Item do edital: PostgreSQL,  
+ 
+PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto, conhecido por sua confiabilidade, robustez e recursos avançados. Ele é amplamente utilizado em aplicações que exigem alta disponibilidade, segurança e desempenho.
+
+Aqui estão alguns pontos importantes sobre o PostgreSQL:
+
+1. Modelo Relacional: O PostgreSQL segue o modelo relacional, onde os dados são armazenados em tabelas com linhas e colunas. Ele suporta chaves primárias, chaves estrangeiras, integridade referencial e outras características típicas de um banco de dados relacional.
+
+2. SQL: O PostgreSQL utiliza a linguagem SQL (Structured Query Language) para consultar e manipular dados. Ele suporta a maioria dos comandos SQL padrão, além de oferecer extensões e recursos avançados, como funções, procedimentos armazenados, gatilhos e visões.
+
+3. Extensibilidade: Uma das principais vantagens do PostgreSQL é sua extensibilidade. Ele permite a criação de novos tipos de dados, funções e operadores personalizados, o que o torna altamente flexível e adaptável a diferentes necessidades.
+
+4. Recursos Avançados: O PostgreSQL oferece recursos avançados, como suporte a transações ACID (Atomicidade, Consistência, Isolamento e Durabilidade), replicação, particionamento de tabelas, indexação avançada, suporte a JSON, XML e outros formatos de dados, entre outros.
+
+5. Comunidade Ativa: O PostgreSQL é mantido por uma comunidade ativa de desenvolvedores e usuários em todo o mundo. Isso garante que o software seja constantemente atualizado, com correções de bugs, melhorias de desempenho e novos recursos sendo adicionados regularmente.
+
+6. Licença: O PostgreSQL é distribuído sob a licença PostgreSQL, que é uma licença de código aberto que permite o uso, modificação e distribuição do software de forma gratuita.
+
+Em resumo, o PostgreSQL é uma excelente escolha para aplicações que exigem um banco de dados relacional confiável, seguro e com recursos avançados. Sua flexibilidade, extensibilidade e comunidade ativa o tornam uma opção popular entre desenvolvedores e empresas de todos os tamanhos.
+ ===

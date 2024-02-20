@@ -1,0 +1,22 @@
+Item do edital: 3. Linguagem de programação Scala.  
+ 
+Scala é uma linguagem de programação multiparadigma que combina programação orientada a objetos e programação funcional. Ela foi criada por Martin Odersky e lançada em 2003. Scala é executada na máquina virtual Java (JVM) e é compatível com Java, o que significa que pode interagir facilmente com bibliotecas Java existentes.
+
+Aqui estão alguns pontos-chave sobre a linguagem de programação Scala:
+
+1. Programação Funcional: Scala suporta programação funcional, o que significa que funções são tratadas como cidadãos de primeira classe. Isso inclui funções de alta ordem, funções anônimas, imutabilidade de dados e recursão.
+
+2. Programação Orientada a Objetos: Scala é uma linguagem orientada a objetos, o que significa que tudo em Scala é um objeto. Ela suporta classes, objetos e traços (traits), que são semelhantes às interfaces em outras linguagens.
+
+3. Expressividade: Scala é conhecida por sua expressividade e concisão. Ela permite escrever código de forma mais clara e concisa do que em Java, reduzindo a quantidade de código necessária para realizar tarefas comuns.
+
+4. Tipagem Estática: Scala é uma linguagem fortemente tipada, o que significa que os tipos de dados são verificados em tempo de compilação. No entanto, Scala também suporta inferência de tipos, o que significa que você não precisa declarar explicitamente o tipo de uma variável em muitos casos.
+
+5. Coleções Imutáveis: Scala fornece uma rica biblioteca de coleções imutáveis, o que promove a programação funcional e evita efeitos colaterais.
+
+6. Concorrência: Scala possui suporte nativo para programação concorrente e assíncrona por meio de bibliotecas como Akka e Futures, o que facilita a escrita de código concorrente de forma segura.
+
+7. Interoperabilidade com Java: Como Scala é executada na JVM, é possível interagir facilmente com bibliotecas Java existentes. Isso torna Scala uma escolha popular para desenvolvedores que desejam aproveitar a robustez do ecossistema Java.
+
+Em resumo, Scala é uma linguagem de programação versátil que combina os melhores aspectos da programação funcional e orientada a objetos. Ela é adequada para uma ampla gama de aplicações, desde desenvolvimento de aplicativos web até processamento de dados em larga escala. Se você está interessado em aprender Scala, recomendo começar com tutoriais online, livros e projetos práticos para aprofundar seu conhecimento na linguagem.
+ ===

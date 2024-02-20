@@ -1,0 +1,20 @@
+Item do edital: Modelos de representação de texto: N-gramas,   
+ 
+Os N-gramas são modelos de representação de texto que capturam a estrutura e a sequência das palavras em um texto. Eles são amplamente utilizados em processamento de linguagem natural e em tarefas como classificação de texto, tradução automática, reconhecimento de fala, entre outros.
+
+Um N-grama é uma sequência contígua de N itens de um texto, onde um item pode ser um caractere, uma palavra ou até mesmo uma sequência de palavras. Os N-gramas são usados para capturar a relação entre as palavras em um texto, levando em consideração a ordem em que elas aparecem.
+
+Existem diferentes tipos de N-gramas, dependendo do valor de N:
+
+1. Unigrama (N=1): Consiste em uma única palavra. Por exemplo, no texto "O gato preto pulou", os unigramas seriam "O", "gato", "preto" e "pulou".
+
+2. Bigrama (N=2): Consiste em pares de palavras consecutivas. No mesmo exemplo, os bigramas seriam "O gato", "gato preto" e "preto pulou".
+
+3. Trigrama (N=3): Consiste em sequências de três palavras consecutivas. No exemplo, os trigramas seriam "O gato preto" e "gato preto pulou".
+
+E assim por diante, para N igual a 4, 5 e assim por diante.
+
+Os N-gramas são úteis porque capturam informações contextuais e podem ser usados para prever a próxima palavra em uma sequência de texto, identificar padrões e relações entre as palavras, e até mesmo para detectar erros ortográficos ou de digitação.
+
+No entanto, é importante notar que os N-gramas têm algumas limitações, como a necessidade de um grande volume de dados para capturar com precisão as relações entre as palavras e a perda de informações semânticas mais amplas. Mesmo assim, os N-gramas continuam sendo uma ferramenta poderosa e amplamente utilizada no processamento de linguagem natural.
+ ===

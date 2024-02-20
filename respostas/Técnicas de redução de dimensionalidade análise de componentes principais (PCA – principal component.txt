@@ -1,0 +1,20 @@
+Item do edital: Técnicas de redução de dimensionalidade: análise de componentes principais (PCA – principal component analysis).   
+ 
+A análise de componentes principais (PCA) é uma técnica de redução de dimensionalidade amplamente utilizada em estatística e aprendizado de máquina. Seu principal objetivo é transformar um conjunto de variáveis correlacionadas em um novo conjunto de variáveis não correlacionadas, chamadas de componentes principais, de forma a capturar a maior parte da variabilidade dos dados com o menor número possível de componentes.
+
+Aqui estão os passos principais envolvidos na análise de componentes principais (PCA):
+
+1. Padronização dos dados: Antes de aplicar o PCA, é importante padronizar os dados para que todas as variáveis tenham média zero e desvio padrão igual a um. Isso garante que todas as variáveis tenham a mesma escala e evita que variáveis com escalas maiores dominem a análise.
+
+2. Cálculo da matriz de covariância ou correlação: O próximo passo é calcular a matriz de covariância ou correlação dos dados padronizados. A matriz de covariância é usada quando as variáveis têm unidades diferentes, enquanto a matriz de correlação é usada quando as variáveis têm a mesma unidade.
+
+3. Decomposição da matriz: A seguir, a matriz de covariância ou correlação é decomposta em autovalores e autovetores. Os autovetores representam os eixos principais do espaço de variáveis originais, enquanto os autovalores indicam a quantidade de variância explicada por cada componente principal.
+
+4. Seleção de componentes principais: Os autovetores são ordenados de acordo com os autovalores correspondentes, e os primeiros autovetores (componentes principais) são selecionados com base na quantidade de variância que explicam. Geralmente, escolhe-se um número de componentes principais que capture uma porcentagem significativa da variabilidade dos dados, como 80% ou 90%.
+
+5. Transformação dos dados: Os dados originais são então projetados nos novos eixos definidos pelos componentes principais selecionados. Isso resulta em um novo conjunto de variáveis não correlacionadas, que são as componentes principais.
+
+6. Interpretação dos resultados: Uma vez que os dados foram transformados, é possível interpretar os padrões de variabilidade dos dados em termos dos componentes principais. Cada componente principal representa uma combinação linear das variáveis originais, e pode ser interpretado como um padrão subjacente nos dados.
+
+Em resumo, a análise de componentes principais é uma técnica poderosa para reduzir a dimensionalidade dos dados, preservando a maior parte da informação contida neles. Ela é amplamente utilizada em diversas áreas, como análise de dados, reconhecimento de padrões e visualização de dados.
+ ===

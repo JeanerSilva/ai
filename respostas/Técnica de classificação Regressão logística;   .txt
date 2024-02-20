@@ -1,0 +1,21 @@
+Item do edital: Técnica de classificação Regressão logística;   
+ 
+A regressão logística é uma técnica de classificação utilizada para prever a probabilidade de um evento ocorrer com base em um conjunto de variáveis independentes. Ela é comumente aplicada em problemas de classificação binária, onde o objetivo é prever se uma observação pertence a uma das duas classes possíveis.
+
+A regressão logística utiliza a função logística para modelar a relação entre as variáveis independentes e a variável dependente. A função logística é uma curva em forma de "S" que transforma valores contínuos em probabilidades entre 0 e 1. A equação da regressão logística é dada por:
+
+\[ P(Y=1|X) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X_1 + \beta_2X_2 + ... + \beta_nX_n)}} \]
+
+Onde:
+- \( P(Y=1|X) \) é a probabilidade de a variável dependente ser igual a 1 dado um conjunto de variáveis independentes \( X \).
+- \( \beta_0, \beta_1, \beta_2, ..., \beta_n \) são os coeficientes a serem estimados.
+- \( X_1, X_2, ..., X_n \) são as variáveis independentes.
+
+Para estimar os coeficientes da regressão logística, é comum utilizar o método da máxima verossimilhança. Este método busca encontrar os valores dos coeficientes que maximizam a probabilidade de observar os dados que temos.
+
+Após ajustar o modelo de regressão logística, podemos utilizar as probabilidades calculadas para fazer a classificação das observações. Geralmente, utiliza-se um limiar de probabilidade (0.5, por exemplo) para decidir a qual classe a observação pertence.
+
+É importante ressaltar que a regressão logística pressupõe que a relação entre as variáveis independentes e a variável dependente seja linear no logito das probabilidades. Além disso, é fundamental realizar a validação do modelo para verificar sua capacidade de generalização para novos dados.
+
+Em resumo, a regressão logística é uma técnica poderosa e amplamente utilizada para problemas de classificação binária, fornecendo probabilidades como saída e permitindo interpretação dos coeficientes estimados.
+ ===

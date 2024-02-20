@@ -1,0 +1,24 @@
+Item do edital: 7. Manipulação e tabulação de dados com numpy,  
+ 
+Manipulação e tabulação de dados com NumPy:
+
+NumPy é uma biblioteca em Python que fornece suporte para arrays multidimensionais e funções matemáticas de alto nível para operar nesses arrays. Com NumPy, é possível manipular e tabular dados de forma eficiente e poderosa. Abaixo estão algumas das principais funcionalidades do NumPy para manipulação e tabulação de dados:
+
+1. Criação de Arrays: NumPy permite criar arrays multidimensionais de forma rápida e eficiente. Por exemplo, você pode criar um array a partir de uma lista Python usando `np.array(lista)`.
+
+2. Indexação e Fatiamento: NumPy oferece várias maneiras de acessar e modificar elementos em arrays, incluindo indexação por posição, indexação booleana e fatiamento.
+
+3. Operações Matemáticas: NumPy fornece uma ampla gama de funções matemáticas que podem ser aplicadas a arrays inteiros de uma vez, sem a necessidade de loops explícitos. Por exemplo, você pode calcular a média de um array usando `np.mean(array)`.
+
+4. Operações de Álgebra Linear: NumPy possui funções para realizar operações de álgebra linear, como multiplicação de matrizes, decomposição de valores singulares e resolução de sistemas de equações lineares.
+
+5. Manipulação de Dados: NumPy oferece várias funções para manipular dados em arrays, como ordenação, filtragem, concatenação e transposição.
+
+6. Estatísticas Descritivas: NumPy possui funções para calcular estatísticas descritivas, como média, mediana, desvio padrão e correlação, em arrays de dados.
+
+7. Tabulação de Dados: Para tabular dados em NumPy, você pode usar funções como `np.vstack()` e `np.hstack()` para empilhar arrays verticalmente e horizontalmente, respectivamente. Isso é útil para combinar dados de diferentes fontes em uma única estrutura de dados.
+
+8. Agregação de Dados: NumPy permite realizar operações de agregação em arrays, como soma, média e contagem, ao longo de eixos específicos.
+
+Em resumo, NumPy é uma ferramenta poderosa para manipulação e tabulação de dados em Python, oferecendo uma ampla gama de funcionalidades para lidar com arrays multidimensionais de forma eficiente e eficaz. É amplamente utilizado em ciência de dados, aprendizado de máquina e outras áreas onde a manipulação de dados é essencial.
+ ===

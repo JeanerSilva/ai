@@ -1,0 +1,14 @@
+Item do edital: 7. Regra empírica (regra de três sigma) da distribuição normal.   
+ 
+A regra empírica, também conhecida como regra de três sigma, é uma regra geral que descreve a distribuição de dados em uma distribuição normal. A distribuição normal é uma distribuição estatística simétrica em forma de sino, onde a maioria dos dados está concentrada em torno da média e segue um padrão previsível.
+
+De acordo com a regra empírica, aproximadamente:
+
+- 68% dos dados estão dentro de um desvio padrão da média (ou seja, entre a média - desvio padrão e a média + desvio padrão).
+- 95% dos dados estão dentro de dois desvios padrão da média (entre a média - 2 desvios padrão e a média + 2 desvios padrão).
+- 99,7% dos dados estão dentro de três desvios padrão da média (entre a média - 3 desvios padrão e a média + 3 desvios padrão).
+
+Essa regra é útil para entender a dispersão dos dados em uma distribuição normal e para identificar valores atípicos. Por exemplo, se um conjunto de dados segue uma distribuição normal e um valor está além de três desvios padrão da média, ele pode ser considerado um valor atípico.
+
+É importante ressaltar que a regra empírica é uma aproximação e pode não se aplicar a todas as distribuições de dados. No entanto, ela é amplamente utilizada na prática estatística para interpretar e analisar conjuntos de dados que se aproximam de uma distribuição normal.
+ ===

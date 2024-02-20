@@ -1,0 +1,23 @@
+Item do edital: Distribuições de probabilidade discretas e contínuas: distribuição binomial,  
+ 
+A distribuição binomial é uma distribuição de probabilidade discreta que descreve o número de sucessos em uma sequência de tentativas independentes, onde cada tentativa tem apenas dois resultados possíveis: sucesso ou fracasso. Os parâmetros principais da distribuição binomial são o número de tentativas (n) e a probabilidade de sucesso em cada tentativa (p).
+
+A função de probabilidade da distribuição binomial é dada por:
+
+P(X = k) = C(n, k) * p^k * (1-p)^(n-k)
+
+Onde:
+- P(X = k) é a probabilidade de obter exatamente k sucessos em n tentativas.
+- C(n, k) é o coeficiente binomial, que representa o número de combinações de n elementos tomados k a k.
+- p é a probabilidade de sucesso em uma única tentativa.
+- (1-p) é a probabilidade de fracasso em uma única tentativa.
+
+Alguns conceitos importantes relacionados à distribuição binomial são:
+- A média da distribuição binomial é dada por μ = n * p.
+- A variância da distribuição binomial é dada por σ^2 = n * p * (1-p).
+- A distribuição binomial se aproxima da distribuição normal quando o número de tentativas é grande (n) e a probabilidade de sucesso é moderada (0.5 < p < 0.5).
+
+É importante ressaltar que a distribuição binomial é aplicável apenas a situações em que as tentativas são independentes, a probabilidade de sucesso é constante em cada tentativa e há apenas dois resultados possíveis.
+
+Se precisar de mais detalhes ou exemplos específicos, por favor, me avise.
+ ===

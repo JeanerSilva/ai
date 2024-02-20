@@ -1,0 +1,34 @@
+Item do edital: Manipulação e tabulação de dados com pandas,  
+ 
+Pandas é uma biblioteca de código aberto em Python que fornece estruturas de dados de alto desempenho e ferramentas de análise de dados. Ela é amplamente utilizada para manipulação e tabulação de dados de forma eficiente. Abaixo estão algumas das principais funcionalidades do Pandas para manipulação e tabulação de dados:
+
+1. Estruturas de Dados Principais:
+   - Series: É uma estrutura unidimensional que pode armazenar qualquer tipo de dados. É semelhante a um array ou lista.
+   - DataFrame: É uma estrutura de dados bidimensional semelhante a uma tabela de banco de dados ou uma planilha do Excel. Consiste em linhas e colunas, onde cada coluna pode conter um tipo de dado diferente.
+
+2. Leitura e Escrita de Dados:
+   - Pandas oferece suporte para ler e escrever dados em vários formatos, como CSV, Excel, SQL, JSON, HTML, entre outros. Isso permite importar dados de diferentes fontes e exportar os resultados da análise.
+
+3. Manipulação de Dados:
+   - Seleção de Dados: É possível selecionar linhas, colunas ou células específicas de um DataFrame com base em critérios específicos.
+   - Filtragem de Dados: Permite filtrar dados com base em condições específicas.
+   - Ordenação de Dados: Os dados podem ser ordenados com base em valores de uma ou mais colunas.
+   - Agregação de Dados: Pandas oferece funções para realizar operações de agregação, como soma, média, contagem, mínimo, máximo, entre outras.
+
+4. Limpeza de Dados:
+   - Pandas fornece métodos para lidar com valores ausentes (NaN), duplicatas, valores inconsistentes e outros problemas comuns em conjuntos de dados.
+
+5. Visualização de Dados:
+   - Embora não seja a principal função do Pandas, é possível visualizar dados diretamente a partir de um DataFrame usando métodos simples de plotagem.
+
+6. Operações de Grupo:
+   - Pandas permite agrupar dados com base em uma ou mais colunas e realizar operações em grupos específicos.
+
+7. Merging e Joining:
+   - É possível combinar dados de diferentes DataFrames com base em chaves comuns usando operações de merge e join.
+
+8. Iteração sobre Dados:
+   - Pandas oferece métodos eficientes para iterar sobre linhas e colunas de um DataFrame.
+
+Em resumo, o Pandas é uma ferramenta poderosa para manipulação e tabulação de dados em Python, sendo amplamente utilizada em análise de dados, ciência de dados e machine learning. É altamente recomendado para quem trabalha com dados e precisa de uma biblioteca eficiente e flexível para lidar com eles.
+ ===

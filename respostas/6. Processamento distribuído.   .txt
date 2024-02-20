@@ -1,0 +1,18 @@
+Item do edital: 6. Processamento distribuído.   
+ 
+O processamento distribuído é uma abordagem na qual um sistema de computação é composto por múltiplos componentes de hardware ou software que estão localizados em diferentes locais físicos e trabalham juntos para realizar uma tarefa ou resolver um problema. Em vez de ter um único computador centralizado executando todas as operações, o processamento distribuído distribui a carga de trabalho entre vários dispositivos, o que pode resultar em melhor desempenho, escalabilidade e confiabilidade.
+
+Existem várias razões pelas quais o processamento distribuído é utilizado, incluindo:
+
+1. Desempenho: Ao distribuir a carga de trabalho entre vários dispositivos, é possível realizar tarefas de forma mais rápida e eficiente do que em um único sistema centralizado.
+
+2. Escalabilidade: Adicionar mais dispositivos ao sistema distribuído permite aumentar a capacidade de processamento e armazenamento conforme necessário, sem depender de um único sistema que pode se tornar um gargalo.
+
+3. Confiabilidade: Em um sistema distribuído, se um componente falhar, outros podem continuar a funcionar, garantindo que o sistema como um todo permaneça operacional.
+
+4. Redundância: A distribuição de dados e tarefas entre vários dispositivos pode fornecer redundância, o que significa que se um dispositivo falhar, os dados e operações ainda podem ser acessados por outros dispositivos.
+
+Alguns exemplos de sistemas que utilizam processamento distribuído incluem redes de computadores, sistemas de computação em nuvem, sistemas de banco de dados distribuídos e sistemas de processamento de big data.
+
+Em resumo, o processamento distribuído é uma abordagem eficaz para lidar com grandes volumes de dados e tarefas complexas, permitindo melhor desempenho, escalabilidade e confiabilidade em comparação com sistemas centralizados.
+ ===

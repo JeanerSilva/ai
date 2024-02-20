@@ -1,0 +1,24 @@
+Item do edital: 7. Data cleansing.   
+ 
+Data cleansing, também conhecido como data cleaning, é o processo de identificar e corrigir erros, inconsistências e falhas nos dados para melhorar sua qualidade e confiabilidade. Esse processo é fundamental em qualquer análise de dados, pois dados sujos ou corrompidos podem levar a conclusões erradas e decisões equivocadas.
+
+Existem várias etapas envolvidas no processo de data cleansing, tais como:
+
+1. Identificação de erros: Isso envolve a identificação de erros de digitação, valores ausentes, duplicatas, inconsistências e outliers nos dados.
+
+2. Padronização: Consiste em padronizar os dados de acordo com um formato específico, como datas, números de telefone, endereços, etc.
+
+3. Correção de erros: Nesta etapa, os erros identificados são corrigidos manualmente ou por meio de algoritmos de limpeza de dados.
+
+4. Remoção de duplicatas: Dados duplicados podem distorcer as análises, por isso é importante identificar e remover duplicatas dos conjuntos de dados.
+
+5. Preenchimento de valores ausentes: Quando há valores ausentes nos dados, é necessário decidir se esses valores devem ser preenchidos com médias, medianas, valores nulos ou outros métodos.
+
+6. Validação de dados: Verificar se os dados estão dentro dos limites esperados e se fazem sentido em relação ao contexto em que estão sendo utilizados.
+
+7. Normalização: Consiste em transformar os dados em um formato padrão para facilitar a comparação e análise.
+
+8. Verificação de consistência: Garantir que os dados estejam consistentes em todas as fontes e que não haja contradições entre eles.
+
+Em resumo, o data cleansing é um processo essencial para garantir a qualidade dos dados e obter resultados precisos e confiáveis em análises de dados. É importante dedicar tempo e esforço para limpar e preparar os dados antes de realizar qualquer tipo de análise.
+ ===

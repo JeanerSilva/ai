@@ -1,0 +1,12 @@
+Item do edital: Modelos probabilísticos gráficos: filtros de Kalman;   
+ 
+Os filtros de Kalman são uma classe de algoritmos utilizados em sistemas de controle e processamento de sinais para estimar o estado de um sistema dinâmico a partir de uma série de medidas ruidosas. Eles são amplamente utilizados em aplicações como rastreamento de objetos, navegação inercial, processamento de sinais e previsão do tempo.
+
+Os filtros de Kalman são baseados em modelos probabilísticos gráficos, que são representações gráficas de distribuições de probabilidade condicional entre variáveis. No caso do filtro de Kalman, o modelo probabilístico gráfico descreve a relação entre o estado do sistema, as medidas observadas e o ruído associado a essas medidas.
+
+O filtro de Kalman consiste em duas etapas principais: a etapa de previsão e a etapa de atualização. Na etapa de previsão, o filtro utiliza o modelo dinâmico do sistema para estimar o estado futuro com base no estado atual e nas entradas do sistema. Na etapa de atualização, o filtro combina a estimativa prévia com a nova medida observada, ajustando a estimativa do estado do sistema levando em consideração a incerteza associada à medida e ao modelo.
+
+Uma das principais vantagens dos filtros de Kalman é a capacidade de lidar com ruído e incerteza de forma eficiente, fornecendo estimativas precisas do estado do sistema mesmo em condições adversas. No entanto, é importante ressaltar que os filtros de Kalman são mais adequados para sistemas lineares e gaussianos, e podem não ser ideais para sistemas não lineares ou com distribuições de probabilidade não gaussianas.
+
+Em resumo, os filtros de Kalman são modelos probabilísticos gráficos que permitem estimar o estado de sistemas dinâmicos a partir de medidas ruidosas, utilizando técnicas de previsão e atualização para fornecer estimativas precisas do estado do sistema. Eles são amplamente utilizados em uma variedade de aplicações de controle e processamento de sinais devido à sua eficácia na presença de ruído e incerteza.
+ ===

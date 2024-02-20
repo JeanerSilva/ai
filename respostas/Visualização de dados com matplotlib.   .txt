@@ -1,0 +1,47 @@
+Item do edital: Visualização de dados com matplotlib.   
+ 
+O Matplotlib é uma biblioteca em Python amplamente utilizada para visualização de dados. Ele oferece uma variedade de opções para criar gráficos de alta qualidade, como gráficos de linha, gráficos de barras, gráficos de dispersão, histogramas, entre outros. Abaixo, vou explicar alguns conceitos básicos e exemplos de como usar o Matplotlib para visualização de dados:
+
+1. Importando o Matplotlib:
+Para começar a usar o Matplotlib, você precisa importar a biblioteca. Normalmente, você importa o módulo `pyplot` do Matplotlib, que fornece uma interface semelhante ao MATLAB para criar gráficos.
+
+```python
+import matplotlib.pyplot as plt
+```
+
+2. Criando um gráfico simples:
+Vamos criar um gráfico de linha simples para visualizar uma série de dados. Aqui está um exemplo básico:
+
+```python
+# Dados
+x = [1, 2, 3, 4, 5]
+y = [2, 3, 5, 7, 11]
+
+# Criando o gráfico de linha
+plt.plot(x, y)
+plt.xlabel('Eixo X')
+plt.ylabel('Eixo Y')
+plt.title('Gráfico de Linha Simples')
+plt.show()
+```
+
+3. Personalizando o gráfico:
+Você pode personalizar o gráfico de várias maneiras, como alterar cores, estilos de linha, adicionar marcadores, legendas, entre outros. Aqui está um exemplo de um gráfico de dispersão personalizado:
+
+```python
+# Dados
+x = [1, 2, 3, 4, 5]
+y = [2, 3, 5, 7, 11]
+
+# Criando o gráfico de dispersão personalizado
+plt.scatter(x, y, color='red', marker='o', label='Pontos')
+plt.plot(x, y, color='blue', linestyle='--', label='Linha')
+plt.xlabel('Eixo X')
+plt.ylabel('Eixo Y')
+plt.title('Gráfico de Dispersão Personalizado')
+plt.legend()
+plt.show()
+```
+
+Esses são apenas exemplos simples de como usar o Matplotlib para visualização de dados. A biblioteca oferece muitas outras funcionalidades avançadas para criar gráficos complexos e personalizados. Recomendo explorar a documentação oficial do Matplotlib para aprender mais sobre suas capacidades e opções de personalização.
+ ===

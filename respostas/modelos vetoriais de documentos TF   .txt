@@ -1,0 +1,14 @@
+Item do edital: modelos vetoriais de documentos: TF   
+ 
+Os modelos vetoriais de documentos são uma abordagem comum para representar documentos de texto em um formato numérico que pode ser facilmente processado por algoritmos de aprendizado de máquina. Um dos componentes-chave desses modelos é o Term Frequency (TF), que mede a frequência com que um termo específico aparece em um documento.
+
+O TF é calculado da seguinte forma:
+
+TF(t, d) = (número de vezes que o termo t aparece no documento d) / (número total de termos no documento d)
+
+Essa fórmula simples fornece uma medida da importância de um termo específico em um documento. Quanto mais vezes um termo aparece em um documento em relação ao número total de termos no documento, maior será o seu TF.
+
+O TF é frequentemente combinado com o Inverse Document Frequency (IDF) para formar o TF-IDF, que é uma medida mais sofisticada da importância de um termo em um documento em relação a uma coleção de documentos. O TF-IDF leva em consideração não apenas a frequência do termo em um documento específico, mas também a raridade desse termo em toda a coleção de documentos.
+
+Em resumo, o TF é uma parte fundamental dos modelos vetoriais de documentos, pois ajuda a quantificar a importância dos termos em um documento específico, o que é essencial para tarefas como recuperação de informações, classificação de texto e análise de sentimentos.
+ ===

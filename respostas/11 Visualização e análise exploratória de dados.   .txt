@@ -1,0 +1,10 @@
+Item do edital: 11 Visualização e análise exploratória de dados.   
+ 
+A visualização e análise exploratória de dados são etapas fundamentais no processo de compreensão e interpretação de conjuntos de dados. Essas etapas são essenciais para identificar padrões, tendências, anomalias e insights que podem ser úteis na tomada de decisões e na formulação de hipóteses em diversas áreas, como ciência de dados, estatística, negócios, entre outras.
+
+A visualização de dados envolve a representação gráfica dos dados de forma a facilitar a compreensão e interpretação das informações contidas neles. Alguns tipos comuns de gráficos utilizados na visualização de dados incluem histogramas, gráficos de barras, gráficos de dispersão, boxplots, entre outros. Cada tipo de gráfico é mais adequado para representar diferentes tipos de dados e padrões.
+
+Já a análise exploratória de dados consiste em investigar e explorar os dados de forma a identificar padrões, tendências, outliers e relações entre variáveis. Essa etapa geralmente envolve a aplicação de técnicas estatísticas descritivas, como média, mediana, desvio padrão, correlação, entre outras. Além disso, a análise exploratória de dados pode incluir a identificação de distribuições, testes de hipóteses e a criação de modelos simples para entender o comportamento dos dados.
+
+É importante ressaltar que a visualização e análise exploratória de dados são processos iterativos e complementares, ou seja, muitas vezes é necessário voltar e refinar as análises à medida que novas informações são descobertas. Essas etapas são cruciais para garantir a qualidade e a confiabilidade das conclusões obtidas a partir dos dados.
+ ===

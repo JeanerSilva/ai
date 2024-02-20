@@ -1,0 +1,10 @@
+Item do edital: Testes de hipóteses: valor-p;   
+ 
+Testes de hipóteses são procedimentos estatísticos utilizados para tomar decisões sobre uma população com base em informações de uma amostra. O valor-p é uma medida estatística importante nesses testes, pois fornece a probabilidade de obter os resultados observados ou mais extremos, assumindo que a hipótese nula seja verdadeira.
+
+A hipótese nula (H0) é uma afirmação que assume que não há diferença ou efeito entre os grupos comparados, enquanto a hipótese alternativa (H1) afirma que há uma diferença significativa entre eles. O valor-p é comparado com um nível de significância pré-determinado (geralmente 0,05) para decidir se rejeitamos ou não a hipótese nula.
+
+Se o valor-p for menor que o nível de significância, rejeitamos a hipótese nula e concluímos que há evidências estatisticamente significativas para suportar a hipótese alternativa. Por outro lado, se o valor-p for maior que o nível de significância, não rejeitamos a hipótese nula e não há evidências suficientes para suportar a hipótese alternativa.
+
+É importante ressaltar que o valor-p não indica a força da associação ou a importância prática dos resultados, apenas a probabilidade de obter os resultados observados sob a hipótese nula. Portanto, é essencial interpretar os resultados dos testes de hipóteses considerando o contexto do estudo e a relevância dos achados para a área de pesquisa.
+ ===

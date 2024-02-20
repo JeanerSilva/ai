@@ -1,0 +1,12 @@
+Item do edital: 4. Banco de dados e formatos de arquivo orientado a colunas:  
+ 
+Um banco de dados orientado a colunas é um tipo de banco de dados que armazena os dados de forma que cada coluna de uma tabela é armazenada de forma contígua em disco, ao contrário de um banco de dados relacional tradicional, onde os dados são armazenados em linhas. Isso permite uma recuperação mais eficiente de dados quando apenas algumas colunas são necessárias em uma consulta.
+
+Os bancos de dados orientados a colunas são especialmente eficazes para consultas analíticas e agregações de dados, pois permitem uma leitura mais rápida e eficiente de grandes conjuntos de dados. Eles são comumente usados em ambientes de data warehousing e business intelligence.
+
+Quanto aos formatos de arquivo orientados a colunas, eles seguem um princípio semelhante ao dos bancos de dados orientados a colunas, armazenando os dados em colunas em vez de linhas. Isso pode ser útil para armazenar e processar grandes volumes de dados de forma eficiente, especialmente em cenários onde a leitura se concentra em um subconjunto das colunas disponíveis.
+
+Alguns exemplos de formatos de arquivo orientados a colunas incluem o Parquet e o ORC (Optimized Row Columnar). Esses formatos são comumente usados em sistemas de processamento de big data, como o Apache Hadoop e o Apache Spark, devido à sua eficiência na leitura e processamento de dados em colunas.
+
+Em resumo, tanto os bancos de dados orientados a colunas quanto os formatos de arquivo orientados a colunas são projetados para otimizar a leitura e o processamento de dados em colunas, tornando-os ideais para cenários onde consultas analíticas e agregações de dados são frequentes.
+ ===

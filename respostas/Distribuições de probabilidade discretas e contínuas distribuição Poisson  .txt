@@ -1,0 +1,23 @@
+Item do edital: Distribuições de probabilidade discretas e contínuas: distribuição Poisson  
+ 
+A distribuição de Poisson é uma distribuição de probabilidade discreta que descreve o número de eventos raros que ocorrem em um intervalo fixo de tempo ou espaço. Ela é frequentemente utilizada para modelar a ocorrência de eventos como chamadas telefônicas em um call center, acidentes de trânsito em uma rodovia, número de clientes que entram em uma loja, entre outros.
+
+A distribuição de Poisson é caracterizada por um único parâmetro, que é a taxa média de ocorrência dos eventos (λ). A função de probabilidade da distribuição de Poisson é dada por:
+
+P(X = k) = (e^(-λ) * λ^k) / k!
+
+Onde:
+- P(X = k) é a probabilidade de ocorrer exatamente k eventos em um determinado intervalo de tempo ou espaço.
+- e é a base do logaritmo natural (aproximadamente 2.71828).
+- λ é a taxa média de ocorrência dos eventos.
+- k é o número de eventos que queremos calcular a probabilidade.
+- k! é o fatorial de k.
+
+Além disso, a distribuição de Poisson possui as seguintes propriedades:
+1. A média e a variância da distribuição de Poisson são iguais a λ.
+2. Os eventos são independentes e a probabilidade de mais de um evento ocorrer no mesmo intervalo é zero.
+
+Para calcular probabilidades específicas utilizando a distribuição de Poisson, você pode utilizar fórmulas ou tabelas de distribuição de Poisson. Também é possível utilizar softwares estatísticos como o R, Python ou Excel para realizar esses cálculos de forma mais rápida e eficiente.
+
+Espero que essas informações tenham sido úteis para você entender melhor a distribuição de Poisson. Se tiver mais dúvidas, fique à vontade para perguntar.
+ ===

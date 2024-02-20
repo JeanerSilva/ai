@@ -1,0 +1,12 @@
+Item do edital: Máquinas de vetores de suporte para regressão;  
+ 
+As Máquinas de Vetores de Suporte (SVM) para regressão são uma extensão do algoritmo SVM tradicional, que é comumente utilizado para problemas de classificação. Enquanto o SVM para classificação busca encontrar a melhor linha ou hiperplano que separa as classes no espaço de características, o SVM para regressão procura encontrar a melhor linha ou hiperplano que melhor se ajusta aos dados de forma a minimizar o erro de regressão.
+
+A ideia por trás do SVM para regressão é encontrar a reta (ou hiperplano) que passa o mais próximo possível dos pontos de dados, chamada de função de regressão. Para isso, o algoritmo busca minimizar a soma dos erros de predição, ao mesmo tempo em que tenta manter os pontos de dados o mais distante possível da reta (ou hiperplano), garantindo uma margem de tolerância.
+
+A principal diferença entre o SVM para regressão e o SVM para classificação está na função de perda utilizada. Enquanto o SVM para classificação utiliza a função de perda hinge, o SVM para regressão utiliza a função de perda epsilon-insensitive, que permite que os pontos de dados estejam dentro de uma certa margem de erro sem penalização.
+
+Além disso, o SVM para regressão também envolve a otimização de um parâmetro de regularização, C, que controla o equilíbrio entre a minimização do erro de regressão e a maximização da margem de tolerância.
+
+Em resumo, as Máquinas de Vetores de Suporte para regressão são uma técnica poderosa para lidar com problemas de regressão, especialmente em casos onde os dados possuem uma estrutura complexa e não linear. Elas são capazes de lidar com alta dimensionalidade e são robustas em relação a outliers, tornando-as uma escolha popular em diversas aplicações de aprendizado de máquina.
+ ===

@@ -1,0 +1,20 @@
+Item do edital: 2. SQL Server;  
+ 
+O SQL Server é um sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft. Ele é amplamente utilizado em ambientes corporativos para armazenar, manipular e recuperar dados de forma eficiente e segura. Abaixo estão alguns pontos importantes sobre o SQL Server:
+
+1. Edições: O SQL Server está disponível em várias edições, desde a versão gratuita Express até as edições Enterprise e Datacenter, que oferecem recursos avançados e suporte para grandes volumes de dados e cargas de trabalho críticas.
+
+2. Recursos: O SQL Server oferece uma ampla gama de recursos, incluindo suporte para transações ACID, procedimentos armazenados, funções, gatilhos, visões, índices, replicação de dados, particionamento de tabelas, entre outros.
+
+3. Linguagem SQL: O SQL Server utiliza a linguagem SQL (Structured Query Language) para interagir com o banco de dados. Com o SQL, é possível realizar operações como inserção, atualização, exclusão e consulta de dados de forma eficiente.
+
+4. Segurança: O SQL Server oferece recursos avançados de segurança, como autenticação baseada em Windows, criptografia de dados, controle de acesso granular e auditoria de eventos para proteger os dados armazenados no banco de dados.
+
+5. Desempenho: O SQL Server possui otimizador de consultas que analisa consultas SQL e cria planos de execução eficientes para melhorar o desempenho das consultas. Além disso, oferece recursos de indexação, estatísticas e particionamento para otimizar o desempenho do banco de dados.
+
+6. Administração: O SQL Server Management Studio (SSMS) é a ferramenta principal para administrar e gerenciar instâncias do SQL Server. Com o SSMS, é possível criar bancos de dados, configurar segurança, monitorar o desempenho e realizar tarefas de manutenção.
+
+7. Integração: O SQL Server é altamente integrado com outras tecnologias da Microsoft, como o .NET Framework, o Visual Studio e o Azure, facilitando o desenvolvimento de aplicativos e a integração com outras plataformas.
+
+Em resumo, o SQL Server é uma poderosa plataforma de banco de dados relacional que oferece recursos avançados de segurança, desempenho e administração para atender às necessidades de armazenamento e manipulação de dados em ambientes corporativos.
+ ===

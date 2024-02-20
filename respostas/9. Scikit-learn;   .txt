@@ -1,0 +1,20 @@
+Item do edital: 9. Scikit-learn;   
+ 
+Scikit-learn é uma biblioteca de código aberto em Python que oferece uma ampla gama de algoritmos de aprendizado de máquina para tarefas de classificação, regressão, clustering, entre outras. Ela é uma das bibliotecas mais populares e amplamente utilizadas para aprendizado de máquina devido à sua facilidade de uso, eficiência e documentação abrangente.
+
+Alguns dos principais recursos e funcionalidades do Scikit-learn incluem:
+
+1. Implementação de diversos algoritmos de aprendizado de máquina, como Support Vector Machines (SVM), Random Forest, k-Nearest Neighbors (k-NN), Naive Bayes, entre outros.
+
+2. Ferramentas para pré-processamento de dados, como normalização, padronização, tratamento de valores ausentes e codificação de variáveis categóricas.
+
+3. Métodos para avaliação de modelos, como métricas de desempenho (precisão, recall, F1-score), validação cruzada e curvas de aprendizado.
+
+4. Funcionalidades para seleção de modelos, ajuste de hiperparâmetros e busca em grade.
+
+5. Integração com outras bibliotecas populares de Python, como NumPy, Pandas e Matplotlib.
+
+Para utilizar o Scikit-learn, é necessário ter conhecimento básico de Python e de conceitos de aprendizado de máquina. A documentação oficial do Scikit-learn é uma excelente fonte de informações e exemplos para quem deseja aprender a utilizar a biblioteca: https://scikit-learn.org/stable/documentation.html
+
+Em resumo, o Scikit-learn é uma ferramenta poderosa e versátil para desenvolver e implementar modelos de aprendizado de máquina em Python, sendo uma escolha popular entre cientistas de dados e desenvolvedores devido à sua facilidade de uso e eficácia.
+ ===

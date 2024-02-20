@@ -1,0 +1,10 @@
+Item do edital: Agrupamento por partição,   
+ 
+Agrupamento por partição é um método de agrupamento de dados em que um conjunto de elementos é dividido em subconjuntos disjuntos, chamados de partições, de forma que cada elemento pertença a exatamente um desses subconjuntos. Esse método é comumente utilizado em algoritmos de agrupamento, como o algoritmo k-means.
+
+No agrupamento por partição, o objetivo é encontrar a melhor maneira de dividir os dados em partições de forma que a similaridade entre os elementos dentro de cada partição seja maximizada, enquanto a dissimilaridade entre elementos de partições diferentes seja minimizada. Isso é feito iterativamente, ajustando os centróides de cada partição até que a convergência seja alcançada.
+
+O algoritmo k-means é um exemplo de algoritmo de agrupamento por partição, onde o número de partições (ou clusters) é pré-definido. Neste algoritmo, os centróides iniciais são escolhidos aleatoriamente e os elementos são atribuídos a partições com base na proximidade com os centróides. Em seguida, os centróides são recalculados com base nos elementos de cada partição e o processo é repetido até que a convergência seja alcançada.
+
+O agrupamento por partição é um método eficiente para lidar com grandes conjuntos de dados e é amplamente utilizado em diversas áreas, como mineração de dados, aprendizado de máquina e análise de dados. No entanto, é importante ressaltar que a escolha do número de partições e a inicialização dos centróides podem influenciar significativamente nos resultados obtidos, sendo necessário realizar uma análise cuidadosa para garantir a qualidade dos agrupamentos.
+ ===

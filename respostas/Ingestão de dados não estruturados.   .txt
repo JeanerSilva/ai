@@ -1,0 +1,18 @@
+Item do edital: Ingestão de dados não estruturados.   
+ 
+A ingestão de dados não estruturados refere-se ao processo de coleta, armazenamento e processamento de informações que não estão organizadas em um formato tabular ou de banco de dados tradicional. Dados não estruturados podem incluir texto, imagens, vídeos, áudio, redes sociais, e-mails, entre outros tipos de informações que não se encaixam facilmente em uma estrutura de dados convencional.
+
+Existem várias maneiras de realizar a ingestão de dados não estruturados, algumas das quais incluem:
+
+1. Web scraping: É a prática de extrair dados de sites da web de forma automatizada. Ferramentas de web scraping podem ser usadas para coletar informações de páginas da web e transformá-las em dados estruturados.
+
+2. Processamento de linguagem natural (NLP): Para lidar com dados não estruturados em formato de texto, como e-mails, documentos, posts em redes sociais, entre outros, técnicas de NLP podem ser aplicadas para extrair informações relevantes e transformá-las em dados estruturados.
+
+3. Processamento de imagem e vídeo: Para dados não estruturados em formato de imagem e vídeo, algoritmos de visão computacional e processamento de imagem podem ser utilizados para extrair características e informações relevantes.
+
+4. Análise de áudio: Para dados não estruturados em formato de áudio, como arquivos de música, podcasts, chamadas telefônicas, entre outros, técnicas de processamento de áudio podem ser empregadas para extrair insights e informações úteis.
+
+5. Integração de dados de redes sociais: Dados provenientes de plataformas de redes sociais, como Facebook, Twitter, Instagram, LinkedIn, entre outras, podem ser coletados e integrados a outras fontes de dados para análise e insights adicionais.
+
+Ao lidar com a ingestão de dados não estruturados, é importante considerar a qualidade dos dados, a segurança e privacidade das informações, bem como a escalabilidade e eficiência do processo de coleta e armazenamento. Além disso, a utilização de ferramentas e tecnologias adequadas, como sistemas de gerenciamento de dados, plataformas de análise de big data e algoritmos de machine learning, pode facilitar o processo de ingestão e análise desses tipos de dados.
+ ===

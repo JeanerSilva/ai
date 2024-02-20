@@ -1,0 +1,20 @@
+Item do edital: Avaliação de modelos de classificação: teste,   
+ 
+A avaliação de modelos de classificação é uma etapa fundamental no processo de construção e seleção de um modelo de machine learning. Ela nos permite entender o desempenho do modelo e sua capacidade de generalização para novos dados. Existem várias métricas e técnicas que podem ser utilizadas para avaliar modelos de classificação. Vou explicar algumas delas:
+
+1. Matriz de Confusão: A matriz de confusão é uma tabela que mostra a quantidade de verdadeiros positivos, verdadeiros negativos, falsos positivos e falsos negativos do modelo. A partir dela, podemos calcular outras métricas de avaliação.
+
+2. Precisão (Precision): A precisão é a proporção de verdadeiros positivos em relação ao total de predições positivas feitas pelo modelo. É calculada pela fórmula: Precisão = TP / (TP + FP), onde TP são os verdadeiros positivos e FP são os falsos positivos.
+
+3. Revocação (Recall): A revocação é a proporção de verdadeiros positivos em relação ao total de positivos reais na base de dados. É calculada pela fórmula: Revocação = TP / (TP + FN), onde FN são os falsos negativos.
+
+4. F1-Score: O F1-Score é a média harmônica entre precisão e revocação e é uma métrica que leva em consideração ambos os aspectos. É calculado pela fórmula: F1-Score = 2 * (Precisão * Revocação) / (Precisão + Revocação).
+
+5. Acurácia (Accuracy): A acurácia é a proporção de predições corretas feitas pelo modelo em relação ao total de predições. É calculada pela fórmula: Acurácia = (TP + TN) / (TP + TN + FP + FN), onde TN são os verdadeiros negativos.
+
+6. Curva ROC e Área sob a Curva (AUC-ROC): A curva ROC é um gráfico que mostra a taxa de verdadeiros positivos em função da taxa de falsos positivos para diferentes limiares de classificação. A AUC-ROC é a área sob essa curva e é uma métrica que indica a capacidade de discriminação do modelo.
+
+Além dessas métricas, é importante também considerar a validação cruzada, que consiste em dividir a base de dados em subconjuntos para treinamento e teste de forma a garantir uma avaliação mais robusta do modelo.
+
+Em resumo, a avaliação de modelos de classificação envolve a análise de várias métricas para entender o desempenho do modelo e selecionar o melhor para a aplicação desejada. É importante considerar as características específicas do problema e escolher as métricas mais adequadas para avaliar o modelo de forma precisa.
+ ===
