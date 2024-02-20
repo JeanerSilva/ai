@@ -1,0 +1,18 @@
+Item do edital: 4. Armazenamento de big data.   
+ 
+O armazenamento de big data refere-se à capacidade de armazenar e gerenciar grandes volumes de dados que são coletados, processados e analisados em um ambiente de big data. Existem várias tecnologias e abordagens para armazenar big data, cada uma com suas próprias características e finalidades. Abaixo estão algumas das principais tecnologias e métodos de armazenamento de big data:
+
+1. Sistemas de Arquivos Distribuídos: São sistemas de armazenamento distribuído que dividem os dados em vários nós de armazenamento para melhorar a escalabilidade e a redundância. Exemplos incluem Hadoop Distributed File System (HDFS) e Amazon S3.
+
+2. Bancos de Dados NoSQL: São bancos de dados não relacionais que são projetados para lidar com grandes volumes de dados não estruturados ou semiestruturados. Exemplos incluem MongoDB, Cassandra e HBase.
+
+3. Armazenamento em Nuvem: Muitas empresas optam por armazenar seus dados em provedores de serviços em nuvem, como Amazon Web Services (AWS), Microsoft Azure e Google Cloud Platform, devido à escalabilidade e flexibilidade oferecidas por essas plataformas.
+
+4. Data Lakes: São repositórios de dados que armazenam grandes volumes de dados brutos em sua forma original, permitindo análises avançadas e descoberta de insights. Exemplos incluem Apache Hadoop e Amazon S3.
+
+5. Armazenamento em Memória (In-Memory): Consiste em armazenar dados na memória RAM em vez de em discos rígidos, o que pode acelerar significativamente o processamento e a análise de grandes conjuntos de dados. Exemplos incluem Redis e Apache Ignite.
+
+6. Armazenamento de Dados em Grafos: É uma abordagem que armazena dados na forma de grafos, o que é útil para análises de redes complexas e relacionamentos entre os dados. Exemplos incluem Neo4j e Amazon Neptune.
+
+É importante considerar fatores como escalabilidade, desempenho, custo e requisitos de segurança ao escolher a tecnologia de armazenamento de big data mais adequada para um determinado projeto. Além disso, a arquitetura de armazenamento de big data deve ser projetada de forma a garantir a integridade, disponibilidade e confidencialidade dos dados.
+ ===

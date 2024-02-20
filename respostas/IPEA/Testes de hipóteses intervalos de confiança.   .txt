@@ -1,0 +1,18 @@
+Item do edital: Testes de hipóteses: intervalos de confiança.   
+ 
+Testes de hipóteses e intervalos de confiança são duas ferramentas estatísticas importantes para a tomada de decisões em pesquisas e estudos. Vou explicar cada um deles em detalhes:
+
+1. Testes de hipóteses:
+   - Um teste de hipóteses é um procedimento estatístico que nos permite tomar decisões sobre uma afirmação feita a respeito de uma população com base em uma amostra dos dados.
+   - O teste de hipóteses envolve a formulação de uma hipótese nula (H0) e uma hipótese alternativa (H1). A hipótese nula geralmente afirma que não há diferença ou efeito, enquanto a hipótese alternativa afirma o contrário.
+   - O teste de hipóteses calcula uma estatística de teste a partir dos dados da amostra e compara esse valor com um valor crítico ou um intervalo de confiança para determinar se rejeitamos ou não a hipótese nula.
+   - Os resultados de um teste de hipóteses são expressos em termos de um valor p, que indica a probabilidade de obter os resultados observados se a hipótese nula for verdadeira. Um valor p baixo sugere que devemos rejeitar a hipótese nula.
+
+2. Intervalos de confiança:
+   - Um intervalo de confiança é uma faixa de valores que, com uma certa probabilidade, contém o verdadeiro valor de um parâmetro populacional desconhecido.
+   - Os intervalos de confiança são construídos a partir dos dados da amostra e fornecem uma estimativa da incerteza associada à estimativa pontual do parâmetro.
+   - O nível de confiança de um intervalo de confiança indica a probabilidade de que o intervalo contenha o verdadeiro valor do parâmetro. Por exemplo, um intervalo de confiança de 95% significa que, se repetirmos o processo de amostragem muitas vezes, 95% dos intervalos construídos conterão o verdadeiro valor do parâmetro.
+   - Quanto maior o nível de confiança desejado, maior será a amplitude do intervalo de confiança, refletindo uma maior incerteza na estimativa do parâmetro.
+
+Em resumo, os testes de hipóteses são usados para fazer afirmações sobre populações com base em amostras, enquanto os intervalos de confiança fornecem uma estimativa da incerteza associada a uma estimativa pontual do parâmetro populacional. Ambas as ferramentas são essenciais para a análise estatística e a interpretação de resultados de pesquisas.
+ ===

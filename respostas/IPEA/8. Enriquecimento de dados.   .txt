@@ -1,0 +1,18 @@
+Item do edital: 8. Enriquecimento de dados.   
+ 
+O enriquecimento de dados é o processo de aprimorar, aperfeiçoar ou expandir conjuntos de dados existentes com informações adicionais de fontes externas. Esse processo tem como objetivo melhorar a qualidade, precisão e utilidade dos dados, tornando-os mais completos e informativos.
+
+Existem várias maneiras de enriquecer dados, incluindo:
+
+1. Adição de novas informações: Incluir dados adicionais que não estão presentes no conjunto de dados original, como dados demográficos, informações geográficas, dados de mercado, entre outros.
+
+2. Correção de dados: Identificar e corrigir erros, inconsistências ou duplicatas nos dados existentes, garantindo sua precisão e integridade.
+
+3. Padronização de dados: Normalizar os dados para garantir que estejam em um formato consistente e compatível, facilitando a análise e a comparação.
+
+4. Aprimoramento da segmentação: Dividir os dados em segmentos mais específicos e detalhados, permitindo uma análise mais precisa e personalizada.
+
+5. Atualização de dados: Manter os dados atualizados e relevantes, incorporando informações recentes e eliminando dados obsoletos.
+
+O enriquecimento de dados é amplamente utilizado em diversas áreas, como marketing, pesquisa de mercado, análise de negócios, ciência de dados e inteligência artificial. Ele ajuda as organizações a obterem insights mais profundos, tomar decisões mais informadas e melhorar o desempenho de suas operações.
+ ===

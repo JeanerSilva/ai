@@ -1,0 +1,16 @@
+Item do edital: 3. Variáveis aleatórias e funções de probabilidade.   
+ 
+Variáveis aleatórias são uma parte fundamental da teoria da probabilidade e da estatística. Elas são utilizadas para representar os resultados de um experimento aleatório de forma numérica. Existem dois tipos principais de variáveis aleatórias: discretas e contínuas.
+
+1. Variáveis Aleatórias Discretas: São aquelas que assumem um número finito ou infinito contável de valores. Por exemplo, o número de caras em três lançamentos de uma moeda é uma variável aleatória discreta, pois só pode assumir os valores 0, 1, 2 ou 3.
+
+2. Variáveis Aleatórias Contínuas: São aquelas que podem assumir qualquer valor dentro de um intervalo específico. Por exemplo, a altura de uma pessoa é uma variável aleatória contínua, pois pode assumir qualquer valor dentro de um intervalo contínuo.
+
+As funções de probabilidade são utilizadas para descrever a distribuição de probabilidade de uma variável aleatória. Existem duas formas principais de descrever a distribuição de probabilidade de uma variável aleatória:
+
+1. Função de Probabilidade (para variáveis aleatórias discretas): A função de probabilidade atribui uma probabilidade a cada valor possível da variável aleatória. Ela é representada por uma função que associa a cada valor da variável aleatória a sua probabilidade de ocorrência.
+
+2. Função de Densidade de Probabilidade (para variáveis aleatórias contínuas): A função de densidade de probabilidade descreve a distribuição de probabilidade de uma variável aleatória contínua. Ela é representada por uma função que descreve a probabilidade de a variável aleatória assumir valores em um intervalo específico.
+
+É importante entender e saber trabalhar com variáveis aleatórias e funções de probabilidade para realizar análises estatísticas e inferências a partir de dados observados. Esses conceitos são fundamentais em diversas áreas, como ciências, engenharia, economia, entre outras.
+ ===

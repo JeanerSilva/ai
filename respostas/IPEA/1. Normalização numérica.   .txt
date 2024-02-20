@@ -1,0 +1,24 @@
+Item do edital: 1. Normalização numérica.   
+ 
+A normalização numérica é um processo utilizado para padronizar os valores de um conjunto de dados numéricos, de forma que eles estejam em uma escala comum. Isso é importante em diversas áreas, como em machine learning, estatística e análise de dados, para garantir que os algoritmos funcionem de maneira eficaz e que os resultados sejam mais precisos.
+
+Existem diferentes técnicas de normalização numérica, sendo as mais comuns:
+
+1. Min-Max Scaling: Nessa técnica, os valores são transformados para um intervalo específico, geralmente entre 0 e 1. A fórmula para o cálculo é:
+   
+   \[ X_{norm} = \frac{X - X_{min}}{X_{max} - X_{min}} \]
+
+2. Z-score Standardization: Nessa técnica, os valores são transformados de forma que a média seja 0 e o desvio padrão seja 1. A fórmula para o cálculo é:
+   
+   \[ X_{norm} = \frac{X - \mu}{\sigma} \]
+
+3. Robust Scaling: Essa técnica é semelhante ao Min-Max Scaling, mas utiliza os quartis em vez do valor máximo e mínimo. É mais robusta a outliers. A fórmula é:
+   
+   \[ X_{norm} = \frac{X - Q1}{Q3 - Q1} \]
+
+4. Unit Vector Transformation: Nessa técnica, os valores são transformados para que o vetor tenha norma unitária. A fórmula é:
+   
+   \[ X_{norm} = \frac{X}{\|X\|} \]
+
+A escolha da técnica de normalização depende do tipo de dados e do objetivo da análise. É importante considerar a distribuição dos dados, a presença de outliers e o impacto que a normalização terá nos resultados finais. Em geral, a normalização numérica ajuda a melhorar a eficiência dos algoritmos e a interpretabilidade dos resultados.
+ ===

@@ -1,0 +1,10 @@
+Item do edital: 2. Discretização.   
+ 
+Discretização é um processo utilizado em diversas áreas da matemática e da ciência para transformar um problema contínuo em um problema discreto. Em outras palavras, consiste em dividir um intervalo contínuo em um conjunto finito de pontos ou células, de modo a simplificar a resolução de equações ou problemas que seriam complexos de serem tratados de forma contínua.
+
+Na prática, a discretização é frequentemente utilizada em métodos numéricos para resolver equações diferenciais, integrais ou outros problemas matemáticos. Por exemplo, ao discretizar uma equação diferencial, transformamos a função contínua em uma série de valores discretos em pontos específicos do domínio, o que nos permite resolver a equação de forma aproximada.
+
+Existem diferentes técnicas de discretização, como a discretização de tempo, de espaço ou de ambos. Cada técnica é escolhida de acordo com o problema em questão e com o método numérico que será utilizado para resolvê-lo.
+
+Em resumo, a discretização é um processo fundamental em diversas áreas da matemática e da ciência, pois nos permite transformar problemas contínuos em problemas discretos mais simples de serem resolvidos numericamente.
+ ===

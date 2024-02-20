@@ -1,0 +1,12 @@
+Item do edital: 6 Teorema do limite central.   
+ 
+O Teorema do Limite Central é um dos princípios fundamentais da estatística e descreve o comportamento da distribuição de médias amostrais de uma população, independentemente da forma da distribuição original. Em termos simples, o teorema afirma que, à medida que o tamanho da amostra aumenta, a distribuição das médias amostrais se aproxima de uma distribuição normal, independentemente da distribuição da população original.
+
+Existem várias formas do Teorema do Limite Central, mas o mais comum é o Teorema do Limite Central Clássico, que estabelece que, para uma amostra aleatória de tamanho n de uma população com média μ e desvio padrão σ, a distribuição das médias amostrais se aproxima de uma distribuição normal com média μ e desvio padrão σ/√n, à medida que n aumenta.
+
+Em termos matemáticos, o Teorema do Limite Central Clássico pode ser expresso da seguinte forma:
+
+Seja X uma variável aleatória com média μ e desvio padrão σ. Se tomarmos uma amostra aleatória de tamanho n de X e calcularmos a média dessa amostra, então, à medida que n aumenta, a distribuição das médias amostrais se aproxima de uma distribuição normal com média μ e desvio padrão σ/√n.
+
+Este teorema é amplamente utilizado em inferência estatística, pois permite fazer inferências sobre a média de uma população com base em uma amostra, mesmo que a distribuição da população não seja normal. Além disso, o Teorema do Limite Central é essencial para a construção de intervalos de confiança e para a realização de testes de hipóteses.
+ ===

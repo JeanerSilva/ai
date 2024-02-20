@@ -1,0 +1,32 @@
+Item do edital: 6. Classes de objetos e suas propriedades (vetores, listas, data frames).   
+ 
+As classes de objetos em R são importantes para determinar como os dados são armazenados e manipulados. Vamos falar sobre três classes de objetos comuns em R: vetores, listas e data frames.
+
+1. Vetores:
+   - Um vetor é uma estrutura de dados unidimensional que pode conter elementos de um único tipo de dados (numéricos, caracteres, lógicos, etc.).
+   - Existem diferentes tipos de vetores em R, como vetores numéricos, de caracteres, lógicos, fatores, entre outros.
+   - Para criar um vetor em R, você pode usar a função `c()` ou `vector()`.
+   - Exemplo de criação de um vetor numérico: `meu_vetor <- c(1, 2, 3, 4, 5)`.
+   
+2. Listas:
+   - Uma lista é uma estrutura de dados que pode conter elementos de diferentes tipos de dados e tamanhos.
+   - Cada elemento de uma lista é identificado por um índice.
+   - Para criar uma lista em R, você pode usar a função `list()`.
+   - Exemplo de criação de uma lista: `minha_lista <- list(nome = "João", idade = 30, altura = 1.75)`.
+   
+3. Data Frames:
+   - Um data frame é uma estrutura de dados bidimensional que é semelhante a uma tabela de banco de dados ou uma planilha do Excel.
+   - Os data frames são usados para armazenar conjuntos de dados com diferentes variáveis (colunas) e observações (linhas).
+   - Cada coluna de um data frame pode conter dados de um tipo diferente.
+   - Para criar um data frame em R, você pode usar a função `data.frame()`.
+   - Exemplo de criação de um data frame:
+     ```
+     dados <- data.frame(
+       nome = c("João", "Maria", "Pedro"),
+       idade = c(30, 25, 35),
+       altura = c(1.75, 1.60, 1.80)
+     )
+     ```
+
+Em resumo, vetores são estruturas unidimensionais que armazenam elementos do mesmo tipo, listas são estruturas que podem armazenar elementos de diferentes tipos e tamanhos, e data frames são estruturas bidimensionais usadas para armazenar conjuntos de dados tabulares. Cada uma dessas classes de objetos tem suas próprias propriedades e métodos de manipulação em R.
+ ===

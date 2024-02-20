@@ -1,0 +1,10 @@
+Item do edital: 8. Diagramas causais: grafos acíclicos dirigidos;  
+ 
+Os diagramas causais, também conhecidos como grafos acíclicos dirigidos (DAGs), são uma representação visual de relações causais entre variáveis em um sistema. Eles são compostos por nós (ou vértices) que representam as variáveis e por setas direcionadas que indicam a direção da relação causal entre essas variáveis.
+
+A característica fundamental dos DAGs é que eles não possuem ciclos, ou seja, não é possível seguir uma sequência de setas e retornar ao nó inicial. Isso reflete a ideia de que não há retrocausalidade, ou seja, uma variável não pode causar a si mesma diretamente ou indiretamente.
+
+Os DAGs são amplamente utilizados em diversas áreas, como ciência de dados, econometria, biologia, entre outras, para modelar e visualizar relações de causalidade entre variáveis. Eles são especialmente úteis para identificar relações diretas e indiretas entre variáveis, bem como para ajudar a compreender como mudanças em uma variável podem afetar outras variáveis no sistema.
+
+Em resumo, os diagramas causais ou grafos acíclicos dirigidos são uma ferramenta poderosa para representar e analisar relações causais em sistemas complexos, ajudando a compreender melhor a dinâmica e o funcionamento desses sistemas.
+ ===

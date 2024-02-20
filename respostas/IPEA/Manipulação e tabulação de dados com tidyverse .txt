@@ -1,0 +1,31 @@
+Item do edital: Manipulação e tabulação de dados com tidyverse 
+ 
+O tidyverse é um conjunto de pacotes em R que facilita a manipulação, visualização e modelagem de dados. Ele inclui pacotes como dplyr, tidyr, ggplot2, entre outros, que são muito úteis para trabalhar com dados de forma eficiente e organizada.
+
+Para manipulação e tabulação de dados com tidyverse, você pode seguir os seguintes passos:
+
+1. Instalação e carregamento do tidyverse:
+   - Se você ainda não tiver instalado o tidyverse, você pode fazer isso usando o comando `install.packages("tidyverse")`.
+   - Para carregar o tidyverse e todos os pacotes incluídos nele, você pode usar o comando `library(tidyverse)`.
+
+2. Leitura e preparação dos dados:
+   - Você pode ler seus dados de um arquivo CSV, Excel ou de qualquer outra fonte usando funções como `read_csv()` do pacote readr.
+   - Antes de começar a manipular os dados, é importante verificar se eles estão no formato adequado e se há valores ausentes que precisam ser tratados.
+
+3. Manipulação de dados com dplyr:
+   - O pacote dplyr oferece funções poderosas para manipulação de dados, como `filter()`, `select()`, `mutate()`, `group_by()` e `summarize()`.
+   - Com essas funções, você pode filtrar linhas, selecionar colunas, criar novas variáveis, agrupar dados e resumir informações de acordo com suas necessidades.
+
+4. Tabulação de dados com tidyr:
+   - O pacote tidyr é útil para transformar a estrutura dos dados, especialmente para lidar com dados em formato "wide" para "long" e vice-versa.
+   - Funções como `gather()` e `spread()` são comumente usadas para tabular os dados de forma mais organizada e fácil de analisar.
+
+5. Visualização de dados com ggplot2:
+   - Depois de manipular e tabular os dados, você pode usar o pacote ggplot2 para criar visualizações gráficas.
+   - Com ggplot2, você pode criar gráficos de dispersão, barras, linhas, boxplots, entre outros, de forma simples e personalizada.
+
+6. Exportação dos resultados:
+   - Após realizar as manipulações e tabulações desejadas, você pode exportar os resultados para um novo arquivo CSV, Excel ou qualquer outro formato que seja conveniente para sua análise ou compartilhamento.
+
+Esses são os passos básicos para manipulação e tabulação de dados com tidyverse. Lembre-se de explorar a documentação de cada pacote para conhecer todas as funções disponíveis e suas respectivas aplicações.
+ ===

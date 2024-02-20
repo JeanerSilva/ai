@@ -1,0 +1,10 @@
+Item do edital: Processamento de linguagem natural: stop words,  
+ 
+Stop words são palavras comuns que geralmente são removidas durante o processamento de linguagem natural, pois não contribuem significativamente para o significado de uma frase ou documento. Essas palavras são muito frequentes em um idioma específico e incluem artigos, preposições, conjunções e outras palavras de ligação.
+
+A remoção de stop words é importante em tarefas de processamento de linguagem natural, como análise de sentimentos, classificação de texto e recuperação de informações, pois ajuda a reduzir o ruído nos dados e a melhorar a eficiência dos algoritmos.
+
+Exemplos de stop words em inglês incluem: "the", "and", "is", "in", "on", "at", "for", "to", entre outros. Em português, algumas stop words comuns são: "o", "a", "e", "de", "para", "com", "em", "por", "que", entre outras.
+
+É importante ressaltar que a lista de stop words pode variar de acordo com a aplicação e o contexto específico. Em alguns casos, pode ser útil manter certas stop words, dependendo do objetivo da análise de texto.
+ ===

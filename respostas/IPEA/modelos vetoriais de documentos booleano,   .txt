@@ -1,0 +1,20 @@
+Item do edital: modelos vetoriais de documentos: booleano,   
+ 
+Os modelos vetoriais de documentos são uma abordagem comum para representar e recuperar informações textuais em sistemas de recuperação de informações. No modelo vetorial, cada documento é representado como um vetor em um espaço vetorial, onde cada dimensão do vetor corresponde a uma palavra ou termo do vocabulário do corpus.
+
+O modelo vetorial de documentos booleano é uma variação simples desse modelo, onde cada dimensão do vetor representa a presença ou ausência de um termo no documento. Em outras palavras, se um termo está presente no documento, o valor da dimensão correspondente é 1; caso contrário, é 0.
+
+Por exemplo, considere um corpus com os termos {"gato", "cachorro", "peixe"} e dois documentos:
+
+- Documento 1: "Eu tenho um gato e um cachorro."
+- Documento 2: "Eu gosto de peixe."
+
+A representação vetorial booleana desses documentos seria:
+
+- Documento 1: [1, 1, 0] (pois "gato" e "cachorro" estão presentes)
+- Documento 2: [0, 0, 1] (pois "peixe" está presente)
+
+No modelo booleano, a consulta do usuário também é representada como um vetor booleano, onde cada dimensão indica se o termo correspondente está presente na consulta. A similaridade entre um documento e a consulta é calculada com base na sobreposição de termos presentes nos dois vetores.
+
+Embora o modelo booleano seja simples e fácil de implementar, ele tem algumas limitações, como a falta de consideração para a frequência dos termos nos documentos e consultas, o que pode levar a resultados imprecisos em certos casos. Modelos mais avançados, como o modelo vetorial de documentos ponderado, foram desenvolvidos para lidar com essas limitações e melhorar a precisão da recuperação de informações.
+ ===

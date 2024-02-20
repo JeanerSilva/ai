@@ -1,0 +1,8 @@
+Item do edital: 9. Desidentificação de dados sensíveis.   
+ 
+A desidentificação de dados sensíveis é um processo pelo qual informações pessoais são removidas ou modificadas de modo a tornar os dados não identificáveis, ou seja, impossibilitar a identificação de um indivíduo específico a partir desses dados. Isso é feito para proteger a privacidade e a segurança das informações, especialmente em contextos onde a divulgação desses dados pode representar um risco para a pessoa.
+
+Existem diferentes técnicas de desidentificação de dados sensíveis, como a anonimização, pseudonimização e generalização. A anonimização envolve a remoção de todas as informações que possam identificar diretamente uma pessoa, como nome, endereço, número de identificação, entre outros. Já a pseudonimização substitui esses dados identificáveis por códigos ou pseudônimos, de forma que a identificação direta seja mais difícil. Por fim, a generalização consiste em agrupar os dados em categorias mais amplas, de modo a dificultar a identificação de indivíduos.
+
+É importante ressaltar que a desidentificação de dados sensíveis não garante total anonimato, pois em alguns casos é possível reidentificar os dados, especialmente quando combinados com outras informações disponíveis. Por isso, é fundamental adotar medidas adicionais de segurança e privacidade, como o uso de criptografia, controle de acesso e políticas de proteção de dados, para garantir a confidencialidade e integridade das informações.
+ ===

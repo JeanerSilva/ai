@@ -1,0 +1,19 @@
+Item do edital: Testes de hipóteses: testes de comparação de duas amostras;   
+ 
+Os testes de hipóteses de comparação de duas amostras são utilizados para determinar se há diferença significativa entre as médias de duas populações ou grupos. Existem diferentes tipos de testes de comparação de duas amostras, sendo os mais comuns o teste t de Student e o teste de Wilcoxon-Mann-Whitney. Vamos abordar cada um deles:
+
+1. Teste t de Student:
+   - É utilizado quando as duas amostras são independentes e seguem uma distribuição normal.
+   - A hipótese nula (H0) é que não há diferença significativa entre as médias das duas populações.
+   - A hipótese alternativa (H1) é que há diferença significativa entre as médias das duas populações.
+   - O teste t calcula a estatística t, que é comparada com um valor crítico para determinar se a diferença entre as médias é estatisticamente significativa.
+
+2. Teste de Wilcoxon-Mann-Whitney:
+   - Também conhecido como teste U de Mann-Whitney, é utilizado quando as duas amostras são independentes, mas não seguem uma distribuição normal.
+   - Este teste é não paramétrico, ou seja, não faz suposições sobre a distribuição dos dados.
+   - A hipótese nula (H0) é que não há diferença significativa entre as medianas das duas populações.
+   - A hipótese alternativa (H1) é que há diferença significativa entre as medianas das duas populações.
+   - O teste de Wilcoxon-Mann-Whitney calcula a estatística U, que é comparada com um valor crítico para determinar se a diferença entre as medianas é estatisticamente significativa.
+
+É importante ressaltar que a escolha entre o teste t de Student e o teste de Wilcoxon-Mann-Whitney depende das características dos dados e das suposições que podem ser feitas sobre a distribuição dos mesmos. Além disso, é fundamental definir claramente as hipóteses nula e alternativa antes de realizar o teste e interpretar corretamente os resultados obtidos.
+ ===

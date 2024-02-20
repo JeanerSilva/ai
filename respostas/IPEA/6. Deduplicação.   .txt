@@ -1,0 +1,14 @@
+Item do edital: 6. Deduplicação.   
+ 
+A deduplicação é um processo utilizado para identificar e remover duplicatas de dados em um sistema de armazenamento. Esse procedimento é importante para otimizar o uso de espaço em disco, melhorar a eficiência na recuperação de dados e reduzir custos de armazenamento.
+
+Existem diferentes métodos de deduplicação, sendo os principais:
+
+1. Deduplicação baseada em conteúdo: Neste método, os dados são divididos em blocos e é calculado um hash (resumo criptográfico) para cada bloco. Os blocos com o mesmo hash são considerados duplicatas e apenas uma cópia é mantida, enquanto as demais são removidas.
+
+2. Deduplicação baseada em referência: Neste método, um índice é criado para rastrear os blocos de dados únicos. Quando um novo arquivo é adicionado, o sistema verifica se os blocos desse arquivo já existem no índice. Se existirem, o arquivo é referenciado para os blocos existentes, em vez de criar novas cópias.
+
+3. Deduplicação em nível de arquivo: Neste método, a deduplicação é feita considerando arquivos inteiros. Se um arquivo duplicado é identificado, apenas uma cópia é mantida e as demais são removidas.
+
+A deduplicação pode ser implementada em diferentes níveis, como em sistemas de armazenamento de dados, backup, arquivamento, entre outros. É importante ressaltar que a deduplicação pode impactar o desempenho do sistema, especialmente durante o processo de identificação e remoção de duplicatas, por isso é importante avaliar os benefícios e custos envolvidos antes de implementar essa técnica.
+ ===

@@ -1,0 +1,22 @@
+Item do edital: 7. Processamento de linguagem natural: Normalização textual  
+ 
+A normalização textual é uma etapa importante no processamento de linguagem natural (PLN) que consiste em preparar e padronizar o texto de entrada para facilitar a análise e extração de informações. Essa etapa envolve várias técnicas e tarefas, tais como:
+
+1. Tokenização: Consiste em dividir o texto em unidades menores, chamadas de tokens, como palavras, frases ou caracteres. Isso facilita a análise subsequente do texto.
+
+2. Remoção de pontuação: Consiste em eliminar sinais de pontuação, como vírgulas, pontos e exclamações, que não são relevantes para muitas tarefas de PLN.
+
+3. Conversão para minúsculas: Padronizar todas as letras do texto em minúsculas para evitar discrepâncias entre palavras escritas de forma diferente.
+
+4. Remoção de stop words: Stop words são palavras comuns que geralmente não contribuem significativamente para o significado do texto, como "o", "a", "de", entre outras. Removê-las pode melhorar a eficiência e a precisão das análises.
+
+5. Stemming e lematização: São técnicas para reduzir as palavras à sua forma raiz, o que ajuda a agrupar palavras com significados semelhantes. O stemming corta as palavras de forma mais simples, enquanto a lematização considera o contexto gramatical para reduzir as palavras.
+
+6. Correção ortográfica: Pode ser realizada para corrigir erros de digitação e melhorar a qualidade do texto.
+
+7. Normalização de números e datas: Consiste em padronizar a representação de números e datas para facilitar a comparação e análise.
+
+8. Remoção de caracteres especiais: Eliminar caracteres especiais, emojis ou símbolos que não são relevantes para a análise.
+
+Essas são algumas das técnicas comuns de normalização textual utilizadas no processamento de linguagem natural para preparar o texto de entrada de forma adequada antes de realizar tarefas como classificação de texto, análise de sentimento, extração de informações, entre outras.
+ ===

@@ -1,0 +1,10 @@
+Item do edital: 9. Métodos e técnicas de identificação causal: Métodos experimentais RCT  
+ 
+Os métodos experimentais Randomized Controlled Trials (RCTs) são considerados o padrão ouro para identificar relações causais entre variáveis em pesquisas científicas. Nesse tipo de estudo, os participantes são aleatoriamente designados para um grupo experimental que recebe o tratamento em estudo ou para um grupo de controle que não recebe o tratamento, permitindo assim a comparação dos resultados entre os dois grupos.
+
+A aleatorização dos participantes é fundamental para garantir que os grupos experimental e de controle sejam comparáveis em relação a todas as variáveis possíveis, exceto a variável de interesse (o tratamento). Isso ajuda a minimizar o viés de seleção e aumenta a validade interna do estudo.
+
+Além da aleatorização, os RCTs também são caracterizados pelo controle rigoroso das condições experimentais, pela cegagem dos participantes e dos pesquisadores (quando possível) e pela análise estatística apropriada para avaliar a diferença entre os grupos.
+
+Os RCTs são amplamente utilizados em diversas áreas, como medicina, psicologia, economia e educação, para avaliar a eficácia de intervenções, tratamentos ou políticas. Eles fornecem evidências robustas sobre a relação causal entre uma intervenção e seus efeitos, permitindo que os pesquisadores façam inferências mais confiáveis sobre os resultados de seus estudos.
+ ===

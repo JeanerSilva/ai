@@ -1,0 +1,20 @@
+Item do edital: Métricas de similaridade textual - similaridade do cosseno,   
+ 
+A similaridade do cosseno é uma métrica comumente utilizada para medir a similaridade entre dois vetores de texto. Essa métrica é amplamente aplicada em processamento de linguagem natural, recuperação de informações e outras áreas onde a comparação de textos é necessária.
+
+Para calcular a similaridade do cosseno entre dois vetores de texto, primeiro é preciso representar os textos como vetores numéricos. Isso pode ser feito utilizando técnicas como a representação TF-IDF (Term Frequency-Inverse Document Frequency) ou word embeddings, como o Word2Vec ou o GloVe.
+
+Uma vez que os textos foram convertidos em vetores, o cálculo da similaridade do cosseno é feito da seguinte maneira:
+
+1. Calcule o produto escalar entre os dois vetores de texto.
+2. Calcule a norma (magnitude) de cada vetor.
+3. Divida o produto escalar pelo produto das normas dos vetores.
+
+A fórmula para calcular a similaridade do cosseno entre dois vetores A e B é a seguinte:
+
+Similaridade(A, B) = (A . B) / (||A|| * ||B||)
+
+O resultado da similaridade do cosseno varia de -1 a 1, onde 1 indica que os vetores são idênticos, 0 indica que os vetores são ortogonais (não relacionados) e -1 indica que os vetores são opostos.
+
+Em resumo, a similaridade do cosseno é uma métrica eficaz para medir a similaridade entre textos, levando em consideração a direção e a magnitude dos vetores de texto. Ela é amplamente utilizada em tarefas de processamento de linguagem natural, como classificação de texto, clustering e recuperação de informações.
+ ===

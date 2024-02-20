@@ -1,0 +1,18 @@
+Item do edital: 12. Testes de hipóteses: teste-z;   
+ 
+Os testes de hipóteses são procedimentos estatísticos utilizados para tomar decisões sobre uma população com base em uma amostra dos dados. O teste-z é um tipo de teste de hipóteses que é utilizado quando a distribuição da população é conhecida e a variância populacional é conhecida ou estimada.
+
+O teste-z é frequentemente utilizado quando se deseja testar uma hipótese sobre a média de uma população. O procedimento geral para realizar um teste-z envolve os seguintes passos:
+
+1. Formulação das hipóteses:
+   - Hipótese nula (H0): É a hipótese que queremos testar, geralmente afirmando que não há diferença significativa entre a amostra e a população.
+   - Hipótese alternativa (Ha): É a hipótese que contradiz a hipótese nula, afirmando que há diferença significativa entre a amostra e a população.
+
+2. Escolha do nível de significância (α): É a probabilidade de cometer um erro do tipo I, ou seja, rejeitar a hipótese nula quando ela é verdadeira. O valor comum para α é 0,05.
+
+3. Cálculo da estatística de teste: No caso do teste-z, a estatística de teste é calculada como a diferença entre a média da amostra e a média da população dividida pelo desvio padrão da população, ajustada pela raiz quadrada do tamanho da amostra.
+
+4. Tomada de decisão: Com base no valor da estatística de teste e do nível de significância escolhido, é possível determinar se rejeitamos ou não a hipótese nula. Isso é feito comparando o valor crítico (obtido a partir da distribuição normal padrão) com o valor da estatística de teste.
+
+Em resumo, o teste-z é uma ferramenta estatística importante para testar hipóteses sobre médias populacionais quando a distribuição da população é conhecida e a variância populacional é conhecida ou estimada. É fundamental compreender os passos envolvidos no teste-z para realizar análises estatísticas de forma adequada e tomar decisões baseadas em evidências.
+ ===

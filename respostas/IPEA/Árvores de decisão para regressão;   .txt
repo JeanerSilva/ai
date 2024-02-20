@@ -1,0 +1,16 @@
+Item do edital: Árvores de decisão para regressão;   
+ 
+As árvores de decisão para regressão são uma técnica de modelagem preditiva que é utilizada para prever valores numéricos com base em variáveis de entrada. Ao contrário das árvores de decisão para classificação, que são usadas para prever classes ou categorias, as árvores de decisão para regressão são usadas para prever valores contínuos.
+
+A estrutura de uma árvore de decisão para regressão é semelhante à de uma árvore de decisão para classificação, mas em vez de prever classes, cada nó folha da árvore contém um valor numérico que representa a previsão para aquela região do espaço de entrada.
+
+O processo de construção de uma árvore de decisão para regressão envolve dividir o conjunto de dados em subconjuntos menores com base em determinadas regras, de modo a minimizar a variância dos valores previstos. Isso é feito de forma recursiva, dividindo o conjunto de dados em subconjuntos menores até que certos critérios de parada sejam atendidos, como profundidade máxima da árvore, número mínimo de amostras em um nó, entre outros.
+
+Alguns dos critérios comuns usados para dividir os nós em uma árvore de decisão para regressão incluem o erro quadrático médio (MSE), o erro absoluto médio (MAE) e a redução da variância.
+
+Uma vez que a árvore de decisão é construída, ela pode ser usada para fazer previsões para novos dados, percorrendo a árvore de acordo com as regras de divisão aprendidas durante o treinamento.
+
+As árvores de decisão para regressão são uma técnica poderosa e versátil de modelagem preditiva, mas podem ser propensas a overfitting se não forem devidamente ajustadas. É importante ajustar os hiperparâmetros da árvore, como a profundidade máxima, o número mínimo de amostras em um nó, a função de divisão, entre outros, para obter um modelo bem generalizado.
+
+Além disso, as árvores de decisão para regressão podem ser combinadas em ensemble methods, como o Random Forest e o Gradient Boosting, para melhorar ainda mais a precisão das previsões. Esses métodos combinam várias árvores de decisão em um único modelo mais robusto e preciso.
+ ===

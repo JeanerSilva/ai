@@ -1,0 +1,12 @@
+Item do edital: Algoritmos stemming.   
+ 
+Os algoritmos de stemming são utilizados no processamento de linguagem natural para reduzir palavras à sua forma raiz, removendo sufixos e prefixos. Isso é útil para normalizar palavras e facilitar a análise de texto, já que palavras com a mesma raiz são tratadas de forma semelhante.
+
+Existem vários algoritmos de stemming amplamente utilizados, sendo os mais conhecidos o algoritmo de Porter, o algoritmo de Snowball e o algoritmo de Lancaster. Cada um desses algoritmos possui suas próprias regras e heurísticas para realizar a redução das palavras.
+
+O algoritmo de Porter, por exemplo, é um dos mais antigos e amplamente utilizados. Ele opera em etapas, removendo sufixos de forma iterativa até que a palavra seja reduzida à sua forma raiz. Já o algoritmo de Snowball é uma evolução do algoritmo de Porter e oferece suporte a várias línguas, permitindo a criação de regras específicas para cada uma delas.
+
+Por outro lado, o algoritmo de Lancaster é mais agressivo na redução das palavras, o que pode levar a uma maior perda de informação, mas também a uma maior generalização das palavras.
+
+Em resumo, os algoritmos de stemming são ferramentas importantes no processamento de linguagem natural, ajudando a normalizar palavras e facilitar a análise de texto. Cada algoritmo possui suas próprias características e é importante escolher o mais adequado para o contexto em que será utilizado.
+ ===

@@ -1,23 +1,136 @@
-Scrum - Scrum em Escala: Scrum of Scrums, Nexus Framework, LeSS (Large-Scale Scrum).
-Scrum - Ferramentas e Tecnologias para Scrum: Ferramentas de Gerenciamento de Projetos Scrum, Ferramentas de Comunicação e Colaboração, Ferramentas de Gestão de Tarefas e Sprint Boards.
-Scrum - Cultura e Valores do Scrum: Colaboração, Responsabilidade, Melhoria Contínua.
-Governança de dados: Visão Geral da Governança de Dados:, Definição e Conceitos Básicos, Objetivos da Governança de Dados, Benefícios da Governança de Dados.
-Governança de dados: Estrutura Organizacional:, Papéis e Responsabilidades na Governança de Dados, Comitê de Governança de Dados, Funções de Stewardship de Dados.
-Governança de dados: Processos e Políticas:, Estabelecimento de Políticas de Governança de Dados, Gestão de Metadados, Gestão de Qualidade de Dados, Gestão de Segurança de Dados.
-Governança de dados: Frameworks e Padrões:, ITIL (Information Technology Infrastructure Library), COBIT (Control Objectives for Information and Related Technology), ISO/IEC 38500 (Governança de TI), DAMA DMBOK (Data Management Body of Knowledge).
-Governança de dados: Implementação e Melhoria Contínua:, Estratégias de Implementação da Governança de Dados, Avaliação de Maturidade da Governança de Dados, Melhoria Contínua da Governança de Dados.
-Governança de dados: Gestão de Riscos e Compliance:, Avaliação de Riscos de Dados, Conformidade com Regulamentações (GDPR, LGPD, etc.), Auditoria e Monitoramento da Governança de Dados.
-Governança de dados: Cultura Organizacional e Educação:, Cultura de Dados na Organização, Educação e Conscientização sobre Governança de Dados, Incentivos e Reconhecimento.
-Governança de dados: Tecnologias e Ferramentas:, Ferramentas de Catalogação e Inventário de Dados, Ferramentas de Gerenciamento de Metadados, Ferramentas de Qualidade de Dados, Ferramentas de Segurança de Dados.
-ITIL v4 - Visão Geral: Introdução, História e evolução, Estrutura do.
-ITIL v4 - Princípios: Foco no valor, Comece onde você está, Progresso iterativo, Colaboração e visibilidade, práticas holísticas, Manutenção e automação.
-ITIL v4 - Dimensões do Serviço:, Organizações e Pessoas, Informação e Tecnologia, Parceiros e Fornecedores, Fluxos de Valor e Processos.
-ITIL v4 - Modelo de Operação do Serviço: Práticas de Gerenciamento de Serviços, Práticas Técnicas e Práticas de Gerenciamento, Conceitos-chave e Definições.
-ITIL v4 - Ciclo de Vida do Serviço: Estratégia de Serviço, Desenho de Serviço, Transição de Serviço, Operação de Serviço, Melhoria Contínua de Serviço.
-ITIL v4 - Melhoria Contínua do Serviço: Princípios da Melhoria Contínua, Modelo PDCA (Plan-Do-Check-Act), Métricas e KPIs (Key Performance Indicators).
-ITIL v4 - Integração com Outras Práticas: DevOps, Agile, Lean, Service Management, Gerenciamento de Projetos.
-ITIL v4 - Adoção e Implementação do ITIL v4: Estratégias de Adoção do ITIL v4, Desafios Comuns na Implementação do ITIL v4, Estudos de Caso de Sucesso.
-ITIL v4 - Certificação ITIL v4: Níveis de Certificação, Exames e Preparação, Benefícios da Certificação ITIL v4.
-Lei nº 11.813/2013 (Lei de conflito de interesses).
-Lei nº 12.527/2011(Lei de Acesso à Informação).
-Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais).
+1. Ingestão de dados estruturados,  
+Ingestão de dados semiestruturados  
+Ingestão de dados não estruturados.   
+2. Ingestão de dados em lote (batch).   
+3. Ingestão de dados em streaming.   
+4. Armazenamento de big data.   
+5. Conceitos de processamento massivo e paralelo.   
+6. Processamento distribuído.   
+7. Soluções de big data: Arquitetura do ecossistema Spark;   
+8. Arquitetura de cloud computing para ciência de dados (AWS, Azure, GCP).   
+1.Álgebra relacional e SQL (padrão ANSI).   
+2. SQL Server;  
+PostgreSQL,  
+MySQL.   
+3. Banco de dados NoSQL.   
+4. Banco de dados e formatos de arquivo orientado a colunas:  
+Parquet,  
+MonetDB,  
+duckDB.   
+1. Normalização numérica.   
+2. Discretização.   
+3. Tratamento de dados ausentes.   
+4. Tratamento de outliers e agregações.   
+5. Matching.   
+6. Deduplicação.   
+7. Data cleansing.   
+8. Enriquecimento de dados.   
+9. Desidentificação de dados sensíveis.   
+10. Algoritmos fuzzy matching  
+Algoritmos stemming.   
+11 Visualização e análise exploratória de dados.   
+1. Linguagem de programação R.   
+2. Linguagem de programação Python.   
+3. Linguagem de programação Scala.  
+4. Programação funcional.   
+5. Programação orientada a objetos.   
+6. Classes de objetos e suas propriedades (vetores, listas, data frames).   
+7. Manipulação e tabulação de dados com numpy,  
+Manipulação e tabulação de dados com pandas,  
+Manipulação e tabulação de dados com tidyverse 
+Manipulação e tabulação de dados com data.table  
+8. Visualização de dados com ggplot 
+Visualização de dados com matplotlib.   
+9. Paralelização de rotinas de ciência de dados.   
+1. Probabilidade e probabilidade condicional.   
+2. Independência de eventos 
+teorema de Bayes  
+teorema da probabilidade total.   
+3. Variáveis aleatórias e funções de probabilidade.   
+4. Principais distribuições de probabilidade discretas e contínuas: distribuição uniforme,  
+Distribuições de probabilidade discretas e contínuas: distribuição binomial,  
+Distribuições de probabilidade discretas e contínuas: distribuição Poisson  
+Distribuições de probabilidade discretas e contínuas: distribuição normal     
+5. Medidas de tendência central  
+Medidas de dispersão  
+Medidas de correlação.  
+6 Teorema do limite central.   
+7. Regra empírica (regra de três sigma) da distribuição normal.   
+8. Diagramas causais: grafos acíclicos dirigidos;  
+Diagramas causais: variáveis confundidoras,  
+Diagramas causais: variáveis colisoras  
+Diagramas causais: variáveis de mediação.   
+9. Métodos e técnicas de identificação causal: Métodos experimentais RCT  
+Métodos e técnicas de identificação causal: métodos de identificação quase-experimental.   
+10. Tipos de viés no processo gerador dos dados e soluções: Sampling bias;  
+Tipos de viés no processo gerador dos dados e soluções: Selection bias;  
+Tipos de viés no processo gerador dos dados e soluções: Attrition bias;  
+Tipos de viés no processo gerador dos dados e soluções: Reporting bias;  
+Tipos de viés no processo gerador dos dados e soluções: Measurement bias.   
+11. Modelos probabilísticos gráficos: cadeias de Markov;   
+Modelos probabilísticos gráficos: filtros de Kalman;   
+Modelos probabilísticos gráficos: Redes bayesianas.   
+12. Testes de hipóteses: teste-z;   
+Testes de hipóteses: teste-t;  
+Testes de hipóteses: valor-p;   
+Testes de hipóteses: testes para uma amostra;   
+Testes de hipóteses: testes de comparação de duas amostras;   
+Testes de hipóteses: teste de normalidade (chi square);   
+Testes de hipóteses: intervalos de confiança.   
+13. Histogramas e curvas de frequência;   
+Diagrama boxplot;   
+Avaliação de outliers.   
+1. Técnicas de classificação: Naive Bayes;   
+Técnica de classificação Regressão logística;   
+Técnica de classificação Redes neurais artificiais;   
+Técnica de classificação Árvores de decisão (algoritmos ID3 e C4.5);   
+Técnica de classificação florestas aleatórias (random forest);   
+Técnica de classificação Máquinas de vetores de suporte (SVM – support vector machines);   
+Técnica de classificação K vizinhos mais próximos (KNN – K-nearest neighbours).   
+Técnica de classificação  
+2. Avaliação de modelos de classificação: treinamento,   
+Avaliação de modelos de classificação: teste,   
+Avaliação de modelos de classificação: validação;   
+Avaliação de modelos de classificação: validação cruzada;   
+Avaliação de modelos de classificação: métricas de avaliação - matriz de confusão,   
+Avaliação de modelos de classificação: acurácia,   
+Avaliação de modelos de classificação: precisão,   
+Avaliação de modelos de classificação: revocação,   
+Avaliação de modelos de classificação: F1-score   
+Avaliação de modelos de classificação: curva ROC.   
+3. Técnicas de regressão: Redes neurais para regressão;   
+Árvores de decisão para regressão;   
+Máquinas de vetores de suporte para regressão;  
+4. Ajuste de modelos dentro e fora de amostra e overfitting.   
+5. Técnicas de agrupamento:   
+Agrupamento por partição,   
+Agrupamento por densidade  
+Agrupamento hierárquico.   
+6. Técnica de redução de dimensionalidade: Seleção de características (feature selection);   
+Técnicas de redução de dimensionalidade: análise de componentes principais (PCA – principal component analysis).   
+7. Processamento de linguagem natural: Normalização textual  
+Processamento de linguagem natural: stop words,  
+Processamento de linguagem natural: estemização,  
+Processamento de linguagem natural: lematização  
+Processamento de linguagem natural: análise de frequência de termos;   
+rotulação de partes do discurso: part-of-speech tagging;   
+Modelos de representação de texto: N-gramas,   
+modelos vetoriais de palavras: CBOW,   
+modelos vetoriais de palavra: Skip-Gram   
+modelos vetoriais de palavra: GloVe   
+modelos vetoriais de documentos: booleano,   
+modelos vetoriais de documentos: TF   
+modelos vetoriais de documentos: TF-IDF,   
+modelos vetoriais de documentos: média de vetores de palavras   
+modelos vetoriais de documentos: Paragraph Vector;   
+Métricas de similaridade textual - similaridade do cosseno,   
+Métricas de similaridade textual distância euclidiana,   
+Métricas de similaridade textual similaridade de Jaccard,   
+Métricas de similaridade textual distância de Manhattan   
+Métricas de similaridade textual coeficiente de Dice.   
+8. Redes neurais convolucionais e   
+Redes neurais recorrentes.   
+9. Scikit-learn;   
+TensorFlow;   
+PyTorch;   
+Keras 

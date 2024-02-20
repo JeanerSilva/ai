@@ -1,0 +1,33 @@
+Item do edital: Testes de hipóteses: teste de normalidade (chi square);   
+ 
+O teste qui-quadrado (chi-square) de normalidade é uma técnica estatística utilizada para verificar se uma amostra de dados segue uma distribuição normal. A distribuição normal é uma das distribuições mais comuns na estatística e é caracterizada por sua forma de sino.
+
+Para realizar o teste qui-quadrado de normalidade, geralmente segue-se os seguintes passos:
+
+1. Formulação das hipóteses:
+   - Hipótese nula (H0): A amostra segue uma distribuição normal.
+   - Hipótese alternativa (H1): A amostra não segue uma distribuição normal.
+
+2. Coleta de dados:
+   - Coletar uma amostra de dados que se deseja testar quanto à normalidade.
+
+3. Classificação dos dados:
+   - Ordenar os dados em ordem crescente.
+
+4. Cálculo das frequências esperadas:
+   - Calcular as frequências esperadas para cada intervalo de dados, supondo que os dados sigam uma distribuição normal.
+
+5. Cálculo do qui-quadrado observado:
+   - Calcular o valor do qui-quadrado observado a partir dos dados observados e esperados.
+
+6. Determinação do grau de liberdade:
+   - O grau de liberdade é calculado como o número de intervalos menos 1.
+
+7. Comparação com o valor crítico:
+   - Comparar o valor do qui-quadrado observado com o valor crítico da distribuição qui-quadrado para um determinado nível de significância e grau de liberdade.
+
+8. Conclusão do teste:
+   - Se o valor do qui-quadrado observado for menor que o valor crítico, não rejeitamos a hipótese nula e concluímos que os dados seguem uma distribuição normal. Caso contrário, rejeitamos a hipótese nula e concluímos que os dados não seguem uma distribuição normal.
+
+É importante ressaltar que o teste qui-quadrado de normalidade é sensível ao tamanho da amostra, ou seja, para amostras muito grandes, é possível que o teste rejeite a hipótese nula mesmo que a distribuição dos dados seja aproximadamente normal. Portanto, é recomendado utilizar o teste de normalidade em conjunto com outras técnicas de diagnóstico de normalidade, como gráficos de probabilidade normal (Q-Q plot) e testes de Shapiro-Wilk ou Kolmogorov-Smirnov.
+ ===

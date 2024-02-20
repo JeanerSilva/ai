@@ -1,0 +1,18 @@
+Item do edital: 2. Ingestão de dados em lote (batch).   
+ 
+A ingestão de dados em lote, também conhecida como batch processing, refere-se ao processo de coleta, processamento e carga de grandes volumes de dados de uma só vez, em intervalos programados. Esse método é comumente utilizado em sistemas de análise de dados, data warehouses, ETL (Extract, Transform, Load), entre outros.
+
+A ingestão de dados em lote geralmente segue os seguintes passos:
+
+1. Extração (Extract): Os dados são coletados de diversas fontes, como bancos de dados, arquivos, APIs, entre outros.
+
+2. Transformação (Transform): Os dados extraídos são limpos, organizados e transformados de acordo com as necessidades do sistema. Isso pode incluir a padronização de formatos, a correção de erros e a agregação de informações.
+
+3. Carregamento (Load): Os dados processados são carregados em um repositório de dados, como um data warehouse, banco de dados ou sistema de armazenamento.
+
+A ingestão de dados em lote é ideal para situações em que a latência dos dados não é crítica e é possível lidar com a análise de dados em lotes periódicos. Ela é eficiente para processar grandes volumes de dados de uma só vez, o que pode facilitar a análise de tendências, geração de relatórios e tomada de decisões estratégicas.
+
+Além disso, a ingestão de dados em lote permite a execução de operações complexas de transformação e limpeza de dados, garantindo a qualidade e integridade das informações antes de serem utilizadas para análise.
+
+Em resumo, a ingestão de dados em lote é um método eficaz para lidar com grandes volumes de dados de forma programada e estruturada, sendo fundamental em ambientes de análise de dados e processamento de informações.
+ ===

@@ -1,0 +1,22 @@
+Item do edital: Técnica de classificação Árvores de decisão (algoritmos ID3 e C4.5);   
+ 
+As árvores de decisão são uma técnica de classificação utilizada em aprendizado de máquina e mineração de dados. Elas são representações gráficas de decisões e seus possíveis resultados, onde cada nó interno da árvore representa um teste em um atributo, cada ramo representa o resultado desse teste e cada folha representa uma classe ou valor de saída.
+
+Existem vários algoritmos para construir árvores de decisão, sendo dois dos mais conhecidos o ID3 e o C4.5. Vamos entender um pouco mais sobre cada um deles:
+
+1. ID3 (Iterative Dichotomiser 3):
+   - O ID3 é um algoritmo clássico de árvore de decisão proposto por Ross Quinlan em 1986.
+   - Ele utiliza o conceito de ganho de informação para decidir qual atributo deve ser escolhido como nó de decisão em cada etapa da construção da árvore.
+   - O ganho de informação é calculado com base na entropia dos dados, buscando maximizá-lo para separar os dados da melhor forma possível.
+   - O ID3 é eficaz para conjuntos de dados pequenos e discretos, mas pode não ser tão eficiente com conjuntos de dados grandes ou contínuos.
+
+2. C4.5:
+   - O C4.5 é uma extensão do ID3, também desenvolvido por Ross Quinlan, que corrige algumas limitações do ID3.
+   - Uma das principais melhorias do C4.5 em relação ao ID3 é a capacidade de lidar com atributos contínuos, não apenas discretos.
+   - Além disso, o C4.5 utiliza o conceito de ganho de informação normalizado (ou razão de ganho) em vez do ganho de informação puro, o que o torna mais robusto em relação a atributos com muitos valores.
+   - O C4.5 também lida melhor com dados faltantes e pode lidar com problemas de classificação e regressão.
+
+Ambos os algoritmos seguem o princípio de dividir o conjunto de dados de forma a maximizar a pureza das folhas da árvore, ou seja, garantir que os exemplos em cada folha sejam o mais homogêneos possível em relação à classe que representam.
+
+Em resumo, os algoritmos ID3 e C4.5 são técnicas populares de construção de árvores de decisão que buscam dividir os dados de forma a maximizar a informação obtida em cada divisão, sendo o C4.5 uma evolução do ID3 com melhorias em relação à manipulação de diferentes tipos de atributos e tratamento de dados faltantes.
+ ===

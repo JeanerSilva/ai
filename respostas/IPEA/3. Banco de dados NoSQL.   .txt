@@ -1,0 +1,16 @@
+Item do edital: 3. Banco de dados NoSQL.   
+ 
+Um banco de dados NoSQL é um tipo de banco de dados que difere dos bancos de dados relacionais tradicionais em sua abordagem de armazenamento e recuperação de dados. Aqui estão algumas características importantes dos bancos de dados NoSQL:
+
+1. Modelo de dados flexível: Os bancos de dados NoSQL permitem armazenar dados de forma flexível, sem a necessidade de seguir um esquema rígido como nos bancos de dados relacionais. Isso significa que você pode armazenar diferentes tipos de dados juntos, sem a necessidade de definir uma estrutura de tabela específica.
+
+2. Escalabilidade: Os bancos de dados NoSQL são projetados para serem altamente escaláveis, o que significa que podem lidar com grandes volumes de dados e um grande número de usuários de forma eficiente. Eles são frequentemente usados em ambientes onde a escalabilidade é uma preocupação, como em aplicativos da web com grande número de usuários.
+
+3. Tipos de bancos de dados NoSQL: Existem vários tipos de bancos de dados NoSQL, cada um com suas próprias características e casos de uso específicos. Alguns dos tipos mais comuns incluem bancos de dados de documentos (como MongoDB), bancos de dados de chave-valor (como Redis), bancos de dados de colunas (como Cassandra) e bancos de dados de grafos (como Neo4j).
+
+4. Consistência e disponibilidade: Os bancos de dados NoSQL geralmente seguem o teorema CAP (Consistência, Disponibilidade e Tolerância a Partições), o que significa que em caso de falha de rede, é necessário fazer uma escolha entre consistência e disponibilidade. Alguns bancos de dados NoSQL priorizam a disponibilidade, enquanto outros priorizam a consistência.
+
+5. Consultas e indexação: Os bancos de dados NoSQL geralmente oferecem diferentes formas de consultar os dados, como consultas baseadas em documentos, consultas baseadas em chave-valor ou consultas baseadas em grafos. Eles também oferecem mecanismos de indexação para melhorar o desempenho das consultas.
+
+Em resumo, os bancos de dados NoSQL são uma alternativa aos bancos de dados relacionais tradicionais, oferecendo flexibilidade, escalabilidade e diferentes modelos de dados para atender às necessidades de diferentes tipos de aplicativos e cenários de uso.
+ ===

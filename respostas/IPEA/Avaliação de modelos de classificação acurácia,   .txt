@@ -1,0 +1,14 @@
+Item do edital: Avaliação de modelos de classificação: acurácia,   
+ 
+A avaliação de modelos de classificação é uma etapa fundamental no processo de construção e seleção de um modelo de machine learning. A acurácia é uma métrica comum e simples de ser compreendida, que mede a proporção de previsões corretas feitas pelo modelo em relação ao total de previsões realizadas.
+
+Para calcular a acurácia de um modelo de classificação, você divide o número de previsões corretas pelo número total de previsões feitas. A fórmula é a seguinte:
+
+\[ \text{Acurácia} = \frac{\text{Número de previsões corretas}}{\text{Número total de previsões}} \]
+
+Por exemplo, se um modelo fez 90 previsões corretas em um total de 100 previsões, a acurácia seria de 90%.
+
+É importante ressaltar que a acurácia sozinha pode não ser suficiente para avaliar a qualidade de um modelo de classificação, especialmente em casos de conjuntos de dados desbalanceados, onde uma classe é muito mais frequente do que a outra. Nesses casos, a acurácia pode ser enganosa, pois um modelo pode ter uma alta acurácia simplesmente prevendo a classe majoritária em todos os casos.
+
+Por isso, é recomendado utilizar outras métricas de avaliação, como precisão, recall, F1-score, matriz de confusão, curva ROC, entre outras, para ter uma visão mais completa do desempenho do modelo de classificação. Cada métrica fornece informações diferentes sobre o desempenho do modelo em diferentes aspectos, como a capacidade de prever corretamente as classes positivas, a capacidade de evitar falsos positivos, entre outros.
+ ===

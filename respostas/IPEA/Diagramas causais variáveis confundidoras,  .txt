@@ -1,0 +1,12 @@
+Item do edital: Diagramas causais: variáveis confundidoras,  
+ 
+Os diagramas causais são ferramentas gráficas que representam as relações de causa e efeito entre variáveis em um determinado sistema. Eles são amplamente utilizados em pesquisas científicas, análises estatísticas e modelagem causal. 
+
+As variáveis confundidoras são variáveis que podem distorcer ou influenciar a relação entre a variável independente e a variável dependente em um estudo. Em outras palavras, elas podem criar uma falsa associação entre as variáveis de interesse. 
+
+No contexto de um diagrama causal, as variáveis confundidoras são representadas como variáveis adicionais que estão relacionadas tanto à variável independente quanto à variável dependente. Ao incluir essas variáveis no diagrama, é possível visualizar como elas podem afetar a relação entre a variável de interesse e o resultado.
+
+Identificar e controlar as variáveis confundidoras é essencial para garantir a validade dos resultados de um estudo. Isso pode ser feito através de técnicas estatísticas, como análise de covariância ou análise de regressão múltipla, que permitem controlar o efeito das variáveis confundidoras nos resultados.
+
+Em resumo, as variáveis confundidoras são importantes no contexto de diagramas causais, pois ajudam a entender e controlar os possíveis fatores que podem distorcer a relação entre as variáveis de interesse em um estudo.
+ ===

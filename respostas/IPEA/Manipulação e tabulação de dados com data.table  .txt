@@ -1,0 +1,45 @@
+Item do edital: Manipulação e tabulação de dados com data.table  
+ 
+O pacote `data.table` em R é uma ferramenta poderosa para manipulação e tabulação eficiente de grandes conjuntos de dados. Ele oferece uma sintaxe concisa e rápida para realizar operações comuns, como filtragem, ordenação, agregação e junção de dados. Abaixo, vou explicar alguns conceitos-chave e funções importantes do `data.table`:
+
+1. Criando um data.table:
+   Para criar um `data.table`, você pode usar a função `data.table()` passando um data frame como argumento, ou converter um data frame existente em um `data.table` usando `setDT()`. Por exemplo:
+   ```R
+   library(data.table)
+   dt <- data.table(mtcars)
+   ```
+
+2. Filtragem de dados:
+   Para filtrar linhas com base em condições específicas, você pode usar a notação `DT[i, j, by]`, onde `i` representa as condições de filtragem. Por exemplo:
+   ```R
+   dt[mpg > 20]
+   ```
+
+3. Ordenação de dados:
+   Para ordenar um `data.table`, você pode usar a função `setorder()` ou a notação `DT[order(coluna)]`. Por exemplo:
+   ```R
+   setorder(dt, mpg)
+   ```
+
+4. Agregação de dados:
+   Para realizar operações de agregação, você pode usar a função `by` ou a notação `DT[, j, by]`. Por exemplo, para calcular a média de `mpg` agrupado por `cyl`:
+   ```R
+   dt[, .(mean_mpg = mean(mpg)), by = cyl]
+   ```
+
+5. Junção de dados:
+   Para combinar dois `data.tables`, você pode usar a função `merge()` ou a notação `DT1[DT2, on = "coluna"]`. Por exemplo:
+   ```R
+   dt1 <- data.table(id = 1:3, value = c("A", "B", "C"))
+   dt2 <- data.table(id = 2:4, info = c("X", "Y", "Z"))
+   merge(dt1, dt2, by = "id")
+   ```
+
+6. Atualização de dados:
+   Para atualizar valores em um `data.table`, você pode usar a notação `DT[i, coluna := novo_valor]`. Por exemplo, para atualizar o valor de `mpg` para 30 onde `cyl` é igual a 6:
+   ```R
+   dt[cyl == 6, mpg := 30]
+   ```
+
+Esses são apenas alguns exemplos das muitas funcionalidades poderosas do `data.table`. Recomendo explorar a documentação oficial e tutoriais online para aprender mais sobre como usar esse pacote de forma eficiente e eficaz.
+ ===

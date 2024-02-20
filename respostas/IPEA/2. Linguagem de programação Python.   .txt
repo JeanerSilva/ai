@@ -1,0 +1,22 @@
+Item do edital: 2. Linguagem de programação Python.   
+ 
+Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. Ela é conhecida por sua sintaxe simples e legibilidade, o que a torna uma ótima opção para iniciantes, mas também é poderosa o suficiente para ser usada em projetos complexos.
+
+Aqui estão alguns pontos importantes sobre a linguagem de programação Python:
+
+1. Sintaxe Simples: Python utiliza uma sintaxe limpa e fácil de ler, o que a torna ideal para escrever código de forma clara e concisa.
+
+2. Interpretada: Python é uma linguagem interpretada, o que significa que o código é executado linha por linha pelo interpretador Python. Isso torna o desenvolvimento mais rápido, pois você pode testar seu código imediatamente.
+
+3. Tipagem Dinâmica: Python é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar o tipo de uma variável explicitamente. O tipo da variável é inferido automaticamente com base no valor atribuído a ela.
+
+4. Biblioteca Padrão Abundante: Python possui uma biblioteca padrão abrangente que oferece uma ampla gama de módulos e funcionalidades prontas para uso, o que facilita o desenvolvimento de aplicações sem a necessidade de reinventar a roda.
+
+5. Comunidade Ativa: Python possui uma comunidade de desenvolvedores muito ativa e engajada. Isso significa que você pode encontrar facilmente suporte, documentação e bibliotecas de terceiros para ajudar no desenvolvimento de seus projetos.
+
+6. Versatilidade: Python é uma linguagem versátil que pode ser usada em uma variedade de aplicações, como desenvolvimento web, análise de dados, automação de tarefas, inteligência artificial, aprendizado de máquina, entre outros.
+
+7. Frameworks Populares: Python possui uma série de frameworks populares, como Django e Flask para desenvolvimento web, pandas e numpy para análise de dados, e TensorFlow e PyTorch para aprendizado de máquina.
+
+Em resumo, Python é uma linguagem de programação poderosa, versátil e fácil de aprender, tornando-a uma escolha popular entre desenvolvedores de todos os níveis de experiência. Se você está começando a aprender a programar, Python é uma ótima linguagem para começar.
+ ===

@@ -1,0 +1,15 @@
+Item do edital: 1. Probabilidade e probabilidade condicional.   
+ 
+A probabilidade é uma medida numérica que quantifica a chance de ocorrência de um evento. Ela varia de 0 a 1, sendo 0 a probabilidade de um evento impossível e 1 a probabilidade de um evento certo. A probabilidade de um evento A ocorrer é denotada por P(A).
+
+A probabilidade condicional é a probabilidade de um evento ocorrer, dado que outro evento já ocorreu. Ela é denotada por P(A|B), que representa a probabilidade de A ocorrer dado que B ocorreu. A fórmula para probabilidade condicional é dada por:
+
+\[ P(A|B) = \frac{P(A \cap B)}{P(B)} \]
+
+Onde:
+- P(A|B) é a probabilidade condicional de A dado B.
+- P(A ∩ B) é a probabilidade da interseção de A e B.
+- P(B) é a probabilidade de B ocorrer.
+
+A probabilidade condicional é útil para atualizar a probabilidade de um evento com base em informações adicionais. Ela é fundamental em diversos campos, como estatística, teoria da decisão e aprendizado de máquina.
+ ===

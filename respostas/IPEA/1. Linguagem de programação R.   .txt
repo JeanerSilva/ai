@@ -1,0 +1,20 @@
+Item do edital: 1. Linguagem de programação R.   
+ 
+A linguagem de programação R é uma linguagem de programação estatística e de análise de dados amplamente utilizada por cientistas de dados, estatísticos e pesquisadores em diversas áreas. Abaixo estão alguns pontos importantes sobre a linguagem R:
+
+1. Sintaxe: A sintaxe do R é relativamente simples e fácil de aprender, especialmente para quem já tem alguma experiência em programação. As funções e operadores no R são geralmente intuitivos e fáceis de entender.
+
+2. Vetores e Data Frames: No R, os vetores são estruturas de dados fundamentais e são usados para armazenar elementos de um mesmo tipo. Os data frames são estruturas de dados bidimensionais que são amplamente utilizadas para armazenar conjuntos de dados.
+
+3. Pacotes: O R possui uma vasta coleção de pacotes que estendem sua funcionalidade. Os pacotes podem ser facilmente instalados e carregados no R, permitindo que os usuários tenham acesso a uma ampla gama de funções e métodos para análise de dados.
+
+4. Gráficos: O R é conhecido por sua capacidade de criar gráficos de alta qualidade e visualmente atraentes. A biblioteca ggplot2 é uma das mais populares para criação de gráficos no R.
+
+5. Análise Estatística: O R é amplamente utilizado para análise estatística de dados. Ele oferece uma ampla gama de funções estatísticas para realizar análises descritivas, inferenciais e modelagem estatística.
+
+6. Integração com outras linguagens: O R pode ser facilmente integrado com outras linguagens de programação, como Python e SQL, o que o torna uma escolha popular para análise de dados em ambientes que utilizam várias linguagens.
+
+7. Comunidade ativa: O R possui uma comunidade de usuários muito ativa, o que significa que há uma grande quantidade de recursos disponíveis, como tutoriais, fóruns de discussão e pacotes de código aberto.
+
+Em resumo, a linguagem de programação R é uma ferramenta poderosa para análise de dados e estatística, com uma sintaxe amigável, uma vasta coleção de pacotes e uma comunidade ativa de usuários. É uma ótima escolha para quem trabalha com análise de dados, modelagem estatística e visualização de dados.
+ ===
