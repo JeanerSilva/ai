@@ -1,9 +1,0 @@
-Item do edital: Java - Desenvolvimento Web em Java:, Servlets e JSP (JavaServer Pages), Frameworks MVC (Model-View-Controller), Spring MVC, JavaServer Faces (JSF), Struts, Tecnologias de Persistência de Dados, JDBC (Java Database Connectivity), JPA (Java Persistence API), Hibernate
- 
-1. - Desenvolvimento Web em Java:  - Servlets e JSP (JavaServer Pages)  - Frameworks MVC (Model-View-Controller)    - Spring MVC    - JavaServer Faces (JSF)    - Struts- Tecnologias de Persistência de Dados  - JDBC (Java Database Connectivity)  - JPA (Java Persistence API)  - Hibernate
-Sim, sou um especialista em desenvolvimento web em Java. Tenho conhecimento em Servlets e JSP, que são tecnologias usadas para criar aplicativos web em Java. Também tenho experiência com frameworks MVC, como Spring MVC, JavaServer Faces (JSF) e Struts. 
-
-Além disso, tenho conhecimento em tecnologias de persistência de dados, como JDBC (Java Database Connectivity), JPA (Java Persistence API) e Hibernate. Essas tecnologias são usadas para acessar e manipular bancos de dados em aplicativos Java. 
-
-Posso ajudar com a criação e manutenção de aplicativos web em Java, trabalhando com essas tecnologias e frameworks mencionados.
-
