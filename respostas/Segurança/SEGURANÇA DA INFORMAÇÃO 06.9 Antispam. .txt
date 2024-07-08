@@ -1,0 +1,52 @@
+SEGURANÇA DA INFORMAÇÃO:: 06.9 Antispam. 
+ -
+### Origem do Antispam
+
+O conceito de antispam surgiu como uma resposta à crescente quantidade de e-mails indesejados (spam) que inundavam as caixas de entrada dos usuários de e-mail. O spam pode ser definido como mensagens eletrônicas não solicitadas, geralmente enviadas em massa para um grande número de destinatários. Com o aumento do uso da internet e do e-mail, especialmente a partir dos anos 1990, o problema do spam se tornou significativo, levando ao desenvolvimento de tecnologias e métodos para combatê-lo.
+
+### Conceitos de Antispam
+
+Antispam refere-se a qualquer técnica, software ou serviço utilizado para detectar e bloquear mensagens de spam. O objetivo principal é proteger os usuários de e-mails indesejados, que podem ser não apenas incômodos, mas também perigosos, contendo links para sites maliciosos ou anexos com malware.
+
+### Tipos e Classificações de Antispam
+
+Os métodos antispam podem ser classificados em várias categorias, cada uma com suas próprias características e abordagens. Abaixo estão os principais tipos de antispam:
+
+1. **Filtros Baseados em Conteúdo**
+   - **Filtros de Palavras-Chave**: Analisam o conteúdo do e-mail em busca de palavras ou frases específicas que são comumente associadas a spam.
+   - **Filtros Bayesianos**: Utilizam técnicas de aprendizado de máquina para calcular a probabilidade de uma mensagem ser spam com base em padrões de palavras e frases.
+   - **Filtros Heurísticos**: Aplicam regras predefinidas para identificar características comuns em e-mails de spam, como excesso de links ou palavras em maiúsculas.
+
+2. **Filtros Baseados em Lista**
+   - **Listas de Permissão (Whitelist)**: Permitem apenas e-mails de remetentes aprovados previamente.
+   - **Listas de Bloqueio (Blacklist)**: Bloqueiam e-mails de remetentes conhecidos por enviar spam.
+   - **Listas Cinzas (Greylist)**: Temporariamente rejeitam e-mails de remetentes desconhecidos, solicitando que o e-mail seja reenviado. Spammers geralmente não reenviam e-mails, enquanto remetentes legítimos o fazem.
+
+3. **Filtros Baseados em Reputação**
+   - **Reputação de IP**: Avaliam a reputação do endereço IP do remetente. IPs com histórico de envio de spam são bloqueados.
+   - **Reputação de Domínio**: Avaliam a reputação do domínio do remetente. Domínios associados a spam são bloqueados.
+
+4. **Filtros Baseados em Comportamento**
+   - **Análise de Padrões de Envio**: Monitoram padrões de envio de e-mails para identificar comportamentos típicos de spammers, como o envio de grandes volumes de e-mails em curtos períodos.
+   - **Análise de Interação do Usuário**: Observam como os usuários interagem com os e-mails, como a frequência de marcação de e-mails como spam, para ajustar os filtros.
+
+5. **Filtros Baseados em Assinatura**
+   - **Assinaturas de Spam**: Utilizam bancos de dados de assinaturas de spam conhecidas para identificar e bloquear e-mails que correspondem a essas assinaturas.
+
+6. **Filtros Baseados em Análise de URL**
+   - **Análise de Links**: Examinam os links contidos nos e-mails para verificar se redirecionam para sites maliciosos ou conhecidos por hospedar spam.
+
+### Características dos Tipos de Antispam
+
+- **Filtros de Palavras-Chave**: Simples e rápidos, mas podem gerar muitos falsos positivos.
+- **Filtros Bayesianos**: Adaptativos e precisos, mas requerem treinamento inicial.
+- **Filtros Heurísticos**: Flexíveis e baseados em regras, mas podem ser complexos de configurar.
+- **Listas de Permissão**: Muito eficazes para contatos conhecidos, mas podem bloquear e-mails legítimos de remetentes novos.
+- **Listas de Bloqueio**: Eficazes contra remetentes conhecidos de spam, mas requerem manutenção constante.
+- **Listas Cinzas**: Eficazes contra spammers, mas podem atrasar a entrega de e-mails legítimos.
+- **Reputação de IP/Domínio**: Baseados em histórico, eficazes, mas podem ser contornados por spammers que mudam frequentemente de IP ou domínio.
+- **Análise de Padrões de Envio**: Eficaz para detectar campanhas de spam, mas pode ser enganada por spammers sofisticados.
+- **Análise de Interação do Usuário**: Personalizada e adaptativa, mas depende da participação ativa dos usuários.
+- **Assinaturas de Spam**: Eficazes contra spam conhecido, mas menos eficazes contra novas variantes.
+- **
+

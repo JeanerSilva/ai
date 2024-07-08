@@ -1,0 +1,59 @@
+SEGURANÇA DA INFORMAÇÃO:: 06.3 Intrusion Prevention System (IPS), 
+ -
+### Intrusion Prevention System (IPS)
+
+#### Origem
+O conceito de Intrusion Prevention System (IPS) evoluiu a partir do Intrusion Detection System (IDS). Enquanto o IDS é projetado para detectar atividades suspeitas e gerar alertas, o IPS vai além, sendo capaz de tomar ações preventivas para bloquear ou mitigar ameaças em tempo real. O desenvolvimento do IPS foi impulsionado pela necessidade de uma defesa mais proativa contra ataques cibernéticos, que não apenas detectasse, mas também prevenisse intrusões.
+
+#### Conceitos
+Um IPS é um dispositivo de segurança de rede que monitora o tráfego de rede em busca de atividades maliciosas e pode tomar medidas automáticas para prevenir essas atividades. Ele funciona em tempo real e pode ser implementado em hardware ou software. As principais funções de um IPS incluem:
+
+1. **Monitoramento de Tráfego**: Inspeciona pacotes de dados que entram e saem da rede.
+2. **Detecção de Ameaças**: Utiliza assinaturas, heurísticas e análise comportamental para identificar atividades suspeitas.
+3. **Prevenção de Intrusões**: Bloqueia ou mitiga ameaças automaticamente, sem intervenção humana.
+4. **Registro e Relatório**: Mantém logs detalhados das atividades e gera relatórios para análise posterior.
+
+#### Tipos e Classificações
+
+Os IPS podem ser classificados de várias maneiras, dependendo de sua arquitetura, método de detecção e local de implementação. Abaixo estão os principais tipos de IPS e suas características:
+
+1. **Network-based IPS (NIPS)**
+   - **Descrição**: Monitoram e protegem toda a rede.
+   - **Características**:
+     - Instalados em pontos estratégicos da rede, como gateways.
+     - Inspecionam todo o tráfego de rede.
+     - Capazes de detectar e prevenir ataques em tempo real.
+     - Podem ser implementados como dispositivos dedicados ou como software em servidores.
+
+2. **Host-based IPS (HIPS)**
+   - **Descrição**: Monitoram e protegem sistemas individuais.
+   - **Características**:
+     - Instalados diretamente em servidores ou estações de trabalho.
+     - Monitoram atividades do sistema operacional e aplicativos.
+     - Capazes de detectar e prevenir ataques específicos ao host.
+     - Oferecem proteção granular, mas podem consumir recursos do sistema.
+
+3. **Wireless IPS (WIPS)**
+   - **Descrição**: Monitoram e protegem redes sem fio.
+   - **Características**:
+     - Detectam e previnem ataques específicos a redes Wi-Fi.
+     - Monitoram o tráfego de rede sem fio e identificam pontos de acesso não autorizados.
+     - Podem ser integrados com NIPS para fornecer uma proteção abrangente.
+
+4. **Network Behavior Analysis (NBA) IPS**
+   - **Descrição**: Monitoram o comportamento da rede para detectar anomalias.
+   - **Características**:
+     - Utilizam técnicas de análise comportamental para identificar atividades suspeitas.
+     - Detectam ataques que podem não ser identificados por assinaturas tradicionais.
+     - Capazes de identificar tráfego anômalo, como varreduras de rede e ataques de negação de serviço (DoS).
+
+5. **Content-based IPS**
+   - **Descrição**: Monitoram o conteúdo do tráfego de rede.
+   - **Características**:
+     - Inspecionam o conteúdo dos pacotes de dados para detectar ameaças.
+     - Utilizam assinaturas de conteúdo para identificar malware e outras ameaças.
+     - Podem ser combinados com outras técnicas de detecção para maior eficácia.
+
+#### Conclusão
+O Intrusion Prevention System (IPS) é uma ferramenta essencial para a segurança de redes modernas, oferecendo uma defesa proativa contra uma ampla gama de ameaças cibernéticas. Com várias classificações e tipos, os IPS podem ser adaptados para atender às necessidades específicas de diferentes ambientes de rede, proporcionando uma camada adicional de proteção além dos tradicionais sistemas de detecção de intrusões.
+

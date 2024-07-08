@@ -1,0 +1,65 @@
+SEGURANÇA DA INFORMAÇÃO:: 06.1 Firewall, 
+ -
+### Firewall: Origem, Conceitos, Tipos e Classificações
+
+#### Origem
+Os firewalls surgiram na década de 1980 como uma resposta à crescente necessidade de proteger redes de computadores contra acessos não autorizados e ataques cibernéticos. Inicialmente, eram simples filtros de pacotes, mas evoluíram significativamente ao longo dos anos para incluir uma variedade de funcionalidades avançadas.
+
+#### Conceitos
+Um firewall é um sistema de segurança de rede que monitora e controla o tráfego de entrada e saída com base em regras de segurança predefinidas. Ele atua como uma barreira entre uma rede interna confiável e redes externas não confiáveis, como a Internet. Os firewalls podem ser implementados em hardware, software ou uma combinação de ambos.
+
+#### Tipos e Classificações
+
+1. **Firewall de Filtro de Pacotes (Packet-Filtering Firewall)**
+   - **Características:**
+     - Opera na camada de rede (Camada 3) e na camada de transporte (Camada 4) do modelo OSI.
+     - Analisa cabeçalhos de pacotes para permitir ou bloquear tráfego com base em critérios como endereços IP de origem e destino, portas e protocolos.
+     - Simples e rápido, mas com capacidades limitadas de inspeção.
+
+2. **Firewall de Inspeção de Estado (Stateful Inspection Firewall)**
+   - **Características:**
+     - Monitora o estado das conexões de rede (sessões) e toma decisões com base no contexto da comunicação.
+     - Opera nas camadas de rede e transporte, mas mantém uma tabela de estados para rastrear conexões ativas.
+     - Mais seguro que o filtro de pacotes simples, pois pode detectar pacotes que fazem parte de conexões estabelecidas.
+
+3. **Firewall Proxy (Proxy Firewall)**
+   - **Características:**
+     - Atua como intermediário entre o usuário e o recurso solicitado.
+     - Pode operar em diferentes camadas do modelo OSI, dependendo do tipo de proxy (HTTP, FTP, etc.).
+     - Inspeciona o conteúdo das comunicações e pode aplicar políticas de segurança detalhadas.
+     - Pode introduzir latência adicional devido ao processamento extra.
+
+4. **Firewall de Próxima Geração (Next-Generation Firewall - NGFW)**
+   - **Características:**
+     - Combina funcionalidades tradicionais de firewall com inspeção profunda de pacotes (DPI), prevenção de intrusões (IPS), e outras funcionalidades avançadas.
+     - Opera em múltiplas camadas do modelo OSI.
+     - Capaz de identificar e controlar aplicações, mesmo que usem portas não padrão ou técnicas de evasão.
+     - Inclui recursos como filtragem de URL, VPN, e proteção contra malware.
+
+5. **Firewall de Aplicação Web (Web Application Firewall - WAF)**
+   - **Características:**
+     - Específico para proteger aplicações web.
+     - Opera na camada de aplicação (Camada 7) do modelo OSI.
+     - Protege contra ataques comuns a aplicações web, como SQL injection, cross-site scripting (XSS), e cross-site request forgery (CSRF).
+     - Analisa o tráfego HTTP/HTTPS e aplica regras de segurança específicas para aplicações web.
+
+6. **Firewall de Rede (Network Firewall)**
+   - **Características:**
+     - Protege redes inteiras, geralmente implementado em roteadores ou dispositivos dedicados.
+     - Pode incluir funcionalidades de filtro de pacotes, inspeção de estado, e NGFW.
+     - Focado em proteger a infraestrutura de rede contra ameaças externas e internas.
+
+7. **Firewall Pessoal (Personal Firewall)**
+   - **Características:**
+     - Instalado em dispositivos finais, como computadores pessoais e laptops.
+     - Protege o dispositivo individual contra ameaças de rede.
+     - Geralmente inclui funcionalidades de controle de aplicativos e monitoramento de tráfego de rede.
+
+8. **Firewall Virtual (Virtual Firewall)**
+   - **Características:**
+     - Implementado em ambientes de virtualização e nuvem.
+     - Oferece proteção similar aos firewalls físicos, mas é otimizado para ambientes virtualizados.
+     - Pode ser gerenciado e escalado de forma dinâmica conforme as necessidades do ambiente virtual.
+
+Cada tipo de firewall tem suas próprias vantagens e desvantagens, e a escolha do tipo adequado depende das necessidades específicas de segurança da rede e das aplicações que estão sendo protegidas.
+

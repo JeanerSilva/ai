@@ -1,0 +1,86 @@
+GESTÃO EM TI:: 04 ITIL v4 -
+### Origem do ITIL v4
+
+O ITIL (Information Technology Infrastructure Library) é um conjunto de práticas detalhadas para a gestão de serviços de TI (Tecnologia da Informação) que se originou no Reino Unido na década de 1980. Foi desenvolvido pela Central Computer and Telecommunications Agency (CCTA), que mais tarde se tornou parte do Office of Government Commerce (OGC). O ITIL foi criado para padronizar as práticas de gestão de TI e melhorar a eficiência e a eficácia dos serviços de TI nas organizações.
+
+### Conceitos do ITIL v4
+
+O ITIL v4, lançado em 2019, é a versão mais recente e introduz uma abordagem mais flexível e adaptável para a gestão de serviços de TI. Os principais conceitos do ITIL v4 incluem:
+
+1. **Sistema de Valor de Serviço (SVS)**: Um modelo que descreve como todos os componentes e atividades de uma organização trabalham juntos para criar valor.
+2. **Cadeia de Valor de Serviço (SVC)**: Um conjunto de atividades interconectadas que fornecem um modelo operacional para a criação, entrega e melhoria contínua de serviços.
+3. **Princípios Orientadores**: Diretrizes que ajudam as organizações a adotar e adaptar o ITIL para suas necessidades específicas.
+4. **Governança**: Estruturas e processos que garantem que as políticas e estratégias da organização sejam seguidas.
+5. **Práticas de Gestão**: Conjuntos de recursos organizacionais projetados para realizar trabalhos ou atingir um objetivo.
+
+### Tipos e Classificações no ITIL v4
+
+O ITIL v4 classifica suas práticas de gestão em três categorias principais: práticas de gestão geral, práticas de gestão de serviços e práticas de gestão técnica. Cada uma dessas categorias contém várias práticas específicas.
+
+#### 1. Práticas de Gestão Geral
+
+Estas práticas são aplicáveis a todas as áreas da organização, não apenas à TI. Elas incluem:
+
+- **Gestão de Arquitetura**
+- **Melhoria Contínua**
+- **Gestão de Segurança da Informação**
+- **Gestão do Conhecimento**
+- **Gestão de Medição e Relato**
+- **Gestão de Mudança Organizacional**
+- **Gestão de Portfólio**
+- **Gestão de Projeto**
+- **Gestão de Risco**
+- **Gestão Financeira**
+- **Gestão de Estratégia**
+- **Gestão de Força de Trabalho e Talento**
+
+#### 2. Práticas de Gestão de Serviços
+
+Estas práticas são específicas para a gestão de serviços de TI. Elas incluem:
+
+- **Gestão de Disponibilidade**
+- **Análise de Negócios**
+- **Gestão de Capacidade e Desempenho**
+- **Gestão de Catálogo de Serviços**
+- **Gestão de Incidentes**
+- **Gestão de Problemas**
+- **Gestão de Liberação**
+- **Gestão de Nível de Serviço**
+- **Gestão de Continuidade de Serviço**
+- **Gestão de Configuração de Serviço**
+- **Gestão de Ativos de TI**
+- **Gestão de Mudança**
+- **Gestão de Solicitação de Serviço**
+- **Gestão de Provedor de Serviço**
+- **Gestão de Disponibilidade e Capacidade**
+- **Gestão de Eventos**
+- **Gestão de Conhecimento**
+- **Gestão de Segurança da Informação**
+- **Gestão de Relacionamento**
+- **Gestão de Risco**
+- **Gestão de Fornecedores**
+
+#### 3. Práticas de Gestão Técnica
+
+Estas práticas são focadas em aspectos técnicos da gestão de serviços de TI. Elas incluem:
+
+- **Gestão de Implantação**
+- **Gestão de Infraestrutura e Plataforma**
+- **Desenvolvimento e Gerenciamento de Software**
+
+### Detalhamento dos Tipos e suas Características
+
+#### Práticas de Gestão Geral
+
+- **Gestão de Arquitetura**: Define a estrutura e a operação dos sistemas de TI.
+- **Melhoria Contínua**: Foca na melhoria contínua dos serviços e processos.
+- **Gestão de Segurança da Informação**: Protege a informação contra ameaças.
+- **Gestão do Conhecimento**: Garante que a informação correta esteja disponível para as pessoas certas.
+- **Gestão de Medição e Relato**: Coleta e analisa dados para apoiar a tomada de decisões.
+- **Gestão de Mudança Organizacional**: Gerencia mudanças organizacionais para minimizar impactos negativos.
+- **Gestão de Portfólio**: Gerencia o portfólio de serviços e projetos.
+- **Gestão de Projeto**: Planeja e executa projetos para atingir objetivos específicos.
+- **Gestão de Risco**: Identifica, avalia e controla riscos.
+- **Gestão Financeira**: Gerencia os aspectos financeiros dos serviços de TI.
+- **Gestão de Estratégia**: Define a direção e a estratégia da organização
+

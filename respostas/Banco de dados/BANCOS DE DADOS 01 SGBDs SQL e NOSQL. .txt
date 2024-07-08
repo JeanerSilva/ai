@@ -1,0 +1,74 @@
+BANCOS DE DADOS:: 01 SGBDs SQL e NOSQL. 
+ -
+### Sistemas de Gerenciamento de Banco de Dados (SGBDs)
+
+#### Origem
+Os Sistemas de Gerenciamento de Banco de Dados (SGBDs) surgiram na década de 1960 para resolver problemas de armazenamento e recuperação de grandes volumes de dados. Com o avanço da tecnologia e a crescente necessidade de gerenciar dados de maneira eficiente, os SGBDs evoluíram para incluir diversas funcionalidades e suportar diferentes modelos de dados.
+
+### SGBDs SQL
+
+#### Conceitos
+SQL (Structured Query Language) é uma linguagem padrão para gerenciamento de bancos de dados relacionais. Os SGBDs SQL utilizam um modelo de dados relacional, onde os dados são organizados em tabelas com linhas e colunas. A integridade dos dados é mantida através de restrições e chaves primárias/estrangeiras.
+
+#### Tipos e Classificações
+
+1. **SGBDs Relacionais (RDBMS)**
+   - **Exemplos:** MySQL, PostgreSQL, Oracle, Microsoft SQL Server
+   - **Características:**
+     - Utilizam tabelas para armazenar dados.
+     - Suportam ACID (Atomicidade, Consistência, Isolamento, Durabilidade).
+     - Utilizam SQL para manipulação e consulta de dados.
+     - Suportam transações e garantem a integridade dos dados.
+
+2. **SGBDs Relacionais Distribuídos**
+   - **Exemplos:** Google Spanner, CockroachDB
+   - **Características:**
+     - Distribuem dados em múltiplos servidores.
+     - Oferecem alta disponibilidade e tolerância a falhas.
+     - Mantêm a consistência dos dados através de mecanismos de sincronização.
+
+### SGBDs NoSQL
+
+#### Conceitos
+NoSQL (Not Only SQL) refere-se a uma classe de sistemas de gerenciamento de banco de dados que não utilizam o modelo relacional tradicional. Esses sistemas são projetados para lidar com grandes volumes de dados, alta velocidade de leitura/escrita e escalabilidade horizontal.
+
+#### Tipos e Classificações
+
+1. **Bancos de Dados de Documentos**
+   - **Exemplos:** MongoDB, CouchDB
+   - **Características:**
+     - Armazenam dados em documentos (geralmente JSON ou BSON).
+     - Flexibilidade na estrutura dos dados.
+     - Suportam consultas complexas e indexação.
+
+2. **Bancos de Dados de Colunas**
+   - **Exemplos:** Apache Cassandra, HBase
+   - **Características:**
+     - Armazenam dados em colunas em vez de linhas.
+     - Otimizados para leitura e escrita rápidas.
+     - Escalabilidade horizontal e alta disponibilidade.
+
+3. **Bancos de Dados de Chave-Valor**
+   - **Exemplos:** Redis, DynamoDB
+   - **Características:**
+     - Armazenam dados como pares chave-valor.
+     - Simplicidade e alta performance.
+     - Ideal para caches e armazenamento de sessões.
+
+4. **Bancos de Dados de Grafos**
+   - **Exemplos:** Neo4j, Amazon Neptune
+   - **Características:**
+     - Armazenam dados em nós e arestas (grafo).
+     - Otimizados para consultas de relacionamento.
+     - Utilizados em redes sociais, recomendações e análise de fraudes.
+
+5. **Bancos de Dados de Tempo Real**
+   - **Exemplos:** InfluxDB, TimescaleDB
+   - **Características:**
+     - Otimizados para armazenar e consultar séries temporais.
+     - Suportam agregações e análises em tempo real.
+     - Utilizados em monitoramento de sistemas, IoT e análise de dados temporais.
+
+### Conclusão
+Os SGBDs SQL e NoSQL oferecem diferentes abordagens para o gerenciamento de dados, cada um com suas próprias vantagens e desvantagens. A escolha entre SQL e NoSQL depende das necessidades específicas do projeto, como a estrutura dos dados, a necessidade de escalabilidade, a complexidade das consultas e os requisitos de consistência e integridade dos dados.
+

@@ -1,0 +1,86 @@
+INFRAESTRUTURA EM TI:: 11.1 Puppet. 
+ -
+**Origem e Conceitos do Puppet:**
+
+O Puppet é uma ferramenta de automação de configuração e gerenciamento de infraestrutura, criada por Luke Kanies em 2005. Desenvolvido inicialmente como uma solução para facilitar a administração de sistemas, o Puppet permite que administradores de sistemas e engenheiros de DevOps definam o estado desejado de sua infraestrutura e apliquem essas configurações de maneira consistente e repetível.
+
+**Conceitos Principais:**
+
+1. **Manifests:** São arquivos escritos na linguagem de domínio específico do Puppet (Puppet DSL), que descrevem o estado desejado dos recursos do sistema.
+2. **Modules:** São coleções de manifests e outros arquivos que podem ser reutilizados e compartilhados.
+3. **Resources:** São os elementos básicos que o Puppet gerencia, como pacotes, serviços e arquivos.
+4. **Classes:** São blocos de código que agrupam recursos e podem ser incluídos em manifests para organizar e reutilizar configurações.
+5. **Nodes:** Representam os sistemas gerenciados pelo Puppet, cada um com suas próprias configurações específicas.
+6. **Catalogs:** São compilações de todos os recursos e suas dependências que o Puppet aplica a um nó específico.
+7. **Facts:** São informações sobre os nós gerenciados, coletadas pelo Puppet para ajudar a determinar como configurá-los.
+
+**Tipos e Classificações do Puppet:**
+
+1. **Tipos de Recursos:**
+   - **File:** Gerencia arquivos e diretórios.
+   - **Package:** Gerencia pacotes de software.
+   - **Service:** Gerencia serviços do sistema.
+   - **User:** Gerencia contas de usuário.
+   - **Group:** Gerencia grupos de usuários.
+   - **Exec:** Executa comandos arbitrários.
+   - **Cron:** Gerencia tarefas agendadas.
+   - **Mount:** Gerencia pontos de montagem de sistemas de arquivos.
+   - **Notify:** Envia mensagens de notificação.
+   - **Augeas:** Gerencia configurações de arquivos usando a biblioteca Augeas.
+   - **Selboolean:** Gerencia booleans do SELinux.
+   - **Firewall:** Gerencia regras de firewall.
+   - **Host:** Gerencia entradas no arquivo de hosts.
+   - **Interface:** Gerencia interfaces de rede.
+   - **Kmod:** Gerencia módulos do kernel.
+   - **Mailalias:** Gerencia aliases de email.
+   - **Mounttab:** Gerencia entradas no fstab.
+   - **Nagios_command:** Gerencia comandos do Nagios.
+   - **Nagios_contact:** Gerencia contatos do Nagios.
+   - **Nagios_host:** Gerencia hosts do Nagios.
+   - **Nagios_service:** Gerencia serviços do Nagios.
+   - **Ntp_auth:** Gerencia autenticação NTP.
+   - **Ntp_config:** Gerencia configuração NTP.
+   - **Ntp_peer:** Gerencia peers NTP.
+   - **Ntp_server:** Gerencia servidores NTP.
+   - **Postfix_main:** Gerencia configuração principal do Postfix.
+   - **Postfix_master:** Gerencia configuração master do Postfix.
+   - **Postfix_virtual:** Gerencia configuração virtual do Postfix.
+   - **Rsyslog:** Gerencia configuração do Rsyslog.
+   - **Ssh_authorized_key:** Gerencia chaves autorizadas SSH.
+   - **Ssh_config:** Gerencia configuração SSH.
+   - **Sshd_config:** Gerencia configuração do daemon SSH.
+   - **Sysctl:** Gerencia parâmetros do kernel.
+   - **Tidy:** Remove arquivos não desejados.
+   - **Vcsrepo:** Gerencia repositórios de controle de versão.
+   - **Yumrepo:** Gerencia repositórios Yum.
+
+**Características dos Tipos de Recursos:**
+
+1. **File:**
+   - Define atributos como conteúdo, permissões, proprietário e grupo.
+   - Pode criar, modificar ou excluir arquivos e diretórios.
+
+2. **Package:**
+   - Instala, atualiza ou remove pacotes de software.
+   - Suporta vários gerenciadores de pacotes como apt, yum, dnf, etc.
+
+3. **Service:**
+   - Inicia, para ou reinicia serviços do sistema.
+   - Garante que serviços estejam em um estado específico (ativo ou inativo).
+
+4. **User:**
+   - Cria, modifica ou remove contas de usuário.
+   - Define atributos como UID, GID, shell, home directory, etc.
+
+5. **Group:**
+   - Cria, modifica ou remove grupos de usuários.
+   - Define atributos como GID e membros do grupo.
+
+6. **Exec:**
+   - Executa comandos arbitrários no sistema.
+   - Pode ser usado para tarefas que não são cobertas por outros tipos de recursos.
+
+7. **Cron:**
+   - Gerencia tarefas agendadas no cron.
+   - Define atributos como comando, usuário, horário de
+

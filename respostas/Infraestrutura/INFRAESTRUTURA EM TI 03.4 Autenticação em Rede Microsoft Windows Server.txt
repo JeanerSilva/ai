@@ -1,0 +1,52 @@
+INFRAESTRUTURA EM TI:: 03.4 Autenticação em Rede Microsoft Windows Server
+ -
+### Origem
+A autenticação em rede no Microsoft Windows Server tem suas raízes na necessidade de garantir a segurança e a integridade dos sistemas de informação em ambientes corporativos. Desde as primeiras versões do Windows Server, a Microsoft tem desenvolvido e aprimorado mecanismos de autenticação para proteger o acesso a recursos de rede. Com o tempo, esses mecanismos evoluíram para incluir tecnologias avançadas e protocolos robustos, como o Kerberos e o NTLM (NT LAN Manager).
+
+### Conceitos
+A autenticação em rede no Microsoft Windows Server refere-se ao processo de verificar a identidade de um usuário ou dispositivo que tenta acessar recursos na rede. Este processo é crucial para garantir que apenas usuários autorizados possam acessar informações e serviços sensíveis. A autenticação pode ser baseada em diferentes métodos, incluindo senhas, certificados digitais, tokens de segurança e biometria.
+
+### Tipos e Classificações
+
+#### 1. **Autenticação NTLM (NT LAN Manager)**
+   - **NTLMv1**: Uma versão mais antiga e menos segura do protocolo NTLM. Utiliza um desafio-resposta simples e é vulnerável a vários tipos de ataques.
+   - **NTLMv2**: Uma versão aprimorada do NTLM que oferece maior segurança. Utiliza um desafio-resposta mais complexo e inclui medidas adicionais para proteger contra ataques de replay e outros tipos de ameaças.
+
+#### 2. **Autenticação Kerberos**
+   - **Kerberos V5**: Um protocolo de autenticação de rede que utiliza tickets para permitir que os nós de uma rede se autentiquem de maneira segura. É o método preferido em ambientes Windows Server devido à sua robustez e eficiência.
+   - **Ticket Granting Ticket (TGT)**: Um ticket especial que permite ao usuário obter outros tickets de serviço sem precisar se autenticar novamente.
+   - **Service Tickets**: Tickets específicos para acessar serviços individuais na rede.
+
+#### 3. **Autenticação baseada em Certificados**
+   - **Certificados Digitais**: Utilizam certificados X.509 emitidos por uma Autoridade Certificadora (CA) para autenticar usuários e dispositivos.
+   - **Smart Cards**: Dispositivos físicos que armazenam certificados digitais e são usados para autenticação multifatorial.
+
+#### 4. **Autenticação Multifatorial (MFA)**
+   - **Fatores de Conhecimento**: Algo que o usuário sabe (por exemplo, uma senha ou PIN).
+   - **Fatores de Posse**: Algo que o usuário possui (por exemplo, um token de segurança ou um dispositivo móvel).
+   - **Fatores de Inerência**: Algo que o usuário é (por exemplo, impressões digitais ou reconhecimento facial).
+
+#### 5. **Autenticação Federada**
+   - **Active Directory Federation Services (ADFS)**: Permite a autenticação de usuários em diferentes domínios e organizações, facilitando o Single Sign-On (SSO) entre sistemas heterogêneos.
+   - **OAuth/OpenID Connect**: Protocolos que permitem a autenticação e autorização entre diferentes serviços e plataformas.
+
+#### 6. **Autenticação via Protocolo LDAP (Lightweight Directory Access Protocol)**
+   - **LDAP Simple Bind**: Um método básico de autenticação que envia credenciais em texto claro (não recomendado para uso em redes inseguras).
+   - **LDAP SASL Bind**: Utiliza o Simple Authentication and Security Layer (SASL) para fornecer métodos de autenticação mais seguros, como Kerberos.
+
+#### 7. **Autenticação via RADIUS (Remote Authentication Dial-In User Service)**
+   - **RADIUS Server**: Um servidor que gerencia a autenticação, autorização e contabilidade de usuários que acessam a rede.
+   - **RADIUS Clients**: Dispositivos ou serviços que solicitam autenticação ao servidor RADIUS.
+
+### Características dos Tipos de Autenticação
+
+- **NTLM**: Simplicidade e compatibilidade com versões mais antigas do Windows, mas menos seguro comparado ao Kerberos.
+- **Kerberos**: Alta segurança, eficiência e suporte para Single Sign-On (SSO).
+- **Certificados Digitais**: Alta segurança, especialmente quando usados com smart cards, mas requer infraestrutura de PKI (Public Key Infrastructure).
+- **MFA**: Aumenta significativamente a segurança ao combinar múltiplos fatores de autenticação.
+- **Autenticação Federada**: Facilita a integração e a colaboração entre diferentes domínios e organizações.
+- **LDAP**: Flexibilidade e compatibilidade com diversos sistemas de diretório, mas a segurança depende do método de bind utilizado.
+- **RADIUS**: Centralização da autenticação e suporte para diversos tipos de dispositivos e serviços de rede.
+
+Cada um desses tipos de autenticação tem suas próprias vantagens e desvantagens, e a escolha do método apropriado depende das necessidades específicas de segurança e infraestrutura da organização.
+

@@ -1,0 +1,65 @@
+SEGURANÇA DA INFORMAÇÃO:: 01.2 Security Assertion Markup Language (SAML), 
+ -
+### Security Assertion Markup Language (SAML)
+
+#### Origem
+O Security Assertion Markup Language (SAML) é um padrão aberto desenvolvido pelo OASIS (Organization for the Advancement of Structured Information Standards). A primeira versão foi lançada em 2002, com a versão 2.0 sendo lançada em 2005. SAML foi criado para facilitar a troca de informações de autenticação e autorização entre diferentes sistemas de segurança, permitindo Single Sign-On (SSO) e outras funcionalidades de segurança.
+
+#### Conceitos
+SAML é um framework baseado em XML que permite a troca de informações de autenticação e autorização entre diferentes partes, geralmente referidas como Provedor de Identidade (IdP) e Provedor de Serviço (SP). Os principais conceitos incluem:
+
+- **Provedor de Identidade (IdP)**: A entidade que autentica o usuário e emite as asserções SAML.
+- **Provedor de Serviço (SP)**: A entidade que consome as asserções SAML para fornecer acesso a um recurso ou serviço.
+- **Asserção SAML**: Um documento XML que contém informações de autenticação, autorização e atributos do usuário.
+- **Protocolo SAML**: Define como as asserções SAML são solicitadas e recebidas.
+- **Bindings SAML**: Especifica como os protocolos SAML são mapeados para protocolos de transporte, como HTTP.
+- **Perfis SAML**: Define como SAML é aplicado em casos de uso específicos, como SSO.
+
+#### Tipos e Classificações
+
+##### 1. **Asserções SAML**
+As asserções SAML são declarações feitas por um IdP sobre um sujeito (usuário). Existem três tipos principais de asserções:
+
+- **Asserção de Autenticação**: Declara que o sujeito foi autenticado por um IdP em um momento específico usando um método específico.
+- **Asserção de Atributo**: Contém informações adicionais sobre o sujeito, como nome, email, e outros atributos.
+- **Asserção de Autorização (ou Declaração de Decisão de Autorização)**: Declara que o sujeito tem permissão para acessar um recurso específico.
+
+##### 2. **Protocolos SAML**
+Os protocolos SAML definem como as asserções são solicitadas e transmitidas. Os principais protocolos incluem:
+
+- **Protocolo de Solicitação de Autenticação**: Usado por um SP para solicitar uma asserção de autenticação de um IdP.
+- **Protocolo de Consulta de Atributo**: Usado para solicitar asserções de atributo.
+- **Protocolo de Consulta de Autorização**: Usado para solicitar asserções de autorização.
+
+##### 3. **Bindings SAML**
+Bindings especificam como os protocolos SAML são mapeados para protocolos de transporte. Os principais bindings incluem:
+
+- **HTTP Redirect Binding**: Usado para redirecionar o navegador do usuário para o IdP ou SP com uma mensagem SAML codificada na URL.
+- **HTTP POST Binding**: Usado para enviar mensagens SAML através de um formulário HTTP POST.
+- **HTTP Artifact Binding**: Usa um identificador de artefato para recuperar uma mensagem SAML através de uma solicitação HTTP.
+- **SOAP Binding**: Usa o protocolo SOAP para transmitir mensagens SAML.
+
+##### 4. **Perfis SAML**
+Perfis SAML definem como SAML é aplicado em casos de uso específicos. Os principais perfis incluem:
+
+- **Web Browser SSO Profile**: Define como SAML é usado para fornecer SSO para aplicativos web.
+- **Enhanced Client or Proxy (ECP) Profile**: Permite que clientes ou proxies interajam diretamente com IdPs e SPs.
+- **Single Logout Profile**: Define como um usuário pode ser desconectado de todos os SPs em uma sessão SSO.
+- **Artifact Resolution Profile**: Define como artefatos SAML são resolvidos em asserções completas.
+
+### Características dos Tipos
+
+#### Asserções SAML
+- **Autenticação**: Inclui informações como o método de autenticação e o momento da autenticação.
+- **Atributo**: Contém pares de nome-valor que descrevem o sujeito.
+- **Autorização**: Especifica permissões e acessos concedidos ao sujeito.
+
+#### Protocolos SAML
+- **Solicitação de Autenticação**: Inicia o processo de autenticação.
+- **Consulta de Atributo**: Permite a recuperação de atributos adicionais.
+- **Consulta de Autorização**: Verifica permissões de acesso.
+
+#### Bindings SAML
+- **HTTP Redirect**: Simples e amplamente suportado, mas limitado pelo tamanho da URL.
+- **HTTP POST**: Suporta mensagens maiores e é seguro, pois os dados são transmitidos no corpo da
+

@@ -1,0 +1,59 @@
+BANCOS DE DADOS:: 04.1 DataWarehouse.
+ -
+### Origem do Data Warehouse
+
+O conceito de Data Warehouse (DW) surgiu na década de 1980, com o objetivo de resolver problemas relacionados à integração e análise de grandes volumes de dados provenientes de diferentes fontes. Bill Inmon é frequentemente citado como o "pai do Data Warehouse", tendo popularizado o termo e estabelecido muitos dos princípios fundamentais que ainda são seguidos hoje.
+
+### Conceitos de Data Warehouse
+
+Um Data Warehouse é um sistema de armazenamento de dados projetado para facilitar a análise e o relatório de dados. Ele integra dados de múltiplas fontes heterogêneas, transformando-os em um formato consistente e acessível para análise. Os principais conceitos incluem:
+
+1. **Integração**: Dados de diferentes fontes são combinados em um formato unificado.
+2. **Histórico**: Armazena dados históricos para análise de tendências ao longo do tempo.
+3. **Não-volatilidade**: Dados no DW não são alterados ou removidos, apenas adicionados.
+4. **Orientação por assunto**: Dados são organizados por temas ou áreas de interesse, como vendas, finanças, etc.
+
+### Tipos e Classificações de Data Warehouse
+
+Os Data Warehouses podem ser classificados de várias maneiras, dependendo de sua arquitetura, escopo e uso. Abaixo estão os principais tipos e suas características:
+
+#### 1. **Enterprise Data Warehouse (EDW)**
+
+- **Descrição**: Um EDW é um repositório centralizado que consolida dados de toda a organização.
+- **Características**:
+  - **Escalabilidade**: Capaz de lidar com grandes volumes de dados.
+  - **Integração**: Integra dados de todas as áreas da empresa.
+  - **Consistência**: Garante a consistência dos dados em toda a organização.
+  - **Flexibilidade**: Suporta uma ampla gama de consultas e análises.
+
+#### 2. **Data Mart**
+
+- **Descrição**: Um Data Mart é uma versão menor e mais focada de um Data Warehouse, geralmente voltada para um departamento ou área específica da organização.
+- **Características**:
+  - **Escopo limitado**: Focado em um único departamento ou área de negócio.
+  - **Implementação rápida**: Pode ser implementado mais rapidamente do que um EDW.
+  - **Menor custo**: Geralmente menos caro de implementar e manter.
+  - **Facilidade de uso**: Mais fácil de usar e gerenciar devido ao seu escopo limitado.
+
+#### 3. **Operational Data Store (ODS)**
+
+- **Descrição**: Um ODS é um tipo de Data Warehouse que é atualizado em tempo real e é usado para operações diárias.
+- **Características**:
+  - **Atualização em tempo real**: Dados são atualizados continuamente.
+  - **Suporte a operações**: Usado para operações diárias e não apenas para análise histórica.
+  - **Integração de dados operacionais**: Combina dados de sistemas operacionais diferentes.
+  - **Menor histórico**: Geralmente mantém dados por um período mais curto em comparação com um EDW.
+
+#### 4. **Virtual Data Warehouse**
+
+- **Descrição**: Um Virtual Data Warehouse não armazena dados fisicamente, mas fornece uma visão unificada dos dados armazenados em diferentes sistemas.
+- **Características**:
+  - **Sem armazenamento físico**: Não armazena dados em um único local.
+  - **Acesso em tempo real**: Fornece acesso em tempo real aos dados.
+  - **Flexibilidade**: Pode ser rapidamente ajustado para incluir novas fontes de dados.
+  - **Menor custo inicial**: Menor custo inicial de implementação, pois não requer infraestrutura de armazenamento.
+
+### Conclusão
+
+Os Data Warehouses são fundamentais para a análise de dados e a tomada de decisões informadas em organizações modernas. Eles podem variar em escopo e complexidade, desde grandes Enterprise Data Warehouses que abrangem toda a organização até Data Marts focados em departamentos específicos. A escolha do tipo de Data Warehouse depende das necessidades específicas da organização, incluindo o volume de dados, a necessidade de integração e a velocidade de acesso aos dados.
+

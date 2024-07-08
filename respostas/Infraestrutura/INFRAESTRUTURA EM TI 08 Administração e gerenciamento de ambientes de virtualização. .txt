@@ -1,0 +1,63 @@
+INFRAESTRUTURA EM TI:: 08 Administração e gerenciamento de ambientes de virtualização. 
+ -
+### Administração e Gerenciamento de Ambientes de Virtualização
+
+#### Origem
+A virtualização surgiu como uma solução para otimizar o uso de recursos de hardware, permitindo que múltiplos sistemas operacionais e aplicações rodassem em um único servidor físico. A tecnologia ganhou popularidade com o avanço dos processadores e a necessidade crescente de eficiência e flexibilidade na gestão de recursos de TI.
+
+#### Conceitos
+1. **Virtualização**: Técnica que permite a criação de uma versão virtual de recursos de hardware, como servidores, armazenamento e redes.
+2. **Hypervisor**: Software que cria e gerencia máquinas virtuais (VMs). Pode ser do tipo 1 (bare-metal) ou tipo 2 (hosted).
+3. **Máquina Virtual (VM)**: Instância de um sistema operacional que roda em um ambiente virtualizado.
+4. **Containerização**: Técnica de virtualização a nível de sistema operacional que permite a execução de aplicações isoladas em containers.
+5. **Orquestração**: Automação da gestão, escalabilidade e operação de containers e VMs.
+
+#### Tipos e Classificações
+
+1. **Tipos de Virtualização**
+   - **Virtualização de Servidores**
+     - **Hypervisor Tipo 1 (Bare-Metal)**: Corre diretamente no hardware físico. Ex.: VMware ESXi, Microsoft Hyper-V.
+     - **Hypervisor Tipo 2 (Hosted)**: Corre sobre um sistema operacional host. Ex.: VMware Workstation, Oracle VirtualBox.
+   - **Virtualização de Desktop**
+     - **VDI (Virtual Desktop Infrastructure)**: Desktops virtuais são hospedados em servidores centralizados. Ex.: VMware Horizon, Citrix XenDesktop.
+     - **DaaS (Desktop as a Service)**: Desktops virtuais fornecidos como serviço na nuvem. Ex.: Amazon WorkSpaces, Microsoft Windows Virtual Desktop.
+   - **Virtualização de Aplicações**
+     - **ThinApp**: Empacotamento de aplicações para rodar em qualquer ambiente sem instalação. Ex.: VMware ThinApp.
+     - **App-V**: Virtualização de aplicações da Microsoft.
+   - **Virtualização de Rede**
+     - **SDN (Software-Defined Networking)**: Controle centralizado da rede através de software. Ex.: OpenFlow, Cisco ACI.
+     - **NFV (Network Functions Virtualization)**: Virtualização de funções de rede como firewalls e roteadores. Ex.: VMware NSX, OpenStack Neutron.
+   - **Virtualização de Armazenamento**
+     - **SAN (Storage Area Network)**: Rede dedicada para armazenamento. Ex.: Dell EMC, NetApp.
+     - **NAS (Network Attached Storage)**: Dispositivos de armazenamento conectados à rede. Ex.: Synology, QNAP.
+     - **SDS (Software-Defined Storage)**: Abstração do hardware de armazenamento através de software. Ex.: VMware vSAN, Ceph.
+
+2. **Classificações de Virtualização**
+   - **Full Virtualization**: Emulação completa do hardware, permitindo que o sistema operacional guest não precise de modificações. Ex.: VMware ESXi, Microsoft Hyper-V.
+   - **Paravirtualization**: O sistema operacional guest é modificado para interagir diretamente com o hypervisor, melhorando a performance. Ex.: Xen.
+   - **Hardware-Assisted Virtualization**: Utiliza extensões de virtualização do processador para melhorar a performance. Ex.: Intel VT-x, AMD-V.
+   - **Container-Based Virtualization**: Isolamento a nível de sistema operacional, permitindo múltiplos containers rodarem no mesmo kernel. Ex.: Docker, Kubernetes.
+
+#### Características dos Tipos de Virtualização
+
+1. **Virtualização de Servidores**
+   - **Hypervisor Tipo 1**: Alta performance, segurança e eficiência. Ideal para data centers.
+   - **Hypervisor Tipo 2**: Facilidade de uso e configuração. Ideal para desenvolvimento e testes.
+
+2. **Virtualização de Desktop**
+   - **VDI**: Centralização e gerenciamento simplificado de desktops. Alta segurança e controle.
+   - **DaaS**: Flexibilidade e escalabilidade. Redução de custos com infraestrutura.
+
+3. **Virtualização de Aplicações**
+   - **ThinApp**: Portabilidade e isolamento de aplicações. Redução de conflitos de software.
+   - **App-V**: Simplificação da distribuição e atualização de aplicações.
+
+4. **Virtualização de Rede**
+   - **SDN**: Flexibilidade e automação da rede. Melhor gerenciamento e segurança.
+   - **NFV**: Redução de custos com hardware. Escalabilidade e flexibilidade.
+
+5. **Virtualização de Armazenamento**
+   - **SAN**: Alta performance e disponibilidade. Ideal para grandes volumes de dados.
+   - **NAS**: Facilidade de acesso e gerenciamento. Ideal para pequenas e médias empresas.
+   - **SDS**: Flexibilidade e escalabilidade. Red
+

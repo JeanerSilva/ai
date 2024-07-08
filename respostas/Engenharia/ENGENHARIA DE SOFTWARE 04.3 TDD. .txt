@@ -1,0 +1,86 @@
+ENGENHARIA DE SOFTWARE:: 04.3 TDD. 
+ -
+### Origem do TDD (Test-Driven Development)
+
+O Test-Driven Development (TDD) é uma prática de desenvolvimento de software que surgiu no contexto das metodologias ágeis, particularmente no Extreme Programming (XP), uma metodologia criada por Kent Beck no final dos anos 1990. A ideia central do TDD é escrever testes automatizados antes de escrever o código funcional, garantindo que o software atenda aos requisitos especificados desde o início.
+
+### Conceitos do TDD
+
+1. **Red-Green-Refactor**: Este é o ciclo básico do TDD.
+   - **Red**: Escrever um teste que falha (porque a funcionalidade ainda não foi implementada).
+   - **Green**: Escrever o código mínimo necessário para fazer o teste passar.
+   - **Refactor**: Melhorar o código, mantendo todos os testes passando.
+
+2. **Testes Automatizados**: No TDD, os testes são automatizados para garantir que possam ser executados rapidamente e frequentemente.
+
+3. **Pequenos Incrementos**: O desenvolvimento é feito em pequenos passos, com cada iteração focando em uma pequena parte da funcionalidade.
+
+4. **Feedback Rápido**: O TDD proporciona feedback imediato sobre a correção do código, ajudando a identificar e corrigir erros rapidamente.
+
+### Tipos e Classificações de Testes no TDD
+
+Os testes no TDD podem ser classificados em várias categorias, cada uma com suas próprias características e propósitos. Aqui estão os principais tipos:
+
+1. **Testes de Unidade (Unit Tests)**
+   - **Descrição**: Testam unidades individuais de código, como funções ou métodos, isoladamente.
+   - **Características**:
+     - Focados em uma única funcionalidade.
+     - Executados rapidamente.
+     - Isolam dependências usando mocks ou stubs.
+
+2. **Testes de Integração (Integration Tests)**
+   - **Descrição**: Testam a interação entre diferentes módulos ou componentes do sistema.
+   - **Características**:
+     - Verificam se os módulos funcionam juntos corretamente.
+     - Podem envolver bancos de dados, serviços externos, etc.
+     - Mais lentos que os testes de unidade.
+
+3. **Testes de Sistema (System Tests)**
+   - **Descrição**: Testam o sistema como um todo, verificando se ele atende aos requisitos especificados.
+   - **Características**:
+     - Cobrem fluxos de trabalho completos.
+     - Podem envolver múltiplos componentes e sistemas externos.
+     - Mais complexos e demorados.
+
+4. **Testes de Aceitação (Acceptance Tests)**
+   - **Descrição**: Validam se o sistema atende aos critérios de aceitação definidos pelo cliente ou usuário final.
+   - **Características**:
+     - Focados nos requisitos do usuário.
+     - Podem ser escritos em linguagem natural ou em frameworks específicos como Cucumber.
+     - Executados menos frequentemente, mas são críticos para a validação final.
+
+5. **Testes de Regressão (Regression Tests)**
+   - **Descrição**: Garantem que novas mudanças no código não introduzam erros em funcionalidades existentes.
+   - **Características**:
+     - Reexecutam testes existentes após modificações no código.
+     - Cruciais para manter a estabilidade do sistema ao longo do tempo.
+
+6. **Testes de Performance (Performance Tests)**
+   - **Descrição**: Avaliam o desempenho do sistema sob diferentes condições de carga.
+   - **Características**:
+     - Medem tempos de resposta, throughput, uso de recursos, etc.
+     - Podem incluir testes de carga, estresse e escalabilidade.
+     - Importantes para garantir que o sistema atenda aos requisitos de desempenho.
+
+### Detalhamento dos Tipos de Testes
+
+#### Testes de Unidade
+- **Objetivo**: Garantir que cada unidade de código funcione corretamente isoladamente.
+- **Ferramentas Comuns**: JUnit (Java), NUnit (.NET), pytest (Python).
+- **Exemplo**: Testar uma função de cálculo de imposto para diferentes valores de entrada.
+
+#### Testes de Integração
+- **Objetivo**: Verificar a interação entre diferentes módulos ou serviços.
+- **Ferramentas Comuns**: TestContainers, Spring Test (Java), pytest-django (Python).
+- **Exemplo**: Testar a integração entre um serviço de autenticação e um banco de dados.
+
+#### Testes de Sistema
+- **Objetivo**: Validar o comportamento do sistema completo.
+- **Ferramentas Comuns**: Selenium (para testes de interface), Postman (para APIs).
+- **Exemplo**: Testar um fluxo de compra completo em um e-commerce.
+
+#### Testes de Aceitação
+- **Objetivo**: Validar que o sistema atende aos requisitos do usuário final.
+- **Ferramentas Comuns**: Cucumber, FitNesse.
+- **Exemplo**: Testar
+

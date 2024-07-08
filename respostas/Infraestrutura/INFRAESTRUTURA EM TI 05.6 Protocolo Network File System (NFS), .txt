@@ -1,0 +1,71 @@
+INFRAESTRUTURA EM TI:: 05.6 Protocolo Network File System (NFS), 
+ -
+### Resumo sobre o Protocolo Network File System (NFS)
+
+#### Origem
+O Network File System (NFS) foi desenvolvido pela Sun Microsystems em 1984. Ele foi criado para permitir que sistemas de arquivos sejam compartilhados entre diferentes computadores em uma rede, facilitando o acesso remoto a arquivos como se estivessem em um sistema local.
+
+#### Conceitos
+NFS é um protocolo de sistema de arquivos distribuído que permite que um usuário em um computador cliente acesse arquivos através de uma rede da mesma forma que acessaria arquivos em um armazenamento local. Ele utiliza o protocolo RPC (Remote Procedure Call) para permitir que os clientes executem operações de sistema de arquivos em servidores remotos.
+
+#### Tipos e Classificações
+
+##### 1. **Versões do NFS**
+   - **NFSv2**: A versão original, lançada em 1984, que suporta operações básicas de leitura e escrita.
+   - **NFSv3**: Introduzido em 1995, adiciona suporte para arquivos maiores, melhor desempenho e operações assíncronas.
+   - **NFSv4**: Lançado em 2000, inclui melhorias significativas em segurança, desempenho e funcionalidade, como suporte para ACLs (Access Control Lists) e operações de estado.
+
+##### 2. **Modos de Montagem**
+   - **Hard Mount**: O cliente continua tentando acessar o servidor indefinidamente até que a operação seja bem-sucedida. É mais adequado para ambientes onde a consistência dos dados é crítica.
+   - **Soft Mount**: O cliente tenta acessar o servidor por um tempo limitado e, se não conseguir, retorna um erro. É útil para aplicações onde a disponibilidade é mais importante que a consistência.
+
+##### 3. **Métodos de Autenticação**
+   - **AUTH_SYS**: O método de autenticação padrão, que utiliza IDs de usuário e grupo.
+   - **AUTH_DH**: Utiliza Diffie-Hellman para autenticação mais segura.
+   - **Kerberos**: Protocolo de autenticação robusto que oferece segurança adicional.
+
+##### 4. **Tipos de Exportação**
+   - **Exportação de Diretórios**: Permite que diretórios específicos sejam compartilhados com clientes.
+   - **Exportação de Subárvores**: Permite que subárvores de um sistema de arquivos sejam exportadas, oferecendo maior flexibilidade.
+
+##### 5. **Métodos de Cache**
+   - **Cache de Cliente**: Armazena dados localmente no cliente para reduzir a latência.
+   - **Cache de Servidor**: Armazena dados no servidor para melhorar o desempenho de leitura e escrita.
+
+##### 6. **Modos de Sincronização**
+   - **Síncrono**: As operações de escrita são confirmadas apenas quando os dados são realmente escritos no disco.
+   - **Assíncrono**: As operações de escrita são confirmadas imediatamente, mesmo que os dados ainda não tenham sido escritos no disco.
+
+##### 7. **Tipos de Implementação**
+   - **Kernel-based NFS**: Implementado no kernel do sistema operacional, oferecendo melhor desempenho.
+   - **User-space NFS**: Implementado no espaço do usuário, oferecendo maior flexibilidade e facilidade de manutenção.
+
+##### 8. **Métodos de Segurança**
+   - **Firewalls**: Configuração de firewalls para permitir apenas o tráfego NFS necessário.
+   - **Exportação Restrita**: Limitação de quais clientes podem acessar os sistemas de arquivos exportados.
+   - **Encriptação**: Uso de encriptação para proteger os dados em trânsito.
+
+### Características dos Tipos
+
+#### Versões do NFS
+- **NFSv2**: Suporta operações básicas, limitado a arquivos de até 2GB.
+- **NFSv3**: Suporta arquivos maiores, operações assíncronas, e melhor desempenho.
+- **NFSv4**: Inclui segurança melhorada, suporte para ACLs, e operações de estado.
+
+#### Modos de Montagem
+- **Hard Mount**: Ideal para ambientes críticos, onde a consistência dos dados é essencial.
+- **Soft Mount**: Adequado para aplicações onde a disponibilidade é mais importante que a consistência.
+
+#### Métodos de Autenticação
+- **AUTH_SYS**: Simples, mas menos seguro.
+- **AUTH_DH**: Mais seguro que AUTH_SYS.
+- **Kerberos**: Oferece a maior segurança, mas é mais complexo de configurar.
+
+#### Tipos de Exportação
+- **Exportação de Diretórios**: Compartilha diretórios específicos.
+- **Exportação de Subárvores**: Oferece maior flexibilidade ao compartilhar partes específicas de um sistema de arquivos.
+
+#### Métodos de Cache
+- **Cache de Cliente**: Reduz a latência ao armazenar dados localmente.
+- **Cache de Servidor**: Melhora
+

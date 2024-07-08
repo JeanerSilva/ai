@@ -1,0 +1,63 @@
+SEGURANÇA DA INFORMAÇÃO:: 08 Tratamento de Incidentes Cibernéticos. 
+ -
+### Tratamento de Incidentes Cibernéticos
+
+#### Origem
+O tratamento de incidentes cibernéticos surgiu da necessidade de proteger sistemas de informação contra ameaças e vulnerabilidades que podem comprometer a integridade, confidencialidade e disponibilidade dos dados. Com o aumento da dependência tecnológica e a crescente sofisticação dos ataques cibernéticos, tornou-se essencial desenvolver métodos e práticas para identificar, responder e mitigar esses incidentes.
+
+#### Conceitos
+1. **Incidente Cibernético**: Qualquer evento que possa comprometer a segurança da informação, incluindo ataques maliciosos, falhas de sistema, ou erros humanos.
+2. **Resposta a Incidentes**: Conjunto de procedimentos e ações tomadas para lidar com um incidente cibernético, minimizando seu impacto e restaurando a normalidade.
+3. **Mitigação**: Ações tomadas para reduzir a severidade ou impacto de um incidente.
+4. **Recuperação**: Processos para restaurar sistemas e dados após um incidente.
+5. **Análise Pós-Incidente**: Avaliação detalhada do incidente para entender suas causas e prevenir futuras ocorrências.
+
+#### Tipos e Classificações de Tratamento de Incidentes Cibernéticos
+
+1. **Detecção de Incidentes**
+   - **Monitoramento Contínuo**: Uso de ferramentas e técnicas para monitorar sistemas em tempo real.
+   - **Análise de Logs**: Revisão de registros de atividades para identificar comportamentos anômalos.
+   - **Sistemas de Detecção de Intrusão (IDS)**: Ferramentas que detectam atividades suspeitas ou maliciosas.
+
+2. **Resposta a Incidentes**
+   - **Isolamento**: Segregação de sistemas afetados para evitar a propagação do incidente.
+   - **Erradicação**: Remoção de componentes maliciosos ou comprometidos.
+   - **Comunicação**: Notificação de partes interessadas e coordenação de ações.
+
+3. **Mitigação de Incidentes**
+   - **Aplicação de Patches**: Atualização de software para corrigir vulnerabilidades.
+   - **Configuração Segura**: Ajuste de configurações para aumentar a segurança.
+   - **Implementação de Controles Adicionais**: Adoção de medidas adicionais de segurança, como firewalls e antivírus.
+
+4. **Recuperação de Incidentes**
+   - **Restaurar de Backups**: Uso de cópias de segurança para restaurar dados e sistemas.
+   - **Reinstalação de Sistemas**: Reconfiguração ou reinstalação de sistemas comprometidos.
+   - **Testes de Validação**: Verificação de que os sistemas restaurados estão funcionando corretamente.
+
+5. **Análise Pós-Incidente**
+   - **Revisão de Incidente**: Análise detalhada do que ocorreu, como e por quê.
+   - **Relatórios de Incidente**: Documentação formal dos achados e ações tomadas.
+   - **Lições Aprendidas**: Identificação de melhorias para prevenir futuros incidentes.
+
+6. **Prevenção de Incidentes**
+   - **Treinamento e Conscientização**: Educação dos usuários sobre práticas seguras.
+   - **Auditorias de Segurança**: Revisões periódicas para identificar e corrigir vulnerabilidades.
+   - **Políticas e Procedimentos**: Desenvolvimento de diretrizes claras para a segurança da informação.
+
+7. **Coordenação e Comunicação**
+   - **Equipes de Resposta a Incidentes (CSIRT)**: Grupos especializados em lidar com incidentes.
+   - **Parcerias e Colaborações**: Cooperação com outras organizações e entidades para compartilhar informações e recursos.
+   - **Comunicação com Stakeholders**: Manter todas as partes interessadas informadas sobre o progresso e impacto do incidente.
+
+8. **Compliance e Regulamentação**
+   - **Adesão a Normas e Padrões**: Conformidade com normas como ISO/IEC 27001, NIST, GDPR, etc.
+   - **Relatórios Regulatórios**: Submissão de relatórios conforme exigido por leis e regulamentos.
+   - **Auditorias de Conformidade**: Verificações para garantir que as práticas de segurança estão em conformidade com as exigências legais e normativas.
+
+### Detalhamento dos Tipos e Suas Características
+
+1. **Detecção de Incidentes**
+   - **Monitoramento Contínuo**: Envolve o uso de ferramentas automatizadas que monitoram o tráfego de rede, atividades de sistema e comportamento dos usuários em tempo real para identificar atividades suspeitas.
+   - **Análise de Logs**: Consiste na revisão sistemática dos registros de atividades dos sistemas para detectar padrões anômalos ou indicadores de comprometimento.
+   - **Sistemas de Detecção de Intrusão (IDS)**: Ferramentas que analisam o tráfego de
+

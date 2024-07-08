@@ -1,0 +1,66 @@
+INFRAESTRUTURA EM TI:: 04.6 Kibana
+ -
+### Origem do Kibana
+
+Kibana é uma ferramenta de visualização de dados e análise que faz parte do Elastic Stack (anteriormente conhecido como ELK Stack), que também inclui Elasticsearch, Logstash e Beats. Foi desenvolvido pela Elastic NV, uma empresa fundada em 2012 por Shay Banon. Kibana foi criado para fornecer uma interface amigável para visualizar e explorar dados armazenados no Elasticsearch.
+
+### Conceitos do Kibana
+
+1. **Visualização de Dados**: Kibana permite criar gráficos, tabelas e mapas interativos para visualizar dados armazenados no Elasticsearch.
+2. **Painéis de Controle (Dashboards)**: Usuários podem criar painéis personalizados que combinam várias visualizações para monitorar e analisar dados em tempo real.
+3. **Exploração de Dados**: Ferramentas como o Discover permitem explorar dados brutos e realizar buscas avançadas.
+4. **Alertas e Monitoramento**: Kibana pode ser configurado para enviar alertas baseados em condições específicas dos dados.
+5. **Machine Learning**: Integração com recursos de machine learning para detectar anomalias e padrões nos dados.
+6. **Segurança e Gestão de Acessos**: Controle de acesso baseado em funções para proteger dados sensíveis.
+
+### Tipos e Classificações de Visualizações no Kibana
+
+Kibana oferece uma variedade de tipos de visualizações que podem ser usadas para analisar e interpretar dados. Abaixo estão os principais tipos de visualizações disponíveis no Kibana, juntamente com suas características:
+
+1. **Gráficos de Barras (Bar Charts)**
+   - **Vertical Bar Chart**: Gráfico de barras verticais que pode ser usado para comparar diferentes categorias ou intervalos de tempo.
+   - **Horizontal Bar Chart**: Gráfico de barras horizontais, útil para comparações de categorias com nomes longos.
+
+2. **Gráficos de Linhas (Line Charts)**
+   - **Single Line Chart**: Gráfico de linha simples para mostrar tendências ao longo do tempo.
+   - **Multi-Line Chart**: Gráfico com múltiplas linhas para comparar várias séries de dados.
+
+3. **Gráficos de Pizza (Pie Charts)**
+   - **Simple Pie Chart**: Gráfico de pizza para mostrar proporções de um todo.
+   - **Donut Chart**: Variante do gráfico de pizza com um buraco no meio, útil para destacar a proporção de diferentes categorias.
+
+4. **Gráficos de Área (Area Charts)**
+   - **Stacked Area Chart**: Gráfico de área empilhada para mostrar a contribuição de cada categoria ao longo do tempo.
+   - **Percentage Area Chart**: Gráfico de área que mostra a porcentagem de cada categoria em relação ao total.
+
+5. **Mapas (Maps)**
+   - **Coordinate Map**: Mapa que usa coordenadas geográficas para plotar pontos de dados.
+   - **Region Map**: Mapa que colore regiões com base em valores de dados.
+
+6. **Tabelas (Data Tables)**
+   - **Simple Data Table**: Tabela simples para listar dados em formato tabular.
+   - **Enhanced Data Table**: Tabela com funcionalidades adicionais como ordenação e paginação.
+
+7. **Gráficos de Dispersão (Scatter Plots)**
+   - **Simple Scatter Plot**: Gráfico de dispersão para mostrar a relação entre duas variáveis.
+   - **Bubble Chart**: Variante do gráfico de dispersão onde o tamanho dos pontos representa uma terceira variável.
+
+8. **Gráficos de Medidores (Gauge Charts)**
+   - **Simple Gauge**: Medidor simples para mostrar um valor em relação a um intervalo.
+   - **Goal Gauge**: Medidor que mostra o progresso em direção a um objetivo.
+
+9. **Gráficos de Controle (Control Charts)**
+   - **Range Slider**: Controle deslizante para filtrar dados com base em um intervalo.
+   - **Options List**: Lista de opções para filtrar dados com base em categorias.
+
+10. **Gráficos de Calor (Heat Maps)**
+    - **Simple Heat Map**: Mapa de calor para mostrar a densidade de pontos de dados em uma área.
+    - **Calendar Heat Map**: Mapa de calor que mostra a densidade de eventos ao longo de um calendário.
+
+### Características dos Tipos de Visualizações
+
+- **Interatividade**: A maioria das visualizações no Kibana é interativa, permitindo que os usuários cliquem e filtrem dados diretamente nos gráficos.
+- **Customização**: As visualizações podem ser altamente personalizadas em termos de cores, rótulos, eixos e outros parâmetros.
+- **Integração**: Visualizações podem ser combinadas em painéis de controle para fornecer uma visão abrangente dos dados.
+- **Escalabilidade**: Kibana é capaz de lidar com grandes volumes de dados, tornando-o adequado para ambientes de big data
+

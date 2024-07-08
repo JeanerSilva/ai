@@ -1,0 +1,51 @@
+INFRAESTRUTURA EM TI:: 03.2 DHCP em Rede Microsoft Windows Server
+ -
+### Resumo sobre DHCP em Rede Microsoft Windows Server
+
+#### Origem
+O DHCP (Dynamic Host Configuration Protocol) é um protocolo de rede utilizado para fornecer automaticamente endereços IP e outras configurações de rede a dispositivos em uma rede. Ele foi desenvolvido como uma extensão do protocolo BOOTP (Bootstrap Protocol) e padronizado pelo IETF (Internet Engineering Task Force) em 1993. No contexto de redes Microsoft Windows Server, o DHCP é uma funcionalidade essencial para a administração eficiente de endereços IP e outros parâmetros de configuração de rede.
+
+#### Conceitos
+- **DHCP Server**: Um servidor que gerencia e distribui endereços IP e outras configurações de rede para dispositivos clientes.
+- **DHCP Client**: Um dispositivo que solicita e recebe configurações de rede de um servidor DHCP.
+- **Lease**: Um período de tempo durante o qual um endereço IP é atribuído a um cliente.
+- **Scope**: Um conjunto de endereços IP que o servidor DHCP pode distribuir.
+- **Reservation**: Uma configuração que garante que um dispositivo específico sempre receba o mesmo endereço IP.
+- **Options**: Configurações adicionais que podem ser fornecidas pelo servidor DHCP, como gateway padrão, servidores DNS, etc.
+
+#### Tipos e Classificações
+
+1. **Tipos de Escopos (Scopes)**
+   - **Escopo Normal**: Um conjunto de endereços IP que o servidor DHCP pode distribuir dentro de uma sub-rede específica.
+   - **Superescopo (Superscope)**: Uma coleção de escopos que podem ser usados para suportar várias sub-redes lógicas em uma única rede física.
+   - **Escopo Multicast**: Utilizado para atribuir endereços IP multicast a clientes, permitindo a comunicação de um para muitos.
+
+2. **Tipos de Leases**
+   - **Lease Dinâmico**: O servidor DHCP atribui um endereço IP ao cliente por um período de tempo específico. Após o término do lease, o endereço IP pode ser reutilizado.
+   - **Lease Estático**: Um endereço IP é permanentemente atribuído a um cliente específico, geralmente baseado no endereço MAC do dispositivo.
+
+3. **Tipos de Opções DHCP**
+   - **Opções Padrão**: Configurações básicas como gateway padrão, servidores DNS, e nome de domínio.
+   - **Opções Avançadas**: Configurações adicionais como servidores WINS, tempo de lease, e opções específicas de fornecedor.
+
+4. **Tipos de Reservas**
+   - **Reserva por MAC Address**: Garante que um dispositivo com um endereço MAC específico sempre receba o mesmo endereço IP.
+   - **Reserva por Cliente ID**: Utiliza um identificador de cliente específico para garantir a atribuição do mesmo endereço IP.
+
+5. **Tipos de Autorização DHCP**
+   - **Autorização no Active Directory**: Em ambientes Windows Server, o servidor DHCP deve ser autorizado no Active Directory para evitar conflitos de IP e garantir a segurança.
+   - **Autorização Manual**: Em redes menores ou sem Active Directory, a autorização pode ser feita manualmente para garantir que apenas servidores DHCP autorizados distribuam endereços IP.
+
+#### Características dos Tipos
+
+- **Escopo Normal**: Facilita a administração de endereços IP dentro de uma sub-rede específica, permitindo a configuração de parâmetros como tempo de lease e opções DHCP.
+- **Superescopo**: Permite a administração de múltiplas sub-redes lógicas, útil em cenários onde várias sub-redes coexistem na mesma rede física.
+- **Escopo Multicast**: Suporta aplicações que requerem comunicação multicast, como streaming de vídeo e conferências.
+- **Lease Dinâmico**: Flexível e eficiente para redes com dispositivos móveis ou temporários, reduzindo a necessidade de administração manual.
+- **Lease Estático**: Ideal para dispositivos que requerem um endereço IP fixo, como servidores e impressoras.
+- **Opções Padrão e Avançadas**: Permitem a configuração detalhada de parâmetros de rede, melhorando a gestão e a performance da rede.
+- **Reserva por MAC Address e Cliente ID**: Garante a consistência de endereços IP para dispositivos críticos, melhorando a estabilidade da rede.
+- **Autorização no Active Directory e Manual**: Assegura que apenas servidores DHCP autorizados possam operar, prevenindo conflitos e melhorando a segurança da rede.
+
+Este resumo cobre a origem, conceitos, tipos e classificações do DHCP em redes Microsoft Windows Server, detalhando cada tipo e suas características para uma compreensão completa do protocolo e sua aplicação.
+

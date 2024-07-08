@@ -1,0 +1,91 @@
+GESTÃO EM TI:: 02 Scrum. 
+ -
+### Origem do Scrum
+
+Scrum é uma metodologia ágil para gestão e planejamento de projetos de software. Foi inicialmente introduzida por Hirotaka Takeuchi e Ikujiro Nonaka em um artigo de 1986 intitulado "The New New Product Development Game". Posteriormente, Ken Schwaber e Jeff Sutherland adaptaram e formalizaram o Scrum para o desenvolvimento de software na década de 1990.
+
+### Conceitos do Scrum
+
+1. **Sprint**: Período de tempo fixo (geralmente de 2 a 4 semanas) durante o qual um conjunto de atividades deve ser concluído e estar pronto para revisão.
+2. **Product Backlog**: Lista ordenada de tudo que é necessário no produto, gerenciada pelo Product Owner.
+3. **Sprint Backlog**: Conjunto de itens do Product Backlog selecionados para o Sprint, mais um plano para entregar o incremento do produto e realizar o objetivo do Sprint.
+4. **Incremento**: Soma de todos os itens do Product Backlog completados durante um Sprint e os incrementos de todos os Sprints anteriores.
+5. **Daily Scrum**: Reunião diária de 15 minutos para a equipe sincronizar atividades e criar um plano para as próximas 24 horas.
+6. **Sprint Review**: Reunião realizada no final do Sprint para inspecionar o incremento e adaptar o Product Backlog, se necessário.
+7. **Sprint Retrospective**: Reunião realizada após o Sprint Review e antes do próximo Sprint Planning para a equipe refletir sobre o Sprint passado e planejar melhorias para o próximo.
+
+### Tipos e Classificações no Scrum
+
+#### 1. **Papéis no Scrum**
+
+- **Product Owner**: Responsável por maximizar o valor do produto e do trabalho da equipe de desenvolvimento. Gerencia o Product Backlog.
+- **Scrum Master**: Facilita o Scrum para a equipe, garante que o Scrum seja entendido e seguido, e remove impedimentos.
+- **Equipe de Desenvolvimento**: Grupo de profissionais que trabalham para entregar um incremento "Pronto" (Done) ao final de cada Sprint.
+
+#### 2. **Eventos no Scrum**
+
+- **Sprint Planning**: Reunião para planejar o trabalho do Sprint.
+- **Daily Scrum**: Reunião diária para sincronização da equipe.
+- **Sprint Review**: Reunião para inspecionar o incremento e adaptar o Product Backlog.
+- **Sprint Retrospective**: Reunião para refletir sobre o Sprint passado e planejar melhorias.
+
+#### 3. **Artefatos no Scrum**
+
+- **Product Backlog**: Lista ordenada de tudo que é necessário no produto.
+- **Sprint Backlog**: Conjunto de itens do Product Backlog selecionados para o Sprint.
+- **Incremento**: Soma de todos os itens do Product Backlog completados durante um Sprint e os incrementos de todos os Sprints anteriores.
+
+#### 4. **Tipos de Backlog Items**
+
+- **Épicos**: Grandes corpos de trabalho que podem ser divididos em histórias menores.
+- **Histórias de Usuário**: Descrições curtas de uma funcionalidade contada da perspectiva do usuário final.
+- **Tarefas**: Itens menores que descrevem o trabalho necessário para completar uma história de usuário.
+- **Defeitos**: Problemas ou bugs que precisam ser corrigidos.
+
+### Detalhamento dos Tipos e Suas Características
+
+#### Papéis no Scrum
+
+- **Product Owner**:
+  - Define a visão do produto.
+  - Gerencia e prioriza o Product Backlog.
+  - Garante que a equipe entenda os itens do Product Backlog.
+
+- **Scrum Master**:
+  - Facilita reuniões Scrum.
+  - Remove impedimentos que atrapalham a equipe.
+  - Ensina e garante a adesão ao Scrum.
+
+- **Equipe de Desenvolvimento**:
+  - Autogerenciada e multifuncional.
+  - Responsável por entregar incrementos de produto.
+  - Colabora para alcançar o objetivo do Sprint.
+
+#### Eventos no Scrum
+
+- **Sprint Planning**:
+  - Define o objetivo do Sprint.
+  - Seleciona itens do Product Backlog para o Sprint.
+  - Cria um plano para entregar o incremento.
+
+- **Daily Scrum**:
+  - Reunião de 15 minutos.
+  - Cada membro responde: O que fiz ontem? O que farei hoje? Há algum impedimento?
+
+- **Sprint Review**:
+  - Demonstração do incremento.
+  - Feedback dos stakeholders.
+  - Adaptação do Product Backlog.
+
+- **Sprint Retrospective**:
+  - Reflexão sobre o Sprint.
+  - Identificação de melhorias.
+  - Planejamento de ações para o próximo Sprint.
+
+#### Artefatos no Scrum
+
+- **Product Backlog**:
+  - Lista dinâmica e ordenada.
+  - Contém todas as funcionalidades desejadas.
+ 
+

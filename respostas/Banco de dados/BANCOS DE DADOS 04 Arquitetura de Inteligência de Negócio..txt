@@ -1,0 +1,58 @@
+BANCOS DE DADOS:: 04 Arquitetura de Inteligência de Negócio.
+ -
+### Arquitetura de Inteligência de Negócio (BI)
+
+#### Origem
+A Inteligência de Negócio (BI) surgiu na década de 1960 como um sistema de compartilhamento de informações entre organizações. Na década de 1980, os sistemas de BI começaram a se desenvolver mais formalmente com a introdução de modelos de dados e sistemas de suporte à decisão. A partir dos anos 2000, com o avanço da tecnologia da informação e a explosão de dados, a BI evoluiu para incluir ferramentas mais sofisticadas de análise de dados, visualização e relatórios.
+
+#### Conceitos
+A Inteligência de Negócio refere-se ao uso de tecnologias, processos e aplicações para coletar, integrar, analisar e apresentar informações de negócios. O objetivo é apoiar a tomada de decisões informadas e estratégicas. Os principais conceitos incluem:
+
+1. **Data Warehousing**: Armazenamento centralizado de dados de várias fontes.
+2. **ETL (Extract, Transform, Load)**: Processo de extração, transformação e carregamento de dados.
+3. **Data Mining**: Análise de grandes conjuntos de dados para descobrir padrões e insights.
+4. **OLAP (Online Analytical Processing)**: Ferramentas que permitem a análise multidimensional de dados.
+5. **Dashboards e Relatórios**: Ferramentas de visualização que apresentam dados de forma compreensível.
+
+#### Tipos e Classificações
+
+1. **Arquitetura de Dados**
+   - **Data Warehousing**: Armazena dados históricos de várias fontes para análise.
+   - **Data Lakes**: Armazena grandes volumes de dados brutos em seu formato nativo.
+   - **Data Marts**: Subconjuntos de data warehouses focados em áreas específicas de negócios.
+
+2. **Arquitetura de Processamento de Dados**
+   - **ETL (Extract, Transform, Load)**: Processo de mover dados de fontes diversas para um data warehouse.
+   - **ELT (Extract, Load, Transform)**: Similar ao ETL, mas a transformação ocorre após o carregamento dos dados.
+   - **Streaming Data Processing**: Processamento de dados em tempo real à medida que são gerados.
+
+3. **Arquitetura de Análise de Dados**
+   - **OLAP (Online Analytical Processing)**: Permite a análise multidimensional de dados.
+   - **Data Mining**: Técnicas para descobrir padrões ocultos em grandes volumes de dados.
+   - **Predictive Analytics**: Uso de modelos estatísticos e algoritmos para prever tendências futuras.
+
+4. **Arquitetura de Apresentação de Dados**
+   - **Dashboards**: Interfaces visuais que mostram métricas e KPIs em tempo real.
+   - **Relatórios**: Documentos que apresentam dados analisados de forma estruturada.
+   - **Scorecards**: Ferramentas que medem o desempenho em relação a objetivos estratégicos.
+
+#### Detalhamento dos Tipos e suas Características
+
+1. **Arquitetura de Dados**
+   - **Data Warehousing**: Centraliza dados históricos de várias fontes, facilitando a análise e relatórios. É otimizado para consultas complexas e análise de dados.
+   - **Data Lakes**: Armazena dados em seu formato bruto, permitindo maior flexibilidade na análise. Ideal para dados não estruturados e semi-estruturados.
+   - **Data Marts**: Focados em áreas específicas de negócios, como vendas ou finanças, permitindo análises mais rápidas e específicas.
+
+2. **Arquitetura de Processamento de Dados**
+   - **ETL (Extract, Transform, Load)**: Extrai dados de várias fontes, transforma-os para atender às necessidades de análise e carrega-os em um data warehouse.
+   - **ELT (Extract, Load, Transform)**: Similar ao ETL, mas a transformação ocorre após o carregamento dos dados no data warehouse, aproveitando o poder de processamento do próprio data warehouse.
+   - **Streaming Data Processing**: Processa dados em tempo real, permitindo análises e ações imediatas. Utilizado em aplicações como monitoramento de redes sociais e detecção de fraudes.
+
+3. **Arquitetura de Análise de Dados**
+   - **OLAP (Online Analytical Processing)**: Permite a análise multidimensional de dados, facilitando a visualização de dados em diferentes perspectivas (por exemplo, por tempo, localização, produto).
+   - **Data Mining**: Utiliza algoritmos para descobrir padrões ocultos em grandes volumes de dados, como associações, sequências e clusters.
+   - **Predictive Analytics**: Utiliza modelos estatísticos e algoritmos de machine learning para prever tendências futuras e comportamentos, ajudando na tomada de decisões proativas.
+
+4. **Arquitetura de Apresentação de Dados**
+   - **Dashboards**: Fornecem uma visão geral em tempo real das métricas e KPIs mais importantes, permitindo uma rápida tomada de decisão
+

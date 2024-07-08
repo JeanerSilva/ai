@@ -1,0 +1,63 @@
+SEGURANÇA DA INFORMAÇÃO:: 10 Segurança em nuvens
+ -
+### Segurança em Nuvens: Origem, Conceitos, Tipos e Classificações
+
+#### Origem
+A segurança em nuvens surgiu como uma resposta à crescente adoção de serviços de computação em nuvem. Com a migração de dados e aplicações para ambientes de nuvem, tornou-se essencial garantir a proteção contra ameaças cibernéticas, perda de dados e violações de privacidade. A segurança em nuvens evoluiu a partir das práticas tradicionais de segurança da informação, adaptando-se às particularidades dos ambientes de nuvem.
+
+#### Conceitos
+A segurança em nuvens envolve um conjunto de políticas, controles, procedimentos e tecnologias que trabalham em conjunto para proteger sistemas, dados e infraestrutura em nuvem. Os principais conceitos incluem:
+
+1. **Confidencialidade**: Garantir que os dados sejam acessíveis apenas por pessoas autorizadas.
+2. **Integridade**: Assegurar que os dados não sejam alterados ou corrompidos.
+3. **Disponibilidade**: Garantir que os serviços e dados estejam disponíveis quando necessários.
+4. **Autenticação**: Verificação da identidade dos usuários que acessam os recursos.
+5. **Autorização**: Controle de acesso baseado em permissões.
+6. **Auditoria e Monitoramento**: Registro e análise de atividades para detectar e responder a incidentes de segurança.
+
+#### Tipos e Classificações
+
+1. **Segurança de Infraestrutura**
+   - **Firewall de Aplicação Web (WAF)**: Protege aplicações web contra ataques como SQL injection e cross-site scripting.
+   - **Segurança de Rede**: Inclui firewalls, VPNs e segmentação de rede para proteger contra acessos não autorizados.
+   - **Proteção contra DDoS**: Medidas para mitigar ataques de negação de serviço distribuída.
+
+2. **Segurança de Dados**
+   - **Criptografia**: Uso de técnicas de criptografia para proteger dados em trânsito e em repouso.
+   - **Gerenciamento de Chaves**: Processos para criar, distribuir e gerenciar chaves criptográficas.
+   - **Backup e Recuperação de Dados**: Estratégias para garantir a recuperação de dados em caso de perda ou corrupção.
+
+3. **Segurança de Identidade e Acesso**
+   - **Autenticação Multifator (MFA)**: Uso de múltiplos métodos de verificação para autenticar usuários.
+   - **Gerenciamento de Identidade e Acesso (IAM)**: Ferramentas e políticas para gerenciar identidades e controlar acessos.
+   - **Single Sign-On (SSO)**: Permite que usuários acessem múltiplos sistemas com uma única autenticação.
+
+4. **Segurança de Aplicações**
+   - **Teste de Segurança de Aplicações**: Ferramentas e práticas para identificar vulnerabilidades em aplicações.
+   - **DevSecOps**: Integração de práticas de segurança no ciclo de vida de desenvolvimento de software.
+   - **Monitoramento de Aplicações**: Ferramentas para monitorar e detectar atividades suspeitas em aplicações.
+
+5. **Segurança de Conformidade**
+   - **Regulamentações e Normas**: Adesão a padrões como GDPR, HIPAA, e PCI-DSS.
+   - **Auditorias de Segurança**: Avaliações periódicas para garantir conformidade com políticas e regulamentos.
+   - **Relatórios de Conformidade**: Documentação e relatórios para demonstrar conformidade.
+
+6. **Segurança de Operações**
+   - **Monitoramento Contínuo**: Ferramentas para monitorar continuamente a segurança do ambiente de nuvem.
+   - **Resposta a Incidentes**: Planos e ferramentas para detectar, responder e mitigar incidentes de segurança.
+   - **Gerenciamento de Vulnerabilidades**: Identificação e correção de vulnerabilidades em sistemas e aplicações.
+
+7. **Segurança de Contêineres e Orquestração**
+   - **Segurança de Contêineres**: Ferramentas para proteger contêineres e suas imagens.
+   - **Orquestração Segura**: Práticas para garantir a segurança em plataformas de orquestração como Kubernetes.
+   - **Isolamento de Contêineres**: Técnicas para isolar contêineres e minimizar riscos de segurança.
+
+8. **Segurança de Endpoint**
+   - **Proteção de Endpoint**: Ferramentas para proteger dispositivos finais que acessam a nuvem.
+   - **Gerenciamento de Dispositivos Móveis (MDM)**: Controle e proteção de dispositivos móveis.
+   - **Antivírus e Antimalware**: Ferramentas para detectar e remover software malicioso.
+
+9. **Segurança de API**
+   - **Gerenciamento de API**: Ferramentas para controlar e monitorar o uso de APIs.
+   - **Autenticação e Autorização de API**: Métodos para garantir que
+

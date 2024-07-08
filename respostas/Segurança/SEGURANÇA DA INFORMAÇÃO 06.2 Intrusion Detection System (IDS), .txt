@@ -1,0 +1,57 @@
+SEGURANÇA DA INFORMAÇÃO:: 06.2 Intrusion Detection System (IDS), 
+ -
+### Intrusion Detection System (IDS)
+
+#### Origem
+Os Sistemas de Detecção de Intrusão (IDS) surgiram na década de 1980 como uma resposta à crescente necessidade de segurança em redes de computadores. O conceito foi inicialmente proposto por James P. Anderson em um relatório de 1980, onde ele discutiu a necessidade de monitorar atividades suspeitas em sistemas de computadores. Desde então, os IDS evoluíram significativamente, incorporando tecnologias avançadas para detectar e responder a uma ampla gama de ameaças cibernéticas.
+
+#### Conceitos
+Um IDS é uma ferramenta ou software que monitora o tráfego de rede ou atividades do sistema em busca de comportamentos suspeitos ou anômalos que possam indicar uma tentativa de intrusão ou ataque. O objetivo principal de um IDS é identificar possíveis incidentes de segurança, registrar informações sobre eles, tentar detê-los e reportá-los a administradores de sistemas.
+
+#### Tipos e Classificações
+
+1. **Baseado em Host (HIDS)**
+   - **Descrição**: Monitora e analisa a atividade de um único host ou dispositivo.
+   - **Características**:
+     - Analisa logs de sistema, arquivos de configuração e outros dados específicos do host.
+     - Pode detectar ataques que não são visíveis no tráfego de rede.
+     - Geralmente mais eficaz em detectar ataques internos.
+
+2. **Baseado em Rede (NIDS)**
+   - **Descrição**: Monitora o tráfego de rede em busca de atividades suspeitas.
+   - **Características**:
+     - Analisa pacotes de dados que trafegam pela rede.
+     - Pode detectar ataques externos e tentativas de exploração de vulnerabilidades.
+     - Geralmente implementado em pontos estratégicos da rede, como switches e roteadores.
+
+3. **Baseado em Assinatura (Signature-Based IDS)**
+   - **Descrição**: Detecta intrusões comparando o tráfego de rede ou atividades do sistema com uma base de dados de assinaturas conhecidas de ataques.
+   - **Características**:
+     - Eficaz contra ataques conhecidos.
+     - Requer atualizações frequentes da base de dados de assinaturas.
+     - Pode não detectar novos tipos de ataques (zero-day).
+
+4. **Baseado em Anomalia (Anomaly-Based IDS)**
+   - **Descrição**: Detecta intrusões identificando desvios de um comportamento normal ou esperado.
+   - **Características**:
+     - Pode detectar ataques novos ou desconhecidos.
+     - Requer um período de treinamento para definir o comportamento normal.
+     - Pode gerar um número maior de falsos positivos.
+
+5. **Baseado em Política (Policy-Based IDS)**
+   - **Descrição**: Detecta intrusões com base em políticas de segurança predefinidas.
+   - **Características**:
+     - As políticas são regras específicas que definem o que é considerado comportamento aceitável.
+     - Eficaz em ambientes onde as políticas de segurança são bem definidas.
+     - Pode ser complexo de configurar e manter.
+
+6. **Baseado em Híbrido (Hybrid IDS)**
+   - **Descrição**: Combina características de diferentes tipos de IDS para melhorar a detecção e reduzir falsos positivos.
+   - **Características**:
+     - Pode combinar HIDS e NIDS, ou assinatura e anomalia.
+     - Oferece uma abordagem mais abrangente e robusta.
+     - Pode ser mais complexo e caro de implementar e manter.
+
+#### Conclusão
+Os IDS são componentes críticos na infraestrutura de segurança de TI, oferecendo uma camada adicional de defesa contra ameaças cibernéticas. A escolha do tipo de IDS depende das necessidades específicas da organização, do ambiente de rede e dos recursos disponíveis. Cada tipo de IDS tem suas próprias vantagens e desvantagens, e muitas vezes uma combinação de diferentes tipos pode oferecer a melhor proteção.
+

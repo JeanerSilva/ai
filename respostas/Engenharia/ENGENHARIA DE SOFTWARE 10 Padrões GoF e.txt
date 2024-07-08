@@ -1,0 +1,44 @@
+ENGENHARIA DE SOFTWARE:: 10 Padrões: GoF e
+ -
+Os padrões de projeto (design patterns) são soluções reutilizáveis para problemas comuns no desenvolvimento de software. Eles foram popularizados pelo livro "Design Patterns: Elements of Reusable Object-Oriented Software", escrito por Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, conhecidos coletivamente como a "Gang of Four" (GoF).
+
+### Origem
+Os padrões de projeto foram formalizados pela GoF em 1994. Eles se basearam em práticas de engenharia de software que já estavam em uso, mas que não tinham sido documentadas de maneira sistemática. O objetivo era criar um catálogo de soluções que pudessem ser aplicadas a problemas recorrentes no desenvolvimento de software orientado a objetos.
+
+### Conceitos
+Os padrões de projeto são divididos em três categorias principais:
+1. **Padrões Criacionais**: Tratam da criação de objetos, ajudando a tornar o sistema independente de como seus objetos são criados, compostos e representados.
+2. **Padrões Estruturais**: Lidam com a composição de classes ou objetos, formando estruturas maiores e mais complexas.
+3. **Padrões Comportamentais**: Focam na comunicação entre objetos, definindo como eles interagem e distribuem responsabilidades.
+
+### Tipos e Classificações
+
+#### Padrões Criacionais
+1. **Abstract Factory**: Fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
+2. **Builder**: Separa a construção de um objeto complexo da sua representação, permitindo a criação de diferentes representações.
+3. **Factory Method**: Define uma interface para criar um objeto, mas permite que as subclasses alterem o tipo de objeto que será criado.
+4. **Prototype**: Permite a criação de novos objetos a partir de um protótipo existente, clonando-o.
+5. **Singleton**: Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela.
+
+#### Padrões Estruturais
+1. **Adapter**: Permite que interfaces incompatíveis trabalhem juntas, convertendo a interface de uma classe em outra esperada pelos clientes.
+2. **Bridge**: Separa a abstração da implementação, permitindo que ambas variem independentemente.
+3. **Composite**: Compõe objetos em estruturas de árvore para representar hierarquias parte-todo, permitindo que clientes tratem objetos individuais e composições de objetos de maneira uniforme.
+4. **Decorator**: Adiciona responsabilidades adicionais a um objeto dinamicamente, oferecendo uma alternativa flexível à subclasse.
+5. **Facade**: Fornece uma interface simplificada para um conjunto de interfaces em um subsistema, facilitando o uso do subsistema.
+6. **Flyweight**: Usa o compartilhamento para suportar grandes quantidades de objetos de forma eficiente.
+7. **Proxy**: Fornece um substituto ou marcador para controlar o acesso a outro objeto.
+
+#### Padrões Comportamentais
+1. **Chain of Responsibility**: Passa uma solicitação ao longo de uma cadeia de manipuladores, onde cada manipulador decide processar a solicitação ou passá-la adiante.
+2. **Command**: Encapsula uma solicitação como um objeto, permitindo parametrizar clientes com diferentes solicitações, enfileirar ou registrar solicitações e suportar operações reversíveis.
+3. **Interpreter**: Define uma representação gramatical para uma linguagem e um interpretador que usa a representação para interpretar sentenças dessa linguagem.
+4. **Iterator**: Fornece uma maneira de acessar sequencialmente os elementos de um agregado sem expor sua representação subjacente.
+5. **Mediator**: Define um objeto que encapsula a forma como um conjunto de objetos interage, promovendo o acoplamento fraco ao evitar que os objetos se refiram uns aos outros explicitamente.
+6. **Memento**: Captura e externaliza o estado interno de um objeto sem violar o encapsulamento, permitindo que o objeto seja restaurado a esse estado posteriormente.
+7. **Observer**: Define uma dependência um-para-muitos entre objetos, de modo que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
+8. **State**: Permite que um objeto altere seu comportamento quando seu estado interno muda, parecendo mudar sua classe.
+9. **Strategy**: Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis, permitindo que o algoritmo varie independentemente dos clientes que o utilizam.
+10. **Template Method**: Define o esqueleto de um algoritmo em uma operação, adiando alguns passos para subclasses, permitindo que subclasses redefinam certos passos de um algoritmo sem alterar sua estrutura.
+11. **Visitor**: Representa uma operação a ser realizada sobre os elementos de uma estrutura de objeto, permitindo definir uma nova operação sem mudar as classes dos elementos
+

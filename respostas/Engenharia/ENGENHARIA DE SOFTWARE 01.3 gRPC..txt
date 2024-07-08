@@ -1,0 +1,55 @@
+ENGENHARIA DE SOFTWARE:: 01.3 gRPC.
+ -
+### Origem do gRPC
+
+O gRPC (gRPC Remote Procedure Call) é um framework de comunicação de código aberto desenvolvido pela Google. Ele foi lançado em 2015 e é baseado no protocolo HTTP/2, utilizando o Protobuf (Protocol Buffers) como seu mecanismo de serialização de dados. O gRPC foi criado para facilitar a comunicação eficiente e de alto desempenho entre serviços distribuídos, especialmente em arquiteturas de microsserviços.
+
+### Conceitos do gRPC
+
+1. **RPC (Remote Procedure Call)**: O gRPC permite que funções em um servidor sejam chamadas como se fossem funções locais no cliente, abstraindo a complexidade da comunicação de rede.
+2. **HTTP/2**: Utiliza o protocolo HTTP/2, que oferece várias vantagens sobre o HTTP/1.1, como multiplexação de streams, compressão de cabeçalhos e melhor gerenciamento de conexões.
+3. **Protobuf**: Utiliza o Protocol Buffers como formato de serialização de dados, que é eficiente e de baixo custo em termos de desempenho.
+4. **Cross-Platform**: Suporta múltiplas linguagens de programação, incluindo C++, Java, Python, Go, Ruby, e muitas outras.
+5. **Streaming**: Suporta diferentes tipos de comunicação, incluindo chamadas unárias, streaming do servidor, streaming do cliente e streaming bidirecional.
+
+### Tipos e Classificações do gRPC
+
+O gRPC oferece quatro tipos principais de métodos de RPC, cada um com suas próprias características e casos de uso:
+
+1. **Unary RPC**
+2. **Server Streaming RPC**
+3. **Client Streaming RPC**
+4. **Bidirectional Streaming RPC**
+
+#### 1. Unary RPC
+
+- **Descrição**: O cliente envia uma única solicitação ao servidor e recebe uma única resposta.
+- **Características**:
+  - Simples e direto, semelhante a uma chamada de função tradicional.
+  - Adequado para operações que requerem uma solicitação e uma resposta, como consultas simples ou operações CRUD (Create, Read, Update, Delete).
+
+#### 2. Server Streaming RPC
+
+- **Descrição**: O cliente envia uma solicitação ao servidor e recebe uma sequência de respostas.
+- **Características**:
+  - O servidor pode enviar múltiplas respostas para uma única solicitação do cliente.
+  - Útil para casos onde o servidor precisa enviar um fluxo contínuo de dados, como resultados de uma pesquisa ou atualizações em tempo real.
+
+#### 3. Client Streaming RPC
+
+- **Descrição**: O cliente envia uma sequência de solicitações ao servidor e recebe uma única resposta.
+- **Características**:
+  - O cliente pode enviar múltiplas mensagens ao servidor antes de receber uma resposta.
+  - Adequado para casos onde o cliente precisa enviar um lote de dados para processamento, como upload de arquivos ou envio de logs.
+
+#### 4. Bidirectional Streaming RPC
+
+- **Descrição**: Tanto o cliente quanto o servidor enviam uma sequência de mensagens usando um fluxo de leitura e escrita.
+- **Características**:
+  - Permite comunicação bidirecional contínua, onde ambos os lados podem enviar e receber mensagens de forma independente.
+  - Ideal para aplicações que requerem comunicação em tempo real, como chat, jogos online ou monitoramento de sensores.
+
+### Conclusão
+
+O gRPC é uma poderosa ferramenta para comunicação entre serviços distribuídos, oferecendo alta performance e suporte a múltiplas linguagens. Seus diferentes tipos de RPC permitem flexibilidade para atender a uma ampla gama de casos de uso, desde operações simples até comunicação bidirecional em tempo real.
+

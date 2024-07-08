@@ -1,0 +1,77 @@
+ENGENHARIA DE SOFTWARE:: 01.6 servidores proxy.
+ -
+### Servidores Proxy: Origem, Conceitos, Tipos e Classificações
+
+#### Origem
+Os servidores proxy surgiram como uma solução para melhorar a eficiência e a segurança das redes de computadores. Originalmente, eles foram desenvolvidos para armazenar em cache (cache) páginas da web frequentemente acessadas, reduzindo a carga nos servidores web e melhorando os tempos de resposta para os usuários. Com o tempo, suas funcionalidades se expandiram para incluir segurança, anonimato e controle de acesso.
+
+#### Conceitos
+Um servidor proxy atua como um intermediário entre um cliente (como um navegador web) e um servidor de destino (como um servidor web). Quando um cliente faz uma solicitação para acessar um recurso na internet, essa solicitação é primeiro enviada ao servidor proxy. O proxy então encaminha a solicitação ao servidor de destino em nome do cliente, recebe a resposta e a envia de volta ao cliente.
+
+#### Tipos e Classificações
+
+1. **Proxy Transparente**
+   - **Características**: Não modifica as solicitações ou respostas e é geralmente usado para cache e filtragem de conteúdo.
+   - **Uso Comum**: Instituições educacionais e empresas para monitorar e controlar o acesso à internet.
+
+2. **Proxy Anônimo**
+   - **Características**: Oculta o endereço IP do cliente, mas identifica-se como um proxy.
+   - **Uso Comum**: Navegação anônima na internet, evitando rastreamento básico.
+
+3. **Proxy de Alta Anonimidade (Elite Proxy)**
+   - **Características**: Oculta completamente o endereço IP do cliente e não se identifica como um proxy.
+   - **Uso Comum**: Navegação altamente anônima, evitando rastreamento avançado.
+
+4. **Proxy Reverso**
+   - **Características**: Atua em nome de um servidor, recebendo solicitações dos clientes e encaminhando-as ao servidor de destino.
+   - **Uso Comum**: Balanceamento de carga, cache de conteúdo, e segurança (proteção contra ataques DDoS).
+
+5. **Proxy de Cache**
+   - **Características**: Armazena em cache as respostas dos servidores de destino para reduzir a carga e melhorar os tempos de resposta.
+   - **Uso Comum**: Melhorar a eficiência da rede e reduzir a latência.
+
+6. **Proxy de Web (Web Proxy)**
+   - **Características**: Facilita o acesso à web através de um navegador, geralmente usado para contornar restrições de acesso.
+   - **Uso Comum**: Acesso a sites bloqueados ou restritos.
+
+7. **Proxy de SOCKS**
+   - **Características**: Suporta qualquer tipo de tráfego de rede (TCP ou UDP) e é mais flexível que os proxies HTTP.
+   - **Uso Comum**: Aplicações que requerem suporte para diferentes tipos de tráfego, como jogos online e compartilhamento de arquivos.
+
+8. **Proxy de FTP**
+   - **Características**: Especializado em lidar com tráfego FTP (File Transfer Protocol).
+   - **Uso Comum**: Transferência de arquivos entre servidores e clientes.
+
+9. **Proxy de SMTP**
+   - **Características**: Especializado em lidar com tráfego SMTP (Simple Mail Transfer Protocol).
+   - **Uso Comum**: Envio de emails, filtragem de spam e segurança de email.
+
+10. **Proxy de VPN (Virtual Private Network)**
+    - **Características**: Cria uma conexão segura e criptografada entre o cliente e o servidor de destino.
+    - **Uso Comum**: Acesso seguro à rede corporativa, navegação segura em redes públicas.
+
+11. **Proxy de Aplicação**
+    - **Características**: Atua em nível de aplicação, entendendo protocolos específicos como HTTP, FTP, etc.
+    - **Uso Comum**: Segurança e controle de acesso em aplicações específicas.
+
+12. **Proxy de Conteúdo**
+    - **Características**: Filtra e controla o conteúdo acessado pelos usuários.
+    - **Uso Comum**: Controle parental, políticas de uso aceitável em empresas.
+
+#### Detalhamento dos Tipos e Suas Características
+
+1. **Proxy Transparente**
+   - **Vantagens**: Fácil de implementar, não requer configuração no cliente.
+   - **Desvantagens**: Menor privacidade, pode ser detectado facilmente.
+
+2. **Proxy Anônimo**
+   - **Vantagens**: Oculta o IP do cliente, oferece um nível básico de anonimato.
+   - **Desvantagens**: Pode ser identificado como um proxy, não oferece anonimato completo.
+
+3. **Proxy de Alta Anonimidade (Elite Proxy)**
+   - **Vantagens**: Oferece o mais alto nível de anonimato, difícil de detectar.
+   - **Desvantagens**: Pode ser mais lento devido à complexidade adicional.
+
+4. **Proxy Reverso**
+   - **Vantagens**
+

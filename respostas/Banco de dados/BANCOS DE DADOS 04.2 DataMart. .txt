@@ -1,0 +1,54 @@
+BANCOS DE DADOS:: 04.2 DataMart. 
+ -
+### DataMart: Origem, Conceitos, Tipos e Classificações
+
+#### Origem
+O conceito de DataMart surgiu como uma solução para a necessidade de análise de dados em áreas específicas de uma organização. Enquanto os Data Warehouses (DW) são grandes repositórios de dados que abrangem toda a empresa, os DataMarts são subconjuntos desses dados, focados em departamentos ou áreas de negócio específicas, como vendas, marketing ou finanças. A ideia é fornecer uma visão mais focada e acessível dos dados, facilitando a tomada de decisões em níveis mais operacionais.
+
+#### Conceitos
+- **DataMart**: Um DataMart é um repositório de dados orientado a um departamento ou área específica de uma organização. Ele é projetado para atender às necessidades de análise e relatórios de um grupo específico de usuários.
+- **Data Warehouse**: Um repositório centralizado que armazena dados de toda a organização, integrando informações de várias fontes.
+- **ETL (Extract, Transform, Load)**: Processo de extração, transformação e carregamento de dados, essencial para a criação e manutenção de DataMarts.
+
+#### Tipos e Classificações de DataMarts
+
+Os DataMarts podem ser classificados de várias maneiras, dependendo de sua arquitetura, funcionalidade e implementação. Abaixo estão os principais tipos e suas características:
+
+1. **DataMarts Dependentes**
+   - **Descrição**: São criados a partir de um Data Warehouse centralizado. Os dados são extraídos do Data Warehouse, transformados conforme necessário e carregados no DataMart.
+   - **Características**:
+     - Alta consistência de dados, pois todos os DataMarts dependem de uma única fonte de verdade.
+     - Facilita a governança de dados e a conformidade com políticas de segurança.
+     - Pode ser mais complexo e caro de implementar devido à necessidade de um Data Warehouse centralizado.
+
+2. **DataMarts Independentes**
+   - **Descrição**: São criados diretamente a partir de fontes de dados operacionais, sem a necessidade de um Data Warehouse centralizado.
+   - **Características**:
+     - Mais rápidos e baratos de implementar, pois não requerem a criação de um Data Warehouse.
+     - Podem levar a inconsistências de dados, já que cada DataMart pode ter sua própria versão dos dados.
+     - Menos controle centralizado, o que pode dificultar a governança de dados.
+
+3. **DataMarts Híbridos**
+   - **Descrição**: Combinam características de DataMarts dependentes e independentes. Podem extrair dados tanto de um Data Warehouse centralizado quanto de fontes operacionais.
+   - **Características**:
+     - Flexibilidade para atender a diferentes necessidades de dados.
+     - Pode equilibrar a necessidade de consistência de dados com a necessidade de rapidez e custo.
+     - Complexidade intermediária em termos de implementação e manutenção.
+
+4. **DataMarts Baseados em Nuvem**
+   - **Descrição**: São implementados em plataformas de nuvem, como AWS, Google Cloud ou Azure.
+   - **Características**:
+     - Escalabilidade e flexibilidade para lidar com grandes volumes de dados.
+     - Redução de custos de infraestrutura, pois não requerem hardware local.
+     - Facilidade de integração com outras ferramentas e serviços baseados em nuvem.
+
+5. **DataMarts de Aplicação**
+   - **Descrição**: São projetados para suportar aplicações específicas, como CRM (Customer Relationship Management) ou ERP (Enterprise Resource Planning).
+   - **Características**:
+     - Otimização para as necessidades de dados de uma aplicação específica.
+     - Pode incluir dados altamente especializados e formatados para uso direto pela aplicação.
+     - Facilita a integração e a análise de dados dentro do contexto da aplicação.
+
+#### Conclusão
+Os DataMarts são ferramentas poderosas para a análise de dados em áreas específicas de uma organização. Eles podem ser classificados de várias maneiras, dependendo de sua origem, arquitetura e finalidade. A escolha do tipo de DataMart a ser implementado deve levar em consideração as necessidades específicas da organização, bem como os recursos disponíveis para sua implementação e manutenção.
+

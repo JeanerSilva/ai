@@ -1,0 +1,67 @@
+INFRAESTRUTURA EM TI:: 02.3 boas práticas para infraestrutura e orquestração de containers. 
+ -
+### Origem e Conceitos
+
+A infraestrutura e orquestração de containers surgiram como uma resposta à necessidade de gerenciar aplicações de forma mais eficiente e escalável. Containers são unidades leves e portáteis que incluem tudo o que uma aplicação precisa para funcionar, como código, runtime, bibliotecas e configurações. A orquestração de containers, por sua vez, refere-se ao processo de gerenciar a implantação, escalonamento e operação de containers em um ambiente de produção.
+
+### Boas Práticas para Infraestrutura e Orquestração de Containers
+
+#### 1. **Automatização**
+   - **Automatize o Provisionamento:** Utilize ferramentas como Terraform ou Ansible para automatizar a criação e configuração da infraestrutura.
+   - **Automatize o Deploy:** Ferramentas como Jenkins, GitLab CI/CD ou CircleCI podem ser usadas para automatizar o processo de deploy.
+
+#### 2. **Segurança**
+   - **Isolamento de Containers:** Utilize namespaces e cgroups para isolar recursos e garantir que containers não interfiram uns nos outros.
+   - **Escaneamento de Imagens:** Utilize ferramentas como Clair ou Trivy para escanear imagens de containers em busca de vulnerabilidades.
+
+#### 3. **Monitoramento e Logging**
+   - **Monitoramento:** Ferramentas como Prometheus, Grafana e ELK Stack (Elasticsearch, Logstash, Kibana) são essenciais para monitorar a saúde dos containers e da infraestrutura.
+   - **Logging:** Centralize logs utilizando ferramentas como Fluentd ou Logstash para facilitar a análise e a resolução de problemas.
+
+#### 4. **Escalabilidade**
+   - **Horizontal Scaling:** Adicione mais instâncias de containers para lidar com o aumento de carga.
+   - **Vertical Scaling:** Aumente os recursos (CPU, memória) alocados para os containers conforme necessário.
+
+#### 5. **Resiliência e Recuperação**
+   - **Auto-Healing:** Utilize orquestradores como Kubernetes que podem reiniciar containers automaticamente em caso de falhas.
+   - **Backup e Recuperação:** Implemente estratégias de backup e recuperação para dados críticos.
+
+### Tipos e Classificações
+
+#### 1. **Orquestradores de Containers**
+   - **Kubernetes:** O orquestrador mais popular, oferece recursos avançados de escalabilidade, auto-healing, e gerenciamento de configuração.
+   - **Docker Swarm:** Integrado ao Docker, é mais simples de configurar e usar, mas menos robusto que o Kubernetes.
+   - **Apache Mesos:** Focado em escalabilidade e pode orquestrar não apenas containers, mas também outras cargas de trabalho.
+
+#### 2. **Ferramentas de Monitoramento**
+   - **Prometheus:** Sistema de monitoramento e alerta open-source, ideal para ambientes de containers.
+   - **Grafana:** Ferramenta de visualização que se integra bem com Prometheus para criar dashboards interativos.
+   - **ELK Stack:** Conjunto de ferramentas (Elasticsearch, Logstash, Kibana) para centralização e análise de logs.
+
+#### 3. **Ferramentas de CI/CD**
+   - **Jenkins:** Ferramenta de automação open-source que suporta integração contínua e entrega contínua.
+   - **GitLab CI/CD:** Integrado ao GitLab, oferece pipelines de CI/CD robustos.
+   - **CircleCI:** Serviço de integração contínua que se integra bem com GitHub e Bitbucket.
+
+#### 4. **Ferramentas de Segurança**
+   - **Clair:** Ferramenta de análise de vulnerabilidades estática para imagens de containers.
+   - **Trivy:** Scanner de vulnerabilidades para containers, fácil de usar e rápido.
+   - **Aqua Security:** Plataforma de segurança para containers que oferece proteção em runtime, escaneamento de vulnerabilidades e conformidade.
+
+#### 5. **Ferramentas de Logging**
+   - **Fluentd:** Ferramenta de coleta de logs que pode ser configurada para enviar logs para diversos destinos.
+   - **Logstash:** Parte do ELK Stack, é usado para coletar, transformar e enviar logs para o Elasticsearch.
+   - **Graylog:** Sistema de gerenciamento de logs que oferece recursos avançados de análise e visualização.
+
+### Características dos Tipos
+
+#### **Orquestradores de Containers**
+   - **Kubernetes:** Alta disponibilidade, escalabilidade automática, gerenciamento de configuração, auto-healing.
+   - **Docker Swarm:** Simplicidade, integração nativa com Docker, menos recursos avançados.
+   - **Apache Mesos:** Escalabilidade extrema, suporte a múltiplas cargas de trabalho, complexidade de configuração.
+
+#### **Ferramentas de Monitoramento**
+   - **Prometheus:** Coleta de métricas, alertas, integração com Grafana.
+   - **Grafana:** Dashboards interativos, suporte a múltiplas fontes de dados.
+   - **ELK Stack:** Coleta,
+

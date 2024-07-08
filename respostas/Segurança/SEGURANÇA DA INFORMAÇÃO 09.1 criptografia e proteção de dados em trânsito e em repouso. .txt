@@ -1,0 +1,85 @@
+SEGURANÇA DA INFORMAÇÃO:: 09.1 criptografia e proteção de dados em trânsito e em repouso. 
+ -
+### Origem da Criptografia
+
+A criptografia é uma técnica antiga que remonta a civilizações como a egípcia e a romana. O termo "criptografia" deriva do grego "kryptós" (escondido) e "gráphein" (escrever). Inicialmente, era usada para proteger mensagens militares e diplomáticas. Com o avanço da tecnologia, a criptografia evoluiu para proteger dados digitais em diversas aplicações modernas.
+
+### Conceitos de Criptografia
+
+A criptografia é a prática de proteger informações convertendo-as em um formato ilegível para aqueles que não possuem a chave de decriptação. Os principais conceitos incluem:
+
+- **Cifração**: Processo de transformar texto claro em texto cifrado.
+- **Decifração**: Processo de transformar texto cifrado de volta em texto claro.
+- **Chave Criptográfica**: Informação usada para cifrar e decifrar dados.
+- **Algoritmo Criptográfico**: Conjunto de regras matemáticas usadas para cifrar e decifrar dados.
+
+### Tipos de Criptografia
+
+1. **Criptografia Simétrica**
+   - **Características**: Usa a mesma chave para cifrar e decifrar dados.
+   - **Exemplos**: AES (Advanced Encryption Standard), DES (Data Encryption Standard), 3DES (Triple DES).
+
+2. **Criptografia Assimétrica**
+   - **Características**: Usa um par de chaves, uma pública e uma privada. A chave pública cifra os dados, enquanto a chave privada decifra.
+   - **Exemplos**: RSA (Rivest-Shamir-Adleman), ECC (Elliptic Curve Cryptography).
+
+3. **Criptografia de Chave Pública**
+   - **Características**: Subconjunto da criptografia assimétrica, onde a chave pública é distribuída amplamente e a chave privada é mantida em segredo.
+   - **Exemplos**: RSA, DSA (Digital Signature Algorithm).
+
+4. **Criptografia de Chave Privada**
+   - **Características**: Sinônimo de criptografia simétrica, onde a mesma chave é usada para cifrar e decifrar.
+   - **Exemplos**: AES, DES.
+
+5. **Criptografia de Fluxo**
+   - **Características**: Cifra dados um bit ou byte de cada vez, ideal para transmissão de dados em tempo real.
+   - **Exemplos**: RC4 (Rivest Cipher 4).
+
+6. **Criptografia de Bloco**
+   - **Características**: Cifra dados em blocos de bits de tamanho fixo, proporcionando maior segurança para grandes volumes de dados.
+   - **Exemplos**: AES, DES, Blowfish.
+
+### Proteção de Dados em Trânsito e em Repouso
+
+#### Dados em Trânsito
+
+Dados em trânsito referem-se às informações que estão sendo transferidas de um ponto a outro, como através da internet ou redes internas.
+
+**Métodos de Proteção**:
+1. **TLS/SSL (Transport Layer Security/Secure Sockets Layer)**
+   - **Características**: Protocolo de segurança que cifra dados transmitidos entre servidores e clientes.
+   - **Uso**: Navegação segura na web (HTTPS), e-mails seguros.
+
+2. **VPN (Virtual Private Network)**
+   - **Características**: Cria uma conexão segura e cifrada sobre uma rede menos segura, como a internet.
+   - **Uso**: Acesso remoto seguro a redes corporativas.
+
+3. **IPsec (Internet Protocol Security)**
+   - **Características**: Conjunto de protocolos para cifrar pacotes de dados na camada IP.
+   - **Uso**: VPNs, comunicação segura entre dispositivos de rede.
+
+#### Dados em Repouso
+
+Dados em repouso referem-se às informações armazenadas em dispositivos físicos, como discos rígidos, SSDs, ou bancos de dados.
+
+**Métodos de Proteção**:
+1. **Criptografia de Disco Completo**
+   - **Características**: Cifra todos os dados em um disco rígido ou SSD.
+   - **Exemplos**: BitLocker (Windows), FileVault (macOS).
+
+2. **Criptografia de Arquivo**
+   - **Características**: Cifra arquivos individuais ou conjuntos de arquivos.
+   - **Exemplos**: GPG (GNU Privacy Guard), VeraCrypt.
+
+3. **Criptografia de Banco de Dados**
+   - **Características**: Cifra dados armazenados em bancos de dados.
+   - **Exemplos**: Transparent Data Encryption (TDE) em SQL Server, Oracle Advanced Security.
+
+4. **Criptografia de Dispositivo**
+   - **Características**: Cifra dados em dispositivos móveis ou portáteis.
+   - **Exemplos**: Android Full Disk Encryption, iOS Data Protection.
+
+### Classificações de Criptografia
+
+1. **Baseada em
+

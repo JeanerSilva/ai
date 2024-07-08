@@ -1,0 +1,49 @@
+INFRAESTRUTURA EM TI:: 05.5 Protocolo Lightweight Directory Access Protocol (LDAP), 
+ -
+### Resumo sobre o Protocolo Lightweight Directory Access Protocol (LDAP)
+
+#### Origem
+O Lightweight Directory Access Protocol (LDAP) é um protocolo de aplicação que foi desenvolvido inicialmente na década de 1990 como uma versão simplificada do Directory Access Protocol (DAP), que fazia parte do padrão X.500 da International Telecommunication Union (ITU). LDAP foi projetado para fornecer acesso a serviços de diretório de forma mais eficiente e com menor sobrecarga de recursos, tornando-o mais adequado para uso em redes TCP/IP.
+
+#### Conceitos
+LDAP é utilizado para acessar e gerenciar serviços de diretório, que são sistemas de armazenamento de informações organizadas de forma hierárquica. Esses diretórios são frequentemente usados para armazenar informações sobre usuários, grupos, dispositivos e outros recursos de rede. LDAP permite que os clientes consultem e modifiquem essas informações de maneira padronizada.
+
+#### Tipos e Classificações
+
+##### 1. **LDAPv2 e LDAPv3**
+   - **LDAPv2**: A versão inicial do protocolo, que oferece funcionalidades básicas de acesso e consulta a diretórios. No entanto, possui limitações em termos de segurança e extensibilidade.
+   - **LDAPv3**: A versão mais recente e amplamente utilizada, que introduz melhorias significativas, incluindo suporte para autenticação segura (SASL), criptografia (TLS), e extensões de protocolo.
+
+##### 2. **Operações LDAP**
+   - **Bind**: Autenticação do cliente ao servidor LDAP.
+   - **Search**: Consulta de informações no diretório.
+   - **Compare**: Comparação de um valor fornecido com um valor armazenado no diretório.
+   - **Add**: Adição de uma nova entrada ao diretório.
+   - **Delete**: Remoção de uma entrada do diretório.
+   - **Modify**: Modificação de uma entrada existente.
+   - **Modify DN**: Modificação do Distinguished Name (DN) de uma entrada.
+   - **Unbind**: Encerramento da sessão LDAP.
+
+##### 3. **Modelos LDAP**
+   - **Modelo de Informação**: Define a estrutura dos dados armazenados no diretório, utilizando um esquema que especifica os tipos de objetos e atributos.
+   - **Modelo de Nomes**: Define como as entradas são identificadas e organizadas hierarquicamente no diretório, utilizando Distinguished Names (DNs).
+   - **Modelo Funcional**: Descreve as operações que podem ser realizadas no diretório, como consultas e modificações.
+   - **Modelo de Segurança**: Define os mecanismos de autenticação e controle de acesso para proteger as informações no diretório.
+
+##### 4. **Esquemas LDAP**
+   - **Atributos**: Definem as propriedades de uma entrada, como "cn" (Common Name) e "mail" (endereço de e-mail).
+   - **Objetos**: Definem os tipos de entradas, como "inetOrgPerson" para usuários e "organizationalUnit" para unidades organizacionais.
+   - **Classes de Objetos**: Agrupam atributos em conjuntos lógicos, permitindo a criação de entradas com propriedades específicas.
+
+##### 5. **Extensões e Controles LDAP**
+   - **Extensões**: Permitem a adição de novas funcionalidades ao protocolo LDAP, como operações adicionais ou novos tipos de dados.
+   - **Controles**: Fornecem informações adicionais sobre como uma operação deve ser executada, como controle de paginação para consultas que retornam muitos resultados.
+
+##### 6. **Implementações LDAP**
+   - **OpenLDAP**: Uma implementação de código aberto amplamente utilizada.
+   - **Microsoft Active Directory**: Uma implementação proprietária que integra LDAP com outros serviços de rede.
+   - **Apache Directory Server**: Outra implementação de código aberto que oferece um servidor de diretório LDAP.
+
+### Conclusão
+LDAP é um protocolo essencial para a gestão de diretórios em redes de computadores, oferecendo uma maneira padronizada e eficiente de acessar e manipular informações hierárquicas. Com suas várias versões, operações, modelos, esquemas, extensões e implementações, LDAP continua a ser uma ferramenta fundamental para administradores de sistemas e redes.
+

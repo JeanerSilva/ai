@@ -1,0 +1,41 @@
+CIÊNCIA DE DADOS:: 04 Big data. 
+ -
+**Origem do Big Data:**
+
+O conceito de Big Data surgiu com o aumento exponencial da quantidade de dados gerados e armazenados, especialmente com o advento da internet, redes sociais, dispositivos móveis e sensores IoT (Internet das Coisas). A origem do termo "Big Data" pode ser rastreada até a década de 1990, mas foi na década de 2000 que ele ganhou popularidade, à medida que as empresas começaram a perceber o valor potencial dos grandes volumes de dados para a tomada de decisões estratégicas.
+
+**Conceitos de Big Data:**
+
+Big Data refere-se a conjuntos de dados que são tão grandes e complexos que as ferramentas tradicionais de gerenciamento de dados não são capazes de processá-los de maneira eficiente. Os principais conceitos associados ao Big Data incluem:
+
+1. **Volume:** Refere-se à quantidade massiva de dados gerados a cada segundo.
+2. **Variedade:** Refere-se aos diferentes tipos de dados (estruturados, semiestruturados e não estruturados) provenientes de diversas fontes.
+3. **Velocidade:** Refere-se à rapidez com que os dados são gerados e precisam ser processados.
+4. **Veracidade:** Refere-se à qualidade e confiabilidade dos dados.
+5. **Valor:** Refere-se ao potencial dos dados para gerar insights valiosos e tomar decisões informadas.
+
+**Tipos e Classificações de Big Data:**
+
+Os tipos de Big Data podem ser classificados com base em várias características, como a estrutura dos dados, a origem dos dados e a natureza dos dados. Abaixo estão os principais tipos e suas características:
+
+1. **Com base na estrutura dos dados:**
+   - **Dados Estruturados:** Dados organizados em formatos fixos, como tabelas de bancos de dados relacionais. Exemplos incluem registros de transações, planilhas e dados de sensores.
+   - **Dados Semiestruturados:** Dados que não seguem um esquema rígido, mas possuem alguma organização, como XML, JSON e logs de servidores.
+   - **Dados Não Estruturados:** Dados que não possuem uma estrutura predefinida, como texto livre, imagens, vídeos, áudios e postagens em redes sociais.
+
+2. **Com base na origem dos dados:**
+   - **Dados Gerados por Máquinas:** Dados produzidos por dispositivos e sensores, como logs de servidores, dados de sensores IoT, registros de transações de máquinas e dados de sistemas de monitoramento.
+   - **Dados Gerados por Humanos:** Dados criados por atividades humanas, como postagens em redes sociais, e-mails, documentos de texto, vídeos e fotos.
+
+3. **Com base na natureza dos dados:**
+   - **Dados Transacionais:** Dados gerados a partir de transações comerciais, como compras online, operações bancárias e registros de vendas.
+   - **Dados de Mídia Social:** Dados provenientes de plataformas de redes sociais, como Facebook, Twitter, Instagram e LinkedIn.
+   - **Dados de Sensores:** Dados coletados de dispositivos IoT, como sensores de temperatura, pressão, umidade e movimento.
+   - **Dados de Clickstream:** Dados que registram o comportamento dos usuários na web, como cliques, visualizações de páginas e interações em sites.
+   - **Dados de Geolocalização:** Dados que indicam a localização geográfica de dispositivos e usuários, como coordenadas GPS e dados de localização de celulares.
+   - **Dados de Texto:** Dados em formato de texto, como e-mails, documentos, artigos, postagens em blogs e mensagens instantâneas.
+   - **Dados de Imagem e Vídeo:** Dados visuais, como fotos, vídeos, imagens de satélite e gravações de câmeras de segurança.
+   - **Dados de Áudio:** Dados sonoros, como gravações de chamadas, podcasts, músicas e comandos de voz.
+
+Cada tipo de Big Data possui suas próprias características e desafios de processamento, armazenamento e análise. A escolha das ferramentas e técnicas adequadas para lidar com esses dados depende da natureza específica dos dados e dos objetivos da análise.
+

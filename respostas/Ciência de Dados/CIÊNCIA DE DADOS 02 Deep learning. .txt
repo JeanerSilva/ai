@@ -1,0 +1,61 @@
+CIÊNCIA DE DADOS:: 02 Deep learning. 
+ -
+### Origem do Deep Learning
+
+Deep Learning, ou Aprendizado Profundo, é uma subárea do aprendizado de máquina (Machine Learning) que se baseia em redes neurais artificiais com múltiplas camadas. A origem do Deep Learning pode ser rastreada até os trabalhos iniciais sobre redes neurais na década de 1940, mas ganhou destaque significativo a partir dos anos 2000, com avanços em poder computacional, algoritmos e disponibilidade de grandes volumes de dados.
+
+### Conceitos de Deep Learning
+
+1. **Redes Neurais Artificiais (ANNs)**: Estruturas compostas por camadas de nós (neurônios) que se conectam de maneira semelhante ao cérebro humano.
+2. **Camadas**: As redes neurais são compostas por camadas de entrada, camadas ocultas e camadas de saída.
+3. **Treinamento**: Processo de ajustar os pesos das conexões entre neurônios usando algoritmos de otimização, como o gradiente descendente.
+4. **Função de Ativação**: Funções que introduzem não-linearidade no modelo, permitindo que ele aprenda padrões complexos.
+5. **Backpropagation**: Algoritmo usado para ajustar os pesos das conexões com base no erro da previsão.
+
+### Tipos e Classificações de Deep Learning
+
+#### 1. Redes Neurais Convolucionais (CNNs)
+- **Características**: Especializadas em processamento de dados com estrutura de grade, como imagens. Utilizam camadas convolucionais para extrair características locais.
+- **Aplicações**: Reconhecimento de imagem, detecção de objetos, visão computacional.
+
+#### 2. Redes Neurais Recorrentes (RNNs)
+- **Características**: Adequadas para dados sequenciais. Possuem conexões que formam ciclos, permitindo que a informação persista.
+- **Aplicações**: Processamento de linguagem natural, tradução automática, análise de séries temporais.
+
+#### 3. Redes Neurais de Memória de Longo Curto Prazo (LSTM)
+- **Características**: Tipo de RNN que resolve o problema de dependência de longo prazo. Possui células de memória que podem manter informações por longos períodos.
+- **Aplicações**: Tradução de idiomas, reconhecimento de fala, modelagem de séries temporais.
+
+#### 4. Redes Neurais de Transformadores
+- **Características**: Utilizam mecanismos de atenção para processar dados sequenciais de forma mais eficiente que RNNs. Permitem paralelização durante o treinamento.
+- **Aplicações**: Tradução automática, geração de texto, modelos de linguagem como GPT-3.
+
+#### 5. Redes Neurais Generativas Adversariais (GANs)
+- **Características**: Compostas por duas redes (geradora e discriminadora) que competem entre si. A geradora cria dados falsos e a discriminadora tenta distinguir entre dados reais e falsos.
+- **Aplicações**: Geração de imagens, criação de arte, síntese de dados.
+
+#### 6. Redes Neurais Autoencoders
+- **Características**: Redes que aprendem a codificar os dados de entrada em uma forma comprimida e depois decodificá-los de volta. Utilizadas para redução de dimensionalidade e detecção de anomalias.
+- **Aplicações**: Compressão de dados, remoção de ruído, detecção de fraudes.
+
+#### 7. Redes Neurais de Boltzmann Restritas (RBMs)
+- **Características**: Redes estocásticas que aprendem uma distribuição de probabilidade sobre o conjunto de entradas. Utilizadas como blocos de construção para redes mais complexas.
+- **Aplicações**: Redução de dimensionalidade, recomendação de sistemas, pré-treinamento de redes profundas.
+
+### Detalhamento dos Tipos e suas Características
+
+#### Redes Neurais Convolucionais (CNNs)
+- **Camadas Convolucionais**: Aplicam filtros para extrair características locais.
+- **Pooling**: Reduz a dimensionalidade, mantendo as características mais importantes.
+- **Camadas Completamente Conectadas**: Conectam todos os neurônios de uma camada à próxima, usadas para a classificação final.
+
+#### Redes Neurais Recorrentes (RNNs)
+- **Ciclos**: Permitem que a informação persista ao longo do tempo.
+- **Problema de Vanishing Gradient**: Dificuldade em treinar redes profundas devido à diminuição dos gradientes.
+
+#### Redes Neurais de Memória de Longo Curto Prazo (LSTM)
+- **Células de Memória**: Mantêm informações por longos períodos.
+- **Portas de Entrada, Saída e Esquecimento**: Controlam o fluxo de informações dentro da célula.
+
+#### Redes Neurais
+

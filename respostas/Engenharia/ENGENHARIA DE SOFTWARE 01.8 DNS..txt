@@ -1,0 +1,53 @@
+ENGENHARIA DE SOFTWARE:: 01.8 DNS.
+ -
+### Origem do DNS
+
+O Sistema de Nomes de Domínio (DNS) foi desenvolvido na década de 1980 para resolver problemas de escalabilidade e gerenciamento de nomes na internet. Antes do DNS, os nomes de host eram gerenciados através de um arquivo chamado "hosts.txt", que era distribuído manualmente. Com o crescimento exponencial da internet, esse método tornou-se impraticável, levando à criação do DNS por Paul Mockapetris em 1983, formalizado nas RFCs 882 e 883, posteriormente substituídas pelas RFCs 1034 e 1035.
+
+### Conceitos do DNS
+
+O DNS é um sistema hierárquico e distribuído que traduz nomes de domínio legíveis por humanos (como www.exemplo.com) em endereços IP (como 192.0.2.1), que são utilizados pelos computadores para identificar e localizar recursos na internet. Ele é essencial para a funcionalidade da internet, permitindo que os usuários acessem sites e serviços sem precisar memorizar endereços IP numéricos.
+
+### Tipos e Classificações do DNS
+
+#### 1. **Tipos de Registros DNS**
+
+1. **A (Address Record)**: Mapeia um nome de domínio para um endereço IPv4.
+2. **AAAA (IPv6 Address Record)**: Mapeia um nome de domínio para um endereço IPv6.
+3. **CNAME (Canonical Name Record)**: Alias para outro nome de domínio.
+4. **MX (Mail Exchange Record)**: Direciona emails para servidores de correio.
+5. **NS (Name Server Record)**: Especifica os servidores de nome autoritativos para o domínio.
+6. **PTR (Pointer Record)**: Mapeia um endereço IP para um nome de domínio (usado em DNS reverso).
+7. **SOA (Start of Authority Record)**: Contém informações sobre a zona DNS e o servidor de origem.
+8. **SRV (Service Record)**: Define localização de serviços específicos.
+9. **TXT (Text Record)**: Armazena texto arbitrário, frequentemente usado para verificação de domínio e políticas de email (como SPF, DKIM).
+
+#### 2. **Tipos de Servidores DNS**
+
+1. **Servidores Raiz (Root Servers)**: Servidores no topo da hierarquia DNS que respondem a consultas sobre domínios de nível superior (TLDs).
+2. **Servidores TLD (Top-Level Domain Servers)**: Gerenciam domínios de nível superior, como .com, .org, .net.
+3. **Servidores Autoritativos**: Contêm informações DNS específicas para um domínio e respondem a consultas com dados definitivos.
+4. **Servidores Recursivos (ou Resolvedores)**: Recebem consultas DNS de clientes e realizam a resolução completa, consultando outros servidores DNS conforme necessário.
+
+#### 3. **Tipos de Consultas DNS**
+
+1. **Consulta Recursiva**: O resolvedor DNS realiza toda a resolução da consulta, retornando uma resposta final ao cliente.
+2. **Consulta Iterativa**: O servidor DNS responde com a melhor informação que possui, geralmente um redirecionamento para outro servidor DNS mais próximo da resposta final.
+3. **Consulta Inversa**: Traduz um endereço IP em um nome de domínio, utilizando registros PTR.
+
+### Características dos Tipos de Registros DNS
+
+1. **A Record**: Fundamental para a navegação na web, associando nomes de domínio a endereços IPv4.
+2. **AAAA Record**: Similar ao A Record, mas para endereços IPv6, suportando a nova geração de endereços IP.
+3. **CNAME Record**: Facilita a gestão de domínios, permitindo que um domínio aponte para outro, útil para alias e redirecionamentos.
+4. **MX Record**: Essencial para o funcionamento do email, direcionando mensagens para os servidores de correio apropriados.
+5. **NS Record**: Define quais servidores são autoritativos para um domínio, crucial para a delegação de zonas DNS.
+6. **PTR Record**: Utilizado principalmente para verificação de identidade e resolução reversa, importante para serviços de email e segurança.
+7. **SOA Record**: Contém informações administrativas sobre a zona DNS, incluindo o servidor de origem, email do administrador, e parâmetros de controle de zona.
+8. **SRV Record**: Permite a localização de serviços específicos dentro de um domínio, como servidores de autenticação ou VoIP.
+9. **TXT Record**: Versátil, usado para várias finalidades, incluindo verificação de propriedade de domínio, políticas de email (SPF, DKIM), e outras informações arbitrárias.
+
+### Conclusão
+
+O DNS é um componente crítico da infraestrutura da internet, permitindo a tradução de nomes de domínio em endereços IP e facilitando a navegação e comunicação online. Com uma estrutura
+

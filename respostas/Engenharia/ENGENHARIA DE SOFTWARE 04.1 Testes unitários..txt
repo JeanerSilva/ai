@@ -1,0 +1,67 @@
+ENGENHARIA DE SOFTWARE:: 04.1 Testes unitários.
+ -
+### Origem dos Testes Unitários
+
+Os testes unitários têm suas raízes na prática de desenvolvimento de software, especificamente na metodologia de desenvolvimento orientado a testes (TDD - Test-Driven Development). A ideia de TDD foi popularizada por Kent Beck, um dos criadores do Extreme Programming (XP), no final dos anos 1990. A prática de escrever testes antes do código de produção visa garantir que cada unidade de código funcione conforme o esperado.
+
+### Conceitos de Testes Unitários
+
+Testes unitários são uma forma de teste de software onde pequenas partes individuais de um programa, chamadas de "unidades", são testadas isoladamente. O objetivo é validar que cada unidade de código funcione corretamente. Uma unidade pode ser uma função, um método, uma classe ou um módulo, dependendo do contexto e da linguagem de programação utilizada.
+
+### Tipos e Classificações de Testes Unitários
+
+Os testes unitários podem ser classificados de várias maneiras, dependendo do foco e da abordagem. Abaixo estão os principais tipos e suas características:
+
+#### 1. **Testes de Caixa Branca (White-Box Testing)**
+   - **Descrição**: O teste de caixa branca envolve a verificação da estrutura interna do código. O testador precisa ter conhecimento do código-fonte.
+   - **Características**:
+     - Foco na lógica interna do código.
+     - Verificação de caminhos de execução, loops e condições.
+     - Utilização de técnicas como cobertura de código (code coverage).
+
+#### 2. **Testes de Caixa Preta (Black-Box Testing)**
+   - **Descrição**: O teste de caixa preta foca na funcionalidade da unidade sem considerar a estrutura interna do código. O testador não precisa conhecer o código-fonte.
+   - **Características**:
+     - Baseado em especificações e requisitos.
+     - Verificação de entradas e saídas.
+     - Utilização de técnicas como particionamento de equivalência e análise de valor limite.
+
+#### 3. **Testes de Regressão (Regression Testing)**
+   - **Descrição**: Testes de regressão são realizados para garantir que mudanças no código não introduzam novos defeitos em unidades previamente testadas.
+   - **Características**:
+     - Reexecução de testes existentes após modificações no código.
+     - Foco na estabilidade do software.
+     - Utilização de ferramentas de automação para facilitar a reexecução.
+
+#### 4. **Testes de Integração (Integration Testing)**
+   - **Descrição**: Embora não sejam estritamente testes unitários, os testes de integração são importantes para verificar a interação entre diferentes unidades.
+   - **Características**:
+     - Foco na comunicação entre unidades.
+     - Identificação de problemas de interface.
+     - Utilização de técnicas como testes de integração incremental.
+
+#### 5. **Testes de Performance (Performance Testing)**
+   - **Descrição**: Testes de performance em nível unitário verificam o desempenho de uma unidade específica.
+   - **Características**:
+     - Medição de tempo de execução e uso de recursos.
+     - Identificação de gargalos de performance.
+     - Utilização de ferramentas de profiling.
+
+#### 6. **Testes de Exceção (Exception Testing)**
+   - **Descrição**: Testes de exceção verificam como a unidade lida com condições de erro e exceções.
+   - **Características**:
+     - Verificação de tratamento de erros.
+     - Testes de cenários de falha.
+     - Utilização de técnicas como injeção de falhas.
+
+#### 7. **Testes de Mocking (Mock Testing)**
+   - **Descrição**: Testes de mocking utilizam objetos simulados para testar unidades em isolamento.
+   - **Características**:
+     - Substituição de dependências reais por mocks.
+     - Controle sobre o comportamento das dependências.
+     - Utilização de frameworks de mocking.
+
+### Conclusão
+
+Os testes unitários são uma prática essencial no desenvolvimento de software, garantindo que cada unidade de código funcione corretamente e facilitando a manutenção e evolução do sistema. A escolha do tipo de teste unitário a ser utilizado depende do contexto e dos objetivos específicos do teste.
+

@@ -1,0 +1,62 @@
+ENGENHARIA DE SOFTWARE:: 01.2 HTTP/2.
+ -
+**HTTP/2: Origem, Conceitos, Tipos e Classificações**
+
+**Origem:**
+HTTP/2 é a segunda versão principal do protocolo de rede HTTP, que é usado pela World Wide Web. Foi desenvolvido pelo grupo de trabalho HTTP da Internet Engineering Task Force (IETF) e publicado como RFC 7540 em maio de 2015. HTTP/2 é baseado no protocolo SPDY, desenvolvido pelo Google, e visa melhorar a eficiência e a velocidade de carregamento das páginas web.
+
+**Conceitos:**
+HTTP/2 introduz várias melhorias em relação ao HTTP/1.1, incluindo:
+
+1. **Multiplexação de Streams:** Permite que múltiplas requisições e respostas sejam enviadas simultaneamente sobre uma única conexão TCP, eliminando a necessidade de múltiplas conexões paralelas.
+2. **Compressão de Cabeçalhos:** Utiliza o algoritmo HPACK para reduzir o tamanho dos cabeçalhos HTTP, diminuindo a quantidade de dados transmitidos.
+3. **Prioritização de Streams:** Permite que os clientes indiquem a prioridade das requisições, ajudando os servidores a otimizar a ordem de envio das respostas.
+4. **Server Push:** Permite que os servidores enviem recursos adicionais ao cliente antes mesmo de serem solicitados, antecipando as necessidades do cliente e melhorando a performance.
+5. **Frame-based Protocol:** HTTP/2 divide a comunicação em frames binários, que são mais eficientes e flexíveis do que os textos HTTP/1.1.
+
+**Tipos e Classificações:**
+
+HTTP/2 utiliza diferentes tipos de frames para gerenciar a comunicação entre cliente e servidor. Cada tipo de frame tem uma função específica e características próprias. Abaixo estão os principais tipos de frames em HTTP/2:
+
+1. **DATA Frame:**
+   - **Função:** Transporta os dados da mensagem HTTP.
+   - **Características:** Pode ser fragmentado em múltiplos frames e inclui um indicador de fim de stream.
+
+2. **HEADERS Frame:**
+   - **Função:** Transporta os cabeçalhos HTTP.
+   - **Características:** Pode iniciar um novo stream e pode ser acompanhado por um frame CONTINUATION se os cabeçalhos forem muito grandes.
+
+3. **PRIORITY Frame:**
+   - **Função:** Define ou altera a prioridade de um stream.
+   - **Características:** Inclui informações sobre a dependência e o peso do stream.
+
+4. **RST_STREAM Frame:**
+   - **Função:** Encerra um stream de forma abrupta.
+   - **Características:** Inclui um código de erro que indica o motivo do encerramento.
+
+5. **SETTINGS Frame:**
+   - **Função:** Configura parâmetros de conexão.
+   - **Características:** É trocado durante a inicialização da conexão e pode ser enviado a qualquer momento para ajustar configurações.
+
+6. **PUSH_PROMISE Frame:**
+   - **Função:** Informa ao cliente sobre um recurso que o servidor pretende enviar de forma proativa.
+   - **Características:** Inclui os cabeçalhos do recurso que será enviado.
+
+7. **PING Frame:**
+   - **Função:** Verifica a latência e a conectividade da conexão.
+   - **Características:** É um frame de controle que não carrega dados de aplicação.
+
+8. **GOAWAY Frame:**
+   - **Função:** Informa ao peer que a conexão está sendo encerrada.
+   - **Características:** Inclui um código de erro e o último stream processado.
+
+9. **WINDOW_UPDATE Frame:**
+   - **Função:** Gerencia o fluxo de dados, permitindo o controle de quanta informação pode ser enviada antes de ser necessário aguardar uma confirmação.
+   - **Características:** Ajusta o tamanho da janela de fluxo para um stream ou para a conexão inteira.
+
+10. **CONTINUATION Frame:**
+    - **Função:** Continua os cabeçalhos que não cabem em um único frame HEADERS.
+    - **Características:** Deve seguir imediatamente um frame HEADERS ou outro frame CONTINUATION.
+
+Esses tipos de frames e suas características permitem que HTTP/2 ofereça uma comunicação mais eficiente e flexível entre clientes e servidores, resultando em uma melhor performance e experiência do usuário na web.
+

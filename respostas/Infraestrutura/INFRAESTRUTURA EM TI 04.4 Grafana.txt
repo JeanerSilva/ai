@@ -1,0 +1,74 @@
+INFRAESTRUTURA EM TI:: 04.4 Grafana
+ -
+### Origem do Grafana
+
+Grafana é uma plataforma de código aberto para visualização e análise de dados, que foi lançada pela primeira vez em 2014. Desenvolvida pela Grafana Labs, a ferramenta foi criada para fornecer uma interface intuitiva e poderosa para monitoramento de métricas e logs, permitindo a criação de dashboards interativos e personalizáveis. Desde seu lançamento, Grafana tem sido amplamente adotada por empresas e comunidades de desenvolvedores para monitorar a saúde e o desempenho de sistemas e aplicações.
+
+### Conceitos do Grafana
+
+1. **Dashboards**: São coleções de painéis que exibem dados de várias fontes em um formato visual. Os dashboards podem ser personalizados para atender às necessidades específicas dos usuários.
+2. **Painéis (Panels)**: Componentes individuais de um dashboard que exibem visualizações de dados, como gráficos, tabelas, mapas de calor, entre outros.
+3. **Fontes de Dados (Data Sources)**: Grafana suporta uma ampla variedade de fontes de dados, incluindo bancos de dados SQL e NoSQL, sistemas de monitoramento de métricas, serviços de nuvem, entre outros.
+4. **Consultas (Queries)**: São usadas para extrair dados das fontes de dados. Grafana permite a criação de consultas complexas para obter exatamente os dados necessários.
+5. **Alertas (Alerts)**: Permitem a configuração de notificações baseadas em condições específicas dos dados monitorados. Os alertas podem ser enviados por e-mail, Slack, PagerDuty, entre outros.
+6. **Templating**: Permite a criação de dashboards dinâmicos que podem ser facilmente adaptados a diferentes contextos e variáveis.
+
+### Tipos e Classificações de Grafana
+
+#### 1. **Tipos de Fontes de Dados**
+
+Grafana suporta uma ampla gama de fontes de dados, que podem ser classificadas em várias categorias:
+
+- **Bancos de Dados de Métricas**:
+  - **Prometheus**: Sistema de monitoramento e alerta de código aberto.
+  - **Graphite**: Sistema de monitoramento de séries temporais.
+  - **InfluxDB**: Banco de dados de séries temporais de alta performance.
+  - **OpenTSDB**: Banco de dados de séries temporais distribuído.
+
+- **Bancos de Dados SQL**:
+  - **MySQL**: Sistema de gerenciamento de banco de dados relacional.
+  - **PostgreSQL**: Banco de dados relacional avançado.
+  - **Microsoft SQL Server**: Sistema de gerenciamento de banco de dados relacional da Microsoft.
+
+- **Bancos de Dados NoSQL**:
+  - **Elasticsearch**: Motor de busca e análise distribuído.
+  - **MongoDB**: Banco de dados NoSQL orientado a documentos.
+  - **Cassandra**: Banco de dados NoSQL distribuído.
+
+- **Serviços de Nuvem**:
+  - **AWS CloudWatch**: Serviço de monitoramento da Amazon Web Services.
+  - **Google Cloud Monitoring**: Serviço de monitoramento do Google Cloud.
+  - **Azure Monitor**: Serviço de monitoramento da Microsoft Azure.
+
+- **Outros**:
+  - **Loki**: Sistema de agregação de logs desenvolvido pela Grafana Labs.
+  - **Jaeger**: Sistema de rastreamento distribuído.
+  - **Zipkin**: Sistema de rastreamento distribuído.
+
+#### 2. **Tipos de Painéis**
+
+- **Gráficos (Graphs)**: Visualizações de dados em formato de linha, barra, área, etc.
+- **Tabelas (Tables)**: Exibição de dados em formato tabular.
+- **Mapas de Calor (Heatmaps)**: Visualização de densidade de dados.
+- **Gauges**: Indicadores de valor em formato de medidor.
+- **Singlestat**: Exibição de um único valor estatístico.
+- **Logs**: Exibição de logs em tempo real.
+- **Diagramas**: Visualizações de diagramas de fluxo, redes, etc.
+
+#### 3. **Tipos de Alertas**
+
+- **Threshold-based Alerts**: Alertas baseados em limites predefinidos.
+- **Anomaly Detection Alerts**: Alertas baseados na detecção de anomalias nos dados.
+- **Predictive Alerts**: Alertas baseados em previsões de tendências futuras.
+- **Composite Alerts**: Alertas que combinam múltiplas condições e fontes de dados.
+
+### Características dos Tipos de Painéis
+
+1. **Gráficos (Graphs)**:
+   - **Linha**: Ideal para visualizar tendências ao longo do tempo.
+   - **Barra**: Útil para comparar diferentes categorias ou intervalos de tempo.
+   - **Área**: Similar ao gráfico de linha, mas com a área abaixo da linha preenchida.
+
+2. **Tabelas (Tables)**:
+   - **Dados Estruturados**:
+

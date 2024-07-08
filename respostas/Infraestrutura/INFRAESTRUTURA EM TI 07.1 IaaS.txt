@@ -1,0 +1,57 @@
+INFRAESTRUTURA EM TI:: 07.1 IaaS
+ -
+### Origem do IaaS
+
+A Infraestrutura como Serviço (IaaS) é um modelo de computação em nuvem que surgiu como uma evolução das tecnologias de virtualização e da necessidade de empresas em reduzir custos e aumentar a flexibilidade de suas infraestruturas de TI. A ideia central é fornecer recursos de computação sob demanda, como servidores, armazenamento e redes, através da internet. Grandes provedores de serviços em nuvem, como Amazon Web Services (AWS), Microsoft Azure e Google Cloud Platform (GCP), popularizaram o conceito ao oferecerem soluções escaláveis e pagas conforme o uso.
+
+### Conceitos de IaaS
+
+1. **Virtualização**: A base do IaaS é a virtualização, que permite a criação de máquinas virtuais (VMs) que podem ser gerenciadas de forma independente, mesmo estando em um único hardware físico.
+2. **Elasticidade**: Capacidade de escalar recursos de acordo com a demanda, aumentando ou diminuindo a capacidade conforme necessário.
+3. **Automação**: Processos automatizados para provisionamento, gerenciamento e desprovisionamento de recursos.
+4. **Pagamentos conforme o uso**: Modelo de cobrança baseado no consumo real dos recursos, permitindo maior controle de custos.
+5. **Gerenciamento remoto**: Administração de recursos via interfaces web ou APIs, facilitando o gerenciamento remoto.
+
+### Tipos e Classificações de IaaS
+
+#### 1. **Servidores Virtuais**
+   - **Máquinas Virtuais (VMs)**: Instâncias de servidores que podem ser configuradas com diferentes sistemas operacionais e especificações de hardware.
+   - **Bare Metal**: Servidores físicos dedicados que não compartilham recursos com outras instâncias, oferecendo desempenho máximo.
+
+#### 2. **Armazenamento**
+   - **Armazenamento em Bloco**: Volumes de armazenamento que podem ser anexados a VMs, como discos rígidos virtuais.
+   - **Armazenamento de Arquivos**: Sistemas de arquivos compartilhados acessíveis via protocolos como NFS ou SMB.
+   - **Armazenamento de Objetos**: Armazenamento de dados não estruturados em um formato de objetos, acessível via APIs HTTP.
+
+#### 3. **Redes**
+   - **Redes Virtuais Privadas (VPNs)**: Conexões seguras entre redes privadas e a infraestrutura de nuvem.
+   - **Balanceadores de Carga**: Distribuição de tráfego de rede entre várias VMs para otimizar o desempenho.
+   - **Firewalls Virtuais**: Regras de segurança para controlar o tráfego de rede entre diferentes segmentos da infraestrutura.
+
+#### 4. **Gerenciamento de Identidade e Acesso**
+   - **IAM (Identity and Access Management)**: Ferramentas para gerenciar usuários e permissões de acesso aos recursos de IaaS.
+   - **Autenticação Multifator (MFA)**: Camada adicional de segurança que requer múltiplas formas de verificação para acessar recursos.
+
+#### 5. **Ferramentas de Gerenciamento e Monitoramento**
+   - **Painéis de Controle**: Interfaces web para gerenciar e monitorar recursos de IaaS.
+   - **APIs e SDKs**: Interfaces de programação que permitem a automação e integração de serviços de IaaS com outras aplicações.
+   - **Soluções de Monitoramento**: Ferramentas para rastrear o desempenho e a saúde dos recursos, como logs e métricas.
+
+#### 6. **Serviços de Backup e Recuperação**
+   - **Backup Automatizado**: Soluções que permitem a criação de backups regulares dos dados armazenados.
+   - **Recuperação de Desastres**: Ferramentas e serviços para restaurar dados e sistemas em caso de falhas ou desastres.
+
+### Características dos Tipos de IaaS
+
+1. **Servidores Virtuais**
+   - **Máquinas Virtuais (VMs)**: Flexibilidade para escolher o sistema operacional e configurar recursos como CPU, memória e armazenamento. Ideal para cargas de trabalho variadas.
+   - **Bare Metal**: Oferece desempenho superior sem a sobrecarga de virtualização. Adequado para aplicações que exigem alta performance e baixa latência.
+
+2. **Armazenamento**
+   - **Armazenamento em Bloco**: Semelhante a um disco rígido tradicional, pode ser formatado e usado como armazenamento primário para VMs.
+   - **Armazenamento de Arquivos**: Facilita o compartilhamento de arquivos entre várias instâncias e usuários.
+   - **Armazenamento de Objetos**: Escalável e ideal para armazenar grandes volumes de dados não estruturados, como arquivos de mídia e backups.
+
+3. **Redes**
+   - **Redes Virtuais Privadas (VPNs)**: Garantem a segurança e a privacidade das
+

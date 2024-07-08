@@ -1,0 +1,70 @@
+INFRAESTRUTURA EM TI:: 02.2 Kubernetes
+ -
+### Kubernetes: Origem, Conceitos, Tipos e Classificações
+
+#### Origem
+Kubernetes é uma plataforma de código aberto para automação de implantação, dimensionamento e operações de contêineres de aplicativos. Foi originalmente desenvolvido pelo Google e lançado como um projeto de código aberto em 2014. O nome "Kubernetes" vem do grego e significa "timoneiro" ou "piloto". O projeto é atualmente mantido pela Cloud Native Computing Foundation (CNCF).
+
+#### Conceitos
+Kubernetes é uma ferramenta poderosa para gerenciar contêineres em um ambiente de produção. Ele oferece uma série de funcionalidades que facilitam a orquestração de contêineres, incluindo:
+
+1. **Cluster**: Um conjunto de máquinas (nós) que executam contêineres gerenciados pelo Kubernetes.
+2. **Node**: Uma única máquina no cluster, que pode ser física ou virtual.
+3. **Pod**: A menor unidade de implantação em Kubernetes, que pode conter um ou mais contêineres.
+4. **Service**: Uma abstração que define um conjunto lógico de Pods e uma política para acessá-los.
+5. **Namespace**: Um mecanismo para dividir um cluster Kubernetes em vários ambientes virtuais.
+6. **Deployment**: Um controlador que gerencia a implantação de Pods e ReplicaSets.
+7. **ReplicaSet**: Garante que um número especificado de réplicas de um Pod esteja em execução a qualquer momento.
+8. **ConfigMap** e **Secret**: Mecanismos para injetar dados de configuração e segredos nos Pods.
+
+#### Tipos e Classificações
+
+##### 1. **Pods**
+- **Single-container Pod**: Contém um único contêiner. É o caso mais comum.
+- **Multi-container Pod**: Contém múltiplos contêineres que compartilham o mesmo espaço de rede e armazenamento.
+
+##### 2. **Services**
+- **ClusterIP**: Exponibiliza o serviço internamente no cluster.
+- **NodePort**: Exponibiliza o serviço em um porto estático em cada nó do cluster.
+- **LoadBalancer**: Exponibiliza o serviço externamente usando um balanceador de carga.
+- **ExternalName**: Mapeia o serviço para um nome DNS externo.
+
+##### 3. **Volumes**
+- **emptyDir**: Um volume temporário que é criado quando um Pod é atribuído a um nó.
+- **hostPath**: Monta um arquivo ou diretório do sistema de arquivos do host no Pod.
+- **nfs**: Monta um volume NFS (Network File System).
+- **persistentVolumeClaim**: Reivindica um PersistentVolume para ser usado por um Pod.
+- **configMap**: Monta um ConfigMap como um volume.
+- **secret**: Monta um Secret como um volume.
+
+##### 4. **Controllers**
+- **ReplicationController**: Garante que um número especificado de réplicas de um Pod esteja em execução.
+- **ReplicaSet**: Uma versão mais recente do ReplicationController, com suporte a seletores mais complexos.
+- **Deployment**: Gerencia ReplicaSets e permite atualizações declarativas de Pods.
+- **StatefulSet**: Gerencia Pods com identidade persistente e armazenamento estável.
+- **DaemonSet**: Garante que todos ou alguns nós executem uma cópia de um Pod.
+- **Job**: Cria um ou mais Pods e garante que um número especificado de Pods termine com sucesso.
+- **CronJob**: Executa Jobs em intervalos de tempo especificados, semelhante ao cron do Unix.
+
+##### 5. **Namespaces**
+- **Default**: O namespace padrão para objetos não especificados.
+- **Kube-system**: Usado para objetos criados pelo sistema Kubernetes.
+- **Kube-public**: Um namespace público que pode ser lido por todos os usuários.
+- **Custom Namespaces**: Criados pelo usuário para organizar recursos de forma lógica.
+
+#### Características dos Tipos
+
+1. **Pods**
+   - **Single-container Pod**: Simples de gerenciar, ideal para a maioria dos casos de uso.
+   - **Multi-container Pod**: Útil para contêineres que precisam compartilhar recursos, como um contêiner de log e um contêiner de aplicação.
+
+2. **Services**
+   - **ClusterIP**: Ideal para comunicação interna entre serviços.
+   - **NodePort**: Útil para expor serviços para fora do cluster sem um balanceador de carga.
+   - **LoadBalancer**: Melhor para expor serviços para a internet com balanceamento de carga.
+   - **ExternalName**: Útil para integrar serviços externos ao cluster.
+
+3. **Volumes**
+   - **emptyDir**: Temporário, ideal para dados que não precisam ser persistidos.
+   - **hostPath**: Útil para acesso
+

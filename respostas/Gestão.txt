@@ -1,0 +1,227 @@
+﻿GESTÃO EM TI:: 01 Kanban.
+Origem do Kanban
+O Kanban é uma metodologia de gerenciamento de trabalho que teve origem no Japão, mais especificamente na Toyota, durante a década de 1940. Desenvolvido por Taiichi Ohno, o sistema foi criado para melhorar a eficiência da produção e minimizar o desperdício. O termo “Kanban” significa “cartão” ou “sinalização” em japonês, refletindo a prática de usar cartões visuais para sinalizar tarefas e fluxos de trabalho.
+Conceitos do Kanban
+O Kanban é baseado em alguns conceitos fundamentais:
+1. Visualização do Trabalho: Utiliza quadros e cartões para visualizar o fluxo de trabalho, tornando mais fácil identificar gargalos e áreas de melhoria.
+2. Limitação do Trabalho em Progresso (WIP): Define limites para a quantidade de trabalho que pode estar em progresso em qualquer estágio do processo, ajudando a evitar sobrecarga e melhorar o foco.
+3. Gestão do Fluxo: Monitora e gerencia o fluxo de trabalho para garantir que ele seja suave e eficiente.
+4. Melhoria Contínua: Encoraja a revisão constante dos processos e a implementação de melhorias incrementais.
+5. Políticas Explícitas: Define regras claras e acordadas para o funcionamento do sistema, garantindo que todos os membros da equipe estejam alinhados.
+Tipos e Classificações do Kanban
+O Kanban pode ser classificado de várias maneiras, dependendo do contexto e da aplicação. Aqui estão os principais tipos e suas características:
+1. Kanban de Produção
+• Características: Utilizado principalmente em ambientes de manufatura para controlar a produção e o estoque. Os cartões Kanban são usados para sinalizar quando novos materiais ou componentes são necessários.
+• Exemplo: Um cartão Kanban é colocado em uma caixa de peças. Quando a caixa está quase vazia, o cartão é enviado ao fornecedor para reabastecimento.
+2. Kanban de Movimentação
+• Características: Focado na movimentação de materiais entre diferentes etapas do processo de produção. Ajuda a garantir que os materiais certos estejam no lugar certo na hora certa.
+• Exemplo: Um cartão Kanban é usado para sinalizar a necessidade de mover componentes de uma estação de trabalho para outra.
+3. Kanban de Fornecimento
+• Características: Utilizado para gerenciar o fornecimento de materiais e componentes de fornecedores externos. Ajuda a sincronizar a produção com a entrega de materiais.
+• Exemplo: Um cartão Kanban é enviado ao fornecedor quando o estoque de um componente específico atinge um nível predeterminado.
+4. Kanban de Emergência
+• Características: Usado para lidar com situações imprevistas ou emergenciais que exigem atenção imediata. Ajuda a priorizar e resolver problemas críticos rapidamente.
+• Exemplo: Um cartão Kanban de emergência é criado quando uma máquina quebra, sinalizando a necessidade de reparo imediato.
+5. Kanban Eletrônico (e-Kanban)
+• Características: Utiliza ferramentas digitais para gerenciar o fluxo de trabalho, substituindo os cartões físicos por sistemas eletrônicos. Oferece maior flexibilidade e integração com outras ferramentas de software.
+• Exemplo: Um sistema de e-Kanban envia notificações automáticas para reabastecimento de estoque ou movimentação de materiais.
+6. Kanban de Serviço
+• Características: Aplicado em ambientes de serviços, como TI, saúde e atendimento ao cliente. Ajuda a gerenciar tarefas e fluxos de trabalho não relacionados à produção física.
+• Exemplo: Um quadro Kanban é usado para gerenciar tickets de suporte técnico, com colunas para “A Fazer”, “Em Progresso” e “Concluído”.
+Detalhamento dos Tipos de Kanban
+Kanban de Produção
+• Objetivo: Controlar a produção e o estoque.
+• Uso: Sinalizar a necessidade de produção ou reabastecimento.
+• Benefícios: Redução de excesso de estoque, melhoria na eficiência de produção.
+Kanban de Movimentação
+• Objetivo: Gerenciar a movimentação de materiais entre etapas do processo.
+• Uso: Sinalizar a necessidade de mover materiais.
+• Benefícios: Redução de tempo de espera, melhoria na coordenação entre etapas.
+Kanban de Fornecimento
+• Objetivo: Sincronizar a produção com a entrega de materiais de fornecedores externos.
+• Uso: Sinalizar a necessidade de reabastecimento de materiais.
+• Benefícios: Redução de interrupções na produção, melhoria na relação com fornecedores.
+Kanban de Emergência
+• Objetivo: Lidar com situações im
+GESTÃO EM TI:: 02 Scrum.
+Origem do Scrum
+Scrum é uma metodologia ágil para gestão e planejamento de projetos de software. Foi inicialmente introduzida por Hirotaka Takeuchi e Ikujiro Nonaka em um artigo de 1986 intitulado “The New New Product Development Game”. Posteriormente, Ken Schwaber e Jeff Sutherland adaptaram e formalizaram o Scrum para o desenvolvimento de software na década de 1990.
+Conceitos do Scrum
+1. Sprint: Período de tempo fixo (geralmente de 2 a 4 semanas) durante o qual um conjunto de atividades deve ser concluído e estar pronto para revisão.
+2. Product Backlog: Lista ordenada de tudo que é necessário no produto, gerenciada pelo Product Owner.
+3. Sprint Backlog: Conjunto de itens do Product Backlog selecionados para o Sprint, mais um plano para entregar o incremento do produto e realizar o objetivo do Sprint.
+4. Incremento: Soma de todos os itens do Product Backlog completados durante um Sprint e os incrementos de todos os Sprints anteriores.
+5. Daily Scrum: Reunião diária de 15 minutos para a equipe sincronizar atividades e criar um plano para as próximas 24 horas.
+6. Sprint Review: Reunião realizada no final do Sprint para inspecionar o incremento e adaptar o Product Backlog, se necessário.
+7. Sprint Retrospective: Reunião realizada após o Sprint Review e antes do próximo Sprint Planning para a equipe refletir sobre o Sprint passado e planejar melhorias para o próximo.
+Tipos e Classificações no Scrum
+1. Papéis no Scrum
+• Product Owner: Responsável por maximizar o valor do produto e do trabalho da equipe de desenvolvimento. Gerencia o Product Backlog.
+• Scrum Master: Facilita o Scrum para a equipe, garante que o Scrum seja entendido e seguido, e remove impedimentos.
+• Equipe de Desenvolvimento: Grupo de profissionais que trabalham para entregar um incremento “Pronto” (Done) ao final de cada Sprint.
+2. Eventos no Scrum
+• Sprint Planning: Reunião para planejar o trabalho do Sprint.
+• Daily Scrum: Reunião diária para sincronização da equipe.
+• Sprint Review: Reunião para inspecionar o incremento e adaptar o Product Backlog.
+• Sprint Retrospective: Reunião para refletir sobre o Sprint passado e planejar melhorias.
+3. Artefatos no Scrum
+• Product Backlog: Lista ordenada de tudo que é necessário no produto.
+• Sprint Backlog: Conjunto de itens do Product Backlog selecionados para o Sprint.
+• Incremento: Soma de todos os itens do Product Backlog completados durante um Sprint e os incrementos de todos os Sprints anteriores.
+4. Tipos de Backlog Items
+• Épicos: Grandes corpos de trabalho que podem ser divididos em histórias menores.
+• Histórias de Usuário: Descrições curtas de uma funcionalidade contada da perspectiva do usuário final.
+• Tarefas: Itens menores que descrevem o trabalho necessário para completar uma história de usuário.
+• Defeitos: Problemas ou bugs que precisam ser corrigidos.
+Detalhamento dos Tipos e Suas Características
+Papéis no Scrum
+• Product Owner:
+o Define a visão do produto.
+o Gerencia e prioriza o Product Backlog.
+o Garante que a equipe entenda os itens do Product Backlog.
+• Scrum Master:
+o Facilita reuniões Scrum.
+o Remove impedimentos que atrapalham a equipe.
+o Ensina e garante a adesão ao Scrum.
+• Equipe de Desenvolvimento:
+o Autogerenciada e multifuncional.
+o Responsável por entregar incrementos de produto.
+o Colabora para alcançar o objetivo do Sprint.
+Eventos no Scrum
+• Sprint Planning:
+o Define o objetivo do Sprint.
+o Seleciona itens do Product Backlog para o Sprint.
+o Cria um plano para entregar o incremento.
+• Daily Scrum:
+o Reunião de 15 minutos.
+o Cada membro responde: O que fiz ontem? O que farei hoje? Há algum impedimento?
+• Sprint Review:
+o Demonstração do incremento.
+o Feedback dos stakeholders.
+o Adaptação do Product Backlog.
+• Sprint Retrospective:
+o Reflexão sobre o Sprint.
+o Identificação de melhorias.
+o Planejamento de ações para o próximo Sprint.
+Artefatos no Scrum
+• Product Backlog: 
+o Lista dinâmica e ordenada.
+o Contém todas as funcionalidades desejadas.
+GESTÃO EM TI:: 03 Governança de Dados.
+Governança de Dados: Origem, Conceitos, Tipos e Classificações
+Origem
+A governança de dados surgiu como uma resposta à crescente necessidade das organizações de gerenciar e proteger seus dados de maneira eficaz. Com o aumento exponencial da quantidade de dados gerados e a complexidade das regulamentações de privacidade e segurança, tornou-se essencial estabelecer políticas e procedimentos claros para garantir a integridade, disponibilidade e confidencialidade dos dados. A governança de dados evoluiu a partir de práticas de gestão de informações e TI, ganhando destaque com a implementação de regulamentações como o GDPR na Europa e a LGPD no Brasil.
+Conceitos
+A governança de dados refere-se ao conjunto de práticas, políticas, processos e estruturas organizacionais que garantem a gestão eficaz dos dados dentro de uma organização. Seus principais objetivos incluem:
+1. Qualidade dos Dados: Garantir que os dados sejam precisos, completos, consistentes e atualizados.
+2. Segurança dos Dados: Proteger os dados contra acessos não autorizados e violações.
+3. Conformidade: Assegurar que a organização esteja em conformidade com regulamentações e normas aplicáveis.
+4. Gestão de Metadados: Manter informações sobre os dados, como origem, uso e formato.
+5. Responsabilidade e Propriedade: Definir claramente quem é responsável por diferentes conjuntos de dados e suas respectivas funções.
+Tipos e Classificações
+1. Governança de Dados Corporativa
+o Descrição: Envolve a implementação de políticas e procedimentos em toda a organização para gerenciar dados de maneira centralizada.
+o Características: 
+• Políticas e Procedimentos: Estabelecimento de regras e diretrizes para o uso de dados.
+• Estrutura Organizacional: Criação de comitês e funções específicas para a governança de dados.
+• Ferramentas e Tecnologias: Utilização de softwares para monitorar e gerenciar dados.
+2. Governança de Dados de TI
+o Descrição: Foca na gestão de dados dentro do departamento de TI, garantindo que os sistemas e infraestruturas de TI suportem a governança de dados.
+o Características: 
+• Segurança de TI: Implementação de medidas de segurança para proteger dados.
+• Gestão de Infraestrutura: Manutenção de sistemas e redes que armazenam e processam dados.
+• Backup e Recuperação: Planos para garantir a continuidade dos dados em caso de falhas.
+3. Governança de Dados de Negócios
+o Descrição: Alinha a gestão de dados com os objetivos e estratégias de negócios, garantindo que os dados suportem a tomada de decisões e operações comerciais.
+o Características: 
+• Alinhamento Estratégico: Garantir que os dados estejam alinhados com os objetivos de negócios.
+• Qualidade dos Dados: Foco na precisão e utilidade dos dados para decisões de negócios.
+• Engajamento das Partes Interessadas: Envolvimento de diferentes departamentos e níveis hierárquicos na governança de dados.
+Classificações
+1. Baseada em Funções
+o Descrição: Classificação dos dados com base nas funções e responsabilidades dentro da organização.
+o Exemplos: 
+• Proprietário de Dados: Responsável pela gestão e qualidade dos dados.
+• Administrador de Dados: Gerencia o acesso e a segurança dos dados.
+• Usuário de Dados: Utiliza os dados para realizar tarefas e tomar decisões.
+2. Baseada em Dados
+o Descrição: Classificação dos dados com base em suas características e uso.
+o Exemplos: 
+• Dados Mestres: Dados essenciais para operações de negócios, como informações de clientes e produtos.
+• Dados Transacionais: Dados gerados a partir de transações comerciais, como vendas e compras.
+• Dados Analíticos: Dados utilizados para análises e relatórios.
+3. Baseada em Regulação
+o Descrição: Classificação dos dados com base nas regulamentações e conformidades aplicáveis.
+o Exemplos: 
+• Dados Pessoais: Dados que identificam ou podem identificar uma pessoa, sujeitos a regulamentações como GDPR e LGPD.
+• Dados Sensíveis: Dados que requerem proteção adicional devido à sua natureza, como informações de saúde e financeiras.
+• Dados Públicos: Dados que podem ser acessados e utilizados pelo público em geral.
+A governança de dados é uma disciplina multifacetada que envolve a colaboração entre diferentes departamentos e níveis hierárquicos dentro de uma organização. A implementação eficaz de uma estratégia de governança de dados pode
+GESTÃO EM TI:: 04 ITIL v4 -
+Origem do ITIL v4
+O ITIL (Information Technology Infrastructure Library) é um conjunto de práticas detalhadas para a gestão de serviços de TI (Tecnologia da Informação) que se originou no Reino Unido na década de 1980. Foi desenvolvido pela Central Computer and Telecommunications Agency (CCTA), que mais tarde se tornou parte do Office of Government Commerce (OGC). O ITIL foi criado para padronizar as práticas de gestão de TI e melhorar a eficiência e a eficácia dos serviços de TI nas organizações.
+Conceitos do ITIL v4
+O ITIL v4, lançado em 2019, é a versão mais recente e introduz uma abordagem mais flexível e adaptável para a gestão de serviços de TI. Os principais conceitos do ITIL v4 incluem:
+1. Sistema de Valor de Serviço (SVS): Um modelo que descreve como todos os componentes e atividades de uma organização trabalham juntos para criar valor.
+2. Cadeia de Valor de Serviço (SVC): Um conjunto de atividades interconectadas que fornecem um modelo operacional para a criação, entrega e melhoria contínua de serviços.
+3. Princípios Orientadores: Diretrizes que ajudam as organizações a adotar e adaptar o ITIL para suas necessidades específicas.
+4. Governança: Estruturas e processos que garantem que as políticas e estratégias da organização sejam seguidas.
+5. Práticas de Gestão: Conjuntos de recursos organizacionais projetados para realizar trabalhos ou atingir um objetivo.
+Tipos e Classificações no ITIL v4
+O ITIL v4 classifica suas práticas de gestão em três categorias principais: práticas de gestão geral, práticas de gestão de serviços e práticas de gestão técnica. Cada uma dessas categorias contém várias práticas específicas.
+1. Práticas de Gestão Geral
+Estas práticas são aplicáveis a todas as áreas da organização, não apenas à TI. Elas incluem:
+• Gestão de Arquitetura
+• Melhoria Contínua
+• Gestão de Segurança da Informação
+• Gestão do Conhecimento
+• Gestão de Medição e Relato
+• Gestão de Mudança Organizacional
+• Gestão de Portfólio
+• Gestão de Projeto
+• Gestão de Risco
+• Gestão Financeira
+• Gestão de Estratégia
+• Gestão de Força de Trabalho e Talento
+2. Práticas de Gestão de Serviços
+Estas práticas são específicas para a gestão de serviços de TI. Elas incluem:
+• Gestão de Disponibilidade
+• Análise de Negócios
+• Gestão de Capacidade e Desempenho
+• Gestão de Catálogo de Serviços
+• Gestão de Incidentes
+• Gestão de Problemas
+• Gestão de Liberação
+• Gestão de Nível de Serviço
+• Gestão de Continuidade de Serviço
+• Gestão de Configuração de Serviço
+• Gestão de Ativos de TI
+• Gestão de Mudança
+• Gestão de Solicitação de Serviço
+• Gestão de Provedor de Serviço
+• Gestão de Disponibilidade e Capacidade
+• Gestão de Eventos
+• Gestão de Conhecimento
+• Gestão de Segurança da Informação
+• Gestão de Relacionamento
+• Gestão de Risco
+• Gestão de Fornecedores
+3. Práticas de Gestão Técnica
+Estas práticas são focadas em aspectos técnicos da gestão de serviços de TI. Elas incluem:
+• Gestão de Implantação
+• Gestão de Infraestrutura e Plataforma
+• Desenvolvimento e Gerenciamento de Software
+Detalhamento dos Tipos e suas Características
+Práticas de Gestão Geral
+• Gestão de Arquitetura: Define a estrutura e a operação dos sistemas de TI.
+• Melhoria Contínua: Foca na melhoria contínua dos serviços e processos.
+• Gestão de Segurança da Informação: Protege a informação contra ameaças.
+• Gestão do Conhecimento: Garante que a informação correta esteja disponível para as pessoas certas.
+• Gestão de Medição e Relato: Coleta e analisa dados para apoiar a tomada de decisões.
+• Gestão de Mudança Organizacional: Gerencia mudanças organizacionais para minimizar impactos negativos.
+• Gestão de Portfólio: Gerencia o portfólio de serviços e projetos.
+• Gestão de Projeto: Planeja e executa projetos para atingir objetivos específicos.
+• Gestão de Risco: Identifica, avalia e controla riscos.
+• Gestão Financeira: Gerencia os aspectos financeiros dos serviços de TI.
+• Gestão de Estratégia: Define a direção e a estratégia da organização
+

@@ -1,0 +1,72 @@
+ENGENHARIA DE SOFTWARE:: 04.4 BDD.
+ -
+### Origem do BDD (Behavior-Driven Development)
+
+O BDD (Behavior-Driven Development) é uma metodologia de desenvolvimento de software que surgiu como uma evolução do TDD (Test-Driven Development). Foi introduzido por Dan North em meados dos anos 2000. A ideia principal do BDD é melhorar a comunicação entre desenvolvedores, testadores e stakeholders, utilizando uma linguagem comum e compreensível por todos os envolvidos no projeto.
+
+### Conceitos do BDD
+
+1. **Comunicação**: O BDD enfatiza a importância de uma comunicação clara e eficaz entre todos os membros da equipe de desenvolvimento e os stakeholders.
+2. **Especificação por exemplo**: Utiliza exemplos concretos para definir o comportamento do sistema.
+3. **Linguagem Ubíqua**: Adota uma linguagem comum (geralmente baseada em linguagem natural) que pode ser entendida por todos os envolvidos no projeto.
+4. **Cenários**: Descreve o comportamento do sistema em termos de cenários que representam diferentes situações de uso.
+5. **Automação de Testes**: Os cenários são usados para criar testes automatizados que validam o comportamento do sistema.
+
+### Tipos e Classificações do BDD
+
+O BDD pode ser classificado em diferentes tipos com base em várias dimensões, como a forma de escrita dos cenários, as ferramentas utilizadas e os níveis de teste. Abaixo estão os principais tipos e suas características:
+
+#### 1. **Tipos Baseados na Forma de Escrita dos Cenários**
+
+- **Given-When-Then**: Este é o formato mais comum para escrever cenários BDD. Ele divide cada cenário em três partes:
+  - **Given**: Define o contexto inicial do cenário.
+  - **When**: Descreve a ação ou evento que ocorre.
+  - **Then**: Especifica o resultado esperado após a ação.
+
+- **Feature Files**: Arquivos que contêm uma coleção de cenários escritos em uma linguagem específica, como Gherkin. Cada arquivo de feature descreve uma funcionalidade do sistema.
+
+#### 2. **Tipos Baseados nas Ferramentas Utilizadas**
+
+- **Cucumber**: Uma das ferramentas mais populares para BDD. Utiliza a linguagem Gherkin para escrever cenários e permite a integração com várias linguagens de programação.
+- **SpecFlow**: Ferramenta BDD para .NET que também utiliza a linguagem Gherkin.
+- **JBehave**: Ferramenta BDD para Java que permite a escrita de cenários em linguagem natural.
+- **Behat**: Ferramenta BDD para PHP que utiliza a linguagem Gherkin.
+
+#### 3. **Tipos Baseados nos Níveis de Teste**
+
+- **Unitários**: Testes que verificam o comportamento de unidades individuais do código, como funções ou métodos.
+- **Integração**: Testes que verificam a interação entre diferentes unidades ou componentes do sistema.
+- **Funcionais**: Testes que verificam o comportamento do sistema como um todo, geralmente a partir da perspectiva do usuário final.
+- **Aceitação**: Testes que validam se o sistema atende aos requisitos e expectativas dos stakeholders.
+
+### Características dos Tipos de BDD
+
+#### Given-When-Then
+
+- **Given**: Define o estado inicial do sistema antes da ação.
+- **When**: Descreve a ação que o usuário ou sistema realiza.
+- **Then**: Especifica o resultado esperado após a ação.
+
+#### Feature Files
+
+- **Estrutura**: Contém uma descrição da funcionalidade e uma lista de cenários.
+- **Linguagem**: Geralmente escrita em Gherkin, que é uma linguagem de domínio específico para BDD.
+
+#### Ferramentas (Cucumber, SpecFlow, JBehave, Behat)
+
+- **Cucumber**: Suporta várias linguagens de programação e é amplamente utilizado.
+- **SpecFlow**: Integrado ao ecossistema .NET, permite a escrita de cenários em Gherkin.
+- **JBehave**: Focado em Java, permite a escrita de histórias de usuário em linguagem natural.
+- **Behat**: Focado em PHP, utiliza Gherkin para escrever cenários.
+
+#### Níveis de Teste
+
+- **Unitários**: Focados em pequenas unidades de código, rápidos e isolados.
+- **Integração**: Verificam a interação entre componentes, mais complexos que os testes unitários.
+- **Funcionais**: Testam o sistema do ponto de vista do usuário, abrangentes e mais demorados.
+- **Aceitação**: Validam os requisitos do sistema, geralmente escritos em colaboração com os stakeholders.
+
+### Conclusão
+
+O BDD é uma metodologia que visa melhorar a comunicação e a clareza no desenvolvimento de software, utilizando cenários escritos em linguagem natural para definir o comportamento do sistema. Ele pode ser implementado
+

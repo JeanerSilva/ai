@@ -1,0 +1,65 @@
+INFRAESTRUTURA EM TI:: 03.3 Radius em Rede Microsoft Windows Server
+ -
+### Origem do RADIUS em Rede Microsoft Windows Server
+
+O RADIUS (Remote Authentication Dial-In User Service) é um protocolo de rede desenvolvido originalmente pela Livingston Enterprises, Inc. em 1991, e posteriormente padronizado pela IETF (Internet Engineering Task Force). No contexto do Microsoft Windows Server, o RADIUS é implementado através do serviço Network Policy Server (NPS), que é a versão da Microsoft do servidor RADIUS.
+
+### Conceitos de RADIUS
+
+1. **Autenticação**: Verifica a identidade do usuário ou dispositivo que está tentando acessar a rede.
+2. **Autorização**: Determina os recursos e serviços que o usuário ou dispositivo autenticado pode acessar.
+3. **Contabilidade**: Monitora e registra o uso dos recursos da rede por parte dos usuários ou dispositivos.
+
+### Tipos e Classificações de RADIUS
+
+#### 1. **Tipos de Servidores RADIUS**
+
+- **Servidor RADIUS**: Centraliza a autenticação, autorização e contabilidade dos usuários que acessam a rede.
+- **Cliente RADIUS**: Dispositivos de rede como roteadores, switches e pontos de acesso que enviam solicitações de autenticação ao servidor RADIUS.
+- **Proxy RADIUS**: Encaminha solicitações de autenticação de um cliente RADIUS para um servidor RADIUS apropriado.
+
+#### 2. **Tipos de Implementações de RADIUS no Windows Server**
+
+- **Network Policy Server (NPS)**: Implementação do servidor RADIUS no Windows Server. NPS permite a criação e gerenciamento de políticas de rede para autenticação, autorização e contabilidade.
+- **RADIUS Proxy**: NPS pode ser configurado como um proxy RADIUS para encaminhar solicitações de autenticação para outros servidores RADIUS.
+
+#### 3. **Tipos de Autenticação RADIUS**
+
+- **PAP (Password Authentication Protocol)**: Envia senhas em texto claro. É o método menos seguro.
+- **CHAP (Challenge-Handshake Authentication Protocol)**: Utiliza um desafio e resposta para autenticar o usuário, oferecendo maior segurança que o PAP.
+- **MS-CHAP (Microsoft Challenge-Handshake Authentication Protocol)**: Versão proprietária da Microsoft do CHAP, com melhorias de segurança.
+- **EAP (Extensible Authentication Protocol)**: Protocolo flexível que suporta múltiplos métodos de autenticação, incluindo certificados digitais, smart cards e autenticação biométrica.
+
+#### 4. **Tipos de Políticas de Rede no NPS**
+
+- **Políticas de Conexão**: Definem as condições que devem ser atendidas para que uma conexão seja permitida.
+- **Políticas de Rede**: Especificam os requisitos de autenticação e autorização para os usuários e dispositivos que tentam acessar a rede.
+
+#### 5. **Tipos de Logs e Relatórios**
+
+- **Logs de Contabilidade**: Registram o uso dos recursos da rede, incluindo tempo de conexão, quantidade de dados transferidos, etc.
+- **Logs de Auditoria**: Registram eventos de autenticação e autorização, ajudando na identificação de possíveis problemas de segurança.
+- **Relatórios de Conformidade**: Ajudam a garantir que as políticas de rede estão sendo seguidas e podem ser usados para auditorias de segurança.
+
+### Características dos Tipos de Autenticação RADIUS
+
+1. **PAP (Password Authentication Protocol)**
+   - **Segurança**: Baixa, pois as senhas são enviadas em texto claro.
+   - **Uso**: Raramente usado devido à falta de segurança.
+
+2. **CHAP (Challenge-Handshake Authentication Protocol)**
+   - **Segurança**: Moderada, utiliza um desafio e resposta para autenticar.
+   - **Uso**: Mais seguro que PAP, mas ainda vulnerável a certos tipos de ataques.
+
+3. **MS-CHAP (Microsoft Challenge-Handshake Authentication Protocol)**
+   - **Segurança**: Alta, inclui melhorias de segurança sobre o CHAP.
+   - **Uso**: Comumente usado em ambientes Windows.
+
+4. **EAP (Extensible Authentication Protocol)**
+   - **Segurança**: Muito alta, suporta múltiplos métodos de autenticação.
+   - **Uso**: Amplamente usado em redes que requerem alta segurança, como redes sem fio e VPNs.
+
+### Conclusão
+
+O RADIUS no Microsoft Windows Server, implementado através do NPS, é uma solução robusta para autenticação, autorização e contabilidade em redes. Ele suporta diversos tipos de autenticação e pode ser configurado para funcionar como servidor ou proxy RADIUS, oferecendo flexibilidade e segurança para a gestão de políticas de rede.
+

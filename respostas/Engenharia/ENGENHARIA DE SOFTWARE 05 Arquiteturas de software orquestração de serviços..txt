@@ -1,0 +1,75 @@
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software orquestração de serviços.
+ -
+### Arquiteturas de Software para Orquestração de Serviços
+
+#### Origem
+A orquestração de serviços emergiu com a evolução das arquiteturas orientadas a serviços (SOA) e a necessidade de coordenar múltiplos serviços para realizar processos de negócios complexos. Com a crescente adoção de microserviços e computação em nuvem, a orquestração tornou-se essencial para gerenciar a interação entre serviços distribuídos.
+
+#### Conceitos
+- **Orquestração de Serviços**: Refere-se à coordenação e gerenciamento de múltiplos serviços para executar processos de negócios complexos. Envolve a definição de fluxos de trabalho, controle de execução e manipulação de dados entre serviços.
+- **Arquitetura de Software**: Estrutura fundamental de um sistema, composta por seus componentes, suas relações e os princípios que orientam seu design e evolução.
+
+#### Tipos e Classificações
+
+1. **Arquitetura Monolítica**
+   - **Descrição**: Sistema único e indivisível onde todos os componentes e serviços estão integrados em um único código base.
+   - **Características**:
+     - Simplicidade no desenvolvimento inicial.
+     - Desafios na escalabilidade e manutenção.
+     - Dificuldade em adotar novas tecnologias.
+
+2. **Arquitetura Orientada a Serviços (SOA)**
+   - **Descrição**: Estrutura onde serviços independentes se comunicam através de interfaces bem definidas.
+   - **Características**:
+     - Reutilização de serviços.
+     - Flexibilidade e escalabilidade.
+     - Complexidade na gestão de serviços e segurança.
+
+3. **Arquitetura de Microserviços**
+   - **Descrição**: Conjunto de serviços pequenos e independentes que se comunicam através de APIs.
+   - **Características**:
+     - Alta escalabilidade e resiliência.
+     - Facilita a adoção de novas tecnologias.
+     - Complexidade na orquestração e monitoramento.
+
+4. **Arquitetura de Serviços em Nuvem**
+   - **Descrição**: Utilização de serviços baseados em nuvem para orquestrar e gerenciar processos de negócios.
+   - **Características**:
+     - Elasticidade e escalabilidade.
+     - Redução de custos operacionais.
+     - Dependência de provedores de nuvem e questões de latência.
+
+5. **Arquitetura de Funções como Serviço (FaaS)**
+   - **Descrição**: Modelo de computação em nuvem onde o código é executado em resposta a eventos e o gerenciamento da infraestrutura é abstraído.
+   - **Características**:
+     - Escalabilidade automática.
+     - Pagamento por uso.
+     - Limitações em termos de tempo de execução e estado persistente.
+
+#### Detalhamento dos Tipos e suas Características
+
+1. **Arquitetura Monolítica**
+   - **Simplicidade no Desenvolvimento Inicial**: Facilita o início do projeto, pois todos os componentes estão em um único lugar.
+   - **Desafios na Escalabilidade e Manutenção**: À medida que o sistema cresce, torna-se difícil escalar e manter.
+   - **Dificuldade em Adotar Novas Tecnologias**: Alterações em uma parte do sistema podem afetar todo o código base.
+
+2. **Arquitetura Orientada a Serviços (SOA)**
+   - **Reutilização de Serviços**: Serviços podem ser reutilizados em diferentes processos de negócios.
+   - **Flexibilidade e Escalabilidade**: Facilita a adição de novos serviços e a escalabilidade horizontal.
+   - **Complexidade na Gestão de Serviços e Segurança**: Requer uma gestão eficiente de serviços e políticas de segurança robustas.
+
+3. **Arquitetura de Microserviços**
+   - **Alta Escalabilidade e Resiliência**: Cada serviço pode ser escalado independentemente, aumentando a resiliência do sistema.
+   - **Facilita a Adoção de Novas Tecnologias**: Permite a utilização de diferentes tecnologias para diferentes serviços.
+   - **Complexidade na Orquestração e Monitoramento**: Necessita de ferramentas avançadas para orquestração e monitoramento de serviços.
+
+4. **Arquitetura de Serviços em Nuvem**
+   - **Elasticidade e Escalabilidade**: Capacidade de ajustar recursos automaticamente conforme a demanda.
+   - **Redução de Custos Operacionais**: Paga-se apenas pelos recursos utilizados.
+   - **Dependência de Provedores de Nuvem e Questões de Latência**: Dependência de terceiros e possíveis problemas de latência.
+
+5. **Arquitetura de Funções como Serviço (FaaS)**
+   - **Escalabilidade Automática**: Funções são escaladas automaticamente conforme a demanda.
+   - **Pagamento por Uso**: Custo baseado no número de execuções e tempo de execução.
+   - **Limitações em Termos de Tempo
+

@@ -1,0 +1,70 @@
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de softwarecliente-servidor.
+ -
+### Arquiteturas de Software Cliente-Servidor
+
+#### Origem
+A arquitetura cliente-servidor surgiu na década de 1980 como uma evolução dos sistemas centralizados, onde um único mainframe era responsável por todas as operações de processamento e armazenamento. Com a popularização dos computadores pessoais e das redes locais (LANs), a necessidade de distribuir tarefas entre diferentes máquinas levou ao desenvolvimento do modelo cliente-servidor.
+
+#### Conceitos
+A arquitetura cliente-servidor é um modelo de computação distribuída onde as tarefas são divididas entre provedores de recursos ou serviços, chamados servidores, e solicitantes de serviços, chamados clientes. Os clientes enviam requisições ao servidor, que processa essas requisições e retorna os resultados.
+
+#### Tipos e Classificações
+
+1. **Arquitetura de Duas Camadas (Two-Tier)**
+   - **Cliente Fino (Thin Client)**: O cliente é responsável apenas pela interface do usuário e a lógica de apresentação, enquanto o servidor lida com a lógica de negócios e o acesso ao banco de dados.
+   - **Cliente Grosso (Thick Client)**: O cliente lida com a interface do usuário e parte da lógica de negócios, enquanto o servidor é responsável pelo acesso ao banco de dados.
+
+2. **Arquitetura de Três Camadas (Three-Tier)**
+   - **Camada de Apresentação**: Responsável pela interface do usuário.
+   - **Camada de Lógica de Negócios**: Contém a lógica de negócios e regras de processamento.
+   - **Camada de Dados**: Gerencia o acesso ao banco de dados e armazenamento de dados.
+
+3. **Arquitetura Multicamadas (N-Tier)**
+   - **Camada de Apresentação**: Interface do usuário.
+   - **Camada de Aplicação**: Lógica de negócios.
+   - **Camada de Serviços**: Serviços de aplicação, como autenticação e autorização.
+   - **Camada de Dados**: Acesso e gerenciamento de dados.
+   - **Camada de Integração**: Integração com outros sistemas e serviços externos.
+
+4. **Arquitetura Peer-to-Peer (P2P)**
+   - **Descentralizada**: Todos os nós (peers) têm capacidades equivalentes e podem atuar tanto como clientes quanto como servidores.
+   - **Híbrida**: Combina elementos de P2P e cliente-servidor, onde alguns nós têm funções específicas de servidor.
+
+5. **Arquitetura de Microservices**
+   - **Serviços Independentes**: Cada serviço é uma aplicação independente que executa um conjunto específico de funções.
+   - **Comunicação via API**: Os serviços se comunicam entre si através de APIs.
+   - **Desenvolvimento e Implantação Independentes**: Cada serviço pode ser desenvolvido, implantado e escalado de forma independente.
+
+#### Detalhamento dos Tipos e suas Características
+
+1. **Arquitetura de Duas Camadas (Two-Tier)**
+   - **Cliente Fino (Thin Client)**
+     - **Características**: Menor carga de processamento no cliente, maior dependência do servidor.
+     - **Vantagens**: Facilidade de manutenção e atualização.
+     - **Desvantagens**: Maior carga no servidor, possíveis problemas de desempenho.
+
+   - **Cliente Grosso (Thick Client)**
+     - **Características**: Maior carga de processamento no cliente, menor dependência do servidor.
+     - **Vantagens**: Melhor desempenho em operações locais.
+     - **Desvantagens**: Dificuldade de manutenção e atualização.
+
+2. **Arquitetura de Três Camadas (Three-Tier)**
+   - **Camada de Apresentação**
+     - **Características**: Interface do usuário, pode ser um navegador web ou uma aplicação desktop.
+   - **Camada de Lógica de Negócios**
+     - **Características**: Contém a lógica de negócios, regras de processamento e validação.
+   - **Camada de Dados**
+     - **Características**: Gerencia o acesso ao banco de dados, pode incluir servidores de banco de dados e sistemas de armazenamento.
+
+3. **Arquitetura Multicamadas (N-Tier)**
+   - **Camada de Apresentação**
+     - **Características**: Interface do usuário, similar à camada de apresentação da arquitetura de três camadas.
+   - **Camada de Aplicação**
+     - **Características**: Lógica de negócios, similar à camada de lógica de negócios da arquitetura de três camadas.
+   - **Camada de Serviços**
+     - **Características**: Serviços de aplicação, como autenticação, autorização, e outros serviços comuns.
+   - **Camada de Dados**
+     - **Características**: Acesso e gerenciamento de dados, similar à camada de dados da arquitetura de três camadas.
+   - **Camada de Integração**
+     - **
+

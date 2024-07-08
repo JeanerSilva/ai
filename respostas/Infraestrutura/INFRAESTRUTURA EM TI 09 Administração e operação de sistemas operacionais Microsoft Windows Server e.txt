@@ -1,0 +1,75 @@
+INFRAESTRUTURA EM TI:: 09 Administração e operação de sistemas operacionais Microsoft Windows Server e Linux. 
+ -
+### Administração e Operação de Sistemas Operacionais Microsoft Windows Server e Linux
+
+#### Origem
+
+**Microsoft Windows Server:**
+- **Origem:** Desenvolvido pela Microsoft, o Windows Server é uma linha de sistemas operacionais voltada para servidores. A primeira versão, Windows NT 3.1 Advanced Server, foi lançada em 1993.
+- **Evolução:** Desde então, a Microsoft lançou várias versões, incluindo Windows Server 2000, 2003, 2008, 2012, 2016, 2019 e, mais recentemente, Windows Server 2022.
+
+**Linux:**
+- **Origem:** Linux é um sistema operacional de código aberto baseado no kernel Linux, criado por Linus Torvalds em 1991.
+- **Evolução:** Desde sua criação, o Linux evoluiu significativamente, com várias distribuições (distros) sendo desenvolvidas por diferentes comunidades e empresas, como Red Hat, Ubuntu, Debian, CentOS, entre outras.
+
+#### Conceitos
+
+**Microsoft Windows Server:**
+- **Active Directory (AD):** Serviço de diretório que gerencia identidades e relacionamentos em uma rede.
+- **Group Policy:** Ferramenta para gerenciar configurações de computadores e usuários em um ambiente AD.
+- **Hyper-V:** Plataforma de virtualização que permite a criação e gerenciamento de máquinas virtuais.
+- **PowerShell:** Shell de linha de comando e linguagem de script para automação de tarefas administrativas.
+
+**Linux:**
+- **Kernel:** Núcleo do sistema operacional que gerencia recursos do hardware.
+- **Shell:** Interface de linha de comando para interação com o sistema.
+- **Package Manager:** Ferramenta para instalação, atualização e remoção de software (ex: APT, YUM).
+- **Daemon:** Programa que roda em segundo plano para executar tarefas específicas (ex: Apache, MySQL).
+
+#### Tipos e Classificações
+
+**Microsoft Windows Server:**
+
+1. **Versões do Windows Server:**
+   - **Windows Server 2000:** Introduziu o Active Directory.
+   - **Windows Server 2003:** Melhorias no AD e introdução do IIS 6.0.
+   - **Windows Server 2008:** Introduziu o Hyper-V e Server Core.
+   - **Windows Server 2012:** Melhorias no Hyper-V e introdução do PowerShell 3.0.
+   - **Windows Server 2016:** Introduziu o Nano Server e Windows Containers.
+   - **Windows Server 2019:** Melhorias em segurança e integração com Azure.
+   - **Windows Server 2022:** Foco em segurança, integração com Azure e melhorias no Hyper-V.
+
+2. **Edições do Windows Server:**
+   - **Standard Edition:** Para pequenas e médias empresas, com suporte limitado a máquinas virtuais.
+   - **Datacenter Edition:** Para grandes empresas, com suporte ilimitado a máquinas virtuais.
+   - **Essentials Edition:** Para pequenas empresas com até 25 usuários e 50 dispositivos.
+   - **Hyper-V Server:** Versão gratuita focada exclusivamente em virtualização.
+
+**Linux:**
+
+1. **Distribuições Linux:**
+   - **Debian:** Conhecida por sua estabilidade e vasto repositório de software.
+   - **Ubuntu:** Baseada no Debian, é popular por sua facilidade de uso e suporte comercial pela Canonical.
+   - **Red Hat Enterprise Linux (RHEL):** Focada em ambientes corporativos, com suporte comercial.
+   - **CentOS:** Versão gratuita e de código aberto do RHEL.
+   - **Fedora:** Patrocinada pela Red Hat, é conhecida por ser uma plataforma de teste para novas tecnologias.
+   - **SUSE Linux Enterprise Server (SLES):** Focada em ambientes corporativos, com suporte comercial.
+   - **Arch Linux:** Conhecida por sua simplicidade e customização.
+
+2. **Tipos de Kernel:**
+   - **Monolítico:** Todo o código do kernel roda no mesmo espaço de memória (ex: Linux).
+   - **Microkernel:** Apenas os componentes essenciais rodam no espaço do kernel, com outros serviços rodando no espaço do usuário (ex: Minix).
+
+3. **Tipos de Shell:**
+   - **Bash (Bourne Again Shell):** O shell padrão em muitas distribuições Linux.
+   - **Zsh (Z Shell):** Conhecido por suas funcionalidades avançadas e customização.
+   - **Fish (Friendly Interactive Shell):** Focado em ser amigável e interativo.
+
+4. **Tipos de Package Manager:**
+   - **APT (Advanced Package Tool):** Usado em distribuições baseadas no Debian.
+   - **YUM (Yellowdog Updater, Modified):** Usado em distribuições baseadas no Red Hat.
+   - **Pacman:** Usado em distribuições baseadas no Arch Linux.
+
+5. **Tipos de Daemons:**
+   - **HTTP Daemons:** Servidores web
+

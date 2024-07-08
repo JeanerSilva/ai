@@ -1,0 +1,51 @@
+ENGENHARIA DE SOFTWARE:: 11 Git. 
+ -
+### Git: Origem, Conceitos, Tipos e Classificações
+
+#### Origem
+Git é um sistema de controle de versão distribuído criado por Linus Torvalds em 2005. Ele foi desenvolvido inicialmente para gerenciar o código-fonte do kernel do Linux, mas rapidamente se tornou uma ferramenta amplamente utilizada em diversos projetos de software devido à sua eficiência, flexibilidade e robustez.
+
+#### Conceitos
+1. **Repositório (Repository)**: Um repositório Git é um diretório que contém todos os arquivos do projeto e o histórico de revisões desses arquivos.
+2. **Commit**: Um commit é uma "foto" do estado atual do projeto. Cada commit tem um identificador único (hash) e pode conter uma mensagem descritiva.
+3. **Branch**: Uma branch é uma linha de desenvolvimento independente. A branch principal é geralmente chamada de "main" ou "master".
+4. **Merge**: O merge é o processo de integrar mudanças de diferentes branches.
+5. **Clone**: Clonar um repositório significa criar uma cópia completa do repositório em um novo local.
+6. **Pull**: O comando pull é usado para atualizar o repositório local com as mudanças do repositório remoto.
+7. **Push**: O comando push é usado para enviar as mudanças do repositório local para o repositório remoto.
+8. **Staging Area**: A área de preparação (ou staging area) é onde você pode preparar mudanças antes de fazer um commit.
+9. **Remote**: Um repositório remoto é uma versão do seu projeto que está hospedada na internet ou em outra rede.
+
+#### Tipos e Classificações
+
+##### 1. **Tipos de Branches**
+- **Main/Master**: A branch principal onde o código estável e pronto para produção é mantido.
+- **Feature Branches**: Usadas para desenvolver novas funcionalidades. São criadas a partir da branch principal e, uma vez concluídas, são mescladas de volta.
+- **Release Branches**: Usadas para preparar uma nova versão de produção. Permitem correções de bugs e ajustes finais antes do lançamento.
+- **Hotfix Branches**: Usadas para corrigir rapidamente problemas críticos em produção. São criadas a partir da branch principal e, após a correção, são mescladas de volta.
+
+##### 2. **Tipos de Merges**
+- **Fast-Forward Merge**: O merge mais simples, onde a branch de destino é movida para apontar para a mesma commit da branch de origem.
+- **Three-Way Merge**: Utilizado quando há commits divergentes em ambas as branches. Git cria um novo commit que combina as mudanças.
+- **Squash Merge**: Combina todos os commits de uma branch em um único commit antes de mesclar na branch de destino.
+- **Rebase**: Reaplica os commits de uma branch em cima de outra, criando um histórico linear.
+
+##### 3. **Tipos de Repositórios**
+- **Local Repository**: O repositório que reside na máquina do desenvolvedor.
+- **Remote Repository**: O repositório que reside em um servidor remoto, acessível via rede.
+- **Bare Repository**: Um repositório sem uma cópia de trabalho, usado principalmente como um repositório central para colaboração.
+
+##### 4. **Tipos de Commits**
+- **Initial Commit**: O primeiro commit de um repositório, que geralmente contém a estrutura inicial do projeto.
+- **Feature Commit**: Commits que adicionam novas funcionalidades ao projeto.
+- **Bugfix Commit**: Commits que corrigem erros ou problemas no código.
+- **Refactor Commit**: Commits que alteram a estrutura do código sem mudar seu comportamento externo.
+- **Documentation Commit**: Commits que adicionam ou atualizam a documentação do projeto.
+
+##### 5. **Tipos de Tags**
+- **Lightweight Tags**: Simplesmente apontam para um commit específico, sem metadados adicionais.
+- **Annotated Tags**: Contêm metadados adicionais, como a data, o autor e uma mensagem de anotação. São armazenadas como objetos completos no banco de dados do Git.
+
+### Conclusão
+Git é uma ferramenta poderosa e flexível para controle de versão, com uma variedade de conceitos e tipos que permitem uma gestão eficiente e colaborativa de projetos de software. Compreender esses conceitos e tipos é essencial para tirar o máximo proveito do Git em qualquer fluxo de trabalho de desenvolvimento.
+

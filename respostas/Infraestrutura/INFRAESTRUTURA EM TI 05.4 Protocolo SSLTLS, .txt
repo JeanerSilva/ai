@@ -1,0 +1,66 @@
+INFRAESTRUTURA EM TI:: 05.4 Protocolo SSL/TLS, 
+ -
+### Origem do Protocolo SSL/TLS
+
+O SSL (Secure Sockets Layer) foi desenvolvido pela Netscape Communications em meados dos anos 90 para garantir a segurança das comunicações na internet. A versão 3.0 do SSL foi a última versão antes de ser substituída pelo TLS (Transport Layer Security), que foi padronizado pela IETF (Internet Engineering Task Force) em 1999. O TLS é uma evolução do SSL e visa corrigir várias vulnerabilidades e melhorar a segurança e a eficiência do protocolo.
+
+### Conceitos do Protocolo SSL/TLS
+
+O SSL/TLS é um protocolo de criptografia que fornece comunicação segura sobre uma rede de computadores. Ele é amplamente utilizado para proteger a integridade e a privacidade dos dados transmitidos entre um cliente (como um navegador web) e um servidor (como um servidor web). Os principais conceitos incluem:
+
+1. **Criptografia**: Utiliza algoritmos de criptografia para proteger os dados transmitidos.
+2. **Autenticação**: Verifica a identidade das partes envolvidas na comunicação.
+3. **Integridade dos Dados**: Garante que os dados não foram alterados durante a transmissão.
+4. **Confidencialidade**: Assegura que os dados transmitidos não possam ser lidos por terceiros não autorizados.
+
+### Tipos e Classificações do Protocolo SSL/TLS
+
+#### 1. **Versões do Protocolo**
+
+- **SSL 1.0**: Nunca foi lançado publicamente devido a falhas de segurança.
+- **SSL 2.0**: Lançado em 1995, mas rapidamente substituído devido a vulnerabilidades.
+- **SSL 3.0**: Lançado em 1996, corrigiu muitas falhas do SSL 2.0, mas ainda possui vulnerabilidades conhecidas.
+- **TLS 1.0**: Lançado em 1999, é uma versão mais segura do SSL 3.0.
+- **TLS 1.1**: Lançado em 2006, introduziu melhorias de segurança.
+- **TLS 1.2**: Lançado em 2008, oferece maior segurança e flexibilidade.
+- **TLS 1.3**: Lançado em 2018, simplifica o protocolo e melhora a segurança e a performance.
+
+#### 2. **Métodos de Criptografia**
+
+- **Simétrica**: Utiliza a mesma chave para criptografar e descriptografar os dados. Exemplo: AES (Advanced Encryption Standard).
+- **Assimétrica**: Utiliza um par de chaves (pública e privada). Exemplo: RSA (Rivest-Shamir-Adleman).
+- **Hashing**: Garante a integridade dos dados. Exemplo: SHA (Secure Hash Algorithm).
+
+#### 3. **Certificados Digitais**
+
+- **Certificados de Servidor**: Autenticam a identidade do servidor para o cliente.
+- **Certificados de Cliente**: Autenticam a identidade do cliente para o servidor.
+- **Certificados de Raiz**: Emitidos por Autoridades Certificadoras (CAs) confiáveis e usados para assinar outros certificados.
+
+#### 4. **Modos de Operação**
+
+- **Full Handshake**: Processo completo de estabelecimento de conexão, incluindo troca de chaves e autenticação.
+- **Resumed Handshake**: Utiliza informações de uma sessão anterior para reestabelecer a conexão mais rapidamente.
+
+#### 5. **Algoritmos de Troca de Chaves**
+
+- **RSA**: Amplamente utilizado, mas com algumas vulnerabilidades conhecidas.
+- **DH (Diffie-Hellman)**: Permite a troca segura de chaves.
+- **ECDH (Elliptic Curve Diffie-Hellman)**: Variante do DH que utiliza criptografia de curva elíptica para maior segurança e eficiência.
+
+#### 6. **Protocolos de Camada de Aplicação**
+
+- **HTTPS (HyperText Transfer Protocol Secure)**: Utiliza SSL/TLS para proteger a comunicação HTTP.
+- **FTPS (File Transfer Protocol Secure)**: Utiliza SSL/TLS para proteger a comunicação FTP.
+- **SMTP over TLS**: Utiliza SSL/TLS para proteger a comunicação SMTP (Simple Mail Transfer Protocol).
+
+### Características dos Tipos
+
+1. **Versões do Protocolo**:
+   - **SSL 3.0**: Suporta criptografia simétrica e assimétrica, mas vulnerável a ataques como POODLE.
+   - **TLS 1.2**: Suporta uma ampla gama de algoritmos de criptografia e é considerado seguro.
+   - **TLS 1.3**: Remove algoritmos inseguros e simplifica o handshake, melhorando a segurança e a performance.
+
+2. **Métodos de Criptografia**:
+   - **Simétrica (AES)**: Rápida e eficiente
+

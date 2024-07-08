@@ -1,0 +1,85 @@
+ENGENHARIA DE SOFTWARE:: 02 Princípios e práticas de integração e entrega contínuas (CI/CD). 
+ -
+### Origem e Conceitos de CI/CD
+
+**Origem:**
+A integração contínua (CI) e a entrega contínua (CD) são práticas que emergiram do movimento de desenvolvimento ágil e DevOps. A CI/CD foi desenvolvida para melhorar a eficiência e a qualidade do processo de desenvolvimento de software, permitindo que as equipes entreguem software de forma mais rápida e confiável.
+
+**Conceitos:**
+- **Integração Contínua (CI):** É a prática de integrar o trabalho de todos os desenvolvedores em um repositório compartilhado várias vezes ao dia. Cada integração é verificada por uma build automatizada (incluindo testes) para detectar erros rapidamente.
+- **Entrega Contínua (CD):** É a prática de manter o código em um estado em que possa ser implantado em produção a qualquer momento. Isso envolve a automação de todo o processo de entrega, desde a integração até a implantação.
+
+### Tipos e Classificações de CI/CD
+
+#### Tipos de Integração Contínua (CI):
+
+1. **Build Automatizada:**
+   - **Descrição:** Cada commit no repositório dispara uma build automatizada.
+   - **Características:** Verifica a integridade do código, compila o código-fonte e executa testes unitários.
+
+2. **Testes Automatizados:**
+   - **Descrição:** Inclui a execução de uma suíte de testes automatizados.
+   - **Características:** Pode incluir testes unitários, de integração e de aceitação.
+
+3. **Verificação de Qualidade de Código:**
+   - **Descrição:** Ferramentas de análise estática de código são usadas para garantir a qualidade do código.
+   - **Características:** Detecta problemas como complexidade excessiva, duplicação de código e violações de estilo.
+
+4. **Integração de Código:**
+   - **Descrição:** Integração frequente do código em um repositório compartilhado.
+   - **Características:** Reduz conflitos de integração e facilita a detecção precoce de erros.
+
+#### Tipos de Entrega Contínua (CD):
+
+1. **Pipeline de Entrega:**
+   - **Descrição:** Um conjunto de etapas automatizadas que levam o código desde o commit até a produção.
+   - **Características:** Inclui build, testes, deploy em ambientes de staging e produção.
+
+2. **Deploy Automatizado:**
+   - **Descrição:** Automatiza o processo de implantação do código em ambientes de produção.
+   - **Características:** Reduz o tempo de deploy e minimiza erros humanos.
+
+3. **Monitoramento Contínuo:**
+   - **Descrição:** Monitoramento constante do sistema em produção.
+   - **Características:** Detecta problemas em tempo real e permite respostas rápidas.
+
+4. **Rollback Automatizado:**
+   - **Descrição:** Capacidade de reverter automaticamente para uma versão anterior em caso de falha.
+   - **Características:** Minimiza o impacto de falhas em produção.
+
+### Detalhamento dos Tipos e Suas Características
+
+#### Build Automatizada:
+- **Ferramentas Comuns:** Jenkins, Travis CI, CircleCI.
+- **Benefícios:** Detecta problemas de compilação rapidamente, garante que o código está sempre em um estado compilável.
+
+#### Testes Automatizados:
+- **Ferramentas Comuns:** JUnit, Selenium, TestNG.
+- **Benefícios:** Garante que novas mudanças não quebrem funcionalidades existentes, melhora a cobertura de testes.
+
+#### Verificação de Qualidade de Código:
+- **Ferramentas Comuns:** SonarQube, ESLint, Checkstyle.
+- **Benefícios:** Mantém a qualidade do código, facilita a manutenção e reduz a dívida técnica.
+
+#### Integração de Código:
+- **Ferramentas Comuns:** Git, Subversion.
+- **Benefícios:** Facilita a colaboração entre desenvolvedores, reduz conflitos de merge.
+
+#### Pipeline de Entrega:
+- **Ferramentas Comuns:** Jenkins, GitLab CI/CD, Azure DevOps.
+- **Benefícios:** Automatiza o fluxo de trabalho, reduz o tempo de entrega.
+
+#### Deploy Automatizado:
+- **Ferramentas Comuns:** Ansible, Chef, Puppet.
+- **Benefícios:** Reduz o tempo de deploy, minimiza erros humanos.
+
+#### Monitoramento Contínuo:
+- **Ferramentas Comuns:** Prometheus, Grafana, New Relic.
+- **Benefícios:** Detecta problemas em tempo real, permite respostas rápidas.
+
+#### Rollback Automatizado:
+- **Ferramentas Comuns:** Kubernetes, Docker Swarm.
+- **Benefícios:** Minimiza o impacto de falhas, aumenta a confiança na implantação contínua.
+
+Essas práticas e ferramentas são fundamentais para a implementação eficaz de CI/CD, permitindo que as equipes de desenvolvimento entreguem software de alta qualidade de maneira rápida e confiável.
+

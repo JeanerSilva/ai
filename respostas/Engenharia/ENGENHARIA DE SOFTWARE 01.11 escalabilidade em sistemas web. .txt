@@ -1,0 +1,72 @@
+ENGENHARIA DE SOFTWARE:: 01.11 escalabilidade em sistemas web. 
+ -
+### Origem e Conceitos de Escalabilidade em Sistemas Web
+
+**Origem:**
+A escalabilidade em sistemas web tornou-se um conceito crucial com o crescimento da internet e a necessidade de suportar um número crescente de usuários e transações. À medida que a web evoluiu, a demanda por sistemas capazes de crescer de forma eficiente e econômica tornou-se evidente, especialmente para grandes empresas de tecnologia e serviços online.
+
+**Conceitos:**
+Escalabilidade refere-se à capacidade de um sistema de aumentar sua capacidade de processamento e armazenamento de dados de forma eficiente à medida que a demanda cresce. Em sistemas web, isso significa que o sistema deve ser capaz de lidar com um aumento no número de usuários, transações ou volume de dados sem comprometer o desempenho ou a disponibilidade.
+
+### Tipos e Classificações de Escalabilidade
+
+1. **Escalabilidade Vertical (Scale-Up):**
+   - **Descrição:** Aumentar a capacidade de um único servidor adicionando mais recursos, como CPU, memória ou armazenamento.
+   - **Características:**
+     - Simplicidade na implementação.
+     - Limitações físicas e de custo, pois há um limite para o quanto um único servidor pode ser melhorado.
+     - Pode levar a um ponto único de falha.
+
+2. **Escalabilidade Horizontal (Scale-Out):**
+   - **Descrição:** Adicionar mais servidores ao sistema para distribuir a carga de trabalho.
+   - **Características:**
+     - Maior flexibilidade e potencial de crescimento.
+     - Requer mecanismos de balanceamento de carga e coordenação entre servidores.
+     - Pode ser mais complexo de implementar e gerenciar.
+
+3. **Escalabilidade Funcional:**
+   - **Descrição:** Dividir o sistema em componentes ou serviços menores que podem ser escalados independentemente.
+   - **Características:**
+     - Permite otimização de recursos para diferentes partes do sistema.
+     - Facilita a manutenção e a atualização de componentes específicos.
+     - Pode exigir uma arquitetura de microserviços ou SOA (Service-Oriented Architecture).
+
+4. **Escalabilidade Geográfica:**
+   - **Descrição:** Distribuir servidores e recursos em diferentes localizações geográficas.
+   - **Características:**
+     - Reduz a latência para usuários em diferentes regiões.
+     - Melhora a resiliência e a disponibilidade do sistema.
+     - Pode envolver desafios de sincronização de dados e consistência.
+
+5. **Escalabilidade de Dados:**
+   - **Descrição:** Aumentar a capacidade de armazenamento e processamento de grandes volumes de dados.
+   - **Características:**
+     - Utilização de tecnologias como bancos de dados distribuídos, NoSQL, e sistemas de armazenamento em nuvem.
+     - Necessidade de estratégias de particionamento e replicação de dados.
+     - Pode envolver complexidade na gestão de consistência e integridade dos dados.
+
+### Detalhamento dos Tipos e Suas Características
+
+1. **Escalabilidade Vertical (Scale-Up):**
+   - **Simplicidade:** Fácil de implementar, pois envolve apenas a adição de mais recursos a um servidor existente.
+   - **Limitações:** Há um limite físico e econômico para o quanto um único servidor pode ser melhorado. Além disso, pode criar um ponto único de falha, onde a falha do servidor pode derrubar todo o sistema.
+
+2. **Escalabilidade Horizontal (Scale-Out):**
+   - **Flexibilidade:** Permite adicionar mais servidores conforme necessário, distribuindo a carga de trabalho e aumentando a capacidade total do sistema.
+   - **Complexidade:** Requer balanceamento de carga para distribuir as solicitações entre os servidores e mecanismos de coordenação para garantir que todos os servidores trabalhem juntos de forma eficiente.
+   - **Resiliência:** A falha de um servidor não compromete todo o sistema, pois a carga pode ser redistribuída entre os servidores restantes.
+
+3. **Escalabilidade Funcional:**
+   - **Otimização:** Permite que diferentes partes do sistema sejam otimizadas e escaladas de acordo com suas necessidades específicas.
+   - **Manutenção:** Facilita a manutenção e a atualização de componentes individuais sem afetar o sistema como um todo.
+   - **Arquitetura:** Pode exigir uma arquitetura de microserviços ou SOA, onde cada serviço é independente e pode ser escalado separadamente.
+
+4. **Escalabilidade Geográfica:**
+   - **Latência:** Reduz a latência para usuários em diferentes regiões, melhorando a experiência do usuário.
+   - **Resiliência:** Aumenta a resiliência do sistema, pois a falha em uma região não afeta outras.
+   - **Sincronização:** Pode envolver desafios na sincronização de dados e na manutenção da consistência entre diferentes localizações geográficas.
+
+5. **Escalabilidade de Dados:**
+   - **Tecnologias:** Utiliza tecnologias como bancos de dados distribuídos, NoSQL, e sistemas de armazenamento em nuvem para gerenciar grandes volumes de dados.
+
+

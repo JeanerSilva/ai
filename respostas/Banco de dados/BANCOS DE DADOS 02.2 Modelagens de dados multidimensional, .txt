@@ -1,0 +1,60 @@
+BANCOS DE DADOS:: 02.2 Modelagens de dados multidimensional, 
+ -
+### Modelagens de Dados Multidimensional
+
+#### Origem
+A modelagem de dados multidimensional surgiu no contexto de sistemas de suporte à decisão e data warehousing. A necessidade de analisar grandes volumes de dados de maneira eficiente levou ao desenvolvimento de técnicas que permitissem a visualização e manipulação de dados em múltiplas dimensões. Ralph Kimball e Bill Inmon são dois dos principais pioneiros nesse campo, com Kimball sendo particularmente conhecido por popularizar o modelo dimensional.
+
+#### Conceitos
+A modelagem de dados multidimensional é uma abordagem que organiza dados em um formato que facilita a análise e a consulta rápida. Os principais conceitos incluem:
+
+- **Dimensões**: Representam os diferentes aspectos ou perspectivas a partir dos quais os dados podem ser analisados, como tempo, localização, produto, etc.
+- **Fatos**: São os dados numéricos ou métricas que os usuários desejam analisar, como vendas, lucros, etc.
+- **Cubos**: Estruturas de dados que permitem a visualização de dados em múltiplas dimensões.
+- **Hierarquias**: Estruturas dentro das dimensões que permitem a agregação de dados em diferentes níveis de detalhe, como ano, trimestre, mês, dia.
+
+#### Tipos e Classificações
+
+1. **Modelos Estrela (Star Schema)**
+   - **Características**:
+     - Consiste em uma tabela de fatos central conectada a várias tabelas de dimensões.
+     - Simplicidade e facilidade de entendimento.
+     - Desempenho eficiente para consultas simples.
+   - **Exemplo**:
+     - Uma tabela de fatos de vendas conectada a tabelas de dimensões de tempo, produto e localização.
+
+2. **Modelos Floco de Neve (Snowflake Schema)**
+   - **Características**:
+     - Extensão do modelo estrela onde as tabelas de dimensões são normalizadas.
+     - Redução de redundância de dados.
+     - Consultas podem ser mais complexas e menos eficientes devido a múltiplas junções.
+   - **Exemplo**:
+     - Uma tabela de fatos de vendas conectada a uma tabela de dimensão de produto, que por sua vez está conectada a tabelas de subdimensões como categoria de produto e fornecedor.
+
+3. **Modelos Constelação de Fatos (Fact Constellation Schema)**
+   - **Características**:
+     - Consiste em múltiplas tabelas de fatos que compartilham dimensões comuns.
+     - Suporta análises complexas e relacionamentos entre diferentes processos de negócios.
+     - Pode ser mais difícil de gerenciar e entender.
+   - **Exemplo**:
+     - Tabelas de fatos de vendas e inventário compartilhando dimensões de tempo, produto e localização.
+
+4. **Modelos Galáxia (Galaxy Schema)**
+   - **Características**:
+     - Similar ao modelo constelação de fatos, mas em uma escala maior.
+     - Utilizado em grandes data warehouses que suportam múltiplos processos de negócios.
+     - Alta complexidade e necessidade de gerenciamento robusto.
+   - **Exemplo**:
+     - Um data warehouse corporativo que inclui tabelas de fatos para vendas, inventário, marketing e finanças, todas compartilhando dimensões comuns.
+
+5. **Modelos de Cubo OLAP (Online Analytical Processing)**
+   - **Características**:
+     - Estruturas de dados tridimensionais ou multidimensionais que permitem a análise rápida e interativa.
+     - Suporte a operações como drill-down, roll-up, slice e dice.
+     - Pode ser implementado em MOLAP (Multidimensional OLAP), ROLAP (Relational OLAP) ou HOLAP (Hybrid OLAP).
+   - **Exemplo**:
+     - Um cubo OLAP que permite a análise de vendas por produto, região e tempo, com a capacidade de detalhar até o nível de dia ou agregar até o nível de ano.
+
+### Conclusão
+A modelagem de dados multidimensional é uma técnica poderosa para a análise de dados em sistemas de suporte à decisão. Com diferentes tipos e classificações, como os modelos estrela, floco de neve, constelação de fatos, galáxia e cubos OLAP, essa abordagem oferece flexibilidade e eficiência para atender às diversas necessidades analíticas das organizações.
+

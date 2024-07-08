@@ -1,0 +1,66 @@
+CIÊNCIA DE DADOS:: 05 Qualidade de Dados. 
+ -
+### Origem da Qualidade de Dados
+
+A qualidade de dados é um conceito que emergiu com a crescente importância dos dados nas operações empresariais e na tomada de decisões. Com o avanço da tecnologia da informação e a digitalização dos processos, a necessidade de garantir que os dados sejam precisos, completos e confiáveis tornou-se crucial. A origem da qualidade de dados pode ser rastreada até os primeiros sistemas de gerenciamento de banco de dados e a evolução das práticas de governança de dados.
+
+### Conceitos de Qualidade de Dados
+
+A qualidade de dados refere-se ao estado dos dados que são adequados para seu uso pretendido no contexto das operações, tomada de decisões e planejamento. Os principais conceitos incluem:
+
+1. **Precisão**: Refere-se à exatidão dos dados em representar a realidade.
+2. **Completude**: Indica se todos os dados necessários estão presentes.
+3. **Consistência**: Refere-se à uniformidade dos dados em diferentes sistemas e contextos.
+4. **Atualidade**: Indica se os dados estão atualizados e refletem o momento atual.
+5. **Acessibilidade**: Refere-se à facilidade com que os dados podem ser acessados e utilizados.
+6. **Conformidade**: Indica se os dados estão em conformidade com os padrões e regulamentos aplicáveis.
+
+### Tipos e Classificações de Qualidade de Dados
+
+A qualidade de dados pode ser classificada em várias categorias, cada uma com suas próprias características e critérios de avaliação. Abaixo estão os principais tipos e suas características detalhadas:
+
+1. **Qualidade Intrínseca dos Dados**
+   - **Precisão**: Os dados devem ser corretos e livres de erros.
+   - **Consistência**: Os dados devem ser uniformes em todos os sistemas e contextos.
+   - **Confiabilidade**: Os dados devem ser confiáveis e verificados.
+
+2. **Qualidade Contextual dos Dados**
+   - **Relevância**: Os dados devem ser relevantes para o propósito específico.
+   - **Valor Agregado**: Os dados devem agregar valor ao usuário final.
+   - **Atualidade**: Os dados devem ser atuais e refletir o momento presente.
+   - **Completude**: Todos os dados necessários devem estar presentes.
+
+3. **Qualidade Representacional dos Dados**
+   - **Clareza**: Os dados devem ser claros e compreensíveis.
+   - **Formato**: Os dados devem estar em um formato adequado e utilizável.
+   - **Consistência de Representação**: Os dados devem ser representados de maneira consistente.
+
+4. **Qualidade Acessível dos Dados**
+   - **Acessibilidade**: Os dados devem ser facilmente acessíveis para os usuários autorizados.
+   - **Segurança**: Os dados devem ser protegidos contra acesso não autorizado.
+   - **Disponibilidade**: Os dados devem estar disponíveis quando necessário.
+
+5. **Qualidade de Conformidade dos Dados**
+   - **Conformidade com Padrões**: Os dados devem estar em conformidade com os padrões e regulamentos aplicáveis.
+   - **Conformidade com Regras de Negócio**: Os dados devem seguir as regras e políticas de negócios estabelecidas.
+
+### Detalhamento dos Tipos e Suas Características
+
+1. **Qualidade Intrínseca dos Dados**
+   - **Precisão**: Medida da exatidão dos dados em representar a realidade. Erros podem ocorrer devido a entrada manual de dados ou falhas no sistema.
+   - **Consistência**: Refere-se à uniformidade dos dados em diferentes sistemas e contextos. Inconsistências podem surgir quando os dados são duplicados ou sincronizados incorretamente.
+   - **Confiabilidade**: Refere-se à confiança que se pode ter nos dados. Dados confiáveis são verificados e validados regularmente.
+
+2. **Qualidade Contextual dos Dados**
+   - **Relevância**: Os dados devem ser pertinentes ao contexto em que são utilizados. Dados irrelevantes podem levar a decisões erradas.
+   - **Valor Agregado**: Dados que fornecem insights valiosos e ajudam na tomada de decisões.
+   - **Atualidade**: Dados que são atualizados regularmente para refletir as mudanças mais recentes.
+   - **Completude**: Todos os dados necessários para uma análise ou operação devem estar presentes. Dados incompletos podem levar a conclusões erradas.
+
+3. **Qualidade Representacional dos Dados**
+   - **Clareza**: Dados que são fáceis de entender e interpretar. Dados confusos podem ser mal interpretados.
+   - **Formato**: Dados que estão em um formato que pode ser facilmente utilizado e processado. Formatos inadequados podem dificultar a análise.
+   - **Consistência de Representação**: Dados que são representados de maneira uniforme em diferentes sistemas e contextos.
+
+4. **
+

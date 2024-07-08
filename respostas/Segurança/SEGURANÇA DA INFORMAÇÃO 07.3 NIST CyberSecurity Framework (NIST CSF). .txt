@@ -1,0 +1,52 @@
+SEGURANÇA DA INFORMAÇÃO:: 07.3 NIST CyberSecurity Framework (NIST CSF). 
+ -
+O NIST Cybersecurity Framework (NIST CSF) é um guia desenvolvido pelo National Institute of Standards and Technology (NIST) dos Estados Unidos, com o objetivo de ajudar organizações a gerenciar e reduzir riscos de cibersegurança. A origem do NIST CSF remonta a uma ordem executiva emitida em fevereiro de 2013 pelo então presidente Barack Obama, que solicitava o desenvolvimento de um framework para melhorar a segurança cibernética das infraestruturas críticas do país.
+
+### Conceitos do NIST CSF
+
+O NIST CSF é baseado em três componentes principais:
+
+1. **Core (Núcleo)**: Fornece um conjunto de atividades, resultados desejados e referências aplicáveis que são comuns em todos os setores críticos de infraestrutura. O Core é dividido em cinco funções principais:
+   - **Identify (Identificar)**: Desenvolver uma compreensão organizacional para gerenciar riscos de cibersegurança.
+   - **Protect (Proteger)**: Desenvolver e implementar salvaguardas apropriadas para garantir a entrega de serviços críticos.
+   - **Detect (Detectar)**: Desenvolver e implementar atividades apropriadas para identificar a ocorrência de um evento de cibersegurança.
+   - **Respond (Responder)**: Desenvolver e implementar atividades apropriadas para tomar ação em relação a um evento de cibersegurança detectado.
+   - **Recover (Recuperar)**: Desenvolver e implementar atividades apropriadas para manter planos de resiliência e restaurar quaisquer capacidades ou serviços que foram prejudicados devido a um evento de cibersegurança.
+
+2. **Implementation Tiers (Níveis de Implementação)**: Fornecem contexto sobre como uma organização vê o risco de cibersegurança e os processos implementados para gerenciar esse risco. Os níveis variam de 1 a 4:
+   - **Tier 1: Partial (Parcial)**: Processos de cibersegurança não formalizados e ad hoc.
+   - **Tier 2: Risk Informed (Informado sobre Riscos)**: Processos de cibersegurança formalizados, mas não padronizados.
+   - **Tier 3: Repeatable (Repetível)**: Processos de cibersegurança formalizados, padronizados e documentados.
+   - **Tier 4: Adaptive (Adaptativo)**: Processos de cibersegurança adaptativos e continuamente melhorados.
+
+3. **Profiles (Perfis)**: Representam a combinação única de atividades, resultados e referências que uma organização seleciona do Core para alinhar com suas necessidades de negócios e objetivos de cibersegurança.
+
+### Tipos e Classificações
+
+#### Funções do Core
+
+1. **Identify (Identificar)**
+   - **Asset Management (Gerenciamento de Ativos)**: Identificação e gerenciamento de ativos de dados, pessoal, dispositivos, sistemas e instalações.
+   - **Business Environment (Ambiente de Negócios)**: Compreensão do contexto organizacional, funções críticas e interdependências.
+   - **Governance (Governança)**: Políticas, procedimentos e processos para gerenciar e monitorar a regulamentação, riscos e requisitos legais.
+   - **Risk Assessment (Avaliação de Riscos)**: Identificação e avaliação de riscos de cibersegurança.
+   - **Risk Management Strategy (Estratégia de Gerenciamento de Riscos)**: Estabelecimento de prioridades, restrições, tolerâncias e suposições para apoiar decisões de risco.
+
+2. **Protect (Proteger)**
+   - **Identity Management and Access Control (Gerenciamento de Identidade e Controle de Acesso)**: Limitação do acesso a ativos e funções.
+   - **Awareness and Training (Conscientização e Treinamento)**: Educação e treinamento de pessoal e parceiros.
+   - **Data Security (Segurança de Dados)**: Proteção de informações e registros.
+   - **Information Protection Processes and Procedures (Processos e Procedimentos de Proteção da Informação)**: Políticas e procedimentos para proteger informações.
+   - **Maintenance (Manutenção)**: Manutenção de sistemas e ativos.
+   - **Protective Technology (Tecnologia de Proteção)**: Implementação de soluções tecnológicas para proteger ativos.
+
+3. **Detect (Detectar)**
+   - **Anomalies and Events (Anomalias e Eventos)**: Identificação de eventos de cibersegurança e anomalias.
+   - **Security Continuous Monitoring (Monitoramento Contínuo de Segurança)**: Monitoramento contínuo de sistemas e redes.
+   - **Detection Processes (Processos de Detecção)**: Processos e procedimentos para detectar eventos de cibersegurança.
+
+4. **Respond (Responder)**
+   - **Response Planning (Planejamento de Resposta)**: Planejamento de resposta a incidentes.
+   - **Communications (Comunicações)**: Coordenação de comunicações durante e após incidentes.
+   - **Analysis (Análise)**: Análise de incidentes para
+

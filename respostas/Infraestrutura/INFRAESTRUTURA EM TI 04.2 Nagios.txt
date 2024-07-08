@@ -1,0 +1,83 @@
+INFRAESTRUTURA EM TI:: 04.2 Nagios
+ -
+### Origem do Nagios
+
+Nagios é uma ferramenta de monitoramento de sistemas, redes e infraestrutura de TI, criada por Ethan Galstad em 1999. Originalmente chamada de NetSaint, a ferramenta foi renomeada para Nagios em 2002. O nome "Nagios" é um acrônimo recursivo que significa "Nagios Ain't Gonna Insist On Sainthood," refletindo a mudança de nome e a evolução do projeto.
+
+### Conceitos do Nagios
+
+Nagios é uma plataforma de código aberto que permite monitorar a disponibilidade e o desempenho de diversos componentes de TI, como servidores, serviços, aplicações, e dispositivos de rede. Ele alerta os administradores de sistemas sobre problemas e permite a resolução proativa de falhas antes que afetem os usuários finais.
+
+### Tipos e Classificações do Nagios
+
+Nagios pode ser classificado em várias categorias com base em diferentes critérios, como a funcionalidade, a arquitetura e os componentes. Abaixo estão os principais tipos e suas características:
+
+#### 1. **Tipos de Monitoramento**
+
+- **Monitoramento de Host**: Verifica a disponibilidade e o desempenho de servidores e dispositivos de rede.
+- **Monitoramento de Serviço**: Monitora serviços específicos, como HTTP, SMTP, e DNS.
+- **Monitoramento de Rede**: Avalia a conectividade e a latência entre dispositivos de rede.
+- **Monitoramento de Aplicações**: Monitora o desempenho e a disponibilidade de aplicações específicas.
+- **Monitoramento de Recursos**: Acompanha o uso de recursos como CPU, memória e espaço em disco.
+
+#### 2. **Tipos de Alertas**
+
+- **Alertas por E-mail**: Envia notificações por e-mail quando um problema é detectado.
+- **Alertas por SMS**: Envia mensagens de texto para dispositivos móveis.
+- **Alertas por Mensageiros Instantâneos**: Utiliza plataformas como Slack ou Microsoft Teams para enviar notificações.
+- **Alertas por Webhooks**: Integra com outras ferramentas e serviços através de webhooks.
+
+#### 3. **Tipos de Plugins**
+
+- **Plugins Oficiais**: Desenvolvidos e mantidos pela equipe do Nagios.
+- **Plugins de Terceiros**: Criados pela comunidade ou por outras empresas.
+- **Plugins Customizados**: Desenvolvidos internamente para atender necessidades específicas.
+
+#### 4. **Tipos de Interfaces**
+
+- **Interface Web**: Interface gráfica acessível via navegador para configuração e monitoramento.
+- **Interface de Linha de Comando (CLI)**: Permite a configuração e o monitoramento através de comandos no terminal.
+- **APIs**: Oferece interfaces de programação para integração com outras ferramentas e scripts.
+
+#### 5. **Tipos de Implementação**
+
+- **Nagios Core**: Versão de código aberto, gratuita, com funcionalidades básicas.
+- **Nagios XI**: Versão comercial com funcionalidades avançadas, suporte técnico e interface aprimorada.
+- **Nagios Log Server**: Focado no monitoramento e análise de logs.
+- **Nagios Network Analyzer**: Especializado em análise de tráfego de rede.
+- **Nagios Fusion**: Centraliza dados de múltiplas instâncias do Nagios em uma única interface.
+
+### Detalhamento dos Tipos e suas Características
+
+#### Monitoramento de Host
+- **Verificação de Ping**: Testa a conectividade básica.
+- **Verificação de Serviços**: Monitora serviços específicos rodando no host.
+- **Verificação de Recursos**: Acompanha o uso de CPU, memória e disco.
+
+#### Monitoramento de Serviço
+- **HTTP**: Verifica a disponibilidade de servidores web.
+- **SMTP**: Monitora servidores de e-mail.
+- **DNS**: Verifica a resolução de nomes de domínio.
+
+#### Monitoramento de Rede
+- **Latência**: Mede o tempo de resposta entre dispositivos.
+- **Perda de Pacotes**: Avalia a integridade da comunicação de rede.
+- **Tráfego**: Monitora o volume de dados transmitidos.
+
+#### Monitoramento de Aplicações
+- **Bancos de Dados**: Monitora a disponibilidade e desempenho de bancos de dados como MySQL e PostgreSQL.
+- **Servidores de Aplicação**: Verifica a saúde de servidores como Apache Tomcat e JBoss.
+- **Aplicações Customizadas**: Monitora aplicações desenvolvidas internamente.
+
+#### Monitoramento de Recursos
+- **CPU**: Acompanha o uso de processamento.
+- **Memória**: Monitora o uso de RAM.
+- **Disco**: Verifica o espaço disponível e o uso de disco.
+
+#### Alertas por E-mail
+- **Configuração Simples**: Fácil de configurar e amplamente utilizado.
+- **Personalização**: Mensagens podem ser customizadas.
+
+#### Alertas por SMS
+- **Imediatismo**: Ideal para alertas
+

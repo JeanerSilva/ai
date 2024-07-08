@@ -1,0 +1,71 @@
+INFRAESTRUTURA EM TI:: 03.6 Active Directory (AD) em Rede Microsoft Windows Server
+ -
+### Origem do Active Directory (AD)
+
+O Active Directory (AD) é um serviço de diretório desenvolvido pela Microsoft, introduzido pela primeira vez no Windows 2000 Server. Ele foi projetado para gerenciar e organizar redes de computadores, permitindo que administradores de rede gerenciem permissões e acesso a recursos de rede de maneira centralizada.
+
+### Conceitos do Active Directory
+
+1. **Domínio**: Um domínio é um agrupamento lógico de objetos (como usuários, grupos e dispositivos) que compartilham uma base de dados de diretório comum e políticas de segurança. Cada domínio possui um nome DNS único.
+
+2. **Árvore**: Uma árvore é uma coleção de um ou mais domínios que compartilham um namespace contíguo. Os domínios em uma árvore são conectados por relações de confiança.
+
+3. **Floresta**: Uma floresta é um agrupamento de uma ou mais árvores que compartilham um esquema comum e uma configuração global de catálogo. As florestas permitem a comunicação e a colaboração entre diferentes árvores.
+
+4. **Unidade Organizacional (OU)**: Uma OU é um contêiner dentro de um domínio que pode conter usuários, grupos, computadores e outras OUs. As OUs são usadas para organizar objetos de maneira lógica e aplicar políticas de grupo.
+
+5. **Controlador de Domínio (DC)**: Um DC é um servidor que responde a solicitações de autenticação e validação de usuários em um domínio. Ele armazena uma cópia da base de dados do AD e replica alterações para outros DCs no mesmo domínio.
+
+6. **Política de Grupo (GPO)**: GPOs são conjuntos de regras que definem as configurações de segurança e comportamento de usuários e computadores em um domínio. Elas podem ser aplicadas a domínios, OUs ou sites.
+
+### Tipos e Classificações do Active Directory
+
+#### 1. **Tipos de Controladores de Domínio**
+
+- **Controlador de Domínio Primário (PDC)**: No Windows NT, o PDC era o servidor principal que armazenava a cópia mestre da base de dados do domínio. No AD moderno, o conceito de PDC foi substituído por um modelo multi-master, mas ainda existe um emulador de PDC para compatibilidade com sistemas legados.
+
+- **Controlador de Domínio Adicional (ADC)**: Um ADC é um servidor adicional que replica a base de dados do AD do PDC. No modelo multi-master do AD moderno, todos os DCs são iguais em termos de replicação e autenticação.
+
+#### 2. **Tipos de Objetos no Active Directory**
+
+- **Usuários**: Contas de usuário representam indivíduos que têm acesso à rede. Elas contêm informações como nome, senha e permissões.
+
+- **Grupos**: Grupos são coleções de usuários, computadores ou outros grupos. Eles simplificam a administração de permissões e políticas.
+
+- **Computadores**: Contas de computador representam dispositivos que são membros do domínio.
+
+- **Impressoras**: Objetos de impressora representam dispositivos de impressão na rede.
+
+- **Contatos**: Contatos são objetos que contêm informações sobre pessoas ou organizações externas que não têm contas de usuário no domínio.
+
+#### 3. **Tipos de Grupos no Active Directory**
+
+- **Grupos de Segurança**: Usados para atribuir permissões a recursos na rede. Eles podem ser aninhados e usados em políticas de grupo.
+
+- **Grupos de Distribuição**: Usados para criar listas de distribuição de e-mail. Eles não podem ser usados para atribuir permissões.
+
+#### 4. **Tipos de Relações de Confiança**
+
+- **Confiança Unidirecional**: Uma relação de confiança onde um domínio confia em outro, mas a confiança não é recíproca.
+
+- **Confiança Bidirecional**: Uma relação de confiança onde ambos os domínios confiam um no outro.
+
+- **Confiança Transitiva**: Uma relação de confiança que se estende automaticamente a outros domínios na árvore ou floresta.
+
+- **Confiança Não Transitiva**: Uma relação de confiança que não se estende automaticamente a outros domínios.
+
+#### 5. **Tipos de Partições do Active Directory**
+
+- **Partição de Domínio**: Contém todos os objetos de um domínio específico.
+
+- **Partição de Configuração**: Contém informações sobre a topologia da floresta, como sites e serviços.
+
+- **Partição de Esquema**: Contém definições de todos os tipos de objetos e atributos que podem ser criados no AD.
+
+- **Partição de Aplicação**: Usada para armazenar dados específicos de aplicativos que precisam ser replicados em um conjunto específico de DCs.
+
+### Características dos Tipos de Controladores de Domínio
+
+- **Controlador de Domínio Primário (PDC)**:
+  - Respons
+

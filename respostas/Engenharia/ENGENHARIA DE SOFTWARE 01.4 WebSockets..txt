@@ -1,0 +1,89 @@
+ENGENHARIA DE SOFTWARE:: 01.4 WebSockets.
+ -
+### Origem dos WebSockets
+
+Os WebSockets foram introduzidos como parte do HTML5 pelo W3C e pelo IETF para resolver as limitações das comunicações HTTP tradicionais. A especificação do protocolo WebSocket foi padronizada pelo IETF como RFC 6455 em 2011. A API WebSocket foi padronizada pelo W3C.
+
+### Conceitos de WebSockets
+
+WebSockets são um protocolo de comunicação que fornece canais full-duplex sobre uma única conexão TCP. Isso significa que, uma vez estabelecida a conexão, tanto o cliente quanto o servidor podem enviar dados a qualquer momento, sem a necessidade de novas requisições HTTP. Isso é particularmente útil para aplicações que requerem comunicação em tempo real, como jogos online, chats, e sistemas de monitoramento.
+
+### Tipos e Classificações de WebSockets
+
+Os WebSockets podem ser classificados de várias maneiras, dependendo do contexto e da aplicação. Abaixo estão algumas das classificações mais comuns:
+
+#### 1. **Baseado na Direção da Comunicação**
+
+- **Full-Duplex**: Permite que tanto o cliente quanto o servidor enviem mensagens simultaneamente. Este é o tipo padrão de WebSocket.
+
+#### 2. **Baseado no Tipo de Dados**
+
+- **Texto**: Mensagens são enviadas como strings de texto.
+- **Binário**: Mensagens são enviadas como dados binários, o que é útil para enviar arquivos ou dados complexos.
+
+#### 3. **Baseado na Segurança**
+
+- **ws (WebSocket)**: Conexão WebSocket padrão, sem criptografia.
+- **wss (WebSocket Secure)**: Conexão WebSocket segura, que utiliza TLS (Transport Layer Security) para criptografar os dados transmitidos.
+
+#### 4. **Baseado na Implementação**
+
+- **Cliente WebSocket**: Implementado em navegadores ou outras aplicações cliente para iniciar a conexão com o servidor WebSocket.
+- **Servidor WebSocket**: Implementado em servidores para aceitar conexões WebSocket de clientes.
+
+#### 5. **Baseado na Arquitetura**
+
+- **Standalone WebSocket Server**: Um servidor dedicado exclusivamente para gerenciar conexões WebSocket.
+- **Integrated WebSocket Server**: Um servidor WebSocket integrado em um servidor web existente, como Apache ou Nginx.
+
+### Detalhamento dos Tipos e suas Características
+
+#### Full-Duplex
+
+- **Características**: Permite comunicação bidirecional simultânea. Ideal para aplicações em tempo real.
+- **Exemplo de Uso**: Jogos online, chats, sistemas de monitoramento.
+
+#### Texto
+
+- **Características**: Mensagens são enviadas como strings de texto. Fácil de depurar e visualizar.
+- **Exemplo de Uso**: Mensagens de chat, notificações.
+
+#### Binário
+
+- **Características**: Mensagens são enviadas como dados binários. Mais eficiente para transmitir arquivos ou dados complexos.
+- **Exemplo de Uso**: Transmissão de arquivos, dados de sensores.
+
+#### ws (WebSocket)
+
+- **Características**: Conexão padrão sem criptografia. Mais rápido, mas menos seguro.
+- **Exemplo de Uso**: Aplicações internas onde a segurança não é uma preocupação.
+
+#### wss (WebSocket Secure)
+
+- **Características**: Utiliza TLS para criptografar a comunicação. Mais seguro, mas pode ser mais lento devido à criptografia.
+- **Exemplo de Uso**: Aplicações que requerem segurança, como transações financeiras.
+
+#### Cliente WebSocket
+
+- **Características**: Inicia a conexão com o servidor WebSocket. Implementado em navegadores ou outras aplicações cliente.
+- **Exemplo de Uso**: Navegadores web, aplicativos móveis.
+
+#### Servidor WebSocket
+
+- **Características**: Aceita conexões WebSocket de clientes. Pode ser standalone ou integrado em um servidor web.
+- **Exemplo de Uso**: Servidores de jogos, servidores de chat.
+
+#### Standalone WebSocket Server
+
+- **Características**: Servidor dedicado exclusivamente para WebSockets. Pode ser otimizado para alta performance.
+- **Exemplo de Uso**: Aplicações de alta demanda, como jogos online.
+
+#### Integrated WebSocket Server
+
+- **Características**: Integrado em um servidor web existente. Facilita a gestão e a escalabilidade.
+- **Exemplo de Uso**: Aplicações web que também requerem comunicação em tempo real.
+
+### Conclusão
+
+Os WebSockets são uma tecnologia poderosa para comunicação em tempo real, oferecendo várias opções e classificações para atender diferentes necessidades de aplicação. Desde a sua origem como parte do HTML5, eles têm sido amplamente adotados em diversas indústrias para melhorar a interatividade e a eficiência das comunicações web.
+

@@ -1,0 +1,67 @@
+SEGURANÇA DA INFORMAÇÃO:: 06.5 Proxy, 
+ -
+### Origem e Conceitos de Proxy
+
+**Origem:**
+O conceito de proxy surgiu com a necessidade de melhorar a segurança, desempenho e gerenciamento de redes de computadores. Inicialmente, proxies eram usados principalmente para cache de conteúdo da web, mas com o tempo, suas funcionalidades se expandiram para incluir segurança, anonimato e controle de acesso.
+
+**Conceitos:**
+Um proxy é um servidor intermediário que atua como um intermediário entre um cliente (como um navegador web) e um servidor de destino (como um site). Ele recebe as solicitações do cliente, as processa e as encaminha ao servidor de destino. O servidor de destino responde ao proxy, que então encaminha a resposta de volta ao cliente.
+
+### Tipos e Classificações de Proxy
+
+1. **Proxy HTTP/HTTPS:**
+   - **Proxy HTTP:** Funciona para tráfego HTTP, permitindo cache de páginas web e filtragem de conteúdo.
+   - **Proxy HTTPS:** Suporta tráfego HTTPS, oferecendo criptografia para garantir a segurança dos dados transmitidos.
+
+2. **Proxy Transparente:**
+   - **Características:** Não requer configuração no cliente. O cliente não sabe que está usando um proxy. É frequentemente usado para cache e filtragem de conteúdo.
+
+3. **Proxy Anônimo:**
+   - **Características:** Oculta o endereço IP do cliente, mas revela que está usando um proxy. É usado para proteger a identidade do usuário.
+
+4. **Proxy de Alta Anonimidade (Elite Proxy):**
+   - **Características:** Oculta completamente o endereço IP do cliente e não revela que está usando um proxy. Oferece o mais alto nível de anonimato.
+
+5. **Proxy Reverso:**
+   - **Características:** Colocado na frente de servidores web para distribuir o tráfego de entrada, melhorar o desempenho e fornecer segurança adicional. É usado para balanceamento de carga, cache e proteção contra ataques DDoS.
+
+6. **Proxy de Cache:**
+   - **Características:** Armazena cópias de recursos solicitados frequentemente para reduzir a latência e a carga no servidor de origem. É usado para melhorar o desempenho da rede.
+
+7. **Proxy de Web:**
+   - **Características:** Acessível através de um navegador web, permite aos usuários acessar sites bloqueados ou navegar anonimamente. É frequentemente usado para contornar censura.
+
+8. **Proxy SOCKS:**
+   - **Características:** Funciona em nível de sessão, suportando qualquer tipo de tráfego de rede (HTTP, FTP, etc.). É usado para aplicações que requerem maior flexibilidade.
+
+9. **Proxy Residencial:**
+   - **Características:** Usa endereços IP de dispositivos residenciais, tornando o tráfego mais difícil de ser detectado como proveniente de um proxy. É usado para scraping de dados e testes de SEO.
+
+10. **Proxy de Datacenter:**
+    - **Características:** Usa endereços IP fornecidos por datacenters. É mais rápido e mais barato, mas mais fácil de ser detectado como um proxy. É usado para tarefas que requerem alta velocidade.
+
+11. **Proxy Rotativo:**
+    - **Características:** Alterna entre diferentes endereços IP para cada solicitação, dificultando a detecção e o bloqueio. É usado para scraping de dados e automação de tarefas.
+
+12. **Proxy de Gateway:**
+    - **Características:** Atua como um ponto de entrada para uma rede, controlando o tráfego de entrada e saída. É usado para segurança e gerenciamento de rede.
+
+### Detalhamento dos Tipos e Suas Características
+
+1. **Proxy HTTP/HTTPS:**
+   - **Proxy HTTP:** Armazena em cache páginas web para reduzir o tempo de carregamento e a carga no servidor de origem. Pode filtrar conteúdo baseado em políticas de rede.
+   - **Proxy HTTPS:** Criptografa o tráfego entre o cliente e o proxy, garantindo que os dados transmitidos sejam seguros. Pode ser usado para acessar sites que exigem HTTPS.
+
+2. **Proxy Transparente:**
+   - **Características:** Não requer configuração no cliente. O cliente não sabe que está usando um proxy. É frequentemente usado para cache e filtragem de conteúdo. Pode ser implementado em roteadores ou firewalls.
+
+3. **Proxy Anônimo:**
+   - **Características:** Oculta o endereço IP do cliente, mas revela que está usando um proxy. É usado para proteger a identidade do usuário. Pode ser detectado por alguns sites que verificam a presença de proxies.
+
+4. **Proxy de Alta Anonimidade (Elite Proxy):**
+   - **Características:** Oculta completamente o endereço IP do cliente e não revela que está usando um proxy. Oferece o mais alto nível de anonimato. É ideal para atividades que requerem privacidade máxima.
+
+5. **Proxy Reverso:**
+   - **Características:** Colocado na frente de servidores web para distribuir o tráfego de entrada, melhorar o desempenho e fornecer segurança adicional
+

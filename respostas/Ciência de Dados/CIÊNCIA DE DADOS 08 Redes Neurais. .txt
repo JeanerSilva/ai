@@ -1,0 +1,59 @@
+CIÊNCIA DE DADOS:: 08 Redes Neurais. 
+ -
+As redes neurais são modelos computacionais inspirados na estrutura e funcionamento do cérebro humano. Elas são compostas por unidades de processamento chamadas neurônios, que são organizados em camadas e conectados por sinapses. A origem das redes neurais remonta aos trabalhos de Warren McCulloch e Walter Pitts na década de 1940, que propuseram um modelo matemático para neurônios artificiais. Desde então, as redes neurais evoluíram significativamente e se tornaram uma ferramenta poderosa em diversas áreas, como reconhecimento de padrões, processamento de linguagem natural e aprendizado de máquina.
+
+### Conceitos Básicos
+
+1. **Neurônio Artificial**: Unidade básica de processamento que recebe entradas, aplica uma função de ativação e gera uma saída.
+2. **Camadas**: Estrutura das redes neurais, composta por camadas de entrada, ocultas e de saída.
+3. **Função de Ativação**: Função que introduz não-linearidade ao modelo, como ReLU, Sigmoid e Tanh.
+4. **Treinamento**: Processo de ajuste dos pesos das conexões entre neurônios usando algoritmos como backpropagation.
+5. **Perceptron**: Modelo mais simples de neurônio artificial, usado como base para redes neurais mais complexas.
+
+### Tipos e Classificações de Redes Neurais
+
+1. **Perceptron de Camada Única (Single-Layer Perceptron)**
+   - **Características**: Consiste em uma única camada de neurônios. É capaz de resolver problemas linearmente separáveis.
+   
+2. **Perceptron Multicamadas (Multilayer Perceptron - MLP)**
+   - **Características**: Possui uma ou mais camadas ocultas entre a camada de entrada e a de saída. Utiliza a função de ativação não-linear e o algoritmo de backpropagation para treinamento.
+   
+3. **Redes Neurais Convolucionais (Convolutional Neural Networks - CNNs)**
+   - **Características**: Especializadas em processamento de dados com estrutura de grade, como imagens. Utilizam camadas convolucionais, pooling e totalmente conectadas.
+   - **Componentes**:
+     - **Camadas Convolucionais**: Aplicam filtros para extrair características locais.
+     - **Camadas de Pooling**: Reduzem a dimensionalidade, mantendo as características mais importantes.
+     - **Camadas Totalmente Conectadas**: Realizam a classificação final.
+
+4. **Redes Neurais Recorrentes (Recurrent Neural Networks - RNNs)**
+   - **Características**: Adequadas para dados sequenciais, como séries temporais e texto. Possuem conexões recorrentes que permitem a retenção de informações passadas.
+   - **Variantes**:
+     - **LSTM (Long Short-Term Memory)**: Resolve o problema de gradiente desaparecido, permitindo a retenção de informações por longos períodos.
+     - **GRU (Gated Recurrent Unit)**: Variante simplificada do LSTM, com desempenho similar.
+
+5. **Redes Neurais de Base Radial (Radial Basis Function Networks - RBFNs)**
+   - **Características**: Utilizam funções de base radial como funções de ativação. São eficazes em problemas de classificação e regressão.
+   
+6. **Redes Neurais de Função de Base Radial (Radial Basis Function Networks - RBFNs)**
+   - **Características**: Utilizam funções de base radial como funções de ativação. São eficazes em problemas de classificação e regressão.
+   
+7. **Redes Neurais de Hopfield**
+   - **Características**: Redes recorrentes totalmente conectadas, usadas principalmente para armazenamento associativo e otimização combinatória. Funcionam como sistemas dinâmicos que convergem para estados estáveis.
+   
+8. **Redes Neurais de Kohonen (Mapas Auto-Organizáveis - SOMs)**
+   - **Características**: Redes não supervisionadas que realizam mapeamento topológico. São usadas para redução de dimensionalidade e visualização de dados.
+
+### Detalhamento dos Tipos e Suas Características
+
+1. **Perceptron de Camada Única**
+   - **Aplicações**: Problemas de classificação linear.
+   - **Limitações**: Incapaz de resolver problemas não linearmente separáveis.
+
+2. **Perceptron Multicamadas (MLP)**
+   - **Aplicações**: Reconhecimento de padrões, classificação, regressão.
+   - **Vantagens**: Capacidade de modelar relações não lineares complexas.
+   - **Desvantagens**: Requer grande quantidade de dados e poder computacional para treinamento.
+
+3. **Redes Neurais Convolucionais (CNNs)**
+   - **Aplicações**:
+

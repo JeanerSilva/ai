@@ -1,0 +1,77 @@
+ENGENHARIA DE SOFTWARE:: 01 Arquitetura de sistemas web.
+ -
+### Arquitetura de Sistemas Web
+
+#### Origem
+A arquitetura de sistemas web surgiu com a evolução da internet e a necessidade de criar aplicações mais complexas e interativas. Inicialmente, as páginas web eram estáticas, mas com o avanço das tecnologias e a demanda por funcionalidades mais dinâmicas, a arquitetura de sistemas web evoluiu para suportar aplicações robustas e escaláveis.
+
+#### Conceitos
+A arquitetura de sistemas web refere-se à estrutura e organização de componentes de software que compõem uma aplicação web. Ela define como os componentes interagem entre si e com outros sistemas, garantindo que a aplicação seja eficiente, escalável, segura e fácil de manter.
+
+#### Tipos e Classificações
+
+1. **Arquitetura Monolítica**
+   - **Descrição**: Todos os componentes da aplicação estão integrados em um único código base.
+   - **Características**:
+     - Simplicidade na implementação inicial.
+     - Dificuldade de escalabilidade.
+     - Manutenção complexa à medida que a aplicação cresce.
+     - Desafios na implementação de novas funcionalidades sem afetar o sistema existente.
+
+2. **Arquitetura em Camadas (Layered Architecture)**
+   - **Descrição**: A aplicação é dividida em camadas, cada uma com responsabilidades específicas.
+   - **Camadas Comuns**:
+     - **Apresentação (UI)**: Interface com o usuário.
+     - **Aplicação (Lógica de Negócio)**: Processamento das regras de negócio.
+     - **Dados (Persistência)**: Gerenciamento de dados e comunicação com o banco de dados.
+   - **Características**:
+     - Separação clara de responsabilidades.
+     - Facilidade de manutenção e teste.
+     - Pode introduzir latência devido à comunicação entre camadas.
+
+3. **Arquitetura de Microserviços**
+   - **Descrição**: A aplicação é dividida em pequenos serviços independentes, cada um responsável por uma funcionalidade específica.
+   - **Características**:
+     - Escalabilidade horizontal.
+     - Independência de desenvolvimento e implantação.
+     - Complexidade na gestão e comunicação entre serviços.
+     - Necessidade de uma infraestrutura robusta para orquestração e monitoramento.
+
+4. **Arquitetura Orientada a Serviços (SOA)**
+   - **Descrição**: Similar à arquitetura de microserviços, mas com foco em serviços maiores e mais integrados.
+   - **Características**:
+     - Reutilização de serviços.
+     - Interoperabilidade entre diferentes sistemas.
+     - Complexidade na gestão de contratos de serviço e governança.
+
+5. **Arquitetura Serverless**
+   - **Descrição**: A aplicação é executada em um ambiente onde o provedor de nuvem gerencia a infraestrutura.
+   - **Características**:
+     - Escalabilidade automática.
+     - Redução de custos operacionais.
+     - Dependência do provedor de nuvem.
+     - Limitações em termos de controle e customização da infraestrutura.
+
+6. **Arquitetura de Evento (Event-Driven Architecture)**
+   - **Descrição**: A aplicação é baseada em eventos que desencadeiam ações ou processos.
+   - **Características**:
+     - Alta responsividade e escalabilidade.
+     - Complexidade na gestão de eventos e estado.
+     - Adequada para aplicações que requerem processamento em tempo real.
+
+7. **Arquitetura de Componentes (Component-Based Architecture)**
+   - **Descrição**: A aplicação é dividida em componentes reutilizáveis.
+   - **Características**:
+     - Reutilização e modularidade.
+     - Facilidade de manutenção e atualização.
+     - Complexidade na integração de componentes.
+
+8. **Arquitetura de Cliente-Servidor**
+   - **Descrição**: A aplicação é dividida em cliente (frontend) e servidor (backend).
+   - **Características**:
+     - Separação clara entre interface do usuário e lógica de negócio.
+     - Escalabilidade limitada pelo servidor.
+     - Dependência da comunicação de rede.
+
+Cada tipo de arquitetura tem suas vantagens e desvantagens, e a escolha da arquitetura adequada depende dos requisitos específicos da aplicação, como escalabilidade, manutenção, custo e complexidade.
+

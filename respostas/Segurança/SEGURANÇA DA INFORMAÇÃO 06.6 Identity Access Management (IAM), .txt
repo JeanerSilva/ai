@@ -1,0 +1,74 @@
+SEGURANÇA DA INFORMAÇÃO:: 06.6 Identity Access Management (IAM), 
+ -
+### Origem do Identity Access Management (IAM)
+
+Identity Access Management (IAM) é um conjunto de políticas, processos e tecnologias que facilitam a gestão de identidades digitais e o controle de acesso a recursos de informação. A origem do IAM remonta ao crescimento da computação corporativa e da internet, onde a necessidade de proteger dados sensíveis e garantir que apenas usuários autorizados tivessem acesso a determinados recursos se tornou crucial. Com o avanço das tecnologias e a crescente complexidade dos ambientes de TI, o IAM evoluiu para incluir uma ampla gama de funcionalidades e soluções.
+
+### Conceitos de Identity Access Management (IAM)
+
+1. **Identidade Digital**: Representação eletrônica de uma entidade (usuário, dispositivo, aplicação) que pode ser autenticada e autorizada a acessar recursos.
+2. **Autenticação**: Processo de verificar a identidade de uma entidade.
+3. **Autorização**: Processo de conceder ou negar permissões a uma entidade autenticada.
+4. **Provisionamento**: Processo de criação, modificação e remoção de identidades e suas permissões.
+5. **Single Sign-On (SSO)**: Técnica que permite a um usuário acessar múltiplos sistemas com uma única autenticação.
+6. **Federation**: Integração de identidades entre diferentes sistemas ou organizações.
+7. **Auditoria e Relatórios**: Monitoramento e registro de atividades de acesso para conformidade e segurança.
+
+### Tipos e Classificações de IAM
+
+#### 1. **Autenticação**
+
+- **Senha**: Método tradicional que utiliza uma combinação de caracteres.
+- **Biometria**: Utiliza características físicas (impressão digital, reconhecimento facial).
+- **Token**: Dispositivos físicos ou digitais que geram códigos temporários.
+- **Certificados Digitais**: Utilizam criptografia para autenticação.
+- **Autenticação Multifator (MFA)**: Combinação de dois ou mais métodos de autenticação.
+
+#### 2. **Autorização**
+
+- **Baseada em Funções (RBAC)**: Permissões são atribuídas com base em funções específicas dentro da organização.
+- **Baseada em Atributos (ABAC)**: Permissões são concedidas com base em atributos do usuário, como departamento, localização, etc.
+- **Baseada em Políticas (PBAC)**: Utiliza políticas definidas para determinar permissões.
+
+#### 3. **Provisionamento**
+
+- **Provisionamento Automático**: Utiliza scripts e ferramentas para criar, modificar e remover identidades automaticamente.
+- **Provisionamento Manual**: Administradores realizam essas tarefas manualmente.
+- **Provisionamento Just-In-Time (JIT)**: Identidades são provisionadas apenas quando necessário.
+
+#### 4. **Single Sign-On (SSO)**
+
+- **SSO Corporativo**: Permite acesso a múltiplos sistemas internos com uma única autenticação.
+- **SSO Federado**: Permite acesso a sistemas de diferentes organizações com uma única autenticação.
+
+#### 5. **Federation**
+
+- **SAML (Security Assertion Markup Language)**: Protocolo que permite a troca de informações de autenticação e autorização entre diferentes sistemas.
+- **OAuth**: Protocolo que permite acesso delegado a recursos sem compartilhar credenciais.
+- **OpenID Connect**: Extensão do OAuth que permite autenticação federada.
+
+#### 6. **Auditoria e Relatórios**
+
+- **Logs de Acesso**: Registro detalhado de todas as tentativas de acesso.
+- **Relatórios de Conformidade**: Relatórios que ajudam a garantir que a organização está em conformidade com regulamentos e políticas internas.
+- **Monitoramento Contínuo**: Ferramentas que monitoram atividades em tempo real para detectar e responder a anomalias.
+
+### Características dos Tipos de IAM
+
+1. **Autenticação**
+   - **Senha**: Simples, mas vulnerável a ataques de força bruta e phishing.
+   - **Biometria**: Alta segurança, mas pode ser caro e suscetível a falsificações.
+   - **Token**: Alta segurança, mas pode ser inconveniente para o usuário.
+   - **Certificados Digitais**: Alta segurança, mas requer infraestrutura de chave pública (PKI).
+   - **MFA**: Combina segurança e conveniência, mas pode ser complexo de implementar.
+
+2. **Autorização**
+   - **RBAC**: Simples de gerenciar, mas pode ser inflexível.
+   - **ABAC**: Flexível, mas pode ser complexo de implementar.
+   - **PBAC**: Muito flexível e poderoso, mas requer uma definição clara de políticas.
+
+3. **Provisionamento**
+   - **Automático**: Eficiente e reduz erros humanos, mas requer configuração inicial.
+   - **Manual**: Flexível, mas propenso a erros e demorado.
+   - **JIT**: Eficiente
+

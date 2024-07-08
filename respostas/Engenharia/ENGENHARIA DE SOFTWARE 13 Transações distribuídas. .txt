@@ -1,0 +1,72 @@
+ENGENHARIA DE SOFTWARE:: 13 Transações distribuídas. 
+ -
+### Transações Distribuídas: Origem, Conceitos, Tipos e Classificações
+
+#### Origem
+As transações distribuídas surgiram com a necessidade de gerenciar operações que envolvem múltiplos sistemas de banco de dados ou recursos distribuídos em diferentes locais. Com o crescimento das redes de computadores e a necessidade de sistemas mais escaláveis e resilientes, tornou-se essencial garantir que as transações que envolvem múltiplos pontos de dados mantenham a consistência e a integridade.
+
+#### Conceitos
+Transações distribuídas são operações que abrangem múltiplos sistemas de banco de dados ou recursos distribuídos. Elas garantem que todas as partes da transação sejam concluídas com sucesso ou que nenhuma delas seja aplicada, mantendo a consistência dos dados. Os principais conceitos incluem:
+
+- **Atomicidade**: A transação deve ser completada em sua totalidade ou não ser aplicada.
+- **Consistência**: A transação deve levar o sistema de um estado consistente a outro estado consistente.
+- **Isolamento**: As operações de uma transação devem ser isoladas das operações de outras transações.
+- **Durabilidade**: Uma vez que a transação é concluída, suas mudanças devem ser permanentes.
+
+#### Tipos e Classificações
+
+1. **Transações de Dois Fases (Two-Phase Commit - 2PC)**
+   - **Fase de Preparação**: Todos os participantes da transação preparam-se para a transação e informam ao coordenador se estão prontos para confirmar.
+   - **Fase de Commit**: Se todos os participantes estiverem prontos, o coordenador envia um comando de commit; caso contrário, envia um comando de rollback.
+
+2. **Transações de Três Fases (Three-Phase Commit - 3PC)**
+   - **Fase de CanCommit**: O coordenador pergunta aos participantes se podem realizar a transação.
+   - **Fase de PreCommit**: Se todos os participantes responderem afirmativamente, o coordenador envia um comando de pre-commit.
+   - **Fase de DoCommit**: Finalmente, o coordenador envia um comando de commit definitivo.
+
+3. **Transações de Longa Duração**
+   - Envolvem operações que podem durar um longo período de tempo.
+   - Utilizam técnicas como checkpoints e savepoints para garantir a consistência.
+
+4. **Transações Aninhadas**
+   - Transações que contêm outras transações dentro delas.
+   - Permitem que sub-transações sejam confirmadas ou revertidas independentemente da transação principal.
+
+5. **Transações Compensatórias**
+   - Utilizadas para desfazer os efeitos de uma transação que não pode ser revertida diretamente.
+   - Envolvem a execução de uma nova transação que compensa os efeitos da transação original.
+
+6. **Transações Baseadas em Tempo**
+   - Utilizam timestamps para garantir a ordem e a consistência das transações.
+   - Importantes em sistemas onde a ordem das operações é crucial.
+
+7. **Transações Baseadas em Vetores de Versão**
+   - Utilizam vetores de versão para manter o controle de diferentes versões dos dados.
+   - Permitem a reconciliação de conflitos em sistemas distribuídos.
+
+8. **Transações de Replicação**
+   - Envolvem a replicação de dados entre diferentes sistemas para garantir a disponibilidade e a consistência.
+   - Utilizam técnicas como replicação síncrona e assíncrona.
+
+9. **Transações de Consenso**
+   - Utilizam algoritmos de consenso para garantir que todos os participantes concordem com o estado final da transação.
+   - Exemplos incluem o algoritmo Paxos e o Raft.
+
+10. **Transações de Quórum**
+    - Utilizam um sistema de quórum para decidir se uma transação pode ser confirmada.
+    - Garantem que um número mínimo de participantes concorde com a transação.
+
+11. **Transações de Cadeia de Blocos (Blockchain)**
+    - Utilizam a tecnologia de blockchain para garantir a imutabilidade e a transparência das transações.
+    - Cada transação é registrada em um bloco que é adicionado a uma cadeia.
+
+12. **Transações de Multi-Versão (MVCC)**
+    - Utilizam múltiplas versões dos dados para permitir a leitura e escrita simultâneas.
+    - Melhoram o desempenho em sistemas com alta concorrência.
+
+13. **Transações de Controle de Conflitos**
+    - Utilizam técnicas para detectar e resolver conflitos entre transações concorrentes.
+    - Podem envolver o uso de bloqueios, timestamps ou outras técnicas de controle de concorrência.
+
+Cada tipo de transação distribuída tem suas próprias características e é adequada para diferentes cenários e requisitos de sistema. A escolha do tipo de transação depende das necessidades específicas de consistência, disponibilidade, desempenho e complexidade do sistema distribuído em questão.
+

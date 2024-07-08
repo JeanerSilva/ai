@@ -1,0 +1,52 @@
+SEGURANÇA DA INFORMAÇÃO:: 10.1 Segurança em contêineres.
+ -
+### Origem e Conceitos de Segurança em Contêineres
+
+A segurança em contêineres é um campo que ganhou relevância com a popularização da tecnologia de contêineres, como Docker e Kubernetes, que permitem a criação, implantação e gerenciamento de aplicativos em ambientes isolados. A origem dessa tecnologia remonta à necessidade de melhorar a eficiência e a portabilidade de aplicativos, permitindo que eles sejam executados de maneira consistente em diferentes ambientes.
+
+Os contêineres encapsulam um aplicativo e suas dependências em uma unidade leve e portátil, que pode ser executada em qualquer ambiente que suporte contêineres. No entanto, essa flexibilidade e portabilidade introduzem novos desafios de segurança, exigindo práticas e ferramentas específicas para garantir a integridade, confidencialidade e disponibilidade dos aplicativos e dados.
+
+### Conceitos de Segurança em Contêineres
+
+1. **Isolamento**: Garantir que os contêineres sejam isolados uns dos outros e do sistema host para evitar que uma vulnerabilidade em um contêiner comprometa outros contêineres ou o próprio host.
+2. **Controle de Acesso**: Implementar políticas de controle de acesso para garantir que apenas usuários e processos autorizados possam interagir com os contêineres.
+3. **Imagens Seguras**: Utilizar imagens de contêineres seguras e verificadas para evitar a introdução de vulnerabilidades.
+4. **Monitoramento e Logging**: Monitorar continuamente os contêineres e registrar atividades para detectar e responder a incidentes de segurança.
+5. **Atualizações e Patches**: Manter os contêineres e suas dependências atualizados com os patches de segurança mais recentes.
+
+### Tipos e Classificações de Segurança em Contêineres
+
+#### 1. **Segurança de Imagens de Contêineres**
+   - **Verificação de Imagens**: Utilizar assinaturas digitais para verificar a integridade e autenticidade das imagens.
+   - **Escaneamento de Vulnerabilidades**: Ferramentas que escaneiam imagens em busca de vulnerabilidades conhecidas.
+   - **Políticas de Imagem**: Definir políticas que especificam quais imagens podem ser usadas e de onde elas podem ser obtidas.
+
+#### 2. **Segurança de Registro de Contêineres**
+   - **Controle de Acesso**: Implementar autenticação e autorização para acessar o registro de contêineres.
+   - **Escaneamento de Imagens**: Escanear imagens armazenadas no registro para detectar vulnerabilidades.
+   - **Políticas de Retenção**: Definir políticas para a retenção e exclusão de imagens antigas ou não utilizadas.
+
+#### 3. **Segurança de Orquestração de Contêineres**
+   - **Autenticação e Autorização**: Garantir que apenas usuários e serviços autorizados possam interagir com o orquestrador.
+   - **Segurança de Rede**: Implementar políticas de rede para controlar o tráfego entre contêineres e serviços.
+   - **Segurança de Configuração**: Garantir que as configurações do orquestrador estejam seguras e sigam as melhores práticas.
+
+#### 4. **Segurança de Execução de Contêineres**
+   - **Isolamento de Contêineres**: Utilizar namespaces e cgroups para isolar contêineres uns dos outros e do sistema host.
+   - **Capacidades de Linux**: Limitar as capacidades do contêiner para reduzir a superfície de ataque.
+   - **Políticas de Segurança**: Implementar políticas de segurança, como AppArmor ou SELinux, para restringir o que os contêineres podem fazer.
+
+#### 5. **Segurança de Rede de Contêineres**
+   - **Segurança de Tráfego**: Utilizar criptografia para proteger o tráfego entre contêineres.
+   - **Segmentação de Rede**: Implementar segmentação de rede para isolar diferentes partes da aplicação.
+   - **Firewall de Contêineres**: Utilizar firewalls para controlar o tráfego de entrada e saída dos contêineres.
+
+#### 6. **Segurança de Dados em Contêineres**
+   - **Criptografia de Dados**: Criptografar dados em repouso e em trânsito.
+   - **Gerenciamento de Segredos**: Utilizar ferramentas para gerenciar segredos, como senhas e chaves de API, de forma segura.
+   - **Backup e Recuperação**: Implementar estratégias de backup e recuperação para garantir a disponibilidade dos dados.
+
+#### 7. **Monitoramento e Logging de Contêineres**
+   - **Monitoramento Contínuo**: Utilizar ferramentas para monitorar a saúde e o desempenho dos contêineres.
+   - **Logging Centralizado**: Centralizar logs de contêineres para facilitar a análise e a
+

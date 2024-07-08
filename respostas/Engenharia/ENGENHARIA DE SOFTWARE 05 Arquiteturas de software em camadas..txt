@@ -1,0 +1,87 @@
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software em camadas.
+ -
+### Arquiteturas de Software em Camadas
+
+#### Origem
+A arquitetura de software em camadas tem suas raízes na engenharia de software e na necessidade de organizar sistemas complexos de maneira que sejam mais fáceis de entender, desenvolver, manter e escalar. Este conceito foi popularizado com o advento dos sistemas operacionais e das aplicações empresariais, onde a separação de responsabilidades e a modularidade são cruciais.
+
+#### Conceitos
+A arquitetura em camadas é um estilo de design de software que divide o sistema em diferentes níveis (ou camadas), cada um com responsabilidades específicas. Cada camada fornece serviços para a camada acima dela e consome serviços da camada abaixo. Isso promove a separação de preocupações, modularidade e facilita a manutenção e evolução do sistema.
+
+#### Tipos e Classificações
+
+1. **Arquitetura Monolítica em Camadas**
+   - **Camada de Apresentação (UI)**
+     - Responsável pela interface com o usuário.
+     - Inclui componentes como páginas web, formulários, e interfaces gráficas.
+   - **Camada de Aplicação (Lógica de Negócio)**
+     - Contém a lógica de negócios e regras de processamento.
+     - Inclui serviços, controladores e lógica de aplicação.
+   - **Camada de Acesso a Dados**
+     - Gerencia a comunicação com o banco de dados.
+     - Inclui repositórios, DAOs (Data Access Objects) e mapeamentos ORM.
+   - **Camada de Banco de Dados**
+     - Onde os dados são armazenados e gerenciados.
+     - Inclui bancos de dados relacionais, NoSQL, e outros sistemas de armazenamento.
+
+2. **Arquitetura de Microserviços em Camadas**
+   - **Camada de Interface de Usuário**
+     - Similar à camada de apresentação na arquitetura monolítica.
+   - **Camada de Serviços de Negócio**
+     - Cada microserviço é responsável por uma funcionalidade específica.
+     - Microserviços são independentes e comunicam-se via APIs.
+   - **Camada de Integração**
+     - Gerencia a comunicação entre microserviços.
+     - Inclui barramentos de serviço, filas de mensagens e APIs.
+   - **Camada de Persistência**
+     - Cada microserviço pode ter seu próprio banco de dados.
+     - Promove a independência e escalabilidade dos serviços.
+
+3. **Arquitetura em Camadas N-Tier**
+   - **Camada de Apresentação**
+     - Similar à camada de apresentação na arquitetura monolítica.
+   - **Camada de Lógica de Negócio**
+     - Similar à camada de aplicação na arquitetura monolítica.
+   - **Camada de Serviço**
+     - Intermediária entre a lógica de negócios e a camada de dados.
+     - Inclui serviços web, APIs RESTful, e serviços SOAP.
+   - **Camada de Dados**
+     - Similar à camada de acesso a dados na arquitetura monolítica.
+   - **Camada de Banco de Dados**
+     - Similar à camada de banco de dados na arquitetura monolítica.
+
+4. **Arquitetura de Cliente-Servidor em Camadas**
+   - **Camada de Cliente**
+     - Interface com o usuário.
+     - Inclui navegadores web, aplicativos móveis, e clientes desktop.
+   - **Camada de Servidor de Aplicação**
+     - Processa a lógica de negócios.
+     - Inclui servidores web, servidores de aplicação, e middleware.
+   - **Camada de Banco de Dados**
+     - Gerencia a persistência de dados.
+     - Inclui servidores de banco de dados e sistemas de armazenamento.
+
+5. **Arquitetura de Camadas Hexagonais (Arquitetura de Portas e Adaptadores)**
+   - **Camada de Domínio**
+     - Contém a lógica de negócios central.
+     - Independente de frameworks e tecnologias externas.
+   - **Camada de Aplicação**
+     - Orquestra a lógica de negócios.
+     - Inclui casos de uso e serviços de aplicação.
+   - **Camada de Interface**
+     - Interage com o mundo externo.
+     - Inclui adaptadores de entrada (APIs, interfaces de usuário) e adaptadores de saída (repositórios, serviços externos).
+
+### Detalhamento dos Tipos e Características
+
+#### Arquitetura Monolítica em Camadas
+- **Camada de Apresentação (UI)**
+  - Foco na experiência do usuário.
+  - Utiliza tecnologias como HTML, CSS, JavaScript, frameworks front-end (React, Angular).
+- **Camada de Aplicação (Lógica de Negócio)**
+  - Implementa regras de negócios.
+  - Utiliza frameworks como Spring, .NET, Django.
+- **Camada de Acesso a Dados**
+  - Abstrai a complexidade do acesso ao banco de dados.
+  - Utiliza ORM (
+

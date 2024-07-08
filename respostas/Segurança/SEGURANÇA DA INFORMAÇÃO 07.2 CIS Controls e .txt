@@ -1,0 +1,56 @@
+SEGURANÇA DA INFORMAÇÃO:: 07.2 CIS Controls e 
+ -
+### Origem dos CIS Controls
+
+Os CIS Controls (Center for Internet Security Controls) são um conjunto de práticas recomendadas para a segurança cibernética desenvolvidas pelo Center for Internet Security (CIS), uma organização sem fins lucrativos. A origem dos CIS Controls remonta a 2008, quando um grupo de especialistas em segurança de várias indústrias e agências governamentais se reuniu para criar um conjunto de controles de segurança que fossem práticos, acionáveis e baseados em evidências. O objetivo era ajudar as organizações a mitigar as ameaças mais comuns e perigosas à segurança cibernética.
+
+### Conceitos dos CIS Controls
+
+Os CIS Controls são projetados para fornecer uma abordagem estruturada e priorizada para a segurança cibernética. Eles são baseados em três princípios fundamentais:
+
+1. **Prioridade**: Os controles são organizados em uma ordem que reflete a sua importância e impacto na redução de riscos.
+2. **Ação**: Cada controle é descrito de maneira prática, com passos específicos que as organizações podem seguir.
+3. **Baseado em Evidências**: Os controles são desenvolvidos com base em dados reais sobre ameaças e vulnerabilidades.
+
+### Tipos e Classificações dos CIS Controls
+
+Os CIS Controls são divididos em três categorias principais, cada uma contendo vários controles específicos. A seguir, detalho cada uma dessas categorias e seus respectivos controles:
+
+#### 1. **Controles Básicos (Basic Controls)**
+
+Estes são os controles fundamentais que todas as organizações devem implementar para estabelecer uma base sólida de segurança cibernética.
+
+1. **Inventário e Controle de Ativos de Hardware**: Identificar e gerenciar todos os dispositivos de hardware na rede.
+2. **Inventário e Controle de Ativos de Software**: Identificar e gerenciar todos os softwares na rede.
+3. **Gerenciamento Contínuo de Vulnerabilidades**: Identificar, priorizar e corrigir vulnerabilidades de segurança.
+4. **Uso Controlado de Privilégios Administrativos**: Gerenciar e monitorar o uso de contas com privilégios administrativos.
+5. **Configuração Segura para Hardware e Software em Dispositivos Móveis, Laptops, Workstations e Servidores**: Implementar configurações seguras para todos os dispositivos.
+6. **Manutenção, Monitoramento e Análise de Logs de Auditoria**: Coletar, gerenciar e analisar logs de auditoria para detectar atividades suspeitas.
+
+#### 2. **Controles Fundamentais (Foundational Controls)**
+
+Estes controles constroem sobre os controles básicos e ajudam a proteger a rede contra ameaças mais avançadas.
+
+7. **Proteção de Email e Navegador Web**: Implementar medidas de segurança para proteger contra ameaças baseadas em email e web.
+8. **Defesas contra Malware**: Implementar medidas para detectar e prevenir malware.
+9. **Limitação e Controle de Portas de Rede, Protocolos e Serviços**: Gerenciar e controlar portas de rede, protocolos e serviços.
+10. **Capacidades de Recuperação de Dados**: Implementar medidas para garantir a recuperação de dados em caso de incidente.
+11. **Configuração Segura para Dispositivos de Rede, como Firewalls, Roteadores e Switches**: Implementar configurações seguras para dispositivos de rede.
+12. **Defesas contra Ataques de Engenharia Social**: Implementar medidas para proteger contra ataques de engenharia social.
+13. **Proteção de Dados**: Implementar medidas para proteger dados sensíveis.
+14. **Controle de Acesso Baseado em Necessidade de Conhecimento**: Implementar controles de acesso baseados na necessidade de conhecimento.
+15. **Monitoramento e Controle de Contas**: Monitorar e controlar contas de usuário e de serviço.
+16. **Segurança de Aplicações**: Implementar medidas de segurança no desenvolvimento e manutenção de aplicações.
+17. **Resposta e Gestão de Incidentes**: Implementar um plano de resposta a incidentes de segurança.
+18. **Teste de Penetração e Exercícios de Red Team**: Realizar testes de penetração e exercícios de Red Team para identificar e corrigir vulnerabilidades.
+
+#### 3. **Controles Organizacionais (Organizational Controls)**
+
+Estes controles são focados em aspectos organizacionais e de governança da segurança cibernética.
+
+19. **Política de Segurança e Treinamento de Conscientização**: Desenvolver e implementar políticas de segurança e programas de treinamento de conscientização.
+20. **Proteção contra Perda de Dados (DLP)**: Implementar medidas para prevenir a perda de dados.
+21. **Gerenciamento de Acesso e Identidade (IAM)**: Implementar medidas para gerenciar identidades e acessos.
+22. **Gerenciamento de Vulnerabilidades de Software**: Implementar medidas para gerenciar vulnerabilidades de software.
+23. **Gerenciamento de Segurança de Fornecedores**: Implementar medidas para gerenciar
+

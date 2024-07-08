@@ -1,0 +1,70 @@
+INFRAESTRUTURA EM TI:: 03.5 Certificados em Rede Microsoft Windows Server
+ -
+### Origem dos Certificados em Rede Microsoft Windows Server
+
+Os certificados em rede no contexto do Microsoft Windows Server têm suas raízes na necessidade de garantir a segurança e a autenticidade das comunicações e transações digitais. Eles são parte integrante da infraestrutura de chave pública (PKI), que é um conjunto de hardware, software, políticas e procedimentos necessários para criar, gerenciar, distribuir, usar, armazenar e revogar certificados digitais. A Microsoft implementou o suporte para PKI e certificados digitais em suas plataformas de servidor para fornecer uma camada adicional de segurança e confiança nas redes corporativas.
+
+### Conceitos de Certificados em Rede
+
+1. **Certificado Digital**: Um certificado digital é um documento eletrônico que utiliza uma assinatura digital para vincular uma chave pública a uma identidade. Ele é emitido por uma Autoridade Certificadora (CA) e contém informações como o nome do titular, a chave pública, a assinatura da CA e a validade do certificado.
+
+2. **Autoridade Certificadora (CA)**: Uma CA é uma entidade responsável por emitir, renovar e revogar certificados digitais. Ela verifica a identidade do solicitante antes de emitir um certificado.
+
+3. **Infraestrutura de Chave Pública (PKI)**: PKI é o conjunto de tecnologias e processos que suportam a criação, distribuição, gerenciamento e revogação de certificados digitais.
+
+4. **Chave Pública e Privada**: Em criptografia de chave pública, cada entidade possui um par de chaves: uma chave pública, que pode ser distribuída livremente, e uma chave privada, que deve ser mantida em segredo.
+
+### Tipos e Classificações de Certificados em Rede Microsoft Windows Server
+
+Os certificados em rede no Microsoft Windows Server podem ser classificados de várias maneiras, dependendo de seu uso e características. Abaixo estão os principais tipos de certificados e suas características:
+
+1. **Certificados de Servidor**
+   - **SSL/TLS**: Usados para garantir a segurança das comunicações entre servidores e clientes na web. Eles criptografam os dados transmitidos para proteger contra interceptações.
+   - **RDP (Remote Desktop Protocol)**: Usados para garantir a segurança das conexões de área de trabalho remota.
+
+2. **Certificados de Cliente**
+   - **Autenticação de Cliente**: Usados para autenticar usuários ou dispositivos em uma rede. Eles garantem que apenas usuários ou dispositivos autorizados possam acessar recursos específicos.
+
+3. **Certificados de E-mail**
+   - **S/MIME (Secure/Multipurpose Internet Mail Extensions)**: Usados para assinar e criptografar e-mails, garantindo a autenticidade e a confidencialidade das comunicações por e-mail.
+
+4. **Certificados de Código**
+   - **Assinatura de Código**: Usados para assinar digitalmente software e scripts, garantindo que o código não foi alterado ou corrompido desde que foi assinado.
+
+5. **Certificados de Infraestrutura**
+   - **Certificados de Autoridade Certificadora (CA)**: Usados por CAs para assinar outros certificados. Eles são fundamentais para a hierarquia de confiança em uma PKI.
+   - **Certificados de SubCA**: Emitidos por uma CA raiz para uma CA subordinada, permitindo que esta última emita certificados para usuários finais ou dispositivos.
+
+6. **Certificados de Dispositivo**
+   - **Certificados de Dispositivo de Rede**: Usados para autenticar dispositivos de rede, como roteadores e switches, garantindo que apenas dispositivos autorizados possam se comunicar na rede.
+
+### Características dos Tipos de Certificados
+
+1. **SSL/TLS**
+   - **Validade**: Geralmente de 1 a 2 anos.
+   - **Níveis de Validação**: Domínio (DV), Organização (OV) e Validação Estendida (EV).
+   - **Uso**: Criptografia de dados em trânsito, autenticação de servidor.
+
+2. **RDP**
+   - **Validade**: Geralmente de 1 a 2 anos.
+   - **Uso**: Segurança de conexões de área de trabalho remota.
+
+3. **Autenticação de Cliente**
+   - **Validade**: Geralmente de 1 a 2 anos.
+   - **Uso**: Autenticação de usuários e dispositivos.
+
+4. **S/MIME**
+   - **Validade**: Geralmente de 1 a 2 anos.
+   - **Uso**: Assinatura e criptografia de e-mails.
+
+5. **Assinatura de Código**
+   - **Validade**: Geralmente de 1 a 3 anos.
+   - **Uso**: Garantia de integridade e autenticidade de software e scripts.
+
+6. **Certificados de CA**
+   - **Validade**: Pode ser de vários anos, dependendo da política da CA.
+   - **Uso**: Emissão de outros certificados.
+
+7. **Certificados de SubCA**
+  
+

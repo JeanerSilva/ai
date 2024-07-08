@@ -1,0 +1,81 @@
+INFRAESTRUTURA EM TI:: 04.5 Elasticsearch
+ -
+### Origem do Elasticsearch
+
+Elasticsearch é um mecanismo de busca e análise de texto completo distribuído, desenvolvido pela empresa Elastic NV. Foi lançado pela primeira vez em 2010 por Shay Banon, que inicialmente o criou como parte de um projeto de busca para sua esposa. Desde então, o Elasticsearch evoluiu para se tornar uma das ferramentas mais populares para busca e análise de grandes volumes de dados em tempo real.
+
+### Conceitos do Elasticsearch
+
+1. **Cluster**: Um conjunto de um ou mais nós (servidores) que juntos armazenam todos os dados e fornecem capacidades de busca e indexação.
+2. **Node**: Um único servidor que faz parte do cluster. Cada nó armazena dados e participa das operações de indexação e busca.
+3. **Index**: Um índice é uma coleção de documentos que possuem características semelhantes. É comparável a um banco de dados em um sistema de banco de dados relacional.
+4. **Document**: A unidade básica de informação que pode ser indexada. É comparável a uma linha em um banco de dados relacional.
+5. **Shard**: Um índice pode ser dividido em múltiplos shards para distribuir a carga de trabalho. Cada shard é um índice completo e independente que pode ser hospedado em qualquer nó do cluster.
+6. **Replica**: Cópias de shards que fornecem alta disponibilidade e tolerância a falhas.
+
+### Tipos e Classificações do Elasticsearch
+
+#### 1. **Tipos de Dados**
+
+Elasticsearch suporta vários tipos de dados que podem ser indexados e pesquisados. Aqui estão alguns dos principais tipos:
+
+- **String**: Usado para texto e palavras-chave.
+  - **Text**: Para texto analisado, adequado para busca de texto completo.
+  - **Keyword**: Para texto não analisado, adequado para filtragem e agregações.
+- **Numeric**: Usado para números.
+  - **Integer**: Números inteiros.
+  - **Long**: Números inteiros longos.
+  - **Float**: Números de ponto flutuante.
+  - **Double**: Números de ponto flutuante de precisão dupla.
+- **Date**: Usado para datas e horas.
+- **Boolean**: Usado para valores verdadeiros ou falsos.
+- **Binary**: Usado para dados binários.
+- **Range**: Usado para intervalos de valores.
+  - **Integer Range**
+  - **Float Range**
+  - **Long Range**
+  - **Double Range**
+  - **Date Range**
+- **Geo-point**: Usado para coordenadas geográficas.
+- **Geo-shape**: Usado para formas geográficas complexas.
+
+#### 2. **Tipos de Análises**
+
+Elasticsearch oferece várias técnicas de análise de texto para melhorar a busca:
+
+- **Tokenização**: Divisão de texto em tokens (palavras ou termos).
+- **Filtragem**: Aplicação de filtros para modificar tokens (por exemplo, remoção de palavras comuns, stemming).
+- **Analisadores**: Combinações de tokenizadores e filtros para criar pipelines de análise de texto.
+
+#### 3. **Tipos de Consultas**
+
+Elasticsearch suporta uma variedade de consultas para buscar dados:
+
+- **Match Query**: Busca por documentos que correspondem a um texto.
+- **Term Query**: Busca por documentos que contêm um termo específico.
+- **Range Query**: Busca por documentos dentro de um intervalo de valores.
+- **Bool Query**: Combina várias consultas usando operadores booleanos (AND, OR, NOT).
+- **Wildcard Query**: Busca por documentos que correspondem a um padrão de caracteres curinga.
+- **Geo Query**: Busca por documentos baseados em localização geográfica.
+
+#### 4. **Tipos de Agregações**
+
+Elasticsearch permite a agregação de dados para análise:
+
+- **Metric Aggregations**: Calculam métricas a partir dos dados.
+  - **Avg Aggregation**: Calcula a média.
+  - **Sum Aggregation**: Calcula a soma.
+  - **Min Aggregation**: Calcula o valor mínimo.
+  - **Max Aggregation**: Calcula o valor máximo.
+- **Bucket Aggregations**: Agrupam documentos em buckets.
+  - **Terms Aggregation**: Agrupa por termos.
+  - **Range Aggregation**: Agrupa por intervalos de valores.
+  - **Date Histogram Aggregation**: Agrupa por intervalos de tempo.
+- **Pipeline Aggregations**: Processam os resultados de outras agregações.
+  - **Derivative Aggregation**: Calcula a derivada de uma métrica.
+  - **Cumulative Sum Aggregation**: Calcula a soma cumulativa.
+
+### Conclusão
+
+Elasticsearch é uma ferramenta poderosa e flexível para busca e análise de dados. Sua arquitetura distribuída, combinada com uma ampla variedade de tipos de dados, técnicas de análise,
+

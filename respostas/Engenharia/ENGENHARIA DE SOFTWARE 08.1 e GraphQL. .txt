@@ -1,0 +1,69 @@
+ENGENHARIA DE SOFTWARE:: 08.1 e GraphQL. 
+ -
+### Origem, Conceitos, Tipos e Classificações de 08.1 e GraphQL
+
+#### 08.1
+A sigla "08.1" não é amplamente reconhecida em contextos técnicos ou acadêmicos. Pode ser um código específico de uma organização, um número de versão de software, ou até mesmo uma referência interna. Sem mais contexto, é difícil fornecer uma análise detalhada. Se você puder fornecer mais informações ou contexto, ficarei feliz em ajudar.
+
+#### GraphQL
+
+##### Origem
+GraphQL foi desenvolvido internamente pelo Facebook em 2012 e lançado publicamente em 2015. Ele foi criado para resolver problemas de eficiência e flexibilidade na comunicação entre clientes e servidores, especialmente em aplicações móveis e web.
+
+##### Conceitos
+GraphQL é uma linguagem de consulta para APIs e um tempo de execução para atender essas consultas com seus dados existentes. Ele permite que os clientes solicitem exatamente os dados de que precisam, nada mais e nada menos, o que pode resultar em uma maior eficiência e performance.
+
+##### Tipos e Classificações
+
+###### 1. **Tipos de Dados**
+   - **Scalar Types (Tipos Escalares)**
+     - `Int`: Um inteiro de 32 bits.
+     - `Float`: Um número de ponto flutuante de precisão dupla.
+     - `String`: Uma sequência de caracteres UTF-8.
+     - `Boolean`: Um valor verdadeiro ou falso.
+     - `ID`: Um identificador único, geralmente usado para buscar ou refetch um objeto.
+
+   - **Enum Types (Tipos Enumerados)**
+     - Define um conjunto de valores possíveis. Por exemplo, um tipo `Color` pode ter valores `RED`, `GREEN`, e `BLUE`.
+
+   - **Object Types (Tipos de Objeto)**
+     - Representa um conjunto de campos. Cada campo pode ter um tipo específico, que pode ser outro tipo de objeto, um tipo escalar, ou uma lista de tipos.
+
+   - **Interface Types (Tipos de Interface)**
+     - Define um conjunto de campos que múltiplos tipos de objeto podem implementar. Por exemplo, uma interface `Character` pode ser implementada por tipos `Human` e `Droid`.
+
+   - **Union Types (Tipos de União)**
+     - Similar às interfaces, mas sem a necessidade de compartilhar um conjunto de campos. Um campo de união pode retornar um de vários tipos diferentes.
+
+   - **Input Object Types (Tipos de Objeto de Entrada)**
+     - Usado para passar objetos complexos como argumentos para campos. Por exemplo, um tipo `InputUser` pode ter campos `name`, `email`, e `age`.
+
+###### 2. **Operações**
+   - **Query**
+     - Usada para ler ou buscar dados. É a operação mais comum e é equivalente a uma operação `GET` em REST.
+
+   - **Mutation**
+     - Usada para modificar dados no servidor. Equivalente a operações `POST`, `PUT`, `PATCH`, ou `DELETE` em REST.
+
+   - **Subscription**
+     - Usada para manter uma conexão em tempo real com o servidor, permitindo que o cliente receba atualizações em tempo real.
+
+###### 3. **Schemas e Resolvers**
+   - **Schema**
+     - Define a estrutura da API GraphQL, incluindo tipos, consultas, mutações e subscrições. É o ponto central de uma API GraphQL.
+
+   - **Resolvers**
+     - Funções que resolvem um valor para um tipo ou campo em um schema. Eles são responsáveis por buscar os dados reais que correspondem às consultas feitas pelo cliente.
+
+###### 4. **Directives**
+   - **@include(if: Boolean)**
+     - Inclui um campo ou fragmento apenas se a condição for verdadeira.
+
+   - **@skip(if: Boolean)**
+     - Pula um campo ou fragmento se a condição for verdadeira.
+
+   - **@deprecated(reason: String)**
+     - Marca um campo ou enum como obsoleto, fornecendo uma razão opcional.
+
+GraphQL oferece uma abordagem flexível e eficiente para a comunicação entre clientes e servidores, permitindo que os desenvolvedores definam exatamente quais dados precisam e como eles devem ser estruturados.
+

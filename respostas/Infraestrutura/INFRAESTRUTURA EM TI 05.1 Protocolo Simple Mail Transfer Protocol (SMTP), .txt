@@ -1,0 +1,51 @@
+INFRAESTRUTURA EM TI:: 05.1 Protocolo Simple Mail Transfer Protocol (SMTP), 
+ -
+### Protocolo Simple Mail Transfer Protocol (SMTP)
+
+#### Origem
+O Simple Mail Transfer Protocol (SMTP) foi desenvolvido nos anos 1980 como um protocolo de comunicação para a transmissão de e-mails na Internet. Ele foi especificado pela primeira vez em 1982 na RFC 821, que foi posteriormente substituída pela RFC 5321 em 2008. O SMTP foi criado para facilitar a troca de mensagens eletrônicas entre servidores de e-mail.
+
+#### Conceitos
+O SMTP é um protocolo de camada de aplicação que utiliza o protocolo de transporte TCP (Transmission Control Protocol) para garantir a entrega confiável de mensagens de e-mail. Ele é responsável pelo envio de e-mails de um cliente de e-mail (MUA - Mail User Agent) para um servidor de e-mail (MTA - Mail Transfer Agent) e entre servidores de e-mail.
+
+#### Tipos e Classificações
+
+1. **SMTP Padrão (Standard SMTP)**
+   - **Descrição**: Este é o protocolo SMTP básico conforme definido na RFC 5321.
+   - **Características**:
+     - Utiliza a porta 25 para comunicação.
+     - Não inclui mecanismos de autenticação ou criptografia por padrão.
+     - É adequado para a transmissão de e-mails entre servidores de e-mail.
+
+2. **SMTP com Extensões (Extended SMTP - ESMTP)**
+   - **Descrição**: Uma versão estendida do SMTP que suporta funcionalidades adicionais.
+   - **Características**:
+     - Definido na RFC 1869.
+     - Utiliza a porta 25, mas pode incluir comandos adicionais para suportar novas funcionalidades.
+     - Suporta autenticação (AUTH) e criptografia (STARTTLS).
+     - Permite a transmissão de mensagens maiores e a utilização de caracteres não-ASCII.
+
+3. **SMTP sobre SSL/TLS (SMTPS)**
+   - **Descrição**: SMTP encapsulado em SSL/TLS para fornecer uma camada de segurança.
+   - **Características**:
+     - Utiliza a porta 465.
+     - Garante a criptografia dos dados transmitidos, protegendo contra interceptação e ataques man-in-the-middle.
+     - Requer que tanto o cliente quanto o servidor suportem SSL/TLS.
+
+4. **SMTP Autenticado (Authenticated SMTP)**
+   - **Descrição**: SMTP que requer autenticação do usuário antes de permitir o envio de e-mails.
+   - **Características**:
+     - Utiliza a porta 587.
+     - Requer que o usuário forneça credenciais (nome de usuário e senha) para enviar e-mails.
+     - Ajuda a prevenir o envio de spam e o uso não autorizado do servidor de e-mail.
+
+5. **SMTP Relay**
+   - **Descrição**: O processo de encaminhamento de e-mails de um servidor SMTP para outro.
+   - **Características**:
+     - Pode ser configurado para permitir ou restringir o encaminhamento de e-mails.
+     - Utilizado para distribuir a carga de envio de e-mails entre vários servidores.
+     - Pode ser configurado para exigir autenticação para evitar o uso indevido.
+
+#### Conclusão
+O SMTP é um protocolo fundamental para a transmissão de e-mails na Internet. Ele evoluiu ao longo dos anos para incluir funcionalidades adicionais e melhorar a segurança e a eficiência da comunicação de e-mails. As diferentes variantes e extensões do SMTP, como ESMTP, SMTPS e SMTP autenticado, permitem que ele atenda a uma ampla gama de necessidades e requisitos de segurança.
+

@@ -1,0 +1,78 @@
+INFRAESTRUTURA EM TI:: 05.7 Protocolo Server Message Block (SMB). 
+ -
+### Origem do Protocolo Server Message Block (SMB)
+
+O Server Message Block (SMB) é um protocolo de rede que foi inicialmente desenvolvido pela IBM na década de 1980 para permitir o compartilhamento de arquivos, impressoras e portas seriais entre computadores em uma rede. Posteriormente, a Microsoft adotou e expandiu o protocolo, integrando-o em seus sistemas operacionais Windows. A partir do Windows 2000, o SMB foi renomeado para CIFS (Common Internet File System), embora o termo SMB ainda seja amplamente utilizado.
+
+### Conceitos do Protocolo SMB
+
+O SMB é um protocolo de aplicação que opera sobre a camada de transporte (TCP/IP) e permite que aplicações e usuários acessem arquivos em servidores remotos, bem como outros recursos como impressoras e portas seriais. Ele é projetado para fornecer autenticação, autorização e comunicação segura entre clientes e servidores.
+
+### Tipos e Classificações do Protocolo SMB
+
+O protocolo SMB evoluiu ao longo do tempo, resultando em várias versões e tipos, cada uma com suas próprias características e melhorias. Abaixo estão listadas as principais versões e suas características:
+
+#### 1. **SMB 1.0 (CIFS)**
+   - **Introdução**: Lançado pela Microsoft em 1992.
+   - **Características**:
+     - Suporte básico para compartilhamento de arquivos e impressoras.
+     - Autenticação baseada em senha.
+     - Suporte para bloqueio de arquivos e notificações de alteração de arquivos.
+     - Vulnerável a várias falhas de segurança, como o ataque EternalBlue.
+
+#### 2. **SMB 2.0**
+   - **Introdução**: Lançado com o Windows Vista em 2006.
+   - **Características**:
+     - Melhor desempenho e eficiência em comparação com SMB 1.0.
+     - Redução do número de comandos e subcomandos.
+     - Suporte para grandes tamanhos de leitura e gravação.
+     - Melhorias na segurança e na autenticação.
+
+#### 3. **SMB 2.1**
+   - **Introdução**: Lançado com o Windows 7 e Windows Server 2008 R2.
+   - **Características**:
+     - Introdução do "oplock" (opportunistic locking) para melhorar o desempenho.
+     - Melhorias adicionais na eficiência e na segurança.
+
+#### 4. **SMB 3.0**
+   - **Introdução**: Lançado com o Windows 8 e Windows Server 2012.
+   - **Características**:
+     - Suporte para criptografia de dados em trânsito.
+     - Suporte para "SMB Direct" (usando RDMA para alta velocidade e baixa latência).
+     - Suporte para "SMB Multichannel" (uso de múltiplas conexões de rede para aumentar a performance).
+     - Melhorias na resiliência e na disponibilidade.
+
+#### 5. **SMB 3.0.2**
+   - **Introdução**: Lançado com o Windows 8.1 e Windows Server 2012 R2.
+   - **Características**:
+     - Melhorias na eficiência e na segurança.
+     - Correções de bugs e pequenas melhorias em relação ao SMB 3.0.
+
+#### 6. **SMB 3.1.1**
+   - **Introdução**: Lançado com o Windows 10 e Windows Server 2016.
+   - **Características**:
+     - Suporte para criptografia AES-128-GCM.
+     - Autenticação prévia para melhorar a segurança.
+     - Melhorias adicionais na performance e na resiliência.
+
+### Características Detalhadas dos Tipos de SMB
+
+#### **SMB 1.0 (CIFS)**
+   - **Autenticação**: Baseada em senha, sem suporte para criptografia forte.
+   - **Bloqueio de Arquivos**: Suporte básico para bloqueio de arquivos.
+   - **Notificações**: Suporte para notificações de alteração de arquivos.
+   - **Segurança**: Vulnerável a várias falhas de segurança, como o ataque EternalBlue.
+
+#### **SMB 2.0**
+   - **Comandos**: Redução significativa no número de comandos e subcomandos.
+   - **Tamanho de Leitura/Gravação**: Suporte para grandes tamanhos de leitura e gravação.
+   - **Autenticação**: Melhorias na autenticação e na segurança.
+
+#### **SMB 2.1**
+   - **Oplock**: Introdução do "oplock" para melhorar o desempenho.
+   - **Eficiência**: Melhorias adicionais na eficiência e na segurança.
+
+#### **SMB 3.0**
+   - **Criptografia**: Suporte para criptografia de dados em trânsito.
+   - **SMB Direct**: Uso de RD
+

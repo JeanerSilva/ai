@@ -1,0 +1,88 @@
+SEGURANÇA DA INFORMAÇÃO:: 01.4 OpenId Connect. 
+ -
+### OpenID Connect: Origem, Conceitos, Tipos e Classificações
+
+#### Origem
+OpenID Connect (OIDC) é um protocolo de autenticação baseado no OAuth 2.0, desenvolvido pela OpenID Foundation. Ele foi lançado em 2014 com o objetivo de fornecer uma forma simples e padronizada para autenticar usuários em diferentes aplicações e serviços, utilizando um único conjunto de credenciais.
+
+#### Conceitos
+OpenID Connect é um protocolo de autenticação que permite que aplicações verifiquem a identidade de um usuário com base na autenticação realizada por um servidor de autorização, bem como obtenham informações básicas sobre o usuário de forma interoperável e RESTful. Ele adiciona uma camada de autenticação ao OAuth 2.0, permitindo que os clientes verifiquem a identidade do usuário final e obtenham informações de perfil básicas.
+
+#### Tipos e Classificações
+
+##### 1. **Fluxos de Autenticação (Authentication Flows)**
+OpenID Connect define vários fluxos de autenticação para diferentes tipos de aplicações e cenários de uso:
+
+1. **Authorization Code Flow**
+   - **Descrição**: Este é o fluxo mais comum e seguro, utilizado principalmente por aplicações web. Ele envolve a troca de um código de autorização por tokens de acesso e ID.
+   - **Características**:
+     - Requer um cliente secreto.
+     - Minimiza a exposição de tokens ao navegador do usuário.
+     - Suporta a obtenção de tokens de atualização (refresh tokens).
+
+2. **Implicit Flow**
+   - **Descrição**: Este fluxo é utilizado por aplicações de página única (SPA) e outras aplicações que executam no navegador e não podem manter um cliente secreto.
+   - **Características**:
+     - Tokens são retornados diretamente no redirecionamento da URL.
+     - Não requer um cliente secreto.
+     - Menos seguro que o Authorization Code Flow, pois os tokens são expostos ao navegador.
+
+3. **Hybrid Flow**
+   - **Descrição**: Combina elementos dos fluxos Authorization Code e Implicit, permitindo que tokens sejam retornados tanto no redirecionamento da URL quanto através de uma troca de código.
+   - **Características**:
+     - Flexível e pode ser adaptado para diferentes necessidades de segurança e usabilidade.
+     - Pode retornar tokens de ID e acesso diretamente e também permitir a troca de código.
+
+4. **Client Credentials Flow**
+   - **Descrição**: Utilizado por aplicações que precisam autenticar-se diretamente com o servidor de autorização, sem a intervenção do usuário.
+   - **Características**:
+     - Utilizado principalmente para autenticação de serviços e APIs.
+     - Não envolve a autenticação do usuário final.
+
+##### 2. **Tokens**
+OpenID Connect utiliza vários tipos de tokens para gerenciar a autenticação e autorização:
+
+1. **ID Token**
+   - **Descrição**: Um token JWT (JSON Web Token) que contém informações sobre a autenticação do usuário.
+   - **Características**:
+     - Inclui informações como o emissor, o assunto (usuário), e o tempo de expiração.
+     - Pode conter atributos adicionais sobre o usuário, como nome e email.
+
+2. **Access Token**
+   - **Descrição**: Um token que permite ao cliente acessar recursos protegidos em nome do usuário.
+   - **Características**:
+     - Utilizado para autorizar solicitações a APIs.
+     - Pode ter um tempo de vida curto para minimizar riscos de segurança.
+
+3. **Refresh Token**
+   - **Descrição**: Um token que permite ao cliente obter novos tokens de acesso sem a necessidade de reautenticação do usuário.
+   - **Características**:
+     - Utilizado para manter a sessão do usuário ativa por longos períodos.
+     - Deve ser armazenado com segurança, pois pode ser utilizado para obter novos tokens de acesso.
+
+##### 3. **Endpoints**
+OpenID Connect define vários endpoints que são utilizados durante o processo de autenticação:
+
+1. **Authorization Endpoint**
+   - **Descrição**: O ponto de entrada para iniciar o fluxo de autenticação.
+   - **Características**:
+     - Utilizado para obter o código de autorização ou tokens diretamente.
+
+2. **Token Endpoint**
+   - **Descrição**: Utilizado para trocar o código de autorização por tokens de acesso e ID.
+   - **Características**:
+     - Também pode ser utilizado para obter novos tokens de acesso utilizando um refresh token.
+
+3. **UserInfo Endpoint**
+   - **Descrição**: Um endpoint que retorna informações sobre o usuário autenticado.
+   - **Características**:
+     - Retorna informações adicionais sobre o usuário, como nome, email, e outros atributos.
+
+4. **Discovery Endpoint**
+   - **Descrição**: Fornece metadados sobre o provedor OpenID Connect, incluindo informações sobre os endpoints e capacidades suportadas.
+   - **Características**:
+     - Facilita a configuração dinâmica de clientes OpenID Connect.
+
+5. **JWKS Endpoint**
+   - **Descrição**: Fornece as chaves públicas
+

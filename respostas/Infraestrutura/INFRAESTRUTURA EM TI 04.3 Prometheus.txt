@@ -1,0 +1,48 @@
+INFRAESTRUTURA EM TI:: 04.3 Prometheus
+ -
+**Prometheus: Origem, Conceitos, Tipos e Classificações**
+
+**Origem:**
+Prometheus é uma ferramenta de monitoramento de sistemas e serviços, desenvolvida inicialmente pela SoundCloud em 2012. Desde então, tornou-se um projeto de código aberto e é mantido pela Cloud Native Computing Foundation (CNCF). Prometheus é amplamente utilizado para monitorar a performance de sistemas, coletar métricas e gerar alertas.
+
+**Conceitos:**
+Prometheus é baseado em uma arquitetura de coleta de dados por "pull", onde o servidor Prometheus coleta periodicamente métricas de serviços monitorados. As principais características e conceitos incluem:
+
+1. **Time Series Database (TSDB):** Prometheus armazena todas as métricas como séries temporais, que são identificadas por um nome de métrica e um conjunto de pares chave-valor (labels).
+2. **PromQL:** Uma linguagem de consulta poderosa e flexível usada para extrair e manipular dados armazenados no Prometheus.
+3. **Exporters:** Componentes que expõem métricas de sistemas e serviços para que o Prometheus possa coletá-las.
+4. **Alertmanager:** Um componente que gerencia alertas gerados pelo Prometheus, permitindo a configuração de regras de alerta e notificações.
+5. **Service Discovery:** Mecanismos para descobrir automaticamente serviços e endpoints a serem monitorados.
+
+**Tipos e Classificações:**
+
+1. **Métricas:**
+   - **Counter:** Métricas que apenas aumentam ao longo do tempo, como o número de requisições HTTP.
+   - **Gauge:** Métricas que podem aumentar e diminuir, como a utilização de memória.
+   - **Histogram:** Métricas que amostram observações (como durações ou tamanhos de requisições) e as agregam em buckets configuráveis.
+   - **Summary:** Similar ao Histogram, mas calcula quantis configuráveis sobre um período de tempo.
+
+2. **Exporters:**
+   - **Node Exporter:** Coleta métricas de hardware e sistema operacional.
+   - **Blackbox Exporter:** Realiza verificações de endpoints HTTP, DNS, TCP, ICMP, etc.
+   - **MySQL Exporter:** Coleta métricas de bancos de dados MySQL.
+   - **PostgreSQL Exporter:** Coleta métricas de bancos de dados PostgreSQL.
+   - **JMX Exporter:** Coleta métricas de aplicações Java via JMX.
+   - **SNMP Exporter:** Coleta métricas de dispositivos de rede via SNMP.
+
+3. **Service Discovery:**
+   - **Static Configuration:** Configuração manual de endpoints.
+   - **DNS Service Discovery:** Descoberta de serviços via DNS.
+   - **Consul:** Integração com o Consul para descoberta de serviços.
+   - **Kubernetes:** Integração com Kubernetes para descoberta de pods e serviços.
+   - **EC2:** Integração com Amazon EC2 para descoberta de instâncias.
+   - **GCE:** Integração com Google Compute Engine para descoberta de instâncias.
+
+4. **Alertas:**
+   - **Alert Rules:** Regras configuradas no Prometheus para definir condições de alerta.
+   - **Alertmanager:** Gerencia e roteia alertas para diferentes canais de notificação, como email, Slack, PagerDuty, etc.
+   - **Silencing:** Permite silenciar alertas para evitar notificações redundantes.
+   - **Grouping:** Agrupa alertas similares para reduzir o ruído.
+
+Prometheus é uma ferramenta robusta e extensível, adequada para monitorar uma ampla variedade de sistemas e serviços, proporcionando visibilidade e alertas em tempo real para operações de TI.
+

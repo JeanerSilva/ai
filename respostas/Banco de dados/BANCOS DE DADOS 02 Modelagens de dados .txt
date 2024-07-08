@@ -1,0 +1,66 @@
+BANCOS DE DADOS:: 02 Modelagens de dados: 
+ -
+Claro! Vamos abordar duas modelagens de dados amplamente utilizadas: o Modelo Entidade-Relacionamento (ER) e o Modelo Relacional.
+
+### 1. Modelo Entidade-Relacionamento (ER)
+
+#### Origem:
+O Modelo Entidade-Relacionamento foi proposto por Peter Chen em 1976. Ele foi desenvolvido para facilitar a concepção de bancos de dados, permitindo uma representação mais intuitiva e visual das estruturas de dados.
+
+#### Conceitos:
+- **Entidade**: Representa um objeto ou conceito do mundo real que pode ser identificado de forma única. Exemplo: Cliente, Produto.
+- **Atributo**: Características ou propriedades de uma entidade. Exemplo: Nome, Idade, Endereço.
+- **Relacionamento**: Descreve como duas ou mais entidades estão associadas. Exemplo: Um Cliente compra um Produto.
+- **Cardinalidade**: Define o número de ocorrências de uma entidade que pode estar associada a ocorrências de outra entidade. Exemplo: Um para Um (1:1), Um para Muitos (1:N), Muitos para Muitos (M:N).
+
+#### Tipos e Classificações:
+- **Entidades Fortes**: Entidades que possuem uma existência independente no banco de dados.
+- **Entidades Fracas**: Entidades que dependem de outra entidade para existir.
+- **Relacionamentos Binários**: Envolvem duas entidades.
+- **Relacionamentos Ternários**: Envolvem três entidades.
+- **Atributos Simples**: Não podem ser divididos em subpartes. Exemplo: Número de Identificação.
+- **Atributos Compostos**: Podem ser divididos em subpartes. Exemplo: Endereço (Rua, Cidade, Estado).
+- **Atributos Monovalorados**: Contêm um único valor. Exemplo: Data de Nascimento.
+- **Atributos Multivalorados**: Podem conter múltiplos valores. Exemplo: Telefones de Contato.
+
+### 2. Modelo Relacional
+
+#### Origem:
+O Modelo Relacional foi introduzido por Edgar F. Codd em 1970. Ele revolucionou a forma como os dados são armazenados e manipulados, utilizando tabelas (ou relações) para representar dados e suas inter-relações.
+
+#### Conceitos:
+- **Tabela (Relação)**: Conjunto de linhas e colunas onde os dados são armazenados. Cada tabela representa uma entidade ou um relacionamento.
+- **Linha (Tupla)**: Representa um registro individual na tabela.
+- **Coluna (Atributo)**: Representa uma característica ou propriedade da entidade.
+- **Chave Primária**: Um ou mais atributos que identificam de forma única uma tupla em uma tabela.
+- **Chave Estrangeira**: Um ou mais atributos que criam um vínculo entre duas tabelas, referenciando a chave primária de outra tabela.
+- **Integridade Referencial**: Garante que as relações entre tabelas permaneçam consistentes.
+
+#### Tipos e Classificações:
+- **Tabelas Base**: Tabelas que armazenam dados reais.
+- **Visões (Views)**: Tabelas virtuais criadas a partir de consultas em uma ou mais tabelas base.
+- **Chaves Primárias**: Atributos ou combinações de atributos que identificam unicamente uma tupla.
+- **Chaves Estrangeiras**: Atributos que referenciam chaves primárias de outras tabelas para manter a integridade referencial.
+- **Índices**: Estruturas que melhoram a velocidade de recuperação de dados.
+- **Restrições de Integridade**:
+  - **Integridade de Entidade**: Nenhuma parte da chave primária pode ser nula.
+  - **Integridade Referencial**: Cada valor de chave estrangeira deve corresponder a um valor de chave primária existente.
+  - **Integridade de Domínio**: Os valores dos atributos devem ser válidos dentro do domínio especificado.
+
+### Características dos Tipos:
+
+#### Modelo Entidade-Relacionamento:
+- **Entidades Fortes**: Independentes, possuem chave primária própria.
+- **Entidades Fracas**: Dependem de entidades fortes, possuem chave parcial.
+- **Relacionamentos Binários**: Simples, entre duas entidades.
+- **Relacionamentos Ternários**: Complexos, entre três entidades.
+- **Atributos Simples**: Indivisíveis.
+- **Atributos Compostos**: Divisíveis em subpartes.
+- **Atributos Monovalorados**: Um único valor por entidade.
+- **Atributos Multivalorados**: Múltiplos valores por entidade.
+
+#### Modelo Relacional:
+- **Tabelas Base**: Armazenam dados reais.
+- **Visões**: Tabelas virtuais, derivadas de consultas.
+
+

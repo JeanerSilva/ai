@@ -1,0 +1,55 @@
+INFRAESTRUTURA EM TI:: 03 Serviços de Rede Microsoft Windows Server.
+ -
+### Serviços de Rede no Microsoft Windows Server
+
+#### Origem
+Os serviços de rede no Microsoft Windows Server têm suas raízes na evolução dos sistemas operacionais da Microsoft, que começaram com o Windows NT em 1993. Com o tempo, a Microsoft expandiu suas capacidades de rede para suportar uma ampla gama de serviços essenciais para ambientes corporativos. O Windows Server é projetado para fornecer uma infraestrutura robusta e escalável para redes empresariais, oferecendo uma série de serviços que facilitam a gestão, segurança e operação de redes.
+
+#### Conceitos
+Os serviços de rede no Windows Server são componentes ou aplicativos que fornecem funcionalidades específicas para suportar a operação de redes. Eles são essenciais para a comunicação, gerenciamento de recursos, segurança e outras operações críticas em um ambiente de rede. Esses serviços podem ser configurados e gerenciados através de várias ferramentas administrativas fornecidas pelo Windows Server.
+
+#### Tipos e Classificações
+
+1. **Active Directory (AD)**
+   - **Conceito:** O Active Directory é um serviço de diretório que fornece uma maneira centralizada de gerenciar usuários, computadores e outros recursos em uma rede.
+   - **Tipos e Características:**
+     - **Active Directory Domain Services (AD DS):** Gerencia domínios, usuários, grupos e políticas de segurança.
+     - **Active Directory Lightweight Directory Services (AD LDS):** Oferece serviços de diretório para aplicativos que não requerem a complexidade do AD DS.
+     - **Active Directory Federation Services (AD FS):** Permite a autenticação única (SSO) e a federação de identidades entre diferentes organizações.
+     - **Active Directory Certificate Services (AD CS):** Gerencia certificados digitais para autenticação e criptografia.
+     - **Active Directory Rights Management Services (AD RMS):** Protege informações digitais contra uso não autorizado.
+
+2. **DHCP (Dynamic Host Configuration Protocol)**
+   - **Conceito:** O DHCP é um protocolo de rede que atribui dinamicamente endereços IP e outras configurações de rede para dispositivos em uma rede.
+   - **Tipos e Características:**
+     - **DHCP Server:** O servidor que atribui endereços IP e outras configurações de rede aos clientes.
+     - **DHCP Client:** O dispositivo que recebe a configuração de rede do servidor DHCP.
+     - **DHCP Relay Agent:** Um agente que encaminha solicitações DHCP entre clientes e servidores em diferentes sub-redes.
+
+3. **DNS (Domain Name System)**
+   - **Conceito:** O DNS é um sistema que traduz nomes de domínio legíveis por humanos em endereços IP numéricos.
+   - **Tipos e Características:**
+     - **Primary DNS Server:** O servidor principal que contém a cópia original dos dados de zona.
+     - **Secondary DNS Server:** Um servidor que mantém uma cópia de backup dos dados de zona do servidor primário.
+     - **Caching-only DNS Server:** Um servidor que armazena em cache as respostas de consultas DNS, mas não mantém dados de zona autoritativos.
+     - **Forwarding DNS Server:** Um servidor que encaminha consultas DNS para outros servidores DNS.
+
+### Detalhamento dos Tipos e Características
+
+#### Active Directory Domain Services (AD DS)
+- **Gerenciamento Centralizado:** Permite a administração centralizada de usuários, grupos, computadores e políticas de segurança.
+- **Autenticação e Autorização:** Fornece serviços de autenticação e autorização para recursos de rede.
+- **Políticas de Grupo:** Permite a aplicação de políticas de segurança e configurações em computadores e usuários.
+
+#### DHCP Server
+- **Atribuição Dinâmica de IP:** Atribui automaticamente endereços IP aos dispositivos na rede.
+- **Reservas de IP:** Permite reservar endereços IP específicos para dispositivos específicos.
+- **Escopos:** Define um conjunto de endereços IP que o servidor DHCP pode atribuir aos clientes.
+
+#### DNS Server
+- **Resolução de Nomes:** Converte nomes de domínio em endereços IP.
+- **Zonas:** Contém registros DNS para um domínio específico.
+- **Registros DNS:** Inclui registros A (endereço), MX (mail exchange), CNAME (nome canônico), entre outros.
+
+Esses serviços são fundamentais para a operação eficiente e segura de redes empresariais, proporcionando uma base sólida para a comunicação e gestão de recursos.
+

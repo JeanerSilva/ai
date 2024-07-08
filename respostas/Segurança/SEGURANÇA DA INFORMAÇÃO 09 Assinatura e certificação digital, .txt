@@ -1,0 +1,62 @@
+SEGURANÇA DA INFORMAÇÃO:: 09 Assinatura e certificação digital, 
+ -
+### Assinatura e Certificação Digital
+
+#### Origem
+A assinatura digital e a certificação digital surgiram como soluções para garantir a segurança e a autenticidade das transações eletrônicas. Com o crescimento da internet e do comércio eletrônico, tornou-se essencial desenvolver métodos que assegurassem a integridade e a autenticidade dos documentos digitais. A assinatura digital foi introduzida como uma forma de replicar a função de uma assinatura manuscrita no ambiente digital, enquanto a certificação digital foi criada para validar a identidade das partes envolvidas.
+
+#### Conceitos
+- **Assinatura Digital**: É um mecanismo criptográfico que permite ao remetente de uma mensagem ou documento digital anexar uma assinatura que pode ser verificada pelo destinatário. A assinatura digital garante a autenticidade, integridade e não-repúdio do documento.
+- **Certificação Digital**: É um processo que envolve a emissão de um certificado digital por uma Autoridade Certificadora (AC). O certificado digital é um documento eletrônico que associa uma chave pública a uma entidade (pessoa, organização ou dispositivo), validando sua identidade.
+
+#### Tipos e Classificações
+
+##### Assinatura Digital
+1. **Assinatura Simples**:
+   - **Características**: Utiliza métodos básicos de autenticação, como senhas ou PINs. Não oferece um alto nível de segurança.
+   - **Uso Comum**: Transações de baixo risco, onde a segurança não é uma preocupação crítica.
+
+2. **Assinatura Avançada**:
+   - **Características**: Baseia-se em um certificado digital e é criada usando meios que o signatário pode manter sob seu controle exclusivo. Garante a integridade do documento e a autenticidade da assinatura.
+   - **Uso Comum**: Documentos legais e financeiros que requerem um nível mais alto de segurança.
+
+3. **Assinatura Qualificada**:
+   - **Características**: É uma assinatura avançada que é criada por um dispositivo de criação de assinatura qualificado e é baseada em um certificado digital qualificado. Oferece o mais alto nível de segurança e é legalmente equivalente a uma assinatura manuscrita em muitos países.
+   - **Uso Comum**: Contratos, transações bancárias e outros documentos que exigem o mais alto nível de segurança e conformidade legal.
+
+##### Certificação Digital
+1. **Certificado de Servidor SSL/TLS**:
+   - **Características**: Utilizado para garantir a segurança das comunicações entre um servidor web e os navegadores dos usuários. Criptografa os dados transmitidos e autentica a identidade do servidor.
+   - **Uso Comum**: Websites, e-commerce, serviços online.
+
+2. **Certificado de Assinatura de Código**:
+   - **Características**: Utilizado para assinar digitalmente software e scripts, garantindo que o código não foi alterado ou corrompido desde que foi assinado.
+   - **Uso Comum**: Desenvolvedores de software, distribuidores de aplicativos.
+
+3. **Certificado de E-mail (S/MIME)**:
+   - **Características**: Utilizado para assinar e criptografar e-mails, garantindo a autenticidade do remetente e a confidencialidade do conteúdo.
+   - **Uso Comum**: Comunicação corporativa, e-mails sensíveis.
+
+4. **Certificado de Cliente**:
+   - **Características**: Utilizado para autenticar a identidade de usuários em sistemas e redes. Pode ser usado para controlar o acesso a recursos e serviços.
+   - **Uso Comum**: Redes corporativas, sistemas de login seguro.
+
+5. **Certificado de Autoridade Certificadora (CA)**:
+   - **Características**: Emitido para uma Autoridade Certificadora, permitindo que ela emita outros certificados digitais. É a base da infraestrutura de chave pública (PKI).
+   - **Uso Comum**: Infraestrutura de chave pública, emissão de certificados digitais.
+
+6. **Certificado de Autoridade de Registro (RA)**:
+   - **Características**: Emitido para uma Autoridade de Registro, que atua como intermediária entre os usuários e a Autoridade Certificadora. Verifica a identidade dos solicitantes de certificados.
+   - **Uso Comum**: Processos de emissão de certificados, verificação de identidade.
+
+7. **Certificado de Dispositivo**:
+   - **Características**: Utilizado para autenticar dispositivos em uma rede, garantindo que apenas dispositivos autorizados possam se comunicar.
+   - **Uso Comum**: Internet das Coisas (IoT), redes corporativas.
+
+8. **Certificado de Tempo (Timestamp)**:
+   - **Características**: Utilizado para adicionar uma marca temporal a um documento ou transação digital, garantindo que o evento ocorreu em um momento específico.
+   - **Uso Comum**: Contratos digitais, transações financeiras.
+
+9. **Certificado de Identidade Pessoal (eID)**:
+   - **Características**
+

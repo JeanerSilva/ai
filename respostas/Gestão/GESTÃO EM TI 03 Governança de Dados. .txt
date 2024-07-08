@@ -1,0 +1,64 @@
+GESTÃO EM TI:: 03 Governança de Dados. 
+ -
+### Governança de Dados: Origem, Conceitos, Tipos e Classificações
+
+#### Origem
+A governança de dados surgiu como uma resposta à crescente necessidade das organizações de gerenciar e proteger seus dados de maneira eficaz. Com o aumento exponencial da quantidade de dados gerados e a complexidade das regulamentações de privacidade e segurança, tornou-se essencial estabelecer políticas e procedimentos claros para garantir a integridade, disponibilidade e confidencialidade dos dados. A governança de dados evoluiu a partir de práticas de gestão de informações e TI, ganhando destaque com a implementação de regulamentações como o GDPR na Europa e a LGPD no Brasil.
+
+#### Conceitos
+A governança de dados refere-se ao conjunto de práticas, políticas, processos e estruturas organizacionais que garantem a gestão eficaz dos dados dentro de uma organização. Seus principais objetivos incluem:
+
+1. **Qualidade dos Dados**: Garantir que os dados sejam precisos, completos, consistentes e atualizados.
+2. **Segurança dos Dados**: Proteger os dados contra acessos não autorizados e violações.
+3. **Conformidade**: Assegurar que a organização esteja em conformidade com regulamentações e normas aplicáveis.
+4. **Gestão de Metadados**: Manter informações sobre os dados, como origem, uso e formato.
+5. **Responsabilidade e Propriedade**: Definir claramente quem é responsável por diferentes conjuntos de dados e suas respectivas funções.
+
+#### Tipos e Classificações
+
+1. **Governança de Dados Corporativa**
+   - **Descrição**: Envolve a implementação de políticas e procedimentos em toda a organização para gerenciar dados de maneira centralizada.
+   - **Características**:
+     - **Políticas e Procedimentos**: Estabelecimento de regras e diretrizes para o uso de dados.
+     - **Estrutura Organizacional**: Criação de comitês e funções específicas para a governança de dados.
+     - **Ferramentas e Tecnologias**: Utilização de softwares para monitorar e gerenciar dados.
+
+2. **Governança de Dados de TI**
+   - **Descrição**: Foca na gestão de dados dentro do departamento de TI, garantindo que os sistemas e infraestruturas de TI suportem a governança de dados.
+   - **Características**:
+     - **Segurança de TI**: Implementação de medidas de segurança para proteger dados.
+     - **Gestão de Infraestrutura**: Manutenção de sistemas e redes que armazenam e processam dados.
+     - **Backup e Recuperação**: Planos para garantir a continuidade dos dados em caso de falhas.
+
+3. **Governança de Dados de Negócios**
+   - **Descrição**: Alinha a gestão de dados com os objetivos e estratégias de negócios, garantindo que os dados suportem a tomada de decisões e operações comerciais.
+   - **Características**:
+     - **Alinhamento Estratégico**: Garantir que os dados estejam alinhados com os objetivos de negócios.
+     - **Qualidade dos Dados**: Foco na precisão e utilidade dos dados para decisões de negócios.
+     - **Engajamento das Partes Interessadas**: Envolvimento de diferentes departamentos e níveis hierárquicos na governança de dados.
+
+#### Classificações
+
+1. **Baseada em Funções**
+   - **Descrição**: Classificação dos dados com base nas funções e responsabilidades dentro da organização.
+   - **Exemplos**:
+     - **Proprietário de Dados**: Responsável pela gestão e qualidade dos dados.
+     - **Administrador de Dados**: Gerencia o acesso e a segurança dos dados.
+     - **Usuário de Dados**: Utiliza os dados para realizar tarefas e tomar decisões.
+
+2. **Baseada em Dados**
+   - **Descrição**: Classificação dos dados com base em suas características e uso.
+   - **Exemplos**:
+     - **Dados Mestres**: Dados essenciais para operações de negócios, como informações de clientes e produtos.
+     - **Dados Transacionais**: Dados gerados a partir de transações comerciais, como vendas e compras.
+     - **Dados Analíticos**: Dados utilizados para análises e relatórios.
+
+3. **Baseada em Regulação**
+   - **Descrição**: Classificação dos dados com base nas regulamentações e conformidades aplicáveis.
+   - **Exemplos**:
+     - **Dados Pessoais**: Dados que identificam ou podem identificar uma pessoa, sujeitos a regulamentações como GDPR e LGPD.
+     - **Dados Sensíveis**: Dados que requerem proteção adicional devido à sua natureza, como informações de saúde e financeiras.
+     - **Dados Públicos**: Dados que podem ser acessados e utilizados pelo público em geral.
+
+A governança de dados é uma disciplina multifacetada que envolve a colaboração entre diferentes departamentos e níveis hierárquicos dentro de uma organização. A implementação eficaz de uma estratégia de governança de dados pode
+
