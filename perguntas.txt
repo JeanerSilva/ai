@@ -1,43 +1,134 @@
-2. Tipologia textual na lingua portuguesa;   
-5. Emprego das classes de palavras na lingua portuguesa;   
-6. Emprego do sinal indicativo de crase na lingua portuguesa;   
-7. Sintaxe da oração e do período na lingua portuguesa;   
-8. Pontuação na lingua portuguesa;   
-9. Concordância nominal e verbal na lingua portuguesa;   
-10. Regência nominal e verbal na lingua portuguesa;   
-1. Princípios constitucionais,  
-1.1 Direitos e garantias fundamentais na Constituição Federal.   
-2. Organização política e administrativa do Estado na Constituição da República do Brasil
-3. Poder Legislativo na Constituição da República do Brasil 
-Poder Executivo Constituição da República do Brasil 
-Poder Judiciário Constituição da República  do Brasil 
-4. Atribuições, competências e relações entre esferas de governo no regime federativo na CF/88.   
-5. Administração Pública na Constituição da República   
-6. Planejamento na Constituição da República do Brasil 
-Orçamento na Constituição da República do Brasil  
-Objetivos da República 
-Planos Setoriais na Constituição da República do Brasil  
-Plano Plurianual na Constituição da República do Brasil 
-Lei de Diretrizes Orçamentárias Brasileira 
-Lei Orçamentária Anual Brasileira 
-7. Participação e controle social na na Constituição da República do Brasil 
-9. Ciclo de políticas públicas:   
-Ciclo de políticas públicas: identificação de problemas;   
-Ciclo de políticas públicas: definição dos objetivos da intervenção;   
-Ciclo de políticas públicas: formação de agenda;   
-Ciclo de políticas públicas: formulação - diagnóstico e desenho de programas;   
-Ciclo de políticas públicas: processo decisório -  
-Ciclo de políticas públicas: definição de escopo,  
-Ciclo de políticas públicas: escala,  
-Ciclo de políticas públicas: atores envolvidos  
-Ciclo de políticas públicas: públicos-alvo;  
-Ciclo de políticas públicas: implementação;   
-Ciclo de políticas públicas: monitoramento;   
-Ciclo de políticas públicas: avaliação.  
-1. Dinâmica e estrutura demográfica do Brasil.   
-2. Desigualdades socioeconômicas e regionais.   
-3. Direitos humanos, discriminação e exclusão social, com atenção aos direitos e à situação de mulheres, crianças, adolescentes e idosos, pessoas com deficiência, indígenas, negros, pessoas LGBTQIA+, e outros grupos minoritários ou vulneráveis.   
-4. Novas tecnologias e transformações no mundo do trabalho.   
-5. Mudanças na estrutura produtiva brasileira.   
-6. Desenvolvimento urbano brasileiro: o crescimento das cidades e os desafios urbanos.   
-7. Meio ambiente e desenvolvimento sustentável.  
+CIÊNCIA DE DADOS:: 01 Aprendizado de Máquina. 
+CIÊNCIA DE DADOS:: 02 Deep learning. 
+CIÊNCIA DE DADOS:: 03 Processamento de linguagem natural.
+CIÊNCIA DE DADOS:: 04 Big data. 
+CIÊNCIA DE DADOS:: 05 Qualidade de Dados. 
+CIÊNCIA DE DADOS:: 06 Tipos de Aprendizado: Supervisionado, Não Supervisionado, Semi Supervisionado, Por Reforço, Por Transferência. 
+CIÊNCIA DE DADOS:: 07 Grandes Modelos de Linguagem (LLM), IA Generativa. 
+CIÊNCIA DE DADOS:: 08 Redes Neurais. 
+CIÊNCIA DE DADOS:: 09 MLOps: Gestão de código, treinamento, implantação, monitoramento e versionamento de modelos, automação do ciclo de produção. 
+CIÊNCIA DE DADOS:: 10 Governança e Ética na IA: Transparência, Responsabilidade, Explicabilidade, Privacidade, Segurança, Viés.
+SEGURANÇA DA INFORMAÇÃO:: 01 Gestão de Identidades e Acesso: Autenticação e Autorização, 
+SEGURANÇA DA INFORMAÇÃO:: 01.1 Single Sign-On (SSO), 
+SEGURANÇA DA INFORMAÇÃO:: 01.2 Security Assertion Markup Language (SAML), 
+SEGURANÇA DA INFORMAÇÃO:: 01.3 OAuth2 e 
+SEGURANÇA DA INFORMAÇÃO:: 01.4 OpenId Connect. 
+SEGURANÇA DA INFORMAÇÃO:: 02 Privacidade e segurança por padrão. 
+SEGURANÇA DA INFORMAÇÃO:: 03 Principais tipos de ataques e vulnerabilidades. 
+SEGURANÇA DA INFORMAÇÃO:: 04 Controles e testes de segurança para aplicações Web e Web Services. 
+SEGURANÇA DA INFORMAÇÃO:: 05 Múltiplos Fatores de Autenticação (MFA). 
+SEGURANÇA DA INFORMAÇÃO:: 06 Soluções para Segurança da Informação: 
+SEGURANÇA DA INFORMAÇÃO:: 06.1 Firewall, 
+SEGURANÇA DA INFORMAÇÃO:: 06.2 Intrusion Detection System (IDS), 
+SEGURANÇA DA INFORMAÇÃO:: 06.3 Intrusion Prevention System (IPS), 
+SEGURANÇA DA INFORMAÇÃO:: 06.4 Security Information and Event Management (SIEM), 
+SEGURANÇA DA INFORMAÇÃO:: 06.5 Proxy, 
+SEGURANÇA DA INFORMAÇÃO:: 06.6 Identity Access Management (IAM), 
+SEGURANÇA DA INFORMAÇÃO:: 06.7 Privileged Access Management (PAM), 
+SEGURANÇA DA INFORMAÇÃO:: 06.8 Antivírus, 
+SEGURANÇA DA INFORMAÇÃO:: 06.9 Antispam. 
+SEGURANÇA DA INFORMAÇÃO:: 07 Frameworks de segurança da informação e segurança cibernética.
+SEGURANÇA DA INFORMAÇÃO:: 07.1 MITRE ATT&CK, 
+SEGURANÇA DA INFORMAÇÃO:: 07.2 CIS Controls e 
+SEGURANÇA DA INFORMAÇÃO:: 07.3 NIST CyberSecurity Framework (NIST CSF). 
+SEGURANÇA DA INFORMAÇÃO:: 08 Tratamento de Incidentes Cibernéticos. 
+SEGURANÇA DA INFORMAÇÃO:: 09 Assinatura e certificação digital, 
+SEGURANÇA DA INFORMAÇÃO:: 09.1 criptografia e proteção de dados em trânsito e em repouso. 
+SEGURANÇA DA INFORMAÇÃO:: 10 Segurança em nuvens
+SEGURANÇA DA INFORMAÇÃO:: 10.1 Segurança em contêineres.
+ENGENHARIA DE SOFTWARE:: 01 Arquitetura de sistemas web.
+ENGENHARIA DE SOFTWARE:: 01.1 protocolo HTTP.
+ENGENHARIA DE SOFTWARE:: 01.2 HTTP/2.
+ENGENHARIA DE SOFTWARE:: 01.3 gRPC.
+ENGENHARIA DE SOFTWARE:: 01.4 WebSockets.
+ENGENHARIA DE SOFTWARE:: 01.5 TLS.
+ENGENHARIA DE SOFTWARE:: 01.6 servidores proxy.
+ENGENHARIA DE SOFTWARE:: 01.7 cache.
+ENGENHARIA DE SOFTWARE:: 01.8 DNS.
+ENGENHARIA DE SOFTWARE:: 01.9 balanceamento de carga.
+ENGENHARIA DE SOFTWARE:: 01.10 tolerância a falhas.
+ENGENHARIA DE SOFTWARE:: 01.11 escalabilidade em sistemas web. 
+ENGENHARIA DE SOFTWARE:: 02 Princípios e práticas de DevOps 
+ENGENHARIA DE SOFTWARE:: 02.1 Princípios e práticas de DevSecOps, 
+ENGENHARIA DE SOFTWARE:: 02 Princípios e práticas de integração e entrega contínuas (CI/CD). 
+ENGENHARIA DE SOFTWARE:: 03 Técnicas de desenvolvimento seguro. 
+ENGENHARIA DE SOFTWARE:: 04 Testes de software. 
+ENGENHARIA DE SOFTWARE:: 04.1 Testes unitários.
+ENGENHARIA DE SOFTWARE:: 04.2 Testes de Integração.
+ENGENHARIA DE SOFTWARE:: 04.3 TDD. 
+ENGENHARIA DE SOFTWARE:: 04.4 BDD.
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software em camadas.
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software baseada em serviços.
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software microsserviços.
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software orquestração de serviços.
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software com API gateway.
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software orientação a eventos.
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de softwarecliente-servidor.
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software serverless. 
+ENGENHARIA DE SOFTWARE:: 06 Práticas de UX e UI design. 
+ENGENHARIA DE SOFTWARE:: 07 Programação assíncrona. 
+ENGENHARIA DE SOFTWARE:: 08 RESTful 
+ENGENHARIA DE SOFTWARE:: 08.1 e GraphQL. 
+ENGENHARIA DE SOFTWARE:: 09 Web services. 
+ENGENHARIA DE SOFTWARE:: 10 Padrões: GoF e
+ENGENHARIA DE SOFTWARE:: 10.1 Padrões:GRASP. 
+ENGENHARIA DE SOFTWARE:: 11 Git. 
+ENGENHARIA DE SOFTWARE:: 13 Transações distribuídas. 
+ENGENHARIA DE SOFTWARE:: 14 Distributed Ledger Technology (DLT).
+INFRAESTRUTURA EM TI:: 01 Conceitos de infraestrutura como código.
+INFRAESTRUTURA EM TI:: 01.1 automação de infraestrutura de TI. 
+INFRAESTRUTURA EM TI:: 02 Docker
+INFRAESTRUTURA EM TI:: 02.2 Kubernetes
+INFRAESTRUTURA EM TI:: 02.3 boas práticas para infraestrutura e orquestração de containers. 
+INFRAESTRUTURA EM TI:: 03 Serviços de Rede Microsoft Windows Server.
+INFRAESTRUTURA EM TI:: 03.1 DNS em Rede Microsoft Windows Server
+INFRAESTRUTURA EM TI:: 03.2 DHCP em Rede Microsoft Windows Server
+INFRAESTRUTURA EM TI:: 03.3 Radius em Rede Microsoft Windows Server
+INFRAESTRUTURA EM TI:: 03.4 Autenticação em Rede Microsoft Windows Server
+INFRAESTRUTURA EM TI:: 03.5 Certificados em Rede Microsoft Windows Server
+INFRAESTRUTURA EM TI:: 03.6 Active Directory (AD) em Rede Microsoft Windows Server
+INFRAESTRUTURA EM TI:: 04 Monitoração, observabilidade e análise de sistemas em produção
+INFRAESTRUTURA EM TI:: 04.1 ferramentas de monitoramento e logging
+INFRAESTRUTURA EM TI:: 04.2 Nagios
+INFRAESTRUTURA EM TI:: 04.3 Prometheus
+INFRAESTRUTURA EM TI:: 04.4 Grafana
+INFRAESTRUTURA EM TI:: 04.5 Elasticsearch
+INFRAESTRUTURA EM TI:: 04.6 Kibana
+INFRAESTRUTURA EM TI:: 04.7 Application Performance Monitoring (APM) 
+INFRAESTRUTURA EM TI:: 05 Protocolos da camada de aplicação, 
+INFRAESTRUTURA EM TI:: 05.1 Protocolo Simple Mail Transfer Protocol (SMTP), 
+INFRAESTRUTURA EM TI:: 05.2 Protocolo Hypertext Transfer Protocol (HTTP), 
+INFRAESTRUTURA EM TI:: 05.3 Protocolo Hypertext Transfer Protocol (HTTPS), 
+INFRAESTRUTURA EM TI:: 05.4 Protocolo SSL/TLS, 
+INFRAESTRUTURA EM TI:: 05.5 Protocolo Lightweight Directory Access Protocol (LDAP), 
+INFRAESTRUTURA EM TI:: 05.6 Protocolo Network File System (NFS), 
+INFRAESTRUTURA EM TI:: 05.7 Protocolo Server Message Block (SMB). 
+INFRAESTRUTURA EM TI:: 06 Tolerância a falhas e continuidade de operação. 
+INFRAESTRUTURA EM TI:: 07 Implantação e administração de serviços de nuvem (IaaS, PaaS e SaaS). 
+INFRAESTRUTURA EM TI:: 07.1 IaaS
+INFRAESTRUTURA EM TI:: 07.2 PaaS
+INFRAESTRUTURA EM TI:: 07.3 SaaS
+INFRAESTRUTURA EM TI:: 08 Administração e gerenciamento de ambientes de virtualização. 
+INFRAESTRUTURA EM TI:: 09 Administração e operação de sistemas operacionais Microsoft Windows Server e Linux. 
+INFRAESTRUTURA EM TI:: 10 Conceitos de LAN, 
+INFRAESTRUTURA EM TI:: 10.1 Conceitos deWAN.
+INFRAESTRUTURA EM TI:: 10.2 Conceitos de SDN. 
+INFRAESTRUTURA EM TI:: 11 Conceitos e ferramentas de orquestração e automação de infraestrutura
+INFRAESTRUTURA EM TI:: 11.1 Puppet. 
+INFRAESTRUTURA EM TI:: 11.2 Ansible.
+BANCOS DE DADOS:: 01 SGBDs SQL e NOSQL. 
+BANCOS DE DADOS:: 02 Modelagens de dados: 
+BANCOS DE DADOS:: 02.1 Modelagens de dados relacional, 
+BANCOS DE DADOS:: 02.2 Modelagens de dados multidimensional, 
+BANCOS DE DADOS:: 02.3 Modelagens de dados nosql.
+BANCOS DE DADOS:: 03 SQL Procedural Language 
+BANCOS DE DADOS:: 03.1 SQL Structured Query Language. 
+BANCOS DE DADOS:: 04 Arquitetura de Inteligência de Negócio.
+BANCOS DE DADOS:: 04.1 DataWarehouse.
+BANCOS DE DADOS:: 04.2 DataMart. 
+BANCOS DE DADOS:: 04.3 DataLake. 
+BANCOS DE DADOS:: 04.4 DataMesh.
+GESTÃO EM TI:: 01 Kanban. 
+GESTÃO EM TI:: 02 Scrum. 
+GESTÃO EM TI:: 03 Governança de Dados. 
+GESTÃO EM TI:: 04 ITIL v4
