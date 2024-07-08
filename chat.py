@@ -11,10 +11,8 @@ def cria_dissertacao(pergunta):
             # Fale sobre {pergunta.strip()} para eu poder fazer uma 
             # prova discursiva com 1 questão e 1 parecer'''}
 
-            {"role": "user", "content": f'''Estou estudando para um concurso e preciso de ajuda para entender melhor o conteúdo do meu edital. 
-             O contexto é a realidade brasileira. Pode me fornecer um resumo conciso e direto ao ponto sobre o seguinte tópico do edital: {pergunta.strip()}? 
-             Gostaria que o resumo incluísse os principais pontos, conceitos e aspectos essenciais sobre o tema.
-             Se houver uma lista, indique todos seus itens sem resumir ou apenas citar'''}
+            {"role": "user", "content": f'''Resumo que indique origem, conceitos tipos e classificações de: {pergunta.strip()}
+             Se os tipos envolverem vários itens, liste cada um deles sem resumir. Detalhe os tipos e suas características'''}
 
         ]
 
@@ -43,12 +41,12 @@ def processar_perguntas(nome_arquivo):
             arquivo = arquivo[:100] 
         arquivo = arquivo + ".txt"
         p = pergunta.split("::")[1]
-        #with open("respostas/" + arquivo, 'a', encoding='utf-8') as arquivo_respostas:
-            #respostaGPT = cria_dissertacao(pergunta)
-         #   print(f"{pergunta}\n")
-            #arquivo_respostas.write(f"{pergunta} ---\n")
-            #arquivo_respostas.write(f"{respostaGPT}\n")
-            #arquivo_respostas.write("\n")
+        with open("respostas/" + arquivo, 'a', encoding='utf-8') as arquivo_respostas:
+            print(f"{pergunta}")
+            respostaGPT = cria_dissertacao(p)            
+            arquivo_respostas.write(f"{pergunta} -\n")
+            arquivo_respostas.write(f"{respostaGPT}\n")
+            arquivo_respostas.write("\n")
 
 processar_perguntas('perguntas.txt')
 
