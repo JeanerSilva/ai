@@ -1,0 +1,50 @@
+ 05 Arquiteturas de software serverless. 
+ -
+Claro! Vamos explorar cinco arquiteturas de software serverless e destacar os 20% mais importantes aprendizados que te ajudarão a compreender 80% do necessário sobre o assunto.
+
+### 1. **Funções como Serviço (FaaS)**
+- **Conceito:** Executa funções em resposta a eventos sem a necessidade de gerenciar servidores.
+- **Exemplo:** AWS Lambda, Google Cloud Functions, Azure Functions.
+- **Aprendizado Principal:**
+  - **Escalabilidade Automática:** As funções escalam automaticamente com a demanda.
+  - **Custo-Eficiência:** Você paga apenas pelo tempo de execução da função.
+
+### 2. **Backend como Serviço (BaaS)**
+- **Conceito:** Fornece serviços de backend prontos, como autenticação, banco de dados, armazenamento de arquivos, etc.
+- **Exemplo:** Firebase, AWS Amplify.
+- **Aprendizado Principal:**
+  - **Redução de Complexidade:** Elimina a necessidade de gerenciar a infraestrutura do backend.
+  - **Integração Rápida:** Facilita a integração de funcionalidades complexas com poucas linhas de código.
+
+### 3. **Arquitetura de Microsserviços Serverless**
+- **Conceito:** Divide a aplicação em pequenos serviços independentes que podem ser desenvolvidos, implantados e escalados de forma independente.
+- **Exemplo:** Utilização de AWS Lambda para cada microsserviço.
+- **Aprendizado Principal:**
+  - **Desacoplamento:** Facilita a manutenção e a escalabilidade de componentes individuais.
+  - **Resiliência:** Falhas em um microsserviço não afetam os outros.
+
+### 4. **Arquitetura de Eventos**
+- **Conceito:** Baseia-se em eventos para desencadear ações e processos dentro do sistema.
+- **Exemplo:** AWS EventBridge, Azure Event Grid.
+- **Aprendizado Principal:**
+  - **Reatividade:** Permite que o sistema reaja a eventos em tempo real.
+  - **Flexibilidade:** Facilita a adição de novos eventos e ações sem alterar a arquitetura existente.
+
+### 5. **Arquitetura de API Gateway**
+- **Conceito:** Utiliza um gateway para gerenciar e rotear solicitações para diferentes serviços backend.
+- **Exemplo:** AWS API Gateway, Azure API Management.
+- **Aprendizado Principal:**
+  - **Centralização:** Centraliza a gestão de APIs, incluindo autenticação, autorização e limitação de taxa.
+  - **Segurança:** Melhora a segurança ao fornecer um ponto de entrada único para todas as solicitações.
+
+### 20% Mais Importantes Aprendizados:
+
+1. **Escalabilidade Automática:** A capacidade de escalar automaticamente com a demanda é um dos maiores benefícios das arquiteturas serverless.
+2. **Custo-Eficiência:** Pagar apenas pelo tempo de execução ou uso efetivo dos recursos pode resultar em economias significativas.
+3. **Redução de Complexidade:** Utilizar serviços gerenciados (BaaS) e funções (FaaS) reduz a necessidade de gerenciar infraestrutura.
+4. **Desacoplamento e Resiliência:** Arquiteturas de microsserviços e eventos promovem a independência e resiliência dos componentes do sistema.
+5. **Reatividade e Flexibilidade:** A capacidade de reagir a eventos em tempo real e adicionar novos eventos e ações facilmente é crucial para a adaptabilidade do sistema.
+6. **Centralização e Segurança:** Utilizar um API Gateway centraliza a gestão de APIs e melhora a segurança do sistema.
+
+Com esses aprendizados, você terá uma compreensão sólida das principais vantagens e características das arquiteturas serverless, permitindo que você aproveite ao máximo essa abordagem moderna de desenvolvimento de software.
+

@@ -1,0 +1,55 @@
+ 13 Transações distribuídas. 
+ -
+Claro! A teoria de Pareto, ou princípio 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado sobre transações distribuídas, aqui estão os pontos mais importantes que você deve focar para obter uma compreensão sólida do assunto:
+
+### 1. **Conceito de Transações Distribuídas**
+   - **Definição**: Transações distribuídas envolvem múltiplos sistemas ou bancos de dados que precisam ser coordenados para garantir que uma operação completa ocorra de forma consistente e atômica.
+   - **Importância**: Essencial para sistemas que dependem de múltiplos serviços ou bancos de dados, garantindo integridade e consistência dos dados.
+
+### 2. **Propriedades ACID**
+   - **Atomicidade**: Toda a transação é completada ou nada é feito.
+   - **Consistência**: A transação leva o sistema de um estado válido para outro estado válido.
+   - **Isolamento**: Transações concorrentes não interferem umas nas outras.
+   - **Durabilidade**: Uma vez que a transação é confirmada, ela permanece assim, mesmo em caso de falhas.
+
+### 3. **Protocolos de Commit em Duas Fases (2PC)**
+   - **Fase de Preparação**: Todos os participantes preparam-se para a transação e garantem que podem completá-la.
+   - **Fase de Commit**: Se todos os participantes estiverem prontos, a transação é confirmada; caso contrário, é abortada.
+   - **Importância**: Fundamental para garantir a atomicidade e consistência em transações distribuídas.
+
+### 4. **Protocolos de Commit em Três Fases (3PC)**
+   - **Fase de Preparação**: Similar ao 2PC.
+   - **Fase de Pre-Commit**: Um passo intermediário para garantir que todos os participantes estão prontos para o commit.
+   - **Fase de Commit**: A transação é finalmente confirmada.
+   - **Importância**: Adiciona uma camada extra de segurança para evitar bloqueios em caso de falhas.
+
+### 5. **Consistência Eventual**
+   - **Definição**: Em sistemas distribuídos, a consistência eventual garante que, dado tempo suficiente, todos os nós do sistema convergirão para o mesmo estado.
+   - **Importância**: Crucial para sistemas de alta disponibilidade e escalabilidade, onde a consistência imediata não é prática.
+
+### 6. **CAP Theorem**
+   - **Consistência**: Todos os nós veem os mesmos dados ao mesmo tempo.
+   - **Disponibilidade**: Cada solicitação recebe uma resposta (sucesso ou falha).
+   - **Particionamento Tolerante**: O sistema continua a operar mesmo que partes dele estejam desconectadas.
+   - **Importância**: Ajuda a entender as limitações e trade-offs em sistemas distribuídos.
+
+### 7. **Modelos de Consistência**
+   - **Consistência Forte**: Garante que todas as operações são vistas por todos os nós na mesma ordem.
+   - **Consistência Fraca**: Permite que diferentes nós vejam operações em ordens diferentes.
+   - **Consistência Causal**: Garante que operações relacionadas causalmente são vistas na mesma ordem.
+   - **Importância**: Diferentes modelos são aplicáveis dependendo dos requisitos de negócio e técnicos.
+
+### 8. **Idempotência**
+   - **Definição**: Uma operação é idempotente se pode ser aplicada múltiplas vezes sem alterar o resultado além da aplicação inicial.
+   - **Importância**: Essencial para garantir a resiliência e a recuperação de falhas em sistemas distribuídos.
+
+### 9. **Compensação de Transações**
+   - **Definição**: Em vez de reverter uma transação falhada, uma transação compensatória é executada para desfazer os efeitos da transação original.
+   - **Importância**: Útil em sistemas onde a reversão direta não é possível ou prática.
+
+### 10. **Ferramentas e Tecnologias**
+   - **Middleware de Transações**: Ferramentas como Apache Kafka, RabbitMQ, e frameworks como Spring Boot que facilitam a implementação de transações distribuídas.
+   - **Importância**: Conhecer as ferramentas disponíveis pode simplificar a implementação e gestão de transações distribuídas.
+
+Focando nesses 10 pontos principais, você cobrirá os conceitos e práticas mais importantes que representam a maior parte do conhecimento necessário para entender transações distribuídas.
+

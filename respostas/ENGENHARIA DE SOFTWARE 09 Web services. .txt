@@ -1,0 +1,45 @@
+ 09 Web services. 
+ -
+Claro! Vamos focar nos conceitos e práticas mais importantes sobre Web Services que te ajudarão a compreender a maior parte do assunto. Aqui estão os 20% mais importantes aprendizados:
+
+1. **Definição de Web Services**:
+   - **O que são**: Web Services são aplicações que permitem a comunicação entre diferentes sistemas através da internet, utilizando protocolos padrão.
+   - **Interoperabilidade**: Facilitam a integração entre diferentes plataformas e linguagens de programação.
+
+2. **Protocolos Comuns**:
+   - **SOAP (Simple Object Access Protocol)**: Um protocolo baseado em XML que permite a troca de informações estruturadas entre sistemas.
+   - **REST (Representational State Transfer)**: Um estilo arquitetural que utiliza HTTP e é mais simples e leve que SOAP.
+
+3. **Formatos de Dados**:
+   - **XML (Extensible Markup Language)**: Utilizado principalmente em serviços SOAP.
+   - **JSON (JavaScript Object Notation)**: Utilizado principalmente em serviços REST por ser mais leve e fácil de ler.
+
+4. **WSDL (Web Services Description Language)**:
+   - **O que é**: Um formato XML que descreve os serviços web SOAP, especificando os métodos disponíveis e como acessá-los.
+   - **Importância**: Facilita a descoberta e a integração de serviços web.
+
+5. **Endpoints**:
+   - **Definição**: URLs onde os serviços web estão disponíveis.
+   - **Importância**: São os pontos de acesso para a comunicação entre cliente e servidor.
+
+6. **HTTP Methods em REST**:
+   - **GET**: Recupera dados.
+   - **POST**: Envia dados para serem processados.
+   - **PUT**: Atualiza dados existentes.
+   - **DELETE**: Remove dados.
+
+7. **Status Codes HTTP**:
+   - **200 (OK)**: Requisição bem-sucedida.
+   - **404 (Not Found)**: Recurso não encontrado.
+   - **500 (Internal Server Error)**: Erro no servidor.
+
+8. **Autenticação e Segurança**:
+   - **Tokens (JWT)**: Utilizados para autenticação segura.
+   - **HTTPS**: Protocolo seguro que criptografa a comunicação entre cliente e servidor.
+
+9. **Ferramentas de Teste**:
+   - **Postman**: Ferramenta popular para testar APIs REST.
+   - **SoapUI**: Ferramenta para testar serviços SOAP.
+
+Esses pontos cobrem os conceitos e práticas essenciais que te ajudarão a entender a maior parte do funcionamento e da implementação de Web Services. Compreender esses fundamentos te permitirá explorar mais profundamente cada aspecto conforme necessário.
+

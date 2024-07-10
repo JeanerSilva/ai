@@ -1,0 +1,56 @@
+ 01.1 protocolo HTTP.
+ -
+Claro! O protocolo HTTP (HyperText Transfer Protocol) é fundamental para a comunicação na web. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender os 80% necessários sobre o HTTP:
+
+1. **Definição e Função**:
+   - **HTTP** é um protocolo de comunicação usado para transferir dados na web. Ele define como mensagens são formatadas e transmitidas, e como os servidores e navegadores devem responder a vários comandos.
+
+2. **Estrutura de uma Requisição HTTP**:
+   - **Método HTTP**: Indica a ação a ser realizada (GET, POST, PUT, DELETE, etc.).
+   - **URL**: O endereço do recurso.
+   - **Versão do HTTP**: Indica a versão do protocolo (ex: HTTP/1.1, HTTP/2).
+   - **Cabeçalhos**: Informações adicionais sobre a requisição ou resposta (ex: Content-Type, User-Agent).
+   - **Corpo da Mensagem**: Dados enviados com a requisição (geralmente em POST ou PUT).
+
+3. **Métodos HTTP Comuns**:
+   - **GET**: Solicita um recurso.
+   - **POST**: Envia dados ao servidor.
+   - **PUT**: Atualiza um recurso existente.
+   - **DELETE**: Remove um recurso.
+   - **HEAD**: Solicita os cabeçalhos de resposta sem o corpo.
+
+4. **Códigos de Status HTTP**:
+   - **1xx (Informativo)**: A requisição foi recebida e o processo continua.
+   - **2xx (Sucesso)**: A requisição foi bem-sucedida (ex: 200 OK).
+   - **3xx (Redirecionamento)**: A ação precisa de mais etapas (ex: 301 Moved Permanently).
+   - **4xx (Erro do Cliente)**: A requisição contém erros (ex: 404 Not Found).
+   - **5xx (Erro do Servidor)**: O servidor falhou ao processar a requisição (ex: 500 Internal Server Error).
+
+5. **Cabeçalhos HTTP Importantes**:
+   - **Content-Type**: Indica o tipo de mídia do recurso (ex: text/html, application/json).
+   - **Authorization**: Contém credenciais para autenticação.
+   - **Cache-Control**: Diretrizes de cache para navegadores e servidores.
+   - **User-Agent**: Identifica o cliente que está fazendo a requisição.
+
+6. **Sessões e Cookies**:
+   - **Cookies**: Pequenos pedaços de dados armazenados no cliente para manter o estado entre requisições.
+   - **Sessões**: Mecanismo no servidor para armazenar dados do usuário entre requisições.
+
+7. **HTTPS**:
+   - **HTTPS** (HTTP Secure) é a versão segura do HTTP, usando SSL/TLS para criptografar a comunicação entre cliente e servidor, garantindo confidencialidade e integridade dos dados.
+
+8. **HTTP/2**:
+   - **Multiplexação**: Permite múltiplas requisições/respostas simultâneas sobre a mesma conexão TCP.
+   - **Compressão de Cabeçalhos**: Reduz o tamanho dos cabeçalhos HTTP para melhorar a eficiência.
+   - **Server Push**: Permite que o servidor envie recursos ao cliente sem que ele precise solicitar.
+
+9. **RESTful APIs**:
+   - **REST** (Representational State Transfer) é um estilo arquitetural que usa HTTP para criar APIs. Ele se baseia em recursos, métodos HTTP e códigos de status para comunicação.
+
+10. **Ferramentas de Depuração**:
+    - **Inspecionar Elemento**: Ferramenta dos navegadores para visualizar requisições e respostas HTTP.
+    - **cURL**: Ferramenta de linha de comando para fazer requisições HTTP.
+    - **Postman**: Aplicativo para testar APIs HTTP.
+
+Compreender esses pontos-chave te dará uma base sólida para entender como o HTTP funciona e como ele é usado na web.
+

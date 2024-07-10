@@ -1,0 +1,40 @@
+ 05 Arquiteturas de software microsserviços.
+ -
+Claro! A arquitetura de microsserviços é uma abordagem de desenvolvimento de software onde uma aplicação é estruturada como uma coleção de serviços pequenos e independentes, cada um executando um processo único e comunicando-se através de APIs bem definidas. Aqui estão cinco arquiteturas de software de microsserviços e os 20% mais importantes aprendizados que ajudarão a compreender 80% do necessário sobre o assunto:
+
+### 1. **Arquitetura Baseada em Domínio (Domain-Driven Design - DDD)**
+- **Aprendizado Principal:** **Bounded Contexts**: Divida a aplicação em domínios menores e mais gerenciáveis, cada um com seu próprio modelo de dados e lógica de negócios.
+- **Importância:** Ajuda a manter a coesão e a clareza dentro de cada serviço, facilitando a manutenção e a escalabilidade.
+
+### 2. **Arquitetura de Eventos (Event-Driven Architecture)**
+- **Aprendizado Principal:** **Comunicação Assíncrona**: Utilize eventos para comunicação entre serviços, permitindo que eles operem de forma independente e respondam a eventos em tempo real.
+- **Importância:** Melhora a resiliência e a escalabilidade, pois os serviços não dependem de respostas imediatas uns dos outros.
+
+### 3. **Arquitetura de API Gateway**
+- **Aprendizado Principal:** **Ponto Único de Entrada**: Use um API Gateway como um ponto de entrada único para todas as solicitações de clientes, que roteia as solicitações para os serviços apropriados.
+- **Importância:** Simplifica a comunicação entre clientes e serviços, além de fornecer funcionalidades como autenticação, autorização e balanceamento de carga.
+
+### 4. **Arquitetura de Circuit Breaker**
+- **Aprendizado Principal:** **Tolerância a Falhas**: Implemente padrões de Circuit Breaker para detectar falhas e prevenir que chamadas repetidas a serviços falhos causem uma cascata de falhas.
+- **Importância:** Aumenta a resiliência do sistema, prevenindo que falhas em um serviço afetem outros serviços.
+
+### 5. **Arquitetura de Orquestração vs. Coreografia**
+- **Aprendizado Principal:** **Orquestração**: Um serviço central (orquestrador) controla o fluxo de trabalho e a interação entre serviços.
+- **Aprendizado Principal:** **Coreografia**: Cada serviço reage a eventos e executa ações de forma independente, sem um controlador central.
+- **Importância:** Escolher entre orquestração e coreografia depende do caso de uso específico e pode afetar a complexidade e a flexibilidade do sistema.
+
+### 20% Mais Importantes Aprendizados:
+
+1. **Desacoplamento e Independência:** Cada microsserviço deve ser independente e desacoplado dos outros, permitindo desenvolvimento, implantação e escalabilidade independentes.
+2. **Comunicação via APIs:** Utilize APIs bem definidas para a comunicação entre serviços, preferencialmente RESTful ou gRPC.
+3. **Gerenciamento de Dados:** Cada microsserviço deve ter seu próprio banco de dados para evitar dependências e facilitar a escalabilidade.
+4. **Automação e CI/CD:** Implemente pipelines de integração contínua e entrega contínua para automatizar testes e implantações, garantindo que novos serviços ou atualizações sejam entregues rapidamente e com qualidade.
+5. **Monitoramento e Logging:** Utilize ferramentas de monitoramento e logging centralizado para rastrear o desempenho e diagnosticar problemas em tempo real.
+6. **Segurança:** Implemente autenticação e autorização robustas, preferencialmente usando padrões como OAuth2 e JWT.
+7. **Escalabilidade Horizontal:** Projete os serviços para escalar horizontalmente, adicionando mais instâncias conforme necessário para lidar com a carga.
+8. **Resiliência e Tolerância a Falhas:** Utilize padrões como Circuit Breaker e Retry para aumentar a resiliência do sistema.
+9. **Gerenciamento de Configuração:** Utilize ferramentas de gerenciamento de configuração centralizada para gerenciar configurações de serviços de forma eficiente.
+10. **Orquestração e Coreografia:** Entenda quando usar orquestração (controle centralizado) versus coreografia (controle distribuído) para gerenciar interações entre serviços.
+
+Esses aprendizados fornecem uma base sólida para entender e implementar arquiteturas de microsserviços eficazes, cobrindo os aspectos mais críticos que impactam diretamente a funcionalidade, escalabilidade e manutenção do sistema.
+

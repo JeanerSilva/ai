@@ -1,0 +1,47 @@
+ 01.3 OAuth2 e 
+ -
+Claro! OAuth 2.0 é um protocolo de autorização que permite que aplicativos de terceiros obtenham acesso limitado a recursos de um usuário sem expor suas credenciais. Aqui estão os 20% mais importantes aprendizados sobre OAuth 2.0 que te ajudarão a compreender os 80% necessários:
+
+1. **Conceito Básico de OAuth 2.0**:
+   - OAuth 2.0 é um protocolo de autorização, não de autenticação. Ele permite que aplicativos obtenham acesso limitado aos recursos de um usuário em um servidor.
+
+2. **Papéis Principais**:
+   - **Resource Owner (Proprietário do Recurso)**: Usuário que autoriza o acesso ao recurso.
+   - **Client (Cliente)**: Aplicativo que solicita acesso aos recursos do usuário.
+   - **Authorization Server (Servidor de Autorização)**: Emite tokens de acesso ao cliente após a autorização do usuário.
+   - **Resource Server (Servidor de Recursos)**: API que hospeda os recursos protegidos e aceita tokens de acesso.
+
+3. **Fluxos de Autorização (Grant Types)**:
+   - **Authorization Code**: Usado por aplicativos web e móveis. Envolve redirecionamento do usuário para o servidor de autorização.
+   - **Implicit**: Usado por aplicativos de uma única página (SPA). Menos seguro, pois o token é exposto no URL.
+   - **Resource Owner Password Credentials**: O cliente troca diretamente as credenciais do usuário por um token de acesso. Menos seguro e recomendado apenas em cenários de confiança.
+   - **Client Credentials**: Usado para autenticação de servidor a servidor. O cliente usa suas próprias credenciais para obter um token de acesso.
+
+4. **Tokens**:
+   - **Access Token**: Token que permite ao cliente acessar os recursos protegidos.
+   - **Refresh Token**: Token que permite ao cliente obter novos tokens de acesso sem a intervenção do usuário.
+
+5. **Scopes**:
+   - Scopes são permissões específicas que o cliente solicita ao servidor de autorização. Eles definem o nível de acesso que o cliente terá aos recursos do usuário.
+
+6. **Endpoints Importantes**:
+   - **/authorize**: Endpoint usado para obter a autorização do usuário.
+   - **/token**: Endpoint usado para obter tokens de acesso e refresh.
+
+7. **Segurança**:
+   - Sempre use HTTPS para proteger a comunicação entre o cliente e o servidor de autorização.
+   - Minimize o uso do fluxo de credenciais do proprietário do recurso devido a riscos de segurança.
+   - Armazene tokens de forma segura e evite expô-los em URLs.
+
+8. **Recomendações de Implementação**:
+   - Utilize bibliotecas e frameworks existentes para implementar OAuth 2.0, pois eles lidam com muitos detalhes complexos e de segurança.
+   - Mantenha-se atualizado com as melhores práticas e recomendações de segurança para OAuth 2.0.
+
+9. **Revalidação de Tokens**:
+   - Use tokens de acesso de curta duração e tokens de atualização para minimizar o impacto de tokens comprometidos.
+
+10. **Revogação de Tokens**:
+    - Implemente a capacidade de revogar tokens de acesso e refresh para aumentar a segurança.
+
+Compreender esses pontos-chave te dará uma base sólida para entender como OAuth 2.0 funciona e como ele pode ser implementado de forma segura e eficaz em diferentes cenários.
+

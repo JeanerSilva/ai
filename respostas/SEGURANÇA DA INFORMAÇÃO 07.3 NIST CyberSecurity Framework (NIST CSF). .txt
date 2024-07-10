@@ -1,0 +1,45 @@
+ 07.3 NIST CyberSecurity Framework (NIST CSF). 
+ -
+Claro! O NIST CyberSecurity Framework (NIST CSF) é uma ferramenta essencial para gerenciar e reduzir riscos de cibersegurança. Ele é amplamente adotado por organizações para melhorar suas práticas de segurança. Aqui estão os 20% mais importantes aprendizados que ajudarão você a compreender 80% do NIST CSF:
+
+### 1. **Os Cinco Funções Principais**
+   - **Identify (Identificar):** Entenda os ativos, dados, sistemas e recursos que precisam ser protegidos. Isso inclui a criação de um inventário de ativos e a avaliação de riscos.
+   - **Protect (Proteger):** Desenvolva e implemente salvaguardas apropriadas para garantir a entrega de serviços críticos. Isso inclui controle de acesso, treinamento de segurança e proteção de dados.
+   - **Detect (Detectar):** Implemente atividades para identificar a ocorrência de um evento de cibersegurança. Isso envolve monitoramento contínuo e detecção de anomalias.
+   - **Respond (Responder):** Desenvolva e implemente atividades para tomar ação em relação a um incidente de cibersegurança detectado. Isso inclui planos de resposta a incidentes e comunicação.
+   - **Recover (Recuperar):** Desenvolva e implemente atividades para manter planos de resiliência e restaurar quaisquer capacidades ou serviços que foram impactados por incidentes de cibersegurança.
+
+### 2. **Framework Core**
+   - O Framework Core é composto por três elementos: Funções, Categorias e Subcategorias. Ele fornece um conjunto de atividades desejadas e resultados para cada função.
+   - **Funções:** As cinco funções principais mencionadas acima.
+   - **Categorias:** Grupos de atividades dentro de cada função (por exemplo, Gerenciamento de Identidades e Controle de Acesso dentro da função Proteger).
+   - **Subcategorias:** Resultados específicos de gerenciamento de cibersegurança (por exemplo, "Identidades e credenciais são gerenciadas para acesso autorizado").
+
+### 3. **Implementation Tiers (Níveis de Implementação)**
+   - Os Tiers ajudam as organizações a entenderem o grau de sofisticação de suas práticas de cibersegurança. Eles variam de Tier 1 (Parcial) a Tier 4 (Adaptável).
+   - **Tier 1 (Parcial):** Práticas de cibersegurança são ad hoc e não formalizadas.
+   - **Tier 2 (Risco Informado):** Práticas de cibersegurança são informadas por riscos, mas não são formalizadas.
+   - **Tier 3 (Repetível):** Práticas de cibersegurança são formalizadas e repetíveis.
+   - **Tier 4 (Adaptável):** Práticas de cibersegurança são adaptáveis e continuamente melhoradas.
+
+### 4. **Framework Profile (Perfil do Framework)**
+   - O Perfil representa a situação atual ("Current Profile") e a situação desejada ("Target Profile") das práticas de cibersegurança de uma organização.
+   - **Current Profile:** Estado atual das práticas de cibersegurança.
+   - **Target Profile:** Estado desejado das práticas de cibersegurança.
+   - A comparação entre o Current Profile e o Target Profile ajuda a identificar lacunas e a desenvolver planos de ação para melhorias.
+
+### 5. **Customização e Flexibilidade**
+   - O NIST CSF é projetado para ser flexível e pode ser adaptado para atender às necessidades específicas de diferentes organizações, independentemente do tamanho ou setor.
+   - As organizações são incentivadas a customizar o Framework para alinhar com suas próprias necessidades, recursos e tolerância ao risco.
+
+### 6. **Integração com Outros Padrões e Melhores Práticas**
+   - O NIST CSF pode ser integrado com outros padrões e frameworks de cibersegurança, como ISO/IEC 27001, COBIT, e CIS Controls.
+   - Isso permite que as organizações aproveitem investimentos existentes em cibersegurança e melhorem a coesão entre diferentes práticas e frameworks.
+
+### 7. **Cultura de Segurança**
+   - A implementação bem-sucedida do NIST CSF requer uma cultura de segurança dentro da organização, onde todos os funcionários entendem a importância da cibersegurança e suas responsabilidades individuais.
+   - Treinamento contínuo e conscientização são essenciais para manter essa cultura.
+
+### Conclusão
+Esses pontos cobrem os aspectos mais críticos do NIST CSF e fornecem uma base sólida para entender como ele pode ser aplicado para melhorar a postura de cibersegurança de uma organização. Ao focar nesses elementos, você estará bem posicionado para compreender e implementar o NIST CSF de maneira eficaz.
+

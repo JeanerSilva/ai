@@ -1,0 +1,74 @@
+ 01.4 OpenId Connect. 
+ -
+Claro! OpenID Connect (OIDC) é uma camada de identidade construída sobre o protocolo OAuth 2.0, que permite que aplicativos verifiquem a identidade de um usuário com base na autenticação realizada por um servidor de autorização. Aqui estão os 20% mais importantes aprendizados sobre OpenID Connect que te ajudarão a compreender os 80% necessários:
+
+1. **Conceito Básico**:
+   - **OpenID Connect** é um protocolo de autenticação que permite que aplicativos verifiquem a identidade de um usuário com base na autenticação realizada por um servidor de autorização.
+
+2. **Relação com OAuth 2.0**:
+   - OIDC é uma camada de identidade construída sobre o protocolo OAuth 2.0, adicionando autenticação ao fluxo de autorização.
+
+3. **Tokens Importantes**:
+   - **ID Token**: Um token JWT (JSON Web Token) que contém informações sobre o usuário autenticado.
+   - **Access Token**: Usado para acessar recursos protegidos.
+   - **Refresh Token**: Usado para obter novos tokens de acesso sem reautenticar o usuário.
+
+4. **Fluxos de Autenticação**:
+   - **Authorization Code Flow**: O mais seguro e recomendado para aplicativos web e móveis.
+   - **Implicit Flow**: Usado principalmente para aplicativos de página única (SPA).
+   - **Hybrid Flow**: Combinação dos dois anteriores, oferecendo mais flexibilidade.
+
+5. **Endpoints Principais**:
+   - **Authorization Endpoint**: Onde o usuário é autenticado.
+   - **Token Endpoint**: Onde os tokens são emitidos.
+   - **UserInfo Endpoint**: Onde informações adicionais sobre o usuário podem ser obtidas.
+
+6. **Scopes**:
+   - **openid**: Scope obrigatório que indica que o aplicativo está usando OIDC.
+   - **profile, email, address, phone**: Scopes opcionais que permitem acesso a informações adicionais do usuário.
+
+7. **Claims**:
+   - Informações sobre o usuário contidas no ID Token, como `sub` (identificador do usuário), `name`, `email`, etc.
+
+8. **Discovery Document**:
+   - Um documento JSON que contém informações sobre como interagir com o servidor de autorização, incluindo URLs de endpoints e métodos suportados.
+
+9. **Client Registration**:
+   - Processo pelo qual um aplicativo se registra com o servidor de autorização para obter um `client_id` e, opcionalmente, um `client_secret`.
+
+10. **Segurança**:
+    - **Nonce**: Um valor único usado para mitigar ataques de repetição.
+    - **PKCE (Proof Key for Code Exchange)**: Uma extensão do Authorization Code Flow que melhora a segurança para aplicativos móveis e SPAs.
+
+11. **User Experience**:
+    - OIDC permite Single Sign-On (SSO), melhorando a experiência do usuário ao permitir que ele use uma única identidade para acessar múltiplos aplicativos.
+
+12. **Interoperabilidade**:
+    - OIDC é amplamente suportado e interoperável com muitos provedores de identidade, como Google, Microsoft, e outros.
+
+13. **JWT (JSON Web Token)**:
+    - O ID Token é um JWT, que é um token compacto, seguro e auto-contido que pode ser verificado e decodificado pelo cliente.
+
+14. **Introspecção de Tokens**:
+    - Processo pelo qual um cliente pode verificar a validade de um token de acesso ou ID Token.
+
+15. **Logout**:
+    - OIDC define mecanismos para logout do usuário, incluindo logout no servidor de autorização e notificação de logout para clientes.
+
+16. **Consentimento do Usuário**:
+    - Durante o processo de autenticação, o usuário pode ser solicitado a consentir com os escopos solicitados pelo aplicativo.
+
+17. **Atualização de Tokens**:
+    - O uso de Refresh Tokens permite que os aplicativos mantenham o acesso sem reautenticar o usuário repetidamente.
+
+18. **Implementações e Bibliotecas**:
+    - Existem muitas bibliotecas e frameworks que facilitam a implementação de OIDC em diferentes linguagens de programação.
+
+19. **Provedores de Identidade**:
+    - Provedores como Google, Microsoft, Okta, Auth0, entre outros, oferecem suporte a OIDC, permitindo fácil integração com seus serviços.
+
+20. **Documentação e Padrões**:
+    - A especificação oficial do OpenID Connect é detalhada e fornece todas as informações necessárias para implementação e conformidade.
+
+Com esses pontos, você terá uma base sólida para entender como o OpenID Connect funciona e como ele pode ser implementado para autenticação e autorização em seus aplicativos.
+

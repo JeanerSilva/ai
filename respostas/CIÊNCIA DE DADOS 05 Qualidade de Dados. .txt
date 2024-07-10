@@ -1,0 +1,52 @@
+ 05 Qualidade de Dados. 
+ -
+Claro, a regra 80/20, ou Princípio de Pareto, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado sobre Qualidade de Dados, aqui estão os pontos mais importantes que você deve focar:
+
+### 1. **Precisão (Accuracy)**
+   - **Definição**: Refere-se à exatidão dos dados em relação à realidade ou a uma fonte de referência.
+   - **Importância**: Dados imprecisos podem levar a decisões erradas e prejudicar a confiança nas análises.
+
+### 2. **Completude (Completeness)**
+   - **Definição**: Mede se todos os dados necessários estão presentes.
+   - **Importância**: Dados incompletos podem resultar em análises enviesadas e conclusões incorretas.
+
+### 3. **Consistência (Consistency)**
+   - **Definição**: Refere-se à uniformidade dos dados em diferentes sistemas e ao longo do tempo.
+   - **Importância**: Inconsistências podem causar confusão e dificultar a integração de dados de várias fontes.
+
+### 4. **Atualidade (Timeliness)**
+   - **Definição**: Mede se os dados estão atualizados e disponíveis quando necessário.
+   - **Importância**: Dados desatualizados podem ser irrelevantes e levar a decisões baseadas em informações obsoletas.
+
+### 5. **Validade (Validity)**
+   - **Definição**: Refere-se ao grau em que os dados estão em conformidade com as regras de negócios e restrições.
+   - **Importância**: Dados inválidos podem indicar problemas no processo de coleta ou entrada de dados.
+
+### 6. **Integridade (Integrity)**
+   - **Definição**: Mede a relação correta entre diferentes conjuntos de dados.
+   - **Importância**: A falta de integridade pode levar a dados duplicados ou conflitantes, prejudicando a análise.
+
+### 7. **Acessibilidade (Accessibility)**
+   - **Definição**: Refere-se à facilidade com que os dados podem ser acessados e utilizados.
+   - **Importância**: Dados inacessíveis são inúteis, independentemente de sua qualidade.
+
+### 8. **Relevância (Relevance)**
+   - **Definição**: Mede se os dados são apropriados e úteis para o propósito pretendido.
+   - **Importância**: Dados irrelevantes podem sobrecarregar o sistema e dificultar a tomada de decisões.
+
+### 9. **Auditoria e Rastreabilidade (Auditability and Traceability)**
+   - **Definição**: Refere-se à capacidade de rastrear a origem e as alterações dos dados.
+   - **Importância**: Facilita a identificação de erros e a manutenção da qualidade dos dados ao longo do tempo.
+
+### 10. **Segurança (Security)**
+   - **Definição**: Refere-se à proteção dos dados contra acesso não autorizado e corrupção.
+   - **Importância**: Dados comprometidos podem levar a violações de privacidade e perda de confiança.
+
+### Aplicação Prática:
+- **Ferramentas de Qualidade de Dados**: Utilize ferramentas como ETL (Extract, Transform, Load) para garantir a qualidade dos dados.
+- **Governança de Dados**: Implemente políticas e procedimentos para manter a qualidade dos dados.
+- **Monitoramento Contínuo**: Estabeleça processos de monitoramento contínuo para identificar e corrigir problemas de qualidade de dados em tempo real.
+
+### Conclusão:
+Focando nesses 10 pontos principais, você cobrirá os aspectos mais críticos da Qualidade de Dados, que são essenciais para garantir que os dados sejam precisos, completos, consistentes, atualizados, válidos, íntegros, acessíveis, relevantes, auditáveis e seguros. Isso lhe dará uma base sólida para compreender e melhorar a qualidade dos dados em qualquer contexto.
+

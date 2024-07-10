@@ -1,0 +1,47 @@
+ 02.1 Modelagens de dados relacional, 
+ -
+Claro! A Lei de Pareto, ou princípio 80/20, sugere que 20% dos esforços podem gerar 80% dos resultados. Aplicando isso ao aprendizado sobre modelagem de dados relacional, aqui estão os pontos mais importantes que você deve focar para obter uma compreensão sólida:
+
+### 1. **Conceitos Básicos de Banco de Dados Relacional**
+   - **Entidades e Atributos**: Entidades são objetos ou coisas no mundo real que têm existência independente. Atributos são as propriedades ou características dessas entidades.
+   - **Tabelas (Relações)**: Representam entidades e são compostas por linhas (tuplas) e colunas (atributos).
+
+### 2. **Chaves Primárias e Estrangeiras**
+   - **Chave Primária (Primary Key)**: Um atributo ou conjunto de atributos que identifica unicamente uma tupla em uma tabela.
+   - **Chave Estrangeira (Foreign Key)**: Um atributo ou conjunto de atributos em uma tabela que cria um link entre dados em duas tabelas.
+
+### 3. **Normalização**
+   - **Primeira Forma Normal (1NF)**: Elimina grupos repetitivos, assegurando que cada campo contenha apenas valores atômicos.
+   - **Segunda Forma Normal (2NF)**: Elimina dependências parciais, garantindo que todos os atributos não-chave dependam da chave primária.
+   - **Terceira Forma Normal (3NF)**: Elimina dependências transitivas, assegurando que atributos não-chave não dependam de outros atributos não-chave.
+
+### 4. **Modelagem Entidade-Relacionamento (ER)**
+   - **Diagrama ER**: Uma representação gráfica das entidades, atributos e relacionamentos entre entidades.
+   - **Cardinalidade**: Define o número de instâncias de uma entidade que podem estar associadas a uma instância de outra entidade (1:1, 1:N, N:M).
+
+### 5. **Integridade Referencial**
+   - **Regras de Integridade**: Asseguram que as relações entre tabelas permaneçam consistentes. Por exemplo, uma chave estrangeira deve corresponder a uma chave primária existente ou ser nula.
+
+### 6. **Consultas SQL Básicas**
+   - **SELECT**: Recupera dados de uma ou mais tabelas.
+   - **INSERT, UPDATE, DELETE**: Manipulam dados em tabelas.
+
+### 7. **Joins**
+   - **INNER JOIN**: Retorna registros que têm valores correspondentes em ambas as tabelas.
+   - **LEFT JOIN (ou LEFT OUTER JOIN)**: Retorna todos os registros da tabela à esquerda e os registros correspondentes da tabela à direita.
+   - **RIGHT JOIN (ou RIGHT OUTER JOIN)**: Retorna todos os registros da tabela à direita e os registros correspondentes da tabela à esquerda.
+   - **FULL JOIN (ou FULL OUTER JOIN)**: Retorna registros quando há uma correspondência em uma das tabelas.
+
+### 8. **Índices**
+   - **Índices**: Melhoram a velocidade das operações de consulta em tabelas. No entanto, podem diminuir a velocidade de operações de inserção, atualização e exclusão.
+
+### 9. **Transações**
+   - **ACID**: Propriedades de transações que garantem Atomicidade, Consistência, Isolamento e Durabilidade.
+
+### 10. **Modelagem Física vs. Lógica**
+   - **Modelo Lógico**: Representa a estrutura lógica do banco de dados, incluindo entidades, atributos e relacionamentos.
+   - **Modelo Físico**: Representa a implementação física do banco de dados, incluindo tabelas, índices e partições.
+
+### Conclusão
+Focando nesses 10 pontos principais, você cobrirá os conceitos essenciais que formam a base da modelagem de dados relacional. Esses tópicos representam os 20% do conhecimento que lhe proporcionarão uma compreensão robusta e prática de 80% do que é necessário para trabalhar eficazmente com bancos de dados relacionais.
+

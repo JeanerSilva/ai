@@ -1,0 +1,47 @@
+ 08 Tratamento de Incidentes Cibernéticos. 
+ -
+Claro, o tratamento de incidentes cibernéticos é um campo vasto e complexo, mas focar nos aspectos mais críticos pode ajudar a entender a maior parte do processo. Aqui estão os 20% mais importantes aprendizados que cobrem 80% do necessário para compreender o tratamento de incidentes cibernéticos:
+
+### 1. **Identificação e Detecção de Incidentes**
+   - **Monitoramento Contínuo:** Utilize ferramentas de monitoramento para detectar atividades anômalas e potenciais incidentes.
+   - **Indicadores de Comprometimento (IoCs):** Conheça os sinais que indicam que um sistema pode estar comprometido, como arquivos suspeitos, tráfego de rede incomum e comportamento anômalo de usuários.
+
+### 2. **Classificação e Priorização**
+   - **Avaliação de Impacto:** Determine a gravidade do incidente com base no impacto potencial sobre a confidencialidade, integridade e disponibilidade dos dados.
+   - **Classificação de Incidentes:** Categorize os incidentes (por exemplo, malware, phishing, DDoS) para aplicar as respostas adequadas.
+
+### 3. **Resposta Imediata**
+   - **Isolamento:** Imediatamente isole sistemas afetados para evitar a propagação do incidente.
+   - **Comunicação:** Notifique as partes interessadas internas e, se necessário, externas (como autoridades reguladoras) sobre o incidente.
+
+### 4. **Análise e Diagnóstico**
+   - **Coleta de Evidências:** Reúna logs, snapshots de sistemas e outras evidências para entender a extensão e a origem do incidente.
+   - **Análise Forense:** Utilize técnicas de análise forense para investigar a causa raiz e o vetor de ataque.
+
+### 5. **Contenção e Erradicação**
+   - **Contenção Temporária:** Aplique medidas temporárias para limitar o impacto do incidente enquanto uma solução permanente é desenvolvida.
+   - **Erradicação:** Remova o vetor de ataque e qualquer presença maliciosa do ambiente afetado.
+
+### 6. **Recuperação**
+   - **Restaurar Sistemas:** Restaure sistemas e dados a partir de backups seguros.
+   - **Verificação:** Certifique-se de que os sistemas restaurados estão livres de vulnerabilidades e comprometimentos antes de colocá-los de volta em operação.
+
+### 7. **Comunicação e Relatórios**
+   - **Documentação:** Documente todas as etapas do incidente, desde a detecção até a resolução.
+   - **Relatórios Pós-Incidente:** Crie relatórios detalhados para análise posterior e para melhorar as respostas futuras.
+
+### 8. **Lições Aprendidas e Melhoria Contínua**
+   - **Revisão Pós-Incidente:** Realize uma revisão detalhada para identificar falhas e áreas de melhoria.
+   - **Atualização de Políticas e Procedimentos:** Ajuste políticas, procedimentos e controles de segurança com base nas lições aprendidas.
+
+### 9. **Treinamento e Conscientização**
+   - **Capacitação da Equipe:** Treine a equipe de resposta a incidentes regularmente para mantê-los atualizados sobre as melhores práticas e novas ameaças.
+   - **Conscientização dos Usuários:** Eduque todos os funcionários sobre práticas de segurança cibernética para prevenir incidentes.
+
+### 10. **Ferramentas e Tecnologias**
+   - **Soluções de SIEM:** Utilize Sistemas de Gerenciamento de Informações e Eventos de Segurança (SIEM) para centralizar e analisar logs.
+   - **Automação:** Implemente ferramentas de automação para acelerar a detecção e resposta a incidentes.
+
+### Conclusão
+Focar nesses aspectos críticos fornecerá uma base sólida para entender e gerenciar incidentes cibernéticos de forma eficaz. A chave é ter um plano bem definido, ferramentas adequadas e uma equipe treinada para responder rapidamente e minimizar o impacto dos incidentes.
+

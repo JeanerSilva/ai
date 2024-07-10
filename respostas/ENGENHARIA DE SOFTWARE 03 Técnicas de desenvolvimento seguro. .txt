@@ -1,0 +1,38 @@
+ 03 Técnicas de desenvolvimento seguro. 
+ -
+Claro, vou focar nos 20% mais importantes que te ajudarão a compreender os 80% necessários sobre técnicas de desenvolvimento seguro. Vamos abordar três técnicas principais: Validação de Entrada, Controle de Acesso e Criptografia.
+
+### 1. Validação de Entrada
+
+**Aprendizados Essenciais:**
+
+1. **Sanitização e Validação:** Sempre sanitize e valide todas as entradas de usuários para prevenir ataques como SQL Injection e Cross-Site Scripting (XSS).
+2. **Listas de Permissão:** Utilize listas de permissão (whitelists) em vez de listas de bloqueio (blacklists) para validar entradas.
+3. **Bibliotecas e Ferramentas:** Use bibliotecas e ferramentas de validação de entrada que são bem testadas e mantidas pela comunidade.
+
+### 2. Controle de Acesso
+
+**Aprendizados Essenciais:**
+
+1. **Princípio do Menor Privilégio:** Conceda aos usuários apenas as permissões necessárias para realizar suas tarefas.
+2. **Autenticação e Autorização:** Implemente autenticação robusta (como 2FA) e verifique a autorização para cada ação sensível.
+3. **Sessões Seguras:** Utilize tokens de sessão seguros e expire sessões após um período de inatividade.
+
+### 3. Criptografia
+
+**Aprendizados Essenciais:**
+
+1. **Dados em Trânsito e em Repouso:** Criptografe dados tanto em trânsito (usando TLS/SSL) quanto em repouso (usando AES, por exemplo).
+2. **Gerenciamento de Chaves:** Utilize práticas seguras de gerenciamento de chaves, como o uso de HSMs (Hardware Security Modules) ou serviços de gerenciamento de chaves na nuvem.
+3. **Algoritmos Atualizados:** Use algoritmos de criptografia atualizados e evite aqueles que são considerados inseguros, como MD5 e SHA-1.
+
+### Conclusão
+
+Ao focar nesses pontos essenciais, você estará cobrindo os aspectos mais críticos do desenvolvimento seguro:
+
+- **Validação de Entrada:** Prevenção de ataques comuns através da sanitização e validação.
+- **Controle de Acesso:** Garantia de que apenas usuários autorizados possam acessar recursos sensíveis.
+- **Criptografia:** Proteção de dados sensíveis tanto em trânsito quanto em repouso.
+
+Esses aprendizados formam a base para a maioria das práticas de desenvolvimento seguro e te ajudarão a compreender e implementar medidas eficazes de segurança em seus projetos.
+

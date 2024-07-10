@@ -1,0 +1,47 @@
+ 04.2 Nagios
+ -
+Claro! Nagios é uma ferramenta poderosa de monitoramento de sistemas, redes e infraestrutura. Para entender os 20% mais importantes que te ajudarão a compreender 80% do necessário sobre Nagios, vamos focar nos conceitos e práticas essenciais:
+
+### 1. **Arquitetura do Nagios**
+   - **Componentes Principais**: Entenda os componentes principais do Nagios, como o servidor Nagios, plugins, NRPE (Nagios Remote Plugin Executor), e a interface web.
+   - **Funcionamento Básico**: Saiba como o Nagios coleta dados, executa verificações e notifica os administradores sobre problemas.
+
+### 2. **Instalação e Configuração Básica**
+   - **Instalação**: Aprenda a instalar o Nagios em um sistema Linux, incluindo a instalação de dependências e plugins.
+   - **Configuração Inicial**: Familiarize-se com os arquivos de configuração principais, como `nagios.cfg`, `objects/commands.cfg`, `objects/contacts.cfg`, e `objects/hosts.cfg`.
+
+### 3. **Monitoramento de Hosts e Serviços**
+   - **Definição de Hosts**: Saiba como definir hosts no Nagios, especificando detalhes como endereço IP e grupos de hosts.
+   - **Definição de Serviços**: Aprenda a configurar serviços para monitorar, como HTTP, SSH, e outros serviços críticos.
+
+### 4. **Plugins do Nagios**
+   - **Uso de Plugins**: Entenda como os plugins funcionam e como utilizá-los para realizar verificações específicas.
+   - **Desenvolvimento de Plugins**: Saiba como criar seus próprios plugins em linguagens de script como Bash, Python, ou Perl.
+
+### 5. **Notificações e Alertas**
+   - **Configuração de Contatos**: Configure contatos e grupos de contatos para receber notificações.
+   - **Métodos de Notificação**: Aprenda a configurar métodos de notificação, como email, SMS, ou integrações com outras ferramentas de alerta.
+
+### 6. **Escalonamento e Dependências**
+   - **Escalonamento de Alertas**: Configure escalonamento de alertas para garantir que problemas críticos sejam escalados adequadamente.
+   - **Dependências de Serviços e Hosts**: Entenda como configurar dependências para evitar alertas redundantes.
+
+### 7. **Interface Web e Visualização**
+   - **Navegação na Interface Web**: Familiarize-se com a interface web do Nagios para visualizar o status dos hosts e serviços.
+   - **Dashboards e Relatórios**: Utilize dashboards e relatórios para obter uma visão geral do desempenho e disponibilidade da infraestrutura.
+
+### 8. **Segurança**
+   - **Autenticação e Autorização**: Configure autenticação e autorização para controlar o acesso à interface web e aos dados do Nagios.
+   - **Segurança de Comunicação**: Implemente medidas de segurança para proteger a comunicação entre o servidor Nagios e os agentes remotos.
+
+### 9. **Escalabilidade e Desempenho**
+   - **Ajustes de Desempenho**: Aprenda a ajustar o desempenho do Nagios para lidar com grandes ambientes de monitoramento.
+   - **Distribuição de Carga**: Explore opções para distribuir a carga de monitoramento, como servidores Nagios distribuídos ou federados.
+
+### 10. **Integração com Outras Ferramentas**
+   - **Integração com Sistemas de Gerenciamento de Incidentes**: Saiba como integrar o Nagios com ferramentas de gerenciamento de incidentes como Jira, ServiceNow, ou PagerDuty.
+   - **Automação e Scripts**: Utilize scripts e ferramentas de automação para integrar o Nagios com outras partes da infraestrutura.
+
+### Conclusão
+Compreender esses aspectos fundamentais do Nagios te dará uma base sólida para monitorar e gerenciar a infraestrutura de TI de forma eficaz. Aprofundar-se nesses tópicos permitirá que você configure, mantenha e expanda o uso do Nagios conforme necessário.
+

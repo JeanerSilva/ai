@@ -1,0 +1,57 @@
+ 01 Gestão de Identidades e Acesso: Autenticação e Autorização, 
+ -
+Claro! A gestão de identidades e acesso (IAM - Identity and Access Management) é um campo crucial na segurança da informação, e entender os conceitos de autenticação e autorização é fundamental. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do assunto:
+
+### 1. **Conceitos Básicos de IAM**
+   - **Identidade**: Representa um usuário ou entidade que precisa acessar recursos.
+   - **Autenticação**: Processo de verificar a identidade de um usuário.
+   - **Autorização**: Processo de determinar se um usuário autenticado tem permissão para acessar um recurso específico.
+
+### 2. **Autenticação**
+   - **Fatores de Autenticação**:
+     - **Algo que você sabe**: Senhas, PINs.
+     - **Algo que você tem**: Tokens, smart cards.
+     - **Algo que você é**: Biometria (impressões digitais, reconhecimento facial).
+   - **Autenticação Multifator (MFA)**: Uso de mais de um fator de autenticação para aumentar a segurança.
+   - **Single Sign-On (SSO)**: Permite que um usuário se autentique uma vez e acesse múltiplos sistemas sem precisar se autenticar novamente.
+
+### 3. **Autorização**
+   - **Modelos de Controle de Acesso**:
+     - **Controle de Acesso Baseado em Papéis (RBAC)**: Permissões são atribuídas a papéis e usuários são atribuídos a esses papéis.
+     - **Controle de Acesso Baseado em Atributos (ABAC)**: Permissões são baseadas em atributos do usuário, do recurso e do ambiente.
+     - **Controle de Acesso Discricionário (DAC)**: O proprietário do recurso decide quem tem acesso.
+     - **Controle de Acesso Obrigatório (MAC)**: O acesso é controlado por uma autoridade central com base em classificações de segurança.
+
+### 4. **Protocolos e Padrões**
+   - **LDAP (Lightweight Directory Access Protocol)**: Protocolo para acessar e manter serviços de diretório.
+   - **OAuth**: Protocolo de autorização que permite que aplicativos acessem recursos em nome de um usuário.
+   - **OpenID Connect**: Protocolo de autenticação que funciona sobre OAuth 2.0.
+   - **SAML (Security Assertion Markup Language)**: Padrão para troca de dados de autenticação e autorização entre partes.
+
+### 5. **Práticas de Segurança**
+   - **Princípio do Menor Privilégio**: Conceder apenas as permissões necessárias para realizar uma tarefa.
+   - **Segregação de Funções (SoD)**: Separar tarefas e privilégios para reduzir o risco de fraude ou erro.
+   - **Auditoria e Monitoramento**: Registrar e revisar atividades de acesso para detectar e responder a atividades suspeitas.
+
+### 6. **Gestão de Senhas**
+   - **Políticas de Senhas**: Regras para criação e manutenção de senhas (complexidade, expiração, reutilização).
+   - **Gerenciamento de Senhas**: Ferramentas e processos para armazenar e recuperar senhas de forma segura.
+
+### 7. **IAM na Nuvem**
+   - **Serviços de IAM na Nuvem**: AWS IAM, Azure AD, Google Cloud IAM.
+   - **Integração com Serviços de Nuvem**: Como integrar IAM com serviços de nuvem para gerenciar identidades e acessos de forma centralizada.
+
+### 8. **Compliance e Regulamentações**
+   - **GDPR, HIPAA, SOX**: Regulamentações que impactam a gestão de identidades e acesso.
+   - **Conformidade**: Garantir que as práticas de IAM estejam em conformidade com as regulamentações aplicáveis.
+
+### 9. **IAM e Dispositivos Móveis**
+   - **Gerenciamento de Identidades em Dispositivos Móveis**: Estratégias para autenticação e autorização em dispositivos móveis.
+   - **Segurança de Aplicativos Móveis**: Implementação de práticas de segurança para proteger dados e acessos em aplicativos móveis.
+
+### 10. **Tendências e Futuro do IAM**
+   - **IAM baseado em IA**: Uso de inteligência artificial para melhorar a segurança e a eficiência do IAM.
+   - **Zero Trust**: Modelo de segurança que assume que nenhuma entidade, dentro ou fora da rede, é confiável por padrão.
+
+Compreender esses conceitos e práticas te dará uma base sólida para entender a gestão de identidades e acesso, cobrindo a maioria dos cenários e desafios que você encontrará na prática.
+

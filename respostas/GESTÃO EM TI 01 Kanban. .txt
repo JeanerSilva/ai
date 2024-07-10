@@ -1,0 +1,42 @@
+ 01 Kanban. 
+ -
+Claro! O Kanban é uma metodologia de gerenciamento de trabalho que se originou no sistema de produção da Toyota e é amplamente utilizada em diversos setores para melhorar a eficiência e a produtividade. Aqui estão os 20% mais importantes aprendizados sobre Kanban que te ajudarão a compreender os 80% necessários:
+
+1. **Visualização do Trabalho**:
+   - **Quadro Kanban**: Utilize um quadro (físico ou digital) para visualizar todas as tarefas. As colunas representam diferentes estágios do processo (por exemplo, "A Fazer", "Em Progresso", "Concluído").
+   - **Cartões Kanban**: Cada tarefa é representada por um cartão que se move pelo quadro conforme o trabalho avança.
+
+2. **Limitação do Trabalho em Progresso (WIP)**:
+   - **WIP Limits**: Defina limites para a quantidade de trabalho que pode estar em progresso em cada estágio. Isso ajuda a identificar gargalos e a evitar sobrecarga de trabalho.
+
+3. **Gestão de Fluxo**:
+   - **Fluxo Contínuo**: O objetivo é manter um fluxo contínuo de trabalho, minimizando interrupções e atrasos.
+   - **Métricas de Fluxo**: Utilize métricas como tempo de ciclo (cycle time) e taxa de transferência (throughput) para monitorar e melhorar o fluxo de trabalho.
+
+4. **Melhoria Contínua**:
+   - **Kaizen**: Adote a filosofia de melhoria contínua, buscando constantemente maneiras de otimizar processos e eliminar desperdícios.
+   - **Reuniões de Revisão**: Realize reuniões regulares para revisar o desempenho e identificar oportunidades de melhoria.
+
+5. **Feedback e Comunicação**:
+   - **Transparência**: Mantenha todos os membros da equipe informados sobre o status das tarefas e quaisquer problemas que surgirem.
+   - **Reuniões Diárias**: Realize reuniões diárias curtas (stand-ups) para discutir o progresso e resolver impedimentos rapidamente.
+
+6. **Adaptabilidade e Flexibilidade**:
+   - **Adaptação ao Contexto**: Kanban é flexível e pode ser adaptado a diferentes tipos de trabalho e contextos, desde desenvolvimento de software até operações de manufatura.
+   - **Evolução Gradual**: Implementações de Kanban podem começar de forma simples e evoluir conforme a equipe se familiariza com a metodologia.
+
+7. **Papéis e Responsabilidades**:
+   - **Sem Papéis Fixos**: Diferente de outras metodologias ágeis, Kanban não prescreve papéis específicos como "Scrum Master" ou "Product Owner". As responsabilidades são distribuídas conforme necessário.
+
+8. **Priorização e Planejamento**:
+   - **Backlog Prioritizado**: Mantenha um backlog de tarefas priorizado para garantir que o trabalho mais importante seja feito primeiro.
+   - **Planejamento Just-in-Time**: Planeje e priorize o trabalho conforme necessário, em vez de fazer um planejamento detalhado a longo prazo.
+
+9. **Redução de Desperdícios**:
+   - **Identificação de Desperdícios**: Identifique e elimine atividades que não agregam valor ao produto final, como esperas desnecessárias e retrabalho.
+
+10. **Entrega Incremental**:
+    - **Entrega Frequente**: Entregue trabalho de forma incremental e frequente para obter feedback rápido e ajustar conforme necessário.
+
+Esses pontos cobrem os princípios e práticas fundamentais do Kanban, proporcionando uma base sólida para entender e implementar a metodologia em qualquer contexto.
+

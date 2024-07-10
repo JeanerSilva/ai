@@ -1,0 +1,47 @@
+ 07 Grandes Modelos de Linguagem (LLM), IA Generativa. 
+ -
+Claro! Vamos focar nos 20% mais importantes aprendizados sobre Grandes Modelos de Linguagem (LLMs) e IA Generativa que te ajudarão a compreender 80% do necessário.
+
+### 1. **Conceito de LLMs e IA Generativa**
+   - **Definição**: LLMs são modelos de inteligência artificial treinados em grandes quantidades de texto para entender e gerar linguagem natural. IA Generativa refere-se à capacidade desses modelos de criar novos conteúdos, como texto, imagens, música, etc.
+   - **Exemplos**: GPT-3, BERT, T5, etc.
+
+### 2. **Arquitetura de Transformadores**
+   - **Transformers**: A arquitetura base para muitos LLMs. Utiliza mecanismos de atenção para processar dados sequencialmente, permitindo melhor compreensão de contexto e dependências a longo prazo.
+   - **Atenção**: Mecanismo que permite ao modelo focar em partes específicas do input ao gerar output, melhorando a relevância e coesão do texto gerado.
+
+### 3. **Treinamento e Dados**
+   - **Pré-treinamento**: LLMs são pré-treinados em grandes corpora de texto para aprender padrões de linguagem.
+   - **Fine-tuning**: Ajuste fino do modelo em tarefas específicas (como tradução, resumo, etc.) usando conjuntos de dados menores e mais específicos.
+
+### 4. **Capacidades e Aplicações**
+   - **Geração de Texto**: Criação de artigos, histórias, código, etc.
+   - **Compreensão de Texto**: Responder perguntas, sumarizar textos, tradução automática.
+   - **Interação Conversacional**: Chatbots e assistentes virtuais.
+
+### 5. **Limitações e Desafios**
+   - **Bias e Ética**: LLMs podem perpetuar vieses presentes nos dados de treinamento.
+   - **Custo Computacional**: Treinamento e execução de LLMs requerem recursos computacionais significativos.
+   - **Interpretação e Controle**: Dificuldade em entender e controlar as respostas geradas pelo modelo.
+
+### 6. **Principais Modelos**
+   - **GPT-3 (OpenAI)**: Um dos maiores e mais conhecidos LLMs, com 175 bilhões de parâmetros.
+   - **BERT (Google)**: Focado em compreensão de linguagem, usado para tarefas como classificação de texto e resposta a perguntas.
+   - **T5 (Google)**: Modelo unificado para várias tarefas de NLP, transformando todas as tarefas em problemas de geração de texto.
+
+### 7. **Futuro e Tendências**
+   - **Modelos Multimodais**: Integração de texto com outras formas de dados, como imagens e áudio.
+   - **Redução de Vieses**: Desenvolvimento de técnicas para identificar e mitigar vieses nos modelos.
+   - **Eficiência Computacional**: Pesquisa em modelos mais eficientes e menos intensivos em recursos.
+
+### Resumo dos 20% mais importantes:
+1. **Definição e Exemplos de LLMs e IA Generativa**.
+2. **Arquitetura de Transformadores e Mecanismo de Atenção**.
+3. **Processo de Treinamento: Pré-treinamento e Fine-tuning**.
+4. **Principais Capacidades e Aplicações**.
+5. **Limitações e Desafios Éticos e Computacionais**.
+6. **Conhecimento dos Principais Modelos (GPT-3, BERT, T5)**.
+7. **Tendências Futuras: Modelos Multimodais, Redução de Vieses, Eficiência Computacional**.
+
+Compreendendo esses pontos, você terá uma base sólida para entender a maioria dos conceitos e aplicações relacionadas a Grandes Modelos de Linguagem e IA Generativa.
+

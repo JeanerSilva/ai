@@ -1,0 +1,76 @@
+ 04.4 BDD.
+ -
+Behavior-Driven Development (BDD) é uma metodologia de desenvolvimento ágil que visa melhorar a comunicação entre desenvolvedores, testadores e stakeholders não técnicos. Aqui estão os 20% mais importantes aprendizados sobre BDD que te ajudarão a compreender os 80% necessários:
+
+1. **Definição de BDD**:
+   - BDD é uma extensão do Test-Driven Development (TDD) que se concentra na colaboração entre desenvolvedores, QA e stakeholders não técnicos.
+   - Utiliza uma linguagem comum e compreensível por todos os envolvidos no projeto, geralmente baseada em Gherkin.
+
+2. **Linguagem Gherkin**:
+   - Gherkin é uma linguagem de domínio específico usada para escrever especificações de comportamento.
+   - Estrutura básica: Cenário, Dado (Given), Quando (When), Então (Then), E (And), Mas (But).
+
+3. **Cenários e Exemplos**:
+   - Os cenários descrevem comportamentos específicos do sistema em situações particulares.
+   - Exemplos são usados para ilustrar esses cenários com dados concretos.
+
+4. **Colaboração e Comunicação**:
+   - BDD promove a colaboração contínua entre todos os membros da equipe.
+   - Workshops de descoberta e sessões de refinamento são práticas comuns para garantir que todos entendam os requisitos.
+
+5. **Ferramentas de BDD**:
+   - Ferramentas populares incluem Cucumber, SpecFlow, JBehave, e Behat.
+   - Essas ferramentas permitem a execução de especificações escritas em Gherkin como testes automatizados.
+
+6. **Ciclo de Desenvolvimento BDD**:
+   - O ciclo típico envolve escrever um cenário de teste, implementar a funcionalidade para passar no teste, e refatorar o código.
+   - Similar ao ciclo Red-Green-Refactor do TDD, mas com foco em comportamento.
+
+7. **Benefícios do BDD**:
+   - Melhora a clareza dos requisitos e reduz mal-entendidos.
+   - Facilita a criação de documentação viva que evolui com o sistema.
+   - Aumenta a qualidade do software ao garantir que todos os comportamentos esperados sejam testados.
+
+8. **Especificações Executáveis**:
+   - As especificações em BDD são executáveis, o que significa que podem ser usadas como testes automatizados.
+   - Isso garante que a documentação esteja sempre atualizada e alinhada com o código.
+
+9. **Critérios de Aceitação**:
+   - Critérios de aceitação são definidos em termos de comportamento esperado e são usados para validar se uma funcionalidade está completa.
+   - São escritos em Gherkin e servem como base para os cenários de teste.
+
+10. **Integração Contínua e BDD**:
+    - BDD se integra bem com práticas de integração contínua (CI), permitindo que os testes de comportamento sejam executados automaticamente em cada build.
+
+11. **Refatoração e Manutenção**:
+    - Como os testes são escritos em uma linguagem comum, a refatoração e manutenção dos testes são mais fáceis e menos propensas a erros.
+
+12. **Foco no Usuário**:
+    - BDD mantém o foco no comportamento do sistema do ponto de vista do usuário final, garantindo que o desenvolvimento esteja alinhado com as necessidades do negócio.
+
+13. **Documentação Viva**:
+    - A documentação criada através de BDD é sempre atualizada e reflete o estado atual do sistema, facilitando a manutenção e a comunicação.
+
+14. **Automação de Testes**:
+    - BDD incentiva a automação de testes desde o início, o que ajuda a detectar problemas mais cedo e reduzir o custo de correção.
+
+15. **Feedback Rápido**:
+    - A execução contínua de testes de comportamento fornece feedback rápido sobre a qualidade e a funcionalidade do sistema.
+
+16. **Desenvolvimento Orientado a Exemplos (Example-Driven Development)**:
+    - BDD é frequentemente associado ao desenvolvimento orientado a exemplos, onde exemplos concretos são usados para esclarecer requisitos e guiar o desenvolvimento.
+
+17. **Testes de Aceitação**:
+    - Testes de aceitação em BDD são escritos em colaboração com stakeholders e são usados para validar que o sistema atende aos requisitos do negócio.
+
+18. **Cultura de Qualidade**:
+    - BDD promove uma cultura de qualidade e responsabilidade compartilhada entre todos os membros da equipe.
+
+19. **Redução de Retrabalho**:
+    - Ao garantir que todos os requisitos sejam claramente entendidos e testados, BDD ajuda a reduzir o retrabalho e os custos associados a correções tardias.
+
+20. **Adaptação e Evolução**:
+    - BDD é uma prática adaptável que pode evoluir com as necessidades do projeto e da equipe, permitindo melhorias contínuas no processo de desenvolvimento.
+
+Com esses aprendizados, você terá uma base sólida para entender e aplicar BDD em seus projetos, melhorando a
+

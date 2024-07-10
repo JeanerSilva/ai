@@ -1,0 +1,56 @@
+ 04 ITIL v4 -
+Claro! A ITIL (Information Technology Infrastructure Library) é um conjunto de práticas detalhadas para a gestão de serviços de TI que se concentra no alinhamento dos serviços de TI com as necessidades do negócio. A versão mais recente, ITIL 4, introduz uma abordagem mais flexível e holística para a gestão de serviços. Aqui estão os 20% mais importantes aprendizados que ajudarão você a compreender os 80% necessários:
+
+### 1. **Os Quatro Dimensões da Gestão de Serviços**
+   - **Organizações e Pessoas**: Enfatiza a importância da cultura organizacional e das competências das pessoas.
+   - **Informação e Tecnologia**: Foca nas ferramentas e tecnologias necessárias para a gestão de serviços.
+   - **Parceiros e Fornecedores**: Destaca a importância das relações com terceiros.
+   - **Fluxos de Valor e Processos**: Concentra-se em como os diferentes componentes e atividades trabalham juntos para criar valor.
+
+### 2. **O Sistema de Valor de Serviço (SVS)**
+   - **Componentes do SVS**: Inclui a cadeia de valor de serviço, práticas, princípios orientadores, governança e melhoria contínua.
+   - **Objetivo do SVS**: Facilitar a criação de valor através da gestão de serviços.
+
+### 3. **Princípios Orientadores**
+   - **Foco no Valor**: Sempre considerar o que é valioso para o cliente.
+   - **Começar de Onde Você Está**: Avaliar a situação atual antes de fazer mudanças.
+   - **Progredir Iterativamente com Feedback**: Fazer melhorias em pequenos passos, com base em feedback contínuo.
+   - **Colaborar e Promover Visibilidade**: Trabalhar em conjunto e manter a transparência.
+   - **Pensar e Trabalhar Holisticamente**: Considerar o sistema como um todo.
+   - **Manter Simplicidade e Praticidade**: Evitar complexidade desnecessária.
+   - **Otimizar e Automatizar**: Melhorar processos e automatizar onde possível.
+
+### 4. **Cadeia de Valor de Serviço**
+   - **Atividades da Cadeia de Valor**: Planejar, melhorar, engajar, projetar e transicionar, obter/construir, entregar e suportar.
+   - **Objetivo**: Cada atividade contribui para a criação de valor através da entrega e suporte de serviços.
+
+### 5. **Práticas de Gestão de Serviços**
+   - **Gestão de Incidentes**: Resolver interrupções de serviço o mais rápido possível.
+   - **Gestão de Problemas**: Identificar e gerenciar causas raiz de incidentes.
+   - **Gestão de Mudanças**: Controlar o ciclo de vida de todas as mudanças.
+   - **Gestão de Ativos de TI**: Gerenciar ativos de TI para maximizar valor.
+   - **Gestão de Configuração de Serviço**: Manter informações precisas sobre a configuração de serviços.
+   - **Gestão de Nível de Serviço**: Garantir que os serviços sejam entregues conforme acordado.
+   - **Gestão de Continuidade de Serviço**: Garantir que os serviços possam ser mantidos ou rapidamente restaurados após uma interrupção.
+
+### 6. **Melhoria Contínua**
+   - **Modelo de Melhoria Contínua**: Identificar oportunidades de melhoria, planejar e implementar mudanças, e revisar os resultados.
+   - **Ciclo PDCA (Plan-Do-Check-Act)**: Planejar, executar, verificar e agir para melhorias contínuas.
+
+### 7. **Governança**
+   - **Estrutura de Governança**: Define como as políticas e diretrizes são estabelecidas e como a conformidade é garantida.
+   - **Papel da Governança**: Assegurar que a organização esteja alinhada com seus objetivos estratégicos.
+
+### 8. **Gestão de Riscos**
+   - **Identificação e Avaliação de Riscos**: Identificar, avaliar e mitigar riscos que possam impactar os serviços.
+
+### 9. **Engajamento e Experiência do Cliente**
+   - **Foco no Cliente**: Entender e melhorar a experiência do cliente.
+   - **Gestão de Relacionamento**: Manter boas relações com os clientes e partes interessadas.
+
+### 10. **Tecnologia e Automação**
+   - **Uso de Ferramentas**: Utilizar ferramentas de TI para suportar a gestão de serviços.
+   - **Automação de Processos**: Automatizar processos repetitivos para aumentar a eficiência.
+
+Esses pontos cobrem os conceitos fundamentais e as práticas mais importantes da ITIL 4. Compreender esses elementos fornecerá uma base sólida para aplicar a ITIL 4 na gestão de serviços de TI e ajudar a alcançar os objetivos de negócio.
+

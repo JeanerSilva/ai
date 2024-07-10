@@ -1,0 +1,46 @@
+ 03.5 Certificados em Rede Microsoft Windows Server
+ -
+Claro! O princípio de Pareto, ou a regra 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado sobre certificados em rede no Microsoft Windows Server, aqui estão os 20% mais importantes que você deve focar para obter uma compreensão sólida:
+
+### 1. **Conceitos Básicos de Certificados Digitais**
+   - **Certificados Digitais**: Entenda o que são certificados digitais, sua função na autenticação e criptografia, e como eles garantem a segurança das comunicações em rede.
+   - **PKI (Public Key Infrastructure)**: Compreenda a infraestrutura de chave pública, que é o sistema que gerencia chaves públicas e certificados digitais.
+
+### 2. **Autoridade Certificadora (CA)**
+   - **CA Interna vs. CA Externa**: Saiba a diferença entre uma CA interna (gerenciada dentro da organização) e uma CA externa (gerenciada por terceiros).
+   - **Hierarquia de CA**: Entenda a hierarquia de CA, incluindo CA raiz, CA intermediária e CA subordinada, e como elas trabalham juntas para emitir certificados.
+
+### 3. **Instalação e Configuração do AD CS (Active Directory Certificate Services)**
+   - **AD CS**: Aprenda a instalar e configurar o AD CS no Windows Server, que é o serviço que permite criar e gerenciar certificados digitais.
+   - **Modelos de Certificados**: Conheça os diferentes modelos de certificados disponíveis e como configurá-los para atender às necessidades específicas da sua organização.
+
+### 4. **Emissão e Gerenciamento de Certificados**
+   - **Solicitação de Certificados**: Entenda o processo de solicitação de certificados, incluindo a criação de uma CSR (Certificate Signing Request).
+   - **Renovação e Revogação de Certificados**: Saiba como renovar certificados antes que expirem e como revogar certificados comprometidos.
+
+### 5. **Implementação de Certificados em Serviços de Rede**
+   - **HTTPS e SSL/TLS**: Compreenda como implementar certificados para habilitar HTTPS e garantir comunicações seguras via SSL/TLS.
+   - **Autenticação de Rede**: Aprenda a usar certificados para autenticação de rede, incluindo autenticação de usuários e dispositivos.
+
+### 6. **Gerenciamento de Ciclo de Vida de Certificados**
+   - **Monitoramento e Auditoria**: Saiba como monitorar o uso de certificados e auditar eventos relacionados a certificados para garantir a segurança contínua.
+   - **Backup e Recuperação**: Entenda a importância de fazer backup dos certificados e das chaves privadas e como recuperá-los em caso de perda.
+
+### 7. **Políticas e Práticas de Certificados**
+   - **Políticas de Certificados**: Conheça as políticas que definem como os certificados devem ser usados e gerenciados dentro da organização.
+   - **Práticas de Certificados**: Entenda as práticas recomendadas para a emissão, renovação, revogação e gerenciamento de certificados.
+
+### 8. **Ferramentas e Utilitários**
+   - **Certutil**: Familiarize-se com o comando `certutil`, uma ferramenta de linha de comando para gerenciar certificados e CAs.
+   - **MMC (Microsoft Management Console)**: Aprenda a usar o snap-in de certificados no MMC para gerenciar certificados no Windows Server.
+
+### 9. **Segurança e Conformidade**
+   - **Segurança de Chaves Privadas**: Compreenda a importância de proteger as chaves privadas associadas aos certificados.
+   - **Conformidade com Normas e Regulamentos**: Saiba como garantir que a implementação de certificados esteja em conformidade com normas e regulamentos de segurança.
+
+### 10. **Resolução de Problemas Comuns**
+   - **Erros de Certificados**: Aprenda a diagnosticar e resolver erros comuns relacionados a certificados, como problemas de confiança e validade.
+   - **Compatibilidade de Certificados**: Entenda como garantir que os certificados sejam compatíveis com diferentes sistemas e dispositivos na rede.
+
+Focando nesses tópicos, você cobrirá os aspectos mais críticos e obterá uma base sólida para entender e gerenciar certificados em rede no Microsoft Windows Server.
+

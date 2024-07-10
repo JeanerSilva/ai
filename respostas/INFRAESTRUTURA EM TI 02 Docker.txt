@@ -1,0 +1,46 @@
+ 02 Docker
+ -
+Claro, vou te ajudar a entender os conceitos mais importantes sobre Docker, que representam aproximadamente 20% do conhecimento necessário, mas que te darão uma base sólida para compreender 80% do funcionamento e uso do Docker. Aqui estão os pontos principais:
+
+1. **Conceito de Containerização**:
+   - **Definição**: Docker é uma plataforma que utiliza a tecnologia de containerização para empacotar aplicações e suas dependências em contêineres.
+   - **Benefícios**: Isolamento, portabilidade, consistência entre ambientes de desenvolvimento e produção.
+
+2. **Imagens Docker**:
+   - **Definição**: Uma imagem Docker é um template imutável que contém tudo o que é necessário para rodar uma aplicação, incluindo código, runtime, bibliotecas e configurações.
+   - **Criação**: Imagens são criadas a partir de um Dockerfile, que é um script com instruções para construir a imagem.
+
+3. **Dockerfile**:
+   - **Definição**: Um arquivo de texto que contém uma série de comandos que o Docker CLI executa para montar uma imagem.
+   - **Comandos Básicos**: `FROM`, `RUN`, `COPY`, `CMD`, `EXPOSE`.
+
+4. **Contêineres Docker**:
+   - **Definição**: Instâncias em execução de imagens Docker. Eles são leves e compartilham o kernel do sistema operacional, mas são isolados uns dos outros.
+   - **Comandos Básicos**: `docker run`, `docker stop`, `docker start`, `docker rm`.
+
+5. **Docker Hub**:
+   - **Definição**: Um repositório público onde você pode armazenar e compartilhar imagens Docker.
+   - **Uso**: `docker pull` para baixar imagens e `docker push` para enviar imagens para o Docker Hub.
+
+6. **Volumes Docker**:
+   - **Definição**: Mecanismo para persistir dados gerados e usados por contêineres.
+   - **Comandos Básicos**: `docker volume create`, `docker volume ls`, `docker volume rm`.
+
+7. **Redes Docker**:
+   - **Definição**: Docker permite a criação de redes virtuais para que contêineres possam se comunicar entre si.
+   - **Tipos de Redes**: `bridge`, `host`, `none`, e redes definidas pelo usuário.
+   - **Comandos Básicos**: `docker network create`, `docker network ls`, `docker network rm`.
+
+8. **Docker Compose**:
+   - **Definição**: Ferramenta para definir e gerenciar multi-contêineres Docker. Utiliza um arquivo YAML (`docker-compose.yml`) para configurar os serviços.
+   - **Comandos Básicos**: `docker-compose up`, `docker-compose down`, `docker-compose build`.
+
+9. **Orquestração de Contêineres**:
+   - **Definição**: Ferramentas como Kubernetes e Docker Swarm são usadas para gerenciar múltiplos contêineres em ambientes de produção.
+   - **Conceitos Básicos**: Clusters, Nodes, Pods (no Kubernetes), Serviços, Deployments.
+
+10. **Segurança em Docker**:
+    - **Práticas Recomendadas**: Uso de imagens oficiais, escaneamento de vulnerabilidades, controle de acesso, e isolamento de contêineres.
+
+Esses tópicos cobrem os fundamentos essenciais do Docker. Compreender esses conceitos te permitirá configurar, gerenciar e escalar aplicações usando Docker de maneira eficiente.
+

@@ -1,0 +1,81 @@
+ 02.2 Kubernetes
+ -
+Claro! A aplicação do princípio de Pareto (80/20) ao aprendizado de Kubernetes pode ajudar a focar nos aspectos mais críticos que proporcionarão uma compreensão sólida da plataforma. Aqui estão os 20% mais importantes aprendizados sobre Kubernetes que te ajudarão a compreender 80% do necessário:
+
+1. **Conceito de Contêineres**:
+   - Entenda o que são contêineres e como eles diferem de máquinas virtuais.
+   - Conheça o Docker, a ferramenta mais comum para criar e gerenciar contêineres.
+
+2. **Arquitetura do Kubernetes**:
+   - Compreenda os principais componentes do Kubernetes: Master Node (Control Plane) e Worker Nodes.
+   - Conheça os papéis do kube-apiserver, etcd, kube-scheduler, kube-controller-manager, kubelet, e kube-proxy.
+
+3. **Pods**:
+   - Saiba que um Pod é a menor unidade de implantação em Kubernetes e pode conter um ou mais contêineres.
+   - Entenda o ciclo de vida dos Pods e como eles são gerenciados.
+
+4. **Deployments**:
+   - Aprenda a usar Deployments para gerenciar a criação e a atualização de Pods.
+   - Conheça os conceitos de ReplicaSets e como eles garantem a disponibilidade dos Pods.
+
+5. **Services**:
+   - Entenda como os Services permitem a comunicação entre diferentes Pods e com o mundo externo.
+   - Conheça os tipos de Services: ClusterIP, NodePort, LoadBalancer e ExternalName.
+
+6. **Namespaces**:
+   - Saiba como os Namespaces são usados para dividir um cluster Kubernetes em ambientes lógicos separados.
+
+7. **ConfigMaps e Secrets**:
+   - Aprenda a usar ConfigMaps para gerenciar dados de configuração.
+   - Entenda como os Secrets são usados para armazenar informações sensíveis, como senhas e tokens.
+
+8. **Volumes e Persistent Volumes**:
+   - Compreenda como os Volumes são usados para persistir dados além do ciclo de vida dos Pods.
+   - Conheça os Persistent Volumes (PVs) e Persistent Volume Claims (PVCs) para gerenciar armazenamento persistente.
+
+9. **Ingress**:
+   - Entenda como o Ingress é usado para gerenciar o acesso externo aos serviços dentro do cluster.
+   - Conheça os conceitos de Ingress Controllers e Ingress Resources.
+
+10. **Kubectl**:
+    - Familiarize-se com o `kubectl`, a ferramenta de linha de comando para interagir com o cluster Kubernetes.
+    - Aprenda os comandos básicos como `kubectl get`, `kubectl describe`, `kubectl apply`, `kubectl delete`.
+
+11. **YAML**:
+    - Saiba como escrever arquivos YAML para definir recursos do Kubernetes.
+    - Entenda a estrutura básica de um arquivo YAML e como ele é usado para descrever Deployments, Services, ConfigMaps, etc.
+
+12. **Autoescalamento**:
+    - Aprenda sobre Horizontal Pod Autoscaler (HPA) para escalar automaticamente o número de Pods com base na carga.
+    - Conheça o Cluster Autoscaler para ajustar o número de nós no cluster.
+
+13. **Monitoramento e Logging**:
+    - Entenda a importância do monitoramento e logging em Kubernetes.
+    - Conheça ferramentas comuns como Prometheus para monitoramento e ELK Stack (Elasticsearch, Logstash, Kibana) para logging.
+
+14. **Segurança**:
+    - Aprenda os conceitos básicos de segurança em Kubernetes, incluindo RBAC (Role-Based Access Control).
+    - Entenda como usar Network Policies para controlar o tráfego de rede entre Pods.
+
+15. **Helm**:
+    - Conheça o Helm, o gerenciador de pacotes para Kubernetes.
+    - Aprenda a usar Charts para definir, instalar e atualizar aplicações Kubernetes.
+
+16. **Ciclo de Vida de Aplicações**:
+    - Entenda como gerenciar o ciclo de vida das aplicações, incluindo deploys, rollbacks e upgrades.
+
+17. **Networking**:
+    - Compreenda os conceitos básicos de networking em Kubernetes, incluindo CNI (Container Network Interface).
+    - Conheça os principais plugins de rede como Calico, Flannel e Weave.
+
+18. **StatefulSets**:
+    - Saiba como usar StatefulSets para gerenciar aplicações com estado, como bancos de dados.
+
+19. **DaemonSets**:
+    - Entenda como usar DaemonSets para garantir que um Pod específico rode em todos (ou alguns) nós do cluster.
+
+20. **Jobs e CronJobs**:
+    - Aprenda a usar Jobs para tarefas de execução única e CronJobs para tarefas agendadas.
+
+Focando nesses tópicos, você terá uma base sólida para entender e trabalhar com Kubernetes, cobrindo a maioria das necessidades práticas e teóricas.
+

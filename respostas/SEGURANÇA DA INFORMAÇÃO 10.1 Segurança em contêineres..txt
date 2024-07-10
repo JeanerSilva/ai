@@ -1,0 +1,46 @@
+ 10.1 Segurança em contêineres.
+ -
+Claro, a segurança em contêineres é um tópico crucial no ambiente de TI moderno, especialmente com a crescente adoção de tecnologias de contêinerização como Docker e Kubernetes. Aqui estão os 20% mais importantes aprendizados que fornecerão uma base sólida para entender 80% do assunto:
+
+1. **Isolamento de Contêineres**:
+   - **Namespaces**: Entenda como namespaces no Linux fornecem isolamento de recursos, permitindo que contêineres tenham suas próprias visões de processos, rede, usuários, etc.
+   - **Cgroups**: Conheça os grupos de controle (cgroups) que limitam e isolam o uso de recursos (CPU, memória, disco) por contêineres.
+
+2. **Imagens de Contêineres Seguras**:
+   - **Imagens de Base Confiáveis**: Use imagens de base oficiais e confiáveis para minimizar vulnerabilidades.
+   - **Escaneamento de Vulnerabilidades**: Implemente ferramentas de escaneamento de vulnerabilidades para verificar imagens de contêineres antes de usá-las em produção.
+
+3. **Gerenciamento de Segredos**:
+   - **Armazenamento Seguro de Credenciais**: Utilize ferramentas como Docker Secrets ou Kubernetes Secrets para armazenar e gerenciar credenciais de forma segura.
+   - **Evitar Inclusão de Segredos em Imagens**: Nunca inclua segredos diretamente nas imagens de contêineres.
+
+4. **Políticas de Rede**:
+   - **Segurança de Rede**: Configure políticas de rede para controlar o tráfego entre contêineres e limitar a exposição a redes externas.
+   - **Firewalls e Regras de Segurança**: Utilize firewalls e regras de segurança para proteger a comunicação entre contêineres e serviços externos.
+
+5. **Controle de Acesso e Autenticação**:
+   - **Princípio do Menor Privilégio**: Aplique o princípio do menor privilégio, garantindo que contêineres e usuários tenham apenas as permissões necessárias.
+   - **Autenticação e Autorização**: Implemente mecanismos robustos de autenticação e autorização para acesso a contêineres e orquestradores.
+
+6. **Atualizações e Patching**:
+   - **Manter Contêineres Atualizados**: Regularmente atualize contêineres e suas dependências para corrigir vulnerabilidades conhecidas.
+   - **Automatização de Patching**: Utilize ferramentas de CI/CD para automatizar o processo de atualização e patching de contêineres.
+
+7. **Monitoramento e Logging**:
+   - **Monitoramento Contínuo**: Implemente soluções de monitoramento para detectar comportamentos anômalos e possíveis ameaças em tempo real.
+   - **Centralização de Logs**: Centralize logs de contêineres para facilitar a análise e auditoria de segurança.
+
+8. **Orquestração Segura**:
+   - **Configuração Segura do Orquestrador**: Configure orquestradores como Kubernetes com práticas de segurança recomendadas, incluindo RBAC (Role-Based Access Control) e políticas de segurança de pod.
+   - **Segurança de API**: Proteja as APIs do orquestrador contra acessos não autorizados e ataques.
+
+9. **Imutabilidade e Controle de Versão**:
+   - **Imagens Imutáveis**: Adote a prática de imagens imutáveis para garantir que contêineres sejam consistentes e previsíveis.
+   - **Controle de Versão**: Utilize controle de versão para rastrear mudanças em imagens e configurações de contêineres.
+
+10. **Backup e Recuperação**:
+    - **Planos de Backup**: Tenha planos de backup e recuperação para dados críticos armazenados em contêineres.
+    - **Testes de Recuperação**: Regularmente teste seus planos de recuperação para garantir que funcionem conforme esperado.
+
+Esses pontos cobrem os aspectos mais críticos da segurança em contêineres e fornecerão uma base sólida para aprofundar seu conhecimento e práticas de segurança.
+

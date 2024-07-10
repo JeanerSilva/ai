@@ -1,0 +1,85 @@
+ 11.2 Ansible.
+ -
+Claro! Ansible é uma ferramenta de automação de TI que pode ser usada para configuração de sistemas, implantação de software e orquestração de tarefas mais avançadas, como atualizações contínuas ou provisionamento de infraestrutura. A versão 11.2 do Ansible pode ter algumas especificidades, mas os conceitos fundamentais geralmente permanecem consistentes. Aqui estão os 20% mais importantes aprendizados que ajudarão você a compreender 80% do necessário sobre Ansible:
+
+1. **Arquitetura do Ansible**:
+   - **Control Node**: O nó de controle onde o Ansible é instalado e de onde os comandos são executados.
+   - **Managed Nodes**: Os nós gerenciados que são configurados e gerenciados pelo Ansible.
+
+2. **Playbooks**:
+   - Arquivos YAML que definem a automação de tarefas.
+   - Estrutura básica: `hosts`, `tasks`, `vars`, `handlers`.
+
+3. **Inventário**:
+   - Arquivo que lista os nós gerenciados.
+   - Pode ser um arquivo estático (INI ou YAML) ou dinâmico (script).
+
+4. **Módulos**:
+   - Unidades de trabalho que Ansible executa em nós gerenciados.
+   - Exemplos: `apt`, `yum`, `service`, `copy`, `template`.
+
+5. **Roles**:
+   - Estrutura para organizar playbooks e outros arquivos em componentes reutilizáveis.
+   - Diretórios típicos: `tasks`, `handlers`, `files`, `templates`, `vars`, `defaults`, `meta`.
+
+6. **Variáveis**:
+   - Definidas em playbooks, inventários, ou passadas via linha de comando.
+   - Escopo e precedência são importantes para entender como as variáveis são resolvidas.
+
+7. **Templates**:
+   - Usados para gerar arquivos de configuração dinâmicos.
+   - Baseados no motor de templates Jinja2.
+
+8. **Handlers**:
+   - Tarefas que são acionadas por notificações de outras tarefas.
+   - Usados para ações que devem ser realizadas apenas uma vez após várias mudanças (ex: reiniciar um serviço).
+
+9. **Loops**:
+   - Permitem repetir tarefas múltiplas vezes.
+   - Sintaxe básica: `with_items`, `loop`.
+
+10. **Condições**:
+    - Permitem executar tarefas baseadas em condições.
+    - Sintaxe básica: `when`.
+
+11. **Tags**:
+    - Permitem executar subconjuntos de tarefas em um playbook.
+    - Útil para depuração e execução seletiva.
+
+12. **Idempotência**:
+    - Conceito chave onde as operações podem ser repetidas múltiplas vezes sem alterar o resultado além da aplicação inicial.
+
+13. **Ansible Galaxy**:
+    - Repositório público para compartilhar roles.
+    - Comando `ansible-galaxy` para baixar e gerenciar roles.
+
+14. **Vault**:
+    - Ferramenta para criptografar dados sensíveis, como senhas.
+    - Comandos `ansible-vault encrypt`, `decrypt`, `edit`.
+
+15. **Estratégias de Execução**:
+    - `linear` (padrão) e `free`.
+    - Controlam como as tarefas são executadas nos nós gerenciados.
+
+16. **Delegação**:
+    - Permite executar tarefas em um nó diferente do nó alvo.
+    - Sintaxe: `delegate_to`.
+
+17. **Ansible Configuration File**:
+    - Arquivo `ansible.cfg` para configurar opções globais.
+    - Pode definir caminhos de inventário, configurações de SSH, etc.
+
+18. **Dynamic Inventory**:
+    - Scripts que geram inventários dinamicamente.
+    - Útil para ambientes em nuvem onde a infraestrutura é dinâmica.
+
+19. **Ansible Tower/AWX**:
+    - Interface web e REST API para gerenciar Ansible.
+    - Oferece recursos adicionais como controle de acesso baseado em função, agendamento de tarefas, etc.
+
+20. **Documentação e Comunidade**:
+    - A documentação oficial do Ansible é extensa e bem mantida.
+    - A comunidade é ativa e muitos recursos estão disponíveis em fóruns, GitHub, e outros repositórios de conhecimento.
+
+Compreender esses conceitos fundamentais lhe dará uma base sólida para explorar e utilizar o Ansible de maneira eficaz.
+

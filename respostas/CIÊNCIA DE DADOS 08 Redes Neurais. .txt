@@ -1,0 +1,38 @@
+ 08 Redes Neurais. 
+ -
+Claro! Vamos focar nos conceitos mais importantes sobre redes neurais que te ajudarão a entender a maior parte do assunto. Aqui estão os 20% mais importantes:
+
+1. **Perceptron**:
+   - **Definição**: Unidade básica de uma rede neural, que realiza uma única decisão linear.
+   - **Funcionamento**: Recebe entradas, aplica pesos, soma e passa por uma função de ativação.
+
+2. **Funções de Ativação**:
+   - **Sigmoid, ReLU, Tanh**: Transformam a soma ponderada das entradas em uma saída não-linear.
+   - **Importância**: Introduzem não-linearidade, permitindo que a rede aprenda padrões complexos.
+
+3. **Arquitetura de Redes Neurais**:
+   - **Camadas**: Entrada, ocultas e saída.
+   - **Profundidade**: Redes profundas (muitas camadas) podem aprender representações mais complexas.
+
+4. **Treinamento de Redes Neurais**:
+   - **Forward Propagation**: Passagem dos dados de entrada até a saída.
+   - **Backward Propagation**: Ajuste dos pesos com base no erro da saída (usando gradiente descendente).
+
+5. **Função de Custo (Loss Function)**:
+   - **Definição**: Mede a diferença entre a saída prevista e a real.
+   - **Exemplos**: Mean Squared Error (MSE), Cross-Entropy.
+
+6. **Gradiente Descendente**:
+   - **Definição**: Método de otimização para minimizar a função de custo.
+   - **Variantes**: Stochastic Gradient Descent (SGD), Mini-batch Gradient Descent.
+
+7. **Overfitting e Underfitting**:
+   - **Overfitting**: Modelo muito complexo que se ajusta demais aos dados de treinamento.
+   - **Underfitting**: Modelo muito simples que não captura a complexidade dos dados.
+
+8. **Regularização**:
+   - **Técnicas**: Dropout, L1/L2 regularization.
+   - **Objetivo**: Evitar overfitting, melhorando a generalização do modelo.
+
+Esses conceitos são fundamentais para entender como as redes neurais funcionam e como são treinadas. Compreendendo esses pontos, você terá uma base sólida para explorar tópicos mais avançados em redes neurais.
+

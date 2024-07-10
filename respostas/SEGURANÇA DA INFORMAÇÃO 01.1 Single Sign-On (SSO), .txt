@@ -1,0 +1,53 @@
+ 01.1 Single Sign-On (SSO), 
+ -
+Claro, vou focar nos pontos mais importantes sobre Single Sign-On (SSO) que te ajudarão a entender a maior parte do conceito e sua aplicação. Aqui estão os 20% mais importantes que cobrem 80% do entendimento necessário:
+
+### 1. **Definição de SSO**
+   - **O que é SSO?**: Single Sign-On é um método de autenticação que permite a um usuário acessar múltiplas aplicações com uma única credencial de login. Isso elimina a necessidade de fazer login separadamente em cada aplicação.
+
+### 2. **Benefícios do SSO**
+   - **Facilidade de Uso**: Reduz a necessidade de lembrar múltiplas senhas, melhorando a experiência do usuário.
+   - **Segurança**: Centraliza a autenticação, permitindo um controle mais rigoroso e a implementação de políticas de segurança mais robustas.
+   - **Produtividade**: Aumenta a eficiência dos usuários, reduzindo o tempo gasto em logins repetitivos.
+
+### 3. **Funcionamento Básico**
+   - **Autenticação Centralizada**: O usuário autentica-se uma vez em um servidor de autenticação centralizado.
+   - **Tokens de Acesso**: Após a autenticação, um token de acesso é gerado e usado para acessar outras aplicações sem a necessidade de novas autenticações.
+
+### 4. **Protocolos Comuns**
+   - **SAML (Security Assertion Markup Language)**: Um protocolo XML que permite a troca de informações de autenticação e autorização entre diferentes partes.
+   - **OAuth**: Um protocolo que permite que aplicações acessem recursos em nome de um usuário sem compartilhar a senha.
+   - **OpenID Connect**: Uma camada de identidade sobre o OAuth 2.0 que permite a verificação da identidade do usuário.
+
+### 5. **Componentes Principais**
+   - **Identity Provider (IdP)**: O serviço que autentica o usuário e emite tokens de acesso.
+   - **Service Provider (SP)**: As aplicações que o usuário deseja acessar usando o SSO.
+   - **Tokens**: Credenciais temporárias que permitem o acesso às aplicações.
+
+### 6. **Fluxo de Autenticação**
+   - **Login Inicial**: O usuário faz login no IdP.
+   - **Token Emissão**: O IdP emite um token de acesso.
+   - **Acesso às Aplicações**: O token é usado para acessar outras aplicações sem a necessidade de novos logins.
+
+### 7. **Segurança**
+   - **Criptografia**: Tokens e dados de autenticação são geralmente criptografados para proteger contra interceptações.
+   - **Políticas de Senha**: Mesmo com SSO, é importante manter políticas de senha fortes e seguras.
+   - **Autenticação Multifator (MFA)**: Adicionar MFA ao SSO pode aumentar significativamente a segurança.
+
+### 8. **Desafios e Considerações**
+   - **Ponto Único de Falha**: Se o IdP falhar, o acesso a todas as aplicações pode ser comprometido.
+   - **Complexidade de Implementação**: Integrar SSO com múltiplas aplicações pode ser complexo e requer planejamento cuidadoso.
+   - **Gerenciamento de Sessões**: É crucial gerenciar sessões de forma eficaz para evitar acessos não autorizados.
+
+### 9. **Casos de Uso Comuns**
+   - **Empresas**: Para acesso a múltiplos sistemas internos como e-mail, CRM, ERP, etc.
+   - **Educação**: Para acesso a portais de estudantes, bibliotecas digitais, e sistemas de gestão de aprendizagem.
+   - **Serviços Online**: Para permitir que usuários acessem múltiplos serviços com uma única conta.
+
+### 10. **Ferramentas e Provedores Populares**
+   - **Okta**: Uma plataforma de identidade que oferece SSO, MFA, e outras funcionalidades de segurança.
+   - **Microsoft Azure AD**: Oferece SSO para aplicações na nuvem e on-premises.
+   - **Google Identity Platform**: Oferece SSO para aplicações Google e de terceiros.
+
+Com esses pontos, você terá uma compreensão sólida dos conceitos fundamentais de SSO, como ele funciona, seus benefícios, desafios e as principais tecnologias envolvidas.
+

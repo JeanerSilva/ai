@@ -1,0 +1,53 @@
+ 08 RESTful 
+ -
+Claro! O princípio de Pareto, ou a regra 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado sobre RESTful APIs, aqui estão os pontos mais importantes que você deve focar para obter uma compreensão sólida:
+
+### 1. **Conceito de REST**
+   - **Definição**: REST (Representational State Transfer) é um estilo de arquitetura para sistemas distribuídos, especialmente para a web.
+   - **Princípios**: REST é baseado em um conjunto de princípios que incluem a utilização de métodos HTTP, URIs, e a manipulação de recursos através de representações.
+
+### 2. **Recursos e URIs**
+   - **Recursos**: Em REST, tudo é um recurso. Um recurso pode ser qualquer coisa que pode ser nomeada, como um documento, uma imagem, um serviço temporário, etc.
+   - **URIs**: Cada recurso é identificado por um URI (Uniform Resource Identifier). A URI é a forma como você acessa e manipula recursos.
+
+### 3. **Métodos HTTP**
+   - **GET**: Recupera dados de um recurso.
+   - **POST**: Cria um novo recurso.
+   - **PUT**: Atualiza um recurso existente.
+   - **DELETE**: Remove um recurso.
+   - **PATCH**: Aplica modificações parciais a um recurso.
+
+### 4. **Statelessness**
+   - **Definição**: Cada requisição do cliente para o servidor deve conter todas as informações necessárias para entender e processar o pedido. O servidor não deve armazenar nenhuma informação sobre o estado do cliente entre as requisições.
+
+### 5. **Representações de Recursos**
+   - **Formato**: Os recursos podem ser representados em vários formatos, como JSON, XML, HTML, etc.
+   - **Content Negotiation**: O cliente e o servidor podem negociar o formato da representação através dos cabeçalhos HTTP.
+
+### 6. **HATEOAS (Hypermedia as the Engine of Application State)**
+   - **Definição**: Os clientes interagem com a aplicação inteiramente através de hipermídia fornecida dinamicamente pelos aplicativos. Isso significa que a resposta de uma API RESTful deve incluir links para outras ações possíveis.
+
+### 7. **Status Codes HTTP**
+   - **200 OK**: Requisição bem-sucedida.
+   - **201 Created**: Recurso criado com sucesso.
+   - **204 No Content**: Requisição bem-sucedida, mas sem conteúdo para retornar.
+   - **400 Bad Request**: Requisição inválida.
+   - **401 Unauthorized**: Autenticação necessária.
+   - **403 Forbidden**: Permissão negada.
+   - **404 Not Found**: Recurso não encontrado.
+   - **500 Internal Server Error**: Erro no servidor.
+
+### 8. **Segurança**
+   - **Autenticação e Autorização**: Utilização de tokens, OAuth, JWT, etc.
+   - **HTTPS**: Sempre usar HTTPS para proteger os dados em trânsito.
+
+### 9. **Versionamento**
+   - **Práticas**: Incluir a versão da API no URI (e.g., `/api/v1/resource`) ou nos cabeçalhos HTTP para gerenciar mudanças na API sem quebrar a compatibilidade.
+
+### 10. **Documentação**
+   - **Importância**: Documentação clara e detalhada é crucial para que os desenvolvedores possam entender e utilizar a API corretamente.
+   - **Ferramentas**: Utilização de ferramentas como Swagger/OpenAPI para gerar e manter a documentação.
+
+### Conclusão
+Focando nesses 10 pontos principais, você cobrirá os aspectos mais críticos do desenvolvimento e uso de APIs RESTful. Esses conceitos formam a base sobre a qual você pode construir um entendimento mais profundo e detalhado à medida que avança no assunto.
+

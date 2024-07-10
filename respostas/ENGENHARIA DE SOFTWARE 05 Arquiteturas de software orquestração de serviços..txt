@@ -1,0 +1,39 @@
+ 05 Arquiteturas de software orquestração de serviços.
+ -
+Claro! Vamos focar nos conceitos mais importantes sobre arquiteturas de software para orquestração de serviços, que são essenciais para você compreender a maior parte do assunto.
+
+### 1. **Microservices Architecture**
+   - **Definição**: Arquitetura onde a aplicação é dividida em pequenos serviços independentes que se comunicam entre si.
+   - **Importância**: Facilita a escalabilidade e a manutenção, permitindo que diferentes equipes trabalhem em diferentes serviços de forma independente.
+   - **Orquestração**: Ferramentas como Kubernetes são usadas para gerenciar a implantação, escalabilidade e operação dos microserviços.
+
+### 2. **Service-Oriented Architecture (SOA)**
+   - **Definição**: Arquitetura que organiza a funcionalidade da aplicação em serviços reutilizáveis e interoperáveis.
+   - **Importância**: Promove a reutilização de serviços e a integração de sistemas heterogêneos.
+   - **Orquestração**: Utiliza Enterprise Service Bus (ESB) para mediar a comunicação entre serviços.
+
+### 3. **Event-Driven Architecture (EDA)**
+   - **Definição**: Arquitetura onde os serviços se comunicam através de eventos.
+   - **Importância**: Permite sistemas altamente responsivos e desacoplados, onde os serviços reagem a eventos em tempo real.
+   - **Orquestração**: Ferramentas como Apache Kafka são usadas para gerenciar a publicação e o consumo de eventos.
+
+### 4. **Serverless Architecture**
+   - **Definição**: Arquitetura onde a execução do código é gerenciada por um provedor de nuvem, eliminando a necessidade de gerenciar servidores.
+   - **Importância**: Reduz a complexidade operacional e permite escalabilidade automática.
+   - **Orquestração**: Serviços como AWS Lambda e Azure Functions são usados para executar funções em resposta a eventos.
+
+### 5. **API Gateway**
+   - **Definição**: Um ponto de entrada único para todas as requisições de clientes, que roteia as requisições para os serviços apropriados.
+   - **Importância**: Simplifica a comunicação entre clientes e serviços, fornecendo segurança, roteamento e balanceamento de carga.
+   - **Orquestração**: Ferramentas como Kong e AWS API Gateway são usadas para gerenciar e orquestrar APIs.
+
+### 20% Mais Importantes Aprendizados:
+
+1. **Desacoplamento e Independência**: Entender que a orquestração de serviços visa criar componentes independentes que podem ser desenvolvidos, implantados e escalados separadamente.
+2. **Comunicação entre Serviços**: Conhecer os diferentes métodos de comunicação (síncrona vs. assíncrona) e as ferramentas que facilitam essa comunicação (ESB, Kafka, API Gateway).
+3. **Escalabilidade e Resiliência**: Compreender como a orquestração de serviços contribui para a escalabilidade horizontal e a resiliência do sistema.
+4. **Gerenciamento de Estado**: Saber como gerenciar o estado em arquiteturas distribuídas, especialmente em arquiteturas sem servidor e orientadas a eventos.
+5. **Ferramentas de Orquestração**: Familiarizar-se com ferramentas populares como Kubernetes, AWS Lambda, Apache Kafka, e API Gateways, que são essenciais para a orquestração eficaz de serviços.
+
+Com esses aprendizados, você terá uma base sólida para entender a maioria dos conceitos e práticas envolvidas na orquestração de serviços em arquiteturas de software.
+

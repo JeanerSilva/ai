@@ -1,0 +1,48 @@
+ 05 Arquiteturas de softwarecliente-servidor.
+ -
+Claro! A arquitetura cliente-servidor é um modelo fundamental em sistemas de computação e é amplamente utilizada em diversas aplicações. Aqui estão cinco arquiteturas de software cliente-servidor e os principais aprendizados que você deve focar para compreender a maior parte do assunto:
+
+### 1. **Arquitetura de Camada Única (Monolítica)**
+- **Descrição**: Todos os componentes do sistema (interface do usuário, lógica de negócios e acesso a dados) estão integrados em uma única aplicação.
+- **Aprendizados Importantes**:
+  - **Simplicidade**: Fácil de desenvolver e implantar.
+  - **Desempenho**: Pode ter bom desempenho em sistemas pequenos.
+  - **Manutenção**: Difícil de escalar e manter à medida que o sistema cresce.
+
+### 2. **Arquitetura de Duas Camadas**
+- **Descrição**: Divide o sistema em duas camadas principais: cliente e servidor. O cliente lida com a interface do usuário e o servidor lida com a lógica de negócios e acesso a dados.
+- **Aprendizados Importantes**:
+  - **Separação de Preocupações**: Melhora a manutenção e a escalabilidade em comparação com a arquitetura monolítica.
+  - **Comunicação**: Utiliza protocolos como HTTP ou TCP/IP para comunicação entre cliente e servidor.
+  - **Desempenho**: Pode sofrer com problemas de desempenho e latência devido à comunicação em rede.
+
+### 3. **Arquitetura de Três Camadas**
+- **Descrição**: Adiciona uma camada intermediária (servidor de aplicação) entre o cliente e o servidor de banco de dados. As três camadas são: apresentação (cliente), lógica de negócios (servidor de aplicação) e dados (servidor de banco de dados).
+- **Aprendizados Importantes**:
+  - **Modularidade**: Facilita a manutenção e a escalabilidade.
+  - **Segurança**: Melhora a segurança ao isolar a lógica de negócios e os dados.
+  - **Desempenho**: Pode melhorar o desempenho ao distribuir a carga de trabalho.
+
+### 4. **Arquitetura de N Camadas (Multicamadas)**
+- **Descrição**: Extensão da arquitetura de três camadas, onde o sistema é dividido em mais de três camadas, cada uma responsável por uma parte específica do processamento.
+- **Aprendizados Importantes**:
+  - **Flexibilidade**: Permite uma maior flexibilidade e reutilização de componentes.
+  - **Escalabilidade**: Facilita a escalabilidade horizontal e vertical.
+  - **Complexidade**: Pode aumentar a complexidade do desenvolvimento e da manutenção.
+
+### 5. **Arquitetura de Microservices**
+- **Descrição**: Divide a aplicação em pequenos serviços independentes que se comunicam entre si através de APIs.
+- **Aprendizados Importantes**:
+  - **Independência**: Cada microserviço pode ser desenvolvido, implantado e escalado de forma independente.
+  - **Resiliência**: A falha de um serviço não necessariamente compromete todo o sistema.
+  - **Complexidade de Gerenciamento**: Requer uma infraestrutura robusta para orquestração e monitoramento.
+
+### 20% Mais Importantes Aprendizados (Princípios de Pareto)
+1. **Separação de Preocupações**: Entender como a divisão de responsabilidades entre diferentes camadas ou serviços melhora a manutenção, escalabilidade e segurança.
+2. **Comunicação entre Componentes**: Compreender os protocolos e métodos de comunicação (HTTP, TCP/IP, APIs RESTful) é crucial para a interação eficiente entre cliente e servidor.
+3. **Escalabilidade**: Saber como diferentes arquiteturas suportam a escalabilidade horizontal e vertical é essencial para projetar sistemas que possam crescer com a demanda.
+4. **Desempenho e Latência**: Reconhecer os impactos da comunicação em rede e como otimizar o desempenho é fundamental para sistemas eficientes.
+5. **Manutenção e Atualização**: Entender como a modularidade e a independência dos componentes facilitam a manutenção e a atualização contínua do sistema.
+
+Focando nesses aprendizados, você estará bem equipado para compreender a maioria dos conceitos e práticas associadas às arquiteturas de software cliente-servidor.
+

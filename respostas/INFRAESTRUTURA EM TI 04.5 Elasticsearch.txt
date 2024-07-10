@@ -1,0 +1,70 @@
+ 04.5 Elasticsearch
+ -
+Claro! Elasticsearch é uma poderosa ferramenta de busca e análise de dados em tempo real. Para entender os conceitos mais importantes que cobrem a maior parte do que você precisa saber, vamos focar nos princípios fundamentais e nas funcionalidades principais. Aqui estão os 20% mais importantes que ajudarão você a compreender 80% do Elasticsearch:
+
+### 1. **Conceito de Índices**
+   - **Índices**: São coleções de documentos que compartilham características semelhantes. Pense neles como tabelas em um banco de dados relacional.
+   - **Documentos**: Unidades básicas de informação que podem ser indexadas. Cada documento é um objeto JSON.
+
+### 2. **Cluster e Nodes**
+   - **Cluster**: Conjunto de um ou mais nodes (nós) que juntos armazenam todos os dados e fornecem capacidades de busca.
+   - **Node**: Instância única do Elasticsearch que faz parte de um cluster. Pode ser configurado para diferentes funções (master, data, ingest).
+
+### 3. **Shards e Réplicas**
+   - **Shards**: Dividem o índice em partes menores para distribuir e paralelizar operações. Cada índice pode ser dividido em múltiplos shards.
+   - **Réplicas**: Cópias dos shards primários que fornecem alta disponibilidade e tolerância a falhas.
+
+### 4. **Mapeamento (Mapping)**
+   - **Mapping**: Define a estrutura dos documentos e os tipos de dados que eles contêm. É similar ao esquema de uma tabela em um banco de dados relacional.
+
+### 5. **Análise e Tokenização**
+   - **Analisadores**: Processam o texto de entrada para criar tokens que podem ser indexados e pesquisados. Incluem tokenizadores e filtros de token.
+   - **Tokenização**: Processo de dividir o texto em unidades menores (tokens).
+
+### 6. **Consultas (Queries)**
+   - **Query DSL**: Linguagem de consulta baseada em JSON que permite construir consultas complexas.
+   - **Tipos de Consultas**: Term, Match, Bool, Range, etc. Cada tipo serve para diferentes necessidades de busca.
+
+### 7. **Agregações**
+   - **Agregações**: Permitem realizar operações analíticas e sumarizações sobre os dados indexados, como médias, somas, contagens, etc.
+
+### 8. **Ingestão de Dados**
+   - **Pipelines de Ingestão**: Permitem processar e transformar dados antes de indexá-los. Utilizam processadores como `grok`, `date`, `geoip`, etc.
+
+### 9. **Escalabilidade e Desempenho**
+   - **Escalabilidade Horizontal**: Adicionar mais nodes ao cluster para distribuir a carga.
+   - **Tuning de Desempenho**: Ajustar configurações de shards, réplicas, caches, e hardware para otimizar o desempenho.
+
+### 10. **Segurança**
+   - **Autenticação e Autorização**: Controle de acesso baseado em usuários e roles.
+   - **Criptografia**: TLS/SSL para comunicação segura entre nodes e clientes.
+
+### 11. **Monitoramento e Manutenção**
+   - **Monitoramento**: Utilização de ferramentas como Kibana, Elastic Stack Monitoring, e métricas JMX.
+   - **Manutenção**: Tarefas como gerenciamento de índices, snapshots, e restaurações.
+
+### 12. **Integração com o Ecossistema Elastic**
+   - **Kibana**: Ferramenta de visualização e interface para interagir com o Elasticsearch.
+   - **Logstash e Beats**: Ferramentas para coleta, transformação e envio de dados para o Elasticsearch.
+
+### 13. **APIs RESTful**
+   - **APIs REST**: Elasticsearch é acessível via APIs RESTful, permitindo operações CRUD (Create, Read, Update, Delete) e consultas.
+
+### 14. **Full-Text Search**
+   - **Busca de Texto Completo**: Capacidade de realizar buscas complexas em grandes volumes de texto, utilizando relevância e pontuação.
+
+### 15. **Atualizações e Versionamento**
+   - **Atualizações**: Manter o Elasticsearch atualizado para aproveitar novas funcionalidades e melhorias de desempenho.
+   - **Versionamento de Documentos**: Controle de versões para garantir a consistência dos dados durante atualizações concorrentes.
+
+### 16. **Backup e Recuperação**
+   - **Snapshots**: Criar backups dos índices para recuperação em caso de falhas.
+
+### 17. **Multi-Tenancy**
+   - **Multi-Tenancy**: Capacidade de isolar dados de diferentes usuários ou aplicações dentro do mesmo cluster.
+
+### 18. **Geo-Localização**
+   - **Geo-Queries**: Suporte para dados geoespaciais e consultas baseadas em localização.
+
+### 19
+

@@ -1,0 +1,52 @@
+ 01.8 DNS.
+ -
+Claro! O DNS (Domain Name System) é um componente fundamental da infraestrutura da internet. Para entender os aspectos mais importantes do DNS que cobrem a maior parte do seu funcionamento, vamos focar nos conceitos e mecanismos essenciais. Aqui estão os 20% mais importantes que ajudarão você a compreender 80% do DNS:
+
+1. **O que é DNS**:
+   - **Definição**: DNS é um sistema que traduz nomes de domínio legíveis por humanos (como www.exemplo.com) em endereços IP legíveis por máquinas (como 192.0.2.1).
+   - **Importância**: Facilita a navegação na internet, permitindo que os usuários acessem sites usando nomes amigáveis em vez de memorizar endereços IP.
+
+2. **Estrutura Hierárquica**:
+   - **Domínios de Nível Superior (TLDs)**: Incluem domínios como .com, .org, .net, e domínios de código de país como .br (Brasil).
+   - **Domínios de Segundo Nível**: São os nomes registrados sob um TLD, como exemplo.com.
+   - **Subdomínios**: Partes adicionais do nome de domínio, como blog.exemplo.com.
+
+3. **Componentes do DNS**:
+   - **Servidores de Nomes**: Servidores que armazenam informações sobre domínios e seus endereços IP correspondentes.
+   - **Resolvendo DNS**: O processo de consulta que um cliente (como um navegador) realiza para obter o endereço IP de um nome de domínio.
+
+4. **Tipos de Servidores DNS**:
+   - **Servidores Raiz**: Os servidores de nível mais alto na hierarquia DNS, que direcionam consultas para os TLDs apropriados.
+   - **Servidores TLD**: Responsáveis por domínios de nível superior específicos.
+   - **Servidores Autoritativos**: Contêm informações DNS específicas para um domínio.
+   - **Servidores Recursivos**: Realizam consultas em nome do cliente, percorrendo a hierarquia DNS para encontrar a resposta.
+
+5. **Registros DNS Comuns**:
+   - **A (Address) Record**: Mapeia um nome de domínio para um endereço IPv4.
+   - **AAAA Record**: Mapeia um nome de domínio para um endereço IPv6.
+   - **CNAME (Canonical Name) Record**: Alias para outro nome de domínio.
+   - **MX (Mail Exchange) Record**: Direciona emails para servidores de correio.
+   - **TXT Record**: Armazena texto arbitrário, frequentemente usado para verificação e segurança.
+
+6. **Processo de Resolução DNS**:
+   - **Consulta Recursiva**: O cliente solicita ao servidor DNS resolver completamente o nome de domínio.
+   - **Consulta Iterativa**: O servidor DNS responde com a melhor informação que possui, geralmente um redirecionamento para outro servidor DNS.
+
+7. **Cache DNS**:
+   - **Função**: Armazena temporariamente as respostas DNS para acelerar consultas subsequentes.
+   - **TTL (Time to Live)**: O tempo que uma resposta DNS é armazenada no cache antes de ser descartada.
+
+8. **Segurança no DNS**:
+   - **DNSSEC (DNS Security Extensions)**: Protocolo que adiciona assinaturas criptográficas aos dados DNS para garantir sua autenticidade e integridade.
+   - **Ataques Comuns**: Incluem envenenamento de cache (cache poisoning) e ataques DDoS (Distributed Denial of Service).
+
+9. **Ferramentas de Diagnóstico DNS**:
+   - **nslookup**: Ferramenta de linha de comando para consultar servidores DNS.
+   - **dig**: Outra ferramenta de linha de comando mais avançada para consultas DNS.
+
+10. **Configuração de DNS**:
+    - **Configuração de Servidores DNS**: Como configurar servidores DNS em sistemas operacionais e roteadores.
+    - **Gerenciamento de Zonas DNS**: Como gerenciar registros DNS para um domínio.
+
+Compreender esses pontos fornecerá uma base sólida para entender como o DNS funciona e como ele é utilizado na internet.
+

@@ -1,0 +1,38 @@
+ 06 Práticas de UX e UI design. 
+ -
+Claro! A Lei de Pareto, ou princípio 80/20, sugere que 20% dos esforços geram 80% dos resultados. Aplicando isso ao UX (User Experience) e UI (User Interface) design, podemos identificar algumas práticas fundamentais que terão o maior impacto no seu entendimento e aplicação. Aqui estão os 20% mais importantes aprendizados que cobrem 80% do que você precisa saber:
+
+### 1. **Pesquisa de Usuário**
+   - **Importância:** Compreender as necessidades, comportamentos e problemas dos usuários é crucial.
+   - **Prática:** Realize entrevistas, pesquisas e testes de usabilidade para coletar dados qualitativos e quantitativos.
+
+### 2. **Wireframing e Prototipagem**
+   - **Importância:** Criação de esboços e protótipos ajuda a visualizar a estrutura e o fluxo do design antes da implementação.
+   - **Prática:** Use ferramentas como Sketch, Figma ou Adobe XD para criar wireframes e protótipos interativos.
+
+### 3. **Design Centrado no Usuário (UCD)**
+   - **Importância:** Colocar o usuário no centro do processo de design garante que o produto final seja intuitivo e útil.
+   - **Prática:** Itere constantemente com feedback dos usuários em todas as fases do design.
+
+### 4. **Princípios de Design Visual**
+   - **Importância:** Elementos visuais como cor, tipografia, espaçamento e layout afetam a usabilidade e a estética.
+   - **Prática:** Aprenda e aplique princípios como contraste, alinhamento, repetição e proximidade.
+
+### 5. **Acessibilidade**
+   - **Importância:** Garantir que seu design seja acessível a todos os usuários, incluindo aqueles com deficiências.
+   - **Prática:** Siga diretrizes como WCAG (Web Content Accessibility Guidelines) e use ferramentas de verificação de acessibilidade.
+
+### 6. **Feedback e Iteração**
+   - **Importância:** O design é um processo contínuo de melhoria baseado em feedback real dos usuários.
+   - **Prática:** Realize testes de usabilidade regularmente e esteja disposto a iterar e melhorar o design com base nos resultados.
+
+### Resumo dos 20% mais importantes:
+1. **Pesquisa de Usuário:** Entenda profundamente quem são seus usuários e quais são suas necessidades.
+2. **Wireframing e Prototipagem:** Visualize e teste ideias rapidamente antes da implementação final.
+3. **Design Centrado no Usuário:** Mantenha o foco nas necessidades e feedback dos usuários durante todo o processo de design.
+4. **Princípios de Design Visual:** Aplique princípios de design para criar interfaces esteticamente agradáveis e funcionais.
+5. **Acessibilidade:** Certifique-se de que seu design seja inclusivo e acessível a todos os usuários.
+6. **Feedback e Iteração:** Use feedback contínuo para melhorar e refinar seu design.
+
+Ao focar nesses seis aprendizados principais, você estará cobrindo a maior parte do que é essencial para criar experiências de usuário eficazes e interfaces de usuário bem-sucedidas.
+

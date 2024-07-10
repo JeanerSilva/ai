@@ -1,0 +1,51 @@
+ 04.6 Kibana
+ -
+Claro! Kibana é uma ferramenta de visualização de dados que trabalha em conjunto com Elasticsearch para ajudar a explorar, visualizar e entender os dados armazenados. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do que você precisa saber sobre Kibana:
+
+1. **Interface do Usuário (UI)**:
+   - **Descoberta (Discover)**: Permite explorar e filtrar dados em tempo real.
+   - **Visualizações (Visualize)**: Criação de gráficos e visualizações personalizadas.
+   - **Painéis (Dashboards)**: Combinação de várias visualizações em um único painel interativo.
+   - **Canvas**: Criação de apresentações dinâmicas e infográficas.
+
+2. **Conceitos Básicos**:
+   - **Index Patterns**: Definem quais índices do Elasticsearch Kibana deve usar.
+   - **Time Picker**: Ferramenta para selecionar intervalos de tempo para análise de dados.
+   - **Saved Objects**: Objetos salvos como visualizações, dashboards e index patterns.
+
+3. **Visualizações**:
+   - **Tipos de Visualizações**: Histogramas, gráficos de linha, gráficos de pizza, mapas de calor, etc.
+   - **Agregações**: Métodos para resumir dados, como médias, somas e contagens.
+   - **Filtros e Queries**: Aplicação de filtros e consultas para refinar os dados exibidos.
+
+4. **Dashboards**:
+   - **Criação e Customização**: Adição de visualizações, redimensionamento e organização.
+   - **Interatividade**: Ferramentas de filtro e drill-down para explorar dados em profundidade.
+   - **Compartilhamento**: Opções para compartilhar dashboards com outros usuários ou embutir em outras páginas.
+
+5. **Canvas**:
+   - **Elementos Dinâmicos**: Adição de gráficos, texto, imagens e outros elementos visuais.
+   - **Expressões**: Uso de linguagem de expressões para criar visualizações dinâmicas e interativas.
+
+6. **Segurança e Controle de Acesso**:
+   - **Spaces**: Criação de espaços de trabalho isolados para diferentes equipes ou projetos.
+   - **Roles e Permissões**: Definição de permissões para controlar o acesso a dados e funcionalidades.
+
+7. **Alertas e Ações**:
+   - **Watchers**: Configuração de alertas baseados em condições específicas nos dados.
+   - **Ações**: Definição de ações a serem tomadas quando um alerta é acionado, como enviar e-mails ou executar scripts.
+
+8. **Integração com Elasticsearch**:
+   - **Consultas Kibana**: Uso de KQL (Kibana Query Language) e Lucene para consultas avançadas.
+   - **Indexação de Dados**: Entendimento de como os dados são indexados no Elasticsearch e como isso afeta a visualização no Kibana.
+
+9. **Monitoramento e Logs**:
+   - **Logs de Aplicação**: Visualização e análise de logs de aplicação.
+   - **Métricas**: Monitoramento de métricas de sistema e aplicação.
+
+10. **Melhores Práticas**:
+    - **Performance**: Otimização de consultas e visualizações para melhorar a performance.
+    - **Manutenção**: Práticas de manutenção regular para garantir a integridade e performance dos dados e visualizações.
+
+Compreender esses pontos-chave te dará uma base sólida para usar o Kibana de forma eficaz e explorar suas capacidades para análise e visualização de dados.
+

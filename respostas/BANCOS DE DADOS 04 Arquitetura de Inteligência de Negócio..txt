@@ -1,0 +1,68 @@
+ 04 Arquitetura de Inteligência de Negócio.
+ -
+Claro! A Arquitetura de Inteligência de Negócio (BI - Business Intelligence) é um campo vasto e complexo, mas focar nos aspectos mais críticos pode te ajudar a entender a maior parte do que é necessário. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do assunto:
+
+### 1. **Conceito de BI**
+   - **Definição**: BI é um conjunto de processos, tecnologias e ferramentas que ajudam na coleta, integração, análise e apresentação de informações de negócios.
+   - **Objetivo**: Melhorar a tomada de decisões empresariais com base em dados.
+
+### 2. **Componentes Principais**
+   - **Data Warehousing**: Armazenamento centralizado de dados de diversas fontes.
+   - **ETL (Extract, Transform, Load)**: Processos de extração, transformação e carregamento de dados.
+   - **OLAP (Online Analytical Processing)**: Ferramentas para análise multidimensional de dados.
+   - **Data Mining**: Técnicas para descobrir padrões e relações em grandes volumes de dados.
+   - **Dashboards e Relatórios**: Ferramentas de visualização de dados para facilitar a interpretação.
+
+### 3. **Data Warehousing**
+   - **Armazenamento Centralizado**: Coleta dados de várias fontes e os armazena em um formato unificado.
+   - **Modelagem de Dados**: Estruturação dos dados para facilitar a consulta e análise.
+
+### 4. **ETL (Extract, Transform, Load)**
+   - **Extração**: Coleta de dados de diferentes fontes.
+   - **Transformação**: Limpeza e formatação dos dados para adequação ao Data Warehouse.
+   - **Carregamento**: Inserção dos dados transformados no Data Warehouse.
+
+### 5. **OLAP (Online Analytical Processing)**
+   - **Cubos OLAP**: Estruturas de dados que permitem consultas rápidas e complexas.
+   - **Dimensões e Medidas**: Dimensões são categorias de dados (ex: tempo, geografia), e medidas são valores numéricos (ex: vendas, lucros).
+
+### 6. **Data Mining**
+   - **Técnicas**: Algoritmos de aprendizado de máquina, estatísticas e inteligência artificial para descobrir padrões.
+   - **Aplicações**: Previsão de vendas, segmentação de clientes, detecção de fraudes.
+
+### 7. **Dashboards e Relatórios**
+   - **Visualização de Dados**: Gráficos, tabelas e outros elementos visuais para facilitar a interpretação dos dados.
+   - **Interatividade**: Ferramentas que permitem aos usuários explorar os dados de forma dinâmica.
+
+### 8. **Governança de Dados**
+   - **Qualidade dos Dados**: Garantir que os dados sejam precisos, completos e consistentes.
+   - **Segurança dos Dados**: Proteção contra acesso não autorizado e perda de dados.
+
+### 9. **Ferramentas de BI**
+   - **Softwares Populares**: Tableau, Power BI, QlikView, entre outros.
+   - **Critérios de Escolha**: Facilidade de uso, integração com outras ferramentas, custo, suporte e escalabilidade.
+
+### 10. **Processo de Implementação**
+   - **Planejamento**: Definição de objetivos e requisitos.
+   - **Desenvolvimento**: Construção do Data Warehouse, processos ETL e dashboards.
+   - **Testes**: Verificação da qualidade e precisão dos dados.
+   - **Treinamento**: Capacitação dos usuários finais para utilização das ferramentas de BI.
+
+### 11. **Benefícios do BI**
+   - **Tomada de Decisão Informada**: Baseada em dados concretos e análises precisas.
+   - **Eficiência Operacional**: Identificação de áreas de melhoria e otimização de processos.
+   - **Vantagem Competitiva**: Insights que podem levar a estratégias mais eficazes.
+
+### 12. **Desafios e Considerações**
+   - **Integração de Dados**: Dificuldade em integrar dados de diferentes fontes e formatos.
+   - **Cultura Organizacional**: Resistência à mudança e adoção de novas tecnologias.
+   - **Custo e Tempo**: Implementação pode ser cara e demorada.
+
+### 13. **Tendências Atuais**
+   - **BI em Tempo Real**: Análise de dados em tempo real para decisões imediatas.
+   - **BI Self-Service**: Ferramentas que permitem aos usuários finais criar suas próprias análises e relatórios.
+   - **Inteligência Artificial e BI**: Uso de IA para análises mais avançadas e preditivas.
+
+### 14. **Casos de Uso**
+   - **Varejo**: Análise de comportamento de clientes e otimização de
+

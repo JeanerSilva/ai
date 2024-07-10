@@ -1,0 +1,68 @@
+ 03.4 Autenticação em Rede Microsoft Windows Server
+ -
+Claro! A autenticação em rede no Microsoft Windows Server é um tópico vasto e essencial para a segurança e a gestão de redes corporativas. Para entender os 20% mais importantes que te ajudarão a compreender 80% do necessário, vamos focar nos conceitos e práticas fundamentais:
+
+### 1. **Active Directory (AD)**
+   - **Definição e Função**: O Active Directory é um serviço de diretório que centraliza a gestão de usuários, computadores e outros recursos de rede.
+   - **Domínios e Florestas**: Estruturas hierárquicas que organizam e gerenciam recursos. Um domínio é um grupo de objetos, enquanto uma floresta é um conjunto de domínios.
+
+### 2. **Controladores de Domínio (DC)**
+   - **Função**: Servidores que respondem a solicitações de autenticação e armazenam dados do AD.
+   - **Redundância e Replicação**: Importância de ter múltiplos DCs para garantir disponibilidade e consistência dos dados.
+
+### 3. **Kerberos**
+   - **Protocolo de Autenticação**: Principal protocolo usado pelo Windows Server para autenticação segura.
+   - **Funcionamento**: Utiliza tickets para permitir que os usuários provem sua identidade sem enviar senhas pela rede.
+
+### 4. **LDAP (Lightweight Directory Access Protocol)**
+   - **Protocolo de Acesso**: Utilizado para acessar e gerenciar serviços de diretório como o AD.
+   - **Operações Comuns**: Bind, search, modify, add, delete.
+
+### 5. **Group Policy (Política de Grupo)**
+   - **Definição**: Ferramenta para gerenciar e configurar sistemas operacionais, aplicativos e configurações de usuário.
+   - **Aplicação**: Pode ser aplicada a usuários ou computadores dentro de um domínio.
+
+### 6. **Single Sign-On (SSO)**
+   - **Conceito**: Permite que um usuário faça login uma vez e acesse múltiplos sistemas sem precisar autenticar novamente.
+   - **Implementação**: Integrado com Kerberos e AD.
+
+### 7. **Certificados e PKI (Public Key Infrastructure)**
+   - **Uso de Certificados**: Para autenticação de usuários e dispositivos.
+   - **PKI**: Sistema que gerencia chaves públicas e privadas, e emite certificados digitais.
+
+### 8. **Autenticação Multifator (MFA)**
+   - **Importância**: Adiciona uma camada extra de segurança além da senha.
+   - **Métodos Comuns**: SMS, aplicativos de autenticação, tokens físicos.
+
+### 9. **NTLM (NT LAN Manager)**
+   - **Protocolo de Autenticação**: Usado como fallback quando Kerberos não está disponível.
+   - **Limitações**: Menos seguro que Kerberos, suscetível a ataques de replay e pass-the-hash.
+
+### 10. **Federation Services (AD FS)**
+   - **Função**: Permite autenticação e autorização entre diferentes organizações ou domínios.
+   - **SSO Externo**: Facilita o acesso a recursos externos com uma única autenticação.
+
+### 11. **Azure Active Directory (Azure AD)**
+   - **Integração com Nuvem**: Extensão do AD para serviços em nuvem.
+   - **Funcionalidades**: Autenticação, gerenciamento de identidade e acesso para aplicativos em nuvem.
+
+### 12. **Autenticação de Dispositivos**
+   - **Join ao Domínio**: Computadores e dispositivos móveis podem ser adicionados ao domínio para gestão centralizada.
+   - **DirectAccess e VPN**: Métodos para autenticação e acesso remoto seguro.
+
+### 13. **Delegação de Controle**
+   - **Princípio do Menor Privilégio**: Conceder apenas as permissões necessárias para realizar tarefas específicas.
+   - **Delegação**: Permitir que administradores deleguem tarefas administrativas sem conceder acesso total.
+
+### 14. **Auditoria e Monitoramento**
+   - **Registro de Eventos**: Monitorar e registrar tentativas de autenticação e acessos.
+   - **Ferramentas**: Utilização de ferramentas como o Event Viewer e soluções de SIEM (Security Information and Event Management).
+
+### 15. **Políticas de Senha**
+   - **Complexidade e Expiração**: Definir requisitos de complexidade e expiração de senhas para aumentar a segurança.
+   - **Bloqueio de Conta**: Configurar políticas de bloqueio após tentativas de login falhadas.
+
+### 16. **Autenticação Baseada em Certificado (CBA)**
+   - **Uso de Certificados Digitais**: Para autenticação de usuários e dispositivos.
+   - **Smart Cards**: Implement
+

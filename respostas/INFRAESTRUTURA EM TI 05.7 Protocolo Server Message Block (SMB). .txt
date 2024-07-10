@@ -1,0 +1,52 @@
+ 05.7 Protocolo Server Message Block (SMB). 
+ -
+Claro! O Protocolo Server Message Block (SMB) é um protocolo de rede que permite que aplicativos e usuários leiam e gravem arquivos em sistemas remotos, além de solicitar serviços de um servidor em uma rede. Aqui estão os 20% mais importantes aprendizados sobre SMB que te ajudarão a compreender 80% do assunto:
+
+1. **Definição e Propósito**:
+   - **SMB** é um protocolo de rede usado principalmente para compartilhamento de arquivos, impressoras e portas seriais entre computadores em uma rede.
+   - Facilita a comunicação entre processos em diferentes sistemas operacionais, como Windows, macOS e Linux.
+
+2. **História e Evolução**:
+   - **SMB1**: Introduzido pela IBM em 1983 e amplamente adotado pela Microsoft.
+   - **CIFS (Common Internet File System)**: Uma versão do SMB1 com algumas extensões.
+   - **SMB2**: Introduzido com o Windows Vista em 2006, melhorando a eficiência e segurança.
+   - **SMB3**: Introduzido com o Windows 8 e Windows Server 2012, trazendo melhorias adicionais em segurança e desempenho.
+
+3. **Componentes Principais**:
+   - **Cliente SMB**: O sistema que solicita recursos ou serviços.
+   - **Servidor SMB**: O sistema que fornece os recursos ou serviços solicitados.
+   - **Mensagens SMB**: Pacotes de dados trocados entre cliente e servidor para realizar operações.
+
+4. **Operações Comuns**:
+   - **Compartilhamento de Arquivos**: Permite que arquivos sejam lidos, escritos e modificados remotamente.
+   - **Impressão Remota**: Permite que impressoras conectadas a um servidor sejam usadas por clientes na rede.
+   - **Autenticação e Controle de Acesso**: Garante que apenas usuários autorizados possam acessar recursos compartilhados.
+
+5. **Segurança**:
+   - **Autenticação**: Utiliza protocolos como NTLM (NT LAN Manager) e Kerberos para autenticar usuários.
+   - **Assinatura de Pacotes**: Garante a integridade dos dados transmitidos.
+   - **Criptografia**: SMB3 introduziu a criptografia de dados para proteger informações sensíveis durante a transmissão.
+
+6. **Desempenho e Eficiência**:
+   - **Agrupamento de Pacotes**: SMB2 e SMB3 permitem o agrupamento de múltiplas operações em um único pacote, reduzindo a sobrecarga de rede.
+   - **Persistência de Conexão**: SMB3 suporta a reconexão automática em caso de falhas temporárias na rede.
+
+7. **Compatibilidade e Implementações**:
+   - **Samba**: Uma implementação de código aberto do SMB/CIFS para sistemas Unix e Linux.
+   - **Interoperabilidade**: SMB é suportado por vários sistemas operacionais, facilitando a integração em ambientes heterogêneos.
+
+8. **Configuração e Administração**:
+   - **Compartilhamentos**: Configuração de pastas e impressoras compartilhadas em servidores.
+   - **Permissões**: Definição de permissões de acesso para usuários e grupos.
+   - **Monitoramento**: Ferramentas para monitorar o uso e desempenho de recursos SMB.
+
+9. **Vulnerabilidades e Mitigações**:
+   - **Ataques de Ransomware**: SMB pode ser um vetor para ataques de ransomware, como o WannaCry.
+   - **Desativação de SMB1**: Recomenda-se desativar SMB1 devido a suas vulnerabilidades conhecidas e usar SMB2 ou SMB3.
+
+10. **Casos de Uso**:
+    - **Ambientes Corporativos**: Compartilhamento de arquivos e impressoras em redes empresariais.
+    - **Serviços de Arquivos em Nuvem**: Implementações de SMB em soluções de armazenamento em nuvem.
+
+Compreender esses pontos-chave te dará uma base sólida para entender como o SMB funciona, suas aplicações, e como configurá-lo e administrá-lo de forma segura e eficiente.
+

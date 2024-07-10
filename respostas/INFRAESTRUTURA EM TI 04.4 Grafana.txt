@@ -1,0 +1,46 @@
+ 04.4 Grafana
+ -
+Claro! Grafana é uma poderosa ferramenta de visualização e monitoramento de dados, amplamente utilizada para criar dashboards interativos e gráficos a partir de várias fontes de dados. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do necessário sobre Grafana:
+
+1. **Instalação e Configuração Básica**:
+   - **Instalação**: Saiba como instalar Grafana em diferentes sistemas operacionais (Linux, Windows, macOS) e em contêineres Docker.
+   - **Configuração Inicial**: Familiarize-se com a configuração inicial, incluindo a criação de um usuário administrador e a configuração de portas e endereços IP.
+
+2. **Fontes de Dados**:
+   - **Conexão com Fontes de Dados**: Aprenda a conectar Grafana a várias fontes de dados, como Prometheus, InfluxDB, Elasticsearch, MySQL, PostgreSQL, entre outras.
+   - **Configuração de Fontes de Dados**: Entenda como configurar e testar conexões com essas fontes de dados dentro do Grafana.
+
+3. **Criação de Dashboards**:
+   - **Painéis e Widgets**: Saiba como criar e configurar painéis (dashboards) e adicionar widgets (painéis de gráficos, tabelas, etc.).
+   - **Layouts e Organizações**: Aprenda a organizar e personalizar o layout dos dashboards para melhor visualização e usabilidade.
+
+4. **Consultas e Visualizações**:
+   - **Construção de Consultas**: Entenda como construir consultas para extrair dados das fontes de dados conectadas.
+   - **Tipos de Visualizações**: Familiarize-se com os diferentes tipos de visualizações disponíveis (gráficos de linha, barras, tabelas, heatmaps, etc.) e como configurá-los.
+
+5. **Alertas e Notificações**:
+   - **Configuração de Alertas**: Aprenda a configurar alertas baseados em condições específicas nos dados monitorados.
+   - **Integração com Sistemas de Notificação**: Saiba como integrar Grafana com sistemas de notificação como Slack, email, PagerDuty, etc., para receber alertas.
+
+6. **Autenticação e Autorização**:
+   - **Gerenciamento de Usuários**: Entenda como gerenciar usuários e permissões dentro do Grafana.
+   - **Integração com LDAP/SSO**: Aprenda a integrar Grafana com sistemas de autenticação como LDAP e Single Sign-On (SSO).
+
+7. **Templating e Variáveis**:
+   - **Uso de Variáveis**: Saiba como usar variáveis para criar dashboards dinâmicos e interativos.
+   - **Templates**: Aprenda a criar templates que permitem a reutilização de dashboards com diferentes conjuntos de dados.
+
+8. **Plugins e Extensões**:
+   - **Instalação de Plugins**: Familiarize-se com a instalação e configuração de plugins para adicionar novas funcionalidades ao Grafana.
+   - **Uso de Plugins Populares**: Explore plugins populares que podem estender as capacidades do Grafana, como plugins de visualização e de fontes de dados.
+
+9. **Compartilhamento e Exportação**:
+   - **Compartilhamento de Dashboards**: Aprenda a compartilhar dashboards com outros usuários ou equipes.
+   - **Exportação e Importação**: Entenda como exportar e importar dashboards para facilitar a migração e backup.
+
+10. **Melhores Práticas e Otimização**:
+    - **Desempenho**: Saiba como otimizar consultas e dashboards para melhorar o desempenho.
+    - **Manutenção e Atualizações**: Familiarize-se com as melhores práticas para manutenção e atualização do Grafana.
+
+Esses tópicos cobrem os fundamentos essenciais que te permitirão utilizar Grafana de maneira eficaz para monitoramento e visualização de dados. Compreender esses conceitos te dará uma base sólida para explorar funcionalidades mais avançadas conforme necessário.
+

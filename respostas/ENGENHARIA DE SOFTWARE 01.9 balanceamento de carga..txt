@@ -1,0 +1,50 @@
+ 01.9 balanceamento de carga.
+ -
+Claro! O conceito de balanceamento de carga é fundamental para garantir a eficiência, disponibilidade e resiliência de sistemas de TI. Aqui estão os 20% mais importantes aprendizados sobre balanceamento de carga que te ajudarão a compreender os 80% necessários:
+
+1. **Definição de Balanceamento de Carga**:
+   - **O que é**: Técnica de distribuição de tráfego de rede ou carga de processamento entre vários servidores.
+   - **Objetivo**: Melhorar a eficiência, maximizar o throughput, minimizar o tempo de resposta e evitar sobrecarga de qualquer recurso único.
+
+2. **Tipos de Balanceadores de Carga**:
+   - **Hardware**: Dispositivos físicos dedicados (ex.: F5, Citrix ADC).
+   - **Software**: Soluções baseadas em software (ex.: HAProxy, Nginx, Apache, Traefik).
+   - **Nuvem**: Serviços gerenciados por provedores de nuvem (ex.: AWS ELB, Azure Load Balancer, Google Cloud Load Balancing).
+
+3. **Algoritmos de Balanceamento de Carga**:
+   - **Round Robin**: Distribui solicitações de forma sequencial entre os servidores.
+   - **Least Connections**: Direciona o tráfego para o servidor com menos conexões ativas.
+   - **IP Hash**: Usa o endereço IP do cliente para determinar qual servidor receberá a solicitação.
+   - **Weighted Round Robin**: Similar ao Round Robin, mas com pesos atribuídos aos servidores para refletir suas capacidades.
+
+4. **Escalabilidade e Alta Disponibilidade**:
+   - **Escalabilidade Horizontal**: Adição de mais servidores para lidar com o aumento de carga.
+   - **Failover**: Redirecionamento automático de tráfego em caso de falha de um servidor.
+
+5. **Monitoramento e Saúde dos Servidores**:
+   - **Health Checks**: Verificações periódicas para garantir que os servidores estão operacionais.
+   - **Desativação de Servidores**: Remoção automática de servidores não saudáveis do pool de balanceamento.
+
+6. **Sessões e Persistência**:
+   - **Sticky Sessions**: Garantia de que as solicitações de um usuário específico sejam sempre direcionadas ao mesmo servidor.
+   - **Persistência baseada em Cookies**: Uso de cookies para manter a persistência da sessão.
+
+7. **Segurança**:
+   - **SSL Termination**: Descriptografia de tráfego SSL no balanceador de carga para reduzir a carga nos servidores backend.
+   - **Proteção contra DDoS**: Balanceadores de carga podem ajudar a mitigar ataques distribuídos de negação de serviço.
+
+8. **Configuração e Manutenção**:
+   - **Configuração Dinâmica**: Capacidade de adicionar ou remover servidores sem interrupção do serviço.
+   - **Automação**: Uso de scripts e ferramentas para gerenciar balanceadores de carga de forma eficiente.
+
+9. **Desempenho**:
+   - **Latência**: Minimização do tempo de resposta através de uma distribuição eficiente do tráfego.
+   - **Throughput**: Maximização da quantidade de dados processados por unidade de tempo.
+
+10. **Casos de Uso Comuns**:
+    - **Web Applications**: Distribuição de tráfego HTTP/HTTPS.
+    - **Serviços de Banco de Dados**: Balanceamento de consultas de leitura entre réplicas.
+    - **Aplicações em Tempo Real**: Garantia de baixa latência e alta disponibilidade.
+
+Compreender esses pontos-chave te dará uma base sólida para entender como o balanceamento de carga funciona e como ele pode ser aplicado para melhorar a performance e a resiliência de sistemas de TI.
+

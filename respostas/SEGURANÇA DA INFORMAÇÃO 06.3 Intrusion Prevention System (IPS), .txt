@@ -1,0 +1,49 @@
+ 06.3 Intrusion Prevention System (IPS), 
+ -
+Claro! O princípio de Pareto, ou a regra 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado sobre Intrusion Prevention Systems (IPS), aqui estão os pontos mais importantes que você deve focar para obter uma compreensão sólida do assunto:
+
+### 1. **Definição e Propósito do IPS**
+   - **O que é um IPS?**: Um Intrusion Prevention System é uma tecnologia de segurança de rede que monitora o tráfego de rede em busca de atividades maliciosas e toma medidas para prevenir essas atividades.
+   - **Objetivo Principal**: Prevenir ataques cibernéticos em tempo real, bloqueando ou mitigando ameaças antes que causem danos.
+
+### 2. **Funcionamento Básico**
+   - **Monitoramento Contínuo**: O IPS inspeciona continuamente o tráfego de rede em busca de padrões que correspondam a assinaturas conhecidas de ataques.
+   - **Ação Preventiva**: Ao detectar uma ameaça, o IPS pode bloquear o tráfego malicioso, encerrar conexões, ou alertar administradores de rede.
+
+### 3. **Tipos de IPS**
+   - **Network-based IPS (NIPS)**: Monitora e protege toda a rede.
+   - **Host-based IPS (HIPS)**: Monitora e protege um único host ou dispositivo.
+
+### 4. **Métodos de Detecção**
+   - **Assinatura (Signature-based)**: Utiliza uma base de dados de assinaturas conhecidas de ataques para identificar ameaças.
+   - **Anomalia (Anomaly-based)**: Detecta desvios do comportamento normal da rede, identificando possíveis ameaças desconhecidas.
+   - **Política (Policy-based)**: Baseia-se em políticas de segurança predefinidas para identificar atividades não autorizadas.
+   - **Reputação (Reputation-based)**: Utiliza informações de reputação de IPs e domínios para bloquear tráfego de fontes conhecidas por serem maliciosas.
+
+### 5. **Integração com Outros Sistemas de Segurança**
+   - **Firewall**: Trabalha em conjunto com firewalls para fornecer uma camada adicional de segurança.
+   - **SIEM (Security Information and Event Management)**: Integra-se com sistemas SIEM para fornecer uma visão abrangente das ameaças e facilitar a resposta a incidentes.
+
+### 6. **Desafios e Limitações**
+   - **Falsos Positivos/Negativos**: Um dos maiores desafios é equilibrar a detecção precisa de ameaças sem gerar muitos falsos positivos (alarme falso) ou falsos negativos (ameaça não detectada).
+   - **Performance**: O IPS deve ser capaz de analisar o tráfego em tempo real sem causar latência significativa na rede.
+
+### 7. **Configuração e Manutenção**
+   - **Atualizações Regulares**: Manter as assinaturas e regras de detecção atualizadas é crucial para a eficácia do IPS.
+   - **Tuning**: Ajustar as configurações do IPS para minimizar falsos positivos e negativos, e otimizar a performance.
+
+### 8. **Benefícios do IPS**
+   - **Prevenção Proativa**: Bloqueia ameaças antes que elas possam causar danos.
+   - **Visibilidade e Controle**: Fornece visibilidade detalhada sobre o tráfego de rede e permite controle granular sobre as políticas de segurança.
+
+### 9. **Casos de Uso Comuns**
+   - **Proteção contra Exploits**: Bloqueia tentativas de exploração de vulnerabilidades conhecidas.
+   - **Mitigação de Ataques DDoS**: Ajuda a identificar e bloquear tráfego malicioso durante ataques de negação de serviço distribuídos.
+   - **Compliance**: Ajuda a cumprir requisitos de conformidade regulatória, como PCI-DSS, que exigem medidas de prevenção de intrusões.
+
+### 10. **Tendências e Evolução**
+   - **Integração com Inteligência Artificial**: Uso crescente de IA e machine learning para melhorar a detecção de ameaças e reduzir falsos positivos.
+   - **Soluções Baseadas em Nuvem**: Adoção de IPS como serviço (IPSaaS) para proteger ambientes de nuvem e híbridos.
+
+Focando nesses 10 pontos principais, você cobrirá os aspectos mais críticos do IPS, que representam os 20% de conhecimento que lhe proporcionarão uma compreensão abrangente e eficaz sobre o tema.
+

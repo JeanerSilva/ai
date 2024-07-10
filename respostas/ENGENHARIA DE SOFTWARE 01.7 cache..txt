@@ -1,0 +1,45 @@
+ 01.7 cache.
+ -
+Claro! O conceito de cache é fundamental em várias áreas da computação, incluindo arquitetura de computadores, sistemas operacionais e desenvolvimento de software. Aqui estão os 20% mais importantes aprendizados sobre cache que te ajudarão a compreender 80% do assunto:
+
+1. **Definição de Cache**:
+   - **Cache** é uma memória de alta velocidade que armazena temporariamente dados frequentemente acessados para acelerar o acesso a esses dados.
+
+2. **Hierarquia de Memória**:
+   - Cache é parte da hierarquia de memória, que inclui registradores, cache, RAM e armazenamento secundário (discos rígidos, SSDs). A hierarquia é organizada de forma que as memórias mais rápidas e menores estão mais próximas da CPU.
+
+3. **Tipos de Cache**:
+   - **L1 Cache**: Cache de nível 1, mais rápida e menor, localizada diretamente na CPU.
+   - **L2 Cache**: Cache de nível 2, maior que a L1, mas um pouco mais lenta.
+   - **L3 Cache**: Cache de nível 3, ainda maior e mais lenta que a L2, mas compartilhada entre múltiplos núcleos de CPU.
+
+4. **Localidade de Referência**:
+   - **Localidade Temporal**: Dados acessados recentemente são mais propensos a serem acessados novamente.
+   - **Localidade Espacial**: Dados próximos aos dados acessados recentemente são mais propensos a serem acessados em breve.
+
+5. **Políticas de Substituição**:
+   - **LRU (Least Recently Used)**: Substitui o bloco de cache menos recentemente usado.
+   - **FIFO (First In, First Out)**: Substitui o bloco de cache mais antigo.
+   - **Random**: Substitui um bloco de cache aleatoriamente.
+
+6. **Mapeamento de Cache**:
+   - **Mapeamento Direto**: Cada bloco de memória mapeia para um bloco específico de cache.
+   - **Associativo por Conjunto**: Blocos de memória podem mapear para qualquer bloco dentro de um conjunto específico de cache.
+   - **Totalmente Associativo**: Qualquer bloco de memória pode mapear para qualquer bloco de cache.
+
+7. **Misses de Cache**:
+   - **Compulsório**: Ocorre quando um dado é acessado pela primeira vez.
+   - **Capacidade**: Ocorre quando a cache não pode conter todos os dados necessários.
+   - **Conflito**: Ocorre quando múltiplos dados competem pelo mesmo espaço de cache.
+
+8. **Coerência de Cache**:
+   - Em sistemas multiprocessados, é crucial manter a coerência dos dados entre caches de diferentes CPUs. Protocolos como MESI (Modified, Exclusive, Shared, Invalid) são usados para garantir isso.
+
+9. **Prefetching**:
+   - Técnica onde dados são carregados na cache antes de serem explicitamente solicitados, baseado em padrões de acesso previsíveis.
+
+10. **Impacto no Desempenho**:
+    - O uso eficiente de cache pode reduzir significativamente o tempo de acesso à memória, melhorando o desempenho geral do sistema.
+
+Compreender esses conceitos te dará uma base sólida para entender como caches funcionam e como eles podem ser otimizados para melhorar o desempenho de sistemas computacionais.
+

@@ -1,0 +1,43 @@
+ 04 Testes de software. 
+ -
+Claro! Vamos focar nos 20% mais importantes aprendizados sobre testes de software que te ajudarão a compreender os 80% necessários. Aqui estão os quatro tipos de testes de software e os principais pontos sobre cada um:
+
+### 1. Teste Unitário
+**Importância:** Verifica a menor unidade de código (funções, métodos) de forma isolada.
+
+**Principais Aprendizados:**
+- **Isolamento:** Cada teste deve ser independente e não depender de outros testes.
+- **Automatização:** Ideal para ser automatizado, permitindo execução rápida e frequente.
+- **Cobertura de Código:** Alta cobertura de código é desejável para garantir que a maioria das partes críticas do código sejam testadas.
+- **Feedback Rápido:** Fornece feedback imediato sobre a funcionalidade do código, facilitando a identificação e correção de bugs.
+
+### 2. Teste de Integração
+**Importância:** Verifica a interação entre diferentes módulos ou componentes do sistema.
+
+**Principais Aprendizados:**
+- **Interação entre Módulos:** Foca em como diferentes partes do sistema funcionam juntas.
+- **Ambiente Realista:** Deve ser realizado em um ambiente que simule o mais próximo possível o ambiente de produção.
+- **Detecção de Defeitos:** Identifica problemas que não são visíveis em testes unitários, como falhas de comunicação entre módulos.
+- **Estratégias de Integração:** Pode ser feito de forma incremental (bottom-up, top-down) ou big bang (todos os módulos de uma vez).
+
+### 3. Teste de Sistema
+**Importância:** Avalia o sistema como um todo, verificando se ele atende aos requisitos especificados.
+
+**Principais Aprendizados:**
+- **Requisitos Funcionais e Não Funcionais:** Verifica se o sistema atende tanto aos requisitos funcionais (o que o sistema deve fazer) quanto aos não funcionais (desempenho, segurança, usabilidade).
+- **Ambiente de Produção:** Deve ser realizado em um ambiente que replica o ambiente de produção o mais fielmente possível.
+- **Testes End-to-End:** Envolve a execução de cenários de uso completos, do início ao fim.
+- **Validação Completa:** Garante que o sistema completo funciona conforme esperado, incluindo interações com sistemas externos.
+
+### 4. Teste de Aceitação
+**Importância:** Valida se o sistema atende aos critérios de aceitação definidos pelo cliente ou usuário final.
+
+**Principais Aprendizados:**
+- **Critérios de Aceitação:** Baseia-se em critérios definidos pelo cliente ou usuário final, garantindo que o sistema atenda às suas expectativas.
+- **Testes de Usuário:** Muitas vezes realizados pelos próprios usuários finais ou por uma equipe que simula o comportamento do usuário.
+- **Cenários Reais:** Envolve a execução de cenários reais de uso para validar a funcionalidade e a usabilidade do sistema.
+- **Go/No-Go Decision:** Determina se o sistema está pronto para ser lançado ou se precisa de mais ajustes.
+
+### Conclusão
+Focando nesses 20% mais importantes aprendizados, você estará bem equipado para compreender os 80% necessários sobre testes de software. Esses pontos cobrem desde a verificação de unidades individuais de código até a validação final do sistema pelo usuário, proporcionando uma visão abrangente e essencial para garantir a qualidade do software.
+

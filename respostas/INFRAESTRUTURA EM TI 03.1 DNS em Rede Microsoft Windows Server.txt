@@ -1,0 +1,48 @@
+ 03.1 DNS em Rede Microsoft Windows Server
+ -
+Claro! O conceito de DNS (Domain Name System) é fundamental para a administração de redes em um ambiente Microsoft Windows Server. Aqui estão os 20% mais importantes dos aprendizados que te ajudarão a compreender os 80% necessários sobre DNS em um ambiente Windows Server:
+
+### 1. **Conceito Básico de DNS**
+   - **Definição**: DNS é um sistema que traduz nomes de domínio legíveis por humanos (como www.exemplo.com) em endereços IP legíveis por máquinas (como 192.168.1.1).
+   - **Importância**: Facilita a navegação na internet e a comunicação entre dispositivos em uma rede.
+
+### 2. **Componentes Principais do DNS**
+   - **Zonas**: Partes da hierarquia do DNS que contêm registros DNS. Existem zonas primárias, secundárias e de stub.
+   - **Registros DNS**: Tipos comuns incluem A (endereço), AAAA (endereço IPv6), CNAME (nome canônico), MX (mail exchange), e PTR (ponteiro).
+
+### 3. **Configuração de um Servidor DNS no Windows Server**
+   - **Instalação do Papel de Servidor DNS**: Utilizando o Gerenciador de Servidores para adicionar o papel de DNS.
+   - **Configuração Inicial**: Criar zonas de pesquisa direta e reversa, e adicionar registros DNS.
+
+### 4. **Zonas de Pesquisa Direta e Reversa**
+   - **Pesquisa Direta**: Traduz nomes de domínio em endereços IP.
+   - **Pesquisa Reversa**: Traduz endereços IP em nomes de domínio.
+
+### 5. **Tipos de Zonas DNS**
+   - **Zona Primária**: Armazena os dados DNS em um arquivo de texto legível.
+   - **Zona Secundária**: Cópia de uma zona primária, usada para redundância e balanceamento de carga.
+   - **Zona de Stub**: Contém apenas os registros necessários para identificar os servidores DNS autoritativos para a zona.
+
+### 6. **Resolução de Nomes**
+   - **Recursiva**: O servidor DNS realiza a consulta completa em nome do cliente.
+   - **Iterativa**: O servidor DNS responde com a melhor informação que possui, e o cliente pode precisar fazer consultas adicionais.
+
+### 7. **Forwarders e Root Hints**
+   - **Forwarders**: Servidores DNS para os quais consultas não resolvidas localmente são encaminhadas.
+   - **Root Hints**: Lista de servidores raiz que ajudam na resolução de nomes quando não há forwarders configurados.
+
+### 8. **Segurança no DNS**
+   - **DNSSEC**: Extensões de segurança DNS que ajudam a proteger contra ataques como cache poisoning.
+   - **Políticas de Firewall**: Configurar regras de firewall para proteger o servidor DNS contra acessos não autorizados.
+
+### 9. **Monitoramento e Manutenção**
+   - **Ferramentas de Diagnóstico**: Utilização de ferramentas como nslookup, dnscmd, e o Monitor de Desempenho para diagnosticar problemas.
+   - **Logs e Auditoria**: Configuração de logs para monitorar atividades e auditoria de eventos DNS.
+
+### 10. **Integração com Active Directory**
+   - **Zonas Integradas ao AD**: Zonas DNS que são armazenadas no Active Directory, proporcionando replicação automática e segurança adicional.
+   - **SRV Records**: Registros de serviço que são essenciais para a localização de controladores de domínio e outros serviços AD.
+
+### Conclusão
+Compreender esses conceitos e práticas te dará uma base sólida para gerenciar e solucionar problemas de DNS em um ambiente Microsoft Windows Server. Esses 20% de conhecimentos são cruciais para dominar a configuração, manutenção e segurança do DNS, que são responsáveis por 80% das operações diárias e resolução de problemas em redes baseadas em Windows Server.
+

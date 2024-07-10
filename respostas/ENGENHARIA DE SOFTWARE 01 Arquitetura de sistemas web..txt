@@ -1,0 +1,46 @@
+ 01 Arquitetura de sistemas web.
+ -
+Claro! A Arquitetura de Sistemas Web é um campo vasto e complexo, mas focando nos conceitos mais importantes, você pode obter uma compreensão sólida que cobrirá a maior parte do que você precisa saber. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do assunto:
+
+1. **Cliente-Servidor**: Entenda a relação entre cliente (navegador) e servidor. O cliente faz requisições HTTP e o servidor responde com recursos (HTML, CSS, JS, dados JSON, etc.).
+
+2. **HTTP/HTTPS**: Conheça o protocolo de comunicação entre cliente e servidor. HTTPS é a versão segura do HTTP, utilizando criptografia para proteger os dados transmitidos.
+
+3. **Front-end vs Back-end**: O front-end é a parte do sistema que interage diretamente com o usuário (HTML, CSS, JavaScript), enquanto o back-end lida com a lógica do servidor, banco de dados e autenticação.
+
+4. **RESTful APIs**: APIs RESTful são uma forma comum de comunicação entre o front-end e o back-end. Elas utilizam métodos HTTP (GET, POST, PUT, DELETE) para realizar operações CRUD (Create, Read, Update, Delete).
+
+5. **MVC (Model-View-Controller)**: Um padrão de design que separa a aplicação em três componentes principais: Model (dados), View (interface do usuário) e Controller (lógica de controle).
+
+6. **Banco de Dados**: Conheça os tipos de bancos de dados (relacionais como MySQL, PostgreSQL e não relacionais como MongoDB) e como eles são usados para armazenar e recuperar dados.
+
+7. **Autenticação e Autorização**: Entenda os métodos de autenticação (como JWT, OAuth) e autorização para controlar o acesso dos usuários aos recursos do sistema.
+
+8. **Arquitetura em Camadas**: Divida a aplicação em camadas (apresentação, lógica de negócio, acesso a dados) para melhorar a organização e manutenção do código.
+
+9. **Microserviços**: Uma abordagem arquitetural onde a aplicação é dividida em pequenos serviços independentes que se comunicam entre si. Cada serviço é responsável por uma funcionalidade específica.
+
+10. **DevOps e CI/CD**: Práticas de integração contínua e entrega contínua (CI/CD) para automatizar o processo de desenvolvimento, teste e implantação de software.
+
+11. **Escalabilidade**: Entenda como escalar a aplicação horizontalmente (adicionando mais servidores) e verticalmente (aumentando os recursos de um servidor).
+
+12. **Caching**: Técnicas de cache (como Redis, Memcached) para melhorar a performance armazenando respostas frequentes em memória.
+
+13. **Load Balancing**: Distribuição de carga de trabalho entre vários servidores para garantir alta disponibilidade e desempenho.
+
+14. **Segurança**: Práticas de segurança como proteção contra ataques XSS, CSRF, SQL Injection, e uso de HTTPS.
+
+15. **Serviços em Nuvem**: Utilização de serviços em nuvem (AWS, Azure, Google Cloud) para hospedar e escalar a aplicação.
+
+16. **WebSockets**: Protocolo para comunicação bidirecional em tempo real entre cliente e servidor, útil para aplicações como chats e notificações em tempo real.
+
+17. **Arquitetura de Eventos**: Uso de eventos para comunicação assíncrona entre diferentes partes do sistema, melhorando a escalabilidade e a desacoplação.
+
+18. **Serverless**: Modelo de execução onde o provedor de nuvem gerencia a infraestrutura, permitindo que os desenvolvedores se concentrem no código.
+
+19. **Content Delivery Network (CDN)**: Redes de distribuição de conteúdo para entregar recursos estáticos (imagens, vídeos, scripts) de servidores geograficamente distribuídos, melhorando a performance.
+
+20. **Monitoramento e Logging**: Ferramentas e práticas para monitorar a saúde da aplicação e registrar eventos importantes para diagnóstico e resolução de problemas.
+
+Esses conceitos formam a base da arquitetura de sistemas web e te ajudarão a entender a maioria dos desafios e soluções nesse campo.
+

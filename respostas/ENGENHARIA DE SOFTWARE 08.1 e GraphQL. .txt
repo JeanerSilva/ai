@@ -1,0 +1,116 @@
+ 08.1 e GraphQL. 
+ -
+Claro! Vamos focar nos conceitos e práticas mais importantes de GraphQL que te ajudarão a entender a maior parte do que você precisa saber. Aqui estão os 20% mais importantes:
+
+### 1. **O que é GraphQL?**
+   - **Definição**: GraphQL é uma linguagem de consulta para APIs e um tempo de execução para atender essas consultas com seus dados existentes.
+   - **Objetivo**: Permite que os clientes solicitem exatamente os dados de que precisam, nada mais, nada menos.
+
+### 2. **Principais Conceitos**
+   - **Schema**: Define a estrutura da API, incluindo tipos de dados, consultas, mutações e assinaturas.
+   - **Types**: Tipos de dados que podem ser consultados, como `ObjectType`, `ScalarType`, `EnumType`, etc.
+   - **Queries**: Solicitações de dados. Equivalente ao `GET` no REST.
+   - **Mutations**: Modificações de dados. Equivalente a `POST`, `PUT`, `DELETE` no REST.
+   - **Resolvers**: Funções que resolvem uma consulta ou mutação, retornando os dados solicitados.
+
+### 3. **Sintaxe Básica**
+   - **Consultas (Queries)**: Estrutura para solicitar dados.
+     ```graphql
+     {
+       user(id: "1") {
+         name
+         email
+       }
+     }
+     ```
+   - **Mutações (Mutations)**: Estrutura para modificar dados.
+     ```graphql
+     mutation {
+       createUser(name: "John Doe", email: "john@example.com") {
+         id
+         name
+       }
+     }
+     ```
+
+### 4. **Tipos de Dados**
+   - **Scalar Types**: Tipos primitivos como `Int`, `Float`, `String`, `Boolean`, `ID`.
+   - **Object Types**: Tipos definidos pelo usuário que representam objetos complexos.
+   - **Enum Types**: Conjunto de valores constantes.
+
+### 5. **Fragments**
+   - **Reutilização de Consultas**: Permite a reutilização de partes de consultas.
+     ```graphql
+     fragment userFields on User {
+       id
+       name
+       email
+     }
+
+     {
+       user(id: "1") {
+         ...userFields
+       }
+     }
+     ```
+
+### 6. **Variables**
+   - **Parâmetros Dinâmicos**: Permite passar variáveis para consultas e mutações.
+     ```graphql
+     query getUser($id: ID!) {
+       user(id: $id) {
+         name
+         email
+       }
+     }
+     ```
+
+### 7. **Directives**
+   - **Instruções Condicionais**: Permite modificar a execução de consultas com base em condições.
+     ```graphql
+     {
+       user(id: "1") {
+         name
+         email @include(if: $includeEmail)
+       }
+     }
+     ```
+
+### 8. **Introspection**
+   - **Auto-Documentação**: Permite que os clientes consultem o esquema da API para entender os tipos e operações disponíveis.
+
+### 9. **Ferramentas e Ecossistema**
+   - **GraphiQL**: Interface gráfica para testar consultas e mutações.
+   - **Apollo Client/Server**: Biblioteca popular para implementar clientes e servidores GraphQL.
+   - **Relay**: Framework JavaScript para construir aplicações React com GraphQL.
+
+### 10. **Vantagens e Desvantagens**
+   - **Vantagens**: Flexibilidade, eficiência na obtenção de dados, auto-documentação.
+   - **Desvantagens**: Complexidade inicial, necessidade de aprendizado, potencial para consultas excessivamente complexas.
+
+### 11. **Segurança**
+   - **Autenticação e Autorização**: Implementar mecanismos para garantir que apenas usuários autorizados possam acessar ou modificar dados.
+   - **Rate Limiting**: Limitar a quantidade de consultas para evitar abusos.
+
+### 12. **Performance**
+   - **Batching e Caching**: Técnicas para otimizar a performance das consultas.
+   - **Persisted Queries**: Armazenar consultas no servidor para reduzir a carga de processamento.
+
+### 13. **Versionamento**
+   - **Evolução do Schema**: Estratégias para evoluir o schema sem quebrar clientes existentes.
+
+### 14. **Subscrições**
+   - **Tempo Real**: Permite que os clientes recebam atualizações em tempo real.
+     ```graphql
+     subscription {
+       messageAdded {
+         id
+         content
+       }
+     }
+     ```
+
+### 15. **Ferramentas de Desenvolvimento**
+   - **Code Generators**: Ferramentas que geram código a partir do schema GraphQL.
+   - **Linters e Validadores**: Ferramentas para garantir a qualidade do código GraphQL
+

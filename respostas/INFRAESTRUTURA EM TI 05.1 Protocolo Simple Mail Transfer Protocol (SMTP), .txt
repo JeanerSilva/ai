@@ -1,0 +1,53 @@
+ 05.1 Protocolo Simple Mail Transfer Protocol (SMTP), 
+ -
+Claro! O Simple Mail Transfer Protocol (SMTP) é um protocolo fundamental para o envio de emails na internet. Aqui estão os 20% mais importantes aprendizados sobre SMTP que te ajudarão a compreender os 80% necessários:
+
+1. **Definição e Função**:
+   - **SMTP** é um protocolo de comunicação usado para enviar emails de um servidor para outro.
+   - Ele é responsável pelo envio e roteamento de emails na internet.
+
+2. **Portas Padrão**:
+   - **Porta 25**: Usada para comunicação SMTP não criptografada.
+   - **Porta 587**: Usada para envio de emails com STARTTLS (criptografia opcional).
+   - **Porta 465**: Usada para SMTP com SSL/TLS (criptografia obrigatória).
+
+3. **Comandos Básicos**:
+   - **HELO/EHLO**: Inicia a conversa entre o cliente e o servidor SMTP.
+   - **MAIL FROM**: Especifica o endereço de email do remetente.
+   - **RCPT TO**: Especifica o endereço de email do destinatário.
+   - **DATA**: Inicia a transferência do conteúdo do email.
+   - **QUIT**: Encerra a sessão SMTP.
+
+4. **Autenticação**:
+   - **SMTP-AUTH**: Método de autenticação que permite que o servidor verifique a identidade do remetente antes de permitir o envio de emails.
+
+5. **Segurança**:
+   - **STARTTLS**: Comando que inicia a criptografia da comunicação SMTP, aumentando a segurança.
+   - **SSL/TLS**: Protocolos de criptografia que protegem a transmissão de dados entre o cliente e o servidor.
+
+6. **Fluxo de Trabalho**:
+   - O cliente SMTP (geralmente um servidor de email) se conecta ao servidor SMTP do destinatário.
+   - O cliente envia comandos SMTP para o servidor, que responde com códigos de status.
+   - O email é transferido do cliente para o servidor, que então o encaminha para o servidor de email do destinatário final.
+
+7. **Códigos de Status**:
+   - **2xx**: Sucesso (e.g., 250 OK).
+   - **4xx**: Erro temporário (e.g., 450 Requested mail action not taken: mailbox unavailable).
+   - **5xx**: Erro permanente (e.g., 550 Requested action not taken: mailbox unavailable).
+
+8. **Relay e Open Relay**:
+   - **Relay**: O processo de encaminhar emails de um servidor SMTP para outro.
+   - **Open Relay**: Um servidor SMTP que permite o envio de emails de qualquer remetente para qualquer destinatário, frequentemente usado para spam.
+
+9. **Cabeçalhos de Email**:
+   - **From**: Endereço do remetente.
+   - **To**: Endereço do destinatário.
+   - **Subject**: Assunto do email.
+   - **Date**: Data e hora em que o email foi enviado.
+
+10. **Limitações do SMTP**:
+    - SMTP é um protocolo de "envio" e não de "recebimento". Para receber emails, protocolos como POP3 ou IMAP são usados.
+    - SMTP não possui mecanismos nativos para garantir a entrega do email, apenas para tentar entregá-lo.
+
+Com esses pontos, você terá uma compreensão sólida dos fundamentos do SMTP, cobrindo os aspectos mais críticos que te permitirão entender a maior parte do funcionamento e uso desse protocolo.
+

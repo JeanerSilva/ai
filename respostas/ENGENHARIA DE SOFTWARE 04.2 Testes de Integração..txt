@@ -1,0 +1,71 @@
+ 04.2 Testes de Integração.
+ -
+Claro! Testes de Integração são uma parte crucial do ciclo de desenvolvimento de software, pois garantem que diferentes módulos ou componentes de um sistema funcionem juntos como esperado. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do assunto:
+
+1. **Definição de Testes de Integração**:
+   - Testes de Integração verificam a interação entre diferentes módulos ou componentes de um sistema para garantir que eles funcionem juntos corretamente.
+
+2. **Objetivo Principal**:
+   - O principal objetivo é identificar problemas na interface entre módulos, como incompatibilidades de dados, falhas de comunicação e erros de integração.
+
+3. **Tipos de Testes de Integração**:
+   - **Big Bang**: Todos os módulos são integrados de uma vez e testados juntos.
+   - **Incremental**: Módulos são integrados e testados em pequenos grupos. Pode ser feito de forma:
+     - **Top-Down**: Testa-se do nível mais alto para o mais baixo.
+     - **Bottom-Up**: Testa-se do nível mais baixo para o mais alto.
+     - **Sanduíche**: Combinação de Top-Down e Bottom-Up.
+
+4. **Ferramentas de Teste**:
+   - Ferramentas como JUnit, TestNG, Mockito, e Selenium são frequentemente usadas para automatizar testes de integração.
+
+5. **Mocking e Stubbing**:
+   - **Mocks**: Objetos simulados que imitam o comportamento de componentes reais.
+   - **Stubs**: Objetos que fornecem respostas pré-definidas a chamadas durante os testes.
+
+6. **Ambiente de Teste**:
+   - Deve ser o mais próximo possível do ambiente de produção para garantir que os testes sejam realistas e relevantes.
+
+7. **Testes de Interface**:
+   - Foco em testar as interfaces entre módulos, como APIs, serviços web, e chamadas de métodos.
+
+8. **Testes de Banco de Dados**:
+   - Verificação de operações de leitura/escrita no banco de dados para garantir que os dados sejam manipulados corretamente.
+
+9. **Testes de Performance**:
+   - Avaliação de como a integração dos módulos afeta o desempenho do sistema, incluindo tempo de resposta e uso de recursos.
+
+10. **Automação de Testes**:
+    - Automação é crucial para testes de integração, pois permite a execução repetida e consistente dos testes, economizando tempo e reduzindo erros humanos.
+
+11. **Ciclo de Vida dos Testes**:
+    - Planejamento, design, implementação, execução, e avaliação dos testes de integração devem ser bem definidos e seguidos.
+
+12. **Cobertura de Testes**:
+    - Garantir que todos os caminhos críticos e interações entre módulos sejam cobertos pelos testes.
+
+13. **Gestão de Dados de Teste**:
+    - Uso de dados de teste realistas e relevantes para simular cenários reais durante os testes.
+
+14. **Relatórios e Análise de Resultados**:
+    - Ferramentas de relatório e análise ajudam a identificar rapidamente falhas e áreas problemáticas.
+
+15. **Integração Contínua (CI)**:
+    - Integração contínua com pipelines de CI/CD (Continuous Integration/Continuous Deployment) para executar testes de integração automaticamente a cada mudança no código.
+
+16. **Testes de Regressão**:
+    - Garantir que novas integrações não quebrem funcionalidades existentes.
+
+17. **Documentação**:
+    - Manter uma documentação clara e detalhada dos testes de integração, incluindo casos de teste, resultados e problemas encontrados.
+
+18. **Colaboração entre Equipes**:
+    - Envolver desenvolvedores, testadores e outros stakeholders para garantir que todos os aspectos da integração sejam considerados.
+
+19. **Manutenção de Testes**:
+    - Atualizar e manter os testes de integração à medida que o sistema evolui e novos módulos são adicionados.
+
+20. **Feedback Rápido**:
+    - Implementar mecanismos para obter feedback rápido sobre a qualidade da integração, permitindo correções rápidas e eficientes.
+
+Com esses aprendizados, você terá uma base sólida para entender e implementar testes de integração eficazes, garantindo que os diferentes componentes do seu sistema funcionem harmoniosamente.
+

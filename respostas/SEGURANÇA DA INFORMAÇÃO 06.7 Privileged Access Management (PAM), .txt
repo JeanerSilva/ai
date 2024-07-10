@@ -1,0 +1,46 @@
+ 06.7 Privileged Access Management (PAM), 
+ -
+Privileged Access Management (PAM) é uma área crítica da segurança cibernética que se concentra na gestão e controle de contas com privilégios elevados dentro de uma organização. Aqui estão os 20% mais importantes aprendizados que ajudarão você a compreender os 80% necessários sobre PAM:
+
+1. **Definição e Importância do PAM**:
+   - **O que é PAM**: PAM refere-se a sistemas e processos que gerenciam e protegem contas com privilégios elevados, como administradores de sistemas, contas de serviço e contas de aplicação.
+   - **Importância**: Contas privilegiadas têm acesso a sistemas críticos e dados sensíveis. A má gestão dessas contas pode levar a violações de segurança significativas.
+
+2. **Princípio do Menor Privilégio**:
+   - **Conceito**: Conceder aos usuários apenas os privilégios mínimos necessários para realizar suas funções.
+   - **Aplicação**: Reduz a superfície de ataque e limita o potencial de danos caso uma conta seja comprometida.
+
+3. **Segregação de Funções (SoD)**:
+   - **Conceito**: Separar tarefas e privilégios para que nenhuma pessoa tenha controle total sobre processos críticos.
+   - **Benefícios**: Previne fraudes e erros, aumentando a segurança e a integridade dos sistemas.
+
+4. **Gerenciamento de Senhas**:
+   - **Rotação de Senhas**: Implementar políticas de rotação regular de senhas para contas privilegiadas.
+   - **Complexidade e Armazenamento**: Garantir que senhas sejam complexas e armazenadas de forma segura, utilizando cofres de senhas.
+
+5. **Sessões Privilegiadas**:
+   - **Monitoramento e Registro**: Monitorar e registrar todas as sessões de contas privilegiadas para auditoria e detecção de atividades suspeitas.
+   - **Sessões Just-in-Time (JIT)**: Conceder acesso privilegiado temporário apenas quando necessário, reduzindo a exposição.
+
+6. **Autenticação Multifator (MFA)**:
+   - **Implementação**: Utilizar MFA para todas as contas privilegiadas para adicionar uma camada extra de segurança.
+   - **Benefícios**: Reduz significativamente o risco de comprometimento de contas devido a senhas fracas ou roubadas.
+
+7. **Auditoria e Conformidade**:
+   - **Relatórios e Logs**: Manter registros detalhados de todas as atividades de contas privilegiadas para auditoria e conformidade regulatória.
+   - **Revisões Regulares**: Realizar revisões periódicas de acessos e atividades para garantir conformidade contínua.
+
+8. **Gerenciamento de Acesso Baseado em Funções (RBAC)**:
+   - **Definição de Funções**: Criar perfis de acesso baseados em funções específicas dentro da organização.
+   - **Benefícios**: Simplifica a gestão de acessos e garante que os privilégios sejam concedidos de acordo com as responsabilidades do usuário.
+
+9. **Automação e Orquestração**:
+   - **Automatização de Processos**: Utilizar ferramentas de PAM para automatizar a concessão, revogação e monitoramento de acessos privilegiados.
+   - **Eficiência e Redução de Erros**: A automação reduz a carga administrativa e minimiza erros humanos.
+
+10. **Educação e Treinamento**:
+    - **Conscientização**: Treinar funcionários sobre a importância da segurança de contas privilegiadas e as melhores práticas de PAM.
+    - **Cultura de Segurança**: Promover uma cultura de segurança onde todos entendem e respeitam as políticas de PAM.
+
+Ao focar nesses pontos-chave, você estará bem posicionado para entender os aspectos mais críticos do Privileged Access Management e como ele contribui para a segurança geral da sua organização.
+

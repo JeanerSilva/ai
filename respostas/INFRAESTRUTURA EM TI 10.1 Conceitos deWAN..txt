@@ -1,0 +1,49 @@
+ 10.1 Conceitos deWAN.
+ -
+Claro! A abordagem de Pareto, ou a regra 80/20, sugere que 20% dos conceitos mais importantes de uma área de estudo geralmente fornecem 80% da compreensão necessária. Aqui estão os conceitos mais cruciais sobre WAN (Wide Area Network) que você deve focar para obter uma compreensão sólida:
+
+1. **Definição de WAN**:
+   - **O que é WAN**: Uma WAN (Wide Area Network) é uma rede de telecomunicações que se estende por uma grande área geográfica, conectando múltiplas redes locais (LANs) e outros tipos de redes.
+   - **Propósito**: Facilitar a comunicação e o compartilhamento de recursos entre dispositivos localizados em diferentes regiões geográficas.
+
+2. **Componentes Principais**:
+   - **Roteadores**: Dispositivos que encaminham pacotes de dados entre redes diferentes.
+   - **Switches**: Dispositivos que conectam dispositivos dentro de uma rede e utilizam a comutação de pacotes para encaminhar dados ao destino correto.
+   - **Modems**: Dispositivos que modulam e demodulam sinais para transmissão de dados via linhas telefônicas ou cabos.
+
+3. **Tecnologias de Conexão**:
+   - **MPLS (Multiprotocol Label Switching)**: Tecnologia que direciona dados de um nó de rede para o próximo com base em rótulos curtos em vez de endereços de rede longos.
+   - **VPN (Virtual Private Network)**: Cria uma conexão segura e criptografada sobre uma rede menos segura, como a internet.
+   - **Frame Relay e ATM (Asynchronous Transfer Mode)**: Tecnologias mais antigas usadas para transmitir dados em redes WAN.
+
+4. **Protocolos de Comunicação**:
+   - **TCP/IP (Transmission Control Protocol/Internet Protocol)**: Conjunto de protocolos que permite a comunicação entre dispositivos em uma rede.
+   - **OSPF (Open Shortest Path First)**: Protocolo de roteamento usado para determinar o caminho mais eficiente para a transmissão de dados.
+
+5. **Topologias de WAN**:
+   - **Ponto-a-Ponto**: Conexão direta entre duas redes.
+   - **Malha (Mesh)**: Cada nó está conectado a vários outros nós, proporcionando redundância e resiliência.
+   - **Estrela (Star)**: Todas as redes são conectadas a um único ponto central.
+
+6. **Segurança em WAN**:
+   - **Firewalls**: Dispositivos ou software que monitoram e controlam o tráfego de rede com base em regras de segurança predefinidas.
+   - **Criptografia**: Processo de codificação de dados para proteger informações sensíveis durante a transmissão.
+
+7. **QoS (Quality of Service)**:
+   - **Importância**: Garantir que aplicações críticas recebam prioridade na transmissão de dados, melhorando a performance e a confiabilidade.
+   - **Implementação**: Técnicas como priorização de pacotes e gerenciamento de largura de banda.
+
+8. **Gerenciamento de WAN**:
+   - **Monitoramento de Rede**: Ferramentas e técnicas para monitorar o desempenho e a saúde da rede.
+   - **SLA (Service Level Agreement)**: Acordos de nível de serviço que definem os padrões de desempenho e disponibilidade que o provedor de serviços deve cumprir.
+
+9. **Latência e Largura de Banda**:
+   - **Latência**: Tempo que um pacote de dados leva para viajar de um ponto a outro na rede.
+   - **Largura de Banda**: Quantidade máxima de dados que podem ser transmitidos por um caminho de rede em um determinado período de tempo.
+
+10. **Provedores de Serviços WAN**:
+    - **ISPs (Internet Service Providers)**: Empresas que fornecem acesso à internet e outros serviços de rede.
+    - **MSPs (Managed Service Providers)**: Empresas que gerenciam e mantêm redes WAN para outras organizações.
+
+Focando nesses conceitos, você obterá uma compreensão robusta dos fundamentos de WAN, que cobrirão a maioria das necessidades práticas e teóricas do assunto.
+

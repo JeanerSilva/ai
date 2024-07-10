@@ -1,0 +1,52 @@
+ 07.1 MITRE ATT&CK, 
+ -
+Claro! O MITRE ATT&CK é uma estrutura amplamente utilizada para entender e categorizar as táticas, técnicas e procedimentos (TTPs) usados por adversários em ataques cibernéticos. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender os 80% necessários sobre o MITRE ATT&CK:
+
+1. **Definição e Propósito**:
+   - **O que é o MITRE ATT&CK**: É uma base de conhecimento detalhada que descreve o comportamento dos adversários em termos de táticas e técnicas usadas em ataques cibernéticos.
+   - **Objetivo**: Ajudar organizações a entender, detectar e responder a ameaças cibernéticas de maneira mais eficaz.
+
+2. **Estrutura da Matriz**:
+   - **Táticas**: Representam os objetivos que os adversários estão tentando alcançar (e.g., execução, persistência, exfiltração).
+   - **Técnicas**: Descrevem as maneiras específicas pelas quais os adversários alcançam esses objetivos (e.g., phishing, uso de ferramentas de administração remota).
+
+3. **Categorias Principais**:
+   - **Enterprise**: Foca em ataques contra redes corporativas.
+   - **Mobile**: Foca em ataques contra dispositivos móveis.
+   - **ICS (Industrial Control Systems)**: Foca em ataques contra sistemas de controle industrial.
+
+4. **Uso Prático**:
+   - **Detecção e Resposta**: Usar a matriz para mapear atividades suspeitas e identificar possíveis técnicas usadas por adversários.
+   - **Avaliação de Segurança**: Avaliar a cobertura de segurança existente e identificar lacunas.
+
+5. **Táticas Comuns**:
+   - **Reconhecimento**: Coleta de informações sobre o alvo.
+   - **Inicialização de Acesso**: Métodos para obter acesso inicial (e.g., spear-phishing).
+   - **Execução**: Execução de código malicioso no sistema alvo.
+   - **Persistência**: Técnicas para manter o acesso ao sistema comprometido.
+   - **Escalação de Privilégios**: Obtenção de níveis mais altos de privilégio no sistema.
+   - **Defesa Evasiva**: Técnicas para evitar detecção.
+   - **Exfiltração**: Remoção de dados do sistema alvo.
+
+6. **Ferramentas e Recursos**:
+   - **Navigator**: Ferramenta interativa para visualizar e personalizar a matriz ATT&CK.
+   - **Caldera**: Plataforma automatizada de emulação de adversários baseada no ATT&CK.
+
+7. **Comunidade e Atualizações**:
+   - **Contribuições da Comunidade**: A matriz é continuamente atualizada com contribuições de pesquisadores e profissionais de segurança.
+   - **Versões e Atualizações**: A matriz é periodicamente atualizada para refletir novas técnicas e táticas observadas.
+
+8. **Integração com Outros Frameworks**:
+   - **NIST Cybersecurity Framework**: O ATT&CK pode ser usado em conjunto com outros frameworks de segurança para uma abordagem mais holística.
+   - **Ferramentas SIEM e SOAR**: Integração com ferramentas de gerenciamento de eventos e informações de segurança (SIEM) e orquestração, automação e resposta de segurança (SOAR).
+
+9. **Casos de Uso**:
+   - **Simulação de Ataques**: Usar a matriz para planejar e executar simulações de ataques para testar defesas.
+   - **Análise de Incidentes**: Mapear atividades observadas durante um incidente para identificar técnicas e táticas usadas.
+
+10. **Educação e Treinamento**:
+    - **Capacitação de Equipes**: Treinar equipes de segurança para reconhecer e responder a técnicas descritas na matriz.
+    - **Certificações e Cursos**: Existem cursos e certificações que focam no uso do MITRE ATT&CK para melhorar a postura de segurança.
+
+Compreender esses pontos-chave te dará uma base sólida para explorar mais profundamente o MITRE ATT&CK e aplicar seus conceitos de maneira eficaz em sua organização.
+

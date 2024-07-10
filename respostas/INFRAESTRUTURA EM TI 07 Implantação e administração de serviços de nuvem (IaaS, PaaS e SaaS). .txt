@@ -1,0 +1,66 @@
+ 07 Implantação e administração de serviços de nuvem (IaaS, PaaS e SaaS). 
+ -
+Claro, a regra 80/20 (Princípio de Pareto) sugere que 20% dos esforços podem gerar 80% dos resultados. Aqui estão os 20% mais importantes aprendizados sobre a implantação e administração de serviços de nuvem (IaaS, PaaS e SaaS) que te ajudarão a compreender os 80% necessários:
+
+### 1. **Conceitos Básicos de Nuvem**
+   - **IaaS (Infrastructure as a Service)**: Fornece infraestrutura virtualizada, como servidores, armazenamento e redes. Exemplos: AWS EC2, Google Compute Engine.
+   - **PaaS (Platform as a Service)**: Fornece uma plataforma para desenvolvimento e implantação de aplicações, sem gerenciar a infraestrutura subjacente. Exemplos: Google App Engine, Microsoft Azure App Services.
+   - **SaaS (Software as a Service)**: Fornece software através da internet, sem necessidade de instalação local. Exemplos: Google Workspace, Salesforce.
+
+### 2. **Modelos de Implantação**
+   - **Nuvem Pública**: Serviços oferecidos por terceiros através da internet.
+   - **Nuvem Privada**: Infraestrutura dedicada a uma única organização.
+   - **Nuvem Híbrida**: Combinação de nuvens públicas e privadas, permitindo portabilidade de dados e aplicações.
+
+### 3. **Segurança na Nuvem**
+   - **Autenticação e Autorização**: Implementação de controles de acesso rigorosos.
+   - **Criptografia**: Proteção de dados em trânsito e em repouso.
+   - **Compliance**: Conformidade com regulamentações e padrões de segurança.
+
+### 4. **Gerenciamento de Custos**
+   - **Monitoramento e Otimização**: Uso de ferramentas para monitorar e otimizar o uso de recursos.
+   - **Modelos de Preços**: Compreensão dos diferentes modelos de preços (pay-as-you-go, reservas, etc.).
+
+### 5. **Escalabilidade e Elasticidade**
+   - **Escalabilidade Vertical e Horizontal**: Capacidade de aumentar recursos (vertical) ou adicionar mais unidades de recurso (horizontal).
+   - **Elasticidade**: Capacidade de ajustar automaticamente os recursos conforme a demanda.
+
+### 6. **Ferramentas e Serviços de Gerenciamento**
+   - **Painéis de Controle**: Uso de dashboards para monitorar e gerenciar recursos.
+   - **Automação**: Implementação de scripts e ferramentas para automatizar tarefas repetitivas.
+
+### 7. **Backup e Recuperação de Desastres**
+   - **Planos de Backup**: Estratégias para backup regular de dados.
+   - **Recuperação de Desastres**: Planos para recuperação rápida em caso de falhas.
+
+### 8. **Integração e Interoperabilidade**
+   - **APIs e SDKs**: Uso de APIs e SDKs para integrar serviços de nuvem com outras aplicações.
+   - **Ferramentas de Integração**: Uso de ferramentas como Zapier, MuleSoft para integração de serviços.
+
+### 9. **Desempenho e Monitoramento**
+   - **Métricas de Desempenho**: Monitoramento de métricas como latência, throughput e tempo de resposta.
+   - **Ferramentas de Monitoramento**: Uso de ferramentas como CloudWatch, Azure Monitor.
+
+### 10. **Governança e Compliance**
+   - **Políticas de Governança**: Definição de políticas para uso e gerenciamento de recursos.
+   - **Compliance**: Garantia de conformidade com regulamentações como GDPR, HIPAA.
+
+### 11. **DevOps e CI/CD**
+   - **Integração Contínua e Entrega Contínua (CI/CD)**: Implementação de pipelines para automação de testes e deploys.
+   - **Ferramentas DevOps**: Uso de ferramentas como Jenkins, GitLab CI, Azure DevOps.
+
+### 12. **Migração para a Nuvem**
+   - **Estratégias de Migração**: Lift and Shift, Replatforming, Refactoring.
+   - **Ferramentas de Migração**: Uso de ferramentas como AWS Migration Hub, Azure Migrate.
+
+### 13. **Gerenciamento de Identidade e Acesso (IAM)**
+   - **IAM**: Implementação de políticas de identidade e acesso para controlar quem pode fazer o quê na nuvem.
+   - **Single Sign-On (SSO)**: Implementação de SSO para simplificar o gerenciamento de acesso.
+
+### 14. **Serviços de Rede na Nuvem**
+   - **VPC (Virtual Private Cloud)**: Configuração e gerenciamento de redes virtuais.
+   - **Load Balancing**: Uso de balanceadores de carga para distribuir o tráfego.
+
+### 15. **Serviços de Armazenamento**
+  
+

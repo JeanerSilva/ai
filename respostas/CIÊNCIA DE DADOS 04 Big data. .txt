@@ -1,0 +1,54 @@
+04 Big data. 
+ -
+Claro! A aplicação do princípio de Pareto (80/20) ao aprendizado de Big Data pode ser extremamente útil para focar nos aspectos mais críticos que proporcionarão a maior compreensão do tema. Aqui estão os 20% mais importantes aprendizados sobre Big Data que ajudarão a compreender 80% do necessário:
+
+1. **Definição de Big Data**:
+   - **Volume**: Quantidade massiva de dados gerados a cada segundo.
+   - **Variedade**: Diversidade de tipos de dados (estruturados, semiestruturados e não estruturados).
+   - **Velocidade**: Rapidez com que os dados são gerados e processados.
+   - **Veracidade**: Qualidade e confiabilidade dos dados.
+   - **Valor**: Potencial de transformar dados em insights valiosos.
+
+2. **Arquitetura de Big Data**:
+   - **Data Lakes**: Armazenamento de grandes volumes de dados em seu formato bruto.
+   - **Data Warehouses**: Armazenamento de dados estruturados para análise e relatórios.
+
+3. **Tecnologias e Ferramentas**:
+   - **Hadoop**: Framework de software para armazenamento e processamento distribuído de grandes conjuntos de dados.
+   - **Spark**: Motor de processamento de dados rápido e de propósito geral.
+   - **NoSQL Databases**: Bancos de dados não relacionais como MongoDB, Cassandra, etc.
+
+4. **Processamento de Dados**:
+   - **Batch Processing**: Processamento de grandes volumes de dados em lotes.
+   - **Stream Processing**: Processamento de dados em tempo real.
+
+5. **Análise de Dados**:
+   - **Data Mining**: Extração de padrões e conhecimento a partir de grandes conjuntos de dados.
+   - **Machine Learning**: Uso de algoritmos para aprender e fazer previsões a partir de dados.
+
+6. **Governança de Dados**:
+   - **Qualidade dos Dados**: Garantir que os dados sejam precisos, completos e confiáveis.
+   - **Segurança dos Dados**: Proteção contra acesso não autorizado e violações de dados.
+   - **Compliance**: Conformidade com regulamentos e leis de proteção de dados.
+
+7. **Visualização de Dados**:
+   - **Ferramentas de Visualização**: Uso de ferramentas como Tableau, Power BI, etc., para criar gráficos e dashboards.
+   - **Storytelling com Dados**: Capacidade de contar uma história convincente com os dados para facilitar a tomada de decisões.
+
+8. **Casos de Uso de Big Data**:
+   - **Marketing Personalizado**: Segmentação e personalização de campanhas de marketing.
+   - **Detecção de Fraudes**: Identificação de atividades fraudulentas em tempo real.
+   - **Manutenção Preditiva**: Previsão de falhas em equipamentos antes que ocorram.
+
+9. **Desafios de Big Data**:
+   - **Escalabilidade**: Capacidade de crescer e lidar com volumes crescentes de dados.
+   - **Integração de Dados**: Combinação de dados de diferentes fontes e formatos.
+   - **Privacidade**: Proteção da privacidade dos indivíduos ao lidar com grandes volumes de dados pessoais.
+
+10. **Futuro do Big Data**:
+    - **Inteligência Artificial**: Integração de IA para análises mais avançadas.
+    - **Internet das Coisas (IoT)**: Crescimento exponencial de dados gerados por dispositivos conectados.
+    - **Computação em Nuvem**: Uso crescente de serviços de nuvem para armazenamento e processamento de Big Data.
+
+Focando nesses tópicos, você obterá uma compreensão sólida dos conceitos fundamentais e das tecnologias que impulsionam o Big Data, permitindo que você explore mais profundamente conforme necessário.
+

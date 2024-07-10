@@ -1,0 +1,68 @@
+ 04.3 TDD. 
+ -
+Claro! Test-Driven Development (TDD) é uma prática de desenvolvimento de software que enfatiza a criação de testes automatizados antes da implementação do código funcional. Aqui estão os 20% mais importantes aprendizados sobre TDD que te ajudarão a compreender 80% do necessário:
+
+1. **Ciclo Red-Green-Refactor**:
+   - **Red**: Escreva um teste que falhe. Isso define o que você quer que o código faça.
+   - **Green**: Escreva o código mínimo necessário para fazer o teste passar.
+   - **Refactor**: Melhore o código, mantendo os testes passando. Isso inclui a remoção de duplicações e a melhoria da estrutura do código.
+
+2. **Especificação Antes da Implementação**:
+   - TDD força você a pensar sobre os requisitos e a especificação do comportamento do código antes de escrever a implementação.
+
+3. **Feedback Rápido**:
+   - Testes automatizados fornecem feedback imediato sobre se o código está funcionando conforme o esperado, permitindo correções rápidas.
+
+4. **Design Orientado a Testes**:
+   - TDD incentiva um design de código mais modular e desacoplado, facilitando a manutenção e a evolução do software.
+
+5. **Cobertura de Testes**:
+   - A prática de TDD geralmente resulta em uma alta cobertura de testes, o que aumenta a confiabilidade do software.
+
+6. **Documentação Viva**:
+   - Os testes servem como documentação viva do comportamento do sistema, facilitando a compreensão do código por novos desenvolvedores.
+
+7. **Redução de Bugs**:
+   - A escrita de testes antes do código funcional ajuda a capturar bugs mais cedo no ciclo de desenvolvimento.
+
+8. **Refatoração Segura**:
+   - Com uma suíte de testes robusta, os desenvolvedores podem refatorar o código com confiança, sabendo que os testes irão capturar regressões.
+
+9. **Pequenos Passos**:
+   - TDD incentiva a escrita de código em pequenos incrementos, o que facilita a identificação e correção de problemas.
+
+10. **Testes Unitários**:
+    - TDD é frequentemente associado a testes unitários, que testam pequenas unidades de código de forma isolada.
+
+11. **Mocking e Stubbing**:
+    - Para isolar unidades de código durante os testes, TDD frequentemente utiliza técnicas como mocking e stubbing para simular dependências.
+
+12. **Manutenção de Testes**:
+    - Testes também precisam ser mantidos. À medida que o código evolui, os testes devem ser atualizados para refletir as mudanças.
+
+13. **Integração Contínua**:
+    - TDD é frequentemente usado em conjunto com práticas de integração contínua, onde o código é frequentemente integrado e testado.
+
+14. **Testes de Regressão**:
+    - Testes escritos durante TDD ajudam a prevenir regressões, garantindo que novas mudanças não quebrem funcionalidades existentes.
+
+15. **Design de API**:
+    - TDD pode ajudar a melhorar o design de APIs, pois os testes forçam os desenvolvedores a pensar sobre como a API será usada.
+
+16. **Cultura de Qualidade**:
+    - Adotar TDD pode promover uma cultura de qualidade dentro da equipe de desenvolvimento, onde a qualidade do código é uma prioridade.
+
+17. **Ferramentas de Teste**:
+    - Familiarize-se com ferramentas de teste populares na sua linguagem de programação, como JUnit para Java, pytest para Python, etc.
+
+18. **Testes Automatizados vs. Manuais**:
+    - TDD enfatiza a automação de testes, mas não elimina a necessidade de testes manuais, especialmente para testes exploratórios e de usabilidade.
+
+19. **Testes de Aceitação**:
+    - Além dos testes unitários, TDD pode ser estendido para incluir testes de aceitação, que verificam se o sistema atende aos requisitos do usuário.
+
+20. **Prática e Disciplina**:
+    - TDD requer prática e disciplina. Comece com pequenos projetos e gradualmente incorpore a prática em projetos maiores.
+
+Esses pontos fornecem uma base sólida para entender e aplicar TDD de maneira eficaz. A prática contínua e a adaptação dessas técnicas ao seu fluxo de trabalho específico são essenciais para colher os benefícios completos do TDD.
+

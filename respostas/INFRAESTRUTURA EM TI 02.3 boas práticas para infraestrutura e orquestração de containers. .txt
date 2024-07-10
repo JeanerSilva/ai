@@ -1,0 +1,44 @@
+ 02.3 boas práticas para infraestrutura e orquestração de containers. 
+ -
+Claro! A aplicação do princípio de Pareto (80/20) pode ser muito útil para focar nos aspectos mais críticos da infraestrutura e orquestração de containers. Aqui estão os 20% mais importantes aprendizados que provavelmente te ajudarão a compreender 80% do necessário sobre o assunto:
+
+### 1. **Isolamento e Imutabilidade**
+   - **Isolamento:** Containers devem ser isolados uns dos outros para garantir que problemas em um container não afetem os outros.
+   - **Imutabilidade:** Trate containers como imutáveis. Uma vez que um container é criado, ele não deve ser modificado. Em vez disso, crie uma nova versão do container.
+
+### 2. **Automatização e Orquestração**
+   - **Kubernetes:** Aprenda os fundamentos do Kubernetes, que é a ferramenta de orquestração de containers mais popular. Entenda conceitos como Pods, Services, Deployments e ConfigMaps.
+   - **Automatização:** Use ferramentas de CI/CD (Continuous Integration/Continuous Deployment) para automatizar o build, teste e deploy de containers.
+
+### 3. **Segurança**
+   - **Princípio do Menor Privilégio:** Execute containers com o menor privilégio possível. Evite rodar containers como root.
+   - **Escaneamento de Vulnerabilidades:** Utilize ferramentas de escaneamento de vulnerabilidades para verificar imagens de containers antes de usá-las em produção.
+
+### 4. **Monitoramento e Logging**
+   - **Monitoramento:** Implemente soluções de monitoramento para acompanhar a saúde e o desempenho dos containers. Ferramentas como Prometheus e Grafana são muito utilizadas.
+   - **Logging:** Centralize logs de containers para facilitar a análise e o troubleshooting. Ferramentas como ELK Stack (Elasticsearch, Logstash, Kibana) são comuns.
+
+### 5. **Networking e Service Discovery**
+   - **Networking:** Entenda como funciona a rede de containers e como configurar políticas de rede. Ferramentas como Calico e Flannel podem ser úteis.
+   - **Service Discovery:** Utilize mecanismos de descoberta de serviços para que containers possam se comunicar entre si de forma eficiente. Kubernetes oferece soluções nativas para isso.
+
+### 6. **Persistência de Dados**
+   - **Volumes:** Utilize volumes para persistir dados que precisam sobreviver ao ciclo de vida dos containers. Kubernetes oferece diferentes tipos de volumes, como Persistent Volumes (PV) e Persistent Volume Claims (PVC).
+
+### 7. **Escalabilidade e Alta Disponibilidade**
+   - **Escalabilidade:** Configure autoescalamento para ajustar automaticamente o número de replicas de um serviço com base na demanda.
+   - **Alta Disponibilidade:** Distribua containers em múltiplos nós para garantir alta disponibilidade e resiliência a falhas.
+
+### 8. **Gerenciamento de Configurações e Segredos**
+   - **ConfigMaps e Secrets:** Utilize ConfigMaps para gerenciar configurações e Secrets para gerenciar informações sensíveis, como senhas e tokens.
+
+### 9. **Imagens de Containers**
+   - **Imagens Leves:** Utilize imagens de containers leves para reduzir o tempo de build e deploy. Imagens baseadas em Alpine Linux são um bom exemplo.
+   - **Versionamento:** Versione suas imagens de containers para facilitar o rollback em caso de problemas.
+
+### 10. **Documentação e Treinamento**
+   - **Documentação:** Mantenha uma documentação clara e atualizada sobre a infraestrutura e orquestração de containers.
+   - **Treinamento:** Invista em treinamento contínuo para a equipe, garantindo que todos estejam atualizados com as melhores práticas e novas tecnologias.
+
+Focando nesses pontos, você estará bem encaminhado para entender a maior parte do que é necessário sobre infraestrutura e orquestração de containers.
+

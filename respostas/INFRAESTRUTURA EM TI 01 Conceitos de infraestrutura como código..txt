@@ -1,0 +1,46 @@
+ 01 Conceitos de infraestrutura como código.
+ -
+Claro, a ideia de focar nos 20% mais importantes para compreender 80% do assunto é baseada no Princípio de Pareto. Aqui estão os conceitos essenciais de Infraestrutura como Código (IaC) que você deve entender:
+
+1. **Definição de IaC**:
+   - **Infraestrutura como Código (IaC)** é a prática de gerenciar e provisionar data centers através de arquivos de definição legíveis por máquina, em vez de configuração física de hardware ou ferramentas de configuração interativas.
+
+2. **Benefícios do IaC**:
+   - **Consistência e Reprodutibilidade**: Garantir que a infraestrutura seja configurada de maneira consistente em diferentes ambientes.
+   - **Automação e Eficiência**: Reduzir o tempo e o esforço necessários para provisionar e gerenciar a infraestrutura.
+   - **Controle de Versão**: Usar sistemas de controle de versão (como Git) para rastrear mudanças na infraestrutura.
+
+3. **Tipos de IaC**:
+   - **Declarativo**: Você descreve o estado desejado da infraestrutura e a ferramenta de IaC se encarrega de alcançar esse estado (ex.: Terraform, CloudFormation).
+   - **Imperativo**: Você especifica as etapas exatas para alcançar o estado desejado (ex.: Ansible, Chef).
+
+4. **Ferramentas Populares**:
+   - **Terraform**: Uma ferramenta de IaC declarativa que permite definir a infraestrutura em um arquivo de configuração.
+   - **AWS CloudFormation**: Um serviço da AWS que permite modelar e configurar recursos da AWS.
+   - **Ansible**: Uma ferramenta de automação que pode ser usada para configuração de sistemas, gerenciamento de aplicativos e orquestração.
+
+5. **Práticas Recomendadas**:
+   - **Modularização**: Dividir a infraestrutura em módulos reutilizáveis para facilitar a manutenção e a escalabilidade.
+   - **Idempotência**: Garantir que a aplicação repetida do código de infraestrutura não cause efeitos colaterais.
+   - **Testes e Validação**: Implementar testes para validar a configuração da infraestrutura antes de aplicá-la em ambientes de produção.
+
+6. **Integração com CI/CD**:
+   - **Pipeline de CI/CD**: Integrar IaC em pipelines de Integração Contínua e Entrega Contínua para automatizar a implantação e a atualização da infraestrutura.
+
+7. **Gerenciamento de Estado**:
+   - **Estado da Infraestrutura**: Manter um arquivo de estado que rastreia os recursos provisionados para garantir que a infraestrutura esteja sincronizada com o código.
+
+8. **Segurança e Compliance**:
+   - **Políticas de Segurança**: Implementar políticas de segurança e conformidade diretamente no código de infraestrutura.
+   - **Auditoria e Monitoramento**: Usar ferramentas para auditar e monitorar a infraestrutura provisionada.
+
+9. **Escalabilidade e Flexibilidade**:
+   - **Escalabilidade**: Facilitar a escalabilidade horizontal e vertical da infraestrutura.
+   - **Flexibilidade**: Permitir a rápida adaptação a mudanças nos requisitos de infraestrutura.
+
+10. **Documentação e Colaboração**:
+    - **Documentação**: Manter uma documentação clara e atualizada do código de infraestrutura.
+    - **Colaboração**: Facilitar a colaboração entre equipes de desenvolvimento e operações (DevOps).
+
+Compreender esses conceitos fundamentais de IaC fornecerá uma base sólida para você explorar mais profundamente e aplicar práticas de Infraestrutura como Código em seus projetos.
+

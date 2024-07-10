@@ -1,0 +1,44 @@
+ 01.5 TLS.
+ -
+Claro! O TLS (Transport Layer Security) é um protocolo crucial para a segurança na comunicação de dados na internet. Aqui estão os 20% mais importantes aprendizados sobre TLS que te ajudarão a compreender os 80% necessários:
+
+1. **Objetivo do TLS**:
+   - **Segurança na Comunicação**: TLS é usado para garantir a privacidade e a integridade dos dados transmitidos entre dois sistemas (por exemplo, um navegador e um servidor web).
+
+2. **Componentes Principais**:
+   - **Criptografia**: Protege os dados transmitidos contra interceptação.
+   - **Autenticação**: Garante que as partes envolvidas na comunicação são quem dizem ser.
+   - **Integridade dos Dados**: Assegura que os dados não foram alterados durante a transmissão.
+
+3. **Funcionamento Básico**:
+   - **Handshake TLS**: Processo inicial onde o cliente e o servidor estabelecem uma conexão segura, negociando parâmetros de criptografia e trocando chaves.
+   - **Sessão TLS**: Após o handshake, uma sessão segura é estabelecida para a transmissão de dados.
+
+4. **Certificados Digitais**:
+   - **Certificados SSL/TLS**: Utilizados para autenticar a identidade do servidor e, opcionalmente, do cliente.
+   - **Autoridades Certificadoras (CAs)**: Entidades confiáveis que emitem certificados digitais.
+
+5. **Versões do TLS**:
+   - **TLS 1.0, 1.1, 1.2, 1.3**: Cada versão traz melhorias em segurança e desempenho. TLS 1.3 é a versão mais recente e segura.
+
+6. **Algoritmos Criptográficos**:
+   - **Simétricos e Assimétricos**: TLS usa criptografia simétrica para a transmissão de dados e criptografia assimétrica para o handshake.
+   - **Algoritmos Comuns**: AES (Advanced Encryption Standard) para criptografia simétrica, RSA (Rivest-Shamir-Adleman) e ECC (Elliptic Curve Cryptography) para criptografia assimétrica.
+
+7. **Cifras e Protocolos de Cifra**:
+   - **Suites de Cifras**: Conjuntos de algoritmos que determinam como a criptografia e a autenticação serão realizadas.
+   - **Forward Secrecy**: Propriedade que garante que a chave de sessão não será comprometida mesmo se a chave privada do servidor for comprometida no futuro.
+
+8. **Certificados e Chaves**:
+   - **Chave Pública e Privada**: Utilizadas no processo de criptografia assimétrica.
+   - **Certificados de Servidor**: Contêm a chave pública do servidor e são assinados por uma CA.
+
+9. **Implementações de TLS**:
+   - **Bibliotecas Comuns**: OpenSSL, GnuTLS, e mbed TLS são algumas das bibliotecas mais usadas para implementar TLS.
+
+10. **Configuração e Melhores Práticas**:
+    - **Configuração Segura**: Desativar versões antigas e inseguras do TLS, usar cifras fortes, e configurar corretamente os certificados.
+    - **Testes de Segurança**: Regularmente testar a configuração TLS para vulnerabilidades conhecidas.
+
+Compreender esses pontos te dará uma base sólida para entender como o TLS funciona e como ele protege a comunicação na internet.
+

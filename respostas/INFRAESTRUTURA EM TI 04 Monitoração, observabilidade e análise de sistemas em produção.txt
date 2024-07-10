@@ -1,0 +1,57 @@
+ 04 Monitoração, observabilidade e análise de sistemas em produção
+ -
+Claro! A aplicação do princípio de Pareto (80/20) pode ajudar a focar nos aspectos mais críticos da monitoração, observabilidade e análise de sistemas em produção. Aqui estão os 20% mais importantes aprendizados que provavelmente cobrirão 80% do que você precisa saber:
+
+### 1. **Conceitos Básicos**
+   - **Monitoração**: Processo de coletar, analisar e usar informações para garantir que um sistema está funcionando conforme esperado.
+   - **Observabilidade**: Capacidade de entender o estado interno de um sistema com base em suas saídas externas.
+   - **Análise de Sistemas**: Estudo detalhado de sistemas para entender seu comportamento e desempenho.
+
+### 2. **Tipos de Dados de Monitoração**
+   - **Métricas**: Dados numéricos coletados ao longo do tempo (e.g., CPU, memória, latência).
+   - **Logs**: Registros de eventos que ocorrem dentro do sistema.
+   - **Traces**: Rastreamento de chamadas e transações através de diferentes componentes do sistema.
+
+### 3. **Ferramentas de Monitoração e Observabilidade**
+   - **Prometheus**: Ferramenta de monitoração e alerta.
+   - **Grafana**: Plataforma de visualização de métricas.
+   - **Elasticsearch, Logstash, Kibana (ELK Stack)**: Conjunto de ferramentas para análise de logs.
+   - **Jaeger**: Ferramenta de tracing distribuído.
+
+### 4. **Princípios de Observabilidade**
+   - **Três Pilares**: Logs, métricas e traces.
+   - **Instrumentação**: Adicionar código para coletar dados de monitoração.
+   - **Correlações**: Relacionar diferentes tipos de dados para obter insights.
+
+### 5. **Alertas e Notificações**
+   - **Definição de Limiares**: Estabelecer limites para métricas que, quando ultrapassados, disparam alertas.
+   - **Alertas Baseados em Anomalias**: Detectar comportamentos anômalos em vez de apenas valores estáticos.
+   - **Notificações**: Enviar alertas para equipes responsáveis via e-mail, SMS, ou ferramentas de colaboração como Slack.
+
+### 6. **Análise de Logs**
+   - **Centralização de Logs**: Coletar logs de diferentes fontes em um único local.
+   - **Indexação e Pesquisa**: Facilitar a busca e análise de logs.
+   - **Análise de Padrões**: Identificar padrões e anomalias nos logs.
+
+### 7. **Tracing Distribuído**
+   - **Contexto de Transação**: Seguir uma transação através de múltiplos serviços.
+   - **Latência e Performance**: Identificar gargalos e latências em chamadas de serviço.
+   - **Mapeamento de Dependências**: Visualizar como diferentes serviços interagem.
+
+### 8. **Dashboards e Visualizações**
+   - **Painéis de Controle**: Criar dashboards para visualização em tempo real.
+   - **Gráficos e Tabelas**: Usar diferentes tipos de visualizações para entender dados.
+   - **KPIs**: Definir e monitorar Indicadores Chave de Performance.
+
+### 9. **Automação e Scripting**
+   - **Automatização de Tarefas**: Usar scripts para coletar e analisar dados automaticamente.
+   - **Infraestrutura como Código (IaC)**: Gerenciar infraestrutura de monitoração como código.
+
+### 10. **Boas Práticas**
+   - **Redundância e Resiliência**: Garantir que sistemas de monitoração são redundantes e resilientes.
+   - **Segurança**: Proteger dados de monitoração e garantir que apenas pessoal autorizado tenha acesso.
+   - **Documentação**: Manter documentação atualizada sobre o que está sendo monitorado e como.
+
+### Conclusão
+Focar nesses 10 pontos principais fornecerá uma base sólida para entender a monitoração, observabilidade e análise de sistemas em produção. Compreender esses conceitos e ferramentas permitirá que você identifique e resolva problemas de forma mais eficiente, garantindo a saúde e desempenho contínuos dos sistemas.
+

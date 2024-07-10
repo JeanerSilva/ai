@@ -1,0 +1,47 @@
+ 07.2 CIS Controls e 
+ -
+Os CIS Controls (Center for Internet Security Controls) são um conjunto de práticas recomendadas para a segurança cibernética que ajudam as organizações a protegerem seus sistemas e dados contra ameaças. A versão 7.2 dos CIS Controls é uma atualização que refina e melhora as práticas anteriores. Aqui estão os 20% mais importantes aprendizados que ajudarão você a compreender os 80% necessários sobre os CIS Controls 7.2:
+
+### 1. **Inventário e Controle de Ativos de Hardware e Software**
+   - **Importância:** Saber o que você tem é o primeiro passo para protegê-lo. Manter um inventário atualizado de todos os ativos de hardware e software ajuda a identificar e gerenciar riscos.
+   - **Ação:** Utilize ferramentas automatizadas para rastrear e gerenciar ativos. Verifique regularmente o inventário para garantir que esteja atualizado.
+
+### 2. **Gerenciamento de Vulnerabilidades**
+   - **Importância:** Identificar e corrigir vulnerabilidades é crucial para prevenir ataques. Vulnerabilidades não corrigidas são uma das principais portas de entrada para invasores.
+   - **Ação:** Realize varreduras regulares de vulnerabilidades e aplique patches de segurança de forma oportuna. Priorize a correção de vulnerabilidades com base em sua criticidade.
+
+### 3. **Controle de Acesso e Privilégios**
+   - **Importância:** Limitar o acesso aos dados e sistemas críticos reduz a superfície de ataque. Privilégios excessivos podem ser explorados por invasores.
+   - **Ação:** Implemente o princípio do menor privilégio, garantindo que os usuários tenham apenas o acesso necessário para realizar suas funções. Revise regularmente os privilégios de acesso.
+
+### 4. **Proteção de Dados**
+   - **Importância:** Proteger dados sensíveis é fundamental para evitar vazamentos e garantir a conformidade com regulamentações.
+   - **Ação:** Criptografe dados em trânsito e em repouso. Implemente controles de acesso rigorosos e monitore o uso de dados sensíveis.
+
+### 5. **Defesa Contra Malware**
+   - **Importância:** O malware é uma das ameaças mais comuns e pode causar danos significativos. A defesa contra malware é essencial para a segurança cibernética.
+   - **Ação:** Utilize software antivírus e antimalware atualizado. Implemente políticas de segurança para evitar a execução de software não autorizado.
+
+### 6. **Monitoramento e Análise de Logs**
+   - **Importância:** Monitorar e analisar logs ajuda a detectar atividades suspeitas e responder rapidamente a incidentes de segurança.
+   - **Ação:** Centralize a coleta de logs e utilize ferramentas de análise para identificar padrões anômalos. Configure alertas para atividades suspeitas.
+
+### 7. **Resposta a Incidentes**
+   - **Importância:** Ter um plano de resposta a incidentes bem definido permite uma reação rápida e eficaz a ataques, minimizando danos.
+   - **Ação:** Desenvolva e teste regularmente um plano de resposta a incidentes. Treine a equipe para reconhecer e responder a incidentes de segurança.
+
+### 8. **Segurança de Redes**
+   - **Importância:** Proteger a rede é essencial para impedir o acesso não autorizado e a movimentação lateral de invasores.
+   - **Ação:** Utilize firewalls, segmentação de rede e sistemas de detecção de intrusão (IDS/IPS). Monitore o tráfego de rede para identificar atividades suspeitas.
+
+### 9. **Treinamento e Conscientização de Segurança**
+   - **Importância:** Os funcionários são a primeira linha de defesa contra ataques cibernéticos. A conscientização e o treinamento são cruciais para prevenir erros humanos.
+   - **Ação:** Realize treinamentos regulares de segurança cibernética. Promova uma cultura de segurança dentro da organização.
+
+### 10. **Gerenciamento de Configurações**
+   - **Importância:** Configurações inadequadas podem criar vulnerabilidades. Gerenciar configurações de forma eficaz ajuda a manter a segurança dos sistemas.
+   - **Ação:** Utilize benchmarks de configuração seguros e revise regularmente as configurações dos sistemas. Automatize a aplicação de configurações seguras sempre que possível.
+
+### Conclusão
+Focar nesses 10 aprendizados principais fornecerá uma base sólida para entender e implementar os CIS Controls 7.2. Eles cobrem os aspectos mais críticos da segurança cibernética e ajudarão a proteger sua organização contra uma ampla gama de ameaças.
+

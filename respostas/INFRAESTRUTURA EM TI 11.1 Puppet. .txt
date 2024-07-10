@@ -1,0 +1,70 @@
+ 11.1 Puppet. 
+ -
+Claro! Puppet é uma ferramenta de gerenciamento de configuração que permite automatizar a administração de infraestrutura de TI. Aqui estão os 20% mais importantes aprendizados sobre Puppet que te ajudarão a compreender 80% do necessário:
+
+1. **Conceito de Gerenciamento de Configuração**:
+   - Puppet é usado para gerenciar a configuração e o estado de sistemas de TI de forma automatizada e consistente.
+
+2. **Arquitetura do Puppet**:
+   - **Puppet Master**: O servidor central que contém os manifests e módulos.
+   - **Puppet Agent**: O cliente que aplica as configurações definidas pelo Puppet Master.
+   - **PuppetDB**: Um banco de dados que armazena dados sobre os recursos gerenciados.
+
+3. **Manifests**:
+   - Arquivos escritos em linguagem declarativa (Puppet DSL) que descrevem o estado desejado dos recursos do sistema.
+
+4. **Módulos**:
+   - Pacotes reutilizáveis de código Puppet que contêm manifests, arquivos, templates e outros recursos necessários para configurar um serviço ou aplicação.
+
+5. **Classes e Definições**:
+   - **Classes**: Blocos de código que podem ser incluídos em manifests para agrupar configurações relacionadas.
+   - **Definições**: Blocos de código que permitem a criação de recursos reutilizáveis.
+
+6. **Tipos e Provedores**:
+   - **Tipos**: Descrevem os recursos que Puppet pode gerenciar (e.g., usuários, pacotes, serviços).
+   - **Provedores**: Implementações específicas de tipos que interagem com o sistema operacional.
+
+7. **Facter**:
+   - Ferramenta que coleta informações sobre o sistema (fatos) e as disponibiliza para o Puppet.
+
+8. **Hiera**:
+   - Sistema de hierarquia de dados que permite a separação de dados de configuração do código Puppet, facilitando a reutilização e a organização.
+
+9. **Templates**:
+   - Arquivos ERB que permitem a criação dinâmica de arquivos de configuração com base em variáveis e fatos.
+
+10. **Execução de Puppet**:
+    - Puppet pode ser executado de forma manual (puppet apply) ou automática (puppet agent).
+
+11. **Idempotência**:
+    - Puppet é idempotente, o que significa que aplicar a mesma configuração múltiplas vezes não altera o estado do sistema após a primeira aplicação.
+
+12. **Gerenciamento de Dependências**:
+    - Puppet gerencia automaticamente as dependências entre recursos, garantindo que eles sejam aplicados na ordem correta.
+
+13. **Ambientes**:
+    - Puppet suporta múltiplos ambientes (e.g., desenvolvimento, teste, produção) para facilitar o desenvolvimento e a implantação de configurações.
+
+14. **Controle de Versão**:
+    - É comum usar sistemas de controle de versão (e.g., Git) para gerenciar o código Puppet, permitindo rastreamento de mudanças e colaboração.
+
+15. **Relatórios e Auditoria**:
+    - Puppet gera relatórios detalhados sobre as mudanças aplicadas, facilitando a auditoria e o monitoramento.
+
+16. **Integração com Ferramentas de CI/CD**:
+    - Puppet pode ser integrado com ferramentas de integração contínua e entrega contínua para automatizar o ciclo de vida de desenvolvimento e implantação.
+
+17. **Comunidade e Módulos Públicos**:
+    - A comunidade Puppet Forge oferece uma vasta coleção de módulos prontos para uso, facilitando a implementação de configurações comuns.
+
+18. **Segurança**:
+    - Puppet usa SSL para comunicação segura entre Puppet Master e Puppet Agents.
+
+19. **Escalabilidade**:
+    - Puppet é projetado para escalar e gerenciar milhares de nós, tornando-o adequado para grandes infraestruturas.
+
+20. **Documentação e Suporte**:
+    - A documentação oficial do Puppet é extensa e detalhada, e há uma comunidade ativa que pode ajudar com dúvidas e problemas.
+
+Compreender esses conceitos fundamentais te dará uma base sólida para trabalhar com Puppet e explorar suas capacidades mais avançadas.
+

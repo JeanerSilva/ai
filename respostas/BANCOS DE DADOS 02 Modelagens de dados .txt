@@ -1,0 +1,51 @@
+ 02 Modelagens de dados: 
+ -
+Claro! A Lei de Pareto, ou princípio 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado sobre modelagem de dados, aqui estão os 20% mais importantes que você deve focar para compreender a maior parte do assunto:
+
+### 1. **Conceitos Fundamentais de Modelagem de Dados**
+   - **Entidades e Atributos**: Entidades são objetos ou conceitos sobre os quais você deseja armazenar informações. Atributos são as propriedades ou características dessas entidades.
+   - **Relacionamentos**: Como as entidades se relacionam entre si. Compreender os tipos de relacionamentos (um-para-um, um-para-muitos, muitos-para-muitos) é crucial.
+   - **Chaves Primárias e Estrangeiras**: Chaves primárias identificam unicamente uma entidade, enquanto chaves estrangeiras são usadas para criar relacionamentos entre entidades.
+
+### 2. **Modelagem Conceitual e Lógica**
+   - **Modelo Entidade-Relacionamento (ER)**: Ferramenta para modelagem conceitual que ajuda a visualizar as entidades, atributos e relacionamentos.
+   - **Modelo Relacional**: Foca na estrutura lógica dos dados, usando tabelas para representar entidades e relacionamentos.
+
+### 3. **Normalização**
+   - **Primeira Forma Normal (1NF)**: Elimina duplicações de dados e cria tabelas separadas para grupos de dados relacionados.
+   - **Segunda Forma Normal (2NF)**: Garante que todos os atributos dependam da chave primária.
+   - **Terceira Forma Normal (3NF)**: Remove atributos que não dependem diretamente da chave primária.
+
+### 4. **Modelagem Física**
+   - **Estrutura de Tabelas**: Como as tabelas são fisicamente armazenadas no banco de dados.
+   - **Índices**: Melhoram a velocidade das consultas, mas podem afetar a performance de inserções e atualizações.
+   - **Particionamento**: Divisão de grandes tabelas em partes menores para melhorar a performance e a gestão.
+
+### 5. **Ferramentas e Técnicas de Modelagem**
+   - **Ferramentas de Modelagem**: Softwares como ER/Studio, Microsoft Visio, e MySQL Workbench que ajudam a criar e visualizar modelos de dados.
+   - **Diagramas de Fluxo de Dados (DFD)**: Representam o fluxo de informações dentro de um sistema.
+
+### 6. **Boas Práticas e Padrões**
+   - **Documentação**: Manter uma documentação clara e atualizada do modelo de dados.
+   - **Revisão e Validação**: Revisar e validar o modelo com stakeholders para garantir que ele atenda aos requisitos do negócio.
+   - **Manutenção e Evolução**: Adaptar o modelo conforme as necessidades do negócio mudam.
+
+### 7. **Integração com Outros Sistemas**
+   - **ETL (Extract, Transform, Load)**: Processos para mover dados entre sistemas diferentes.
+   - **APIs e Serviços Web**: Métodos para integrar e compartilhar dados entre sistemas.
+
+### 8. **Segurança e Governança de Dados**
+   - **Controle de Acesso**: Definir quem pode ver ou modificar os dados.
+   - **Qualidade dos Dados**: Garantir que os dados sejam precisos, completos e consistentes.
+   - **Compliance**: Adesão a regulamentos e normas de proteção de dados.
+
+### 9. **Modelagem Dimensional**
+   - **Tabelas Fato e Dimensão**: Usadas em data warehouses para facilitar a análise de dados.
+   - **Estrela e Floco de Neve**: Estruturas de modelagem dimensional que ajudam na organização dos dados para relatórios e análises.
+
+### 10. **Performance e Otimização**
+   - **Tuning de Consultas**: Ajustar consultas SQL para melhorar a performance.
+   - **Armazenamento e Indexação**: Técnicas para otimizar o armazenamento e a recuperação de dados.
+
+Focando nesses tópicos, você cobrirá os aspectos mais críticos da modelagem de dados, o que lhe permitirá entender e aplicar a maioria dos conceitos e técnicas necessárias para trabalhar eficazmente com dados.
+

@@ -1,0 +1,46 @@
+ 04.1 DataWarehouse.
+ -
+Claro! O princípio de Pareto, ou a regra 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado sobre Data Warehousing, aqui estão os 20% mais importantes que você deve focar para obter uma compreensão sólida:
+
+1. **Conceito de Data Warehouse (DW)**:
+   - **Definição**: Um Data Warehouse é um sistema centralizado de armazenamento de dados projetado para facilitar a análise e o relatório de dados.
+   - **Objetivo**: Integrar dados de várias fontes para fornecer uma visão unificada e consistente para a tomada de decisões empresariais.
+
+2. **Arquitetura de Data Warehouse**:
+   - **Camadas**: Entenda as principais camadas de um DW, incluindo a camada de extração, transformação e carga (ETL), a camada de armazenamento e a camada de apresentação.
+   - **ETL**: O processo de ETL é crucial para mover dados de sistemas de origem para o DW, garantindo que os dados sejam limpos, transformados e carregados corretamente.
+
+3. **Modelagem de Dados**:
+   - **Modelos Estrela e Floco de Neve**: Estes são os dois principais esquemas de modelagem de dados usados em DW. O modelo estrela é mais simples e eficiente para consultas, enquanto o floco de neve é mais normalizado.
+   - **Dimensões e Fatos**: Dimensões são os contextos (como tempo, localização, produto) e fatos são os eventos ou transações (como vendas, receitas).
+
+4. **Ferramentas e Tecnologias**:
+   - **Ferramentas de ETL**: Conheça ferramentas populares como Informatica, Talend, e Apache Nifi.
+   - **SGBDs para DW**: Bancos de dados como Amazon Redshift, Google BigQuery, Snowflake, e Microsoft SQL Server são frequentemente usados para DW.
+
+5. **Qualidade e Governança de Dados**:
+   - **Qualidade de Dados**: A precisão, consistência e integridade dos dados são cruciais para a confiabilidade do DW.
+   - **Governança de Dados**: Políticas e procedimentos para gerenciar a disponibilidade, usabilidade, integridade e segurança dos dados.
+
+6. **Consultas e Relatórios**:
+   - **SQL**: A linguagem SQL é fundamental para consultar e manipular dados no DW.
+   - **Ferramentas de BI**: Ferramentas de Business Intelligence como Tableau, Power BI, e Looker são usadas para criar relatórios e dashboards interativos.
+
+7. **Performance e Escalabilidade**:
+   - **Indexação e Particionamento**: Técnicas para melhorar a performance das consultas.
+   - **Armazenamento em Nuvem**: Soluções de DW baseadas em nuvem oferecem escalabilidade e flexibilidade.
+
+8. **Segurança de Dados**:
+   - **Controle de Acesso**: Implementação de políticas de segurança para garantir que apenas usuários autorizados possam acessar dados sensíveis.
+   - **Criptografia**: Proteção dos dados em repouso e em trânsito.
+
+9. **Tendências e Inovações**:
+   - **Data Lakes**: Entenda a diferença entre Data Lakes e Data Warehouses e como eles podem complementar-se.
+   - **Big Data e DW**: Integração de tecnologias de Big Data com DW para lidar com grandes volumes de dados.
+
+10. **Casos de Uso e Aplicações**:
+    - **Análise de Negócios**: Como os DWs são usados para análise de negócios, previsão e tomada de decisão.
+    - **Setores**: Aplicações específicas em setores como varejo, finanças, saúde e telecomunicações.
+
+Focando nesses pontos, você obterá uma compreensão abrangente e sólida dos conceitos e práticas essenciais de Data Warehousing, cobrindo a maioria das necessidades práticas e teóricas do campo.
+

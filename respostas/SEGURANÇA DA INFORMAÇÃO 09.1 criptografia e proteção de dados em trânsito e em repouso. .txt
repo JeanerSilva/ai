@@ -1,0 +1,53 @@
+ 09.1 criptografia e proteção de dados em trânsito e em repouso. 
+ -
+Claro, a criptografia e a proteção de dados em trânsito e em repouso são fundamentais para garantir a segurança da informação. Aqui estão os 20% mais importantes aprendizados que irão te ajudar a compreender 80% do assunto:
+
+### 1. **Conceitos Básicos de Criptografia**
+   - **Criptografia Simétrica**: Utiliza a mesma chave para criptografar e descriptografar dados. Exemplos: AES, DES.
+   - **Criptografia Assimétrica**: Utiliza um par de chaves (pública e privada). A chave pública criptografa os dados, e a chave privada descriptografa. Exemplos: RSA, ECC.
+
+### 2. **Proteção de Dados em Trânsito**
+   - **TLS/SSL**: Protocolos que garantem a segurança da comunicação na internet. TLS (Transport Layer Security) é a versão mais atual e segura.
+   - **VPN (Virtual Private Network)**: Cria uma conexão segura e criptografada sobre uma rede menos segura, como a internet.
+   - **HTTPS**: Extensão do HTTP que utiliza TLS para criptografar a comunicação entre o navegador e o servidor web.
+
+### 3. **Proteção de Dados em Repouso**
+   - **Criptografia de Disco Completo**: Protege todos os dados armazenados em um disco rígido. Exemplos: BitLocker (Windows), FileVault (macOS).
+   - **Criptografia de Arquivo**: Protege arquivos individuais. Exemplos: GPG, VeraCrypt.
+   - **Gerenciamento de Chaves**: Armazenamento e gerenciamento seguro das chaves de criptografia. Exemplos: AWS KMS, Azure Key Vault.
+
+### 4. **Práticas de Segurança**
+   - **Autenticação Multifator (MFA)**: Adiciona uma camada extra de segurança além da senha, como um código enviado para o celular.
+   - **Políticas de Senhas Fortes**: Utilização de senhas complexas e únicas para cada serviço.
+   - **Atualizações e Patches**: Manter sistemas e softwares atualizados para proteger contra vulnerabilidades conhecidas.
+
+### 5. **Compliance e Regulamentações**
+   - **GDPR (General Data Protection Regulation)**: Regulamento europeu que exige a proteção de dados pessoais.
+   - **LGPD (Lei Geral de Proteção de Dados)**: Lei brasileira que regulamenta o tratamento de dados pessoais.
+   - **HIPAA (Health Insurance Portability and Accountability Act)**: Lei americana que exige a proteção de informações de saúde.
+
+### 6. **Ferramentas e Tecnologias**
+   - **HSM (Hardware Security Module)**: Dispositivos físicos que gerenciam e protegem chaves de criptografia.
+   - **DLP (Data Loss Prevention)**: Ferramentas que ajudam a prevenir a perda de dados sensíveis.
+   - **SIEM (Security Information and Event Management)**: Sistemas que coletam e analisam logs de segurança para detectar e responder a incidentes.
+
+### 7. **Ameaças e Vulnerabilidades**
+   - **Ataques Man-in-the-Middle (MitM)**: Interceptação de comunicação entre duas partes para roubar ou alterar dados.
+   - **Ransomware**: Malware que criptografa dados e exige um resgate para a descriptografia.
+   - **Phishing**: Tentativas de obter informações sensíveis através de e-mails ou sites falsos.
+
+### 8. **Boas Práticas de Implementação**
+   - **Criptografia Padrão**: Utilizar algoritmos de criptografia reconhecidos e testados, como AES-256.
+   - **Segregação de Dados**: Separar dados sensíveis de dados menos críticos.
+   - **Backup Criptografado**: Manter backups dos dados criptografados para proteção contra perda e acesso não autorizado.
+
+### 9. **Monitoramento e Auditoria**
+   - **Logs de Acesso**: Monitorar e registrar acessos a dados sensíveis.
+   - **Auditorias Regulares**: Realizar auditorias de segurança para identificar e corrigir vulnerabilidades.
+
+### 10. **Educação e Treinamento**
+   - **Capacitação de Funcionários**: Treinar funcionários sobre práticas de segurança e conscientização sobre ameaças.
+   - **Simulações de Ataques**: Realizar testes de penetração e simulações de ataques para avaliar a eficácia das medidas de segurança.
+
+Compreender esses pontos-chave te dará uma base sólida para entender a criptografia e a proteção de dados em trânsito e em repouso, cobrindo a maioria dos aspectos críticos necessários para garantir a segurança da informação.
+

@@ -1,0 +1,57 @@
+ 11 Conceitos e ferramentas de orquestração e automação de infraestrutura
+ -
+Claro! A aplicação do Princípio de Pareto (80/20) pode ser muito útil para focar nos conceitos e ferramentas mais impactantes na orquestração e automação de infraestrutura. Aqui estão os 20% mais importantes que provavelmente te ajudarão a compreender 80% do assunto:
+
+### 1. **Infraestrutura como Código (IaC)**
+   - **Conceito:** Trata-se de gerenciar e provisionar data centers através de arquivos de definição legíveis por máquina, em vez de configuração física de hardware ou ferramentas de configuração interativas.
+   - **Ferramentas:** Terraform, AWS CloudFormation, Ansible.
+
+### 2. **Automação de Configuração**
+   - **Conceito:** Automatizar a configuração de sistemas operacionais e aplicativos para garantir consistência e eficiência.
+   - **Ferramentas:** Ansible, Puppet, Chef.
+
+### 3. **Gerenciamento de Contêineres**
+   - **Conceito:** Uso de contêineres para empacotar e executar aplicativos de maneira consistente em diferentes ambientes.
+   - **Ferramentas:** Docker, Podman.
+
+### 4. **Orquestração de Contêineres**
+   - **Conceito:** Gerenciar a implantação, escalonamento e operação de contêineres.
+   - **Ferramentas:** Kubernetes, Docker Swarm.
+
+### 5. **Gerenciamento de Configuração e Estado**
+   - **Conceito:** Manter a configuração e o estado desejado dos sistemas de maneira declarativa.
+   - **Ferramentas:** Terraform (para infraestrutura), Ansible (para configuração).
+
+### 6. **Pipelines de CI/CD**
+   - **Conceito:** Integração Contínua e Entrega Contínua para automatizar o processo de desenvolvimento, teste e implantação de software.
+   - **Ferramentas:** Jenkins, GitLab CI, CircleCI.
+
+### 7. **Monitoramento e Logging**
+   - **Conceito:** Monitorar a infraestrutura e aplicativos para garantir desempenho e disponibilidade, além de coletar logs para análise.
+   - **Ferramentas:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana).
+
+### 8. **Gerenciamento de Configuração de Rede**
+   - **Conceito:** Automatizar a configuração e gerenciamento de dispositivos de rede.
+   - **Ferramentas:** Ansible, Terraform.
+
+### 9. **Gerenciamento de Secretos**
+   - **Conceito:** Armazenar e gerenciar informações sensíveis como senhas, tokens e chaves de API de forma segura.
+   - **Ferramentas:** HashiCorp Vault, AWS Secrets Manager.
+
+### 10. **Infraestrutura Imutável**
+   - **Conceito:** Em vez de atualizar sistemas existentes, substituí-los por novos sistemas configurados corretamente.
+   - **Ferramentas:** Packer (para criar imagens de máquina), Docker (para contêineres).
+
+### 11. **Gerenciamento de Serviços e Descoberta**
+   - **Conceito:** Facilitar a comunicação entre serviços em uma arquitetura de microsserviços.
+   - **Ferramentas:** Consul, etcd, Zookeeper.
+
+### Resumo dos 20% mais importantes:
+1. **Infraestrutura como Código (IaC)**: Fundamental para gerenciar e provisionar infraestrutura de forma eficiente e repetível.
+2. **Automação de Configuração**: Essencial para garantir consistência e reduzir erros manuais.
+3. **Gerenciamento e Orquestração de Contêineres**: Crucial para a execução eficiente de aplicativos em diferentes ambientes.
+4. **Pipelines de CI/CD**: Automatização do ciclo de vida do desenvolvimento de software.
+5. **Monitoramento e Logging**: Garantir desempenho e disponibilidade, além de facilitar a resolução de problemas.
+
+Focando nesses conceitos e ferramentas, você estará bem posicionado para entender a maior parte das práticas e tecnologias envolvidas na orquestração e automação de infraestrutura.
+

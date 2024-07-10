@@ -1,0 +1,74 @@
+ 03 SQL Procedural Language 
+ -
+Claro! Vamos focar nos aspectos mais importantes das três principais linguagens procedurais SQL: PL/pgSQL (PostgreSQL), T-SQL (SQL Server) e PL/SQL (Oracle). Esses pontos são essenciais para que você compreenda a maior parte do que é necessário para trabalhar com essas linguagens.
+
+### 1. PL/pgSQL (PostgreSQL)
+
+**1.1 Estrutura Básica de Funções e Procedimentos**
+- **Definição de Funções:** `CREATE FUNCTION` é usado para criar funções. Entender a sintaxe básica é crucial.
+- **Blocos Anônimos:** `DO` é usado para executar blocos de código PL/pgSQL sem criar uma função permanente.
+
+**1.2 Controle de Fluxo**
+- **Condicionais:** `IF...THEN...ELSE` para controle de fluxo.
+- **Loops:** `LOOP`, `WHILE`, `FOR` para iterações.
+
+**1.3 Manipulação de Cursores**
+- **Cursores:** Usados para iterar sobre conjuntos de resultados. `DECLARE`, `OPEN`, `FETCH`, `CLOSE`.
+
+**1.4 Tratamento de Exceções**
+- **Bloco EXCEPTION:** Para capturar e tratar erros.
+
+### 2. T-SQL (SQL Server)
+
+**2.1 Estrutura Básica de Funções e Procedimentos**
+- **Procedures:** `CREATE PROCEDURE` para criar procedimentos armazenados.
+- **Functions:** `CREATE FUNCTION` para criar funções definidas pelo usuário.
+
+**2.2 Controle de Fluxo**
+- **Condicionais:** `IF...ELSE` para controle de fluxo.
+- **Loops:** `WHILE` para iterações.
+
+**2.3 Transações**
+- **BEGIN TRANSACTION, COMMIT, ROLLBACK:** Para controle de transações.
+
+**2.4 Tratamento de Exceções**
+- **TRY...CATCH:** Para capturar e tratar erros.
+
+### 3. PL/SQL (Oracle)
+
+**3.1 Estrutura Básica de Funções e Procedimentos**
+- **Procedures:** `CREATE PROCEDURE` para criar procedimentos armazenados.
+- **Functions:** `CREATE FUNCTION` para criar funções definidas pelo usuário.
+
+**3.2 Blocos Anônimos**
+- **Blocos PL/SQL:** `DECLARE`, `BEGIN`, `EXCEPTION`, `END`.
+
+**3.3 Controle de Fluxo**
+- **Condicionais:** `IF...THEN...ELSE` para controle de fluxo.
+- **Loops:** `LOOP`, `WHILE`, `FOR` para iterações.
+
+**3.4 Manipulação de Cursores**
+- **Cursores:** `DECLARE`, `OPEN`, `FETCH`, `CLOSE`.
+
+**3.5 Tratamento de Exceções**
+- **Bloco EXCEPTION:** Para capturar e tratar erros.
+
+### Resumo dos 20% mais importantes:
+
+1. **Estrutura Básica de Funções e Procedimentos:**
+   - Entender como criar e utilizar funções e procedimentos armazenados é fundamental para todas as três linguagens.
+
+2. **Controle de Fluxo:**
+   - Saber usar condicionais (`IF...THEN...ELSE`) e loops (`LOOP`, `WHILE`, `FOR`) é essencial para manipular a lógica de programação.
+
+3. **Manipulação de Cursores:**
+   - Cursores são importantes para iterar sobre conjuntos de resultados e são usados em todas as três linguagens.
+
+4. **Tratamento de Exceções:**
+   - Capturar e tratar erros é crucial para criar código robusto e confiável.
+
+5. **Transações (T-SQL):**
+   - Entender como iniciar, confirmar e reverter transações é vital para garantir a integridade dos dados.
+
+Compreender esses pontos-chave fornecerá uma base sólida para trabalhar com PL/pgSQL, T-SQL e PL/SQL, cobrindo a maior parte das necessidades práticas no desenvolvimento de banco de dados.
+

@@ -1,0 +1,47 @@
+ 05 Arquiteturas de software com API gateway.
+ -
+Claro! Vamos focar nos 20% mais importantes aprendizados sobre arquiteturas de software com API Gateway que te ajudarão a compreender os 80% necessários:
+
+### 1. **Definição e Propósito do API Gateway**
+   - **O que é um API Gateway?**
+     - Um API Gateway é um servidor que atua como um ponto de entrada único para um conjunto de microserviços. Ele gerencia solicitações de clientes, roteando-as para os serviços apropriados.
+   - **Por que usar um API Gateway?**
+     - Simplifica a comunicação entre clientes e microserviços, melhora a segurança, facilita a escalabilidade e permite a implementação de políticas de gerenciamento de API.
+
+### 2. **Arquitetura Monolítica vs. Microservices**
+   - **Monolítica:**
+     - Uma única aplicação onde todas as funcionalidades estão interligadas e executadas em um único processo.
+   - **Microservices:**
+     - Arquitetura onde a aplicação é dividida em pequenos serviços independentes que se comunicam entre si. O API Gateway é crucial para gerenciar essa comunicação.
+
+### 3. **Principais Funções do API Gateway**
+   - **Roteamento de Solicitações:**
+     - Direciona as solicitações dos clientes para os microserviços apropriados.
+   - **Autenticação e Autorização:**
+     - Verifica a identidade dos usuários e garante que eles tenham permissão para acessar os recursos solicitados.
+   - **Agregação de Respostas:**
+     - Combina respostas de vários serviços em uma única resposta para o cliente.
+   - **Rate Limiting e Throttling:**
+     - Controla o número de solicitações que um cliente pode fazer em um determinado período de tempo.
+
+### 4. **Desafios e Considerações**
+   - **Desempenho:**
+     - O API Gateway pode se tornar um gargalo se não for bem projetado. É crucial garantir que ele seja escalável.
+   - **Disponibilidade:**
+     - Deve ser altamente disponível, pois é o ponto de entrada para todos os serviços.
+   - **Segurança:**
+     - Deve implementar práticas robustas de segurança, como TLS, autenticação e autorização.
+
+### 5. **Ferramentas e Tecnologias Populares**
+   - **NGINX:**
+     - Amplamente utilizado como API Gateway devido à sua alta performance e flexibilidade.
+   - **Kong:**
+     - Uma plataforma de gerenciamento de API que oferece recursos avançados como plugins para autenticação, logging e rate limiting.
+   - **AWS API Gateway:**
+     - Serviço gerenciado pela AWS que facilita a criação, publicação, manutenção, monitoramento e proteção de APIs em qualquer escala.
+   - **Zuul:**
+     - API Gateway open-source da Netflix, usado para roteamento dinâmico, monitoramento, resiliência e segurança.
+
+### Conclusão
+Compreender o papel do API Gateway em uma arquitetura de microserviços é fundamental para o sucesso de sistemas distribuídos. Ele não só facilita a comunicação entre serviços, mas também adiciona camadas essenciais de segurança, gerenciamento e escalabilidade. Focar nesses pontos-chave te dará uma base sólida para entender e implementar arquiteturas de software eficientes com API Gateway.
+

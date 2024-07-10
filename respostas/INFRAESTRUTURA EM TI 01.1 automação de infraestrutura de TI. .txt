@@ -1,0 +1,55 @@
+ 01.1 automação de infraestrutura de TI. 
+ -
+Claro! A automação de infraestrutura de TI é um campo vasto e em constante evolução, mas focar nos aspectos mais críticos pode te ajudar a obter uma compreensão sólida e eficiente. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do assunto:
+
+### 1. **Conceitos Básicos de Automação**
+   - **Definição e Benefícios**: Entenda o que é automação de infraestrutura e os benefícios que ela traz, como redução de erros humanos, aumento de eficiência e escalabilidade.
+   - **Infraestrutura como Código (IaC)**: Aprenda o conceito de IaC, que permite gerenciar e provisionar recursos de TI através de arquivos de configuração legíveis por humanos.
+
+### 2. **Ferramentas de Automação**
+   - **Principais Ferramentas**: Familiarize-se com ferramentas populares como Ansible, Puppet, Chef, Terraform e SaltStack.
+   - **Comparação e Escolha**: Saiba como escolher a ferramenta certa para suas necessidades específicas, considerando fatores como facilidade de uso, comunidade de suporte e integração com outras tecnologias.
+
+### 3. **Linguagens de Scripting**
+   - **Python e Shell Script**: Tenha um bom entendimento de linguagens de scripting como Python e Shell Script, que são frequentemente usadas para escrever scripts de automação.
+   - **YAML e JSON**: Aprenda a trabalhar com formatos de dados como YAML e JSON, que são amplamente usados em arquivos de configuração.
+
+### 4. **Provisionamento e Configuração**
+   - **Provisionamento de Recursos**: Entenda como automatizar o provisionamento de servidores, redes e outros recursos de infraestrutura.
+   - **Gerenciamento de Configuração**: Aprenda a manter a consistência da configuração em todos os ambientes (desenvolvimento, teste, produção).
+
+### 5. **Integração Contínua e Entrega Contínua (CI/CD)**
+   - **Pipelines de CI/CD**: Compreenda como configurar pipelines de CI/CD para automatizar o processo de build, teste e deploy de aplicações.
+   - **Ferramentas de CI/CD**: Familiarize-se com ferramentas como Jenkins, GitLab CI, CircleCI e Travis CI.
+
+### 6. **Monitoramento e Logging**
+   - **Monitoramento Automatizado**: Aprenda a configurar sistemas de monitoramento automatizado para detectar e responder a problemas de infraestrutura.
+   - **Ferramentas de Monitoramento**: Conheça ferramentas como Prometheus, Grafana, Nagios e ELK Stack (Elasticsearch, Logstash, Kibana).
+
+### 7. **Segurança e Compliance**
+   - **Automação de Segurança**: Entenda como integrar práticas de segurança na automação de infraestrutura, incluindo a gestão de patches e a configuração de firewalls.
+   - **Compliance Automatizada**: Saiba como usar ferramentas de automação para garantir que a infraestrutura esteja em conformidade com normas e regulamentos.
+
+### 8. **Gerenciamento de Configuração e Versionamento**
+   - **Controle de Versão**: Utilize sistemas de controle de versão como Git para gerenciar mudanças na infraestrutura.
+   - **Rollback e Recuperação**: Aprenda a implementar estratégias de rollback e recuperação para minimizar o impacto de falhas.
+
+### 9. **Orquestração**
+   - **Orquestração de Tarefas**: Entenda como orquestrar tarefas complexas que envolvem múltiplos sistemas e serviços.
+   - **Ferramentas de Orquestração**: Familiarize-se com ferramentas como Kubernetes para orquestração de contêineres.
+
+### 10. **Cultura DevOps**
+   - **Princípios DevOps**: Compreenda os princípios e práticas da cultura DevOps, que promove a colaboração entre equipes de desenvolvimento e operações.
+   - **Automação como Parte do DevOps**: Veja como a automação de infraestrutura é um componente essencial da prática DevOps.
+
+### 11. **Cloud Computing**
+   - **Serviços de Nuvem**: Aprenda a usar serviços de nuvem como AWS, Azure e Google Cloud para automatizar a infraestrutura.
+   - **Automação na Nuvem**: Entenda como usar ferramentas específicas de cada provedor de nuvem para automação, como AWS CloudFormation e Azure Resource Manager.
+
+### 12. **Documentação e Manutenção**
+   - **Documentação de Processos**: Mantenha uma documentação clara e atualizada dos processos de automação.
+   - **Manutenção Contínua**: Saiba como realizar a manutenção contínua dos scripts e ferramentas de automação para garantir que eles permaneçam eficazes e seguros.
+
+### Conclusão
+Focar nesses 12 tópicos principais te dará uma base sólida para entender a automação de infraestrutura de TI. Cada um desses pontos cobre um aspecto crítico que, quando dominado, te permitirá compreender e aplicar os conceitos de automação de maneira
+

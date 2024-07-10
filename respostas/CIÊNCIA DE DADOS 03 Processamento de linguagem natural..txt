@@ -1,0 +1,64 @@
+03 Processamento de linguagem natural.
+ -
+Claro! O Princípio de Pareto, ou a regra 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao Processamento de Linguagem Natural (PLN), aqui estão os conceitos e aprendizados mais importantes que te ajudarão a compreender a maior parte do campo:
+
+### 1. **Conceitos Básicos de PLN**
+   - **Definição**: PLN é um subcampo da inteligência artificial que se concentra na interação entre computadores e linguagem humana.
+   - **Objetivo**: Permitir que máquinas compreendam, interpretem e respondam à linguagem humana de maneira útil.
+
+### 2. **Tokenização**
+   - **Definição**: O processo de dividir um texto em unidades menores, como palavras ou frases.
+   - **Importância**: É o primeiro passo em muitas tarefas de PLN, facilitando a análise e o processamento do texto.
+
+### 3. **Lematização e Stemização**
+   - **Lematização**: Reduz palavras à sua forma base ou lema (ex.: "correr" de "correndo").
+   - **Stemização**: Reduz palavras às suas raízes (ex.: "corr" de "correndo").
+   - **Importância**: Normaliza palavras para análise, melhorando a precisão dos modelos.
+
+### 4. **Modelos de Linguagem**
+   - **Definição**: Algoritmos que atribuem probabilidades a sequências de palavras.
+   - **Exemplos**: N-gramas, Modelos de Markov, Redes Neurais Recorrentes (RNNs), e Transformadores (ex.: BERT, GPT).
+   - **Importância**: Fundamentais para tarefas como tradução automática, geração de texto e análise de sentimentos.
+
+### 5. **Vetorização de Texto**
+   - **Bag of Words (BoW)**: Representa texto como uma coleção de palavras sem considerar a ordem.
+   - **TF-IDF**: Pondera a frequência das palavras em um documento em relação à sua frequência em um corpus.
+   - **Word Embeddings**: Representações densas e contínuas de palavras (ex.: Word2Vec, GloVe).
+   - **Importância**: Transforma texto em um formato numérico que pode ser usado por algoritmos de aprendizado de máquina.
+
+### 6. **Transformadores e Atenção**
+   - **Transformadores**: Arquitetura que utiliza mecanismos de atenção para processar texto.
+   - **Atenção**: Permite que o modelo se concentre em partes específicas do texto ao fazer previsões.
+   - **Exemplos**: BERT, GPT-3.
+   - **Importância**: Melhoram significativamente a precisão e a eficiência em várias tarefas de PLN.
+
+### 7. **Análise de Sentimentos**
+   - **Definição**: Técnica para determinar a atitude ou emoção expressa em um texto.
+   - **Aplicações**: Monitoramento de redes sociais, feedback de clientes, análise de mercado.
+   - **Importância**: Ajuda empresas e pesquisadores a entenderem melhor as opiniões e sentimentos do público.
+
+### 8. **Reconhecimento de Entidades Nomeadas (NER)**
+   - **Definição**: Identificação e classificação de entidades mencionadas em um texto (ex.: nomes de pessoas, organizações, locais).
+   - **Importância**: Essencial para a extração de informações e compreensão do contexto.
+
+### 9. **Tradução Automática**
+   - **Definição**: Conversão automática de texto de uma língua para outra.
+   - **Modelos**: Tradicionais (baseados em regras), Estatísticos, e Neural Machine Translation (NMT).
+   - **Importância**: Facilita a comunicação global e o acesso a informações em diferentes idiomas.
+
+### 10. **Chatbots e Assistentes Virtuais**
+   - **Definição**: Sistemas que interagem com usuários em linguagem natural.
+   - **Tecnologias**: Processamento de linguagem natural, aprendizado de máquina, e redes neurais.
+   - **Importância**: Melhoram o atendimento ao cliente e a eficiência operacional.
+
+### 11. **Desafios e Limitações**
+   - **Ambiguidade**: Palavras e frases podem ter múltiplos significados.
+   - **Contexto**: A compreensão do contexto é crucial para a interpretação correta.
+   - **Bias**: Modelos podem refletir preconceitos presentes nos dados de treinamento.
+   - **Importância**: Reconhecer esses desafios é essencial para desenvolver soluções mais robustas e éticas.
+
+### 12. **Ferramentas e Bibliotecas Populares**
+   - **NLTK**: Biblioteca para trabalhar com texto em Python.
+   - **spaCy**: Biblioteca avançada para PLN em Python.
+   - **Transformers (H
+

@@ -1,0 +1,50 @@
+ 01.10 tolerância a falhas.
+ -
+Claro! A tolerância a falhas é um conceito crucial em sistemas de engenharia, especialmente em computação e redes, que visa garantir que um sistema continue operando, mesmo na presença de falhas. Aqui estão os 20% mais importantes aprendizados que cobrem 80% do entendimento necessário sobre tolerância a falhas:
+
+1. **Definição de Tolerância a Falhas**:
+   - **Conceito Básico**: A capacidade de um sistema continuar funcionando corretamente mesmo quando uma parte dele falha.
+   - **Objetivo**: Minimizar o impacto das falhas e garantir a continuidade do serviço.
+
+2. **Tipos de Falhas**:
+   - **Falhas de Hardware**: Problemas físicos como falhas de disco, memória ou processador.
+   - **Falhas de Software**: Bugs, erros de lógica ou falhas de atualização.
+   - **Falhas Humanas**: Erros cometidos por operadores ou usuários.
+   - **Falhas de Rede**: Problemas de conectividade, latência ou perda de pacotes.
+
+3. **Redundância**:
+   - **Redundância de Hardware**: Uso de componentes duplicados (e.g., servidores, discos) para substituir os que falham.
+   - **Redundância de Software**: Implementação de algoritmos e processos que podem assumir o controle em caso de falha.
+
+4. **Detecção de Falhas**:
+   - **Monitoramento**: Sistemas de monitoramento contínuo para detectar falhas rapidamente.
+   - **Alertas e Logs**: Registro de eventos e notificações para análise e resposta.
+
+5. **Recuperação de Falhas**:
+   - **Failover**: Transferência automática de funções para um sistema de backup.
+   - **Rollback**: Reversão para um estado anterior conhecido e estável.
+   - **Reinicialização**: Reiniciar componentes ou sistemas para restaurar a funcionalidade.
+
+6. **Arquiteturas de Tolerância a Falhas**:
+   - **Sistemas Distribuídos**: Distribuição de tarefas e dados entre múltiplos sistemas para evitar pontos únicos de falha.
+   - **Clusterização**: Agrupamento de servidores que trabalham juntos para fornecer alta disponibilidade.
+
+7. **Mecanismos de Tolerância a Falhas**:
+   - **Checkpointing**: Salvamento periódico do estado do sistema para recuperação em caso de falha.
+   - **Replicação**: Manutenção de cópias idênticas de dados em diferentes locais.
+
+8. **Avaliação e Teste**:
+   - **Testes de Stress**: Simulação de condições extremas para avaliar a resiliência do sistema.
+   - **Testes de Falhas**: Introdução deliberada de falhas para verificar a eficácia dos mecanismos de recuperação.
+
+9. **Planejamento e Implementação**:
+   - **Análise de Risco**: Identificação e avaliação de potenciais falhas e seus impactos.
+   - **Planejamento de Continuidade**: Desenvolvimento de planos para manter operações durante e após falhas.
+
+10. **Melhores Práticas**:
+    - **Documentação**: Manter documentação detalhada dos procedimentos de tolerância a falhas.
+    - **Treinamento**: Capacitar a equipe para lidar com falhas de maneira eficiente.
+    - **Atualizações Regulares**: Manter sistemas e software atualizados para minimizar vulnerabilidades.
+
+Compreender esses pontos-chave fornecerá uma base sólida para entender como a tolerância a falhas é implementada e gerenciada em sistemas complexos.
+

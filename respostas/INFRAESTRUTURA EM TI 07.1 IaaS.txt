@@ -1,0 +1,51 @@
+ 07.1 IaaS
+ -
+Claro! O conceito de IaaS (Infrastructure as a Service) é fundamental no campo da computação em nuvem. Aqui estão os 20% mais importantes aprendizados sobre IaaS que te ajudarão a compreender 80% do necessário:
+
+1. **Definição de IaaS**:
+   - IaaS é um modelo de serviço de computação em nuvem que fornece recursos de computação virtualizados pela internet. Esses recursos incluem servidores, armazenamento, redes e sistemas operacionais.
+
+2. **Componentes Principais**:
+   - **Servidores Virtuais**: Máquinas virtuais (VMs) que podem ser configuradas e gerenciadas conforme necessário.
+   - **Armazenamento**: Soluções de armazenamento escaláveis, como discos virtuais e armazenamento em bloco.
+   - **Redes**: Infraestrutura de rede virtual, incluindo firewalls, balanceadores de carga e endereços IP.
+   - **Sistemas Operacionais**: Opções para instalar e gerenciar diferentes sistemas operacionais nas VMs.
+
+3. **Vantagens do IaaS**:
+   - **Escalabilidade**: Capacidade de aumentar ou diminuir recursos conforme a demanda.
+   - **Custo-Efetividade**: Pagamento baseado no uso, evitando custos de infraestrutura física.
+   - **Flexibilidade**: Personalização de recursos e configuração de acordo com as necessidades específicas do negócio.
+   - **Gerenciamento Simplificado**: Redução da complexidade de gerenciar hardware físico.
+
+4. **Principais Provedores de IaaS**:
+   - **Amazon Web Services (AWS)**: Oferece uma ampla gama de serviços IaaS, como EC2, S3 e VPC.
+   - **Microsoft Azure**: Fornece serviços como VMs, Blob Storage e Virtual Network.
+   - **Google Cloud Platform (GCP)**: Inclui Compute Engine, Cloud Storage e VPC.
+
+5. **Casos de Uso Comuns**:
+   - **Desenvolvimento e Teste**: Criação de ambientes de desenvolvimento e teste rapidamente.
+   - **Hospedagem de Aplicações**: Hospedagem de sites, aplicativos web e serviços.
+   - **Recuperação de Desastres**: Implementação de soluções de backup e recuperação de desastres.
+   - **Análise de Big Data**: Processamento e análise de grandes volumes de dados.
+
+6. **Segurança em IaaS**:
+   - **Responsabilidade Compartilhada**: O provedor de IaaS é responsável pela segurança da infraestrutura, enquanto o cliente é responsável pela segurança dos dados e aplicações.
+   - **Ferramentas de Segurança**: Uso de firewalls, criptografia, controle de acesso e monitoramento para proteger os recursos.
+
+7. **Gerenciamento e Automação**:
+   - **APIs e SDKs**: Ferramentas para automatizar a criação, configuração e gerenciamento de recursos.
+   - **Infraestrutura como Código (IaC)**: Uso de scripts para gerenciar e provisionar recursos de forma programática (ex.: Terraform, AWS CloudFormation).
+
+8. **Considerações de Custo**:
+   - **Modelos de Preço**: Entendimento dos diferentes modelos de preço, como pagamento por uso, instâncias reservadas e instâncias spot.
+   - **Otimização de Custos**: Estratégias para otimizar custos, como desligar recursos não utilizados e escolher o tipo certo de instância.
+
+9. **Desempenho e Escalabilidade**:
+   - **Dimensionamento Vertical e Horizontal**: Aumento de recursos de uma VM (vertical) ou adição de mais VMs (horizontal).
+   - **Balanceamento de Carga**: Distribuição de tráfego entre várias VMs para melhorar o desempenho e a disponibilidade.
+
+10. **Compliance e Conformidade**:
+    - **Regulamentações**: Garantir que o uso de IaaS esteja em conformidade com regulamentações e padrões de segurança (ex.: GDPR, HIPAA).
+
+Com esses pontos, você terá uma base sólida para entender como funciona o IaaS, suas vantagens, principais provedores, casos de uso, segurança, gerenciamento, custos, desempenho e conformidade. Isso cobre a maior parte do que você precisa saber para começar a trabalhar com IaaS de forma eficaz.
+

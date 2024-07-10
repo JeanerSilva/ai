@@ -1,0 +1,41 @@
+ 03 Principais tipos de ataques e vulnerabilidades. 
+ -
+Claro, vamos focar nos três principais tipos de ataques e vulnerabilidades em segurança cibernética e destacar os aprendizados mais importantes que te ajudarão a compreender a maior parte do assunto.
+
+### 1. **Phishing**
+**Descrição:** Phishing é uma técnica de engenharia social onde atacantes se passam por entidades confiáveis para enganar as vítimas e obter informações sensíveis, como senhas e dados financeiros.
+
+**Principais Aprendizados:**
+- **Reconhecimento de Sinais:** Aprenda a identificar e-mails e mensagens suspeitas, como erros gramaticais, URLs estranhas e solicitações urgentes de informações pessoais.
+- **Verificação de Fontes:** Sempre verifique a autenticidade da fonte antes de clicar em links ou fornecer informações. Use canais oficiais para confirmar solicitações.
+- **Educação Contínua:** Mantenha-se atualizado sobre as novas técnicas de phishing e participe de treinamentos regulares de conscientização sobre segurança.
+
+### 2. **Malware**
+**Descrição:** Malware é um software malicioso projetado para danificar, explorar ou obter acesso não autorizado a sistemas de computadores. Exemplos incluem vírus, worms, trojans e ransomware.
+
+**Principais Aprendizados:**
+- **Instalação de Software de Segurança:** Utilize antivírus e antimalware confiáveis e mantenha-os atualizados.
+- **Atualizações Regulares:** Mantenha todos os sistemas e softwares atualizados com os patches de segurança mais recentes.
+- **Práticas de Navegação Segura:** Evite baixar software de fontes não confiáveis e não clique em links ou anexos de e-mails desconhecidos.
+
+### 3. **SQL Injection**
+**Descrição:** SQL Injection é uma vulnerabilidade que permite a um atacante interferir nas consultas que uma aplicação faz ao seu banco de dados. Isso pode resultar em acesso não autorizado a dados sensíveis.
+
+**Principais Aprendizados:**
+- **Validação de Entrada:** Sempre valide e sanitize as entradas dos usuários para evitar a injeção de comandos SQL maliciosos.
+- **Uso de Prepared Statements:** Utilize consultas parametrizadas (prepared statements) em vez de concatenar strings SQL diretamente.
+- **Princípio do Menor Privilégio:** Configure as permissões do banco de dados para que as contas de usuário tenham apenas os privilégios necessários.
+
+### Resumo dos 20% mais importantes aprendizados:
+
+1. **Reconhecimento de Sinais de Phishing:** Identificar e-mails e mensagens suspeitas.
+2. **Verificação de Fontes:** Confirmar a autenticidade antes de fornecer informações.
+3. **Educação Contínua sobre Phishing:** Manter-se atualizado e participar de treinamentos.
+4. **Instalação e Atualização de Software de Segurança:** Utilizar e manter antivírus e antimalware.
+5. **Práticas de Navegação Segura:** Evitar downloads de fontes não confiáveis e clicar em links desconhecidos.
+6. **Validação e Sanitização de Entradas:** Proteger contra SQL Injection validando entradas de usuários.
+7. **Uso de Prepared Statements:** Utilizar consultas parametrizadas para evitar injeção de SQL.
+8. **Princípio do Menor Privilégio:** Configurar permissões mínimas necessárias no banco de dados.
+
+Esses aprendizados cobrem os aspectos mais críticos de cada tipo de ataque e vulnerabilidade, proporcionando uma base sólida para entender e mitigar riscos de segurança cibernética.
+

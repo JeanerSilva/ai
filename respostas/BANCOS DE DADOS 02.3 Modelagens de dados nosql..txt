@@ -1,0 +1,61 @@
+ 02.3 Modelagens de dados nosql.
+ -
+Claro! A regra de Pareto, ou princípio 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado sobre modelagens de dados NoSQL, aqui estão os pontos mais importantes que você deve focar para obter uma compreensão sólida:
+
+### 1. **Tipos de Bancos de Dados NoSQL**
+   - **Document Stores**: Armazenam dados em documentos JSON, BSON ou XML. Exemplos: MongoDB, CouchDB.
+   - **Key-Value Stores**: Armazenam dados como pares chave-valor. Exemplos: Redis, DynamoDB.
+   - **Column-Family Stores**: Armazenam dados em tabelas, linhas e colunas, mas diferem dos bancos de dados relacionais. Exemplos: Cassandra, HBase.
+   - **Graph Databases**: Armazenam dados em grafos, com nós, arestas e propriedades. Exemplos: Neo4j, ArangoDB.
+
+### 2. **Desnormalização**
+   - Ao contrário dos bancos de dados relacionais, a desnormalização é comum em NoSQL para otimizar a leitura e a escrita. Isso significa que os dados podem ser duplicados em vários documentos ou registros para evitar junções complexas.
+
+### 3. **Modelagem Baseada em Consultas**
+   - Em NoSQL, a modelagem de dados é frequentemente orientada pelas consultas que você precisa realizar. Isso significa que você deve projetar seus dados de acordo com os padrões de acesso esperados.
+
+### 4. **Escalabilidade Horizontal**
+   - NoSQL é projetado para escalar horizontalmente, o que significa adicionar mais servidores para lidar com o aumento de carga, em vez de aumentar a capacidade de um único servidor (escalabilidade vertical).
+
+### 5. **Consistência Eventual**
+   - Muitos bancos de dados NoSQL adotam um modelo de consistência eventual, onde os dados são eventualmente consistentes, mas podem não ser imediatamente consistentes em todos os nós do sistema.
+
+### 6. **CAP Theorem**
+   - O teorema CAP afirma que um sistema distribuído pode fornecer apenas duas das três garantias: Consistência, Disponibilidade e Tolerância a Partições. Entender isso é crucial para escolher o banco de dados NoSQL certo para suas necessidades.
+
+### 7. **Schemas Flexíveis**
+   - Bancos de dados NoSQL geralmente têm esquemas flexíveis ou inexistentes, permitindo que você armazene dados sem uma estrutura rígida. Isso é útil para dados que mudam frequentemente ou são semi-estruturados.
+
+### 8. **MapReduce e Agregações**
+   - Muitos bancos de dados NoSQL suportam operações de agregação e MapReduce para processar grandes volumes de dados de forma eficiente.
+
+### 9. **Índices Secundários**
+   - Embora menos comuns que em bancos de dados relacionais, muitos bancos de dados NoSQL suportam índices secundários para melhorar a performance de consultas.
+
+### 10. **Transações**
+   - Alguns bancos de dados NoSQL oferecem suporte a transações, mas geralmente com limitações em comparação com bancos de dados relacionais. Entender essas limitações é importante para garantir a integridade dos dados.
+
+### 11. **Particionamento e Sharding**
+   - Técnicas de particionamento e sharding são usadas para distribuir dados em vários nós, melhorando a escalabilidade e a performance.
+
+### 12. **Replicação**
+   - A replicação é usada para aumentar a disponibilidade e a tolerância a falhas, copiando dados entre vários nós.
+
+### 13. **Consistência vs. Performance**
+   - Em NoSQL, há frequentemente um trade-off entre consistência e performance. Entender como ajustar isso de acordo com suas necessidades é crucial.
+
+### 14. **Ferramentas de Gerenciamento e Monitoramento**
+   - Familiarize-se com as ferramentas de gerenciamento e monitoramento específicas para o banco de dados NoSQL que você está usando. Isso é vital para manter a saúde e a performance do sistema.
+
+### 15. **Casos de Uso Comuns**
+   - Entenda os casos de uso comuns para cada tipo de banco de dados NoSQL. Por exemplo, Document Stores são ótimos para aplicativos web, enquanto Graph Databases são ideais para redes sociais e análise de relacionamentos.
+
+### 16. **Segurança**
+   - Segurança em NoSQL pode ser diferente de bancos de dados relacionais. Entenda as práticas recomendadas para autenticação, autorização e criptografia.
+
+### 17. **Backup e Recuperação**
+   - Conheça as estratégias de backup e recuperação para garantir que seus dados possam ser restaurados em caso de falha.
+
+### 18. **Integração com Outras Tecnologias**
+   - Saiba como integrar seu banco de dados NoSQL com outras tecnologias e serviços, como sistemas de mensageria,
+

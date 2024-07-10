@@ -1,0 +1,53 @@
+ 04.3 Prometheus
+ -
+Claro! Prometheus é uma ferramenta de monitoramento e alerta de código aberto, desenvolvida inicialmente pela SoundCloud. Ele é amplamente utilizado para monitorar sistemas e serviços, especialmente em ambientes de contêineres e microserviços. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do Prometheus:
+
+1. **Arquitetura do Prometheus**:
+   - **Servidor Prometheus**: Coleta e armazena métricas.
+   - **Exporters**: Ferramentas que expõem métricas de sistemas e serviços.
+   - **Alertmanager**: Gerencia e envia alertas baseados nas regras definidas.
+   - **Pushgateway**: Permite que métricas de curta duração sejam enviadas ao Prometheus.
+
+2. **Modelo de Dados**:
+   - **Métricas**: Dados coletados pelo Prometheus, geralmente no formato de séries temporais.
+   - **Séries Temporais**: Conjunto de pares de valores e timestamps.
+   - **Labels**: Etiquetas que identificam e categorizam métricas.
+
+3. **Linguagem de Consulta (PromQL)**:
+   - **Seleção de Séries Temporais**: Como selecionar e filtrar séries temporais.
+   - **Funções e Operadores**: Ferramentas para manipular e agregar dados.
+   - **Alertas**: Definição de regras de alerta usando PromQL.
+
+4. **Exporters**:
+   - **Node Exporter**: Coleta métricas de sistemas operacionais.
+   - **Application Exporters**: Exporters específicos para diferentes aplicações (ex: MySQL, Redis).
+   - **Custom Exporters**: Criar seus próprios exporters para aplicações específicas.
+
+5. **Configuração e Scraping**:
+   - **Configuração do Prometheus**: Definir jobs e targets no arquivo de configuração.
+   - **Scraping**: Processo de coleta de métricas dos endpoints configurados.
+
+6. **Alertmanager**:
+   - **Configuração de Alertas**: Definir regras de alerta no Prometheus.
+   - **Roteamento de Alertas**: Configurar como e para onde os alertas devem ser enviados.
+   - **Silenciamento e Inibição**: Gerenciar alertas para evitar notificações redundantes.
+
+7. **Visualização de Dados**:
+   - **Grafana**: Ferramenta popular para visualização de métricas do Prometheus.
+   - **Dashboards**: Criar e configurar dashboards para monitoramento visual.
+
+8. **Escalabilidade e Desempenho**:
+   - **Sharding e Federation**: Técnicas para escalar o Prometheus.
+   - **Armazenamento de Longo Prazo**: Soluções para armazenar métricas por períodos prolongados.
+
+9. **Integração com Kubernetes**:
+   - **Prometheus Operator**: Facilita a implantação e gerenciamento do Prometheus em Kubernetes.
+   - **Service Discovery**: Descoberta automática de serviços e endpoints em Kubernetes.
+
+10. **Boas Práticas**:
+    - **Métricas Relevantes**: Coletar apenas métricas que são realmente úteis.
+    - **Alertas Eficazes**: Definir alertas que sejam acionáveis e relevantes.
+    - **Manutenção e Atualização**: Manter o Prometheus e seus componentes atualizados.
+
+Compreender esses pontos-chave te dará uma base sólida para trabalhar com Prometheus e aproveitar ao máximo suas capacidades de monitoramento e alerta.
+

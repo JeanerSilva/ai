@@ -1,0 +1,56 @@
+ 10 Padrões: GoF e
+ -
+Os padrões de projeto (Design Patterns) do livro "Design Patterns: Elements of Reusable Object-Oriented Software" dos autores Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, conhecidos como Gang of Four (GoF), são fundamentais para o desenvolvimento de software orientado a objetos. Eles são divididos em três categorias principais: Padrões Criacionais, Padrões Estruturais e Padrões Comportamentais. Aqui estão 10 padrões de projeto GoF e os 20% mais importantes aprendizados que ajudarão a compreender 80% do necessário sobre o assunto:
+
+### Padrões Criacionais
+1. **Singleton**
+   - **Aprendizado Principal:** Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela.
+   - **Importância:** Evita a criação de múltiplas instâncias de uma classe, economizando recursos e garantindo consistência.
+
+2. **Factory Method**
+   - **Aprendizado Principal:** Define uma interface para criar um objeto, mas permite que as subclasses alterem o tipo de objeto que será criado.
+   - **Importância:** Promove a flexibilidade e a reutilização de código ao delegar a responsabilidade de criação de objetos para subclasses.
+
+3. **Abstract Factory**
+   - **Aprendizado Principal:** Fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
+   - **Importância:** Facilita a troca de "famílias" de produtos sem alterar o código que os utiliza.
+
+### Padrões Estruturais
+4. **Adapter**
+   - **Aprendizado Principal:** Permite que interfaces incompatíveis trabalhem juntas, convertendo a interface de uma classe em outra interface esperada pelos clientes.
+   - **Importância:** Facilita a integração de classes com interfaces diferentes, promovendo a reutilização de código existente.
+
+5. **Decorator**
+   - **Aprendizado Principal:** Anexa responsabilidades adicionais a um objeto dinamicamente. Os decoradores fornecem uma alternativa flexível ao uso de subclasses para estender funcionalidades.
+   - **Importância:** Permite a adição de comportamentos a objetos de maneira flexível e reutilizável.
+
+6. **Facade**
+   - **Aprendizado Principal:** Fornece uma interface simplificada para um subsistema complexo.
+   - **Importância:** Reduz a complexidade do código cliente e promove a separação de preocupações.
+
+### Padrões Comportamentais
+7. **Observer**
+   - **Aprendizado Principal:** Define uma dependência um-para-muitos entre objetos, de modo que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
+   - **Importância:** Facilita a implementação de sistemas reativos e desacoplados.
+
+8. **Strategy**
+   - **Aprendizado Principal:** Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis. Permite que o algoritmo varie independentemente dos clientes que o utilizam.
+   - **Importância:** Promove a flexibilidade e a reutilização de algoritmos.
+
+9. **Command**
+   - **Aprendizado Principal:** Encapsula uma solicitação como um objeto, permitindo parametrizar clientes com diferentes solicitações, enfileirar ou registrar solicitações e suportar operações que podem ser desfeitas.
+   - **Importância:** Facilita a implementação de operações reversíveis e a criação de filas de comandos.
+
+10. **Template Method**
+    - **Aprendizado Principal:** Define o esqueleto de um algoritmo em uma operação, postergando alguns passos para as subclasses. Permite que subclasses redefinam certos passos de um algoritmo sem mudar sua estrutura.
+    - **Importância:** Promove a reutilização de código e a definição de algoritmos flexíveis.
+
+### 20% Mais Importantes Aprendizados
+1. **Encapsulamento de Variações:** Muitos padrões de projeto encapsulam variações em comportamento ou estrutura, promovendo a flexibilidade e a reutilização de código.
+2. **Desacoplamento:** Padrões como Observer e Strategy ajudam a reduzir o acoplamento entre componentes, facilitando a manutenção e evolução do sistema.
+3. **Reutilização de Código:** Padrões como Factory Method e Abstract Factory promovem a reutilização de código ao delegar a responsabilidade de criação de objetos.
+4. **Flexibilidade e Extensibilidade:** Padrões como Decorator e Template Method permitem a extensão de funcionalidades sem modificar o código existente.
+5. **Simplicidade e Clareza:** Padrões como Facade e Adapter simplificam a interface de subsistemas complexos, tornando o código mais claro e fácil de entender.
+
+Compreender esses aprendizados principais fornecerá uma base sólida para aplicar os padrões de projeto GoF de maneira eficaz em seus projetos de software.
+

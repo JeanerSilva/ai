@@ -1,0 +1,86 @@
+ 03.1 SQL Structured Query Language. 
+ -
+Claro! A Lei de Pareto, ou o princípio 80/20, sugere que 20% dos esforços podem gerar 80% dos resultados. Aplicando isso ao aprendizado de SQL (Structured Query Language), aqui estão os conceitos e habilidades mais importantes que você deve focar para obter uma compreensão sólida e eficaz:
+
+1. **Compreender a Estrutura Básica de uma Consulta SQL**:
+   - **SELECT**: Usado para selecionar dados de um banco de dados.
+   - **FROM**: Especifica a tabela de onde os dados serão retirados.
+   - **WHERE**: Filtra registros com base em condições específicas.
+
+2. **Operadores de Comparação e Lógicos**:
+   - **=, <, >, <=, >=, <>**: Operadores de comparação.
+   - **AND, OR, NOT**: Operadores lógicos para combinar condições.
+
+3. **Funções de Agregação**:
+   - **COUNT()**: Conta o número de linhas.
+   - **SUM()**: Soma valores.
+   - **AVG()**: Calcula a média.
+   - **MIN() e MAX()**: Encontram o valor mínimo e máximo.
+
+4. **Cláusula GROUP BY**:
+   - Agrupa linhas que têm valores iguais em colunas especificadas.
+
+5. **Cláusula HAVING**:
+   - Filtra grupos de registros após a aplicação da cláusula GROUP BY.
+
+6. **Cláusula ORDER BY**:
+   - Ordena os resultados de uma consulta em ordem ascendente ou descendente.
+
+7. **JOINs**:
+   - **INNER JOIN**: Retorna registros que têm correspondência em ambas as tabelas.
+   - **LEFT JOIN (ou LEFT OUTER JOIN)**: Retorna todos os registros da tabela à esquerda e os registros correspondentes da tabela à direita.
+   - **RIGHT JOIN (ou RIGHT OUTER JOIN)**: Retorna todos os registros da tabela à direita e os registros correspondentes da tabela à esquerda.
+   - **FULL JOIN (ou FULL OUTER JOIN)**: Retorna registros quando há uma correspondência em uma das tabelas.
+
+8. **Subconsultas (Subqueries)**:
+   - Consultas dentro de outras consultas para realizar operações complexas.
+
+9. **Manipulação de Dados**:
+   - **INSERT INTO**: Insere novos registros em uma tabela.
+   - **UPDATE**: Atualiza registros existentes.
+   - **DELETE**: Remove registros de uma tabela.
+
+10. **Criação e Modificação de Estruturas de Tabelas**:
+    - **CREATE TABLE**: Cria uma nova tabela.
+    - **ALTER TABLE**: Modifica uma tabela existente.
+    - **DROP TABLE**: Remove uma tabela.
+
+11. **Índices**:
+    - **CREATE INDEX**: Cria um índice para melhorar a velocidade das consultas.
+    - **DROP INDEX**: Remove um índice.
+
+12. **Transações**:
+    - **BEGIN TRANSACTION**: Inicia uma transação.
+    - **COMMIT**: Salva as alterações feitas durante a transação.
+    - **ROLLBACK**: Reverte as alterações feitas durante a transação.
+
+13. **Normalização de Dados**:
+    - Entender os conceitos de normalização para evitar redundância e dependência de dados.
+
+14. **Funções de String e Data**:
+    - **CONCAT()**, **SUBSTRING()**, **LENGTH()**: Funções de manipulação de strings.
+    - **NOW()**, **CURDATE()**, **DATEADD()**: Funções de manipulação de datas.
+
+15. **Permissões e Segurança**:
+    - **GRANT**: Concede permissões a usuários.
+    - **REVOKE**: Revoga permissões de usuários.
+
+16. **Views**:
+    - **CREATE VIEW**: Cria uma visão virtual baseada no resultado de uma consulta SQL.
+    - **DROP VIEW**: Remove uma visão.
+
+17. **Stored Procedures e Triggers**:
+    - **CREATE PROCEDURE**: Cria procedimentos armazenados.
+    - **CREATE TRIGGER**: Cria gatilhos que executam automaticamente uma ação em resposta a certos eventos.
+
+18. **Backup e Recuperação**:
+    - Compreender como fazer backup e restaurar bancos de dados para proteger dados contra perda.
+
+19. **Desempenho e Otimização**:
+    - Técnicas básicas para otimizar consultas SQL e melhorar o desempenho do banco de dados.
+
+20. **Ferramentas e Ambientes de Desenvolvimento**:
+    - Familiarizar-se com ferramentas como MySQL Workbench, SQL Server Management Studio (SSMS), e outras interfaces gráficas para facilitar o desenvolvimento e a administração de bancos de dados.
+
+Focando nesses 20% de conceitos e habilidades, você estará bem equipado para lidar com a maioria das tarefas e desafios que encontrará ao trabalhar com SQL
+

@@ -1,0 +1,66 @@
+ 04.1 Testes unitários.
+ -
+Claro! Os testes unitários são uma parte fundamental do desenvolvimento de software, garantindo que pequenas partes do código funcionem corretamente. Aqui estão os 20% mais importantes aprendizados sobre testes unitários que te ajudarão a compreender 80% do necessário:
+
+1. **Definição de Testes Unitários**:
+   - Testes unitários são testes automatizados que verificam o comportamento de pequenas unidades de código, como funções ou métodos, de forma isolada.
+
+2. **Objetivo Principal**:
+   - Garantir que cada unidade de código funcione conforme o esperado, facilitando a detecção de erros e a manutenção do software.
+
+3. **Isolamento**:
+   - Cada teste deve ser independente e não deve depender de outros testes ou do estado global do sistema. Isso garante que os testes sejam confiáveis e repetíveis.
+
+4. **Automatização**:
+   - Testes unitários devem ser automatizados para que possam ser executados rapidamente e frequentemente, idealmente a cada alteração no código.
+
+5. **Frameworks de Teste**:
+   - Utilize frameworks de teste apropriados para a linguagem de programação que você está usando (por exemplo, JUnit para Java, NUnit para C#, pytest para Python).
+
+6. **Mocking e Stubbing**:
+   - Use mocks e stubs para simular comportamentos de dependências externas, como bancos de dados ou serviços web, permitindo que você teste unidades de código isoladamente.
+
+7. **Cobertura de Código**:
+   - A cobertura de código mede a quantidade de código que é testada pelos testes unitários. Embora 100% de cobertura não garanta a ausência de bugs, uma alta cobertura é desejável.
+
+8. **Escrita de Testes**:
+   - Escreva testes claros e concisos que verifiquem uma única funcionalidade ou comportamento por teste. Isso facilita a identificação de falhas.
+
+9. **Manutenção de Testes**:
+   - Testes unitários devem ser mantidos e atualizados junto com o código de produção. Testes desatualizados podem se tornar inúteis ou, pior, enganosos.
+
+10. **Test-Driven Development (TDD)**:
+    - TDD é uma prática onde você escreve os testes antes de escrever o código de produção. Isso pode ajudar a garantir que o código seja testável e bem projetado.
+
+11. **Feedback Rápido**:
+    - Testes unitários devem ser rápidos para fornecer feedback imediato sobre a qualidade do código após cada alteração.
+
+12. **Assertivas**:
+    - Use assertivas para verificar se o resultado do código é o esperado. Assertivas são declarações que comparam o resultado obtido com o resultado esperado.
+
+13. **Refatoração Segura**:
+    - Testes unitários permitem refatorar o código com confiança, sabendo que qualquer alteração que quebre a funcionalidade será detectada pelos testes.
+
+14. **Documentação**:
+    - Testes unitários também servem como documentação viva do comportamento esperado do código, ajudando novos desenvolvedores a entenderem o sistema.
+
+15. **Granularidade**:
+    - Testes unitários devem ser granulares, focando em pequenas partes do código. Testes mais amplos são geralmente cobertos por testes de integração ou de sistema.
+
+16. **Ambiente de Teste**:
+    - Configure um ambiente de teste que seja o mais próximo possível do ambiente de produção para garantir que os testes sejam relevantes e precisos.
+
+17. **Falhas de Teste**:
+    - Trate falhas de teste como prioridade. Uma falha indica que há um problema que precisa ser resolvido antes de prosseguir com novas funcionalidades.
+
+18. **Boas Práticas de Nomenclatura**:
+    - Nomeie seus testes de forma descritiva para que outros desenvolvedores possam entender facilmente o que está sendo testado e qual é o comportamento esperado.
+
+19. **Ciclo de Vida dos Testes**:
+    - Entenda o ciclo de vida dos testes unitários, incluindo setup (configuração), execução, e teardown (limpeza), para garantir que os testes sejam executados corretamente.
+
+20. **Integração Contínua**:
+    - Integre testes unitários em um pipeline de integração contínua (CI) para garantir que todos os testes sejam executados automaticamente a cada commit ou pull request.
+
+Com esses aprendizados, você terá uma base sólida para entender e implementar testes unitários eficazes, garantindo a qualidade e a manutenção do seu código.
+

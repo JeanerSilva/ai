@@ -1,0 +1,46 @@
+ 07 Programação assíncrona. 
+ -
+Claro! A programação assíncrona é um conceito fundamental em desenvolvimento de software, especialmente quando se trata de melhorar a eficiência e a capacidade de resposta de aplicações. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender os 80% necessários sobre programação assíncrona:
+
+1. **Conceito de Assincronismo**:
+   - **Definição**: A programação assíncrona permite que uma operação seja iniciada e, enquanto ela está em execução, outras operações possam continuar sem esperar que a primeira termine.
+   - **Importância**: Isso é crucial para melhorar a performance e a capacidade de resposta de aplicações, especialmente em operações de I/O (entrada/saída) como leitura de arquivos, chamadas de rede, etc.
+
+2. **Event Loop**:
+   - **Definição**: É um mecanismo que permite que a linguagem de programação (como JavaScript) execute operações assíncronas. Ele monitora a fila de eventos e executa as operações quando estiverem prontas.
+   - **Importância**: Compreender o event loop é essencial para entender como as operações assíncronas são gerenciadas e executadas.
+
+3. **Promises**:
+   - **Definição**: Uma Promise é um objeto que representa a eventual conclusão (ou falha) de uma operação assíncrona e seu valor resultante.
+   - **Importância**: Promises são uma maneira moderna e poderosa de lidar com operações assíncronas, evitando o "callback hell".
+
+4. **Async/Await**:
+   - **Definição**: `async` e `await` são palavras-chave que permitem escrever código assíncrono de maneira mais síncrona e legível.
+   - **Importância**: Facilita a leitura e manutenção do código assíncrono, tornando-o mais intuitivo.
+
+5. **Callbacks**:
+   - **Definição**: Funções passadas como argumentos para outras funções que são executadas após a conclusão de uma operação assíncrona.
+   - **Importância**: Embora menos moderno que Promises e async/await, entender callbacks é fundamental, pois são amplamente usados em muitas bibliotecas e frameworks.
+
+6. **Manejo de Erros**:
+   - **Definição**: Técnicas para capturar e tratar erros em operações assíncronas.
+   - **Importância**: Erros em operações assíncronas podem ser difíceis de depurar. Promises e async/await oferecem maneiras mais robustas de lidar com erros comparado a callbacks.
+
+7. **Operações de I/O**:
+   - **Definição**: Operações que envolvem entrada e saída de dados, como leitura de arquivos, chamadas de rede, etc.
+   - **Importância**: A programação assíncrona é especialmente útil para operações de I/O, pois permite que o programa continue executando outras tarefas enquanto espera a conclusão dessas operações.
+
+8. **Concurrency vs. Parallelism**:
+   - **Definição**: Concurrency (concorrência) é a capacidade de um sistema lidar com múltiplas tarefas ao mesmo tempo, enquanto parallelism (paralelismo) é a execução simultânea de múltiplas tarefas.
+   - **Importância**: Entender a diferença ajuda a escolher a abordagem correta para otimizar a performance da aplicação.
+
+9. **Bibliotecas e Frameworks**:
+   - **Exemplos**: Node.js para JavaScript, asyncio para Python, etc.
+   - **Importância**: Utilizar bibliotecas e frameworks que suportam programação assíncrona pode simplificar muito o desenvolvimento e melhorar a performance da aplicação.
+
+10. **Contexto de Execução**:
+    - **Definição**: O ambiente no qual o código assíncrono é executado, incluindo variáveis e estado.
+    - **Importância**: Compreender o contexto de execução é crucial para evitar problemas como race conditions e deadlocks.
+
+Esses pontos cobrem os conceitos e práticas mais essenciais da programação assíncrona. Compreendê-los te dará uma base sólida para explorar e aplicar técnicas assíncronas em suas aplicações, melhorando a eficiência e a capacidade de resposta.
+

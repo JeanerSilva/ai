@@ -1,0 +1,63 @@
+ 05 Arquiteturas de software em camadas.
+ -
+Claro! A arquitetura de software em camadas é um padrão de design que organiza o sistema em camadas distintas, cada uma com responsabilidades específicas. Aqui estão cinco arquiteturas de software em camadas e os 20% mais importantes aprendizados sobre elas que te ajudarão a compreender 80% do necessário:
+
+### 1. **Arquitetura Monolítica em Camadas**
+- **Descrição**: Estrutura tradicional onde todas as funcionalidades do sistema estão agrupadas em uma única aplicação.
+- **Camadas Típicas**:
+  - **Apresentação**: Interface do usuário.
+  - **Aplicação**: Lógica de negócios.
+  - **Dados**: Acesso e manipulação de dados.
+- **Aprendizados Importantes**:
+  1. **Separação de Preocupações**: Cada camada tem uma responsabilidade específica, facilitando a manutenção e evolução do sistema.
+  2. **Acoplamento e Coesão**: Camadas bem definidas reduzem o acoplamento e aumentam a coesão, melhorando a modularidade.
+  3. **Facilidade de Testes**: Testes podem ser realizados em cada camada de forma independente.
+
+### 2. **Arquitetura Cliente-Servidor**
+- **Descrição**: Divide o sistema em duas partes principais: cliente e servidor.
+- **Camadas Típicas**:
+  - **Cliente**: Interface do usuário e lógica de apresentação.
+  - **Servidor**: Lógica de negócios e acesso a dados.
+- **Aprendizados Importantes**:
+  1. **Distribuição de Tarefas**: O cliente lida com a interface do usuário, enquanto o servidor gerencia a lógica de negócios e dados.
+  2. **Escalabilidade**: Servidores podem ser escalados horizontalmente para lidar com mais clientes.
+  3. **Segurança**: A separação permite implementar medidas de segurança mais robustas no servidor.
+
+### 3. **Arquitetura de Três Camadas (Three-Tier)**
+- **Descrição**: Extensão da arquitetura cliente-servidor com uma camada adicional.
+- **Camadas Típicas**:
+  - **Apresentação**: Interface do usuário.
+  - **Lógica de Negócios**: Processamento de regras de negócios.
+  - **Dados**: Acesso e manipulação de dados.
+- **Aprendizados Importantes**:
+  1. **Manutenção e Evolução**: Facilita a manutenção e evolução do sistema, pois cada camada pode ser modificada independentemente.
+  2. **Reutilização**: Componentes da lógica de negócios podem ser reutilizados por diferentes interfaces de apresentação.
+  3. **Desempenho**: Pode melhorar o desempenho ao distribuir a carga de trabalho entre diferentes servidores.
+
+### 4. **Arquitetura de Microservices**
+- **Descrição**: Divide o sistema em pequenos serviços independentes, cada um com sua própria lógica de negócios e dados.
+- **Camadas Típicas**:
+  - **Serviços Independentes**: Cada serviço é uma unidade funcional completa.
+  - **API Gateway**: Interface única para acessar os serviços.
+  - **Banco de Dados**: Cada serviço pode ter seu próprio banco de dados.
+- **Aprendizados Importantes**:
+  1. **Independência e Isolamento**: Cada microserviço pode ser desenvolvido, implantado e escalado de forma independente.
+  2. **Resiliência**: Falhas em um serviço não afetam os outros, aumentando a resiliência do sistema.
+  3. **Flexibilidade Tecnológica**: Diferentes serviços podem ser desenvolvidos com diferentes tecnologias, conforme necessário.
+
+### 5. **Arquitetura em Camadas Hexagonais (Arquitetura de Porto e Adaptador)**
+- **Descrição**: Foca na separação entre a lógica de negócios e as interfaces externas.
+- **Camadas Típicas**:
+  - **Domínio**: Lógica de negócios central.
+  - **Aplicação**: Coordena as operações do domínio.
+  - **Portos e Adaptadores**: Interfaces para comunicação com o mundo externo (UI, banco de dados, serviços externos).
+- **Aprendizados Importantes**:
+  1. **Isolamento da Lógica de Negócios**: A lógica de negócios é isolada das interfaces externas, facilitando mudanças e testes.
+  2. **Flexibilidade de Integração**: Facilita a integração com diferentes interfaces e tecnologias externas.
+  3. **Testabilidade**: A separação clara permite testes unitários mais eficazes da lógica de negócios.
+
+### Conclusão
+Os 20% mais importantes aprendizados sobre arquiteturas de software em camadas que te ajudarão a compreender 80% do necessário são:
+
+1. **Separação de Preocupações**: Cada camada tem uma
+

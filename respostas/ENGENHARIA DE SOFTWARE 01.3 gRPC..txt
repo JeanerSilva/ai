@@ -1,0 +1,70 @@
+ 01.3 gRPC.
+ -
+Claro! Vamos focar nos conceitos e práticas mais importantes do gRPC que te ajudarão a entender a maior parte do que você precisa saber sobre essa tecnologia.
+
+### 1. O que é gRPC?
+gRPC (gRPC Remote Procedure Call) é um framework de comunicação de alto desempenho desenvolvido pelo Google. Ele permite que serviços em diferentes linguagens de programação se comuniquem de maneira eficiente e escalável.
+
+### 2. Protocol Buffers (Protobuf)
+Protobuf é o formato de serialização usado pelo gRPC. Ele é eficiente e permite a definição de serviços e mensagens de maneira clara e concisa. Aprender a definir mensagens e serviços em arquivos `.proto` é essencial.
+
+### 3. Definição de Serviços
+No gRPC, você define serviços e métodos em um arquivo `.proto`. Cada método pode ser uma chamada de procedimento remoto (RPC) que pode ser unária, de streaming do cliente, de streaming do servidor ou de streaming bidirecional.
+
+### 4. Tipos de RPC
+- **Unária**: Uma solicitação do cliente e uma resposta do servidor.
+- **Streaming do Cliente**: Várias solicitações do cliente e uma resposta do servidor.
+- **Streaming do Servidor**: Uma solicitação do cliente e várias respostas do servidor.
+- **Streaming Bidirecional**: Várias solicitações e respostas entre cliente e servidor.
+
+### 5. Geração de Código
+O gRPC usa o compilador `protoc` para gerar código a partir dos arquivos `.proto`. Esse código inclui classes para mensagens e stubs para clientes e servidores.
+
+### 6. Implementação de Servidores
+Você precisa implementar os métodos definidos no arquivo `.proto` no lado do servidor. Isso envolve escrever a lógica de negócios que será executada quando um cliente fizer uma chamada RPC.
+
+### 7. Criação de Clientes
+Os clientes usam stubs gerados para chamar métodos no servidor. Isso é feito de maneira semelhante a chamar um método local, mas na verdade está fazendo uma chamada de rede.
+
+### 8. Comunicação Segura
+gRPC suporta TLS para comunicação segura entre cliente e servidor. Configurar TLS é crucial para garantir a segurança dos dados transmitidos.
+
+### 9. Balanceamento de Carga
+gRPC suporta balanceamento de carga, o que é importante para sistemas distribuídos e escaláveis. Isso pode ser configurado para distribuir as solicitações entre várias instâncias de servidor.
+
+### 10. Interceptores
+Interceptores permitem adicionar lógica antes ou depois de uma chamada RPC. Eles são úteis para autenticação, logging, e outras funcionalidades transversais.
+
+### 11. Performance e Eficiência
+gRPC é projetado para ser eficiente em termos de desempenho e uso de recursos. Ele usa HTTP/2, que permite multiplexação de chamadas, compressão de cabeçalhos e outras otimizações.
+
+### 12. Suporte Multilinguagem
+gRPC suporta várias linguagens de programação, incluindo Java, C++, Python, Go, Ruby, e mais. Isso facilita a integração em ambientes heterogêneos.
+
+### 13. Manutenção e Evolução de APIs
+Protobuf facilita a evolução de APIs, permitindo adicionar novos campos e métodos sem quebrar a compatibilidade com versões anteriores.
+
+### 14. Ferramentas e Ecossistema
+Existem várias ferramentas e bibliotecas que complementam o gRPC, como `grpcurl` para testar serviços e `grpc-gateway` para expor serviços gRPC como APIs RESTful.
+
+### 15. Documentação e Exemplos
+A documentação oficial do gRPC é extensa e inclui muitos exemplos práticos. Aproveitar esses recursos pode acelerar seu aprendizado.
+
+### 16. Testes
+Testar serviços gRPC pode ser feito usando mocks e stubs. Ferramentas como `grpc-testing` facilitam a criação de testes unitários e de integração.
+
+### 17. Monitoramento e Logging
+Monitorar e logar chamadas gRPC é crucial para manutenção e depuração. Ferramentas como Prometheus e Grafana podem ser integradas para monitoramento.
+
+### 18. Erros e Exceções
+gRPC tem um sistema de códigos de status para representar diferentes tipos de erros. Entender esses códigos ajuda na depuração e no tratamento de erros.
+
+### 19. Migração e Integração
+Migrar para gRPC ou integrá-lo com sistemas existentes pode ser feito gradualmente. Ferramentas como `grpc-gateway` ajudam a expor serviços gRPC como APIs RESTful, facilitando a integração.
+
+### 20. Comunidade e Suporte
+A comunidade gRPC é ativa e há muitos recursos disponíveis, incluindo fóruns, grupos de discussão e repositórios de código aberto. Participar da comunidade pode fornecer suporte adicional e insights.
+
+### Conclusão
+Focando nesses 20 pontos, você cobrirá os aspectos mais importantes do gRPC, o que te permitirá entender e aplicar a tecnologia de maneira eficaz em seus projetos.
+

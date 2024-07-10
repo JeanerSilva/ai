@@ -1,0 +1,47 @@
+02 Deep learning. 
+ -
+Claro! A aplicação do princípio de Pareto (ou regra 80/20) ao aprendizado de Deep Learning pode ajudar a focar nos conceitos mais impactantes. Aqui estão os 20% mais importantes aprendizados que provavelmente te ajudarão a compreender 80% do necessário sobre Deep Learning:
+
+1. **Redes Neurais Artificiais (ANNs)**:
+   - **Estrutura Básica**: Entenda os componentes principais: neurônios (nós), camadas (entrada, ocultas, saída) e conexões (pesos).
+   - **Função de Ativação**: Aprenda sobre funções como ReLU, Sigmoid e Tanh, que introduzem não-linearidade no modelo.
+
+2. **Backpropagation e Otimização**:
+   - **Backpropagation**: Compreenda como os erros são propagados para ajustar os pesos.
+   - **Gradiente Descendente**: Entenda o algoritmo básico de otimização e suas variantes como SGD, Adam, RMSprop.
+
+3. **Arquiteturas de Redes Neurais**:
+   - **Redes Neurais Convolucionais (CNNs)**: Essenciais para processamento de imagens.
+   - **Redes Neurais Recorrentes (RNNs)**: Importantes para dados sequenciais, como séries temporais e processamento de linguagem natural (NLP).
+   - **Transformers**: Arquitetura moderna usada principalmente em NLP, como no modelo BERT e GPT.
+
+4. **Overfitting e Regularização**:
+   - **Overfitting**: Entenda o problema de ajuste excessivo aos dados de treinamento.
+   - **Técnicas de Regularização**: Aprenda sobre dropout, L1/L2 regularization e data augmentation para combater overfitting.
+
+5. **Treinamento e Validação**:
+   - **Divisão de Dados**: Importância de dividir os dados em conjuntos de treinamento, validação e teste.
+   - **Cross-Validation**: Técnica para avaliar a performance do modelo de forma mais robusta.
+
+6. **Frameworks e Ferramentas**:
+   - **TensorFlow e PyTorch**: Familiarize-se com esses frameworks populares para construir e treinar modelos de deep learning.
+   - **Keras**: Uma API de alto nível que facilita a construção de redes neurais em TensorFlow.
+
+7. **Pré-processamento de Dados**:
+   - **Normalização e Padronização**: Técnicas para preparar os dados antes de alimentá-los no modelo.
+   - **Tokenização e Embeddings**: Importante para processamento de texto.
+
+8. **Transfer Learning**:
+   - **Conceito**: Utilizar modelos pré-treinados em novas tarefas para economizar tempo e recursos.
+   - **Aplicação**: Compreender como adaptar modelos pré-treinados para novas tarefas específicas.
+
+9. **Avaliação de Modelos**:
+   - **Métricas de Performance**: Conheça métricas como acurácia, precisão, recall, F1-score, e AUC-ROC.
+   - **Confusion Matrix**: Ferramenta para visualizar a performance do modelo em problemas de classificação.
+
+10. **Hyperparameter Tuning**:
+    - **Importância**: Ajustar hiperparâmetros como taxa de aprendizado, número de camadas e neurônios para otimizar a performance do modelo.
+    - **Técnicas**: Grid search, random search e Bayesian optimization.
+
+Esses tópicos fornecem uma base sólida para entender os conceitos fundamentais e as práticas de Deep Learning. Aprofundar-se nesses pontos te dará uma compreensão abrangente e te preparará para explorar tópicos mais avançados e específicos conforme necessário.
+

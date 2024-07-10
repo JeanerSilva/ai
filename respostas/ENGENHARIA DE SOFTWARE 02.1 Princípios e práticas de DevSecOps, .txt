@@ -1,0 +1,71 @@
+ 02.1 Princípios e práticas de DevSecOps, 
+ -
+Claro, o princípio de Pareto (ou regra 80/20) pode ser uma excelente abordagem para aprender sobre DevSecOps de forma eficiente. Aqui estão os 20% mais importantes aprendizados que provavelmente cobrirão 80% do que você precisa saber sobre os princípios e práticas de DevSecOps:
+
+### 1. **Integração Contínua e Entrega Contínua (CI/CD)**
+   - **Definição**: CI/CD são práticas que permitem a integração contínua de código e a entrega contínua de software.
+   - **Importância**: Facilita a detecção precoce de problemas e a entrega rápida de atualizações.
+
+### 2. **Automação de Segurança**
+   - **Definição**: Implementação de ferramentas e scripts para automatizar tarefas de segurança.
+   - **Importância**: Reduz erros humanos e aumenta a eficiência na detecção e mitigação de vulnerabilidades.
+
+### 3. **Shift-Left Security**
+   - **Definição**: Incorporar práticas de segurança desde o início do ciclo de desenvolvimento.
+   - **Importância**: Identifica e resolve problemas de segurança mais cedo, reduzindo custos e riscos.
+
+### 4. **Monitoramento Contínuo**
+   - **Definição**: Monitoramento constante de sistemas e aplicações para detectar e responder a incidentes de segurança.
+   - **Importância**: Permite uma resposta rápida a ameaças e vulnerabilidades emergentes.
+
+### 5. **Cultura de Colaboração**
+   - **Definição**: Promover uma cultura onde desenvolvedores, operações e equipes de segurança trabalham juntos.
+   - **Importância**: Melhora a comunicação e a eficiência, resultando em um software mais seguro.
+
+### 6. **Infraestrutura como Código (IaC)**
+   - **Definição**: Gerenciamento e provisionamento de infraestrutura através de código.
+   - **Importância**: Facilita a automação e a consistência na configuração de ambientes, incluindo aspectos de segurança.
+
+### 7. **Testes de Segurança Automatizados**
+   - **Definição**: Integração de testes de segurança automatizados no pipeline de CI/CD.
+   - **Importância**: Garante que as verificações de segurança sejam realizadas de forma consistente e contínua.
+
+### 8. **Gerenciamento de Vulnerabilidades**
+   - **Definição**: Processo de identificação, avaliação e mitigação de vulnerabilidades.
+   - **Importância**: Ajuda a manter o software seguro ao longo do tempo.
+
+### 9. **Políticas de Segurança como Código**
+   - **Definição**: Definição de políticas de segurança através de código, que podem ser versionadas e auditadas.
+   - **Importância**: Garante que as políticas de segurança sejam aplicadas de forma consistente e automatizada.
+
+### 10. **Treinamento e Conscientização**
+   - **Definição**: Programas de treinamento contínuo para desenvolvedores e equipes de operações sobre práticas de segurança.
+   - **Importância**: Aumenta a conscientização e a competência em segurança dentro da organização.
+
+### 11. **Gerenciamento de Identidade e Acesso (IAM)**
+   - **Definição**: Controle de quem tem acesso a quais recursos e em que condições.
+   - **Importância**: Minimiza o risco de acesso não autorizado e violações de segurança.
+
+### 12. **Resiliência e Recuperação**
+   - **Definição**: Planejamento e implementação de estratégias para recuperação rápida de incidentes de segurança.
+   - **Importância**: Garante a continuidade do negócio e a minimização de impactos em caso de incidentes.
+
+### 13. **Compliance e Auditoria**
+   - **Definição**: Garantir que o software e os processos atendam a requisitos regulatórios e de conformidade.
+   - **Importância**: Evita penalidades legais e mantém a confiança dos clientes e stakeholders.
+
+### 14. **Segurança em Containers e Orquestração**
+   - **Definição**: Implementação de práticas de segurança específicas para ambientes de containers e orquestradores como Kubernetes.
+   - **Importância**: Protege aplicações modernas que utilizam essas tecnologias.
+
+### 15. **Feedback Contínuo**
+   - **Definição**: Mecanismos para coletar e integrar feedback contínuo sobre segurança de todas as partes interessadas.
+   - **Importância**: Melhora continuamente as práticas de segurança e a qualidade do software.
+
+### 16. **Gestão de Configuração Segura**
+   - **Definição**: Garantir que todas as configurações de sistemas e aplicações sigam práticas de segurança recomendadas.
+   - **Importância**: Reduz a superfície de ataque e previne configurações inseguras.
+
+### 17. **Segurança de Dados**
+   -
+

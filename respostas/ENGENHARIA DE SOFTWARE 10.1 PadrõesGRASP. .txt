@@ -1,0 +1,46 @@
+ 10.1 Padrões:GRASP. 
+ -
+Claro, vou focar nos conceitos mais importantes dos Padrões GRASP (General Responsibility Assignment Software Patterns) que são essenciais para entender a maior parte do assunto. GRASP é um conjunto de diretrizes para atribuição de responsabilidades em projetos de software orientado a objetos. Aqui estão os 20% mais importantes que cobrem 80% do entendimento necessário:
+
+1. **Creator (Criador)**:
+   - **Conceito**: Define qual classe deve ser responsável por criar instâncias de outra classe.
+   - **Importância**: Ajuda a manter o código organizado e a responsabilidade de criação clara, evitando dependências desnecessárias.
+
+2. **Information Expert (Especialista da Informação)**:
+   - **Conceito**: Atribui a responsabilidade a quem tem a informação necessária para cumprir a tarefa.
+   - **Importância**: Promove a coesão e reduz o acoplamento, facilitando a manutenção e evolução do sistema.
+
+3. **Controller (Controlador)**:
+   - **Conceito**: Define um objeto intermediário que coordena as operações do sistema.
+   - **Importância**: Centraliza o controle de ações, melhorando a modularidade e a reutilização de código.
+
+4. **Low Coupling (Baixo Acoplamento)**:
+   - **Conceito**: Minimiza as dependências entre classes.
+   - **Importância**: Facilita a manutenção e a escalabilidade do sistema, permitindo que mudanças em uma parte do sistema tenham impacto mínimo em outras partes.
+
+5. **High Cohesion (Alta Coesão)**:
+   - **Conceito**: Mantém as responsabilidades de uma classe focadas e relacionadas.
+   - **Importância**: Aumenta a clareza e a reutilização do código, tornando-o mais fácil de entender e modificar.
+
+6. **Polymorphism (Polimorfismo)**:
+   - **Conceito**: Usa interfaces ou classes abstratas para permitir que diferentes classes implementem a mesma operação de maneiras diferentes.
+   - **Importância**: Facilita a extensão e a flexibilidade do sistema, permitindo que novas funcionalidades sejam adicionadas sem modificar o código existente.
+
+7. **Pure Fabrication (Fabricação Pura)**:
+   - **Conceito**: Cria classes artificiais que não representam conceitos do domínio, mas são necessárias para manter o baixo acoplamento e alta coesão.
+   - **Importância**: Ajuda a resolver problemas de design sem comprometer a estrutura do sistema.
+
+8. **Indirection (Indireção)**:
+   - **Conceito**: Usa intermediários para desacoplar classes ou componentes.
+   - **Importância**: Facilita a manutenção e a evolução do sistema, permitindo que mudanças em uma parte não afetem diretamente outras partes.
+
+9. **Protected Variations (Variações Protegidas)**:
+   - **Conceito**: Protege elementos do sistema contra variações em outros elementos.
+   - **Importância**: Aumenta a robustez e a flexibilidade do sistema, permitindo que ele lide melhor com mudanças e extensões.
+
+10. **Design Patterns (Padrões de Projeto)**:
+    - **Conceito**: GRASP é frequentemente usado em conjunto com outros padrões de design, como os do livro "Design Patterns: Elements of Reusable Object-Oriented Software" (Gang of Four).
+    - **Importância**: Compreender GRASP em conjunto com outros padrões de design oferece uma base sólida para a criação de sistemas robustos e bem estruturados.
+
+Esses conceitos são fundamentais para aplicar os princípios de GRASP de maneira eficaz e compreender como eles contribuem para um design de software bem estruturado e sustentável.
+

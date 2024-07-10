@@ -1,0 +1,47 @@
+ 08 Administração e gerenciamento de ambientes de virtualização. 
+ -
+Claro! A administração e gerenciamento de ambientes de virtualização é um campo vasto e complexo, mas focar nos aspectos mais críticos pode te ajudar a dominar a maior parte do conhecimento necessário. Aqui estão os 20% mais importantes que cobrem 80% do que você precisa saber:
+
+### 1. **Conceitos Básicos de Virtualização**
+   - **Definição e Tipos de Virtualização**: Entenda o que é virtualização e os diferentes tipos, como virtualização de servidores, desktops, redes e armazenamento.
+   - **Hypervisores**: Conheça os dois tipos principais de hypervisores (Tipo 1 e Tipo 2) e suas diferenças.
+
+### 2. **Plataformas de Virtualização**
+   - **Principais Plataformas**: Familiarize-se com as plataformas mais usadas, como VMware vSphere, Microsoft Hyper-V, KVM e Citrix XenServer.
+   - **Instalação e Configuração**: Aprenda os passos básicos para instalar e configurar essas plataformas.
+
+### 3. **Gerenciamento de Recursos**
+   - **Alocação de Recursos**: Saiba como alocar CPU, memória, armazenamento e rede de forma eficiente.
+   - **Balanceamento de Carga**: Entenda como distribuir a carga de trabalho entre diferentes máquinas virtuais (VMs) para otimizar o desempenho.
+
+### 4. **Segurança em Ambientes Virtualizados**
+   - **Isolamento e Contenção**: Compreenda a importância do isolamento entre VMs para evitar a propagação de ameaças.
+   - **Políticas de Segurança**: Implemente políticas de segurança específicas para ambientes virtualizados, incluindo firewalls e antivírus.
+
+### 5. **Backup e Recuperação**
+   - **Estratégias de Backup**: Conheça as melhores práticas para realizar backups de VMs.
+   - **Recuperação de Desastres**: Desenvolva um plano de recuperação de desastres que inclua a restauração rápida de VMs.
+
+### 6. **Monitoramento e Performance**
+   - **Ferramentas de Monitoramento**: Utilize ferramentas como VMware vRealize, Microsoft System Center e Nagios para monitorar o desempenho das VMs.
+   - **Métricas de Performance**: Saiba quais métricas são críticas para monitorar, como uso de CPU, memória, I/O de disco e rede.
+
+### 7. **Automação e Orquestração**
+   - **Scripts e Ferramentas de Automação**: Use scripts (PowerShell, Bash) e ferramentas de automação (Ansible, Puppet, Chef) para gerenciar tarefas repetitivas.
+   - **Orquestração de VMs**: Entenda como orquestrar a criação, configuração e destruição de VMs de forma automatizada.
+
+### 8. **Gerenciamento de Patches e Atualizações**
+   - **Aplicação de Patches**: Mantenha o ambiente virtualizado atualizado com patches de segurança e atualizações de software.
+   - **Gerenciamento Centralizado**: Utilize ferramentas para gerenciar patches e atualizações de forma centralizada.
+
+### 9. **Escalabilidade e Capacidade**
+   - **Planejamento de Capacidade**: Realize um planejamento de capacidade para garantir que o ambiente possa crescer conforme necessário.
+   - **Escalabilidade Horizontal e Vertical**: Entenda as diferenças e quando usar escalabilidade horizontal (adicionar mais VMs) versus vertical (adicionar mais recursos a uma VM existente).
+
+### 10. **Compliance e Auditoria**
+   - **Regulamentações e Normas**: Esteja ciente das regulamentações e normas que afetam seu ambiente virtualizado, como GDPR, HIPAA, etc.
+   - **Auditoria e Relatórios**: Implemente processos de auditoria e geração de relatórios para garantir a conformidade.
+
+### Conclusão
+Focar nesses 10 tópicos principais te dará uma base sólida para entender e gerenciar ambientes de virtualização de forma eficaz. Cada um desses pontos cobre aspectos críticos que são frequentemente encontrados no dia a dia de um administrador de sistemas virtualizados.
+

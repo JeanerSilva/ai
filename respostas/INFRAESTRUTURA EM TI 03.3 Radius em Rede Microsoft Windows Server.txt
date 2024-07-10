@@ -1,0 +1,47 @@
+ 03.3 Radius em Rede Microsoft Windows Server
+ -
+Claro, vamos focar nos aspectos mais críticos do RADIUS (Remote Authentication Dial-In User Service) em um ambiente Microsoft Windows Server. O princípio de Pareto sugere que 20% dos esforços podem gerar 80% dos resultados, então aqui estão os pontos mais importantes que você deve entender:
+
+### 1. **Conceito de RADIUS**
+   - **Autenticação, Autorização e Contabilidade (AAA)**: RADIUS é um protocolo que fornece esses três serviços essenciais para gerenciar o acesso à rede.
+   - **Papel no Windows Server**: No contexto do Windows Server, RADIUS é frequentemente implementado através do Network Policy Server (NPS).
+
+### 2. **Network Policy Server (NPS)**
+   - **Função do NPS**: NPS é a implementação do RADIUS no Windows Server. Ele autentica e autoriza usuários e dispositivos que se conectam à rede.
+   - **Configuração Básica**: Entender como instalar e configurar o NPS é fundamental. Isso inclui adicionar o papel NPS no Windows Server e configurar políticas de rede.
+
+### 3. **Políticas de Rede**
+   - **Políticas de Conexão**: Definem as condições que devem ser atendidas para que uma conexão seja autorizada.
+   - **Políticas de Rede**: Especificam quem pode se conectar à rede e quais condições devem ser atendidas.
+
+### 4. **Clientes RADIUS**
+   - **Definição**: Dispositivos que solicitam autenticação ao servidor RADIUS, como pontos de acesso Wi-Fi, switches e roteadores.
+   - **Configuração**: Saber como adicionar e configurar clientes RADIUS no NPS é crucial.
+
+### 5. **Servidores RADIUS Remotos**
+   - **Uso de Servidores RADIUS Remotos**: Permite que o NPS encaminhe solicitações de autenticação para outros servidores RADIUS.
+   - **Configuração**: Entender como configurar servidores RADIUS remotos e grupos de servidores RADIUS remotos.
+
+### 6. **Certificados e Segurança**
+   - **Uso de Certificados**: Para garantir a segurança das comunicações RADIUS, especialmente em implementações que utilizam EAP (Extensible Authentication Protocol).
+   - **Configuração de Certificados**: Saber como configurar e gerenciar certificados no NPS.
+
+### 7. **Integração com Active Directory**
+   - **Autenticação de Usuários**: NPS pode ser integrado com o Active Directory para autenticar usuários.
+   - **Grupos de Segurança**: Utilizar grupos de segurança do Active Directory para definir políticas de rede.
+
+### 8. **Logs e Monitoramento**
+   - **Registro de Eventos**: Configurar o NPS para registrar eventos de autenticação e autorização.
+   - **Monitoramento**: Utilizar ferramentas de monitoramento para acompanhar o desempenho e a segurança do NPS.
+
+### 9. **Resolução de Problemas**
+   - **Ferramentas de Diagnóstico**: Utilizar ferramentas como o Event Viewer e logs do NPS para diagnosticar problemas.
+   - **Compreensão de Mensagens de Erro**: Saber interpretar mensagens de erro comuns no NPS.
+
+### 10. **Escalabilidade e Redundância**
+   - **Balanceamento de Carga**: Implementar balanceamento de carga para distribuir solicitações de autenticação entre vários servidores NPS.
+   - **Alta Disponibilidade**: Configurar redundância para garantir que o serviço RADIUS esteja sempre disponível.
+
+### Conclusão
+Compreender esses 10 pontos principais fornecerá uma base sólida para trabalhar com RADIUS no Windows Server. Eles cobrem desde a configuração básica até a segurança e a resolução de problemas, permitindo que você gerencie e mantenha um ambiente de autenticação de rede robusto e seguro.
+

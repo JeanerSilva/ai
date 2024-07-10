@@ -1,0 +1,36 @@
+ 05.4 Protocolo SSL/TLS, 
+ -
+Claro, o Princípio de Pareto (ou regra 80/20) pode ser aplicado para identificar os aspectos mais importantes do protocolo SSL/TLS que ajudarão a compreender a maior parte do seu funcionamento. Aqui estão os 20% mais importantes aprendizados sobre SSL/TLS:
+
+1. **Objetivo do SSL/TLS**:
+   - **Segurança da Comunicação**: SSL (Secure Sockets Layer) e TLS (Transport Layer Security) são protocolos que garantem a segurança da comunicação na internet, fornecendo criptografia, integridade e autenticação.
+
+2. **Criptografia**:
+   - **Criptografia Simétrica e Assimétrica**: SSL/TLS usa criptografia assimétrica para trocar chaves simétricas, que são então usadas para criptografar a comunicação subsequente. A criptografia assimétrica envolve um par de chaves (pública e privada), enquanto a simétrica usa uma única chave para criptografar e descriptografar dados.
+
+3. **Certificados Digitais**:
+   - **Autenticação**: Certificados digitais, emitidos por Autoridades Certificadoras (CAs), são usados para autenticar a identidade dos servidores e, opcionalmente, dos clientes. Eles contêm a chave pública do servidor e são assinados digitalmente pela CA.
+
+4. **Handshake SSL/TLS**:
+   - **Processo de Negociação**: O handshake é o processo inicial onde o cliente e o servidor negociam os parâmetros de segurança, incluindo a versão do protocolo, o conjunto de cifras (cipher suite) e a troca de chaves. Este processo estabelece uma conexão segura antes da transmissão de dados.
+
+5. **Cipher Suites**:
+   - **Conjuntos de Algoritmos**: Uma cipher suite é uma combinação de algoritmos que especifica como a conexão segura será estabelecida. Inclui algoritmos para troca de chaves, criptografia de dados e autenticação de mensagens.
+
+6. **Versões do Protocolo**:
+   - **Evolução e Segurança**: SSL foi substituído por TLS devido a vulnerabilidades. As versões mais usadas são TLS 1.2 e TLS 1.3, sendo que TLS 1.3 oferece melhorias significativas em segurança e desempenho.
+
+7. **Integridade dos Dados**:
+   - **MAC e HMAC**: Para garantir que os dados não foram alterados durante a transmissão, SSL/TLS usa códigos de autenticação de mensagem (MAC) ou HMAC (Hash-based MAC).
+
+8. **Certificados de Servidor e Cadeia de Confiança**:
+   - **Validação de Certificados**: O cliente valida o certificado do servidor verificando a assinatura digital da CA e a cadeia de confiança até uma CA raiz confiável.
+
+9. **Renegociação e Reutilização de Sessão**:
+   - **Eficiência**: SSL/TLS permite a renegociação de parâmetros de segurança e a reutilização de sessões anteriores para melhorar a eficiência e reduzir a latência.
+
+10. **Ataques e Mitigações**:
+    - **Vulnerabilidades Conhecidas**: Conhecer ataques como Man-in-the-Middle (MitM), BEAST, POODLE, e Heartbleed, e as respectivas mitigações, é crucial para manter a segurança das implementações SSL/TLS.
+
+Compreender esses pontos-chave fornecerá uma base sólida para entender como SSL/TLS funciona e como ele protege a comunicação na internet.
+
