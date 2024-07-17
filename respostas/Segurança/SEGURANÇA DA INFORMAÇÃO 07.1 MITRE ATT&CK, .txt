@@ -1,0 +1,52 @@
+SEGURANÇA DA INFORMAÇÃO:: 07.1 MITRE ATT&CK, 
+ -
+Claro, o MITRE ATT&CK é uma estrutura amplamente utilizada para entender e categorizar as táticas, técnicas e procedimentos (TTPs) usados por adversários em cibersegurança. Para compreender os 20% mais importantes que ajudarão a entender 80% do MITRE ATT&CK, vamos focar nos conceitos e componentes essenciais:
+
+### 1. **Estrutura do MITRE ATT&CK**
+   - **Táticas**: Representam os objetivos que os adversários estão tentando alcançar. Existem 14 táticas principais, como "Initial Access", "Execution", "Persistence", etc.
+   - **Técnicas**: São as formas específicas pelas quais os adversários alcançam essas táticas. Cada técnica pode ter várias sub-técnicas.
+   - **Procedimentos**: Detalham como as técnicas são implementadas em cenários do mundo real.
+
+### 2. **Matriz ATT&CK**
+   - A matriz é uma tabela que organiza táticas e técnicas de forma visual, facilitando a compreensão das relações entre elas.
+   - Cada coluna representa uma tática, e cada célula dentro da coluna representa uma técnica.
+
+### 3. **Táticas Fundamentais**
+   - **Initial Access**: Métodos usados para obter acesso inicial a uma rede, como phishing ou exploração de vulnerabilidades.
+   - **Execution**: Técnicas que resultam na execução de código no sistema alvo, como scripts ou comandos.
+   - **Persistence**: Métodos para manter o acesso a sistemas comprometidos, como backdoors ou contas de usuário maliciosas.
+   - **Privilege Escalation**: Técnicas para obter níveis mais altos de permissões no sistema.
+   - **Defense Evasion**: Métodos para evitar a detecção por ferramentas de segurança.
+
+### 4. **Técnicas Comuns**
+   - **Phishing (T1566)**: Envio de e-mails fraudulentos para enganar usuários e obter informações ou acesso.
+   - **Spear Phishing (T1566.001)**: Phishing direcionado a indivíduos específicos.
+   - **PowerShell (T1059.001)**: Uso do PowerShell para executar comandos maliciosos.
+   - **Credential Dumping (T1003)**: Extração de credenciais de sistemas comprometidos.
+
+### 5. **Uso de Ferramentas e Scripts**
+   - Ferramentas como Mimikatz para credential dumping.
+   - Scripts personalizados para automação de ataques.
+
+### 6. **Mapeamento de Ameaças**
+   - Como mapear as técnicas usadas por adversários conhecidos para entender melhor suas estratégias e preparar defesas adequadas.
+
+### 7. **Detecção e Mitigação**
+   - **Detecção**: Implementação de sistemas de monitoramento para identificar técnicas específicas.
+   - **Mitigação**: Adoção de medidas para reduzir a eficácia das técnicas adversárias, como segmentação de rede e autenticação multifator.
+
+### 8. **Atualizações Contínuas**
+   - O MITRE ATT&CK é atualizado regularmente para incluir novas táticas e técnicas. Manter-se atualizado é crucial.
+
+### 9. **Casos de Uso**
+   - **Threat Hunting**: Usar a matriz para identificar comportamentos suspeitos.
+   - **Red Teaming**: Simular ataques usando as técnicas descritas para testar defesas.
+   - **Inteligência de Ameaças**: Correlacionar dados de ameaças com técnicas do ATT&CK para entender melhor os adversários.
+
+### 10. **Recursos e Ferramentas**
+   - **ATT&CK Navigator**: Ferramenta para visualizar e personalizar a matriz ATT&CK.
+   - **MITRE ATT&CK Website**: Fonte oficial de documentação e atualizações.
+
+### Conclusão
+Compreender esses elementos fundamentais do MITRE ATT&CK fornecerá uma base sólida para explorar mais profundamente a estrutura e aplicá-la em cenários de segurança cibernética. Esses 20% de conhecimento são essenciais para entender como os adversários operam e como defender-se eficazmente contra eles.
+

@@ -1,0 +1,49 @@
+INFRAESTRUTURA EM TI:: 03.6 Active Directory (AD) em Rede Microsoft Windows Server
+ -
+Claro! O Active Directory (AD) é um serviço de diretório desenvolvido pela Microsoft para redes Windows Server. Ele é essencial para gerenciar identidades e recursos em uma rede corporativa. Aqui estão os 20% mais importantes aprendizados sobre o Active Directory que te ajudarão a compreender os 80% necessários:
+
+1. **Conceito de Active Directory**:
+   - **Definição**: AD é um serviço de diretório que armazena informações sobre objetos na rede e facilita a administração e segurança desses objetos.
+   - **Objetos**: Incluem usuários, grupos, computadores, impressoras e outros recursos de rede.
+
+2. **Estrutura do Active Directory**:
+   - **Domínios**: Unidades básicas de estrutura do AD. Um domínio é um grupo de objetos que compartilham a mesma base de dados.
+   - **Árvores**: Conjunto de um ou mais domínios que compartilham um namespace contíguo.
+   - **Florestas**: Conjunto de uma ou mais árvores que compartilham um esquema comum, mas não necessariamente um namespace contíguo.
+   - **Unidades Organizacionais (OUs)**: Contêineres dentro de um domínio que podem conter outros objetos. Usadas para organizar e gerenciar objetos de forma hierárquica.
+
+3. **Controladores de Domínio (DCs)**:
+   - **Função**: Servidores que respondem a solicitações de autenticação e armazenam a base de dados do AD.
+   - **Replicação**: DCs replicam dados entre si para garantir consistência e disponibilidade.
+
+4. **Autenticação e Autorização**:
+   - **Kerberos**: Protocolo de autenticação padrão usado pelo AD.
+   - **LDAP (Lightweight Directory Access Protocol)**: Protocolo usado para acessar e manter serviços de diretório.
+
+5. **Políticas de Grupo (Group Policy)**:
+   - **Definição**: Ferramenta para gerenciar configurações de usuários e computadores em um domínio.
+   - **Aplicação**: Políticas podem ser aplicadas a OUs, domínios ou sites.
+
+6. **DNS e Active Directory**:
+   - **Integração**: AD depende do DNS para localizar recursos e serviços na rede.
+   - **SRV Records**: Registros DNS que ajudam a localizar serviços AD, como controladores de domínio.
+
+7. **FSMO Roles (Flexible Single Master Operations)**:
+   - **Função**: Papéis críticos que são atribuídos a um ou mais DCs para garantir a operação correta do AD.
+   - **Tipos de FSMO Roles**: Schema Master, Domain Naming Master, RID Master, PDC Emulator, Infrastructure Master.
+
+8. **Backup e Recuperação**:
+   - **Importância**: Garantir que os dados do AD possam ser restaurados em caso de falha.
+   - **Ferramentas**: Utilização de ferramentas como Windows Server Backup para realizar backups regulares.
+
+9. **Segurança no Active Directory**:
+   - **Práticas**: Implementação de políticas de senha, controle de acesso baseado em função (RBAC), e monitoramento de atividades.
+   - **Auditoria**: Configuração de auditoria para rastrear alterações e acessos no AD.
+
+10. **Ferramentas de Administração**:
+    - **Active Directory Users and Computers (ADUC)**: Ferramenta principal para gerenciar objetos no AD.
+    - **Active Directory Administrative Center (ADAC)**: Interface gráfica avançada para administração do AD.
+    - **PowerShell**: Ferramenta de linha de comando poderosa para automação e administração do AD.
+
+Compreender esses conceitos e práticas te dará uma base sólida para trabalhar com o Active Directory em um ambiente Windows Server. Esses 20% de aprendizados são cruciais para dominar os aspectos mais importantes e frequentemente utilizados do AD, permitindo que você gerencie e mantenha uma rede corporativa de forma eficaz.
+

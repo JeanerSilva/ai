@@ -1,0 +1,53 @@
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 10.3.3 Equivalências. 
+ -
+Claro! A regra 80/20, ou Princípio de Pareto, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao estudo de "10.3.3 Equivalências" (presumivelmente em lógica ou matemática), aqui estão os pontos mais importantes que provavelmente te ajudarão a compreender a maior parte do assunto:
+
+1. **Definição de Equivalência Lógica**:
+   - Duas proposições são logicamente equivalentes se tiverem o mesmo valor de verdade em todas as possíveis interpretações.
+
+2. **Tabela-Verdade**:
+   - Ferramenta essencial para verificar a equivalência entre proposições. Se duas proposições têm tabelas-verdade idênticas, elas são equivalentes.
+
+3. **Leis de De Morgan**:
+   - Importantes para transformar proposições. As leis são:
+     - ¬(P ∧ Q) ≡ ¬P ∨ ¬Q
+     - ¬(P ∨ Q) ≡ ¬P ∧ ¬Q
+
+4. **Identidades Lógicas Básicas**:
+   - Compreender identidades como:
+     - P ∧ true ≡ P
+     - P ∨ false ≡ P
+     - P ∧ false ≡ false
+     - P ∨ true ≡ true
+
+5. **Implicação e Bicondicional**:
+   - Saber que P → Q é equivalente a ¬P ∨ Q.
+   - Saber que P ↔ Q é equivalente a (P → Q) ∧ (Q → P).
+
+6. **Distribuição**:
+   - Regras de distribuição são cruciais:
+     - P ∧ (Q ∨ R) ≡ (P ∧ Q) ∨ (P ∧ R)
+     - P ∨ (Q ∧ R) ≡ (P ∨ Q) ∧ (P ∨ R)
+
+7. **Absorção**:
+   - Regras de absorção ajudam a simplificar proposições:
+     - P ∨ (P ∧ Q) ≡ P
+     - P ∧ (P ∨ Q) ≡ P
+
+8. **Dupla Negação**:
+   - ¬(¬P) ≡ P
+
+9. **Idempotência**:
+   - P ∨ P ≡ P
+   - P ∧ P ≡ P
+
+10. **Comutatividade e Associatividade**:
+    - Comutatividade:
+      - P ∨ Q ≡ Q ∨ P
+      - P ∧ Q ≡ Q ∧ P
+    - Associatividade:
+      - (P ∨ Q) ∨ R ≡ P ∨ (Q ∨ R)
+      - (P ∧ Q) ∧ R ≡ P ∧ (Q ∧ R)
+
+Esses dez pontos representam os conceitos e ferramentas mais fundamentais para entender equivalências lógicas. Dominando esses tópicos, você estará bem equipado para abordar a maioria dos problemas relacionados a equivalências em lógica proposicional.
+

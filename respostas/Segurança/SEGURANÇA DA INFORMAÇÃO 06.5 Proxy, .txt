@@ -1,0 +1,55 @@
+SEGURANÇA DA INFORMAÇÃO:: 06.5 Proxy, 
+ -
+Claro, vamos focar nos aspectos mais importantes sobre proxies que te ajudarão a entender a maior parte do assunto. Aqui estão os 20% mais importantes que cobrem 80% do entendimento necessário:
+
+1. **Definição de Proxy**:
+   - Um proxy é um servidor intermediário que separa os usuários finais dos sites que eles navegam. Ele atua como um intermediário entre o cliente (usuário) e o servidor final.
+
+2. **Tipos de Proxies**:
+   - **HTTP Proxy**: Usado para tráfego HTTP, comum para navegação na web.
+   - **HTTPS Proxy**: Similar ao HTTP, mas para tráfego HTTPS, garantindo segurança.
+   - **SOCKS Proxy**: Funciona em nível mais baixo e pode lidar com qualquer tipo de tráfego, não apenas HTTP/HTTPS.
+   - **Transparent Proxy**: O usuário não sabe que está usando um proxy; não requer configuração no cliente.
+   - **Anonymous Proxy**: Oculta o endereço IP do usuário, mas revela que está usando um proxy.
+   - **Elite/High Anonymity Proxy**: Oculta completamente o uso do proxy e o endereço IP do usuário.
+
+3. **Funções Principais**:
+   - **Privacidade e Anonimato**: Oculta o endereço IP do usuário.
+   - **Segurança**: Filtra conteúdo malicioso e protege contra ataques.
+   - **Controle de Acesso**: Restringe o acesso a determinados sites ou serviços.
+   - **Cache**: Armazena cópias de páginas web para acelerar o acesso.
+
+4. **Configuração de Proxy**:
+   - Pode ser configurado manualmente nas configurações de rede do sistema operacional ou navegador.
+   - Pode ser configurado automaticamente usando um arquivo PAC (Proxy Auto-Config).
+
+5. **Vantagens do Uso de Proxy**:
+   - **Melhoria de Desempenho**: Cache de conteúdo para acesso mais rápido.
+   - **Economia de Banda**: Reduz o uso de largura de banda ao armazenar conteúdo em cache.
+   - **Acesso a Conteúdo Restrito**: Permite acessar conteúdo bloqueado geograficamente.
+
+6. **Desvantagens do Uso de Proxy**:
+   - **Latência**: Pode aumentar o tempo de resposta devido ao processamento adicional.
+   - **Segurança**: Se mal configurado, pode ser um ponto de vulnerabilidade.
+   - **Privacidade**: Proxies gratuitos podem registrar e vender dados de navegação.
+
+7. **Proxy vs. VPN**:
+   - **Proxy**: Geralmente usado para navegação web e pode ser configurado para aplicativos específicos.
+   - **VPN**: Cria um túnel seguro para todo o tráfego de internet do dispositivo, oferecendo maior segurança e privacidade.
+
+8. **Implementação de Proxy**:
+   - **Software**: Existem várias soluções de software como Squid, HAProxy, e Nginx.
+   - **Hardware**: Dispositivos dedicados que atuam como proxies para redes corporativas.
+
+9. **Segurança e Manutenção**:
+   - **Atualizações Regulares**: Manter o software do proxy atualizado para evitar vulnerabilidades.
+   - **Monitoramento**: Monitorar logs e tráfego para detectar atividades suspeitas.
+   - **Configurações de Segurança**: Implementar regras de firewall e autenticação para acesso ao proxy.
+
+10. **Casos de Uso Comuns**:
+    - **Empresas**: Controle de acesso e segurança.
+    - **Usuários Individuais**: Privacidade e acesso a conteúdo restrito.
+    - **Desenvolvedores**: Teste de aplicações web em diferentes condições de rede.
+
+Com esses pontos, você terá uma compreensão sólida sobre proxies, suas funções, tipos, vantagens, desvantagens e como configurá-los e mantê-los.
+

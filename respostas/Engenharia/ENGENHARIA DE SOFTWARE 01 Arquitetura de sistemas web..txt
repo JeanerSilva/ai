@@ -1,0 +1,77 @@
+ENGENHARIA DE SOFTWARE:: 01 Arquitetura de sistemas web.
+ -
+Claro! A Arquitetura de Sistemas Web é um campo vasto e complexo, mas focar nos conceitos mais importantes pode te ajudar a entender a maior parte do que é necessário. Aqui estão os 20% mais importantes que cobrem 80% do conhecimento essencial:
+
+1. **Cliente-Servidor**:
+   - **Conceito**: A arquitetura cliente-servidor é a base da maioria dos sistemas web. O cliente (navegador) faz requisições ao servidor, que processa e retorna respostas.
+   - **Importância**: Entender essa interação é crucial para compreender como os sistemas web funcionam.
+
+2. **HTTP/HTTPS**:
+   - **Protocolo**: HTTP é o protocolo de comunicação entre cliente e servidor. HTTPS é a versão segura do HTTP.
+   - **Importância**: Saber como esses protocolos funcionam é essencial para a comunicação e segurança dos dados.
+
+3. **RESTful APIs**:
+   - **Conceito**: APIs que seguem os princípios REST (Representational State Transfer) são amplamente usadas para comunicação entre sistemas.
+   - **Importância**: Facilita a integração e a escalabilidade dos sistemas.
+
+4. **Front-end vs Back-end**:
+   - **Front-end**: Parte do sistema que interage diretamente com o usuário (HTML, CSS, JavaScript).
+   - **Back-end**: Parte do sistema que processa dados e lógica de negócios (servidores, bancos de dados).
+   - **Importância**: Diferenciar essas camadas ajuda a entender a divisão de responsabilidades.
+
+5. **MVC (Model-View-Controller)**:
+   - **Padrão de Arquitetura**: Divide a aplicação em três componentes principais: Model (dados), View (interface) e Controller (lógica).
+   - **Importância**: Facilita a manutenção e escalabilidade do sistema.
+
+6. **Banco de Dados**:
+   - **Tipos**: Relacionais (SQL) e Não-Relacionais (NoSQL).
+   - **Importância**: Escolher o tipo certo de banco de dados é crucial para o desempenho e a escalabilidade.
+
+7. **Autenticação e Autorização**:
+   - **Conceitos**: Autenticação verifica a identidade do usuário, enquanto autorização verifica o que o usuário pode fazer.
+   - **Importância**: Essencial para a segurança do sistema.
+
+8. **Arquitetura de Microserviços**:
+   - **Conceito**: Divide a aplicação em pequenos serviços independentes que se comunicam entre si.
+   - **Importância**: Melhora a escalabilidade e a manutenção.
+
+9. **DevOps e CI/CD**:
+   - **Conceitos**: DevOps integra desenvolvimento e operações para melhorar a colaboração. CI/CD (Continuous Integration/Continuous Deployment) automatiza o processo de deploy.
+   - **Importância**: Aumenta a eficiência e a qualidade do desenvolvimento.
+
+10. **Cloud Computing**:
+    - **Serviços**: AWS, Azure, Google Cloud.
+    - **Importância**: Facilita a escalabilidade e a gestão de recursos.
+
+11. **Caching**:
+    - **Conceito**: Armazenamento temporário de dados para melhorar a performance.
+    - **Importância**: Reduz a carga no servidor e melhora a velocidade de resposta.
+
+12. **Load Balancing**:
+    - **Conceito**: Distribui o tráfego entre múltiplos servidores.
+    - **Importância**: Aumenta a disponibilidade e a escalabilidade.
+
+13. **CDN (Content Delivery Network)**:
+    - **Conceito**: Rede de servidores distribuídos que entregam conteúdo de forma eficiente.
+    - **Importância**: Melhora a performance e a disponibilidade.
+
+14. **Segurança**:
+    - **Práticas**: SSL/TLS, firewalls, criptografia, prevenção contra ataques (XSS, SQL Injection).
+    - **Importância**: Protege os dados e a integridade do sistema.
+
+15. **Escalabilidade**:
+    - **Tipos**: Vertical (aumentar recursos de um único servidor) e Horizontal (adicionar mais servidores).
+    - **Importância**: Garante que o sistema possa crescer conforme a demanda.
+
+16. **Monitoramento e Logging**:
+    - **Ferramentas**: Prometheus, Grafana, ELK Stack.
+    - **Importância**: Ajuda a identificar e resolver problemas rapidamente.
+
+17. **Arquitetura de Camadas**:
+    - **Conceito**: Divide a aplicação em camadas (apresentação, lógica de negócios, dados).
+    - **Importância**: Facilita a manutenção e a separação de responsabilidades.
+
+18. **API Gateway**:
+    - **Conceito**: Ponto de entrada único para múltiplos serviços.
+    - **Importância**: Simplifica a gestão
+

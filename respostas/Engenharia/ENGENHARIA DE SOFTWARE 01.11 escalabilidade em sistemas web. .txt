@@ -1,0 +1,67 @@
+ENGENHARIA DE SOFTWARE:: 01.11 escalabilidade em sistemas web. 
+ -
+Claro! A escalabilidade em sistemas web é um tópico crucial para garantir que uma aplicação possa crescer e atender a um número crescente de usuários sem comprometer o desempenho. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do assunto:
+
+1. **Definição de Escalabilidade**:
+   - **Escalabilidade Vertical (Scale-Up)**: Adicionar mais recursos (CPU, RAM) a um único servidor.
+   - **Escalabilidade Horizontal (Scale-Out)**: Adicionar mais servidores para distribuir a carga.
+
+2. **Arquitetura de Microserviços**:
+   - Dividir a aplicação em serviços menores e independentes que podem ser escalados individualmente.
+
+3. **Balanceamento de Carga**:
+   - Distribuir o tráfego de rede entre vários servidores para garantir que nenhum servidor fique sobrecarregado.
+
+4. **Cache**:
+   - Utilizar sistemas de cache (como Redis ou Memcached) para armazenar dados frequentemente acessados e reduzir a carga no banco de dados.
+
+5. **Banco de Dados Distribuído**:
+   - Utilizar bancos de dados que suportam distribuição e replicação de dados, como Cassandra ou MongoDB.
+
+6. **CDN (Content Delivery Network)**:
+   - Distribuir conteúdo estático (imagens, vídeos, etc.) através de uma rede de servidores geograficamente distribuídos para reduzir a latência.
+
+7. **Desacoplamento de Componentes**:
+   - Utilizar filas de mensagens (como RabbitMQ ou Kafka) para desacoplar componentes e permitir que eles escalem independentemente.
+
+8. **Monitoramento e Logging**:
+   - Implementar ferramentas de monitoramento (como Prometheus, Grafana) e logging (como ELK Stack) para identificar gargalos e problemas de desempenho.
+
+9. **Autoescalamento**:
+   - Configurar sistemas para adicionar ou remover recursos automaticamente com base na demanda (usando ferramentas como Kubernetes ou AWS Auto Scaling).
+
+10. **Design para Falhas**:
+    - Planejar para falhas inevitáveis, implementando redundância e failover para garantir alta disponibilidade.
+
+11. **Otimização de Código e Consultas**:
+    - Escrever código eficiente e otimizar consultas ao banco de dados para melhorar o desempenho.
+
+12. **Uso de Serviços Gerenciados**:
+    - Utilizar serviços gerenciados na nuvem (como AWS RDS, Google Cloud SQL) para simplificar a escalabilidade e manutenção.
+
+13. **Particionamento de Dados (Sharding)**:
+    - Dividir grandes conjuntos de dados em partes menores (shards) que podem ser distribuídas entre vários servidores.
+
+14. **Sessões Distribuídas**:
+    - Armazenar sessões de usuário em um armazenamento compartilhado (como Redis) para permitir que os usuários sejam atendidos por qualquer servidor.
+
+15. **Testes de Carga e Stress**:
+    - Realizar testes de carga e stress para identificar limites de capacidade e pontos de falha antes que ocorram em produção.
+
+16. **Arquitetura Sem Servidor (Serverless)**:
+    - Utilizar funções como serviço (FaaS) para escalar automaticamente com base na demanda (como AWS Lambda).
+
+17. **Gerenciamento de Configurações**:
+    - Centralizar e gerenciar configurações de forma segura e eficiente para facilitar a escalabilidade.
+
+18. **Segurança e Escalabilidade**:
+    - Implementar práticas de segurança que não comprometam a escalabilidade, como autenticação e autorização eficientes.
+
+19. **Latência e Throughput**:
+    - Entender e otimizar a latência (tempo de resposta) e throughput (quantidade de dados processados) do sistema.
+
+20. **Custo de Escalabilidade**:
+    - Considerar o custo financeiro da escalabilidade e buscar um equilíbrio entre desempenho e custo.
+
+Esses pontos fornecem uma base sólida para entender como construir e manter sistemas web escaláveis. Ao focar nesses aspectos, você estará bem preparado para lidar com os desafios de escalabilidade em suas aplicações.
+

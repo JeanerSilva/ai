@@ -1,0 +1,46 @@
+INFRAESTRUTURA EM TI:: 04.6 Kibana
+ -
+Claro! Kibana é uma ferramenta de visualização de dados que funciona em conjunto com o Elasticsearch, parte do stack ELK (Elasticsearch, Logstash, Kibana). Para entender os 20% mais importantes que te ajudarão a compreender 80% do Kibana, vamos focar nos conceitos e funcionalidades essenciais:
+
+### 1. **Interface do Usuário (UI)**
+   - **Painéis (Dashboards):** Aprenda a criar e personalizar painéis. Eles são coleções de visualizações que permitem monitorar e analisar dados em tempo real.
+   - **Visualizações:** Entenda como criar diferentes tipos de visualizações (gráficos de barras, linhas, tortas, mapas de calor, etc.) para representar seus dados de forma significativa.
+
+### 2. **Consultas e Filtros**
+   - **KQL (Kibana Query Language):** Familiarize-se com a linguagem de consulta do Kibana para filtrar e buscar dados específicos.
+   - **Filtros:** Aprenda a aplicar e gerenciar filtros para refinar os dados exibidos nas visualizações e painéis.
+
+### 3. **Index Patterns**
+   - **Criação de Padrões de Índice:** Entenda como criar e configurar padrões de índice para conectar Kibana aos dados armazenados no Elasticsearch.
+   - **Campos e Metadados:** Saiba como explorar e utilizar os campos disponíveis em seus índices para criar visualizações detalhadas.
+
+### 4. **Gestão de Dados**
+   - **Importação e Exportação de Dados:** Aprenda a importar dados para o Elasticsearch e a exportar visualizações e painéis do Kibana.
+   - **Transformações de Dados:** Conheça as funcionalidades básicas de transformação de dados para preparar seus dados para análise.
+
+### 5. **Alertas e Monitoramento**
+   - **Alertas:** Configure alertas para monitorar eventos e condições específicas nos seus dados.
+   - **Monitoramento de Performance:** Utilize Kibana para monitorar a performance do Elasticsearch e identificar possíveis gargalos.
+
+### 6. **Segurança e Acesso**
+   - **Controle de Acesso:** Entenda como configurar permissões e roles para controlar o acesso aos dados e funcionalidades do Kibana.
+   - **Autenticação e Autorização:** Saiba como integrar Kibana com sistemas de autenticação para garantir a segurança dos dados.
+
+### 7. **Integração com o Elasticsearch**
+   - **Conexão e Configuração:** Aprenda a conectar Kibana ao Elasticsearch e a configurar as opções básicas de integração.
+   - **Consultas Elasticsearch:** Familiarize-se com a sintaxe de consultas do Elasticsearch para aproveitar ao máximo as capacidades de busca e análise do Kibana.
+
+### 8. **Uso de Plugins e Extensões**
+   - **Plugins:** Explore os plugins disponíveis para Kibana que podem adicionar funcionalidades extras, como novos tipos de visualizações ou integrações com outras ferramentas.
+   - **Extensibilidade:** Saiba como desenvolver e integrar suas próprias extensões para personalizar o Kibana conforme suas necessidades.
+
+### 9. **Documentação e Comunidade**
+   - **Documentação Oficial:** Utilize a documentação oficial do Kibana para resolver dúvidas e aprender sobre novas funcionalidades.
+   - **Comunidade:** Participe de fóruns e grupos de usuários para trocar experiências e obter suporte da comunidade.
+
+### 10. **Prática e Experimentação**
+   - **Ambiente de Testes:** Crie um ambiente de testes para experimentar com diferentes funcionalidades e configurações sem afetar os dados de produção.
+   - **Estudos de Caso:** Analise estudos de caso e exemplos práticos para entender como outras organizações utilizam Kibana para resolver problemas reais.
+
+Ao focar nesses pontos, você estará bem encaminhado para dominar as funcionalidades principais do Kibana e utilizar a ferramenta de forma eficaz para análise e visualização de dados.
+

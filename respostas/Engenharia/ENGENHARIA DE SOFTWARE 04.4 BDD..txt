@@ -1,0 +1,72 @@
+ENGENHARIA DE SOFTWARE:: 04.4 BDD.
+ -
+Behavior-Driven Development (BDD) é uma metodologia de desenvolvimento ágil que visa melhorar a comunicação entre desenvolvedores, testadores e stakeholders não técnicos. Aqui estão os 20% mais importantes aprendizados sobre BDD que te ajudarão a compreender os 80% necessários:
+
+1. **Definição de BDD**:
+   - BDD é uma extensão do Test-Driven Development (TDD) que se concentra no comportamento do software em vez de sua implementação técnica.
+
+2. **Linguagem Ubíqua**:
+   - Utiliza uma linguagem comum e compreensível por todos os stakeholders, geralmente baseada em Gherkin, que permite descrever o comportamento do sistema em termos de exemplos concretos.
+
+3. **Estrutura Gherkin**:
+   - As especificações são escritas em uma estrutura Given-When-Then:
+     - **Given**: Contexto inicial ou estado do sistema.
+     - **When**: Ação ou evento que ocorre.
+     - **Then**: Resultado esperado ou comportamento do sistema.
+
+4. **Exemplos Concretos**:
+   - Foco em exemplos concretos para descrever funcionalidades, ajudando a esclarecer requisitos e expectativas.
+
+5. **Colaboração**:
+   - Encoraja a colaboração entre desenvolvedores, testadores e stakeholders para garantir que todos tenham um entendimento claro dos requisitos.
+
+6. **Automação de Testes**:
+   - As especificações em Gherkin podem ser automatizadas usando ferramentas como Cucumber, SpecFlow, ou Behave, permitindo testes automatizados baseados em comportamento.
+
+7. **Documentação Viva**:
+   - As especificações BDD servem como documentação viva do sistema, que é sempre atualizada e reflete o comportamento atual do software.
+
+8. **Ciclo Red-Green-Refactor**:
+   - Similar ao TDD, BDD segue o ciclo Red-Green-Refactor, mas com foco em comportamento:
+     - **Red**: Escreva um teste que falha.
+     - **Green**: Escreva código suficiente para passar o teste.
+     - **Refactor**: Melhore o código mantendo os testes verdes.
+
+9. **Critérios de Aceitação**:
+   - Os critérios de aceitação são definidos em termos de comportamento esperado, ajudando a garantir que as funcionalidades atendam às necessidades do usuário.
+
+10. **Feedback Rápido**:
+    - BDD proporciona feedback rápido sobre a funcionalidade e comportamento do sistema, permitindo ajustes rápidos e melhoria contínua.
+
+11. **Desenvolvimento Orientado a Valor**:
+    - Foco em entregar valor ao usuário final, garantindo que cada funcionalidade desenvolvida tenha um propósito claro e mensurável.
+
+12. **Testes de Integração**:
+    - BDD facilita a criação de testes de integração que verificam a interação entre diferentes partes do sistema.
+
+13. **Manutenção de Testes**:
+    - Testes BDD são mais fáceis de manter, pois são escritos em uma linguagem natural que é compreensível por todos os membros da equipe.
+
+14. **Redução de Ambiguidade**:
+    - Ajuda a reduzir ambiguidades nos requisitos, pois os exemplos concretos esclarecem o comportamento esperado.
+
+15. **Cultura de Qualidade**:
+    - Promove uma cultura de qualidade e responsabilidade compartilhada entre todos os membros da equipe.
+
+16. **Ferramentas de BDD**:
+    - Familiarize-se com ferramentas populares de BDD como Cucumber (para Ruby), SpecFlow (para .NET), Behave (para Python), e JBehave (para Java).
+
+17. **Integração Contínua**:
+    - BDD se integra bem com práticas de Integração Contínua (CI), permitindo a execução automática de testes de comportamento em cada build.
+
+18. **Refinamento Contínuo**:
+    - As especificações BDD são refinadas continuamente à medida que o entendimento do sistema evolui.
+
+19. **Testes de Aceitação Automatizados**:
+    - BDD facilita a criação de testes de aceitação automatizados que validam o comportamento do sistema do ponto de vista do usuário.
+
+20. **Adaptação e Flexibilidade**:
+    - BDD é adaptável e pode ser integrado com outras práticas ágeis e metodologias de desenvolvimento, proporcionando flexibilidade na abordagem de desenvolvimento.
+
+Com esses aprendizados, você terá uma base sólida para entender e aplicar BDD em seus projetos, garantindo uma comunicação clara, requisitos bem definidos e um foco constante na entrega de valor ao usuário final.
+

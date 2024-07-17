@@ -1,0 +1,44 @@
+ENGENHARIA DE SOFTWARE:: 09 Web services. 
+ -
+Claro! Vamos focar nos aspectos mais importantes dos web services que te ajudarão a compreender a maior parte do assunto. Aqui estão os 20% mais importantes:
+
+### 1. **Definição de Web Services**
+   - **O que são Web Services:** São aplicações que permitem a comunicação entre diferentes sistemas através da internet, utilizando protocolos padrão.
+   - **Interoperabilidade:** A principal vantagem é a capacidade de diferentes sistemas e linguagens de programação se comunicarem entre si.
+
+### 2. **Protocolos Comuns**
+   - **SOAP (Simple Object Access Protocol):** Um protocolo baseado em XML que permite a troca de informações estruturadas.
+   - **REST (Representational State Transfer):** Um estilo arquitetônico que utiliza HTTP e é mais simples e leve que SOAP.
+
+### 3. **Formatos de Dados**
+   - **XML (Extensible Markup Language):** Utilizado principalmente em SOAP.
+   - **JSON (JavaScript Object Notation):** Utilizado principalmente em REST, é mais leve e fácil de ler.
+
+### 4. **HTTP Methods**
+   - **GET:** Recupera dados do servidor.
+   - **POST:** Envia dados ao servidor.
+   - **PUT:** Atualiza dados existentes no servidor.
+   - **DELETE:** Remove dados do servidor.
+
+### 5. **Endpoints e URIs**
+   - **Endpoints:** URLs que representam os recursos disponíveis no web service.
+   - **URI (Uniform Resource Identifier):** Identificador que permite acessar os recursos.
+
+### 6. **WSDL (Web Services Description Language)**
+   - **Definição:** Um documento XML que descreve os serviços oferecidos por um web service SOAP.
+   - **Importância:** Facilita a integração e o uso dos serviços.
+
+### 7. **API (Application Programming Interface)**
+   - **Definição:** Conjunto de rotinas e padrões estabelecidos por uma aplicação para que outras aplicações possam utilizar suas funcionalidades.
+   - **RESTful APIs:** APIs que seguem os princípios REST.
+
+### 8. **Autenticação e Segurança**
+   - **OAuth:** Um protocolo de autenticação que permite acesso seguro a recursos protegidos.
+   - **HTTPS:** Protocolo que garante a segurança na comunicação entre cliente e servidor.
+
+### 9. **Versionamento**
+   - **Importância:** Permite que diferentes versões de um web service coexistam, facilitando a manutenção e a evolução dos serviços.
+
+### Conclusão
+Compreender esses 9 pontos principais te dará uma base sólida para entender 80% do funcionamento e da importância dos web services. Eles cobrem desde a definição e os protocolos utilizados, até aspectos de segurança e versionamento, que são cruciais para a implementação e manutenção de web services eficazes.
+

@@ -1,0 +1,54 @@
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software baseada em serviços.
+ -
+Claro, vamos abordar cinco arquiteturas de software baseadas em serviços e identificar os 20% mais importantes aprendizados que ajudarão a compreender 80% do assunto.
+
+### 1. **SOA (Service-Oriented Architecture)**
+   - **Definição:** SOA é uma abordagem de design onde os serviços são fornecidos aos componentes de outras aplicações através de um protocolo de comunicação.
+   - **Importância:** Facilita a integração de diferentes sistemas e permite a reutilização de serviços.
+   - **Aprendizados Chave:**
+     1. **Interoperabilidade:** SOA permite que diferentes sistemas se comuniquem, independentemente da plataforma ou linguagem de programação.
+     2. **Reutilização de Serviços:** Serviços podem ser reutilizados em diferentes aplicações, economizando tempo e recursos.
+     3. **Flexibilidade e Escalabilidade:** Facilita a adição de novos serviços sem grandes mudanças na arquitetura existente.
+
+### 2. **Microservices Architecture**
+   - **Definição:** Microservices é uma abordagem onde uma aplicação é dividida em pequenos serviços independentes que se comunicam entre si.
+   - **Importância:** Promove a escalabilidade e a manutenção mais fácil de aplicações complexas.
+   - **Aprendizados Chave:**
+     1. **Descentralização:** Cada microserviço é desenvolvido, implantado e escalado de forma independente.
+     2. **Resiliência:** Falhas em um microserviço não afetam toda a aplicação.
+     3. **Desenvolvimento Ágil:** Equipes podem trabalhar em diferentes microserviços simultaneamente, acelerando o desenvolvimento.
+
+### 3. **API-First Architecture**
+   - **Definição:** API-First é uma abordagem onde as APIs são projetadas e desenvolvidas antes da implementação da lógica de negócios.
+   - **Importância:** Garante que as APIs sejam bem definidas e documentadas, facilitando a integração.
+   - **Aprendizados Chave:**
+     1. **Design Centrado na API:** Foco na criação de APIs robustas e bem documentadas desde o início.
+     2. **Facilidade de Integração:** APIs bem definidas facilitam a integração com outros sistemas e serviços.
+     3. **Consistência:** Garante que todas as partes do sistema sigam um padrão consistente.
+
+### 4. **Event-Driven Architecture**
+   - **Definição:** Event-Driven Architecture é uma abordagem onde os serviços se comunicam através da produção e consumo de eventos.
+   - **Importância:** Permite a construção de sistemas altamente responsivos e escaláveis.
+   - **Aprendizados Chave:**
+     1. **Assincronismo:** Comunicação assíncrona entre serviços melhora a performance e a escalabilidade.
+     2. **Desacoplamento:** Serviços são desacoplados, o que facilita a manutenção e a evolução do sistema.
+     3. **Reatividade:** Sistemas podem reagir rapidamente a eventos, melhorando a experiência do usuário.
+
+### 5. **Serverless Architecture**
+   - **Definição:** Serverless é uma abordagem onde a gestão da infraestrutura é abstraída, permitindo que os desenvolvedores se concentrem apenas no código.
+   - **Importância:** Reduz a complexidade operacional e pode ser mais econômico.
+   - **Aprendizados Chave:**
+     1. **Abstração da Infraestrutura:** Desenvolvedores não precisam se preocupar com a gestão de servidores.
+     2. **Escalabilidade Automática:** A infraestrutura escala automaticamente com a demanda.
+     3. **Custo-Efetividade:** Paga-se apenas pelo tempo de execução do código, potencialmente reduzindo custos.
+
+### 20% Mais Importantes Aprendizados:
+
+1. **Interoperabilidade e Reutilização (SOA):** A capacidade de diferentes sistemas se comunicarem e reutilizarem serviços é fundamental para a integração e eficiência.
+2. **Descentralização e Resiliência (Microservices):** A independência dos microserviços promove a escalabilidade e a resiliência do sistema.
+3. **Design Centrado na API (API-First):** Focar no design e documentação das APIs desde o início facilita a integração e mantém a consistência.
+4. **Assincronismo e Desacoplamento (Event-Driven):** Comunicação assíncrona e desacoplamento de serviços melhoram a performance e a manutenção.
+5. **Abstração da Infraestrutura e Escalabilidade Automática (Serverless):** A abstração da infraestrutura e a escalabilidade automática simplificam a gestão e podem reduzir custos.
+
+Compreender esses pontos-chave fornecerá uma base sólida para entender as arquiteturas de software baseadas em serviços e suas vantagens.
+

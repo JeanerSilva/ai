@@ -1,0 +1,50 @@
+INFRAESTRUTURA EM TI:: 02 Docker
+ -
+Claro! Docker é uma plataforma de contêineres que permite empacotar, distribuir e gerenciar aplicativos em ambientes isolados. Aqui estão os 20% mais importantes aprendizados sobre Docker que te ajudarão a compreender 80% do necessário:
+
+1. **Conceito de Contêineres**:
+   - **O que é um contêiner**: Um contêiner é uma unidade leve e portátil que inclui tudo o que é necessário para executar um aplicativo: código, runtime, bibliotecas e configurações do sistema.
+   - **Isolamento**: Contêineres fornecem isolamento de processos e recursos, garantindo que aplicativos rodem de forma consistente em diferentes ambientes.
+
+2. **Docker Engine**:
+   - **Docker Daemon**: O serviço que gerencia contêineres no sistema operacional.
+   - **Docker CLI**: A interface de linha de comando usada para interagir com o Docker Daemon.
+
+3. **Imagens Docker**:
+   - **Definição**: Uma imagem Docker é um template imutável que contém o código e as dependências necessárias para rodar um aplicativo.
+   - **Dockerfile**: Um arquivo de texto que contém uma série de instruções para construir uma imagem Docker.
+
+4. **Comandos Básicos**:
+   - `docker build`: Constrói uma imagem a partir de um Dockerfile.
+   - `docker run`: Executa um contêiner a partir de uma imagem.
+   - `docker ps`: Lista os contêineres em execução.
+   - `docker stop`: Para um contêiner em execução.
+   - `docker rm`: Remove um contêiner.
+
+5. **Volumes**:
+   - **Persistência de Dados**: Volumes são usados para persistir dados gerados e usados por contêineres.
+   - **Montagem de Volumes**: Como montar volumes para que dados possam ser compartilhados entre o host e os contêineres.
+
+6. **Redes Docker**:
+   - **Tipos de Redes**: Bridge, Host, None e Overlay.
+   - **Comunicação entre Contêineres**: Como configurar redes para permitir que contêineres se comuniquem entre si.
+
+7. **Docker Compose**:
+   - **Definição**: Ferramenta para definir e gerenciar multi-contêineres Docker.
+   - **Arquivo `docker-compose.yml`**: Arquivo de configuração usado para definir serviços, redes e volumes.
+
+8. **Registro de Imagens**:
+   - **Docker Hub**: Registro público onde você pode armazenar e compartilhar imagens Docker.
+   - **Registro Privado**: Configuração de um registro privado para armazenar imagens Docker de forma segura.
+
+9. **Melhores Práticas**:
+   - **Imagens Leves**: Use imagens base leves para reduzir o tamanho do contêiner.
+   - **Minimizar Camadas**: Cada instrução no Dockerfile cria uma camada; minimize o número de camadas para otimizar a imagem.
+   - **Segurança**: Mantenha suas imagens atualizadas e use práticas de segurança para proteger seus contêineres.
+
+10. **Orquestração de Contêineres**:
+    - **Kubernetes**: Uma plataforma de orquestração de contêineres que automatiza a implantação, escalonamento e gerenciamento de aplicativos em contêineres.
+    - **Docker Swarm**: Ferramenta nativa do Docker para orquestração de contêineres.
+
+Compreender esses conceitos e práticas te dará uma base sólida para trabalhar com Docker e aproveitar ao máximo suas capacidades.
+

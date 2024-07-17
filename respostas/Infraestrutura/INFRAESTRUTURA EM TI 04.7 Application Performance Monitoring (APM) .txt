@@ -1,0 +1,70 @@
+INFRAESTRUTURA EM TI:: 04.7 Application Performance Monitoring (APM) 
+ -
+Claro, o conceito de Application Performance Monitoring (APM) é fundamental para garantir que as aplicações funcionem de maneira eficiente e sem problemas. Aqui estão os 20% mais importantes aprendizados sobre APM que ajudarão você a compreender os 80% necessários:
+
+1. **Definição de APM**:
+   - APM é um conjunto de ferramentas e processos usados para monitorar e gerenciar o desempenho e a disponibilidade de aplicações de software.
+
+2. **Componentes Principais**:
+   - **Monitoramento de Transações**: Rastreia o caminho das transações através da aplicação.
+   - **Monitoramento de Infraestrutura**: Verifica a saúde dos servidores, bancos de dados e outros componentes de infraestrutura.
+   - **Monitoramento de Usuário Real (RUM)**: Analisa a experiência do usuário final em tempo real.
+
+3. **Métricas Essenciais**:
+   - **Tempo de Resposta**: Quanto tempo leva para uma aplicação responder a uma solicitação.
+   - **Taxa de Erros**: A frequência de erros ou falhas na aplicação.
+   - **Throughput**: A quantidade de transações ou solicitações processadas em um determinado período.
+
+4. **Alertas e Notificações**:
+   - Configuração de alertas para notificar a equipe sobre problemas de desempenho antes que afetem os usuários finais.
+
+5. **Análise de Causa Raiz**:
+   - Ferramentas de APM ajudam a identificar a causa raiz dos problemas de desempenho, facilitando a resolução rápida.
+
+6. **Dashboards e Relatórios**:
+   - Visualizações em tempo real e relatórios históricos para monitorar e analisar o desempenho da aplicação.
+
+7. **Integração com DevOps**:
+   - APM é crucial para práticas de DevOps, ajudando a garantir que as aplicações sejam entregues com alta qualidade e desempenho.
+
+8. **Monitoramento de Aplicações Distribuídas**:
+   - Ferramentas de APM podem monitorar aplicações distribuídas em várias plataformas e ambientes, como microservices e containers.
+
+9. **Automação e Inteligência Artificial**:
+   - Uso de IA e machine learning para detectar anomalias e prever problemas de desempenho antes que ocorram.
+
+10. **Impacto no Negócio**:
+    - APM não é apenas uma questão técnica; o desempenho da aplicação pode impactar diretamente a satisfação do cliente e a receita do negócio.
+
+11. **Ferramentas Populares de APM**:
+    - Conheça ferramentas como New Relic, AppDynamics, Dynatrace, e Datadog, que são amplamente usadas no mercado.
+
+12. **Monitoramento de Aplicações Móveis**:
+    - APM também se aplica a aplicações móveis, monitorando o desempenho em diferentes dispositivos e redes.
+
+13. **Monitoramento de APIs**:
+    - APM pode monitorar o desempenho de APIs, que são cruciais para a integração de sistemas e serviços.
+
+14. **Monitoramento de Banco de Dados**:
+    - Identificação de consultas lentas e problemas de desempenho no banco de dados que podem afetar a aplicação.
+
+15. **Monitoramento de Rede**:
+    - Verificação da latência e largura de banda da rede, que podem impactar o desempenho da aplicação.
+
+16. **Escalabilidade**:
+    - APM ajuda a identificar gargalos que podem impedir a escalabilidade da aplicação.
+
+17. **Segurança**:
+    - Monitoramento de segurança para detectar atividades suspeitas que possam afetar o desempenho.
+
+18. **Customização e Extensibilidade**:
+    - Capacidade de personalizar e estender as ferramentas de APM para atender às necessidades específicas da sua aplicação.
+
+19. **Custo e ROI**:
+    - Avaliação do custo das ferramentas de APM e o retorno sobre o investimento (ROI) que elas proporcionam.
+
+20. **Treinamento e Cultura**:
+    - Importância de treinar a equipe e promover uma cultura de monitoramento contínuo e melhoria de desempenho.
+
+Com esses aprendizados, você terá uma base sólida para entender como o APM pode ser implementado e utilizado para garantir que suas aplicações funcionem de maneira eficiente e eficaz.
+

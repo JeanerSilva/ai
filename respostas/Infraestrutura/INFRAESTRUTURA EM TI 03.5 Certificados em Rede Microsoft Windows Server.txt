@@ -1,0 +1,64 @@
+INFRAESTRUTURA EM TI:: 03.5 Certificados em Rede Microsoft Windows Server
+ -
+Claro, aprender sobre certificados em rede no Microsoft Windows Server é essencial para garantir a segurança e a integridade das comunicações e autenticações na rede. Vamos focar nos 20% mais importantes que te ajudarão a compreender os 80% necessários:
+
+### 1. **Conceitos Básicos de Certificados Digitais**
+   - **Certificados Digitais**: São arquivos eletrônicos que utilizam criptografia para fornecer segurança em redes. Eles autenticam a identidade de usuários, dispositivos ou serviços.
+   - **Autoridade Certificadora (CA)**: Entidade responsável por emitir e gerenciar certificados digitais. Pode ser interna (dentro da organização) ou externa (terceiros confiáveis).
+
+### 2. **Tipos de Certificados**
+   - **Certificados de Servidor**: Usados para autenticar servidores e estabelecer conexões seguras (HTTPS).
+   - **Certificados de Cliente**: Usados para autenticar usuários ou dispositivos.
+   - **Certificados de Código**: Usados para assinar digitalmente software e scripts, garantindo sua integridade e origem.
+
+### 3. **Infraestrutura de Chave Pública (PKI)**
+   - **PKI**: Conjunto de hardware, software, políticas e procedimentos necessários para criar, gerenciar, distribuir, usar, armazenar e revogar certificados digitais.
+   - **Componentes da PKI**: Incluem a CA, a Autoridade de Registro (RA), Repositórios de Certificados e Listas de Revogação de Certificados (CRL).
+
+### 4. **Instalação e Configuração da CA no Windows Server**
+   - **Instalação da CA**: Utilizando o Gerenciador de Servidores ou o PowerShell.
+   - **Configuração da CA**: Inclui definir políticas de emissão, templates de certificados e configurações de segurança.
+
+### 5. **Gerenciamento de Certificados**
+   - **Emissão de Certificados**: Processo de criação e distribuição de certificados para usuários, dispositivos ou serviços.
+   - **Renovação de Certificados**: Processo de atualização de certificados antes que expirem.
+   - **Revogação de Certificados**: Processo de invalidação de certificados comprometidos ou não mais necessários.
+
+### 6. **Templates de Certificados**
+   - **Templates**: Modelos predefinidos que especificam as propriedades e usos dos certificados.
+   - **Configuração de Templates**: Personalização de templates para atender às necessidades específicas da organização.
+
+### 7. **Autenticação e Criptografia**
+   - **Autenticação**: Uso de certificados para verificar a identidade de usuários e dispositivos.
+   - **Criptografia**: Uso de certificados para proteger dados em trânsito e em repouso.
+
+### 8. **Implementação de SSL/TLS**
+   - **SSL/TLS**: Protocolos que utilizam certificados para estabelecer conexões seguras entre clientes e servidores.
+   - **Configuração de SSL/TLS**: Inclui a instalação de certificados em servidores web e a configuração de serviços para usar SSL/TLS.
+
+### 9. **Certificados de Assinatura de Código**
+   - **Assinatura de Código**: Processo de usar certificados para assinar digitalmente software e scripts.
+   - **Verificação de Assinatura**: Garantia de que o código não foi alterado desde que foi assinado.
+
+### 10. **Monitoramento e Auditoria**
+   - **Monitoramento**: Acompanhamento do uso e validade dos certificados na rede.
+   - **Auditoria**: Revisão de logs e registros para garantir conformidade com políticas de segurança e identificar possíveis problemas.
+
+### 11. **Backup e Recuperação**
+   - **Backup de Certificados e Chaves**: Garantir que cópias de segurança dos certificados e chaves privadas sejam mantidas.
+   - **Recuperação de Certificados**: Procedimentos para restaurar certificados e chaves em caso de perda ou corrupção.
+
+### 12. **Listas de Revogação de Certificados (CRL) e Online Certificate Status Protocol (OCSP)**
+   - **CRL**: Listas publicadas pela CA que contêm certificados revogados.
+   - **OCSP**: Protocolo que permite a verificação em tempo real do status de um certificado.
+
+### 13. **Políticas de Certificados**
+   - **Políticas de Certificados**: Conjunto de regras que definem como os certificados devem ser gerenciados e utilizados.
+   - **Implementação de Políticas**: Aplicação de políticas de segurança e conformidade para o uso de certificados.
+
+### 14. **Integração com Active Directory**
+   - **Certificados e AD**: Uso de certificados para autenticação e autorização em ambientes Active Directory.
+   - **Group Policy**: Configuração de políticas de grupo para distribuir e gerenciar certificados.
+
+### 15. **Automação
+

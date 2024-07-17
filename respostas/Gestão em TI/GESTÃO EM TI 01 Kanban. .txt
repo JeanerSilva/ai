@@ -1,0 +1,42 @@
+GESTÃO EM TI:: 01 Kanban. 
+ -
+Claro! O Kanban é uma metodologia de gerenciamento de trabalho que visa aumentar a eficiência e a produtividade, visualizando o fluxo de trabalho e limitando o trabalho em progresso. Aqui estão os 20% mais importantes aprendizados sobre Kanban que te ajudarão a compreender 80% do necessário:
+
+1. **Visualização do Trabalho**:
+   - **Quadro Kanban**: Utilize um quadro (físico ou digital) para visualizar todas as tarefas. As colunas representam diferentes estágios do processo (por exemplo, "A Fazer", "Em Progresso", "Concluído").
+   - **Cartões Kanban**: Cada tarefa é representada por um cartão que se move pelo quadro conforme o trabalho avança.
+
+2. **Limitação do Trabalho em Progresso (WIP)**:
+   - **WIP Limits**: Defina limites para o número de tarefas que podem estar em progresso em cada estágio. Isso ajuda a evitar sobrecarga e a identificar gargalos.
+
+3. **Gestão do Fluxo**:
+   - **Fluxo Contínuo**: O objetivo é manter um fluxo contínuo de trabalho, evitando interrupções e garantindo que as tarefas se movam de forma eficiente através do processo.
+   - **Métricas de Fluxo**: Utilize métricas como Lead Time (tempo total para completar uma tarefa) e Cycle Time (tempo de trabalho ativo em uma tarefa) para monitorar e melhorar o fluxo.
+
+4. **Melhoria Contínua**:
+   - **Kaizen**: Adote uma abordagem de melhoria contínua, buscando constantemente maneiras de otimizar o processo e eliminar desperdícios.
+   - **Reuniões de Revisão**: Realize reuniões regulares para revisar o desempenho do processo e identificar oportunidades de melhoria.
+
+5. **Políticas Explícitas**:
+   - **Regras Claras**: Defina e comunique claramente as regras e políticas para o trabalho, como critérios de entrada e saída para cada estágio do processo.
+
+6. **Feedback e Adaptação**:
+   - **Ciclos de Feedback**: Estabeleça ciclos de feedback regulares para ajustar e adaptar o processo conforme necessário.
+   - **Reuniões Diárias**: Realize reuniões diárias rápidas (stand-ups) para discutir o progresso, identificar impedimentos e ajustar prioridades.
+
+7. **Colaboração e Comunicação**:
+   - **Trabalho em Equipe**: Promova a colaboração e a comunicação aberta entre os membros da equipe para resolver problemas rapidamente e melhorar a eficiência.
+   - **Transparência**: Mantenha a transparência sobre o status das tarefas e o progresso do trabalho para todos os envolvidos.
+
+8. **Priorização e Gestão de Tarefas**:
+   - **Backlog**: Mantenha um backlog de tarefas priorizadas para garantir que a equipe esteja sempre trabalhando nas tarefas mais importantes.
+   - **Pull System**: Utilize um sistema de "pull" onde as tarefas são puxadas para o próximo estágio quando há capacidade disponível, em vez de empurradas.
+
+9. **Adaptação ao Contexto**:
+   - **Flexibilidade**: Adapte o Kanban às necessidades específicas do seu contexto e equipe, ajustando as práticas conforme necessário.
+
+10. **Integração com Outras Metodologias**:
+    - **Compatibilidade**: Kanban pode ser integrado com outras metodologias ágeis, como Scrum, para criar um sistema híbrido que atenda melhor às necessidades da equipe.
+
+Com esses aprendizados, você terá uma base sólida para entender e implementar o Kanban de maneira eficaz, melhorando a eficiência e a produtividade da sua equipe.
+

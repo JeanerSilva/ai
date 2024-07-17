@@ -1,0 +1,70 @@
+ENGENHARIA DE SOFTWARE:: 01.9 balanceamento de carga.
+ -
+Claro, o conceito de balanceamento de carga é fundamental para garantir a eficiência, disponibilidade e escalabilidade de sistemas de TI. Aqui estão os 20% mais importantes aprendizados sobre balanceamento de carga que te ajudarão a compreender 80% do assunto:
+
+1. **Definição de Balanceamento de Carga**:
+   - O balanceamento de carga distribui o tráfego de rede ou aplicação entre vários servidores para garantir que nenhum servidor fique sobrecarregado, melhorando a disponibilidade e a capacidade de resposta.
+
+2. **Tipos de Balanceadores de Carga**:
+   - **Hardware**: Dispositivos físicos dedicados ao balanceamento de carga.
+   - **Software**: Soluções baseadas em software que podem ser executadas em servidores comuns.
+
+3. **Algoritmos de Balanceamento de Carga**:
+   - **Round Robin**: Distribui as solicitações de forma sequencial entre os servidores.
+   - **Least Connections**: Direciona o tráfego para o servidor com menos conexões ativas.
+   - **IP Hash**: Usa o endereço IP do cliente para determinar qual servidor receberá a solicitação.
+
+4. **Escalabilidade**:
+   - O balanceamento de carga permite a adição de mais servidores conforme a demanda aumenta, garantindo que o sistema possa crescer sem perder desempenho.
+
+5. **Alta Disponibilidade**:
+   - Ao distribuir o tráfego entre vários servidores, o balanceamento de carga ajuda a garantir que, se um servidor falhar, os outros possam assumir a carga, minimizando o tempo de inatividade.
+
+6. **Monitoramento e Saúde dos Servidores**:
+   - Balanceadores de carga frequentemente monitoram a saúde dos servidores para garantir que o tráfego seja direcionado apenas para servidores operacionais.
+
+7. **Sessões Persistentes (Sticky Sessions)**:
+   - Em algumas aplicações, é necessário que todas as solicitações de um usuário sejam direcionadas ao mesmo servidor. Isso é gerenciado através de sessões persistentes.
+
+8. **Camadas de Balanceamento de Carga**:
+   - **Camada 4 (Transporte)**: Balanceia o tráfego com base em informações de rede, como IP e porta.
+   - **Camada 7 (Aplicação)**: Balanceia o tráfego com base em informações de aplicação, como URLs e cabeçalhos HTTP.
+
+9. **Redundância e Failover**:
+   - Implementar redundância e failover garante que, se um balanceador de carga falhar, outro pode assumir, mantendo a continuidade do serviço.
+
+10. **Segurança**:
+    - Balanceadores de carga podem ajudar a proteger contra ataques DDoS distribuindo o tráfego e mitigando a sobrecarga em um único ponto.
+
+11. **Configuração e Manutenção**:
+    - A configuração correta e a manutenção regular dos balanceadores de carga são essenciais para garantir seu funcionamento eficiente e seguro.
+
+12. **Latência e Desempenho**:
+    - O balanceamento de carga pode reduzir a latência e melhorar o desempenho ao distribuir o tráfego de forma eficiente.
+
+13. **Geolocalização**:
+    - Alguns balanceadores de carga podem direcionar o tráfego com base na localização geográfica do usuário, melhorando a experiência do usuário ao reduzir a latência.
+
+14. **Integração com CDN (Content Delivery Network)**:
+    - O balanceamento de carga pode ser integrado com CDNs para melhorar a entrega de conteúdo estático e dinâmico.
+
+15. **Custo**:
+    - Considerar o custo de implementação e operação de balanceadores de carga, incluindo hardware, software e recursos humanos.
+
+16. **Escalabilidade Horizontal vs. Vertical**:
+    - O balanceamento de carga facilita a escalabilidade horizontal (adicionar mais servidores) em vez de vertical (aumentar a capacidade de um único servidor).
+
+17. **Balanceamento de Carga em Nuvem**:
+    - Serviços de nuvem como AWS, Azure e Google Cloud oferecem soluções de balanceamento de carga que são altamente escaláveis e gerenciadas.
+
+18. **Logs e Análise**:
+    - Coletar e analisar logs de balanceadores de carga pode fornecer insights valiosos sobre o desempenho e ajudar na resolução de problemas.
+
+19. **Automação e Orquestração**:
+    - Ferramentas de automação e orquestração podem ser usadas para gerenciar balanceadores de carga e servidores de forma eficiente.
+
+20. **Testes e Simulações**:
+    - Realizar testes e simulações de carga para garantir que o balanceador de carga e os servidores possam lidar com picos de tráfego e falhas.
+
+Compreender esses pontos-chave te dará uma base sólida para entender como o balanceamento de carga funciona e como ele pode ser implementado para melhorar a eficiência e a resiliência de sistemas de TI.
+

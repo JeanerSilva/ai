@@ -1,0 +1,48 @@
+ENGENHARIA DE SOFTWARE:: 13 Transações distribuídas. 
+ -
+Claro! As transações distribuídas são um tópico fundamental em sistemas distribuídos e bancos de dados. Elas envolvem a coordenação de uma única transação que abrange múltiplos sistemas ou bancos de dados. Aqui estão os 20% mais importantes aprendizados que ajudarão você a compreender 80% do assunto:
+
+1. **Conceito de Transações Distribuídas**:
+   - **Definição**: Uma transação distribuída é uma transação que envolve múltiplos recursos gerenciados por diferentes sistemas de gerenciamento de banco de dados (SGBDs).
+   - **Importância**: Garantem a consistência e integridade dos dados em sistemas distribuídos.
+
+2. **Propriedades ACID**:
+   - **Atomicidade**: A transação deve ser completada em sua totalidade ou não ser realizada.
+   - **Consistência**: A transação deve levar o sistema de um estado consistente a outro estado consistente.
+   - **Isolamento**: As operações da transação devem ser isoladas das operações de outras transações.
+   - **Durabilidade**: Uma vez que a transação é confirmada, suas mudanças devem ser permanentes.
+
+3. **Protocolo de Dois Fases (2PC)**:
+   - **Fase de Preparação**: O coordenador de transação solicita que todos os participantes preparem-se para a transação e reportem se estão prontos para confirmar.
+   - **Fase de Commit**: Se todos os participantes estiverem prontos, o coordenador envia um comando de commit; caso contrário, envia um comando de rollback.
+
+4. **Coordenador de Transação**:
+   - **Função**: Gerencia a transação distribuída, coordenando os commits e rollbacks entre os diferentes sistemas.
+   - **Importância**: Essencial para garantir a atomicidade e consistência da transação.
+
+5. **Participantes da Transação**:
+   - **Definição**: Sistemas ou bancos de dados que participam da transação distribuída.
+   - **Responsabilidades**: Executar operações locais e reportar o status ao coordenador.
+
+6. **Problemas Comuns**:
+   - **Falhas de Rede**: Podem causar inconsistências se a comunicação entre o coordenador e os participantes for interrompida.
+   - **Deadlocks**: Podem ocorrer quando duas ou mais transações esperam indefinidamente por recursos bloqueados umas pelas outras.
+
+7. **Recuperação de Falhas**:
+   - **Logs de Transação**: Utilizados para registrar o progresso da transação e ajudar na recuperação em caso de falhas.
+   - **Protocolos de Recuperação**: Técnicas para garantir que o sistema possa retornar a um estado consistente após uma falha.
+
+8. **Escalabilidade e Desempenho**:
+   - **Desafios**: Transações distribuídas podem ser mais lentas e complexas devido à necessidade de coordenação entre múltiplos sistemas.
+   - **Otimizações**: Técnicas como sharding e particionamento de dados podem ajudar a melhorar o desempenho.
+
+9. **Ferramentas e Tecnologias**:
+   - **Middleware de Transações**: Softwares como o Apache Kafka, RabbitMQ, e sistemas de coordenação como o Zookeeper podem ajudar na implementação de transações distribuídas.
+   - **Bancos de Dados Distribuídos**: Sistemas como Google Spanner e Amazon Aurora suportam transações distribuídas nativamente.
+
+10. **Casos de Uso**:
+    - **E-commerce**: Garantir que o estoque e o pagamento sejam atualizados de forma consistente.
+    - **Bancos**: Transferências de fundos entre contas em diferentes bancos.
+
+Compreender esses pontos-chave fornecerá uma base sólida para entender como as transações distribuídas funcionam, seus desafios e como são implementadas em sistemas reais.
+

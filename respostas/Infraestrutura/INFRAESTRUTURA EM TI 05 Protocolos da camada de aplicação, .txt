@@ -1,0 +1,46 @@
+INFRAESTRUTURA EM TI:: 05 Protocolos da camada de aplicação, 
+ -
+Claro! A camada de aplicação é a camada mais alta no modelo OSI (Open Systems Interconnection) e no modelo TCP/IP. Ela é responsável por fornecer serviços de rede diretamente aos aplicativos do usuário final. Aqui estão cinco protocolos importantes da camada de aplicação:
+
+1. **HTTP (HyperText Transfer Protocol)**
+2. **FTP (File Transfer Protocol)**
+3. **SMTP (Simple Mail Transfer Protocol)**
+4. **DNS (Domain Name System)**
+5. **DHCP (Dynamic Host Configuration Protocol)**
+
+Agora, vamos identificar os 20% mais importantes aprendizados sobre esses protocolos que ajudarão a compreender 80% do necessário:
+
+### 1. HTTP (HyperText Transfer Protocol)
+- **Função Principal**: HTTP é o protocolo usado para transferir páginas web na internet. Ele define como mensagens são formatadas e transmitidas, e como os servidores e navegadores devem responder a vários comandos.
+- **Métodos Comuns**: GET (recuperar dados), POST (enviar dados), PUT (atualizar dados), DELETE (remover dados).
+- **Estado Sem Conexão**: HTTP é um protocolo sem estado, o que significa que cada pedido é independente e não mantém informações sobre pedidos anteriores.
+
+### 2. FTP (File Transfer Protocol)
+- **Função Principal**: FTP é usado para transferir arquivos entre um cliente e um servidor na rede.
+- **Modos de Transferência**: Ativo e Passivo. No modo ativo, o cliente abre uma porta e espera a conexão do servidor. No modo passivo, o servidor abre uma porta e espera a conexão do cliente.
+- **Autenticação**: FTP pode exigir um nome de usuário e senha para acessar os arquivos, mas também pode permitir acesso anônimo.
+
+### 3. SMTP (Simple Mail Transfer Protocol)
+- **Função Principal**: SMTP é usado para enviar e encaminhar emails entre servidores de correio eletrônico.
+- **Portas Comuns**: Utiliza a porta 25 para comunicação padrão, mas também pode usar a porta 587 para envio seguro (STARTTLS) e a porta 465 para SMTPS.
+- **Fluxo de Trabalho**: SMTP trabalha em conjunto com outros protocolos como POP3 ou IMAP para a recuperação de emails.
+
+### 4. DNS (Domain Name System)
+- **Função Principal**: DNS traduz nomes de domínio legíveis por humanos (como www.exemplo.com) em endereços IP (como 192.0.2.1) que são usados por computadores para identificar recursos na rede.
+- **Hierarquia**: DNS é hierárquico e distribuído, com servidores raiz, TLD (Top-Level Domain) e servidores autoritativos.
+- **Tipos de Registros**: A (endereço IPv4), AAAA (endereço IPv6), MX (servidor de email), CNAME (nome canônico), entre outros.
+
+### 5. DHCP (Dynamic Host Configuration Protocol)
+- **Função Principal**: DHCP atribui dinamicamente endereços IP e outras configurações de rede a dispositivos em uma rede.
+- **Processo de Atribuição**: Inclui etapas como Discover, Offer, Request e Acknowledge (DORA).
+- **Configurações Distribuídas**: Além de endereços IP, DHCP pode fornecer informações como máscara de sub-rede, gateway padrão e servidores DNS.
+
+### Resumo dos 20% mais importantes:
+1. **HTTP**: Entender os métodos principais (GET, POST) e o conceito de estado sem conexão.
+2. **FTP**: Conhecer os modos de transferência (ativo e passivo) e a necessidade de autenticação.
+3. **SMTP**: Compreender o fluxo de trabalho de envio de emails e as portas comuns utilizadas.
+4. **DNS**: Saber como o DNS traduz nomes de domínio em endereços IP e a hierarquia do sistema.
+5. **DHCP**: Entender o processo de atribuição de endereços IP e as configurações distribuídas.
+
+Com esses aprendizados, você terá uma base sólida para compreender a maioria das operações e interações que ocorrem na camada de aplicação da rede.
+

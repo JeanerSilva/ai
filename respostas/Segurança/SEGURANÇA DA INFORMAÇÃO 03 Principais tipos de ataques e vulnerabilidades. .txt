@@ -1,0 +1,47 @@
+SEGURANÇA DA INFORMAÇÃO:: 03 Principais tipos de ataques e vulnerabilidades. 
+ -
+Claro, vamos abordar três dos principais tipos de ataques e vulnerabilidades em segurança da informação: **Phishing**, **Injeção de SQL (SQL Injection)** e **Cross-Site Scripting (XSS)**. Em seguida, destacarei os 20% mais importantes aprendizados que cobrem 80% do entendimento necessário sobre esses tópicos.
+
+### 1. Phishing
+
+**Descrição:**
+Phishing é um ataque em que o atacante tenta enganar a vítima para que ela forneça informações sensíveis, como senhas, números de cartão de crédito ou outros dados pessoais, geralmente através de e-mails ou sites falsos que parecem legítimos.
+
+**Principais Aprendizados:**
+- **Reconhecimento de E-mails Falsos:** Aprenda a identificar sinais de e-mails de phishing, como erros gramaticais, URLs suspeitas e solicitações urgentes de informações pessoais.
+- **Verificação de URLs:** Sempre verifique a URL de um site antes de inserir informações sensíveis. Sites falsos podem ter URLs que são muito semelhantes aos legítimos, mas com pequenas diferenças.
+- **Educação e Treinamento:** Treine funcionários e usuários sobre os riscos de phishing e como identificar tentativas de phishing.
+
+### 2. Injeção de SQL (SQL Injection)
+
+**Descrição:**
+SQL Injection é um ataque em que o atacante insere ou "injeta" código SQL malicioso em uma consulta SQL através da entrada de dados de um usuário. Isso pode permitir que o atacante acesse, modifique ou exclua dados no banco de dados.
+
+**Principais Aprendizados:**
+- **Validação de Entrada:** Sempre valide e sanitize a entrada do usuário para garantir que ela não contenha código SQL malicioso.
+- **Uso de Prepared Statements:** Utilize consultas parametrizadas (prepared statements) em vez de concatenar strings SQL diretamente com a entrada do usuário.
+- **Princípio do Menor Privilégio:** Configure as permissões do banco de dados para que as contas de usuário tenham apenas os privilégios necessários, limitando o impacto de um possível ataque.
+
+### 3. Cross-Site Scripting (XSS)
+
+**Descrição:**
+XSS é um ataque em que o atacante insere scripts maliciosos em páginas web visualizadas por outros usuários. Esses scripts podem roubar cookies, sessões ou redirecionar usuários para sites maliciosos.
+
+**Principais Aprendizados:**
+- **Escapamento de Dados:** Sempre escape a saída de dados para evitar a execução de scripts maliciosos. Por exemplo, use funções de escapamento ao exibir dados do usuário em HTML.
+- **Validação de Entrada:** Valide e sanitize a entrada do usuário para garantir que ela não contenha scripts maliciosos.
+- **Uso de Content Security Policy (CSP):** Implemente uma política de segurança de conteúdo (CSP) para restringir as fontes de scripts que podem ser executados em sua aplicação.
+
+### Resumo dos 20% mais importantes aprendizados:
+
+1. **Reconhecimento de E-mails Falsos:** Identificar sinais de phishing.
+2. **Verificação de URLs:** Confirmar a legitimidade de URLs antes de fornecer informações.
+3. **Educação e Treinamento:** Ensinar usuários sobre os riscos e sinais de phishing.
+4. **Validação de Entrada:** Sanitizar e validar a entrada do usuário para prevenir SQL Injection e XSS.
+5. **Uso de Prepared Statements:** Utilizar consultas parametrizadas para evitar SQL Injection.
+6. **Princípio do Menor Privilégio:** Configurar permissões mínimas necessárias no banco de dados.
+7. **Escapamento de Dados:** Escapar a saída de dados para prevenir XSS.
+8. **Uso de Content Security Policy (CSP):** Implementar CSP para restringir fontes de scripts.
+
+Esses aprendizados cobrem os aspectos mais críticos e comuns dos ataques e vulnerabilidades mencionados, proporcionando uma base sólida para entender e mitigar esses riscos.
+

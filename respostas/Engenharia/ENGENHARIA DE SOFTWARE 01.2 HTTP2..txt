@@ -1,0 +1,66 @@
+ENGENHARIA DE SOFTWARE:: 01.2 HTTP/2.
+ -
+Claro! O HTTP/2 é uma atualização significativa do protocolo HTTP/1.1, projetada para melhorar a eficiência e a performance da comunicação web. Aqui estão os 20% mais importantes aprendizados sobre HTTP/2 que te ajudarão a compreender os 80% necessários:
+
+1. **Multiplexação**:
+   - HTTP/2 permite múltiplas requisições e respostas simultâneas sobre uma única conexão TCP. Isso elimina o problema de "head-of-line blocking" presente no HTTP/1.1, onde uma requisição lenta pode bloquear outras.
+
+2. **Cabeçalhos Compactados (HPACK)**:
+   - HTTP/2 utiliza um algoritmo de compressão de cabeçalhos chamado HPACK, que reduz o tamanho dos cabeçalhos HTTP, economizando largura de banda e melhorando a performance.
+
+3. **Server Push**:
+   - O servidor pode enviar recursos ao cliente antes mesmo de serem solicitados, antecipando as necessidades do cliente e melhorando a velocidade de carregamento das páginas.
+
+4. **Prioritização de Streams**:
+   - HTTP/2 permite que os clientes indiquem a prioridade de diferentes streams, permitindo que recursos mais importantes sejam carregados primeiro.
+
+5. **Conexões Persistentes**:
+   - HTTP/2 mantém uma única conexão aberta para múltiplas requisições/respostas, reduzindo a sobrecarga de estabelecer novas conexões TCP.
+
+6. **Binário em vez de Texto**:
+   - Diferente do HTTP/1.1, que é baseado em texto, HTTP/2 é um protocolo binário. Isso simplifica a análise e a implementação do protocolo, além de reduzir erros.
+
+7. **Frames**:
+   - A comunicação em HTTP/2 é feita através de frames. Cada mensagem HTTP é dividida em frames menores, que são multiplexados e enviados pela conexão.
+
+8. **Fluxos (Streams)**:
+   - Cada requisição/resposta é associada a um fluxo (stream) identificado por um número único. Isso permite a multiplexação de várias requisições/respostas simultâneas.
+
+9. **Controle de Fluxo**:
+   - HTTP/2 implementa controle de fluxo para gerenciar a quantidade de dados que podem ser enviados antes de serem reconhecidos, prevenindo congestionamento.
+
+10. **Segurança**:
+    - Embora não seja obrigatório, HTTP/2 é frequentemente usado com TLS (Transport Layer Security) para garantir a segurança da comunicação.
+
+11. **Compatibilidade com HTTP/1.1**:
+    - HTTP/2 mantém a semântica do HTTP/1.1, o que significa que os métodos, status codes, URIs e cabeçalhos continuam os mesmos, facilitando a transição.
+
+12. **Redução de Latência**:
+    - As melhorias de multiplexação, compressão de cabeçalhos e server push contribuem para uma redução significativa na latência de carregamento de páginas.
+
+13. **Implementação em Browsers e Servidores**:
+    - A maioria dos navegadores modernos e servidores web já suportam HTTP/2, facilitando a adoção do protocolo.
+
+14. **Fallback para HTTP/1.1**:
+    - Se o cliente ou servidor não suportar HTTP/2, a comunicação pode reverter para HTTP/1.1, garantindo compatibilidade.
+
+15. **Configuração de Servidores**:
+    - Para aproveitar os benefícios do HTTP/2, é necessário configurar corretamente os servidores web, como Apache, Nginx, etc.
+
+16. **Impacto no SEO**:
+    - Melhorias na velocidade de carregamento de páginas podem impactar positivamente o SEO, já que motores de busca como o Google consideram a velocidade de carregamento como um fator de ranking.
+
+17. **Ferramentas de Diagnóstico**:
+    - Existem várias ferramentas e extensões de navegador que ajudam a diagnosticar e monitorar a performance de HTTP/2, como o Chrome DevTools.
+
+18. **Adaptação de Aplicações**:
+    - Algumas práticas de otimização usadas em HTTP/1.1, como domain sharding e concatenation, podem ser desnecessárias ou até prejudiciais em HTTP/2.
+
+19. **Impacto na Infraestrutura**:
+    - A adoção de HTTP/2 pode exigir ajustes na infraestrutura de rede e servidores para maximizar os benefícios do protocolo.
+
+20. **Educação e Treinamento**:
+    - É importante que desenvolvedores e administradores de sistemas se eduquem sobre as melhores práticas e configurações de HTTP/2 para tirar o máximo proveito do protocolo.
+
+Com esses pontos, você terá uma compreensão sólida dos principais aspectos do HTTP/2 e como ele melhora a comunicação web em comparação com o HTTP/1.1.
+

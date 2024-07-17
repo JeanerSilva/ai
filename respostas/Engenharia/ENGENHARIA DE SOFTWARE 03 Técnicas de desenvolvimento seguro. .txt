@@ -1,0 +1,43 @@
+ENGENHARIA DE SOFTWARE:: 03 Técnicas de desenvolvimento seguro. 
+ -
+Claro, vamos abordar três técnicas de desenvolvimento seguro e destacar os aprendizados mais importantes que ajudarão você a compreender a maior parte do assunto.
+
+### 1. **Validação de Entrada**
+A validação de entrada é crucial para garantir que os dados fornecidos pelos usuários sejam seguros e apropriados para o sistema.
+
+**Aprendizados Importantes:**
+1. **Sanitização de Dados:** Sempre sanitize os dados de entrada para remover ou neutralizar caracteres perigosos.
+2. **Validação no Lado do Servidor:** Nunca confie apenas na validação do lado do cliente; sempre valide os dados no servidor.
+3. **Listas de Permissão:** Use listas de permissão (whitelists) em vez de listas de bloqueio (blacklists) para validar entradas.
+4. **Tipos de Dados:** Verifique se os dados de entrada correspondem aos tipos esperados (por exemplo, números, strings, etc.).
+5. **Comprimento dos Dados:** Limite o comprimento dos dados de entrada para evitar ataques como buffer overflow.
+
+### 2. **Controle de Acesso**
+O controle de acesso garante que apenas usuários autorizados possam acessar ou modificar recursos específicos.
+
+**Aprendizados Importantes:**
+1. **Princípio do Menor Privilégio:** Conceda aos usuários apenas as permissões necessárias para realizar suas tarefas.
+2. **Autenticação Forte:** Use métodos de autenticação robustos, como autenticação multifator (MFA).
+3. **Autorização Granular:** Implemente controles de autorização detalhados para garantir que os usuários só possam acessar os recursos que lhes são permitidos.
+4. **Sessões Seguras:** Gerencie sessões de usuário de forma segura, utilizando tokens de sessão e expirando sessões inativas.
+5. **Logs de Acesso:** Mantenha registros detalhados de acessos e tentativas de acesso para auditoria e detecção de anomalias.
+
+### 3. **Criptografia**
+A criptografia protege dados sensíveis tanto em trânsito quanto em repouso.
+
+**Aprendizados Importantes:**
+1. **Criptografia em Trânsito:** Use protocolos seguros como TLS para proteger dados durante a transmissão.
+2. **Criptografia em Repouso:** Armazene dados sensíveis de forma criptografada para proteger contra acessos não autorizados.
+3. **Gerenciamento de Chaves:** Utilize práticas seguras de gerenciamento de chaves, como rotação regular e armazenamento seguro.
+4. **Algoritmos Seguros:** Escolha algoritmos de criptografia robustos e atualizados, como AES para criptografia simétrica e RSA para criptografia assimétrica.
+5. **Hashing Seguro:** Use funções de hash seguras, como SHA-256, para armazenar senhas e verificar a integridade dos dados.
+
+### Resumo dos 20% mais importantes (Princípio de Pareto):
+1. **Sanitização e Validação de Dados:** Sempre sanitize e valide os dados de entrada no lado do servidor.
+2. **Princípio do Menor Privilégio:** Conceda apenas as permissões necessárias aos usuários.
+3. **Autenticação e Autorização:** Use autenticação multifator e implemente controles de autorização detalhados.
+4. **Criptografia em Trânsito e Repouso:** Proteja dados sensíveis usando criptografia tanto em trânsito quanto em repouso.
+5. **Gerenciamento de Chaves:** Utilize práticas seguras para o gerenciamento de chaves criptográficas.
+
+Focando nesses pontos principais, você cobrirá a maior parte dos conceitos essenciais para o desenvolvimento seguro.
+

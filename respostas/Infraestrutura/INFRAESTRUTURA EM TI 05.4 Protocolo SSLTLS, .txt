@@ -1,0 +1,78 @@
+INFRAESTRUTURA EM TI:: 05.4 Protocolo SSL/TLS, 
+ -
+Claro, vamos focar nos aspectos mais importantes do protocolo SSL/TLS que te ajudarão a compreender a maior parte do seu funcionamento e importância. Aqui estão os 20% mais cruciais:
+
+1. **Definição e Propósito**:
+   - **SSL (Secure Sockets Layer)** e **TLS (Transport Layer Security)** são protocolos criptográficos que fornecem comunicação segura sobre uma rede de computadores.
+   - TLS é a versão mais recente e segura, sendo uma evolução do SSL.
+
+2. **Camadas de Segurança**:
+   - **Confidencialidade**: Garante que os dados transmitidos sejam acessíveis apenas pelas partes autorizadas.
+   - **Integridade**: Assegura que os dados não foram alterados durante a transmissão.
+   - **Autenticação**: Verifica a identidade das partes envolvidas na comunicação.
+
+3. **Handshake Protocol**:
+   - Processo inicial onde o cliente e o servidor estabelecem uma conexão segura.
+   - Inclui a troca de chaves criptográficas e a autenticação mútua.
+
+4. **Certificados Digitais**:
+   - Utilizados para autenticar a identidade do servidor (e opcionalmente do cliente).
+   - Emitidos por Autoridades Certificadoras (CAs) confiáveis.
+
+5. **Criptografia Simétrica e Assimétrica**:
+   - **Criptografia Assimétrica**: Utiliza um par de chaves (pública e privada) para a troca inicial de chaves.
+   - **Criptografia Simétrica**: Utiliza uma única chave para criptografar e descriptografar os dados após o handshake.
+
+6. **Algoritmos de Criptografia**:
+   - **RSA**: Amplamente utilizado para criptografia assimétrica.
+   - **AES**: Comumente usado para criptografia simétrica devido à sua eficiência e segurança.
+
+7. **Versões do TLS**:
+   - **TLS 1.0, 1.1, 1.2, 1.3**: Cada versão traz melhorias em segurança e desempenho. TLS 1.3 é a versão mais recente e segura.
+
+8. **Cifras (Cipher Suites)**:
+   - Conjunto de algoritmos que determinam como a criptografia e a autenticação serão realizadas.
+   - Inclui algoritmos para troca de chaves, criptografia de dados e autenticação.
+
+9. **Certificado SSL/TLS**:
+   - Contém a chave pública do servidor e é assinado digitalmente por uma CA.
+   - Inclui informações como o nome do domínio, a CA emissora e o período de validade.
+
+10. **Validação de Certificados**:
+    - O cliente verifica a validade do certificado do servidor, incluindo a assinatura da CA e a data de validade.
+
+11. **Renegociação de Sessão**:
+    - Permite que o cliente e o servidor renegociem os parâmetros de segurança sem interromper a conexão.
+
+12. **Resumir Sessão (Session Resumption)**:
+    - Técnica para reduzir a sobrecarga do handshake em conexões subsequentes, reutilizando parâmetros de uma sessão anterior.
+
+13. **Ataques Comuns e Mitigações**:
+    - **Man-in-the-Middle (MitM)**: Interceptação de comunicação. Mitigado por autenticação e criptografia fortes.
+    - **BEAST, POODLE, Heartbleed**: Vulnerabilidades específicas que foram mitigadas em versões mais recentes do TLS.
+
+14. **Implementação e Configuração**:
+    - Importância de configurar corretamente os servidores para usar versões e cifras seguras.
+    - Desativar versões obsoletas como SSL 2.0 e 3.0, e TLS 1.0 e 1.1.
+
+15. **Uso de HSTS (HTTP Strict Transport Security)**:
+    - Política que força os navegadores a usar conexões HTTPS, prevenindo ataques de downgrade.
+
+16. **Certificados Wildcard e SAN (Subject Alternative Name)**:
+    - **Wildcard**: Certificados que cobrem múltiplos subdomínios.
+    - **SAN**: Permite que um único certificado cubra múltiplos domínios.
+
+17. **OCSP (Online Certificate Status Protocol)**:
+    - Método para verificar a revogação de certificados em tempo real.
+
+18. **Perfect Forward Secrecy (PFS)**:
+    - Propriedade que assegura que a chave de sessão não será comprometida mesmo se a chave privada do servidor for comprometida no futuro.
+
+19. **TLS em Diferentes Camadas**:
+    - Pode ser implementado em diferentes camadas do modelo OSI, mas geralmente é usado na camada de transporte.
+
+20. **Ferramentas de Teste e Diagnóstico**:
+    - Utilização de ferramentas como OpenSSL, SSL Labs, e Wireshark para testar e diagnosticar a segurança das implementações SSL/TLS.
+
+Compreender esses pontos te
+

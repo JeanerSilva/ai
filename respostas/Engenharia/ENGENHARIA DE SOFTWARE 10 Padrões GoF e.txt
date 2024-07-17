@@ -1,0 +1,64 @@
+ENGENHARIA DE SOFTWARE:: 10 Padrões: GoF e
+ -
+Os padrões de projeto (Design Patterns) do livro "Design Patterns: Elements of Reusable Object-Oriented Software" dos autores Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides, conhecidos como Gang of Four (GoF), são soluções comprovadas para problemas comuns no desenvolvimento de software orientado a objetos. Existem 23 padrões no total, mas aqui vamos focar em 10 deles e destacar os 20% mais importantes que ajudarão a compreender 80% do necessário.
+
+### 1. Singleton
+**Descrição:** Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela.
+**Importância:** Controle de acesso a recursos compartilhados, como conexões de banco de dados.
+
+### 2. Factory Method
+**Descrição:** Define uma interface para criar um objeto, mas permite que as subclasses alterem o tipo de objeto que será criado.
+**Importância:** Promove a flexibilidade e a reutilização de código ao delegar a criação de objetos a subclasses.
+
+### 3. Abstract Factory
+**Descrição:** Fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
+**Importância:** Facilita a troca de "famílias" de produtos sem alterar o código cliente.
+
+### 4. Builder
+**Descrição:** Separa a construção de um objeto complexo da sua representação, permitindo a criação de diferentes representações.
+**Importância:** Simplifica a criação de objetos complexos e melhora a legibilidade do código.
+
+### 5. Prototype
+**Descrição:** Permite a criação de novos objetos a partir de um protótipo existente, clonando-o.
+**Importância:** Reduz o custo de criação de objetos e permite a criação de objetos complexos de forma eficiente.
+
+### 6. Adapter
+**Descrição:** Permite que interfaces incompatíveis trabalhem juntas, convertendo a interface de uma classe em outra esperada pelos clientes.
+**Importância:** Facilita a integração de classes com interfaces incompatíveis sem modificar seu código.
+
+### 7. Composite
+**Descrição:** Compõe objetos em estruturas de árvore para representar hierarquias parte-todo, permitindo que clientes tratem objetos individuais e composições de objetos de maneira uniforme.
+**Importância:** Simplifica o tratamento de estruturas hierárquicas complexas.
+
+### 8. Decorator
+**Descrição:** Adiciona responsabilidades adicionais a um objeto dinamicamente, sem alterar sua estrutura.
+**Importância:** Oferece uma alternativa flexível à herança para estender funcionalidades.
+
+### 9. Observer
+**Descrição:** Define uma dependência um-para-muitos entre objetos, de modo que quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
+**Importância:** Facilita a implementação de sistemas reativos e desacoplados.
+
+### 10. Strategy
+**Descrição:** Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis. Permite que o algoritmo varie independentemente dos clientes que o utilizam.
+**Importância:** Promove a flexibilidade e a reutilização de código ao permitir a troca de algoritmos em tempo de execução.
+
+### 20% Mais Importantes Aprendizados
+
+1. **Encapsulamento de Variações:**
+   - Padrões como Strategy e Factory Method encapsulam variações de algoritmos e criação de objetos, promovendo flexibilidade e reutilização de código.
+
+2. **Desacoplamento:**
+   - Padrões como Observer e Adapter ajudam a desacoplar componentes, facilitando a manutenção e evolução do sistema.
+
+3. **Reutilização de Código:**
+   - Padrões como Abstract Factory e Builder promovem a reutilização de código ao fornecer interfaces para criação de objetos complexos e famílias de produtos.
+
+4. **Extensibilidade:**
+   - Padrões como Decorator e Composite permitem a extensão de funcionalidades e a composição de objetos de maneira flexível e dinâmica.
+
+5. **Controle de Instâncias:**
+   - O padrão Singleton garante que uma classe tenha apenas uma instância, controlando o acesso a recursos compartilhados.
+
+### Conclusão
+Focar nesses 20% mais importantes aprendizados permitirá que você compreenda os princípios fundamentais dos padrões de projeto GoF, facilitando a aplicação desses padrões em situações práticas e melhorando a qualidade e a manutenção do seu código.
+

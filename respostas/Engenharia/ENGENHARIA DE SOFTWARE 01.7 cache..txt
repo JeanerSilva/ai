@@ -1,0 +1,58 @@
+ENGENHARIA DE SOFTWARE:: 01.7 cache.
+ -
+Claro! O conceito de cache é fundamental em várias áreas da computação, desde hardware até software. Vamos focar nos 20% mais importantes que te ajudarão a compreender 80% do assunto.
+
+### 1. O que é Cache?
+Cache é uma memória de alta velocidade que armazena temporariamente dados frequentemente acessados para acelerar o acesso a esses dados. Ele atua como uma camada intermediária entre a CPU e a memória principal (RAM).
+
+### 2. Tipos de Cache
+- **Cache de CPU**: Inclui L1, L2 e L3, onde L1 é a mais rápida e menor, e L3 é a maior e mais lenta.
+- **Cache de Disco**: Utilizado para armazenar dados frequentemente acessados do disco rígido.
+- **Cache de Navegador**: Armazena recursos de páginas web para acelerar o carregamento de sites.
+
+### 3. Localidade de Referência
+- **Localidade Temporal**: Dados acessados recentemente são mais propensos a serem acessados novamente.
+- **Localidade Espacial**: Dados próximos aos dados acessados recentemente são mais propensos a serem acessados.
+
+### 4. Políticas de Substituição
+- **LRU (Least Recently Used)**: Substitui o dado menos recentemente usado.
+- **FIFO (First In, First Out)**: Substitui o dado mais antigo.
+- **LFU (Least Frequently Used)**: Substitui o dado menos frequentemente usado.
+
+### 5. Cache Miss e Cache Hit
+- **Cache Hit**: Quando os dados solicitados estão na cache.
+- **Cache Miss**: Quando os dados solicitados não estão na cache, necessitando buscar na memória principal.
+
+### 6. Coerência de Cache
+Em sistemas multiprocessadores, é crucial manter a coerência dos dados entre caches diferentes para evitar inconsistências.
+
+### 7. Tamanho e Latência
+- **Tamanho**: Maior cache pode armazenar mais dados, mas pode ser mais lenta.
+- **Latência**: Tempo necessário para acessar dados na cache. Menor latência é melhor.
+
+### 8. Write-Through vs Write-Back
+- **Write-Through**: Dados são escritos na cache e na memória principal simultaneamente.
+- **Write-Back**: Dados são escritos na cache e só são escritos na memória principal quando substituídos.
+
+### 9. Cache Associativity
+- **Direct-Mapped**: Cada bloco de memória mapeia para um único bloco de cache.
+- **Fully Associative**: Qualquer bloco de memória pode ser armazenado em qualquer bloco de cache.
+- **Set-Associative**: Combinação dos dois anteriores, onde a cache é dividida em conjuntos.
+
+### 10. Impacto no Desempenho
+O uso eficiente de cache pode melhorar significativamente o desempenho do sistema, reduzindo o tempo de acesso a dados frequentemente utilizados.
+
+### Resumo dos 20% mais importantes:
+1. **Definição de Cache**: Memória de alta velocidade para dados temporários.
+2. **Tipos de Cache**: CPU, Disco, Navegador.
+3. **Localidade de Referência**: Temporal e Espacial.
+4. **Políticas de Substituição**: LRU, FIFO, LFU.
+5. **Cache Hit/Miss**: Impacto no desempenho.
+6. **Coerência de Cache**: Importante em multiprocessadores.
+7. **Tamanho e Latência**: Trade-offs.
+8. **Write-Through vs Write-Back**: Métodos de escrita.
+9. **Cache Associativity**: Direct-Mapped, Fully Associative, Set-Associative.
+10. **Impacto no Desempenho**: Redução do tempo de acesso.
+
+Compreender esses pontos te dará uma base sólida para entender como caches funcionam e como eles podem ser otimizados para melhorar o desempenho do sistema.
+

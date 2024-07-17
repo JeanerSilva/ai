@@ -1,0 +1,48 @@
+ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software microsserviços.
+ -
+Claro! A arquitetura de microsserviços é um estilo de arquitetura de software onde um aplicativo é estruturado como uma coleção de serviços pequenos e independentes que se comunicam entre si. Aqui estão cinco arquiteturas de software de microsserviços e os 20% mais importantes aprendizados que ajudarão você a compreender 80% do necessário sobre o assunto:
+
+### 1. **Arquitetura Baseada em API Gateway**
+- **Descrição**: Um API Gateway atua como um ponto de entrada único para todas as solicitações de clientes. Ele roteia as solicitações para os microsserviços apropriados.
+- **Aprendizados Importantes**:
+  1. **Centralização do Roteamento**: O API Gateway centraliza o roteamento das solicitações, simplificando a comunicação entre clientes e microsserviços.
+  2. **Segurança e Autenticação**: Pode gerenciar autenticação, autorização e outras políticas de segurança.
+  3. **Agregação de Respostas**: Pode agregar respostas de vários microsserviços em uma única resposta para o cliente.
+
+### 2. **Arquitetura de Comunicação Assíncrona**
+- **Descrição**: Utiliza filas de mensagens ou sistemas de streaming para comunicação entre microsserviços, permitindo que eles operem de forma assíncrona.
+- **Aprendizados Importantes**:
+  1. **Desacoplamento**: A comunicação assíncrona desacopla os microsserviços, permitindo que eles funcionem independentemente.
+  2. **Resiliência**: Melhora a resiliência do sistema, pois os microsserviços podem continuar a operar mesmo que outros estejam temporariamente indisponíveis.
+  3. **Escalabilidade**: Facilita a escalabilidade, pois os microsserviços podem processar mensagens em seu próprio ritmo.
+
+### 3. **Arquitetura de Banco de Dados Distribuído**
+- **Descrição**: Cada microsserviço possui seu próprio banco de dados, promovendo a independência e a autonomia dos serviços.
+- **Aprendizados Importantes**:
+  1. **Independência de Dados**: Cada microsserviço pode escolher a tecnologia de banco de dados que melhor se adapta às suas necessidades.
+  2. **Isolamento de Falhas**: Problemas em um banco de dados não afetam outros microsserviços.
+  3. **Desafios de Consistência**: É necessário lidar com a consistência eventual e a sincronização de dados entre bancos de dados.
+
+### 4. **Arquitetura de Orquestração de Serviços**
+- **Descrição**: Um serviço central (orquestrador) gerencia a coordenação e a comunicação entre os microsserviços.
+- **Aprendizados Importantes**:
+  1. **Coordenação Centralizada**: O orquestrador gerencia fluxos de trabalho complexos e a comunicação entre microsserviços.
+  2. **Simplificação de Lógica**: Simplifica a lógica de negócios nos microsserviços, delegando a coordenação ao orquestrador.
+  3. **Ponto Único de Falha**: Pode introduzir um ponto único de falha, exigindo alta disponibilidade do orquestrador.
+
+### 5. **Arquitetura de Coreografia de Serviços**
+- **Descrição**: Cada microsserviço é responsável por reagir a eventos e realizar ações subsequentes, sem um orquestrador central.
+- **Aprendizados Importantes**:
+  1. **Descentralização**: A coreografia descentraliza a coordenação, permitindo que os microsserviços reajam a eventos de forma independente.
+  2. **Flexibilidade**: Facilita a adição de novos microsserviços sem alterar a lógica central.
+  3. **Complexidade de Eventos**: Pode aumentar a complexidade de gerenciamento de eventos e a necessidade de garantir a consistência.
+
+### Conclusão
+Os 20% mais importantes aprendizados que cobrem 80% do necessário para entender a arquitetura de microsserviços são:
+
+1. **Desacoplamento e Independência**: Microsserviços devem ser independentes e desacoplados, permitindo desenvolvimento, implantação e escalabilidade independentes.
+2. **Comunicação**: A comunicação pode ser síncrona (via API Gateway) ou assíncrona (via filas de mensagens), cada uma com suas vantagens e desafios.
+3. **Gerenciamento de Dados**: Cada microsserviço deve ter seu próprio banco de dados, promovendo a independência, mas exigindo estratégias para consistência de dados.
+4. **Coordenação**: Pode ser centralizada (orquestração) ou descentralizada (coreografia), cada abordagem com suas próprias vantagens e desafios.
+5. **Segurança e Resiliência**: Implementar segurança, autenticação e resiliência é crucial para garantir a robustez e a
+

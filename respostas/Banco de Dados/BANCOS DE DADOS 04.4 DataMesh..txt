@@ -1,0 +1,46 @@
+BANCOS DE DADOS:: 04.4 DataMesh.
+ -
+Claro! O conceito de Data Mesh é uma abordagem moderna para a gestão de dados em grandes organizações, especialmente aquelas que lidam com grandes volumes de dados e precisam de uma maneira eficiente e escalável de gerenciá-los. Aqui estão os 20% mais importantes aprendizados sobre Data Mesh que ajudarão você a compreender os 80% necessários:
+
+1. **Descentralização dos Dados**: Data Mesh promove a descentralização da propriedade e gestão dos dados, distribuindo a responsabilidade para diferentes equipes de domínio dentro da organização.
+
+2. **Domínios de Dados**: Os dados são organizados em domínios, que são áreas específicas de negócios ou funções dentro da empresa. Cada domínio é responsável por seus próprios dados.
+
+3. **Autonomia dos Domínios**: Cada domínio tem autonomia para gerenciar, armazenar e processar seus dados, permitindo uma maior agilidade e flexibilidade.
+
+4. **Produtos de Dados**: Em vez de tratar dados como um subproduto das operações, Data Mesh trata dados como produtos, com equipes dedicadas a garantir sua qualidade, acessibilidade e utilidade.
+
+5. **Plataforma de Dados Autoatendente**: A infraestrutura de dados deve ser autoatendente, fornecendo ferramentas e serviços que permitem que os domínios gerenciem seus dados de forma independente.
+
+6. **Interoperabilidade**: Os dados de diferentes domínios devem ser interoperáveis, permitindo que sejam combinados e analisados de forma coesa.
+
+7. **Governança Federada**: A governança de dados é federada, com políticas e padrões estabelecidos centralmente, mas implementados localmente pelos domínios.
+
+8. **Escalabilidade**: Data Mesh é projetado para escalar horizontalmente, permitindo que a organização cresça sem que a gestão de dados se torne um gargalo.
+
+9. **Responsabilidade Compartilhada**: A responsabilidade pela qualidade e integridade dos dados é compartilhada entre as equipes de domínio e a equipe central de governança.
+
+10. **Cultura de Dados**: Promove uma cultura de dados dentro da organização, onde todos entendem a importância dos dados e estão comprometidos com sua qualidade e uso eficaz.
+
+11. **Automação**: A automação é crucial para a implementação eficaz de Data Mesh, reduzindo a carga manual e aumentando a eficiência.
+
+12. **Infraestrutura como Código**: Utiliza práticas de infraestrutura como código para gerenciar e provisionar recursos de dados de forma consistente e repetível.
+
+13. **Observabilidade**: Implementa ferramentas de observabilidade para monitorar a saúde e o desempenho dos pipelines de dados e produtos de dados.
+
+14. **Segurança e Privacidade**: Enfatiza a segurança e a privacidade dos dados, garantindo que os dados sejam protegidos contra acessos não autorizados e violações.
+
+15. **Ciclo de Vida dos Dados**: Gerencia o ciclo de vida completo dos dados, desde a criação e ingestão até o arquivamento e exclusão.
+
+16. **Feedback Contínuo**: Implementa mecanismos de feedback contínuo para melhorar continuamente a qualidade e a utilidade dos dados.
+
+17. **Integração Contínua e Entrega Contínua (CI/CD)**: Adota práticas de CI/CD para pipelines de dados, permitindo atualizações e melhorias rápidas e seguras.
+
+18. **Documentação e Metadados**: Mantém documentação e metadados abrangentes para facilitar a descoberta e o uso dos dados.
+
+19. **Colaboração entre Domínios**: Incentiva a colaboração entre diferentes domínios para resolver problemas comuns e compartilhar melhores práticas.
+
+20. **Evolução Contínua**: Data Mesh é uma abordagem evolutiva, que deve ser continuamente ajustada e melhorada à medida que a organização cresce e suas necessidades de dados mudam.
+
+Esses pontos fornecem uma visão geral dos princípios e práticas fundamentais do Data Mesh, ajudando você a entender como essa abordagem pode transformar a gestão de dados em sua organização.
+

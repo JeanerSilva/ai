@@ -1,0 +1,56 @@
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição gama
+ -
+Claro, a Distribuição Gama é um conceito fundamental em estatística e probabilidade, especialmente útil em diversas áreas como engenharia, economia e ciências naturais. Aqui estão os 20% mais importantes aprendizados sobre a Distribuição Gama que te ajudarão a compreender 80% do necessário:
+
+1. **Definição**: A Distribuição Gama é uma distribuição contínua de probabilidade que é parametrizada por dois parâmetros: a forma (k) e a escala (θ).
+
+2. **Função Densidade de Probabilidade (PDF)**: A função densidade de probabilidade da Distribuição Gama é dada por:
+   \[
+   f(x; k, \theta) = \frac{1}{\theta^k \Gamma(k)} x^{k-1} e^{-x/\theta}
+   \]
+   para \( x > 0 \), onde \( \Gamma(k) \) é a função gama.
+
+3. **Parâmetros**:
+   - **Forma (k)**: Também conhecido como parâmetro de forma ou ordem, determina a forma da distribuição.
+   - **Escala (θ)**: Também conhecido como parâmetro de escala, estica ou comprime a distribuição ao longo do eixo x.
+
+4. **Função Gama (Γ)**: A função gama é uma extensão da fatorial para números reais e complexos. Para um número inteiro \( n \), \( \Gamma(n) = (n-1)! \).
+
+5. **Propriedades**:
+   - **Média**: A média da Distribuição Gama é \( E[X] = k\theta \).
+   - **Variância**: A variância é \( Var(X) = k\theta^2 \).
+
+6. **Relação com outras distribuições**:
+   - A Distribuição Exponencial é um caso especial da Distribuição Gama quando \( k = 1 \).
+   - A Distribuição Qui-quadrado é um caso especial da Distribuição Gama com \( \theta = 2 \) e \( k = \frac{n}{2} \), onde \( n \) é o número de graus de liberdade.
+
+7. **Aplicações**: A Distribuição Gama é usada para modelar tempos de espera, como o tempo até que ocorra um certo número de eventos em um processo de Poisson.
+
+8. **Cumulativa (CDF)**: A função de distribuição acumulada (CDF) da Distribuição Gama não tem uma forma fechada simples, mas pode ser expressa em termos da função gama incompleta.
+
+9. **Simulação**: A Distribuição Gama pode ser simulada usando métodos numéricos, como a transformação inversa ou algoritmos específicos como o método de Marsaglia e Tsang.
+
+10. **Propriedade de Fechamento**: A soma de variáveis aleatórias independentes com Distribuição Gama com o mesmo parâmetro de escala \( \theta \) também segue uma Distribuição Gama.
+
+11. **Momentos**: Os momentos da Distribuição Gama podem ser calculados usando a função gama. O n-ésimo momento é dado por \( E[X^n] = \theta^n \frac{\Gamma(k+n)}{\Gamma(k)} \).
+
+12. **Função Característica**: A função característica da Distribuição Gama é \( \phi(t) = (1 - i\theta t)^{-k} \).
+
+13. **Entropia**: A entropia da Distribuição Gama é dada por:
+    \[
+    H(X) = k + \ln(\theta \Gamma(k)) + (1 - k)\psi(k)
+    \]
+    onde \( \psi \) é a função digama.
+
+14. **Estimativa de Parâmetros**: Os parâmetros da Distribuição Gama podem ser estimados a partir de dados usando métodos como a máxima verossimilhança.
+
+15. **Generalização**: A Distribuição Gama pode ser generalizada para a Distribuição Gama Generalizada, que inclui um terceiro parâmetro de localização.
+
+16. **Transformações**: Se \( X \) tem uma Distribuição Gama com parâmetros \( k \) e \( \theta \), então \( aX + b \) tem uma Distribuição Gama com parâmetros ajustados.
+
+17. **Função de Hazard**: A função de hazard da Distribuição Gama é \( h(x) = \frac{f(x)}{1 - F(x)} \), onde \( f(x) \) é a PDF e \( F(x) \) é a CDF.
+
+18. **Momentos Centrados**: Os momentos centrados podem ser usados para calcular medidas de assimetria e curtose da distribuição.
+
+19. **Distribuição Conjugada**: Na inferência bayesiana, a Distribuição Gama é a distribuição conjugada para a taxa de uma Distribuição Poisson
+

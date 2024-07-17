@@ -1,0 +1,54 @@
+INFRAESTRUTURA EM TI:: 04.3 Prometheus
+ -
+Claro! Prometheus é uma ferramenta de monitoramento e alerta de código aberto desenvolvida inicialmente pela SoundCloud. É especialmente popular em ambientes de contêineres e microserviços devido à sua capacidade de coletar e consultar métricas de forma eficiente. Aqui estão os 20% mais importantes aprendizados sobre Prometheus que ajudarão você a compreender os 80% necessários:
+
+1. **Arquitetura de Prometheus**:
+   - **Servidor Prometheus**: Coleta e armazena métricas.
+   - **Exporters**: Componentes que expõem métricas de sistemas ou serviços.
+   - **Alertmanager**: Gerencia alertas gerados pelo Prometheus.
+   - **Pushgateway**: Permite que métricas sejam empurradas para o Prometheus.
+
+2. **Modelo de Dados**:
+   - **Métricas**: Dados coletados, geralmente em formato de séries temporais.
+   - **Séries Temporais**: Conjunto de pares de valor e carimbo de tempo.
+   - **Labels**: Etiquetas que identificam séries temporais e permitem consultas flexíveis.
+
+3. **Linguagem de Consulta (PromQL)**:
+   - **Seleção de Séries Temporais**: Filtragem de métricas usando labels.
+   - **Funções Agregadas**: Como `sum()`, `avg()`, `max()`, etc.
+   - **Operações Matemáticas**: Permite cálculos complexos sobre métricas.
+
+4. **Exporters Comuns**:
+   - **Node Exporter**: Coleta métricas de sistemas operacionais.
+   - **cAdvisor**: Coleta métricas de contêineres.
+   - **Blackbox Exporter**: Realiza verificações de endpoints HTTP, DNS, TCP, etc.
+
+5. **Configuração de Scraping**:
+   - **Targets**: Endpoints de onde o Prometheus coleta métricas.
+   - **Job**: Conjunto de targets com configuração de scraping comum.
+   - **Service Discovery**: Integração com Kubernetes, Consul, etc., para descobrir automaticamente targets.
+
+6. **Alertas e Alertmanager**:
+   - **Regra de Alerta**: Definição de condições para disparar alertas.
+   - **Roteamento de Alertas**: Direcionamento de alertas para diferentes canais (e-mail, Slack, etc.).
+   - **Silenciamento**: Supressão temporária de alertas.
+
+7. **Armazenamento e Retenção de Dados**:
+   - **TSDB (Time Series Database)**: Banco de dados interno do Prometheus.
+   - **Retention Policies**: Configuração de quanto tempo as métricas são mantidas.
+
+8. **Escalabilidade e Desempenho**:
+   - **Sharding**: Divisão de carga entre múltiplos servidores Prometheus.
+   - **Federation**: Agregação de métricas de múltiplos servidores Prometheus.
+
+9. **Integração com Grafana**:
+   - **Dashboards**: Visualização de métricas coletadas pelo Prometheus.
+   - **Painéis Personalizados**: Criação de visualizações específicas para suas necessidades.
+
+10. **Boas Práticas**:
+    - **Nomeação de Métricas**: Uso de convenções de nomenclatura claras e consistentes.
+    - **Uso de Labels**: Evitar labels com alta cardinalidade para melhorar o desempenho.
+    - **Monitoramento de Prometheus**: Coletar métricas do próprio Prometheus para garantir que ele está funcionando corretamente.
+
+Esses pontos cobrem os aspectos mais críticos do Prometheus e fornecerão uma base sólida para você começar a trabalhar com essa poderosa ferramenta de monitoramento.
+

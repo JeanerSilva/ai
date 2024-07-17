@@ -1,0 +1,60 @@
+CIÊNCIA DE DADOS:: 04 Big data. 
+ -
+Claro! O conceito de Big Data é vasto e multifacetado, mas seguindo o princípio de Pareto (80/20), podemos focar nos aspectos mais críticos que fornecerão uma compreensão sólida do tema. Aqui estão os 20% mais importantes aprendizados sobre Big Data que ajudarão você a compreender 80% do necessário:
+
+### 1. **Definição de Big Data**
+   - **Volume**: Quantidade massiva de dados gerados a cada segundo.
+   - **Variedade**: Diversidade de tipos de dados (estruturados, semiestruturados e não estruturados).
+   - **Velocidade**: Rapidez com que novos dados são gerados e processados.
+   - **Veracidade**: Qualidade e confiabilidade dos dados.
+   - **Valor**: Potencial de extrair valor significativo dos dados.
+
+### 2. **Fontes de Big Data**
+   - **Redes Sociais**: Facebook, Twitter, Instagram.
+   - **Sensores IoT**: Dispositivos conectados que coletam dados em tempo real.
+   - **Transações Comerciais**: Dados de vendas, compras e transações financeiras.
+   - **Logs de Servidores**: Registros de atividades em servidores e sistemas.
+
+### 3. **Armazenamento de Dados**
+   - **Data Lakes**: Repositórios que armazenam dados em seu formato bruto.
+   - **Data Warehouses**: Armazenamento estruturado e otimizado para consultas rápidas.
+   - **Hadoop**: Framework de código aberto para armazenamento e processamento distribuído de grandes conjuntos de dados.
+
+### 4. **Processamento de Dados**
+   - **MapReduce**: Modelo de programação para processamento paralelo de grandes volumes de dados.
+   - **Spark**: Ferramenta de processamento de dados em tempo real que é mais rápida que o Hadoop.
+   - **Stream Processing**: Processamento de dados em tempo real, como Apache Kafka.
+
+### 5. **Análise de Dados**
+   - **Análise Descritiva**: O que aconteceu?
+   - **Análise Diagnóstica**: Por que aconteceu?
+   - **Análise Preditiva**: O que provavelmente acontecerá?
+   - **Análise Prescritiva**: O que deve ser feito?
+
+### 6. **Ferramentas e Tecnologias**
+   - **SQL/NoSQL**: Bancos de dados relacionais e não relacionais.
+   - **Python/R**: Linguagens de programação populares para análise de dados.
+   - **Tableau/Power BI**: Ferramentas de visualização de dados.
+
+### 7. **Governança de Dados**
+   - **Qualidade de Dados**: Garantir a precisão, completude e consistência dos dados.
+   - **Segurança de Dados**: Proteção contra acessos não autorizados e violações.
+   - **Compliance**: Conformidade com regulamentações como GDPR e LGPD.
+
+### 8. **Machine Learning e IA**
+   - **Modelos Preditivos**: Algoritmos que aprendem com dados históricos para prever resultados futuros.
+   - **Deep Learning**: Redes neurais profundas para análise complexa de dados.
+
+### 9. **Casos de Uso**
+   - **Marketing Personalizado**: Segmentação e personalização de campanhas.
+   - **Detecção de Fraudes**: Identificação de atividades suspeitas em tempo real.
+   - **Manutenção Preditiva**: Previsão de falhas em equipamentos antes que ocorram.
+
+### 10. **Desafios e Considerações**
+   - **Escalabilidade**: Capacidade de crescer e lidar com volumes crescentes de dados.
+   - **Interoperabilidade**: Integração de diferentes sistemas e fontes de dados.
+   - **Privacidade**: Proteção dos dados pessoais e sensíveis.
+
+### Conclusão
+Compreender esses aspectos fundamentais de Big Data fornecerá uma base sólida para explorar mais profundamente o campo. Esses tópicos cobrem desde a definição e fontes de dados até as tecnologias e desafios envolvidos, proporcionando uma visão abrangente e prática do que é necessário para trabalhar com Big Data de maneira eficaz.
+

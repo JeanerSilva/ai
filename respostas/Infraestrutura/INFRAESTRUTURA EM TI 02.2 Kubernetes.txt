@@ -1,0 +1,68 @@
+INFRAESTRUTURA EM TI:: 02.2 Kubernetes
+ -
+Claro! Kubernetes é uma plataforma de orquestração de contêineres que automatiza a implantação, o dimensionamento e a operação de aplicativos em contêineres. Para entender os conceitos mais importantes de Kubernetes, que representam os 20% de conhecimento necessários para compreender 80% do funcionamento da plataforma, aqui estão os principais pontos:
+
+1. **Conceito de Contêineres**:
+   - **Docker**: Entenda o que são contêineres e como o Docker é usado para criar, gerenciar e executar contêineres.
+
+2. **Arquitetura do Kubernetes**:
+   - **Master Node**: Compreenda os componentes principais do nó mestre, incluindo API Server, Scheduler, Controller Manager e etcd.
+   - **Worker Nodes**: Conheça os componentes dos nós de trabalho, como Kubelet, Kube-proxy e o runtime de contêiner.
+
+3. **Pods**:
+   - **Unidade Básica de Execução**: Saiba que um Pod é a menor unidade de implantação em Kubernetes e pode conter um ou mais contêineres.
+
+4. **Deployments**:
+   - **Gerenciamento de Aplicações**: Entenda como os Deployments são usados para gerenciar a criação e a atualização de Pods.
+
+5. **Services**:
+   - **Exposição de Aplicações**: Aprenda sobre os Services, que fornecem uma maneira de expor um conjunto de Pods como um serviço de rede.
+
+6. **ConfigMaps e Secrets**:
+   - **Gerenciamento de Configurações**: Saiba como usar ConfigMaps para gerenciar dados de configuração e Secrets para armazenar informações sensíveis.
+
+7. **Namespaces**:
+   - **Isolamento de Recursos**: Compreenda como os Namespaces são usados para dividir um cluster em ambientes virtuais separados.
+
+8. **Volumes**:
+   - **Persistência de Dados**: Entenda os diferentes tipos de Volumes e como eles são usados para persistir dados além do ciclo de vida dos Pods.
+
+9. **Ingress**:
+   - **Gerenciamento de Tráfego**: Aprenda sobre Ingress, que gerencia o acesso externo aos serviços no cluster, geralmente HTTP.
+
+10. **Configuração e Escalabilidade**:
+    - **Horizontal Pod Autoscaler**: Saiba como configurar a escalabilidade automática de Pods com base na utilização de recursos.
+    - **ReplicaSets**: Entenda como os ReplicaSets garantem que um número especificado de réplicas de Pods esteja em execução.
+
+11. **Kubectl**:
+    - **Ferramenta de Linha de Comando**: Familiarize-se com o `kubectl`, a ferramenta de linha de comando para interagir com o cluster Kubernetes.
+
+12. **YAML Manifests**:
+    - **Arquivos de Configuração**: Aprenda a escrever e entender arquivos YAML que descrevem os recursos do Kubernetes.
+
+13. **RBAC (Role-Based Access Control)**:
+    - **Controle de Acesso**: Compreenda como o RBAC é usado para gerenciar permissões e acesso dentro do cluster.
+
+14. **Helm**:
+    - **Gerenciamento de Pacotes**: Conheça o Helm, uma ferramenta para gerenciar pacotes de Kubernetes chamados charts.
+
+15. **Monitoramento e Logging**:
+    - **Ferramentas de Observabilidade**: Saiba sobre ferramentas como Prometheus para monitoramento e ELK Stack para logging.
+
+16. **Networking**:
+    - **Modelo de Rede**: Entenda o modelo de rede do Kubernetes e como os Pods se comunicam entre si e com o mundo externo.
+
+17. **StatefulSets**:
+    - **Aplicações com Estado**: Aprenda sobre StatefulSets, que são usados para gerenciar aplicativos com estado.
+
+18. **DaemonSets**:
+    - **Execução em Todos os Nós**: Compreenda como os DaemonSets garantem que um Pod específico seja executado em todos (ou alguns) nós.
+
+19. **Jobs e CronJobs**:
+    - **Tarefas Temporárias e Recorrentes**: Saiba como usar Jobs para tarefas temporárias e CronJobs para tarefas recorrentes.
+
+20. **Segurança**:
+    - **Práticas de Segurança**: Familiarize-se com as melhores práticas de segurança, incluindo políticas de rede, escaneamento de imagens e gerenciamento de certificados.
+
+Esses conceitos formam a base essencial para entender e trabalhar com Kubernetes de maneira eficaz. Ao dominar esses tópicos, você estará bem equipado para lidar com a maioria das tarefas e desafios que surgem ao usar Kubernetes.
+

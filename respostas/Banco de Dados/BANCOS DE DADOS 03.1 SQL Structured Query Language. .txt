@@ -1,0 +1,93 @@
+BANCOS DE DADOS:: 03.1 SQL Structured Query Language. 
+ -
+Claro! A Lei de Pareto, ou o princípio 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado de SQL (Structured Query Language), aqui estão os conceitos e comandos mais importantes que você deve focar para obter uma compreensão sólida e prática da linguagem:
+
+### 1. **SELECT Statement**
+   - **Uso:** Recuperar dados de uma ou mais tabelas.
+   - **Exemplo:** `SELECT column1, column2 FROM table_name;`
+
+### 2. **WHERE Clause**
+   - **Uso:** Filtrar registros com base em condições específicas.
+   - **Exemplo:** `SELECT * FROM table_name WHERE condition;`
+
+### 3. **JOINs**
+   - **Uso:** Combinar registros de duas ou mais tabelas.
+   - **Tipos:** INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN.
+   - **Exemplo:** `SELECT * FROM table1 INNER JOIN table2 ON table1.id = table2.id;`
+
+### 4. **INSERT INTO Statement**
+   - **Uso:** Inserir novos registros em uma tabela.
+   - **Exemplo:** `INSERT INTO table_name (column1, column2) VALUES (value1, value2);`
+
+### 5. **UPDATE Statement**
+   - **Uso:** Atualizar registros existentes em uma tabela.
+   - **Exemplo:** `UPDATE table_name SET column1 = value1 WHERE condition;`
+
+### 6. **DELETE Statement**
+   - **Uso:** Excluir registros de uma tabela.
+   - **Exemplo:** `DELETE FROM table_name WHERE condition;`
+
+### 7. **Aggregate Functions**
+   - **Uso:** Realizar cálculos em um conjunto de valores e retornar um único valor.
+   - **Funções:** COUNT, SUM, AVG, MAX, MIN.
+   - **Exemplo:** `SELECT COUNT(*) FROM table_name;`
+
+### 8. **GROUP BY Clause**
+   - **Uso:** Agrupar registros que têm valores em comum.
+   - **Exemplo:** `SELECT column1, COUNT(*) FROM table_name GROUP BY column1;`
+
+### 9. **HAVING Clause**
+   - **Uso:** Filtrar grupos de registros.
+   - **Exemplo:** `SELECT column1, COUNT(*) FROM table_name GROUP BY column1 HAVING COUNT(*) > 1;`
+
+### 10. **ORDER BY Clause**
+   - **Uso:** Ordenar os resultados de uma consulta.
+   - **Exemplo:** `SELECT * FROM table_name ORDER BY column1 ASC/DESC;`
+
+### 11. **LIMIT Clause**
+   - **Uso:** Restringir o número de registros retornados.
+   - **Exemplo:** `SELECT * FROM table_name LIMIT 10;`
+
+### 12. **Subqueries**
+   - **Uso:** Incluir uma consulta dentro de outra consulta.
+   - **Exemplo:** `SELECT * FROM table_name WHERE column1 = (SELECT column1 FROM table_name2 WHERE condition);`
+
+### 13. **Aliases**
+   - **Uso:** Dar nomes temporários a tabelas ou colunas.
+   - **Exemplo:** `SELECT column1 AS alias_name FROM table_name;`
+
+### 14. **Data Types**
+   - **Uso:** Definir o tipo de dados que uma coluna pode armazenar.
+   - **Exemplos:** INT, VARCHAR, DATE, BOOLEAN.
+
+### 15. **Primary Key**
+   - **Uso:** Identificar unicamente cada registro em uma tabela.
+   - **Exemplo:** `CREATE TABLE table_name (id INT PRIMARY KEY, column1 VARCHAR(255));`
+
+### 16. **Foreign Key**
+   - **Uso:** Estabelecer um relacionamento entre duas tabelas.
+   - **Exemplo:** `CREATE TABLE table_name (id INT, column1 INT, FOREIGN KEY (column1) REFERENCES other_table(id));`
+
+### 17. **Indexes**
+   - **Uso:** Melhorar a velocidade das operações de consulta.
+   - **Exemplo:** `CREATE INDEX index_name ON table_name (column1);`
+
+### 18. **Constraints**
+   - **Uso:** Aplicar regras aos dados em uma tabela.
+   - **Tipos:** NOT NULL, UNIQUE, CHECK, DEFAULT.
+   - **Exemplo:** `ALTER TABLE table_name ADD CONSTRAINT constraint_name UNIQUE (column1);`
+
+### 19. **Transactions**
+   - **Uso:** Executar um conjunto de operações como uma única unidade de trabalho.
+   - **Comandos:** BEGIN TRANSACTION, COMMIT, ROLLBACK.
+   - **Exemplo:** 
+     ```sql
+     BEGIN TRANSACTION;
+     UPDATE table_name SET column1 = value1 WHERE condition;
+     COMMIT;
+     ```
+
+### 20. **Views**
+   - **Uso:** Criar tabelas virtuais baseadas no resultado de uma consulta.
+   - **Exemplo:** `CREATE VIEW view_name AS SELECT column
+

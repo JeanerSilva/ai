@@ -1,0 +1,44 @@
+INFRAESTRUTURA EM TI:: 03.2 DHCP em Rede Microsoft Windows Server
+ -
+Claro! O DHCP (Dynamic Host Configuration Protocol) é um protocolo de rede que permite que dispositivos em uma rede obtenham automaticamente endereços IP e outras configurações de rede. No contexto de um ambiente Microsoft Windows Server, aqui estão os 20% mais importantes aprendizados que ajudarão você a compreender os 80% necessários sobre DHCP:
+
+1. **Conceito de DHCP**:
+   - **Definição**: DHCP é um protocolo que automatiza a atribuição de endereços IP, máscaras de sub-rede, gateways e outros parâmetros de rede.
+   - **Função Principal**: Facilitar a administração de redes, eliminando a necessidade de configuração manual de endereços IP.
+
+2. **Componentes do DHCP**:
+   - **Servidor DHCP**: O servidor que distribui e gerencia endereços IP e outras configurações de rede.
+   - **Cliente DHCP**: O dispositivo que solicita um endereço IP do servidor DHCP.
+   - **Escopo**: Um conjunto de endereços IP que o servidor DHCP pode distribuir.
+   - **Lease**: O período de tempo pelo qual um endereço IP é atribuído a um cliente.
+
+3. **Instalação do Servidor DHCP no Windows Server**:
+   - **Pré-requisitos**: Certifique-se de que o servidor tem um endereço IP estático.
+   - **Instalação**: Use o Gerenciador de Servidores para adicionar a função de Servidor DHCP.
+   - **Configuração Inicial**: Após a instalação, configure os escopos e outras opções de DHCP.
+
+4. **Configuração de Escopos**:
+   - **Definição de Escopo**: Um escopo define um intervalo de endereços IP que o servidor DHCP pode distribuir.
+   - **Parâmetros do Escopo**: Incluem o intervalo de endereços IP, máscara de sub-rede, gateway padrão, e duração do lease.
+   - **Exclusões e Reservas**: Configure endereços IP que não devem ser distribuídos (exclusões) e endereços IP que devem ser sempre atribuídos a dispositivos específicos (reservas).
+
+5. **Opções de DHCP**:
+   - **Opções Comuns**: Incluem o gateway padrão (opção 003), servidores DNS (opção 006), e nome de domínio (opção 015).
+   - **Configuração de Opções**: Pode ser feita a nível de escopo ou globalmente para todos os escopos.
+
+6. **Monitoramento e Manutenção**:
+   - **Monitoramento de Leases**: Verifique quais endereços IP foram atribuídos e a quais dispositivos.
+   - **Renovação de Leases**: Clientes DHCP tentam renovar seus leases quando metade do tempo de lease expira.
+   - **Liberação e Renovação Manual**: Pode ser feita usando comandos como `ipconfig /release` e `ipconfig /renew` no cliente.
+
+7. **Segurança e Resiliência**:
+   - **Autorização do Servidor DHCP**: Em um ambiente Active Directory, servidores DHCP devem ser autorizados para evitar servidores DHCP não autorizados.
+   - **Failover e Alta Disponibilidade**: Configure failover para garantir que o serviço DHCP continue funcionando em caso de falha do servidor principal.
+
+8. **Troubleshooting Comum**:
+   - **Problemas de Conectividade**: Verifique se o servidor DHCP está ativo e autorizado.
+   - **Conflitos de IP**: Certifique-se de que não há sobreposição de escopos e que as exclusões estão configuradas corretamente.
+   - **Logs e Eventos**: Utilize os logs do DHCP e o Visualizador de Eventos para diagnosticar problemas.
+
+Compreender esses pontos-chave fornecerá uma base sólida para gerenciar e solucionar problemas de DHCP em um ambiente Microsoft Windows Server.
+

@@ -1,0 +1,44 @@
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2 Noções de estatística. 
+ -
+Claro! A aplicação do Princípio de Pareto (ou regra 80/20) na aprendizagem de estatística pode ser muito útil para focar nos conceitos mais impactantes. Aqui estão duas noções fundamentais de estatística que representam os 20% mais importantes e que te ajudarão a compreender 80% do necessário:
+
+### 1. **Medidas de Tendência Central**
+Essas medidas são essenciais para resumir um conjunto de dados com um único valor que representa o "centro" dos dados.
+
+- **Média (ou Média Aritmética)**: É a soma de todos os valores dividida pelo número de valores. É útil para entender o valor médio de um conjunto de dados.
+  
+  \[
+  \text{Média} = \frac{\sum_{i=1}^{n} x_i}{n}
+  \]
+
+- **Mediana**: É o valor que separa a metade superior da metade inferior dos dados. É especialmente útil quando os dados têm outliers ou são assimétricos.
+  
+  - Para um número ímpar de observações: a mediana é o valor do meio.
+  - Para um número par de observações: a mediana é a média dos dois valores do meio.
+
+- **Moda**: É o valor que aparece com mais frequência em um conjunto de dados. Pode ser útil para dados categóricos ou para entender a frequência de ocorrência de valores específicos.
+
+### 2. **Medidas de Dispersão**
+Essas medidas indicam o quanto os dados variam em torno da média ou de outra medida de tendência central.
+
+- **Variância**: Mede a dispersão dos dados em relação à média. É a média dos quadrados das diferenças entre cada valor e a média.
+  
+  \[
+  \text{Variância} (\sigma^2) = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n}
+  \]
+
+- **Desvio Padrão**: É a raiz quadrada da variância e fornece uma medida da dispersão dos dados na mesma unidade dos dados originais.
+  
+  \[
+  \text{Desvio Padrão} (\sigma) = \sqrt{\text{Variância}}
+  \]
+
+- **Amplitude (ou Range)**: É a diferença entre o valor máximo e o valor mínimo do conjunto de dados. É uma medida simples de dispersão, mas pode ser influenciada por outliers.
+  
+  \[
+  \text{Amplitude} = \text{Valor Máximo} - \text{Valor Mínimo}
+  \]
+
+### Conclusão
+Focando nessas duas noções principais — Medidas de Tendência Central e Medidas de Dispersão — você estará cobrindo os conceitos mais importantes que te ajudarão a entender a maior parte da estatística básica. Esses conceitos são fundamentais para a análise de dados e são amplamente aplicáveis em diversas áreas, desde ciências sociais até engenharia e negócios.
+

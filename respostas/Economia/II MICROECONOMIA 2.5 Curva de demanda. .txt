@@ -1,0 +1,48 @@
+II MICROECONOMIA:: 2.5 Curva de demanda. 
+ -
+Claro, a Curva de Demanda é um conceito fundamental em economia que descreve a relação entre o preço de um bem e a quantidade demandada desse bem pelos consumidores. Para entender os 20% mais importantes que te ajudarão a compreender 80% do conceito, vamos focar nos pontos essenciais:
+
+1. **Definição de Curva de Demanda**:
+   - A curva de demanda é um gráfico que mostra a quantidade de um bem que os consumidores estão dispostos a comprar a diferentes preços, mantendo outros fatores constantes (ceteris paribus).
+
+2. **Lei da Demanda**:
+   - A lei da demanda afirma que, ceteris paribus, quando o preço de um bem aumenta, a quantidade demandada desse bem diminui, e vice-versa. Isso cria uma curva de demanda com inclinação negativa.
+
+3. **Determinantes da Demanda**:
+   - **Preço do Bem**: Principal fator que afeta a quantidade demandada.
+   - **Renda dos Consumidores**: Aumento na renda geralmente aumenta a demanda por bens normais e diminui a demanda por bens inferiores.
+   - **Preços de Bens Relacionados**: Substitutos (aumento no preço de um bem aumenta a demanda pelo outro) e complementares (aumento no preço de um bem diminui a demanda pelo outro).
+   - **Preferências e Gostos**: Mudanças nas preferências podem aumentar ou diminuir a demanda.
+   - **Expectativas Futuras**: Expectativas sobre preços futuros ou renda podem influenciar a demanda atual.
+   - **Número de Consumidores**: Mais consumidores geralmente aumentam a demanda.
+
+4. **Movimento ao Longo da Curva vs. Deslocamento da Curva**:
+   - **Movimento ao Longo da Curva**: Mudanças na quantidade demandada devido a mudanças no preço do próprio bem.
+   - **Deslocamento da Curva**: Mudanças na demanda devido a fatores não relacionados ao preço do próprio bem (renda, preferências, preços de bens relacionados, etc.).
+
+5. **Elasticidade-Preço da Demanda**:
+   - Medida de como a quantidade demandada de um bem responde a mudanças no preço desse bem.
+   - **Demanda Elástica**: Grande mudança na quantidade demandada com uma pequena mudança no preço.
+   - **Demanda Inelástica**: Pequena mudança na quantidade demandada com uma grande mudança no preço.
+   - **Fatores que Afetam a Elasticidade**: Disponibilidade de substitutos, necessidade do bem, proporção da renda gasta no bem, tempo para ajuste.
+
+6. **Curva de Demanda de Mercado**:
+   - A soma horizontal das curvas de demanda individuais de todos os consumidores no mercado.
+
+7. **Exceções à Lei da Demanda**:
+   - **Bens de Giffen**: Bens inferiores onde um aumento no preço pode levar a um aumento na quantidade demandada devido ao efeito renda superar o efeito substituição.
+   - **Bens de Veblen**: Bens de luxo onde um aumento no preço pode aumentar a demanda devido ao prestígio associado ao preço mais alto.
+
+8. **Interpretação Gráfica**:
+   - A curva de demanda é geralmente representada em um gráfico com o preço no eixo vertical (Y) e a quantidade demandada no eixo horizontal (X).
+
+9. **Função de Demanda**:
+   - Representação matemática da relação entre a quantidade demandada e os fatores que a influenciam, geralmente expressa como Qd = f(P, Y, Ps, Pc, T, E, N).
+
+10. **Importância da Curva de Demanda**:
+    - Fundamental para a determinação do preço de equilíbrio no mercado.
+    - Ajuda empresas a tomar decisões sobre preços e produção.
+    - Crucial para a análise de políticas econômicas e impactos de impostos/subsídios.
+
+Compreender esses pontos te dará uma base sólida para entender a maioria dos conceitos relacionados à Curva de Demanda.
+

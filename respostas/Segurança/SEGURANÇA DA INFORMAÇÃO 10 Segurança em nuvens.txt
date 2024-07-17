@@ -1,0 +1,47 @@
+SEGURANÇA DA INFORMAÇÃO:: 10 Segurança em nuvens
+ -
+Claro! A segurança em nuvem é um campo vasto e essencial para proteger dados e aplicações que são hospedados em ambientes de nuvem. Aqui estão os 20% mais importantes aprendizados que cobrem aproximadamente 80% do que você precisa saber sobre segurança em nuvem:
+
+### 1. **Controle de Acesso e Identidade (IAM)**
+   - **Importância:** Gerenciar quem tem acesso a quê é fundamental para proteger recursos na nuvem.
+   - **Prática:** Utilize políticas de menor privilégio, autenticação multifator (MFA) e monitoramento contínuo de acessos.
+
+### 2. **Criptografia**
+   - **Importância:** Protege dados em trânsito e em repouso contra acessos não autorizados.
+   - **Prática:** Use criptografia forte (como AES-256) e certifique-se de que as chaves de criptografia são gerenciadas de forma segura.
+
+### 3. **Conformidade e Regulamentação**
+   - **Importância:** Garantir que suas operações na nuvem estejam em conformidade com leis e regulamentos aplicáveis.
+   - **Prática:** Familiarize-se com normas como GDPR, HIPAA, e PCI-DSS e utilize ferramentas de conformidade oferecidas pelos provedores de nuvem.
+
+### 4. **Monitoramento e Logging**
+   - **Importância:** Detectar e responder a incidentes de segurança rapidamente.
+   - **Prática:** Implemente soluções de monitoramento contínuo e logging detalhado, como AWS CloudTrail ou Azure Monitor.
+
+### 5. **Segurança de Rede**
+   - **Importância:** Proteger a comunicação entre recursos na nuvem e com o mundo exterior.
+   - **Prática:** Utilize firewalls, redes privadas virtuais (VPNs) e segmentação de rede para isolar e proteger recursos.
+
+### 6. **Backup e Recuperação de Desastres**
+   - **Importância:** Garantir a continuidade dos negócios em caso de falhas ou ataques.
+   - **Prática:** Implemente estratégias de backup regulares e planos de recuperação de desastres testados.
+
+### 7. **Gerenciamento de Vulnerabilidades**
+   - **Importância:** Identificar e corrigir vulnerabilidades antes que possam ser exploradas.
+   - **Prática:** Realize varreduras de vulnerabilidade regulares e aplique patches e atualizações de segurança prontamente.
+
+### 8. **Segurança de Aplicações**
+   - **Importância:** Proteger aplicações contra ameaças como injeção de SQL, XSS, e outras vulnerabilidades.
+   - **Prática:** Adote práticas de desenvolvimento seguro, como revisão de código e testes de penetração.
+
+### 9. **Segurança de Contêineres e Orquestração**
+   - **Importância:** Proteger ambientes de contêineres e suas orquestrações, como Kubernetes.
+   - **Prática:** Utilize ferramentas de segurança específicas para contêineres e políticas de segurança rigorosas.
+
+### 10. **Educação e Treinamento**
+   - **Importância:** Garantir que todos os membros da equipe estejam cientes das melhores práticas de segurança.
+   - **Prática:** Realize treinamentos regulares e mantenha-se atualizado com as últimas ameaças e técnicas de mitigação.
+
+### Conclusão
+Focar nesses 10 pontos principais fornecerá uma base sólida para entender e implementar segurança em nuvem. Cada um desses tópicos cobre áreas críticas que, quando bem gerenciadas, podem proteger a maioria dos ambientes de nuvem contra ameaças comuns.
+

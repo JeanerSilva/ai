@@ -1,0 +1,43 @@
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1.3 Lógica sentencial (ou proposicional). 
+ -
+Claro! A lógica sentencial, também conhecida como lógica proposicional, é uma área fundamental da lógica matemática que se concentra no estudo das proposições e suas combinações através de conectivos lógicos. Para compreender 80% do assunto, aqui estão os 20% mais importantes dos aprendizados:
+
+1. **Proposições**:
+   - **Definição**: Proposições são declarações que podem ser verdadeiras ou falsas, mas não ambas. Exemplos: "A Terra é redonda" (verdadeira), "2 + 2 = 5" (falsa).
+
+2. **Conectivos Lógicos**:
+   - **Negação (¬)**: Inverte o valor de verdade de uma proposição. Se \( p \) é verdadeira, então \( \neg p \) é falsa.
+   - **Conjunção (∧)**: \( p ∧ q \) é verdadeira se e somente se ambas \( p \) e \( q \) são verdadeiras.
+   - **Disjunção (∨)**: \( p ∨ q \) é verdadeira se pelo menos uma das proposições \( p \) ou \( q \) é verdadeira.
+   - **Implicação (→)**: \( p → q \) é falsa somente se \( p \) é verdadeira e \( q \) é falsa.
+   - **Bicondicional (↔)**: \( p ↔ q \) é verdadeira se \( p \) e \( q \) têm o mesmo valor de verdade.
+
+3. **Tabelas-Verdade**:
+   - **Construção**: Ferramenta para determinar o valor de verdade de proposições compostas. Cada linha da tabela representa uma combinação possível dos valores de verdade das proposições simples.
+   - **Exemplo**: Para \( p ∧ q \), a tabela-verdade mostra todas as combinações possíveis de \( p \) e \( q \) e o resultado de \( p ∧ q \).
+
+4. **Tautologias, Contradições e Contingências**:
+   - **Tautologia**: Uma proposição que é verdadeira em todas as possíveis interpretações (ex.: \( p ∨ ¬p \)).
+   - **Contradição**: Uma proposição que é falsa em todas as possíveis interpretações (ex.: \( p ∧ ¬p \)).
+   - **Contingência**: Uma proposição que é verdadeira em algumas interpretações e falsa em outras.
+
+5. **Equivalência Lógica**:
+   - **Definição**: Duas proposições são logicamente equivalentes se têm o mesmo valor de verdade em todas as interpretações possíveis.
+   - **Exemplo**: \( p → q \) é logicamente equivalente a \( ¬p ∨ q \).
+
+6. **Regras de Inferência**:
+   - **Modus Ponens**: Se \( p → q \) e \( p \) são verdadeiros, então \( q \) é verdadeiro.
+   - **Modus Tollens**: Se \( p → q \) e \( ¬q \) são verdadeiros, então \( ¬p \) é verdadeiro.
+   - **Silogismo Hipotético**: Se \( p → q \) e \( q → r \) são verdadeiros, então \( p → r \) é verdadeiro.
+   - **Disjunção Silogística**: Se \( p ∨ q \) e \( ¬p \) são verdadeiros, então \( q \) é verdadeiro.
+
+7. **Formalização e Provas**:
+   - **Formalização**: Processo de traduzir argumentos em linguagem natural para a linguagem formal da lógica proposicional.
+   - **Provas**: Uso de regras de inferência para derivar conclusões a partir de premissas.
+
+8. **Satisfatibilidade e Validade**:
+   - **Satisfatibilidade**: Uma proposição é satisfatível se existe pelo menos uma interpretação em que ela é verdadeira.
+   - **Validade**: Uma proposição é válida se é verdadeira em todas as interpretações possíveis.
+
+Esses conceitos formam a base da lógica proposicional e são essenciais para entender a maioria dos problemas e técnicas nesta área. Compreender esses 20% permitirá que você aplique a lógica proposicional em uma variedade de contextos e problemas.
+

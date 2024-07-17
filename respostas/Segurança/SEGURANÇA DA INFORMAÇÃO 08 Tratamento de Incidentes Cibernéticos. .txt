@@ -1,0 +1,38 @@
+SEGURANÇA DA INFORMAÇÃO:: 08 Tratamento de Incidentes Cibernéticos. 
+ -
+Claro, o princípio de Pareto, ou a regra 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao tratamento de incidentes cibernéticos, aqui estão os pontos mais críticos que você deve focar para obter uma compreensão abrangente do assunto:
+
+1. **Identificação e Detecção de Incidentes**:
+   - **Monitoramento Contínuo**: Implementar sistemas de monitoramento contínuo para detectar atividades anômalas e potenciais incidentes.
+   - **Ferramentas de Detecção**: Utilizar ferramentas como IDS (Intrusion Detection Systems) e SIEM (Security Information and Event Management) para identificar ameaças.
+
+2. **Resposta Imediata**:
+   - **Plano de Resposta a Incidentes (IRP)**: Desenvolver e manter um plano de resposta a incidentes que inclua procedimentos claros para diferentes tipos de incidentes.
+   - **Equipes de Resposta a Incidentes (IRT)**: Estabelecer uma equipe dedicada de resposta a incidentes com responsabilidades e funções bem definidas.
+
+3. **Contenção e Erradicação**:
+   - **Isolamento de Sistemas Afetados**: Rapidamente isolar sistemas comprometidos para evitar a propagação do incidente.
+   - **Remoção de Ameaças**: Implementar procedimentos para erradicar a ameaça, como remoção de malware e correção de vulnerabilidades.
+
+4. **Recuperação**:
+   - **Restaurar Sistemas**: Restaurar sistemas a partir de backups seguros e garantir que estejam livres de ameaças antes de colocá-los de volta em operação.
+   - **Testes de Validação**: Realizar testes para garantir que a ameaça foi completamente removida e que os sistemas estão funcionando corretamente.
+
+5. **Comunicação**:
+   - **Notificação de Partes Interessadas**: Informar todas as partes interessadas relevantes, incluindo equipes internas, clientes e, se necessário, autoridades reguladoras.
+   - **Transparência e Clareza**: Manter uma comunicação clara e transparente durante todo o processo de resposta a incidentes.
+
+6. **Documentação e Análise Pós-Incidente**:
+   - **Registro de Incidentes**: Documentar todos os detalhes do incidente, incluindo a natureza da ameaça, a resposta implementada e os resultados.
+   - **Análise Pós-Incidente**: Conduzir uma análise pós-incidente para identificar falhas e melhorar os processos de segurança.
+
+7. **Prevenção e Melhoria Contínua**:
+   - **Atualizações e Patches**: Manter todos os sistemas e softwares atualizados com os patches de segurança mais recentes.
+   - **Treinamento e Conscientização**: Realizar treinamentos regulares para funcionários sobre práticas de segurança cibernética e resposta a incidentes.
+
+8. **Compliance e Regulamentação**:
+   - **Adesão a Normas**: Garantir que as práticas de tratamento de incidentes estejam em conformidade com normas e regulamentações aplicáveis, como GDPR, LGPD, etc.
+   - **Auditorias e Revisões**: Realizar auditorias regulares para garantir a conformidade e identificar áreas de melhoria.
+
+Focando nesses pontos, você cobrirá os aspectos mais críticos do tratamento de incidentes cibernéticos, o que lhe permitirá compreender a maior parte do processo e estar preparado para lidar com incidentes de forma eficaz.
+

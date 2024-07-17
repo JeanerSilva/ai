@@ -1,0 +1,46 @@
+ENGENHARIA DE SOFTWARE:: 10.1 Padrões:GRASP. 
+ -
+Claro, vamos focar nos princípios mais importantes dos Padrões GRASP (General Responsibility Assignment Software Patterns) que te ajudarão a compreender a maior parte do conceito. GRASP é um conjunto de diretrizes para atribuição de responsabilidades em projetos de software orientado a objetos. Aqui estão os 20% mais importantes:
+
+1. **Information Expert (Especialista da Informação)**:
+   - **Conceito**: Atribuir a responsabilidade a quem tem a informação necessária para cumprir a tarefa.
+   - **Importância**: Ajuda a manter o encapsulamento e a coesão, facilitando a manutenção e a evolução do sistema.
+
+2. **Creator (Criador)**:
+   - **Conceito**: Atribuir a responsabilidade de criar uma instância de classe a uma classe que tem a informação necessária para inicializar a nova instância.
+   - **Importância**: Facilita a criação de objetos e promove a coesão ao garantir que a classe que cria um objeto tem um relacionamento lógico com ele.
+
+3. **Controller (Controlador)**:
+   - **Conceito**: Atribuir a responsabilidade de lidar com eventos do sistema a uma classe que representa um cenário ou um caso de uso.
+   - **Importância**: Ajuda a separar a lógica de aplicação da interface do usuário, promovendo a reutilização e a manutenção do código.
+
+4. **Low Coupling (Baixo Acoplamento)**:
+   - **Conceito**: Atribuir responsabilidades de forma a minimizar as dependências entre classes.
+   - **Importância**: Facilita a manutenção e a evolução do sistema, pois mudanças em uma classe têm menos probabilidade de afetar outras classes.
+
+5. **High Cohesion (Alta Coesão)**:
+   - **Conceito**: Atribuir responsabilidades de forma que as operações de uma classe estejam fortemente relacionadas e focadas.
+   - **Importância**: Melhora a clareza e a reutilização do código, tornando as classes mais fáceis de entender e modificar.
+
+6. **Polymorphism (Polimorfismo)**:
+   - **Conceito**: Atribuir responsabilidades para comportamentos que variam por tipo usando polimorfismo.
+   - **Importância**: Facilita a extensão e a modificação do comportamento do sistema sem alterar o código existente.
+
+7. **Pure Fabrication (Fabricação Pura)**:
+   - **Conceito**: Criar uma classe que não representa um conceito do domínio para cumprir responsabilidades que não se encaixam bem em outras classes.
+   - **Importância**: Ajuda a manter o baixo acoplamento e a alta coesão, criando classes utilitárias quando necessário.
+
+8. **Indirection (Indireção)**:
+   - **Conceito**: Atribuir responsabilidades a um intermediário para mediar entre componentes ou serviços.
+   - **Importância**: Facilita a reutilização e a manutenção ao desacoplar componentes que não precisam conhecer detalhes uns dos outros.
+
+9. **Protected Variations (Variações Protegidas)**:
+   - **Conceito**: Proteger elementos do sistema contra variações em outros elementos usando interfaces, encapsulamento e outros meios.
+   - **Importância**: Reduz o impacto das mudanças e facilita a evolução do sistema.
+
+10. **Don't Repeat Yourself (DRY)**:
+    - **Conceito**: Evitar duplicação de código e lógica.
+    - **Importância**: Melhora a manutenção e a clareza do código, facilitando a correção de erros e a implementação de novas funcionalidades.
+
+Esses princípios são fundamentais para a atribuição de responsabilidades em sistemas orientados a objetos e, ao compreendê-los, você estará bem equipado para aplicar os padrões GRASP de maneira eficaz.
+

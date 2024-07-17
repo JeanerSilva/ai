@@ -1,0 +1,53 @@
+BANCOS DE DADOS:: 02.3 Modelagens de dados nosql.
+ -
+Claro! A regra de Pareto, ou princípio 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado sobre modelagens de dados NoSQL, aqui estão os pontos mais importantes que você deve focar para obter uma compreensão sólida:
+
+### 1. **Tipos de Bancos de Dados NoSQL**
+   - **Document Stores**: MongoDB, CouchDB.
+   - **Key-Value Stores**: Redis, DynamoDB.
+   - **Column-Family Stores**: Cassandra, HBase.
+   - **Graph Databases**: Neo4j, ArangoDB.
+
+### 2. **Diferenças entre NoSQL e SQL**
+   - **Esquema Flexível**: NoSQL permite esquemas dinâmicos para dados não estruturados.
+   - **Escalabilidade Horizontal**: NoSQL é projetado para escalar horizontalmente, adicionando mais servidores.
+   - **Consistência Eventual vs. Consistência Forte**: NoSQL frequentemente adota consistência eventual para melhorar a disponibilidade e a escalabilidade.
+
+### 3. **Modelagem de Dados em NoSQL**
+   - **Denormalização**: Ao contrário do SQL, a denormalização é comum para otimizar a leitura.
+   - **Design Orientado a Consulta**: Modelar dados com base nos padrões de consulta esperados.
+   - **Agregação de Dados**: Utilizar documentos ou colunas agregadas para armazenar dados relacionados juntos.
+
+### 4. **CAP Theorem**
+   - **Consistência (C)**: Todos os nós veem os mesmos dados ao mesmo tempo.
+   - **Disponibilidade (A)**: Cada solicitação recebe uma resposta (sucesso/falha).
+   - **Partição Tolerância (P)**: O sistema continua a operar mesmo com falhas de rede.
+
+### 5. **Sharding e Particionamento**
+   - **Sharding**: Dividir dados em diferentes servidores para melhorar a escalabilidade.
+   - **Particionamento**: Técnica de dividir dados em partes menores para facilitar a gestão e a consulta.
+
+### 6. **Indexação**
+   - **Índices Secundários**: Melhoram a velocidade das consultas.
+   - **Índices Compostos**: Utilizados para consultas que envolvem múltiplos campos.
+
+### 7. **Transações em NoSQL**
+   - **Transações ACID vs. BASE**: NoSQL frequentemente adota o modelo BASE (Basic Availability, Soft state, Eventual consistency) em vez de ACID (Atomicity, Consistency, Isolation, Durability).
+
+### 8. **MapReduce e Processamento de Dados**
+   - **MapReduce**: Técnica para processar grandes volumes de dados distribuídos.
+   - **Frameworks**: Hadoop, Spark.
+
+### 9. **Ferramentas e Linguagens de Consulta**
+   - **MongoDB Query Language (MQL)**: Para bancos de dados de documentos.
+   - **CQL (Cassandra Query Language)**: Para bancos de dados de colunas.
+
+### 10. **Casos de Uso Comuns**
+   - **Sessões de Usuário**: Key-Value Stores.
+   - **Catálogos de Produtos**: Document Stores.
+   - **Redes Sociais**: Graph Databases.
+   - **Análise de Dados**: Column-Family Stores.
+
+### Conclusão
+Focando nesses 10 pontos principais, você cobrirá os aspectos mais críticos da modelagem de dados NoSQL, que representam aproximadamente 20% do conhecimento necessário para entender 80% do funcionamento e aplicação prática desses sistemas.
+

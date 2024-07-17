@@ -1,0 +1,46 @@
+SEGURANÇA DA INFORMAÇÃO:: 01.2 Security Assertion Markup Language (SAML), 
+ -
+Claro! O Security Assertion Markup Language (SAML) é um padrão aberto que permite a troca de informações de autenticação e autorização entre diferentes partes, geralmente um provedor de identidade (IdP) e um provedor de serviço (SP). Aqui estão os 20% mais importantes aprendizados sobre SAML que te ajudarão a compreender 80% do necessário:
+
+1. **Definição e Propósito**:
+   - **O que é SAML**: Um padrão aberto para troca de informações de autenticação e autorização.
+   - **Objetivo**: Facilitar o Single Sign-On (SSO) entre diferentes domínios de segurança.
+
+2. **Componentes Principais**:
+   - **Provedor de Identidade (IdP)**: A entidade que autentica o usuário e fornece as informações de identidade.
+   - **Provedor de Serviço (SP)**: A entidade que consome as informações de identidade para fornecer acesso a um serviço.
+
+3. **Fluxo de Autenticação**:
+   - **Autenticação Iniciada pelo Provedor de Serviço (SP-Initiated)**: O usuário tenta acessar um serviço e é redirecionado para o IdP para autenticação.
+   - **Autenticação Iniciada pelo Provedor de Identidade (IdP-Initiated)**: O usuário autentica-se no IdP e é redirecionado para o SP com uma asserção SAML.
+
+4. **Asserções SAML**:
+   - **Tipos de Asserções**: Autenticação, Atributo e Autorização.
+   - **Estrutura**: Contém informações sobre o usuário, como identidade, atributos e permissões.
+
+5. **Bindings e Perfis**:
+   - **Bindings**: Métodos de transporte das mensagens SAML, como HTTP Redirect, HTTP POST, e SOAP.
+   - **Perfis**: Conjuntos de regras que definem como SAML deve ser usado em diferentes cenários, como Web Browser SSO Profile.
+
+6. **Mensagens SAML**:
+   - **Request e Response**: Mensagens trocadas entre IdP e SP durante o processo de autenticação.
+   - **Formato XML**: As mensagens SAML são codificadas em XML.
+
+7. **Segurança**:
+   - **Assinaturas Digitais**: Garantem a integridade e autenticidade das mensagens SAML.
+   - **Criptografia**: Protege a confidencialidade das informações transmitidas.
+
+8. **Configuração e Integração**:
+   - **Metadados SAML**: Arquivos XML que descrevem as capacidades e endpoints do IdP e SP.
+   - **Configuração de Confiança**: Estabelecimento de confiança mútua entre IdP e SP através da troca de metadados e certificados.
+
+9. **Benefícios do SAML**:
+   - **SSO**: Reduz a necessidade de múltiplos logins e melhora a experiência do usuário.
+   - **Interoperabilidade**: Facilita a integração entre diferentes sistemas e domínios de segurança.
+
+10. **Desafios e Considerações**:
+    - **Complexidade**: A configuração e manutenção podem ser complexas.
+    - **Compatibilidade**: Nem todos os sistemas suportam SAML nativamente.
+
+Compreender esses pontos-chave te dará uma base sólida para entender como o SAML funciona e como ele pode ser aplicado para resolver problemas de autenticação e autorização em ambientes distribuídos.
+

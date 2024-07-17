@@ -1,0 +1,50 @@
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.6 Variável aleatória e funções de distribuição.
+ -
+Claro! Vamos focar nos conceitos mais importantes sobre variáveis aleatórias e funções de distribuição que te ajudarão a entender a maior parte do assunto. Aqui estão os pontos principais:
+
+### 1. **Definição de Variável Aleatória**
+- **Variável Aleatória (VA)**: Uma variável aleatória é uma função que associa um número real a cada resultado em um espaço amostral de um experimento aleatório.
+  - **Discreta**: Assume valores específicos e contáveis (ex: número de caras ao lançar uma moeda 3 vezes).
+  - **Contínua**: Assume qualquer valor dentro de um intervalo contínuo (ex: altura de pessoas).
+
+### 2. **Função de Distribuição de Probabilidade**
+- **Função de Distribuição de Probabilidade (FDP)**: Descreve a probabilidade de uma variável aleatória assumir determinados valores.
+  - **Para VA Discreta**: A soma das probabilidades de todos os valores possíveis é 1.
+  - **Para VA Contínua**: A integral da função densidade de probabilidade (FDP) sobre todo o espaço é 1.
+
+### 3. **Função de Distribuição Acumulada (FDA)**
+- **FDA**: A função de distribuição acumulada \( F(x) \) de uma variável aleatória \( X \) é a probabilidade de \( X \) ser menor ou igual a \( x \).
+  - **Para VA Discreta**: \( F(x) = P(X \leq x) \).
+  - **Para VA Contínua**: \( F(x) = \int_{-\infty}^{x} f(t) \, dt \), onde \( f(t) \) é a função densidade de probabilidade.
+
+### 4. **Esperança Matemática (Valor Esperado)**
+- **Valor Esperado \( E(X) \)**: É a média ponderada de todos os valores possíveis de uma variável aleatória, com as probabilidades como pesos.
+  - **Para VA Discreta**: \( E(X) = \sum x_i P(X = x_i) \).
+  - **Para VA Contínua**: \( E(X) = \int_{-\infty}^{\infty} x f(x) \, dx \).
+
+### 5. **Variância e Desvio Padrão**
+- **Variância \( \text{Var}(X) \)**: Mede a dispersão dos valores de \( X \) em torno do valor esperado.
+  - **Fórmula**: \( \text{Var}(X) = E[(X - E(X))^2] \).
+- **Desvio Padrão \( \sigma \)**: É a raiz quadrada da variância e fornece uma medida da dispersão no mesmo nível das unidades da variável.
+
+### 6. **Distribuições Comuns**
+- **Distribuição Binomial**: Para variáveis discretas com dois possíveis resultados (sucesso/falha) em \( n \) experimentos independentes.
+- **Distribuição Normal**: Para variáveis contínuas, é a famosa "curva em forma de sino" que descreve muitos fenômenos naturais.
+- **Distribuição Exponencial**: Para variáveis contínuas, usada para modelar o tempo entre eventos em um processo de Poisson.
+
+### 7. **Propriedades Importantes**
+- **Linearidade da Esperança**: \( E(aX + b) = aE(X) + b \).
+- **Independência**: Duas variáveis aleatórias \( X \) e \( Y \) são independentes se \( P(X \leq x, Y \leq y) = P(X \leq x)P(Y \leq y) \).
+
+### 8. **Teorema Central do Limite**
+- **Teorema Central do Limite (TCL)**: Afirma que a soma de um grande número de variáveis aleatórias independentes e identicamente distribuídas tende a uma distribuição normal, independentemente da distribuição original das variáveis.
+
+### 9. **Covariância e Correlação**
+- **Covariância**: Mede a direção do relacionamento linear entre duas variáveis aleatórias.
+  - **Fórmula**: \( \text{Cov}(X, Y) = E[(X - E(X))(Y - E(Y))] \).
+- **Correlação**: É a covariância normalizada, variando entre -1 e 1, indicando a força e a direção do relacionamento linear.
+
+### 10. **Função Geradora de Momentos**
+- **Função Geradora de Momentos (FGM)**: É uma ferramenta que pode ser usada para encontrar todos os momentos (como a média e a variância) de uma variável aleatória.
+  - **Definição**: \( M_X(t) =
+

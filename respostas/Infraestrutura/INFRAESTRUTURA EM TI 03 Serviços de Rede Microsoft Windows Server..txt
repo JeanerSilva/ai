@@ -1,0 +1,52 @@
+INFRAESTRUTURA EM TI:: 03 Serviços de Rede Microsoft Windows Server.
+ -
+Claro! Vamos abordar três serviços de rede essenciais no Microsoft Windows Server e destacar os 20% mais importantes que ajudarão você a compreender os 80% necessários.
+
+### 1. Active Directory Domain Services (AD DS)
+**Importância:** AD DS é fundamental para a gestão de identidades e controle de acesso em uma rede Windows.
+
+**Principais Aprendizados:**
+- **Estrutura de Domínio:** Compreender a hierarquia de domínios, árvores e florestas.
+- **Controladores de Domínio:** Saber o papel dos controladores de domínio na autenticação e autorização.
+- **Objetos e Unidades Organizacionais (OUs):** Conhecer a estrutura de objetos (usuários, grupos, computadores) e como organizá-los em OUs para facilitar a administração.
+- **Políticas de Grupo (GPOs):** Entender como aplicar e gerenciar GPOs para controlar configurações e políticas de segurança em toda a rede.
+
+### 2. Domain Name System (DNS)
+**Importância:** DNS é crucial para a resolução de nomes, permitindo que os computadores localizem serviços e outros computadores na rede.
+
+**Principais Aprendizados:**
+- **Resolução de Nomes:** Compreender como o DNS resolve nomes de domínio para endereços IP.
+- **Zonas e Registros:** Saber a diferença entre zonas primárias, secundárias e stub, e entender os tipos de registros DNS (A, AAAA, CNAME, MX, etc.).
+- **Configuração e Gerenciamento:** Aprender a configurar e gerenciar servidores DNS no Windows Server.
+- **Integração com AD DS:** Entender como o DNS se integra com o Active Directory para fornecer serviços de resolução de nomes para os domínios AD.
+
+### 3. Dynamic Host Configuration Protocol (DHCP)
+**Importância:** DHCP automatiza a atribuição de endereços IP e outras configurações de rede para dispositivos na rede.
+
+**Principais Aprendizados:**
+- **Funcionamento do DHCP:** Compreender o processo de leasing de endereços IP (Discover, Offer, Request, Acknowledge - DORA).
+- **Escopos e Reservas:** Saber como configurar escopos para definir intervalos de endereços IP e como fazer reservas para dispositivos específicos.
+- **Opções DHCP:** Entender as opções DHCP (como gateway padrão, DNS servers) e como configurá-las.
+- **Alta Disponibilidade:** Conhecer métodos para garantir a alta disponibilidade do serviço DHCP, como failover e clustering.
+
+### Resumo dos 20% mais importantes:
+1. **AD DS:**
+   - Estrutura de Domínio
+   - Controladores de Domínio
+   - Objetos e Unidades Organizacionais (OUs)
+   - Políticas de Grupo (GPOs)
+
+2. **DNS:**
+   - Resolução de Nomes
+   - Zonas e Registros
+   - Configuração e Gerenciamento
+   - Integração com AD DS
+
+3. **DHCP:**
+   - Funcionamento do DHCP (DORA)
+   - Escopos e Reservas
+   - Opções DHCP
+   - Alta Disponibilidade
+
+Focando nesses pontos, você terá uma base sólida para entender e gerenciar os serviços de rede no Microsoft Windows Server, cobrindo a maior parte das necessidades práticas em um ambiente de rede corporativa.
+

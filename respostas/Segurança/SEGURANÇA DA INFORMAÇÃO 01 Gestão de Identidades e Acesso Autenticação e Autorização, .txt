@@ -1,0 +1,68 @@
+SEGURANÇA DA INFORMAÇÃO:: 01 Gestão de Identidades e Acesso: Autenticação e Autorização, 
+ -
+Claro! A gestão de identidades e acesso (IAM - Identity and Access Management) é um campo crucial na segurança da informação, que se concentra em garantir que as pessoas certas tenham o acesso apropriado aos recursos certos no momento certo. Aqui estão os 20% mais importantes aprendizados que ajudarão você a compreender 80% do assunto:
+
+1. **Conceitos Básicos de IAM**:
+   - **Identidade**: Representa um usuário ou entidade que precisa de acesso a recursos.
+   - **Autenticação**: Processo de verificar a identidade de um usuário.
+   - **Autorização**: Processo de determinar se um usuário autenticado tem permissão para acessar um recurso específico.
+
+2. **Autenticação Multifator (MFA)**:
+   - Utiliza múltiplos métodos de verificação (algo que você sabe, algo que você tem, algo que você é) para aumentar a segurança.
+
+3. **Single Sign-On (SSO)**:
+   - Permite que os usuários façam login uma vez e obtenham acesso a vários sistemas sem precisar se autenticar novamente.
+
+4. **Protocolo OAuth**:
+   - Um padrão aberto para autorização que permite acesso limitado a recursos de usuário sem expor credenciais.
+
+5. **Protocolo SAML (Security Assertion Markup Language)**:
+   - Um padrão aberto para troca de dados de autenticação e autorização entre partes, geralmente usado para SSO.
+
+6. **LDAP (Lightweight Directory Access Protocol)**:
+   - Um protocolo para acessar e manter serviços de diretório distribuídos, como o Active Directory.
+
+7. **Gerenciamento de Senhas**:
+   - Práticas recomendadas incluem a utilização de senhas fortes, políticas de expiração de senhas e o uso de gerenciadores de senhas.
+
+8. **Princípio do Menor Privilégio**:
+   - Conceder aos usuários apenas os privilégios mínimos necessários para realizar suas funções.
+
+9. **Controle de Acesso Baseado em Função (RBAC)**:
+   - Atribuir permissões com base em funções de trabalho, facilitando a gestão de permissões.
+
+10. **Controle de Acesso Baseado em Atributos (ABAC)**:
+    - Utiliza atributos (como departamento, localização, etc.) para tomar decisões de acesso.
+
+11. **Provisionamento e Desprovisionamento de Usuários**:
+    - Processos automáticos para criar, modificar e remover contas de usuário em sistemas e aplicações.
+
+12. **Auditoria e Monitoramento de Acesso**:
+    - Monitorar e registrar atividades de acesso para detectar e responder a atividades suspeitas.
+
+13. **Políticas de Acesso**:
+    - Definir e implementar políticas claras sobre quem pode acessar o quê e em quais circunstâncias.
+
+14. **Gestão de Identidades Federadas**:
+    - Permite que identidades de diferentes domínios sejam usadas de forma confiável em sistemas diferentes.
+
+15. **Zero Trust Security**:
+    - Modelo de segurança que assume que nenhuma entidade, interna ou externa, é confiável por padrão.
+
+16. **IAM na Nuvem**:
+    - Entender como os serviços de IAM são implementados em ambientes de nuvem, como AWS IAM, Azure AD, e Google Cloud IAM.
+
+17. **Compliance e Regulamentações**:
+    - Garantir que as práticas de IAM estejam em conformidade com regulamentações como GDPR, HIPAA, e SOX.
+
+18. **Gestão de Ciclo de Vida de Identidades**:
+    - Gerenciar o ciclo de vida completo das identidades, desde a criação até a desativação.
+
+19. **Integração de IAM com SIEM (Security Information and Event Management)**:
+    - Integrar IAM com sistemas de SIEM para melhorar a detecção e resposta a incidentes.
+
+20. **Educação e Treinamento de Usuários**:
+    - Treinar usuários sobre práticas seguras de autenticação e autorização para reduzir riscos de segurança.
+
+Esses pontos cobrem os aspectos mais críticos da gestão de identidades e acesso, proporcionando uma base sólida para entender e implementar práticas eficazes de IAM.
+

@@ -1,0 +1,69 @@
+INFRAESTRUTURA EM TI:: 10 Conceitos de LAN, 
+ -
+Claro, vamos abordar 10 conceitos fundamentais de LAN (Local Area Network) e identificar os 20% mais importantes que proporcionarão uma compreensão abrangente do assunto.
+
+### 10 Conceitos Fundamentais de LAN:
+
+1. **Topologia de Rede**:
+   - **Definição**: A estrutura ou layout físico e lógico de uma rede.
+   - **Exemplos**: Estrela, anel, barramento e malha.
+
+2. **Protocolos de Rede**:
+   - **Definição**: Conjunto de regras que permitem a comunicação entre dispositivos na rede.
+   - **Exemplos**: Ethernet, TCP/IP, UDP.
+
+3. **Dispositivos de Rede**:
+   - **Definição**: Equipamentos que facilitam a comunicação e o gerenciamento de dados na rede.
+   - **Exemplos**: Switches, roteadores, hubs, pontos de acesso.
+
+4. **Endereçamento IP**:
+   - **Definição**: Sistema de endereçamento que identifica dispositivos na rede.
+   - **Tipos**: IPv4 e IPv6.
+
+5. **Sub-redes (Subnetting)**:
+   - **Definição**: Divisão de uma rede maior em redes menores.
+   - **Benefícios**: Melhora a eficiência e a segurança da rede.
+
+6. **VLANs (Virtual Local Area Networks)**:
+   - **Definição**: Redes lógicas criadas dentro de uma rede física para segmentar o tráfego.
+   - **Benefícios**: Melhora a segurança e o desempenho.
+
+7. **Segurança de Rede**:
+   - **Definição**: Medidas para proteger a rede contra acessos não autorizados e ataques.
+   - **Exemplos**: Firewalls, criptografia, autenticação.
+
+8. **QoS (Quality of Service)**:
+   - **Definição**: Técnicas para gerenciar a largura de banda e garantir a qualidade do serviço.
+   - **Aplicações**: VoIP, streaming de vídeo.
+
+9. **Cabling (Cabeamento)**:
+   - **Definição**: Fios e cabos que conectam dispositivos na rede.
+   - **Tipos**: Cabos de par trançado (UTP/STP), fibra óptica.
+
+10. **Wi-Fi (Wireless LAN)**:
+    - **Definição**: Rede local sem fio que permite a conexão de dispositivos sem a necessidade de cabos.
+    - **Padrões**: IEEE 802.11a/b/g/n/ac/ax.
+
+### 20% Mais Importantes (Princípio de Pareto):
+
+Para compreender 80% do necessário sobre LAN, os conceitos mais importantes são:
+
+1. **Topologia de Rede**:
+   - Compreender as diferentes topologias e como elas afetam a eficiência e a escalabilidade da rede.
+
+2. **Protocolos de Rede**:
+   - Conhecer os principais protocolos, especialmente Ethernet e TCP/IP, que são fundamentais para a comunicação em redes LAN.
+
+3. **Dispositivos de Rede**:
+   - Entender o papel de switches, roteadores e pontos de acesso, que são essenciais para a construção e o gerenciamento de uma LAN.
+
+4. **Endereçamento IP**:
+   - Saber como funciona o endereçamento IP, incluindo a diferença entre IPv4 e IPv6, é crucial para a configuração e o gerenciamento de redes.
+
+5. **Segurança de Rede**:
+   - Implementar medidas básicas de segurança, como firewalls e autenticação, para proteger a rede contra ameaças.
+
+### Resumo:
+
+Focando nesses cinco conceitos principais (topologia de rede, protocolos de rede, dispositivos de rede, endereçamento IP e segurança de rede), você obterá uma base sólida que permitirá entender a maioria dos aspectos importantes de uma LAN. Esses conceitos são os blocos de construção essenciais que influenciam diretamente a configuração, operação e segurança de uma rede local.
+

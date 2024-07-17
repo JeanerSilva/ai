@@ -1,0 +1,41 @@
+ENGENHARIA DE SOFTWARE:: 01.6 servidores proxy.
+ -
+Claro, vamos focar nos aspectos mais importantes sobre servidores proxy que te ajudarão a entender a maior parte do assunto. Aqui estão os pontos principais:
+
+1. **Definição e Função Básica**:
+   - **O que é um Servidor Proxy**: Um servidor proxy atua como intermediário entre um cliente (como um navegador web) e um servidor de destino (como um site). Ele recebe as solicitações do cliente, as encaminha ao servidor de destino e depois retorna a resposta ao cliente.
+   - **Funções Básicas**: Os proxies podem ser usados para melhorar a segurança, a privacidade, o desempenho e o controle de acesso.
+
+2. **Tipos de Proxies**:
+   - **Proxy HTTP**: Usado para tráfego web. Ele pode armazenar em cache páginas web para melhorar a velocidade de acesso.
+   - **Proxy HTTPS**: Similar ao HTTP, mas suporta tráfego criptografado, oferecendo maior segurança.
+   - **Proxy SOCKS**: Um proxy de nível mais baixo que pode lidar com qualquer tipo de tráfego, não apenas HTTP/HTTPS.
+   - **Proxy Transparente**: Intercepta o tráfego sem que o cliente saiba. É usado para filtragem de conteúdo e cache.
+   - **Proxy Anônimo**: Oculta o endereço IP do cliente, oferecendo maior privacidade.
+
+3. **Benefícios dos Proxies**:
+   - **Privacidade e Anonimato**: Esconde o endereço IP do usuário, dificultando o rastreamento.
+   - **Segurança**: Pode filtrar conteúdo malicioso e bloquear sites perigosos.
+   - **Controle de Acesso**: Permite que administradores de rede controlem o acesso a determinados sites ou serviços.
+   - **Desempenho**: Pode armazenar em cache conteúdo frequentemente acessado, reduzindo o tempo de carregamento.
+
+4. **Configuração e Uso**:
+   - **Configuração do Cliente**: Navegadores e outros aplicativos podem ser configurados para usar um proxy específico.
+   - **Configuração do Servidor**: Proxies podem ser configurados em servidores dedicados ou em roteadores para gerenciar o tráfego de uma rede inteira.
+
+5. **Considerações de Segurança**:
+   - **Proxies Públicos vs. Privados**: Proxies públicos são gratuitos, mas podem ser inseguros e lentos. Proxies privados oferecem melhor desempenho e segurança.
+   - **Riscos de Proxies Maliciosos**: Alguns proxies podem ser configurados para roubar dados ou injetar malware. É importante usar proxies de fontes confiáveis.
+
+6. **Casos de Uso Comuns**:
+   - **Empresas**: Para controlar o acesso à internet dos funcionários e proteger a rede corporativa.
+   - **Usuários Individuais**: Para acessar conteúdo restrito geograficamente e proteger a privacidade online.
+   - **Desenvolvedores e Testadores**: Para testar como um site se comporta em diferentes regiões ou sob diferentes condições de rede.
+
+7. **Limitações e Desvantagens**:
+   - **Latência**: Pode aumentar o tempo de resposta devido ao processamento adicional.
+   - **Compatibilidade**: Nem todos os aplicativos suportam proxies.
+   - **Segurança Relativa**: Embora aumentem a segurança, proxies não substituem outras medidas de segurança, como firewalls e antivírus.
+
+Ao focar nesses pontos, você cobrirá os aspectos mais críticos dos servidores proxy, que representam a maior parte do conhecimento necessário para entender seu funcionamento e aplicação.
+

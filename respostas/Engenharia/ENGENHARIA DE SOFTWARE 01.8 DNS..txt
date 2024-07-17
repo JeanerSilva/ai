@@ -1,0 +1,66 @@
+ENGENHARIA DE SOFTWARE:: 01.8 DNS.
+ -
+Claro, o DNS (Domain Name System) é um componente fundamental da infraestrutura da internet. Ele é responsável por traduzir nomes de domínio legíveis por humanos (como www.exemplo.com) em endereços IP legíveis por máquinas (como 192.0.2.1). Aqui estão os 20% mais importantes aprendizados sobre DNS que ajudarão você a compreender 80% do necessário:
+
+1. **Conceito Básico de DNS**:
+   - O DNS é como a "agenda telefônica" da internet, convertendo nomes de domínio em endereços IP.
+
+2. **Estrutura Hierárquica**:
+   - O DNS é organizado de forma hierárquica, com diferentes níveis de domínios, como TLDs (Top-Level Domains) e subdomínios.
+
+3. **Servidores DNS**:
+   - Existem diferentes tipos de servidores DNS, incluindo servidores raiz, servidores TLD, servidores autoritativos e servidores recursivos.
+
+4. **Resolução de Nomes**:
+   - O processo de resolução de nomes envolve a consulta a vários servidores DNS para encontrar o endereço IP correspondente a um nome de domínio.
+
+5. **Registros DNS**:
+   - Existem vários tipos de registros DNS, como A (endereço IPv4), AAAA (endereço IPv6), CNAME (nome canônico), MX (servidor de e-mail), e TXT (texto).
+
+6. **Cache DNS**:
+   - Para melhorar a eficiência, os servidores DNS e os clientes mantêm um cache de consultas DNS recentes.
+
+7. **TTL (Time to Live)**:
+   - Cada registro DNS tem um TTL, que determina por quanto tempo ele pode ser armazenado em cache.
+
+8. **DNS Recursivo vs. Autoritativo**:
+   - Servidores DNS recursivos realizam consultas em nome do cliente, enquanto servidores autoritativos fornecem respostas definitivas para domínios específicos.
+
+9. **DNS e Segurança**:
+   - DNSSEC (DNS Security Extensions) é uma tecnologia que adiciona uma camada de segurança ao DNS, ajudando a prevenir ataques como o envenenamento de cache.
+
+10. **Ataques Comuns ao DNS**:
+    - Ataques como DDoS (Distributed Denial of Service), envenenamento de cache e spoofing são comuns e podem comprometer a integridade do DNS.
+
+11. **Ferramentas de Diagnóstico**:
+    - Ferramentas como `nslookup`, `dig` e `host` são essenciais para diagnosticar problemas de DNS.
+
+12. **Configuração de DNS**:
+    - A configuração correta de registros DNS é crucial para o funcionamento adequado de serviços web e de e-mail.
+
+13. **Provedores de DNS**:
+    - Existem provedores de DNS públicos e privados, como Google Public DNS, Cloudflare DNS, e OpenDNS, que oferecem serviços de resolução de nomes.
+
+14. **DNS Dinâmico (DDNS)**:
+    - O DDNS permite a atualização automática de registros DNS, útil para dispositivos com endereços IP dinâmicos.
+
+15. **Impacto na Performance**:
+    - A configuração e o desempenho do DNS podem afetar significativamente a velocidade de carregamento de sites e a disponibilidade de serviços.
+
+16. **Políticas de Redundância**:
+    - Implementar redundância em servidores DNS é importante para garantir alta disponibilidade e resiliência.
+
+17. **Privacidade no DNS**:
+    - Protocolos como DNS over HTTPS (DoH) e DNS over TLS (DoT) ajudam a proteger a privacidade das consultas DNS.
+
+18. **Domínios Internacionais (IDN)**:
+    - IDNs permitem o uso de caracteres não-ASCII em nomes de domínio, facilitando o acesso global.
+
+19. **Monitoramento e Logs**:
+    - Monitorar e analisar logs de DNS é crucial para detectar e responder a problemas e ataques.
+
+20. **Educação Contínua**:
+    - O DNS é um campo em constante evolução, e é importante manter-se atualizado com as melhores práticas e novas tecnologias.
+
+Compreender esses pontos-chave fornecerá uma base sólida para entender como o DNS funciona e como ele é essencial para a operação da internet.
+

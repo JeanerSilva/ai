@@ -1,0 +1,45 @@
+ENGENHARIA DE SOFTWARE:: 11 Git. 
+ -
+Claro! Git é um sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de software. Ele permite que múltiplos desenvolvedores trabalhem no mesmo projeto de forma eficiente e organizada. Aqui estão os 20% mais importantes aprendizados sobre Git que te ajudarão a compreender 80% do que você precisa saber:
+
+1. **Instalação e Configuração Inicial**:
+   - **Instalação**: Baixe e instale Git a partir do site oficial (git-scm.com) ou use um gerenciador de pacotes.
+   - **Configuração Inicial**: Configure seu nome de usuário e e-mail com `git config --global user.name "Seu Nome"` e `git config --global user.email "seuemail@example.com"`.
+
+2. **Repositórios**:
+   - **Criar um Repositório**: Use `git init` para inicializar um novo repositório Git.
+   - **Clonar um Repositório**: Use `git clone <url>` para copiar um repositório existente.
+
+3. **Commits**:
+   - **Adicionar Arquivos**: Use `git add <arquivo>` para adicionar arquivos ao índice (staging area).
+   - **Criar um Commit**: Use `git commit -m "mensagem do commit"` para salvar as mudanças no repositório.
+
+4. **Branches (Ramos)**:
+   - **Criar um Branch**: Use `git branch <nome-do-branch>` para criar um novo branch.
+   - **Trocar de Branch**: Use `git checkout <nome-do-branch>` para mudar para um branch diferente.
+   - **Criar e Trocar de Branch**: Use `git checkout -b <nome-do-branch>` para criar e mudar para um novo branch em um único comando.
+
+5. **Merge (Mesclagem)**:
+   - **Mesclar Branches**: Use `git merge <nome-do-branch>` para mesclar as mudanças de um branch para o branch atual.
+
+6. **Histórico**:
+   - **Ver Histórico de Commits**: Use `git log` para visualizar o histórico de commits.
+
+7. **Repositórios Remotos**:
+   - **Adicionar um Repositório Remoto**: Use `git remote add origin <url>` para adicionar um repositório remoto.
+   - **Enviar Mudanças para o Remoto**: Use `git push origin <nome-do-branch>` para enviar suas mudanças para o repositório remoto.
+   - **Obter Mudanças do Remoto**: Use `git pull origin <nome-do-branch>` para obter e mesclar mudanças do repositório remoto.
+
+8. **Resolução de Conflitos**:
+   - **Conflitos de Merge**: Quando ocorrerem conflitos durante um merge, Git marcará os arquivos conflitantes. Você precisará editar esses arquivos para resolver os conflitos e depois fazer um commit.
+
+9. **Desfazendo Mudanças**:
+   - **Desfazer Alterações no Índice**: Use `git reset <arquivo>` para remover um arquivo do índice.
+   - **Desfazer um Commit**: Use `git revert <commit>` para desfazer um commit específico, criando um novo commit que reverte as mudanças.
+
+10. **Stash (Armazenamento Temporário)**:
+    - **Guardar Mudanças Temporariamente**: Use `git stash` para guardar mudanças não commitadas temporariamente.
+    - **Recuperar Mudanças do Stash**: Use `git stash pop` para aplicar as mudanças armazenadas no stash.
+
+Esses conceitos e comandos cobrem a maior parte das operações diárias que você realizará com Git. Compreender e praticar esses fundamentos te dará uma base sólida para trabalhar com Git de forma eficaz.
+

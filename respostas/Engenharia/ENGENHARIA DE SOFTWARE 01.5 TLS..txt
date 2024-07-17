@@ -1,0 +1,51 @@
+ENGENHARIA DE SOFTWARE:: 01.5 TLS.
+ -
+Claro, vou te ajudar a entender os conceitos mais importantes sobre TLS (Transport Layer Security) versão 1.5, que é uma versão fictícia, pois as versões reais são TLS 1.0, 1.1, 1.2 e 1.3. Vou considerar que você quer aprender sobre TLS em geral, focando nos pontos mais críticos que te ajudarão a compreender a maior parte do funcionamento e importância do TLS.
+
+### 1. **O que é TLS?**
+TLS é um protocolo de criptografia que fornece comunicação segura pela internet. Ele é amplamente utilizado para proteger dados transmitidos entre um cliente (como um navegador web) e um servidor.
+
+### 2. **Objetivos do TLS**
+TLS tem três objetivos principais:
+- **Confidencialidade:** Garante que os dados transmitidos sejam acessíveis apenas às partes autorizadas.
+- **Integridade:** Assegura que os dados não foram alterados durante a transmissão.
+- **Autenticação:** Verifica a identidade das partes envolvidas na comunicação.
+
+### 3. **Handshake TLS**
+O processo de handshake é crucial para estabelecer uma conexão segura. Durante o handshake, o cliente e o servidor:
+- Negociam parâmetros de segurança.
+- Autenticam-se mutuamente.
+- Estabelecem chaves de criptografia para a sessão.
+
+### 4. **Certificados Digitais**
+TLS utiliza certificados digitais para autenticar a identidade do servidor (e, opcionalmente, do cliente). Esses certificados são emitidos por Autoridades Certificadoras (CAs) confiáveis.
+
+### 5. **Criptografia Simétrica e Assimétrica**
+- **Criptografia Assimétrica:** Utilizada durante o handshake para trocar chaves de sessão de forma segura. Envolve um par de chaves (pública e privada).
+- **Criptografia Simétrica:** Utilizada para criptografar os dados transmitidos após o handshake. Envolve uma única chave compartilhada entre as partes.
+
+### 6. **Versões do TLS**
+- **TLS 1.0 e 1.1:** Versões mais antigas e menos seguras, atualmente desaconselhadas.
+- **TLS 1.2:** Amplamente utilizado e considerado seguro.
+- **TLS 1.3:** A versão mais recente, com melhorias significativas em segurança e desempenho.
+
+### 7. **Cifras e Protocolos de Ciframento**
+TLS suporta uma variedade de algoritmos de ciframento (ciphers) e protocolos de ciframento (cipher suites). A escolha da cifra pode afetar a segurança e o desempenho da conexão.
+
+### 8. **Perfect Forward Secrecy (PFS)**
+PFS é uma propriedade de certos métodos de troca de chaves que garante que a chave de sessão não será comprometida mesmo se a chave privada do servidor for comprometida no futuro.
+
+### 9. **Ataques Comuns e Mitigações**
+- **Ataques Man-in-the-Middle (MitM):** TLS protege contra esses ataques através da autenticação e criptografia.
+- **Ataques de Downgrade:** TLS 1.3 e configurações seguras de TLS 1.2 mitigam esses ataques, que forçam a utilização de versões mais antigas e inseguras do protocolo.
+
+### 10. **Implementação e Configuração**
+A configuração correta do TLS é crucial para garantir a segurança. Isso inclui:
+- Desativar versões antigas e inseguras do TLS.
+- Utilizar certificados válidos e confiáveis.
+- Configurar cipher suites seguras.
+- Implementar PFS.
+
+### Conclusão
+Compreender esses 10 pontos principais te dará uma base sólida para entender 80% do funcionamento e importância do TLS. Eles cobrem desde os conceitos básicos e objetivos do protocolo até detalhes técnicos e práticas recomendadas para implementação segura.
+

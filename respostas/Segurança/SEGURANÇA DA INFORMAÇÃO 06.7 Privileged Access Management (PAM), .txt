@@ -1,0 +1,66 @@
+SEGURANÇA DA INFORMAÇÃO:: 06.7 Privileged Access Management (PAM), 
+ -
+Privileged Access Management (PAM) é uma área crítica da segurança cibernética que se concentra na gestão e proteção de contas com privilégios elevados, como administradores de sistemas, desenvolvedores e outros usuários que têm acesso a sistemas sensíveis. Aqui estão os 20% mais importantes aprendizados sobre PAM que ajudarão você a compreender 80% do necessário:
+
+1. **Definição de PAM**:
+   - PAM é um conjunto de estratégias e tecnologias usadas para controlar e monitorar o acesso privilegiado a sistemas críticos e dados sensíveis.
+
+2. **Importância do PAM**:
+   - Contas privilegiadas são alvos principais para atacantes, pois oferecem acesso a sistemas críticos e dados sensíveis. A gestão inadequada dessas contas pode levar a violações de segurança significativas.
+
+3. **Princípio do Menor Privilégio**:
+   - Conceda aos usuários apenas os privilégios mínimos necessários para realizar suas tarefas. Isso reduz a superfície de ataque e limita o impacto de uma possível violação.
+
+4. **Autenticação Multifator (MFA)**:
+   - Implementar MFA para contas privilegiadas adiciona uma camada extra de segurança, tornando mais difícil para atacantes comprometerem essas contas.
+
+5. **Sessões Privilegiadas Monitoradas**:
+   - Monitorar e registrar todas as atividades realizadas durante sessões privilegiadas ajuda a detectar comportamentos anômalos e a realizar auditorias de segurança.
+
+6. **Gerenciamento de Senhas**:
+   - Utilize soluções de gerenciamento de senhas para armazenar e rotacionar senhas de contas privilegiadas de forma segura. Evite o uso de senhas estáticas e reutilizadas.
+
+7. **Segregação de Funções (SoD)**:
+   - Implemente a segregação de funções para garantir que nenhuma pessoa tenha controle total sobre sistemas críticos, reduzindo o risco de abuso de privilégios.
+
+8. **Auditoria e Relatórios**:
+   - Realize auditorias regulares e gere relatórios detalhados sobre o uso de contas privilegiadas para garantir conformidade com políticas de segurança e regulamentações.
+
+9. **Acesso Just-in-Time (JIT)**:
+   - Conceda acesso privilegiado apenas quando necessário e por um período limitado. Isso minimiza o tempo em que contas privilegiadas estão ativas e vulneráveis.
+
+10. **Gerenciamento de Sessões**:
+    - Utilize ferramentas de gerenciamento de sessões para controlar e monitorar o acesso a sistemas críticos em tempo real, permitindo a interrupção de sessões suspeitas.
+
+11. **Educação e Treinamento**:
+    - Treine usuários privilegiados sobre as melhores práticas de segurança e a importância de proteger suas credenciais.
+
+12. **Automação e Orquestração**:
+    - Automatize processos de gerenciamento de acesso privilegiado para reduzir erros humanos e aumentar a eficiência.
+
+13. **Integração com SIEM**:
+    - Integre PAM com sistemas de gerenciamento de informações e eventos de segurança (SIEM) para uma visão centralizada e correlacionada de atividades privilegiadas.
+
+14. **Políticas de Acesso**:
+    - Defina e implemente políticas claras de acesso privilegiado, especificando quem pode acessar o quê, quando e como.
+
+15. **Gerenciamento de Identidades**:
+    - Integre PAM com soluções de gerenciamento de identidades para garantir que apenas usuários autenticados e autorizados tenham acesso privilegiado.
+
+16. **Resposta a Incidentes**:
+    - Desenvolva e teste planos de resposta a incidentes específicos para compromissos de contas privilegiadas.
+
+17. **Segurança de Endpoint**:
+    - Proteja os endpoints usados para acessar sistemas críticos, garantindo que estejam livres de malware e outras ameaças.
+
+18. **Revisões de Acesso**:
+    - Realize revisões periódicas de acesso para garantir que os privilégios concedidos ainda sejam necessários e apropriados.
+
+19. **Segurança na Nuvem**:
+    - Aplique práticas de PAM a ambientes de nuvem, onde a gestão de acesso privilegiado pode ser mais complexa devido à natureza dinâmica e distribuída desses ambientes.
+
+20. **Conformidade e Regulamentação**:
+    - Garanta que as práticas de PAM estejam em conformidade com regulamentações e padrões de segurança aplicáveis, como GDPR, HIPAA, e PCI-DSS.
+
+Compreender e implementar esses princípios e práticas de PAM ajudará a proteger suas contas privilegiadas e, por extensão, seus sistemas e dados críticos.
+

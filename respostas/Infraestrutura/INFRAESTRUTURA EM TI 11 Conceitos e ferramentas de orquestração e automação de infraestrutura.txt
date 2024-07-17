@@ -1,0 +1,71 @@
+INFRAESTRUTURA EM TI:: 11 Conceitos e ferramentas de orquestração e automação de infraestrutura
+ -
+Claro! A orquestração e automação de infraestrutura são componentes cruciais na gestão de ambientes de TI modernos, especialmente em contextos de DevOps e operações em nuvem. Aqui estão 11 conceitos e ferramentas importantes, seguidos pelos 20% mais importantes aprendizados que ajudarão a compreender 80% do assunto.
+
+### 11 Conceitos e Ferramentas de Orquestração e Automação de Infraestrutura
+
+1. **Infraestrutura como Código (IaC)**:
+   - Ferramentas: Terraform, AWS CloudFormation
+   - Conceito: Gerenciar e provisionar infraestrutura através de arquivos de configuração legíveis por humanos.
+
+2. **Gerenciamento de Configuração**:
+   - Ferramentas: Ansible, Puppet, Chef
+   - Conceito: Automatizar a configuração e manutenção de sistemas.
+
+3. **Contêineres e Orquestração de Contêineres**:
+   - Ferramentas: Docker, Kubernetes
+   - Conceito: Empacotar aplicações e suas dependências em contêineres e gerenciar a execução desses contêineres.
+
+4. **Pipelines de CI/CD**:
+   - Ferramentas: Jenkins, GitLab CI, CircleCI
+   - Conceito: Automatizar o processo de integração contínua e entrega contínua.
+
+5. **Monitoramento e Logging**:
+   - Ferramentas: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+   - Conceito: Monitorar a saúde e o desempenho da infraestrutura e aplicações.
+
+6. **Gerenciamento de Secretos**:
+   - Ferramentas: HashiCorp Vault, AWS Secrets Manager
+   - Conceito: Gerenciar e proteger informações sensíveis como senhas e tokens de API.
+
+7. **Gerenciamento de Configuração de Rede**:
+   - Ferramentas: Cisco NSO, Ansible
+   - Conceito: Automatizar a configuração e gerenciamento de dispositivos de rede.
+
+8. **Provisionamento de Infraestrutura**:
+   - Ferramentas: Terraform, Pulumi
+   - Conceito: Criar e gerenciar recursos de infraestrutura de forma declarativa.
+
+9. **Gerenciamento de Patches e Atualizações**:
+   - Ferramentas: WSUS, Ansible
+   - Conceito: Automatizar a aplicação de patches e atualizações de software.
+
+10. **Gerenciamento de Backups e Recuperação de Desastres**:
+    - Ferramentas: Veeam, AWS Backup
+    - Conceito: Automatizar o backup e a recuperação de dados e sistemas.
+
+11. **Gerenciamento de Clusters**:
+    - Ferramentas: Kubernetes, Mesos
+    - Conceito: Gerenciar clusters de servidores para alta disponibilidade e escalabilidade.
+
+### 20% Mais Importantes Aprendizados
+
+1. **Infraestrutura como Código (IaC)**:
+   - **Aprendizado**: Compreender que IaC permite a definição de infraestrutura de forma declarativa, facilitando a replicação e versionamento de ambientes. Ferramentas como Terraform são essenciais para gerenciar recursos de múltiplos provedores de nuvem.
+
+2. **Contêineres e Orquestração de Contêineres**:
+   - **Aprendizado**: Aprender a usar Docker para criar contêineres e Kubernetes para orquestrar esses contêineres é fundamental para a escalabilidade e portabilidade de aplicações.
+
+3. **Pipelines de CI/CD**:
+   - **Aprendizado**: Entender a importância de pipelines de CI/CD para automatizar o processo de integração e entrega de código, garantindo que as mudanças sejam testadas e implantadas de forma contínua e confiável.
+
+4. **Gerenciamento de Configuração**:
+   - **Aprendizado**: Ferramentas como Ansible, Puppet e Chef são cruciais para automatizar a configuração de sistemas, garantindo consistência e reduzindo erros manuais.
+
+5. **Monitoramento e Logging**:
+   - **Aprendizado**: Implementar soluções de monitoramento e logging como Prometheus e ELK Stack é vital para a visibilidade e diagnóstico de problemas em tempo real.
+
+### Conclusão
+
+Focar nesses cinco aprendizados principais fornecerá uma base sólida para compreender a maioria dos conceitos e práticas em orquestração e automação de infraestrutura. Esses elementos são os blocos de construção que permitirão explorar e dominar outras áreas e ferramentas com maior facilidade.
+

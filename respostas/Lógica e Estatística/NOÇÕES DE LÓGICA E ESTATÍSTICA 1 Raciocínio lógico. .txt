@@ -1,0 +1,69 @@
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1 Raciocínio lógico. 
+ -
+Claro! O raciocínio lógico é uma habilidade fundamental que envolve a capacidade de pensar de maneira clara e coerente, utilizando princípios de lógica para resolver problemas e tomar decisões. Aqui estão os 20% mais importantes aprendizados que te ajudarão a compreender 80% do raciocínio lógico:
+
+1. **Princípios Básicos da Lógica**:
+   - **Proposições**: Entenda o que são proposições (afirmações que podem ser verdadeiras ou falsas).
+   - **Conectivos Lógicos**: Aprenda sobre conectivos como "e" (conjunção), "ou" (disjunção), "não" (negação), "se... então..." (condicional) e "se e somente se" (bicondicional).
+
+2. **Tabelas-Verdade**:
+   - Saiba construir e interpretar tabelas-verdade para avaliar a veracidade de proposições compostas.
+
+3. **Argumentos e Validade**:
+   - Compreenda o que é um argumento lógico (conjunto de proposições) e a diferença entre validade e solidez.
+   - **Validade**: Um argumento é válido se, quando as premissas são verdadeiras, a conclusão também é verdadeira.
+   - **Solidez**: Um argumento é sólido se é válido e suas premissas são verdadeiras.
+
+4. **Silogismos**:
+   - Estude os silogismos, que são formas de argumentos dedutivos com duas premissas e uma conclusão.
+
+5. **Regras de Inferência**:
+   - Aprenda as regras de inferência, como Modus Ponens (se P então Q; P; logo, Q) e Modus Tollens (se P então Q; não Q; logo, não P).
+
+6. **Falácias Lógicas**:
+   - Identifique falácias comuns, como a falácia do espantalho, ad hominem, apelo à autoridade, entre outras.
+
+7. **Quantificadores**:
+   - Entenda os quantificadores universais ("todos", "nenhum") e existenciais ("alguns", "pelo menos um").
+
+8. **Diagramas de Venn**:
+   - Utilize diagramas de Venn para visualizar relações entre conjuntos e resolver problemas de lógica.
+
+9. **Lógica Proposicional vs. Lógica de Predicados**:
+   - Diferencie entre lógica proposicional (que lida com proposições simples) e lógica de predicados (que lida com proposições que contêm quantificadores e variáveis).
+
+10. **Resolução de Problemas**:
+    - Pratique a resolução de problemas lógicos, como quebra-cabeças, enigmas e problemas de lógica matemática.
+
+11. **Pensamento Crítico**:
+    - Desenvolva habilidades de pensamento crítico, questionando premissas e avaliando argumentos de forma rigorosa.
+
+12. **Estruturas de Provas**:
+    - Aprenda a construir provas formais, utilizando sequências de passos lógicos para demonstrar a veracidade de uma proposição.
+
+13. **Contrapositivo e Contradição**:
+    - Entenda o conceito de contrapositivo (a contraposição de uma proposição condicional) e a técnica de prova por contradição.
+
+14. **Lógica Indutiva vs. Dedutiva**:
+    - Diferencie entre raciocínio indutivo (generalização a partir de casos específicos) e dedutivo (derivação de conclusões a partir de premissas gerais).
+
+15. **Paradoxo**:
+    - Explore paradoxos lógicos, que são declarações ou conjuntos de declarações que levam a contradições ou situações que desafiam a intuição.
+
+16. **Algoritmos e Heurísticas**:
+    - Utilize algoritmos (procedimentos passo a passo) e heurísticas (regras práticas) para resolver problemas lógicos de forma eficiente.
+
+17. **Lógica Modal**:
+    - Tenha uma noção básica de lógica modal, que trata de conceitos como possibilidade e necessidade.
+
+18. **Lógica Fuzzy**:
+    - Entenda o conceito de lógica fuzzy, que lida com raciocínios aproximados e valores de verdade intermediários entre totalmente verdadeiro e totalmente falso.
+
+19. **Aplicações Práticas**:
+    - Aplique o raciocínio lógico em situações cotidianas, como tomada de decisões, resolução de conflitos e análise de informações.
+
+20. **Ferramentas de Software**:
+    - Familiarize-se com ferramentas de software que auxiliam na construção e análise de argumentos lógicos, como programas de lógica simbólica e sistemas de prova automática.
+
+Estes pontos cobrem os fundamentos essenciais do raciocínio lógico e te proporcionarão uma base sólida para entender e aplicar a lógica em diversas situações.
+

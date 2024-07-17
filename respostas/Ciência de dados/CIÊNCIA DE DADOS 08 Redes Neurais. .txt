@@ -1,0 +1,61 @@
+CIÊNCIA DE DADOS:: 08 Redes Neurais. 
+ -
+Claro! Redes neurais são um campo vasto e fascinante da inteligência artificial e aprendizado de máquina. Para ajudar você a entender os 20% mais importantes que cobrem 80% do conhecimento necessário, aqui estão os principais conceitos e aprendizados:
+
+### 1. **Conceito Básico de Redes Neurais**
+   - **Definição**: Redes neurais são modelos computacionais inspirados no cérebro humano, compostos por neurônios artificiais que processam informações.
+   - **Neurônio Artificial**: Unidade básica que recebe entradas, aplica uma função de ativação e gera uma saída.
+
+### 2. **Arquitetura de Redes Neurais**
+   - **Camadas**: Redes neurais são compostas por camadas de neurônios. As principais são:
+     - **Camada de Entrada**: Recebe os dados de entrada.
+     - **Camadas Ocultas**: Processam as informações através de múltiplas transformações.
+     - **Camada de Saída**: Produz o resultado final.
+   - **Profundidade**: Redes profundas (Deep Learning) têm muitas camadas ocultas, enquanto redes rasas têm poucas.
+
+### 3. **Funções de Ativação**
+   - **ReLU (Rectified Linear Unit)**: f(x) = max(0, x). Muito usada por sua simplicidade e eficiência.
+   - **Sigmoid**: f(x) = 1 / (1 + e^(-x)). Boa para problemas de classificação binária.
+   - **Tanh**: f(x) = (e^x - e^(-x)) / (e^x + e^(-x)). Normaliza a saída entre -1 e 1.
+
+### 4. **Treinamento de Redes Neurais**
+   - **Forward Propagation**: Processo de passar os dados de entrada através da rede para obter a saída.
+   - **Backward Propagation**: Método de ajuste dos pesos da rede com base no erro da saída, utilizando o gradiente descendente.
+
+### 5. **Função de Custo**
+   - **Definição**: Mede o quão longe a saída da rede está do valor esperado.
+   - **Exemplos**: Erro Quadrático Médio (MSE), Entropia Cruzada.
+
+### 6. **Algoritmos de Otimização**
+   - **Gradiente Descendente**: Método iterativo para minimizar a função de custo ajustando os pesos.
+   - **Variantes**: SGD (Stochastic Gradient Descent), Adam (Adaptive Moment Estimation).
+
+### 7. **Overfitting e Underfitting**
+   - **Overfitting**: Quando a rede se ajusta muito bem aos dados de treinamento, mas não generaliza bem para novos dados.
+   - **Underfitting**: Quando a rede não captura a complexidade dos dados de treinamento.
+
+### 8. **Regularização**
+   - **Técnicas**: Dropout, L1/L2 Regularization.
+   - **Objetivo**: Evitar overfitting adicionando penalidades à função de custo ou removendo aleatoriamente neurônios durante o treinamento.
+
+### 9. **Tipos de Redes Neurais**
+   - **Perceptron**: Modelo mais simples de rede neural.
+   - **MLP (Multilayer Perceptron)**: Rede com múltiplas camadas.
+   - **CNN (Convolutional Neural Network)**: Usada principalmente para processamento de imagens.
+   - **RNN (Recurrent Neural Network)**: Adequada para dados sequenciais, como séries temporais e texto.
+
+### 10. **Frameworks e Ferramentas**
+   - **TensorFlow**: Framework popular para construção e treinamento de redes neurais.
+   - **PyTorch**: Outra biblioteca amplamente usada, conhecida por sua flexibilidade e facilidade de uso.
+
+### Resumo dos 20% mais importantes:
+1. **Conceito Básico e Neurônio Artificial**: Entender a estrutura básica e funcionamento de um neurônio artificial.
+2. **Arquitetura de Redes Neurais**: Compreender as diferentes camadas e a profundidade das redes.
+3. **Funções de Ativação**: Conhecer as principais funções de ativação e suas aplicações.
+4. **Treinamento (Forward e Backward Propagation)**: Saber como as redes são treinadas e ajustadas.
+5. **Função de Custo**: Entender como medir o desempenho da rede.
+6. **Algoritmos de Otimização**: Conhecer os métodos para minimizar a função de custo.
+7. **Overfitting e Underfitting**: Saber identificar e evitar esses problemas.
+8. **Regularização**: Técnicas para melhorar a generalização da rede.
+9. **Tipos de Redes Neurais**: Conhecer os
+

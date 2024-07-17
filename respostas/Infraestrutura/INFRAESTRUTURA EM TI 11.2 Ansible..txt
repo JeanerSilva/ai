@@ -1,0 +1,74 @@
+INFRAESTRUTURA EM TI:: 11.2 Ansible.
+ -
+Claro! Ansible é uma ferramenta de automação de TI que pode ser usada para configuração de sistemas, implantação de software e orquestração de tarefas mais avançadas, como atualizações contínuas ou provisionamento de infraestrutura. A versão 11.2 do Ansible pode ter algumas especificidades, mas os conceitos fundamentais geralmente permanecem consistentes. Aqui estão os 20% mais importantes que você deve focar para entender 80% do Ansible:
+
+### 1. **Arquitetura do Ansible**
+   - **Control Node**: O nó de controle onde o Ansible é instalado e de onde os comandos são executados.
+   - **Managed Nodes**: Os nós gerenciados que são configurados e gerenciados pelo Ansible.
+
+### 2. **Playbooks**
+   - **YAML**: Playbooks são escritos em YAML, uma linguagem de serialização de dados que é fácil de ler e escrever.
+   - **Estrutura**: Compreender a estrutura básica de um playbook, incluindo `hosts`, `tasks`, `vars`, e `handlers`.
+
+### 3. **Inventário**
+   - **Hosts File**: Arquivo que lista os nós gerenciados. Pode ser um arquivo simples ou dinâmico.
+   - **Grupos**: Agrupamento de hosts para aplicar configurações específicas.
+
+### 4. **Módulos**
+   - **Built-in Modules**: Ansible vem com muitos módulos integrados para tarefas comuns, como `apt`, `yum`, `copy`, `template`, etc.
+   - **Custom Modules**: Possibilidade de escrever seus próprios módulos em Python ou outras linguagens.
+
+### 5. **Tarefas e Handlers**
+   - **Tasks**: Ações individuais que o Ansible executa em nós gerenciados.
+   - **Handlers**: Tarefas que são executadas apenas quando notificadas por outras tarefas.
+
+### 6. **Templates**
+   - **Jinja2**: Ansible usa a linguagem de template Jinja2 para criar arquivos de configuração dinâmicos.
+
+### 7. **Variáveis**
+   - **Definição e Escopo**: Variáveis podem ser definidas em playbooks, arquivos de inventário, ou diretamente na linha de comando.
+   - **Precedência**: Compreender a ordem de precedência das variáveis.
+
+### 8. **Roles**
+   - **Estrutura**: Roles são uma maneira de organizar playbooks em componentes reutilizáveis.
+   - **Galaxy**: Ansible Galaxy é um repositório de roles compartilháveis.
+
+### 9. **Loops e Condicionais**
+   - **Loops**: Uso de loops para iterar sobre listas de itens.
+   - **Condicionais**: Uso de condicionais para executar tarefas apenas se certas condições forem atendidas.
+
+### 10. **Idempotência**
+   - **Conceito**: Tarefas Ansible são idempotentes, o que significa que podem ser executadas múltiplas vezes sem alterar o resultado além da primeira aplicação.
+
+### 11. **Orquestração**
+   - **Sequenciamento**: Capacidade de orquestrar a execução de tarefas em múltiplos nós em uma ordem específica.
+
+### 12. **Segurança**
+   - **Vault**: Ferramenta do Ansible para criptografar dados sensíveis, como senhas e chaves.
+
+### 13. **Ansible Tower/AWX**
+   - **Interface Gráfica**: Ansible Tower (ou AWX, sua versão open-source) fornece uma interface gráfica para gerenciar playbooks, inventários e agendamentos.
+
+### 14. **Debugging e Logging**
+   - **Debugging**: Uso do módulo `debug` para imprimir variáveis e mensagens de depuração.
+   - **Logging**: Configuração de logs para monitorar a execução de playbooks.
+
+### 15. **Ansible Configuration File**
+   - **ansible.cfg**: Arquivo de configuração que pode ser usado para definir parâmetros globais.
+
+### 16. **Tags**
+   - **Uso de Tags**: Permite a execução seletiva de partes de um playbook.
+
+### 17. **Ansible Galaxy**
+   - **Repositório de Roles**: Uso de Ansible Galaxy para baixar e compartilhar roles.
+
+### 18. **Ansible Collections**
+   - **Pacotes de Conteúdo**: Collections são pacotes de módulos, plugins, roles e playbooks.
+
+### 19. **Plugins**
+   - **Tipos de Plugins**: Ansible suporta vários tipos de plugins, incluindo plugins de conexão, plugins de callback, e plugins de lookup.
+
+### 20. **Documentação e Comunidade**
+   - **Documentação Oficial**: A documentação oficial do Ansible é uma excelente fonte de aprendizado.
+   - **Comunidade**: Participar de fóruns, listas de discussão e eventos da comunidade An
+

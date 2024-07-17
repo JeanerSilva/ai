@@ -1,0 +1,47 @@
+INFRAESTRUTURA EM TI:: 05.7 Protocolo Server Message Block (SMB). 
+ -
+Claro! O Protocolo Server Message Block (SMB) é um protocolo de rede utilizado principalmente para fornecer acesso compartilhado a arquivos, impressoras e portas seriais entre nós em uma rede. Aqui estão os 20% mais importantes aprendizados sobre SMB que ajudarão a compreender os 80% necessários:
+
+1. **Definição e Propósito**:
+   - **SMB** é um protocolo de rede que permite que aplicativos em um computador leiam e gravem em arquivos e solicitem serviços de programas em um computador de rede.
+   - **Objetivo Principal**: Facilitar o compartilhamento de arquivos, impressoras e outros recursos de rede.
+
+2. **História e Evolução**:
+   - **Origem**: Desenvolvido pela IBM na década de 1980.
+   - **Evolução**: SMB evoluiu para CIFS (Common Internet File System) e depois para versões mais modernas como SMB2 e SMB3, que oferecem melhorias em desempenho e segurança.
+
+3. **Arquitetura e Funcionamento**:
+   - **Modelo Cliente-Servidor**: SMB opera em um modelo cliente-servidor, onde o cliente solicita serviços e o servidor os fornece.
+   - **Transporte**: Originalmente operava sobre NetBIOS, mas agora pode operar diretamente sobre TCP/IP.
+
+4. **Principais Funcionalidades**:
+   - **Compartilhamento de Arquivos**: Permite que arquivos sejam compartilhados entre diferentes sistemas operacionais.
+   - **Impressoras e Outros Recursos**: Além de arquivos, SMB permite o compartilhamento de impressoras e outros dispositivos de rede.
+
+5. **Segurança**:
+   - **Autenticação**: SMB suporta autenticação de usuários para garantir que apenas usuários autorizados possam acessar recursos.
+   - **Criptografia**: Versões mais recentes, como SMB3, oferecem criptografia para proteger dados em trânsito.
+
+6. **Versões do SMB**:
+   - **SMB1**: A versão original, agora considerada insegura e obsoleta.
+   - **SMB2**: Introduzida com o Windows Vista, oferece melhorias significativas em desempenho e segurança.
+   - **SMB3**: Introduzida com o Windows 8 e Windows Server 2012, adiciona recursos como criptografia de dados e suporte a grandes volumes de dados.
+
+7. **Implementações e Compatibilidade**:
+   - **Sistemas Operacionais**: SMB é amplamente suportado em sistemas operacionais Windows, mas também é compatível com Linux e macOS através de implementações como Samba.
+   - **Samba**: Uma implementação de SMB/CIFS para sistemas Unix/Linux que permite interoperabilidade com sistemas Windows.
+
+8. **Configuração e Administração**:
+   - **Configuração de Compartilhamentos**: Envolve a criação de compartilhamentos de rede e a definição de permissões de acesso.
+   - **Gerenciamento de Permissões**: Controle de acesso baseado em usuários e grupos para garantir segurança e privacidade.
+
+9. **Desempenho e Otimização**:
+   - **Tuning**: Ajustes de parâmetros de rede e configuração de SMB para otimizar o desempenho.
+   - **Caching**: Uso de caching para melhorar a velocidade de acesso a arquivos frequentemente utilizados.
+
+10. **Problemas Comuns e Soluções**:
+    - **Conectividade**: Problemas de conectividade podem ser resolvidos verificando configurações de rede e firewall.
+    - **Permissões**: Problemas de acesso geralmente estão relacionados a permissões incorretas ou falta de autenticação adequada.
+
+Compreender esses pontos-chave fornecerá uma base sólida para entender como o SMB funciona, suas aplicações, e como configurá-lo e gerenciá-lo de maneira eficaz.
+

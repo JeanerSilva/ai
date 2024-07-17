@@ -1,0 +1,57 @@
+II MICROECONOMIA:: 2.6 Elasticidade da demanda.
+ -
+Claro! A elasticidade da demanda é um conceito fundamental em economia que mede a sensibilidade da quantidade demandada de um bem ou serviço a mudanças em seus determinantes, como preço, renda e preços de bens relacionados. Aqui estão os 20% mais importantes aprendizados sobre elasticidade da demanda que ajudarão você a compreender os 80% necessários:
+
+1. **Definição de Elasticidade-Preço da Demanda**: A elasticidade-preço da demanda (Ep) mede a resposta da quantidade demandada de um bem a uma mudança no seu preço. É calculada como a variação percentual na quantidade demandada dividida pela variação percentual no preço.
+
+2. **Fórmula da Elasticidade-Preço da Demanda**: Ep = (% mudança na quantidade demandada) / (% mudança no preço).
+
+3. **Tipos de Elasticidade-Preço da Demanda**:
+   - **Elástica (Ep > 1)**: A quantidade demandada muda mais do que proporcionalmente ao preço.
+   - **Inelástica (Ep < 1)**: A quantidade demandada muda menos do que proporcionalmente ao preço.
+   - **Unitária (Ep = 1)**: A quantidade demandada muda proporcionalmente ao preço.
+
+4. **Determinantes da Elasticidade-Preço da Demanda**:
+   - **Disponibilidade de Substitutos**: Quanto mais substitutos disponíveis, mais elástica é a demanda.
+   - **Necessidade vs. Luxo**: Bens de necessidade tendem a ter demanda inelástica, enquanto bens de luxo tendem a ter demanda elástica.
+   - **Proporção da Renda Gasta no Bem**: Bens que consomem uma grande proporção da renda tendem a ter demanda mais elástica.
+   - **Horizonte Temporal**: A demanda tende a ser mais elástica no longo prazo do que no curto prazo.
+
+5. **Elasticidade-Renda da Demanda**: Mede a resposta da quantidade demandada a mudanças na renda dos consumidores. É calculada como a variação percentual na quantidade demandada dividida pela variação percentual na renda.
+
+6. **Fórmula da Elasticidade-Renda da Demanda**: Er = (% mudança na quantidade demandada) / (% mudança na renda).
+
+7. **Tipos de Bens com Base na Elasticidade-Renda**:
+   - **Bens Normais (Er > 0)**: A demanda aumenta com o aumento da renda.
+   - **Bens Inferiores (Er < 0)**: A demanda diminui com o aumento da renda.
+
+8. **Elasticidade-Preço Cruzada da Demanda**: Mede a resposta da quantidade demandada de um bem a mudanças no preço de outro bem. É calculada como a variação percentual na quantidade demandada de um bem dividida pela variação percentual no preço de outro bem.
+
+9. **Fórmula da Elasticidade-Preço Cruzada da Demanda**: Ec = (% mudança na quantidade demandada de Bem A) / (% mudança no preço de Bem B).
+
+10. **Tipos de Relações com Base na Elasticidade-Preço Cruzada**:
+    - **Bens Substitutos (Ec > 0)**: A demanda por um bem aumenta quando o preço do outro bem aumenta.
+    - **Bens Complementares (Ec < 0)**: A demanda por um bem diminui quando o preço do outro bem aumenta.
+
+11. **Interpretação dos Valores de Elasticidade**:
+    - **Ep > 1**: Demanda elástica.
+    - **Ep < 1**: Demanda inelástica.
+    - **Ep = 1**: Demanda unitária.
+    - **Er > 0**: Bem normal.
+    - **Er < 0**: Bem inferior.
+    - **Ec > 0**: Bens substitutos.
+    - **Ec < 0**: Bens complementares.
+
+12. **Impacto da Elasticidade na Receita Total**:
+    - **Demanda Elástica**: Aumentar o preço reduz a receita total.
+    - **Demanda Inelástica**: Aumentar o preço aumenta a receita total.
+    - **Demanda Unitária**: Mudanças no preço não afetam a receita total.
+
+13. **Elasticidade e Política de Preços**: Empresas usam a elasticidade da demanda para definir estratégias de preços. Produtos com demanda inelástica podem ter preços aumentados para maximizar a receita.
+
+14. **Elasticidade e Impostos**: A elasticidade da demanda influencia quem arca com o peso de um imposto. Se a demanda é inelástica, os consumidores suportam a maior parte do imposto.
+
+15. **Elasticidade e Bem-Estar Social**: A elasticidade da demanda é crucial para avaliar o impacto de políticas públicas, como subsídios e impostos, no bem-estar social.
+
+16. **Elasticidade e Decisões de Produção**
+

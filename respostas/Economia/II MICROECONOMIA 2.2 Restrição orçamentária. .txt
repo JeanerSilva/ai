@@ -1,0 +1,66 @@
+II MICROECONOMIA:: 2.2 Restrição orçamentária. 
+ -
+Claro, a restrição orçamentária é um conceito fundamental em economia que descreve as limitações que os consumidores enfrentam devido à sua renda limitada e aos preços dos bens e serviços. Aqui estão os 20% mais importantes aprendizados sobre restrição orçamentária que te ajudarão a compreender 80% do assunto:
+
+1. **Definição de Restrição Orçamentária**:
+   - A restrição orçamentária representa todas as combinações possíveis de bens e serviços que um consumidor pode adquirir, dado seu orçamento e os preços dos bens.
+
+2. **Equação da Restrição Orçamentária**:
+   - A fórmula básica é \( P_x \cdot X + P_y \cdot Y = M \), onde \( P_x \) e \( P_y \) são os preços dos bens X e Y, respectivamente, e M é a renda do consumidor.
+
+3. **Linha Orçamentária**:
+   - A linha orçamentária é uma representação gráfica da restrição orçamentária. Ela mostra todas as combinações de dois bens que podem ser comprados com uma renda fixa.
+
+4. **Inclinação da Linha Orçamentária**:
+   - A inclinação da linha orçamentária é dada pela razão dos preços dos dois bens (\( -P_x / P_y \)). Ela indica a taxa de troca entre os dois bens.
+
+5. **Deslocamento da Linha Orçamentária**:
+   - Um aumento na renda desloca a linha orçamentária para fora (paralelamente), enquanto uma diminuição na renda a desloca para dentro.
+
+6. **Mudança nos Preços dos Bens**:
+   - Se o preço de um bem aumenta, a linha orçamentária gira para dentro em relação ao eixo desse bem. Se o preço diminui, a linha gira para fora.
+
+7. **Cesta de Consumo**:
+   - Refere-se à combinação específica de bens e serviços que um consumidor escolhe dentro de sua restrição orçamentária.
+
+8. **Maximização da Utilidade**:
+   - Consumidores escolhem a cesta de consumo que maximiza sua utilidade (satisfação) dentro da restrição orçamentária.
+
+9. **Ponto Ótimo de Consumo**:
+   - O ponto ótimo é onde a linha de restrição orçamentária é tangente a uma curva de indiferença (representando níveis iguais de utilidade).
+
+10. **Curvas de Indiferença**:
+    - Representam combinações de bens que proporcionam o mesmo nível de satisfação ao consumidor. Elas são usadas em conjunto com a linha orçamentária para determinar o ponto ótimo de consumo.
+
+11. **Efeito Renda e Efeito Substituição**:
+    - Mudanças nos preços dos bens resultam em dois efeitos: o efeito renda (mudança no poder de compra) e o efeito substituição (mudança na quantidade demandada devido à alteração no preço relativo).
+
+12. **Bens Normais e Inferiores**:
+    - Bens normais são aqueles cuja demanda aumenta com o aumento da renda. Bens inferiores são aqueles cuja demanda diminui com o aumento da renda.
+
+13. **Bens Substitutos e Complementares**:
+    - Bens substitutos são aqueles que podem substituir um ao outro (ex: manteiga e margarina). Bens complementares são consumidos juntos (ex: café e açúcar).
+
+14. **Elasticidade-preço da Demanda**:
+    - Mede a sensibilidade da quantidade demandada de um bem em relação à mudança no seu preço.
+
+15. **Elasticidade-renda da Demanda**:
+    - Mede a sensibilidade da quantidade demandada de um bem em relação à mudança na renda do consumidor.
+
+16. **Preferências do Consumidor**:
+    - As preferências determinam como os consumidores escolhem entre diferentes cestas de consumo, baseadas em suas preferências e restrições orçamentárias.
+
+17. **Função de Utilidade**:
+    - Uma função matemática que representa a satisfação ou utilidade que um consumidor obtém de diferentes cestas de consumo.
+
+18. **Teoria da Escolha do Consumidor**:
+    - Estuda como os consumidores tomam decisões de compra baseadas em suas preferências e restrições orçamentárias.
+
+19. **Curva de Engel**:
+    - Mostra a relação entre a renda do consumidor e a quantidade demandada de um bem.
+
+20. **Trade-offs**:
+    - Refere-se às escolhas que os consumidores fazem ao decidir entre diferentes bens e serviços, considerando suas restrições orçamentárias.
+
+Compreender esses pontos-chave te dará uma base sólida para entender como os consumidores tomam decisões de compra e como as mudanças na renda e nos preços afetam essas decisões.
+

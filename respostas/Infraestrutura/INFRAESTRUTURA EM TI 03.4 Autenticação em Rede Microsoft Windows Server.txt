@@ -1,0 +1,47 @@
+INFRAESTRUTURA EM TI:: 03.4 Autenticação em Rede Microsoft Windows Server
+ -
+Claro, a autenticação em rede no Microsoft Windows Server é um tópico vasto e essencial para a segurança e a gestão de redes corporativas. Vamos focar nos 20% mais importantes que fornecerão uma base sólida para entender os 80% restantes:
+
+### 1. **Active Directory (AD)**
+   - **Definição e Função**: O Active Directory é um serviço de diretório desenvolvido pela Microsoft para redes Windows. Ele armazena informações sobre objetos na rede e facilita a autenticação e autorização de usuários e computadores.
+   - **Estrutura**: Compreender a estrutura do AD, incluindo domínios, árvores, florestas e unidades organizacionais (OUs), é crucial.
+
+### 2. **Kerberos**
+   - **Protocolo de Autenticação**: Kerberos é o protocolo de autenticação padrão no Windows Server. Ele utiliza tickets para permitir que os nós da rede se autentiquem de maneira segura.
+   - **Funcionamento**: Entender como o Kerberos funciona, incluindo o papel do Key Distribution Center (KDC), que consiste no Authentication Server (AS) e no Ticket Granting Server (TGS).
+
+### 3. **LDAP (Lightweight Directory Access Protocol)**
+   - **Protocolo de Acesso**: LDAP é usado para acessar e gerenciar o Active Directory. Ele permite que aplicativos se comuniquem com o AD para autenticação e busca de informações.
+   - **Operações Básicas**: Conhecer operações básicas do LDAP, como bind, search, compare, add, delete, modify e modify DN.
+
+### 4. **Group Policy**
+   - **Definição e Uso**: Group Policy é uma ferramenta para gerenciar configurações de computadores e usuários em um ambiente AD. Ela permite a aplicação de políticas de segurança e configurações de software.
+   - **Implementação**: Saber como criar, editar e aplicar Group Policies é fundamental para a gestão de uma rede Windows.
+
+### 5. **Single Sign-On (SSO)**
+   - **Conceito**: SSO permite que um usuário se autentique uma vez e acesse múltiplos sistemas sem precisar fornecer credenciais novamente.
+   - **Implementação no Windows Server**: Entender como configurar e gerenciar SSO no ambiente Windows, incluindo a integração com outros serviços e aplicações.
+
+### 6. **NTLM (NT LAN Manager)**
+   - **Protocolo de Autenticação**: NTLM é um conjunto de protocolos de segurança que fornece autenticação, integridade e confidencialidade aos usuários.
+   - **Diferença para Kerberos**: Saber quando e por que o NTLM é usado em vez do Kerberos, especialmente em ambientes legados ou em situações onde o Kerberos não é aplicável.
+
+### 7. **Certificados e PKI (Public Key Infrastructure)**
+   - **Uso de Certificados**: Certificados digitais são usados para autenticação e criptografia. Compreender como configurar e gerenciar uma PKI no Windows Server é essencial.
+   - **Certificados de Servidor e Cliente**: Saber como emitir e gerenciar certificados para servidores e clientes.
+
+### 8. **Autenticação Multifator (MFA)**
+   - **Conceito**: MFA adiciona uma camada extra de segurança, exigindo mais de uma forma de verificação para acessar recursos.
+   - **Implementação**: Conhecer as opções de MFA disponíveis no Windows Server e como configurá-las.
+
+### 9. **Federation Services (AD FS)**
+   - **Definição e Uso**: AD FS permite a autenticação de usuários em diferentes organizações sem a necessidade de duplicar contas de usuário.
+   - **Configuração**: Saber como configurar e gerenciar AD FS para fornecer autenticação federada.
+
+### 10. **Auditoria e Monitoramento**
+   - **Importância**: Monitorar e auditar eventos de autenticação é crucial para a segurança.
+   - **Ferramentas**: Conhecer as ferramentas e técnicas para auditar e monitorar eventos de autenticação no Windows Server, como o Event Viewer e o Advanced Threat Analytics (ATA).
+
+### Conclusão
+Esses tópicos cobrem os aspectos mais críticos da autenticação em rede no Microsoft Windows Server. Compreender esses conceitos fornecerá uma base sólida para explorar mais detalhadamente os outros aspectos e nuances da autenticação e segurança em redes Windows.
+

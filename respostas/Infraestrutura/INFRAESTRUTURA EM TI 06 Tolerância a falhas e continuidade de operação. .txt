@@ -1,0 +1,77 @@
+INFRAESTRUTURA EM TI:: 06 Tolerância a falhas e continuidade de operação. 
+ -
+Claro, a regra de Pareto (ou princípio 80/20) pode ser aplicada para identificar os aspectos mais críticos da tolerância a falhas e continuidade de operação. Aqui estão os 20% mais importantes aprendizados que provavelmente cobrirão 80% do entendimento necessário sobre o assunto:
+
+### 1. **Conceito de Tolerância a Falhas**
+   - **Definição**: A capacidade de um sistema continuar operando corretamente mesmo quando uma ou mais de suas componentes falham.
+   - **Importância**: Minimiza o impacto das falhas e mantém a disponibilidade do serviço.
+
+### 2. **Conceito de Continuidade de Operação**
+   - **Definição**: Estratégias e processos implementados para garantir que as operações críticas continuem durante e após uma interrupção.
+   - **Importância**: Assegura a resiliência do negócio e a confiança dos clientes.
+
+### 3. **Redundância**
+   - **Tipos de Redundância**: Hardware (servidores, discos), Software (sistemas operacionais, aplicativos), e Dados (backups, replicação).
+   - **Benefícios**: Aumenta a disponibilidade e a confiabilidade do sistema.
+
+### 4. **Failover e Failback**
+   - **Failover**: Processo de mudar automaticamente para um sistema de backup quando o sistema principal falha.
+   - **Failback**: Processo de retornar ao sistema original após a recuperação da falha.
+   - **Importância**: Minimiza o tempo de inatividade.
+
+### 5. **Monitoramento e Detecção de Falhas**
+   - **Ferramentas**: Sistemas de monitoramento (Nagios, Zabbix), logs, alertas.
+   - **Importância**: Identificação precoce de problemas para ação rápida.
+
+### 6. **Planejamento de Recuperação de Desastres (DRP)**
+   - **Componentes**: Análise de impacto, estratégias de recuperação, testes e manutenção.
+   - **Importância**: Prepara a organização para responder eficazmente a desastres.
+
+### 7. **Backup e Recuperação de Dados**
+   - **Tipos de Backup**: Completo, incremental, diferencial.
+   - **Importância**: Garante que os dados possam ser restaurados após uma falha.
+
+### 8. **Alta Disponibilidade (HA)**
+   - **Definição**: Sistemas projetados para operar continuamente por longos períodos.
+   - **Técnicas**: Clustering, balanceamento de carga.
+   - **Importância**: Minimiza o tempo de inatividade.
+
+### 9. **Testes de Continuidade e Recuperação**
+   - **Tipos de Testes**: Testes de mesa, simulações, testes completos.
+   - **Importância**: Verifica a eficácia dos planos de continuidade e recuperação.
+
+### 10. **Documentação e Treinamento**
+   - **Documentação**: Planos de continuidade, procedimentos de recuperação.
+   - **Treinamento**: Treinamento regular para a equipe sobre procedimentos de emergência.
+   - **Importância**: Garante que todos saibam o que fazer em caso de falha.
+
+### 11. **Segurança da Informação**
+   - **Medidas**: Criptografia, controle de acesso, firewalls.
+   - **Importância**: Protege os dados contra perda e acesso não autorizado.
+
+### 12. **Análise de Risco**
+   - **Processo**: Identificação, avaliação e mitigação de riscos.
+   - **Importância**: Ajuda a priorizar recursos e esforços para as áreas mais críticas.
+
+### 13. **SLA (Service Level Agreement)**
+   - **Definição**: Acordos que definem o nível de serviço esperado e as responsabilidades.
+   - **Importância**: Estabelece expectativas claras e responsabilidades.
+
+### 14. **Automação**
+   - **Ferramentas**: Scripts, ferramentas de orquestração (Ansible, Puppet).
+   - **Importância**: Reduz erros humanos e acelera a recuperação.
+
+### 15. **Escalabilidade**
+   - **Definição**: Capacidade de um sistema crescer e se adaptar a aumentos na carga de trabalho.
+   - **Importância**: Garante que o sistema possa lidar com picos de demanda sem falhar.
+
+### 16. **Virtualização e Contêineres**
+   - **Tecnologias**: VMware, Docker, Kubernetes.
+   - **Benefícios**: Facilita a recuperação rápida e a migração de cargas de trabalho.
+
+### 17. **Cloud Computing**
+   - **Serviços**: IaaS, PaaS, SaaS.
+   - **Benefícios**: Oferece alta disponibilidade e recuperação de desastres integradas.
+
+### 18. **Compliance e Regulament
+

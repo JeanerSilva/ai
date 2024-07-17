@@ -1,0 +1,76 @@
+BANCOS DE DADOS:: 02.1 Modelagens de dados relacional, 
+ -
+Claro! A Lei de Pareto, ou princípio 80/20, sugere que 20% dos esforços podem gerar 80% dos resultados. Aplicando isso ao aprendizado sobre modelagem de dados relacional, aqui estão os 20% mais importantes que você deve focar para obter uma compreensão sólida:
+
+### 1. **Entidades e Atributos**
+   - **Entidades**: Representam objetos ou conceitos do mundo real que têm existência independente (por exemplo, Cliente, Produto).
+   - **Atributos**: São as propriedades ou características das entidades (por exemplo, Nome, Endereço para a entidade Cliente).
+
+### 2. **Chaves Primárias (Primary Keys)**
+   - **Definição**: Um atributo ou conjunto de atributos que identifica unicamente uma instância de uma entidade.
+   - **Importância**: Garantem a unicidade de cada registro na tabela.
+
+### 3. **Chaves Estrangeiras (Foreign Keys)**
+   - **Definição**: Um atributo ou conjunto de atributos em uma tabela que cria um vínculo com a chave primária de outra tabela.
+   - **Importância**: Mantêm a integridade referencial entre tabelas.
+
+### 4. **Relacionamentos**
+   - **Tipos**: Um-para-Um (1:1), Um-para-Muitos (1:N), Muitos-para-Muitos (N:M).
+   - **Cardinalidade**: Define a natureza do relacionamento entre entidades.
+
+### 5. **Normalização**
+   - **Objetivo**: Eliminar redundâncias e dependências anômalas.
+   - **Formas Normais**: 1NF (Primeira Forma Normal), 2NF (Segunda Forma Normal), 3NF (Terceira Forma Normal), e BCNF (Forma Normal de Boyce-Codd).
+
+### 6. **Modelo Entidade-Relacionamento (ER)**
+   - **Componentes**: Entidades, Relacionamentos, Atributos.
+   - **Diagrama ER**: Ferramenta visual para representar o modelo de dados.
+
+### 7. **Integridade de Dados**
+   - **Integridade de Entidade**: Cada tabela deve ter uma chave primária.
+   - **Integridade Referencial**: As chaves estrangeiras devem corresponder a chaves primárias válidas.
+
+### 8. **Consultas SQL Básicas**
+   - **SELECT**: Para recuperar dados.
+   - **INSERT**: Para adicionar novos dados.
+   - **UPDATE**: Para modificar dados existentes.
+   - **DELETE**: Para remover dados.
+
+### 9. **Índices**
+   - **Objetivo**: Melhorar a performance das consultas.
+   - **Tipos**: Índices únicos, compostos, e de texto completo.
+
+### 10. **Transações**
+   - **Propriedades ACID**: Atomicidade, Consistência, Isolamento, Durabilidade.
+   - **Importância**: Garantem que as operações no banco de dados sejam realizadas de forma confiável.
+
+### 11. **Diagramas de Classes UML**
+   - **Uso**: Para representar a estrutura de um sistema de forma mais detalhada.
+   - **Componentes**: Classes, Atributos, Métodos, Relacionamentos.
+
+### 12. **Modelagem Física vs. Lógica**
+   - **Modelo Lógico**: Representação abstrata dos dados.
+   - **Modelo Físico**: Implementação concreta no banco de dados.
+
+### 13. **Tipos de Dados**
+   - **Comuns**: Inteiros, Strings, Datas, Booleanos.
+   - **Importância**: Escolher o tipo de dado correto para otimizar o armazenamento e a performance.
+
+### 14. **Integridade de Domínio**
+   - **Definição**: Conjunto de regras que garantem que os dados inseridos em uma coluna sejam válidos.
+   - **Exemplo**: Restrições de tipo, valores permitidos.
+
+### 15. **Diagramas de Fluxo de Dados (DFD)**
+   - **Uso**: Para representar o fluxo de informações dentro de um sistema.
+   - **Componentes**: Processos, Armazenamento de Dados, Fluxos de Dados, Entidades Externas.
+
+### 16. **Cardinalidade e Opcionalidade**
+   - **Cardinalidade**: Número de instâncias de uma entidade que podem estar associadas a uma instância de outra entidade.
+   - **Opcionalidade**: Indica se a participação no relacionamento é obrigatória ou opcional.
+
+### 17. **Denormalização**
+   - **Objetivo**: Melhorar a performance de leitura ao custo de maior redundância.
+   - **Quando Usar**: Em sistemas de leitura intensiva onde a performance é crítica.
+
+### 18. **Diagramas de Relacionamento de
+

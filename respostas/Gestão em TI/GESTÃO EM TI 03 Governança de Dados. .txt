@@ -1,0 +1,87 @@
+GESTÃO EM TI:: 03 Governança de Dados. 
+ -
+Claro, a Governança de Dados é um campo vasto e essencial para a gestão eficaz de dados em qualquer organização. Abaixo, destaco os 20% mais importantes aprendizados que ajudarão você a compreender os 80% necessários sobre Governança de Dados:
+
+1. **Definição de Governança de Dados**:
+   - Governança de Dados refere-se ao conjunto de práticas, políticas e processos que garantem a alta qualidade, segurança e gestão eficaz dos dados dentro de uma organização.
+
+2. **Importância da Governança de Dados**:
+   - Assegura a integridade, disponibilidade e confidencialidade dos dados.
+   - Facilita a conformidade com regulamentações e normas.
+   - Melhora a tomada de decisões baseada em dados precisos e confiáveis.
+
+3. **Principais Componentes**:
+   - **Políticas e Procedimentos**: Regras e diretrizes que governam a gestão de dados.
+   - **Pessoas e Estruturas Organizacionais**: Papéis e responsabilidades claras para a gestão de dados.
+   - **Tecnologia e Ferramentas**: Sistemas e softwares que suportam a governança de dados.
+
+4. **Qualidade dos Dados**:
+   - Envolve a precisão, completude, consistência, atualidade e relevância dos dados.
+   - Ferramentas de qualidade de dados ajudam a identificar e corrigir problemas.
+
+5. **Segurança dos Dados**:
+   - Proteção contra acesso não autorizado, perda ou corrupção de dados.
+   - Inclui criptografia, controle de acesso e monitoramento de atividades.
+
+6. **Conformidade e Regulamentação**:
+   - Adesão a leis e regulamentos como GDPR, LGPD, HIPAA, etc.
+   - Implementação de políticas de privacidade e proteção de dados.
+
+7. **Gestão de Metadados**:
+   - Metadados são dados sobre dados, como definições, origens e contextos.
+   - Facilita a compreensão e uso eficaz dos dados.
+
+8. **Arquitetura de Dados**:
+   - Estrutura e organização dos dados dentro da empresa.
+   - Inclui modelos de dados, fluxos de dados e integração de sistemas.
+
+9. **Data Stewardship**:
+   - Responsáveis pela gestão e qualidade dos dados.
+   - Garantem que as políticas de governança de dados sejam seguidas.
+
+10. **Data Ownership**:
+    - Definição clara de quem é responsável pelos dados.
+    - Facilita a responsabilidade e a gestão eficaz dos dados.
+
+11. **Data Catalog**:
+    - Ferramenta que organiza e documenta os dados disponíveis na organização.
+    - Facilita a descoberta e o uso dos dados.
+
+12. **Data Lineage**:
+    - Rastreabilidade da origem e transformação dos dados ao longo do tempo.
+    - Importante para auditorias e conformidade.
+
+13. **Data Governance Framework**:
+    - Estrutura que define como a governança de dados será implementada e gerida.
+    - Inclui políticas, processos, papéis e responsabilidades.
+
+14. **Data Governance Council**:
+    - Comitê de líderes e stakeholders que supervisionam a governança de dados.
+    - Tomam decisões estratégicas e resolvem conflitos.
+
+15. **Data Governance Metrics**:
+    - Medidas para avaliar a eficácia da governança de dados.
+    - Inclui KPIs como qualidade dos dados, conformidade e segurança.
+
+16. **Data Governance Maturity Model**:
+    - Avaliação do nível de maturidade da governança de dados na organização.
+    - Ajuda a identificar áreas de melhoria e planejar o desenvolvimento.
+
+17. **Data Privacy**:
+    - Proteção dos dados pessoais e sensíveis.
+    - Implementação de políticas de privacidade e consentimento.
+
+18. **Data Integration**:
+    - Combinação de dados de diferentes fontes para uma visão unificada.
+    - Importante para a consistência e qualidade dos dados.
+
+19. **Data Governance Tools**:
+    - Softwares que suportam a implementação e gestão da governança de dados.
+    - Exemplos incluem Collibra, Informatica, Alation, etc.
+
+20. **Cultura de Dados**:
+    - Promoção de uma cultura organizacional que valoriza e utiliza dados de forma eficaz.
+    - Envolve treinamento, comunicação e engajamento dos funcionários.
+
+Esses pontos fornecem uma base sólida para entender a Governança de Dados e sua importância na gestão eficaz dos dados dentro de uma organização.
+

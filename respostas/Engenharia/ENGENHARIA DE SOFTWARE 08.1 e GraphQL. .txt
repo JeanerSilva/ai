@@ -1,0 +1,77 @@
+ENGENHARIA DE SOFTWARE:: 08.1 e GraphQL. 
+ -
+Claro! Vamos abordar os conceitos fundamentais de OAuth 2.0 e GraphQL que são essenciais para entender a maior parte desses tópicos.
+
+### OAuth 2.0
+
+1. **O que é OAuth 2.0?**
+   - OAuth 2.0 é um protocolo de autorização que permite que aplicativos de terceiros obtenham acesso limitado a recursos de um usuário sem expor suas credenciais.
+
+2. **Fluxos de Autorização (Grant Types)**
+   - **Authorization Code Grant:** Usado por aplicativos web e móveis para obter tokens de acesso e atualização.
+   - **Implicit Grant:** Usado principalmente por aplicativos de uma única página (SPA), mas está sendo desaconselhado em favor do Authorization Code com PKCE.
+   - **Resource Owner Password Credentials Grant:** Permite que o aplicativo use o nome de usuário e senha do usuário para obter um token de acesso.
+   - **Client Credentials Grant:** Usado para autenticação de servidor a servidor.
+
+3. **Tokens**
+   - **Access Token:** Token que permite acesso aos recursos protegidos.
+   - **Refresh Token:** Token que permite obter um novo access token sem reautenticar o usuário.
+
+4. **Scopes**
+   - Scopes são permissões que definem o que o token de acesso pode fazer e quais recursos ele pode acessar.
+
+5. **PKCE (Proof Key for Code Exchange)**
+   - Um aprimoramento do Authorization Code Grant para aplicativos móveis e SPAs, que adiciona uma camada extra de segurança.
+
+### GraphQL
+
+1. **O que é GraphQL?**
+   - GraphQL é uma linguagem de consulta para APIs que permite aos clientes solicitar exatamente os dados de que precisam, e nada mais.
+
+2. **Schemas e Tipos**
+   - O schema define a estrutura da API GraphQL e é composto por tipos, que podem ser objetos, enums, interfaces, etc.
+
+3. **Queries**
+   - Queries são usadas para ler dados. Elas permitem que o cliente especifique exatamente quais campos deseja.
+
+4. **Mutations**
+   - Mutations são usadas para modificar dados. Elas são semelhantes às queries, mas indicam operações que alteram o estado.
+
+5. **Resolvers**
+   - Resolvers são funções que resolvem um valor para um tipo ou campo em um schema GraphQL.
+
+6. **Fragments**
+   - Fragments permitem reutilizar partes de consultas, tornando-as mais eficientes e organizadas.
+
+7. **Directives**
+   - Directives são usadas para modificar a execução de consultas e mutações. Exemplos incluem `@include` e `@skip`.
+
+8. **Subscriptions**
+   - Subscriptions permitem que os clientes recebam atualizações em tempo real quando os dados mudam.
+
+9. **Introspection**
+   - Introspection permite que os clientes consultem o schema da API para descobrir quais tipos e operações estão disponíveis.
+
+10. **Apollo Client/Server**
+    - Apollo é uma das implementações mais populares de GraphQL, oferecendo ferramentas tanto para o cliente quanto para o servidor.
+
+### Conclusão
+
+Os 20% mais importantes de OAuth 2.0 e GraphQL que cobrem 80% do entendimento necessário são:
+
+1. **OAuth 2.0:**
+   - Compreender o que é OAuth 2.0 e seus principais fluxos de autorização.
+   - Saber o que são Access Tokens e Refresh Tokens.
+   - Entender o conceito de Scopes.
+   - Conhecer o PKCE para segurança adicional.
+
+2. **GraphQL:**
+   - Compreender o que é GraphQL e a estrutura de schemas e tipos.
+   - Saber como funcionam Queries e Mutations.
+   - Entender o papel dos Resolvers.
+   - Conhecer Fragments e Directives para consultas eficientes.
+   - Saber sobre Subscriptions para atualizações em tempo real.
+   - Familiarizar-se com a introspecção e ferramentas como Apollo.
+
+Com esses conceitos, você terá uma base sólida para explorar mais profundamente OAuth 2.0 e GraphQL.
+

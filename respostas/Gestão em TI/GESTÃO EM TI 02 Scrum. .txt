@@ -1,0 +1,35 @@
+GESTÃO EM TI:: 02 Scrum. 
+ -
+Claro! Scrum é uma estrutura ágil para gerenciar projetos complexos, especialmente no desenvolvimento de software. Aqui estão os 20% mais importantes aprendizados sobre Scrum que te ajudarão a compreender 80% do necessário:
+
+1. **Papéis no Scrum**:
+   - **Product Owner**: Responsável por maximizar o valor do produto e gerenciar o Product Backlog.
+   - **Scrum Master**: Facilita o processo Scrum, remove impedimentos e garante que a equipe siga as práticas Scrum.
+   - **Development Team**: Grupo auto-organizado e multifuncional que trabalha para entregar incrementos do produto.
+
+2. **Artefatos do Scrum**:
+   - **Product Backlog**: Lista priorizada de tudo que é necessário no produto, gerenciada pelo Product Owner.
+   - **Sprint Backlog**: Conjunto de itens do Product Backlog selecionados para a Sprint, mais um plano para entregar o incremento.
+   - **Incremento**: Soma de todos os itens do Product Backlog completados durante uma Sprint e o valor de todos os incrementos anteriores.
+
+3. **Eventos do Scrum**:
+   - **Sprint**: Período de tempo fixo (geralmente 2-4 semanas) durante o qual um incremento do produto é criado.
+   - **Sprint Planning**: Reunião para definir o que será feito na Sprint e como o trabalho será realizado.
+   - **Daily Scrum**: Reunião diária de 15 minutos para sincronizar atividades e criar um plano para as próximas 24 horas.
+   - **Sprint Review**: Reunião no final da Sprint para inspecionar o incremento e adaptar o Product Backlog, se necessário.
+   - **Sprint Retrospective**: Reunião para refletir sobre a Sprint passada e identificar melhorias para a próxima Sprint.
+
+4. **Valores do Scrum**:
+   - **Coragem**: Para fazer a coisa certa e trabalhar em problemas difíceis.
+   - **Foco**: Todos se concentram no trabalho da Sprint e nos objetivos do Scrum Team.
+   - **Comprometimento**: As pessoas se comprometem pessoalmente a alcançar os objetivos do Scrum Team.
+   - **Respeito**: Os membros do Scrum Team respeitam uns aos outros para serem pessoas capazes e independentes.
+   - **Abertura**: O Scrum Team e seus stakeholders concordam em serem abertos sobre todo o trabalho e os desafios com a realização do trabalho.
+
+5. **Transparência, Inspeção e Adaptação**:
+   - **Transparência**: Todos os aspectos significativos do processo devem ser visíveis para aqueles responsáveis pelo resultado.
+   - **Inspeção**: Os usuários do Scrum devem frequentemente inspecionar os artefatos e o progresso em direção a um objetivo para detectar variações indesejadas.
+   - **Adaptação**: Se um inspetor determina que um ou mais aspectos de um processo desviam-se fora dos limites aceitáveis e que o produto resultante será inaceitável, o processo ou o material sendo processado deve ser ajustado.
+
+Compreender esses elementos fundamentais do Scrum te dará uma base sólida para entender como essa estrutura ágil funciona e como pode ser aplicada para gerenciar projetos de forma eficiente e eficaz.
+
