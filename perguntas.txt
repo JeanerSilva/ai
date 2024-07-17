@@ -132,3 +132,42 @@ GESTÃO EM TI:: 01 Kanban.
 GESTÃO EM TI:: 02 Scrum. 
 GESTÃO EM TI:: 03 Governança de Dados. 
 GESTÃO EM TI:: 04 ITIL v4
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1 Raciocínio lógico. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1.1 Estruturas lógicas. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1.2 Lógica de argumentação: analogias, inferências, deduções e conclusões. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1.3 Lógica sentencial (ou proposicional). 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 10.3.1 Proposições simples e compostas. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 10.3.2 Tabelas-verdade. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 10.3.3 Equivalências. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 10.3.4 Leis de Morgan; problemas. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2 Noções de estatística. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.1 População e amostra. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.2 Histogramas e curvas de frequência. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.3 Medidas de posição: média, moda, mediana e separatrizes. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.4 Medidas de dispersão absoluta e relativa. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.5 Probabilidade condicional, independência. 
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.6 Variável aleatória e funções de distribuição.
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição uniforme
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição normal
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição binomial
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição de Poisson
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição exponencial
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição gama
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição Qui-Quadrado
+NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição t de Student
+I MACROECONOMIA:: 1 Contas nacionais.
+I MACROECONOMIA:: 2 Agregados monetários. 
+I MACROECONOMIA:: 3 Multiplicador monetário, criação e destruição de moeda. 
+I MACROECONOMIA:: 4 Contas do sistema monetário. 
+I MACROECONOMIA:: 5 Balanço de pagamentos. 
+II MICROECONOMIA:: 1 Estrutura de mercado. 
+II MICROECONOMIA:: 1.1 Formas de organização da atividade econômica, o papel dos preços, custo de oportunidade e fronteiras das possibilidades de produção. 
+II MICROECONOMIA:: 2 Oferta e demanda. 
+II MICROECONOMIA:: 2.1 Curvas de indiferença. 
+II MICROECONOMIA:: 2.2 Restrição orçamentária. 
+II MICROECONOMIA:: 2.3 Equilíbrio do consumidor. 
+II MICROECONOMIA:: 2.4 Efeitos preço, renda e substituição. 
+II MICROECONOMIA:: 2.5 Curva de demanda. 
+II MICROECONOMIA:: 2.6 Elasticidade da demanda.
+

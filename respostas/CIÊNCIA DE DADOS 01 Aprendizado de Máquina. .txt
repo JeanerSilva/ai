@@ -1,0 +1,75 @@
+CIÊNCIA DE DADOS:: 01 Aprendizado de Máquina. 
+ -
+Claro! O Princípio de Pareto, ou a regra 80/20, sugere que 20% dos esforços frequentemente resultam em 80% dos resultados. Aplicando isso ao aprendizado de máquina, aqui estão os conceitos e tópicos mais importantes que você deve focar para obter uma compreensão sólida do campo:
+
+### 1. **Conceitos Básicos de Aprendizado de Máquina**
+   - **Definição**: Entender o que é aprendizado de máquina e como ele difere de outras formas de inteligência artificial.
+   - **Tipos de Aprendizado**: Supervisionado, não supervisionado e por reforço.
+
+### 2. **Algoritmos de Aprendizado Supervisionado**
+   - **Regressão Linear e Logística**: Fundamentos e aplicações.
+   - **Árvores de Decisão**: Como funcionam e suas vantagens/desvantagens.
+   - **Máquinas de Vetores de Suporte (SVM)**: Conceitos básicos e aplicações.
+   - **Redes Neurais**: Introdução às redes neurais artificiais e perceptrons.
+
+### 3. **Algoritmos de Aprendizado Não Supervisionado**
+   - **Clustering**: K-means, Hierarchical Clustering.
+   - **Redução de Dimensionalidade**: PCA (Principal Component Analysis).
+
+### 4. **Pré-processamento de Dados**
+   - **Limpeza de Dados**: Tratamento de valores ausentes, remoção de outliers.
+   - **Normalização e Padronização**: Escalonamento de dados.
+   - **Codificação de Variáveis Categóricas**: One-hot encoding, label encoding.
+
+### 5. **Divisão de Dados**
+   - **Treinamento e Teste**: Importância da divisão dos dados em conjuntos de treinamento e teste.
+   - **Validação Cruzada**: Técnicas como k-fold cross-validation.
+
+### 6. **Métricas de Avaliação**
+   - **Métricas para Regressão**: MSE (Mean Squared Error), RMSE (Root Mean Squared Error).
+   - **Métricas para Classificação**: Acurácia, Precisão, Recall, F1-Score, Matriz de Confusão.
+
+### 7. **Overfitting e Underfitting**
+   - **Conceitos**: O que são e como identificá-los.
+   - **Técnicas de Mitigação**: Regularização (L1, L2), Dropout em redes neurais.
+
+### 8. **Bibliotecas e Ferramentas**
+   - **Python**: Linguagem de programação amplamente usada.
+   - **Bibliotecas**: Scikit-learn, TensorFlow, Keras, PyTorch.
+
+### 9. **Pipeline de Machine Learning**
+   - **Etapas**: Coleta de dados, pré-processamento, modelagem, avaliação, e implementação.
+
+### 10. **Aplicações Práticas**
+   - **Casos de Uso**: Reconhecimento de imagem, processamento de linguagem natural, sistemas de recomendação.
+
+### 11. **Ética e Responsabilidade**
+   - **Viés e Fairness**: Como identificar e mitigar viés nos modelos.
+   - **Privacidade de Dados**: Considerações legais e éticas.
+
+### 12. **Aprendizado Contínuo**
+   - **Manutenção de Modelos**: Atualização e monitoramento de desempenho.
+   - **Aprendizado Online**: Modelos que aprendem continuamente com novos dados.
+
+### 13. **Documentação e Comunicação**
+   - **Relatórios**: Como documentar e comunicar os resultados de seus modelos.
+   - **Visualização de Dados**: Ferramentas como Matplotlib, Seaborn para visualização de dados e resultados.
+
+### 14. **Tendências e Avanços**
+   - **Deep Learning**: Conceitos básicos e avanços recentes.
+   - **Transfer Learning**: Uso de modelos pré-treinados para novas tarefas.
+
+### 15. **Projetos Práticos**
+   - **Hands-on**: Trabalhar em projetos práticos para aplicar o conhecimento teórico.
+
+### 16. **Recursos de Aprendizado**
+   - **Cursos Online**: Coursera, edX, Udacity.
+   - **Livros**: "Pattern Recognition and Machine Learning" de Christopher Bishop, "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" de Aurélien Géron.
+
+### 17. **Comunidade e Colaboração**
+   - **Participação em Comunidades**: Kaggle, Stack Overflow, GitHub.
+   - **Colaboração**: Trabalhar em projetos colaborativos e hackathons.
+
+### 18. **Desafios e Competências**
+   - **Competências**: Participar de competições de aprendizado de máquina para testar
+

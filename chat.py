@@ -11,8 +11,8 @@ def cria_dissertacao(pergunta):
             # Fale sobre {pergunta.strip()} para eu poder fazer uma 
             # prova discursiva com 1 questão e 1 parecer'''}
 
-            {"role": "user", "content": f'''Resumo que indique origem, conceitos tipos e classificações de: {pergunta.strip()}
-             Se os tipos envolverem vários itens, liste cada um deles sem resumir. Detalhe os tipos e suas características'''}
+            {"role": "user", "content": f'''quero aprender sobre {pergunta.strip()}
+             Idenfidique e me retorne os 20% mais importantes aprendizados deste assunto que me ajudarão a compreender os 80% necessários'''}
 
         ]
 
