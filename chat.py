@@ -11,9 +11,9 @@ def cria_dissertacao(pergunta):
             # Fale sobre {pergunta.strip()} para eu poder fazer uma 
             # prova discursiva com 1 questão e 1 parecer'''}
 
+
             {"role": "user", "content": f'''quero aprender sobre {pergunta.strip()}
              Idenfidique e me retorne os 20% mais importantes aprendizados deste assunto que me ajudarão a compreender os 80% necessários'''}
-
         ]
 
         response_subtopicos = openai.ChatCompletion.create(
@@ -44,10 +44,11 @@ def processar_perguntas(nome_arquivo):
         with open("respostas/" + arquivo, 'a', encoding='utf-8') as arquivo_respostas:
             print(f"{pergunta}")
             respostaGPT = cria_dissertacao(p)            
-            arquivo_respostas.write(f"{pergunta} -\n")
+            arquivo_respostas.write(f"{p} -\n")
             arquivo_respostas.write(f"{respostaGPT}\n")
             arquivo_respostas.write("\n")
 
 processar_perguntas('perguntas.txt')
 
 #C:\Users\Administrador\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0\python.exe .\chat.py
+# C:\Users\Administrador\anaconda3\python.exe .\chat.py       
