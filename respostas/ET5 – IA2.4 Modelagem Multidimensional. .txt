@@ -1,0 +1,73 @@
+2.4 Modelagem Multidimensional. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre Modelagem Multidimensional, que é um tópico comum em concursos relacionados a banco de dados e Business Intelligence (BI).
+
+### Modelagem Multidimensional
+
+**Definição:**
+A modelagem multidimensional é uma técnica de design de banco de dados que é otimizada para consultas e relatórios, especialmente em sistemas de Data Warehousing e Business Intelligence. Ela organiza os dados em um formato que facilita a análise e a tomada de decisões.
+
+**Principais Conceitos:**
+
+1. **Cubos de Dados:**
+   - Estruturas que permitem a visualização de dados em múltiplas dimensões.
+   - Cada cubo é composto por fatos e dimensões.
+
+2. **Fatos:**
+   - Representam os dados quantitativos ou métricas de interesse, como vendas, lucros, etc.
+   - São armazenados em tabelas de fatos.
+
+3. **Dimensões:**
+   - Representam os contextos ou categorias pelos quais os fatos podem ser analisados, como tempo, localização, produto, etc.
+   - São armazenadas em tabelas de dimensões.
+
+4. **Medidas:**
+   - São os valores numéricos que os usuários querem analisar, como soma de vendas, média de lucros, etc.
+   - São armazenadas nas tabelas de fatos.
+
+5. **Hierarquias:**
+   - Estruturas dentro das dimensões que permitem a organização dos dados em níveis, como ano > trimestre > mês > dia.
+
+6. **Esquemas de Modelagem:**
+   - **Esquema Estrela (Star Schema):**
+     - Tabela de fatos central conectada diretamente a várias tabelas de dimensões.
+   - **Esquema Floco de Neve (Snowflake Schema):**
+     - Extensão do esquema estrela onde as tabelas de dimensões são normalizadas em várias tabelas relacionadas.
+   - **Esquema Constelação:**
+     - Vários esquemas estrela compartilhando dimensões comuns.
+
+**Aspectos Essenciais:**
+
+1. **Desempenho:**
+   - A modelagem multidimensional é otimizada para consultas rápidas e eficientes, essencial para relatórios e análises.
+
+2. **Simplicidade:**
+   - Facilita a compreensão dos dados pelos usuários finais, permitindo uma navegação intuitiva através das dimensões e hierarquias.
+
+3. **Flexibilidade:**
+   - Permite a adição de novas dimensões e medidas sem grandes reestruturações do banco de dados.
+
+4. **Agregações:**
+   - Suporte a cálculos agregados, como somas, médias, contagens, etc., que são fundamentais para análises de BI.
+
+5. **Ferramentas de BI:**
+   - A modelagem multidimensional é amplamente suportada por ferramentas de BI, como OLAP (Online Analytical Processing), que permitem a exploração interativa dos dados.
+
+### Lista de Itens:
+
+1. **Cubos de Dados**
+2. **Fatos**
+3. **Dimensões**
+4. **Medidas**
+5. **Hierarquias**
+6. **Esquema Estrela (Star Schema)**
+7. **Esquema Floco de Neve (Snowflake Schema)**
+8. **Esquema Constelação**
+9. **Desempenho**
+10. **Simplicidade**
+11. **Flexibilidade**
+12. **Agregações**
+13. **Ferramentas de BI**
+
+Espero que este resumo te ajude a entender melhor o tópico de Modelagem Multidimensional para o seu concurso. Boa sorte nos estudos!
+

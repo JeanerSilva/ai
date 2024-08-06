@@ -1,0 +1,53 @@
+2.6 Projeto de Data Warehouse. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre o tópico "Projeto de Data Warehouse". 
+
+### Projeto de Data Warehouse
+
+**1. Conceito de Data Warehouse:**
+   - **Definição:** Um Data Warehouse (DW) é um sistema de armazenamento de dados projetado para consulta e análise, em vez de processamento de transações.
+   - **Objetivo:** Consolidar dados de diferentes fontes para fornecer insights empresariais e suporte à tomada de decisões.
+
+**2. Características Principais:**
+   - **Orientado por Assunto:** Organiza dados por temas específicos, como vendas, finanças, etc.
+   - **Integrado:** Combina dados de várias fontes, garantindo consistência e qualidade.
+   - **Variável no Tempo:** Armazena dados históricos para análise de tendências ao longo do tempo.
+   - **Não Volátil:** Dados são carregados e não alterados, permitindo consultas consistentes.
+
+**3. Componentes de um Data Warehouse:**
+   - **Fonte de Dados:** Sistemas operacionais, bancos de dados transacionais, arquivos externos.
+   - **Processo de ETL (Extract, Transform, Load):** Extrai dados das fontes, transforma-os para um formato adequado e carrega-os no DW.
+   - **Área de Staging:** Espaço temporário para dados durante o processo de ETL.
+   - **Data Warehouse:** Repositório central onde os dados são armazenados.
+   - **Data Marts:** Subconjuntos de dados específicos para departamentos ou áreas de negócio.
+   - **Ferramentas de BI (Business Intelligence):** Softwares para análise e visualização de dados.
+
+**4. Modelagem de Dados:**
+   - **Modelo Estrela:** Tabelas de fatos centralizadas conectadas a tabelas dimensionais.
+   - **Modelo Floco de Neve:** Extensão do modelo estrela com tabelas dimensionais normalizadas.
+   - **Modelo Galáxia:** Vários modelos estrela interconectados.
+
+**5. Processo de Desenvolvimento:**
+   - **Levantamento de Requisitos:** Identificação das necessidades de negócio e fontes de dados.
+   - **Projeto Conceitual:** Definição de temas, granularidade e modelo de dados.
+   - **Projeto Lógico:** Especificação de tabelas, chaves e relacionamentos.
+   - **Projeto Físico:** Implementação no banco de dados, otimização de desempenho.
+
+**6. Desafios e Considerações:**
+   - **Qualidade dos Dados:** Garantir precisão, consistência e integridade dos dados.
+   - **Desempenho:** Otimização de consultas e carga de dados.
+   - **Segurança:** Proteção contra acesso não autorizado e perda de dados.
+   - **Manutenção:** Atualizações e gerenciamento contínuo do DW.
+
+**7. Ferramentas e Tecnologias:**
+   - **Bancos de Dados Relacionais:** Oracle, SQL Server, etc.
+   - **Ferramentas de ETL:** Informatica, Talend, etc.
+   - **Ferramentas de BI:** Tableau, Power BI, etc.
+
+**8. Benefícios:**
+   - **Melhoria na Tomada de Decisões:** Informações precisas e atualizadas.
+   - **Análise de Tendências:** Dados históricos para identificar padrões.
+   - **Eficiência Operacional:** Redução de redundâncias e inconsistências.
+
+Este resumo cobre os principais pontos e conceitos essenciais sobre o projeto de Data Warehouse. Se precisar de mais detalhes sobre algum aspecto específico, sinta-se à vontade para perguntar!
+

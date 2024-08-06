@@ -1,0 +1,36 @@
+7 Noções de Inferência Estatística. 7.1 População e amostra. 7.2 Seleção de amostra. 7.3 Estatística e parâmetro. 7.4 Distribuições amostrais. 
+ -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre os tópicos mencionados do seu edital.
+
+### 7 Noções de Inferência Estatística
+
+A inferência estatística é o processo de tirar conclusões sobre uma população com base em uma amostra de dados. Ela envolve várias etapas e conceitos fundamentais:
+
+#### 7.1 População e Amostra
+- **População**: Conjunto completo de todos os elementos ou observações que têm uma característica comum. Pode ser finita ou infinita.
+- **Amostra**: Subconjunto da população, selecionado para análise. Deve ser representativa para que as inferências sejam válidas.
+
+#### 7.2 Seleção de Amostra
+- **Amostragem Aleatória Simples**: Cada membro da população tem a mesma probabilidade de ser selecionado.
+- **Amostragem Estratificada**: A população é dividida em subgrupos (estratos) e amostras são retiradas de cada estrato.
+- **Amostragem Sistemática**: Seleciona-se cada k-ésimo elemento da população após um ponto de partida aleatório.
+- **Amostragem por Conglomerados**: A população é dividida em grupos (conglomerados) e alguns grupos são selecionados aleatoriamente para análise.
+
+#### 7.3 Estatística e Parâmetro
+- **Estatística**: Medida calculada a partir de uma amostra (ex.: média amostral, desvio padrão amostral).
+- **Parâmetro**: Medida que descreve uma característica da população (ex.: média populacional, desvio padrão populacional).
+
+#### 7.4 Distribuições Amostrais
+- **Distribuição Amostral**: Distribuição de uma estatística calculada a partir de várias amostras de uma população.
+- **Teorema Central do Limite**: Afirma que, para um tamanho de amostra suficientemente grande, a distribuição amostral da média será aproximadamente normal, independentemente da forma da distribuição da população.
+- **Erro Padrão**: Medida da variabilidade da estatística amostral. É o desvio padrão da distribuição amostral.
+
+### Principais Pontos e Conceitos Essenciais
+1. **População e Amostra**: Entender a diferença e a importância de cada um.
+2. **Métodos de Seleção de Amostra**: Conhecer os diferentes métodos e quando aplicá-los.
+3. **Estatística vs. Parâmetro**: Saber distinguir entre medidas amostrais e populacionais.
+4. **Distribuições Amostrais**: Compreender como as estatísticas amostrais se distribuem e a importância do Teorema Central do Limite.
+5. **Erro Padrão**: Saber calcular e interpretar o erro padrão.
+
+Esses são os conceitos e aspectos essenciais que você deve entender para o tópico de Noções de Inferência Estatística conforme o seu edital. Boa sorte nos seus estudos!
+

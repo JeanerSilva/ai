@@ -1,0 +1,54 @@
+5.4 Medidas de Forma: assimetria e curtose, medidas de associação entre variáveis quantitativas e qualitativas (coeficiente de correlação linear de Pearson e coeficiente de contingência de Pearson) 
+ -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre o tópico do edital mencionado:
+
+### 5.4 Medidas de Forma: Assimetria e Curtose
+
+#### Assimetria (Skewness)
+- **Definição**: Medida que indica a simetria ou a falta dela na distribuição de uma variável.
+- **Tipos**:
+  - **Assimetria Positiva (à direita)**: Cauda mais longa à direita da média. Exemplo: Renda.
+  - **Assimetria Negativa (à esquerda)**: Cauda mais longa à esquerda da média. Exemplo: Notas de uma prova onde a maioria foi bem.
+- **Interpretação**:
+  - **Assimetria Zero**: Distribuição simétrica (ex.: distribuição normal).
+  - **Valor Positivo**: Indica que a cauda direita é mais longa.
+  - **Valor Negativo**: Indica que a cauda esquerda é mais longa.
+
+#### Curtose (Kurtosis)
+- **Definição**: Medida que indica a "altura" e "largura" das caudas de uma distribuição em relação à distribuição normal.
+- **Tipos**:
+  - **Leptocúrtica**: Caudas mais longas e finas, pico mais alto. Exemplo: Dados com poucos valores extremos.
+  - **Mesocúrtica**: Curtose semelhante à distribuição normal.
+  - **Platicúrtica**: Caudas mais curtas e grossas, pico mais baixo. Exemplo: Dados mais dispersos.
+- **Interpretação**:
+  - **Curtose Zero**: Distribuição normal.
+  - **Valor Positivo**: Indica caudas mais pesadas (leptocúrtica).
+  - **Valor Negativo**: Indica caudas mais leves (platicúrtica).
+
+### Medidas de Associação entre Variáveis Quantitativas e Qualitativas
+
+#### Coeficiente de Correlação Linear de Pearson
+- **Definição**: Medida que quantifica a força e a direção da relação linear entre duas variáveis quantitativas.
+- **Fórmula**: \( r = \frac{\sum (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum (X_i - \bar{X})^2 \sum (Y_i - \bar{Y})^2}} \)
+- **Interpretação**:
+  - **Valor entre -1 e 1**:
+    - **r = 1**: Correlação positiva perfeita.
+    - **r = -1**: Correlação negativa perfeita.
+    - **r = 0**: Nenhuma correlação linear.
+  - **Força da Correlação**:
+    - **0.1 a 0.3**: Correlação fraca.
+    - **0.3 a 0.5**: Correlação moderada.
+    - **0.5 a 1.0**: Correlação forte.
+
+#### Coeficiente de Contingência de Pearson
+- **Definição**: Medida que quantifica a associação entre duas variáveis qualitativas.
+- **Fórmula**: \( C = \sqrt{\frac{\chi^2}{n + \chi^2}} \)
+  - Onde \( \chi^2 \) é o valor do qui-quadrado e \( n \) é o número total de observações.
+- **Interpretação**:
+  - **Valor entre 0 e 1**:
+    - **C = 0**: Nenhuma associação.
+    - **C próximo de 1**: Forte associação.
+  - **Limitações**: Não atinge o valor máximo de 1, mesmo com associação perfeita.
+
+Esses são os principais pontos e conceitos essenciais sobre o tópico "5.4 Medidas de Forma: assimetria e curtose, medidas de associação entre variáveis quantitativas e qualitativas (coeficiente de correlação linear de Pearson e coeficiente de contingência de Pearson)" do seu edital.
+

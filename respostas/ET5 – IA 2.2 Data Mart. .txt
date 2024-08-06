@@ -1,0 +1,68 @@
+ 2.2 Data Mart. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre o tópico "Data Mart" conforme solicitado.
+
+### Data Mart: Resumo Conciso
+
+**Definição:**
+Um Data Mart é um subconjunto de um Data Warehouse, focado em um único assunto ou área de negócio, como vendas, finanças ou marketing. Ele é projetado para atender às necessidades específicas de um grupo de usuários dentro de uma organização.
+
+**Principais Pontos e Conceitos:**
+
+1. **Foco Específico:**
+   - Um Data Mart é orientado a um departamento ou função específica, facilitando a análise de dados para usuários específicos.
+
+2. **Tipos de Data Mart:**
+   - **Dependente:** Extraído de um Data Warehouse centralizado.
+   - **Independente:** Criado diretamente a partir de fontes de dados operacionais.
+   - **Híbrido:** Combinação de ambos, utilizando dados de um Data Warehouse e fontes operacionais.
+
+3. **Arquitetura:**
+   - **Star Schema:** Estrutura de banco de dados onde uma tabela de fatos central é conectada a várias tabelas dimensionais.
+   - **Snowflake Schema:** Variante do Star Schema onde as tabelas dimensionais são normalizadas.
+
+4. **Benefícios:**
+   - **Desempenho:** Melhora a velocidade de consulta e análise de dados.
+   - **Simplicidade:** Facilita o acesso e a compreensão dos dados para usuários não técnicos.
+   - **Custo:** Menor custo de implementação e manutenção em comparação com um Data Warehouse completo.
+
+5. **Processo de Implementação:**
+   - **Identificação de Requisitos:** Entender as necessidades dos usuários finais.
+   - **Design:** Escolher a arquitetura e modelagem de dados apropriadas.
+   - **Extração, Transformação e Carga (ETL):** Processos para mover dados das fontes para o Data Mart.
+   - **Validação e Teste:** Garantir a precisão e integridade dos dados.
+   - **Manutenção:** Atualização e gerenciamento contínuo dos dados.
+
+6. **Ferramentas e Tecnologias:**
+   - Ferramentas de ETL (como Informatica, Talend).
+   - Bancos de dados (como SQL Server, Oracle).
+   - Ferramentas de BI (como Tableau, Power BI).
+
+### Lista de Itens Essenciais:
+
+1. Definição de Data Mart.
+2. Foco específico em áreas de negócio.
+3. Tipos de Data Mart:
+   - Dependente
+   - Independente
+   - Híbrido
+4. Arquitetura:
+   - Star Schema
+   - Snowflake Schema
+5. Benefícios:
+   - Desempenho
+   - Simplicidade
+   - Custo
+6. Processo de Implementação:
+   - Identificação de Requisitos
+   - Design
+   - ETL
+   - Validação e Teste
+   - Manutenção
+7. Ferramentas e Tecnologias:
+   - Ferramentas de ETL
+   - Bancos de dados
+   - Ferramentas de BI
+
+Espero que este resumo te ajude a entender melhor o conceito de Data Mart e os aspectos essenciais relacionados a ele. Boa sorte nos seus estudos para o concurso!
+

@@ -1,0 +1,46 @@
+11.2 Amostragem não probabilística.
+ -
+Claro, posso te ajudar com isso! A amostragem não probabilística é um método de seleção de amostras em que os elementos não têm a mesma probabilidade de serem escolhidos. Aqui está um resumo conciso e direto ao ponto sobre o tópico:
+
+### Amostragem Não Probabilística
+
+**Definição:**
+A amostragem não probabilística é um método de seleção de amostras onde a escolha dos elementos não é baseada em probabilidade, mas em critérios subjetivos ou conveniência.
+
+**Principais Tipos:**
+
+1. **Amostragem por Conveniência:**
+   - Seleção dos elementos mais fáceis de acessar.
+   - Exemplo: Pesquisas de opinião realizadas em locais públicos.
+
+2. **Amostragem Intencional (ou por Julgamento):**
+   - Seleção baseada no julgamento do pesquisador sobre quais elementos são mais representativos.
+   - Exemplo: Escolher especialistas em um determinado assunto para uma pesquisa.
+
+3. **Amostragem por Quotas:**
+   - Divisão da população em subgrupos (quotas) e seleção de elementos dentro de cada subgrupo até atingir um número predeterminado.
+   - Exemplo: Pesquisas de mercado que garantem a representação de diferentes faixas etárias.
+
+4. **Amostragem Bola de Neve:**
+   - Os primeiros participantes indicam novos participantes, que por sua vez indicam outros, e assim por diante.
+   - Exemplo: Estudos com populações difíceis de acessar, como usuários de drogas.
+
+**Aspectos Essenciais:**
+
+- **Subjetividade:** A seleção dos elementos depende do julgamento do pesquisador ou da conveniência, o que pode introduzir vieses.
+- **Representatividade:** A amostra pode não ser representativa da população, limitando a generalização dos resultados.
+- **Aplicabilidade:** Utilizada quando a amostragem probabilística não é viável devido a restrições de tempo, custo ou acesso à população-alvo.
+- **Flexibilidade:** Permite ajustes durante o processo de coleta de dados, mas pode comprometer a validade dos resultados.
+
+**Vantagens:**
+- Rapidez e facilidade na coleta de dados.
+- Menor custo em comparação com a amostragem probabilística.
+- Útil em estudos exploratórios ou quando a população é difícil de acessar.
+
+**Desvantagens:**
+- Maior risco de vieses.
+- Menor capacidade de generalização dos resultados.
+- Falta de controle sobre a representatividade da amostra.
+
+Espero que este resumo te ajude a entender melhor o conceito de amostragem não probabilística e seus principais aspectos! Boa sorte nos seus estudos para o concurso!
+

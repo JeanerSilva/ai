@@ -1,0 +1,74 @@
+5.4 Dependências funcionais e normalização. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre "Dependências Funcionais e Normalização", que são conceitos fundamentais em bancos de dados relacionais.
+
+### Dependências Funcionais
+
+**Definição:**
+- Uma dependência funcional ocorre quando o valor de um atributo (ou conjunto de atributos) determina o valor de outro atributo (ou conjunto de atributos) em uma relação.
+
+**Principais Conceitos:**
+1. **Atributo Determinante:** O atributo que determina o valor de outro atributo.
+2. **Atributo Dependente:** O atributo cujo valor é determinado pelo atributo determinante.
+3. **Notação:** Se A e B são atributos de uma relação R, A → B significa que A determina B.
+
+**Tipos de Dependências Funcionais:**
+1. **Dependência Funcional Completa:** O atributo dependente é completamente dependente do atributo determinante.
+2. **Dependência Funcional Parcial:** O atributo dependente é parcialmente dependente de um conjunto de atributos determinantes.
+3. **Dependência Funcional Transitiva:** Se A → B e B → C, então A → C.
+
+### Normalização
+
+**Definição:**
+- Normalização é o processo de organizar os dados em um banco de dados para reduzir a redundância e melhorar a integridade dos dados.
+
+**Objetivos:**
+1. Eliminar redundâncias.
+2. Evitar anomalias de inserção, atualização e exclusão.
+3. Garantir a integridade dos dados.
+
+**Formas Normais:**
+1. **Primeira Forma Normal (1FN):**
+   - Elimina grupos repetitivos.
+   - Garante que todos os valores dos atributos sejam atômicos (indivisíveis).
+
+2. **Segunda Forma Normal (2FN):**
+   - Atende a 1FN.
+   - Elimina dependências funcionais parciais.
+   - Cada atributo não-chave deve ser totalmente dependente da chave primária.
+
+3. **Terceira Forma Normal (3FN):**
+   - Atende a 2FN.
+   - Elimina dependências funcionais transitivas.
+   - Nenhum atributo não-chave deve depender de outro atributo não-chave.
+
+4. **Forma Normal de Boyce-Codd (BCNF):**
+   - Atende a 3FN.
+   - Para cada dependência funcional A → B, A deve ser uma superchave.
+
+5. **Quarta Forma Normal (4FN):**
+   - Atende a BCNF.
+   - Elimina dependências multivaloradas.
+
+6. **Quinta Forma Normal (5FN):**
+   - Atende a 4FN.
+   - Elimina dependências de junção.
+
+### Aspectos Essenciais
+
+- **Chave Primária:** Um atributo ou conjunto de atributos que identifica unicamente uma tupla em uma relação.
+- **Superchave:** Um conjunto de um ou mais atributos que, coletivamente, identificam unicamente uma tupla em uma relação.
+- **Chave Candidata:** Uma superchave mínima, ou seja, uma superchave que não contém nenhum subconjunto que também seja uma superchave.
+- **Chave Estrangeira:** Um atributo ou conjunto de atributos em uma tabela que é uma chave primária em outra tabela, usada para manter a integridade referencial.
+
+### Resumo dos Passos de Normalização
+
+1. **Identificar e eliminar grupos repetitivos (1FN).**
+2. **Identificar e eliminar dependências parciais (2FN).**
+3. **Identificar e eliminar dependências transitivas (3FN).**
+4. **Verificar e garantir que todas as dependências funcionais sigam a BCNF.**
+5. **Eliminar dependências multivaloradas (4FN).**
+6. **Eliminar dependências de junção (5FN).**
+
+Espero que este resumo te ajude a entender melhor os conceitos de dependências funcionais e normalização para o seu concurso!
+

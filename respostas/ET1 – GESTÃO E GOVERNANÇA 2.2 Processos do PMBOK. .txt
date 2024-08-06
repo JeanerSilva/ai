@@ -1,0 +1,43 @@
+ 2.2 Processos do PMBOK. 
+ -
+Claro, posso ajudar com isso! O PMBOK (Project Management Body of Knowledge) é um guia amplamente utilizado em gerenciamento de projetos. Ele organiza os processos de gerenciamento de projetos em cinco grupos de processos e dez áreas de conhecimento. Aqui está um resumo conciso sobre os processos do PMBOK:
+
+### Grupos de Processos do PMBOK
+
+1. **Iniciação**:
+   - **Desenvolver o Termo de Abertura do Projeto**: Documento que autoriza formalmente o projeto.
+   - **Identificar as Partes Interessadas**: Identificação e análise das partes interessadas.
+
+2. **Planejamento**:
+   - **Desenvolver o Plano de Gerenciamento do Projeto**: Documento que define como o projeto será executado, monitorado e controlado.
+   - **Planejar o Gerenciamento do Escopo**: Processo de criação de um plano de gerenciamento do escopo.
+   - **Coletar os Requisitos**: Determinação, documentação e gerenciamento das necessidades e requisitos das partes interessadas.
+   - **Definir o Escopo**: Desenvolvimento de uma descrição detalhada do projeto e do produto.
+   - **Criar a EAP (Estrutura Analítica do Projeto)**: Subdivisão das entregas e do trabalho do projeto em componentes menores e mais gerenciáveis.
+   - **Planejar o Gerenciamento do Cronograma**: Estabelecimento das políticas, procedimentos e documentação para o planejamento, desenvolvimento, gerenciamento, execução e controle do cronograma do projeto.
+   - **Definir as Atividades**: Identificação das ações específicas a serem realizadas para produzir as entregas do projeto.
+   - **Sequenciar as Atividades**: Identificação e documentação dos relacionamentos entre as atividades do projeto.
+   - **Estimar a Duração das Atividades**: Estimativa do número de períodos de trabalho necessários para concluir atividades individuais com os recursos estimados.
+   - **Desenvolver o Cronograma**: Análise das sequências de atividades, durações, requisitos de recursos e restrições do cronograma para criar o cronograma do projeto.
+   - **Planejar o Gerenciamento dos Custos**: Estabelecimento das políticas, procedimentos e documentação para o planejamento, gerenciamento, execução e controle dos custos do projeto.
+   - **Estimar os Custos**: Desenvolvimento de uma estimativa dos custos dos recursos necessários para completar as atividades do projeto.
+   - **Determinar o Orçamento**: Agregação dos custos estimados de atividades individuais ou pacotes de trabalho para estabelecer uma linha de base de custo autorizada.
+   - **Planejar o Gerenciamento da Qualidade**: Identificação dos requisitos de qualidade e/ou padrões para o projeto e suas entregas, e documentação de como o projeto demonstrará conformidade.
+   - **Planejar o Gerenciamento dos Recursos**: Definição de como estimar, adquirir, gerenciar e utilizar os recursos físicos e de equipe.
+   - **Planejar o Gerenciamento das Comunicações**: Desenvolvimento de uma abordagem apropriada e um plano para as atividades de comunicação do projeto.
+   - **Planejar o Gerenciamento dos Riscos**: Definição de como conduzir as atividades de gerenciamento de riscos de um projeto.
+   - **Identificar os Riscos**: Determinação dos riscos que podem afetar o projeto e documentação de suas características.
+   - **Realizar a Análise Qualitativa dos Riscos**: Priorização dos riscos para análise ou ação adicional através da avaliação e combinação de sua probabilidade de ocorrência e impacto.
+   - **Realizar a Análise Quantitativa dos Riscos**: Análise numérica do efeito dos riscos identificados nos objetivos gerais do projeto.
+   - **Planejar as Respostas aos Riscos**: Desenvolvimento de opções e ações para aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto.
+   - **Planejar o Gerenciamento das Aquisições**: Documentação das decisões de compras do projeto, especificação da abordagem e identificação de fornecedores potenciais.
+   - **Planejar o Gerenciamento das Partes Interessadas**: Desenvolvimento de estratégias para engajar as partes interessadas de forma eficaz no projeto.
+
+3. **Execução**:
+   - **Orientar e Gerenciar o Trabalho do Projeto**: Liderança e realização do trabalho definido no plano de gerenciamento do projeto.
+   - **Gerenciar o Conhecimento do Projeto**: Uso do conhecimento existente e criação de novo conhecimento para alcançar os objetivos do projeto.
+   - **Gerenciar a Qualidade**: Tradução do plano de gerenciamento da qualidade em atividades executáveis que incorporam as políticas de qualidade do projeto.
+   - **Adquirir Recursos**: Obtenção de equipe, instalações, equipamentos, materiais e outros recursos necessários para completar o trabalho do projeto.
+   - **Desenvolver a Equipe**: Melhoria das competências, interação e ambiente geral da equipe do projeto.
+   - **Gerenciar a Equipe**
+

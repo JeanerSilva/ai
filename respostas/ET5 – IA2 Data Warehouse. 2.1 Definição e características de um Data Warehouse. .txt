@@ -1,0 +1,62 @@
+2 Data Warehouse. 2.1 Definição e características de um Data Warehouse. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre Data Warehouse, conforme solicitado.
+
+### Data Warehouse
+
+**Definição:**
+Um Data Warehouse (DW) é um sistema de armazenamento de dados projetado para permitir e suportar atividades de Business Intelligence (BI), especialmente consultas complexas e análises de dados. Ele integra dados de diferentes fontes, proporcionando uma visão unificada e consistente da informação.
+
+**Características de um Data Warehouse:**
+
+1. **Orientado por Assunto:**
+   - Organiza dados em torno de temas específicos, como vendas, clientes, produtos, etc., ao invés de processos operacionais.
+
+2. **Integrado:**
+   - Consolida dados de múltiplas fontes heterogêneas, garantindo consistência em termos de nomes, formatos e unidades de medida.
+
+3. **Variável no Tempo:**
+   - Armazena dados históricos, permitindo análises de tendências e comparações ao longo do tempo. Os dados são marcados com um timestamp para indicar o período ao qual se referem.
+
+4. **Não Volátil:**
+   - Uma vez que os dados são inseridos no Data Warehouse, eles não são alterados ou removidos. Isso garante a estabilidade e a integridade dos dados históricos.
+
+5. **Suporte a Decisões:**
+   - Projetado para facilitar a tomada de decisões estratégicas, fornecendo uma base sólida para análises complexas e relatórios.
+
+6. **Desempenho Otimizado:**
+   - Estruturado para otimizar a execução de consultas complexas e grandes volumes de dados, diferentemente dos sistemas transacionais que priorizam operações de inserção, atualização e exclusão.
+
+### Aspectos Essenciais:
+
+- **ETL (Extract, Transform, Load):**
+  - Processo de extração de dados de fontes diversas, transformação para garantir qualidade e consistência, e carregamento no Data Warehouse.
+
+- **Modelagem de Dados:**
+  - Utiliza modelos como Estrela (Star Schema) e Floco de Neve (Snowflake Schema) para organizar dados de maneira eficiente e intuitiva.
+
+- **Ferramentas de BI:**
+  - Integra-se com ferramentas de Business Intelligence para geração de relatórios, dashboards e análises ad hoc.
+
+- **Armazenamento em Camadas:**
+  - Pode incluir camadas de dados brutos, dados transformados e dados agregados para diferentes níveis de análise.
+
+- **Segurança e Governança:**
+  - Implementa políticas de segurança e governança de dados para proteger informações sensíveis e garantir conformidade com regulamentações.
+
+### Lista de Itens:
+
+1. **Orientado por Assunto**
+2. **Integrado**
+3. **Variável no Tempo**
+4. **Não Volátil**
+5. **Suporte a Decisões**
+6. **Desempenho Otimizado**
+7. **ETL (Extract, Transform, Load)**
+8. **Modelagem de Dados (Estrela e Floco de Neve)**
+9. **Ferramentas de BI**
+10. **Armazenamento em Camadas**
+11. **Segurança e Governança**
+
+Espero que este resumo te ajude a entender melhor o conceito e as características de um Data Warehouse. Boa sorte nos seus estudos para o concurso!
+

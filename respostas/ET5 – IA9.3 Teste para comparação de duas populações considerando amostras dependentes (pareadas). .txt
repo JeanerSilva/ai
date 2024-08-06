@@ -1,0 +1,57 @@
+9.3 Teste para comparação de duas populações considerando amostras dependentes (pareadas). 
+ -
+Claro, vou te ajudar com um resumo conciso sobre o tópico "Teste para comparação de duas populações considerando amostras dependentes (pareadas)". Aqui estão os principais pontos, conceitos e aspectos essenciais:
+
+### Teste para Comparação de Duas Populações com Amostras Dependentes (Pareadas)
+
+#### Conceito:
+- **Amostras Dependentes (Pareadas)**: São amostras em que cada observação em uma amostra está diretamente relacionada a uma observação na outra amostra. Isso ocorre frequentemente em estudos antes e depois, ou em estudos onde os mesmos sujeitos são medidos sob diferentes condições.
+
+#### Principais Testes:
+1. **Teste t de Student para Amostras Pareadas**:
+   - **Objetivo**: Comparar as médias de duas populações quando as amostras são dependentes.
+   - **Hipóteses**:
+     - \( H_0 \): A média das diferenças é igual a zero (não há diferença significativa).
+     - \( H_1 \): A média das diferenças não é igual a zero (há diferença significativa).
+   - **Cálculo**:
+     - Calcular a diferença entre cada par de observações.
+     - Calcular a média e o desvio padrão das diferenças.
+     - Utilizar a fórmula do teste t para amostras pareadas.
+   - **Assumptions**:
+     - As diferenças são aproximadamente normalmente distribuídas.
+
+2. **Teste de Sinais de Wilcoxon**:
+   - **Objetivo**: Testar a mediana das diferenças entre pares quando a distribuição das diferenças não é normal.
+   - **Hipóteses**:
+     - \( H_0 \): A mediana das diferenças é zero.
+     - \( H_1 \): A mediana das diferenças não é zero.
+   - **Cálculo**:
+     - Calcular a diferença entre cada par de observações.
+     - Ignorar pares com diferença zero.
+     - Classificar as diferenças em ordem crescente e atribuir sinais (+ ou -).
+     - Calcular a estatística de teste baseada nos sinais.
+
+3. **Teste de Sinais**:
+   - **Objetivo**: Testar a mediana das diferenças entre pares de uma maneira mais simples que o teste de Wilcoxon.
+   - **Hipóteses**:
+     - \( H_0 \): A mediana das diferenças é zero.
+     - \( H_1 \): A mediana das diferenças não é zero.
+   - **Cálculo**:
+     - Contar o número de diferenças positivas e negativas.
+     - Utilizar a distribuição binomial para determinar a significância.
+
+#### Aspectos Essenciais:
+- **Dependência das Amostras**: As observações em uma amostra estão emparelhadas com observações na outra amostra.
+- **Normalidade das Diferenças**: Para o teste t de Student, assume-se que as diferenças entre pares seguem uma distribuição normal.
+- **Não Paramétricos**: Testes como o de Wilcoxon e o de Sinais são usados quando a normalidade das diferenças não pode ser assumida.
+- **Aplicações Comuns**: Estudos antes e depois, medidas repetidas no mesmo sujeito, estudos de crossover.
+
+#### Procedimentos:
+1. **Coleta de Dados**: Obter pares de observações.
+2. **Cálculo das Diferenças**: Subtrair uma observação da outra para cada par.
+3. **Escolha do Teste**: Baseado na distribuição das diferenças (normal ou não).
+4. **Realização do Teste**: Calcular a estatística de teste e comparar com valores críticos ou p-valor.
+5. **Interpretação dos Resultados**: Determinar se há evidência suficiente para rejeitar a hipótese nula.
+
+Espero que este resumo te ajude a entender melhor o tópico do edital. Boa sorte nos seus estudos e no concurso!
+

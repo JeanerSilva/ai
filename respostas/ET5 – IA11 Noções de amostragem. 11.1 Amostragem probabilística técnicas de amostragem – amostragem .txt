@@ -1,0 +1,47 @@
+11 Noções de amostragem. 11.1 Amostragem probabilística: técnicas de amostragem – amostragem aleatória simples, estratificada, sistemática e por conglomerados. 
+ -
+Claro, vou te ajudar com um resumo conciso e direto ao ponto sobre o tópico "Noções de amostragem" e suas técnicas de amostragem probabilística.
+
+### Noções de Amostragem
+
+**Amostragem** é o processo de selecionar uma parte de uma população para fazer inferências sobre a população inteira. A amostragem é essencial em estatística para obter dados representativos sem a necessidade de examinar toda a população.
+
+### Amostragem Probabilística
+
+A **amostragem probabilística** é um método de amostragem onde cada membro da população tem uma chance conhecida e diferente de zero de ser selecionado. Isso permite a generalização dos resultados da amostra para a população inteira.
+
+#### Técnicas de Amostragem Probabilística
+
+1. **Amostragem Aleatória Simples**
+   - **Definição**: Cada membro da população tem a mesma probabilidade de ser selecionado.
+   - **Método**: Utiliza-se um processo aleatório, como sorteio ou gerador de números aleatórios.
+   - **Vantagem**: Simplicidade e facilidade de implementação.
+   - **Desvantagem**: Pode não ser eficiente se a população for muito grande ou dispersa.
+
+2. **Amostragem Estratificada**
+   - **Definição**: A população é dividida em subgrupos (estratos) homogêneos, e amostras aleatórias são tiradas de cada estrato.
+   - **Método**: Estratos são formados com base em características específicas (ex.: idade, gênero), e uma amostra aleatória simples é retirada de cada estrato.
+   - **Vantagem**: Aumenta a precisão das estimativas ao garantir que todos os subgrupos sejam representados.
+   - **Desvantagem**: Pode ser complexo e demorado para identificar e dividir os estratos.
+
+3. **Amostragem Sistemática**
+   - **Definição**: Seleciona-se cada k-ésimo elemento da população após um ponto de partida aleatório.
+   - **Método**: Determina-se um intervalo (k) e um ponto de partida aleatório, e então seleciona-se cada k-ésimo elemento.
+   - **Vantagem**: Simples e fácil de implementar.
+   - **Desvantagem**: Pode introduzir vieses se houver um padrão na população que coincida com o intervalo de amostragem.
+
+4. **Amostragem por Conglomerados**
+   - **Definição**: A população é dividida em grupos (conglomerados) heterogêneos, e alguns desses grupos são selecionados aleatoriamente para serem completamente examinados.
+   - **Método**: Divide-se a população em conglomerados, seleciona-se aleatoriamente alguns conglomerados, e todos os membros dos conglomerados selecionados são incluídos na amostra.
+   - **Vantagem**: Reduz custos e tempo, especialmente útil para populações geograficamente dispersas.
+   - **Desvantagem**: Pode aumentar o erro amostral se os conglomerados não forem representativos da população.
+
+### Aspectos Essenciais
+
+- **Representatividade**: A amostra deve refletir as características da população.
+- **Probabilidade de Seleção**: Cada membro da população deve ter uma chance conhecida e diferente de zero de ser selecionado.
+- **Redução de Vieses**: Técnicas probabilísticas ajudam a minimizar vieses na seleção da amostra.
+- **Precisão e Eficiência**: Diferentes técnicas oferecem trade-offs entre precisão e eficiência, dependendo da estrutura da população e dos recursos disponíveis.
+
+Espero que este resumo te ajude a entender melhor o conteúdo do seu edital sobre noções de amostragem e técnicas de amostragem probabilística! Boa sorte nos seus estudos para o concurso!
+

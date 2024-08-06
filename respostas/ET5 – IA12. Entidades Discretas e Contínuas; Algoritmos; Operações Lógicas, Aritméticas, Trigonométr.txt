@@ -1,0 +1,47 @@
+12. Entidades Discretas e Contínuas; Algoritmos; Operações Lógicas, Aritméticas, Trigonométricas e Estatísticas -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre o tópico mencionado do seu edital.
+
+### 12. Entidades Discretas e Contínuas; Algoritmos; Operações Lógicas, Aritméticas, Trigonométricas e Estatísticas
+
+#### Entidades Discretas e Contínuas
+- **Entidades Discretas**: São aquelas que podem ser contadas individualmente. Exemplos incluem números inteiros, grafos, conjuntos finitos, etc.
+  - **Principais Conceitos**:
+    - **Teoria dos Conjuntos**: União, interseção, diferença, complemento.
+    - **Grafos**: Vértices, arestas, caminhos, ciclos, grafos direcionados e não direcionados.
+    - **Lógica Matemática**: Proposições, conectivos lógicos, tabelas verdade, quantificadores.
+    - **Combinatória**: Permutações, combinações, princípio da contagem.
+- **Entidades Contínuas**: São aquelas que não podem ser contadas individualmente e variam de forma contínua. Exemplos incluem números reais, funções contínuas, etc.
+  - **Principais Conceitos**:
+    - **Funções e Limites**: Definição de função, limites, continuidade.
+    - **Cálculo Diferencial e Integral**: Derivadas, integrais, teoremas fundamentais do cálculo.
+    - **Equações Diferenciais**: Soluções de equações diferenciais ordinárias.
+
+#### Algoritmos
+- **Definição**: Um algoritmo é uma sequência finita de instruções bem definidas e não ambíguas que, quando executadas, resolvem um problema específico.
+- **Principais Conceitos**:
+  - **Complexidade de Algoritmos**: Análise de tempo e espaço, notações Big O, Big Ω, Big Θ.
+  - **Estruturas de Dados**: Arrays, listas, pilhas, filas, árvores, grafos.
+  - **Paradigmas de Programação**: Programação imperativa, orientada a objetos, funcional, lógica.
+  - **Algoritmos Clássicos**: Ordenação (bubble sort, quicksort, mergesort), busca (busca binária, busca linear), algoritmos em grafos (Dijkstra, Floyd-Warshall).
+
+#### Operações Lógicas, Aritméticas, Trigonométricas e Estatísticas
+- **Operações Lógicas**:
+  - **Conectivos Lógicos**: E (AND), ou (OR), não (NOT), se então (IF-THEN), se e somente se (IFF).
+  - **Tabelas Verdade**: Representação das operações lógicas.
+  - **Álgebra Booleana**: Simplificação de expressões lógicas, teoremas de De Morgan.
+- **Operações Aritméticas**:
+  - **Operações Básicas**: Adição, subtração, multiplicação, divisão.
+  - **Propriedades**: Comutativa, associativa, distributiva.
+  - **Operações com Números Inteiros e Reais**: Potenciação, radiciação, logaritmos.
+- **Operações Trigonométricas**:
+  - **Funções Trigonométricas**: Seno, cosseno, tangente, cotangente, secante, cossecante.
+  - **Identidades Trigonométricas**: Pitagóricas, adição e subtração de ângulos, duplicação e bissecção de ângulos.
+  - **Aplicações**: Resolução de triângulos, modelagem de fenômenos periódicos.
+- **Operações Estatísticas**:
+  - **Medidas de Tendência Central**: Média, mediana, moda.
+  - **Medidas de Dispersão**: Variância, desvio padrão, amplitude.
+  - **Distribuições de Probabilidade**: Binomial, normal, Poisson.
+  - **Inferência Estatística**: Estimação, testes de hipóteses, intervalos de confiança.
+
+Esses são os principais pontos e conceitos que você deve focar ao estudar o tópico 12 do seu edital. Boa sorte nos seus estudos e no concurso!
+

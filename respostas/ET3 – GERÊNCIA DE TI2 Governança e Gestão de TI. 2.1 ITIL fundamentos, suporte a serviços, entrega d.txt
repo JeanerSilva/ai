@@ -1,0 +1,66 @@
+2 Governança e Gestão de TI. 2.1 ITIL: fundamentos, suporte a serviços, entrega de serviços. 
+ -
+Claro, vou te ajudar com um resumo conciso e direto ao ponto sobre o tópico "Governança e Gestão de TI" com foco em "ITIL: fundamentos, suporte a serviços, entrega de serviços".
+
+### Governança e Gestão de TI
+
+#### ITIL (Information Technology Infrastructure Library)
+
+**Fundamentos:**
+- **ITIL** é um conjunto de práticas detalhadas para a gestão de serviços de TI que se concentra no alinhamento dos serviços de TI com as necessidades do negócio.
+- **Objetivo:** Melhorar a eficiência e alcançar níveis previsíveis de serviço.
+- **Estrutura:** ITIL é dividido em cinco volumes principais, cada um cobrindo um estágio diferente do ciclo de vida do serviço.
+
+**Suporte a Serviços:**
+- **Gerenciamento de Incidentes:** Restauração rápida do serviço normal para minimizar o impacto nos negócios.
+- **Gerenciamento de Problemas:** Identificação e resolução das causas raiz dos incidentes.
+- **Gerenciamento de Configuração:** Manutenção de informações sobre a configuração de serviços e infraestrutura.
+- **Gerenciamento de Mudanças:** Controle de mudanças no ambiente de TI para minimizar interrupções.
+- **Gerenciamento de Liberação:** Planejamento, agendamento e controle da construção, teste e implantação de versões.
+
+**Entrega de Serviços:**
+- **Gerenciamento de Nível de Serviço:** Definição, acordo e monitoramento dos níveis de serviço.
+- **Gerenciamento de Capacidade:** Garantia de que a capacidade de TI atende às necessidades atuais e futuras.
+- **Gerenciamento de Disponibilidade:** Garantia de que os serviços de TI estejam disponíveis conforme acordado.
+- **Gerenciamento de Continuidade de Serviço:** Planejamento para recuperação de desastres e continuidade dos serviços.
+- **Gerenciamento Financeiro:** Controle dos custos e orçamento dos serviços de TI.
+
+### Principais Pontos e Conceitos Essenciais:
+
+1. **Fundamentos do ITIL:**
+   - Alinhamento de TI com os negócios.
+   - Melhoria contínua dos serviços.
+   - Estrutura baseada em melhores práticas.
+
+2. **Suporte a Serviços:**
+   - **Gerenciamento de Incidentes:** Foco na restauração rápida.
+   - **Gerenciamento de Problemas:** Prevenção de incidentes futuros.
+   - **Gerenciamento de Configuração:** Registro de ativos e suas relações.
+   - **Gerenciamento de Mudanças:** Processos para mudanças controladas.
+   - **Gerenciamento de Liberação:** Implementação de novas versões de serviços.
+
+3. **Entrega de Serviços:**
+   - **Gerenciamento de Nível de Serviço:** Acordos de nível de serviço (SLAs).
+   - **Gerenciamento de Capacidade:** Planejamento de capacidade.
+   - **Gerenciamento de Disponibilidade:** Garantia de disponibilidade.
+   - **Gerenciamento de Continuidade de Serviço:** Planos de recuperação.
+   - **Gerenciamento Financeiro:** Orçamento e controle de custos.
+
+### Lista de Itens (sem resumo):
+
+1. **Fundamentos do ITIL**
+2. **Suporte a Serviços:**
+   - Gerenciamento de Incidentes
+   - Gerenciamento de Problemas
+   - Gerenciamento de Configuração
+   - Gerenciamento de Mudanças
+   - Gerenciamento de Liberação
+3. **Entrega de Serviços:**
+   - Gerenciamento de Nível de Serviço
+   - Gerenciamento de Capacidade
+   - Gerenciamento de Disponibilidade
+   - Gerenciamento de Continuidade de Serviço
+   - Gerenciamento Financeiro
+
+Espero que este resumo te ajude a entender melhor os conceitos de Governança e Gestão de TI com foco no ITIL. Boa sorte nos seus estudos para o concurso!
+

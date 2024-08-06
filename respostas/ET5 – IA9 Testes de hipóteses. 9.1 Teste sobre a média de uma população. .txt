@@ -1,0 +1,80 @@
+9 Testes de hipóteses. 9.1 Teste sobre a média de uma população. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre o tópico "Testes de hipóteses" com foco no "Teste sobre a média de uma população".
+
+### Testes de Hipóteses
+
+**Definição:**
+Testes de hipóteses são procedimentos estatísticos usados para tomar decisões sobre uma população com base em amostras de dados. Eles envolvem formular uma hipótese nula (H₀) e uma hipótese alternativa (H₁) e usar dados amostrais para decidir se há evidências suficientes para rejeitar H₀.
+
+### Teste sobre a Média de uma População
+
+**Objetivo:**
+Determinar se a média de uma população é igual a um valor específico.
+
+**Principais Conceitos:**
+
+1. **Hipótese Nula (H₀):**
+   - A hipótese que se assume verdadeira até que evidências indiquem o contrário.
+   - Exemplo: H₀: μ = μ₀ (onde μ é a média da população e μ₀ é o valor específico a ser testado).
+
+2. **Hipótese Alternativa (H₁):**
+   - A hipótese que se considera se as evidências contra H₀ forem suficientes.
+   - Pode ser unilateral (H₁: μ ≠ μ₀, H₁: μ > μ₀, H₁: μ < μ₀) ou bilateral (H₁: μ ≠ μ₀).
+
+3. **Nível de Significância (α):**
+   - A probabilidade de rejeitar a hipótese nula quando ela é verdadeira.
+   - Comum usar α = 0,05 ou 5%.
+
+4. **Estatística de Teste:**
+   - Calculada a partir dos dados amostrais.
+   - Para médias, geralmente usa-se o teste t (quando a variância populacional é desconhecida e a amostra é pequena) ou o teste z (quando a variância populacional é conhecida ou a amostra é grande).
+
+5. **Região Crítica:**
+   - Conjunto de valores da estatística de teste que leva à rejeição de H₀.
+   - Determinada pelo nível de significância α.
+
+6. **Valor-p:**
+   - A probabilidade de obter um valor da estatística de teste tão extremo quanto o observado, assumindo que H₀ é verdadeira.
+   - Se o valor-p ≤ α, rejeita-se H₀.
+
+### Passos para Realizar um Teste sobre a Média de uma População:
+
+1. **Formular as Hipóteses:**
+   - H₀: μ = μ₀
+   - H₁: μ ≠ μ₀ (ou H₁: μ > μ₀, H₁: μ < μ₀)
+
+2. **Escolher o Nível de Significância (α):**
+   - Comum usar 0,05.
+
+3. **Calcular a Estatística de Teste:**
+   - Para amostras grandes (n > 30) ou variância conhecida: \( z = \frac{\bar{x} - μ₀}{\frac{σ}{\sqrt{n}}} \)
+   - Para amostras pequenas (n ≤ 30) e variância desconhecida: \( t = \frac{\bar{x} - μ₀}{\frac{s}{\sqrt{n}}} \)
+
+4. **Determinar a Região Crítica ou Valor-p:**
+   - Usar tabelas de distribuição z ou t para encontrar os valores críticos ou calcular o valor-p.
+
+5. **Tomar a Decisão:**
+   - Se a estatística de teste cair na região crítica ou se o valor-p ≤ α, rejeitar H₀.
+   - Caso contrário, não rejeitar H₀.
+
+### Exemplos de Aplicação:
+
+- **Teste z:**
+  - Usado quando a amostra é grande ou a variância populacional é conhecida.
+  - Exemplo: Testar se a média de altura de uma população é 170 cm com uma amostra de 100 pessoas.
+
+- **Teste t:**
+  - Usado quando a amostra é pequena e a variância populacional é desconhecida.
+  - Exemplo: Testar se a média de notas de uma turma é 75 com uma amostra de 15 alunos.
+
+### Considerações Finais:
+
+- **Assumir Normalidade:**
+  - Para amostras pequenas, assume-se que a população é normalmente distribuída.
+  - Para amostras grandes, o Teorema Central do Limite garante que a distribuição amostral da média será aproximadamente normal.
+
+- **Erro Tipo I e Tipo II:**
+  - Erro Tipo I: Rejeitar H₀ quando ela é verdadeira (probabilidade = α).
+  - Erro Tipo II: Não rejeitar H₀ quando H₁
+

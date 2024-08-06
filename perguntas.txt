@@ -1,172 +1,168 @@
-CIÊNCIA DE DADOS:: 01 Aprendizado de Máquina. 
-CIÊNCIA DE DADOS:: 02 Deep learning. 
-CIÊNCIA DE DADOS:: 03 Processamento de linguagem natural.
-CIÊNCIA DE DADOS:: 04 Big data. 
-CIÊNCIA DE DADOS:: 05 Qualidade de Dados. 
-CIÊNCIA DE DADOS:: 06 Tipos de Aprendizado: Supervisionado, Não Supervisionado, Semi Supervisionado, Por Reforço, Por Transferência. 
-CIÊNCIA DE DADOS:: 07 Grandes Modelos de Linguagem (LLM), IA Generativa. 
-CIÊNCIA DE DADOS:: 08 Redes Neurais. 
-CIÊNCIA DE DADOS:: 09 MLOps: Gestão de código, treinamento, implantação, monitoramento e versionamento de modelos, automação do ciclo de produção. 
-CIÊNCIA DE DADOS:: 10 Governança e Ética na IA: Transparência, Responsabilidade, Explicabilidade, Privacidade, Segurança, Viés.
-SEGURANÇA DA INFORMAÇÃO:: 01 Gestão de Identidades e Acesso: Autenticação e Autorização, 
-SEGURANÇA DA INFORMAÇÃO:: 01.1 Single Sign-On (SSO), 
-SEGURANÇA DA INFORMAÇÃO:: 01.2 Security Assertion Markup Language (SAML), 
-SEGURANÇA DA INFORMAÇÃO:: 01.3 OAuth2 e 
-SEGURANÇA DA INFORMAÇÃO:: 01.4 OpenId Connect. 
-SEGURANÇA DA INFORMAÇÃO:: 02 Privacidade e segurança por padrão. 
-SEGURANÇA DA INFORMAÇÃO:: 03 Principais tipos de ataques e vulnerabilidades. 
-SEGURANÇA DA INFORMAÇÃO:: 04 Controles e testes de segurança para aplicações Web e Web Services. 
-SEGURANÇA DA INFORMAÇÃO:: 05 Múltiplos Fatores de Autenticação (MFA). 
-SEGURANÇA DA INFORMAÇÃO:: 06 Soluções para Segurança da Informação: 
-SEGURANÇA DA INFORMAÇÃO:: 06.1 Firewall, 
-SEGURANÇA DA INFORMAÇÃO:: 06.2 Intrusion Detection System (IDS), 
-SEGURANÇA DA INFORMAÇÃO:: 06.3 Intrusion Prevention System (IPS), 
-SEGURANÇA DA INFORMAÇÃO:: 06.4 Security Information and Event Management (SIEM), 
-SEGURANÇA DA INFORMAÇÃO:: 06.5 Proxy, 
-SEGURANÇA DA INFORMAÇÃO:: 06.6 Identity Access Management (IAM), 
-SEGURANÇA DA INFORMAÇÃO:: 06.7 Privileged Access Management (PAM), 
-SEGURANÇA DA INFORMAÇÃO:: 06.8 Antivírus, 
-SEGURANÇA DA INFORMAÇÃO:: 06.9 Antispam. 
-SEGURANÇA DA INFORMAÇÃO:: 07 Frameworks de segurança da informação e segurança cibernética.
-SEGURANÇA DA INFORMAÇÃO:: 07.1 MITRE ATT&CK, 
-SEGURANÇA DA INFORMAÇÃO:: 07.2 CIS Controls e 
-SEGURANÇA DA INFORMAÇÃO:: 07.3 NIST CyberSecurity Framework (NIST CSF). 
-SEGURANÇA DA INFORMAÇÃO:: 08 Tratamento de Incidentes Cibernéticos. 
-SEGURANÇA DA INFORMAÇÃO:: 09 Assinatura e certificação digital, 
-SEGURANÇA DA INFORMAÇÃO:: 09.1 criptografia e proteção de dados em trânsito e em repouso. 
-SEGURANÇA DA INFORMAÇÃO:: 10 Segurança em nuvens
-SEGURANÇA DA INFORMAÇÃO:: 10.1 Segurança em contêineres.
-ENGENHARIA DE SOFTWARE:: 01 Arquitetura de sistemas web.
-ENGENHARIA DE SOFTWARE:: 01.1 protocolo HTTP.
-ENGENHARIA DE SOFTWARE:: 01.2 HTTP/2.
-ENGENHARIA DE SOFTWARE:: 01.3 gRPC.
-ENGENHARIA DE SOFTWARE:: 01.4 WebSockets.
-ENGENHARIA DE SOFTWARE:: 01.5 TLS.
-ENGENHARIA DE SOFTWARE:: 01.6 servidores proxy.
-ENGENHARIA DE SOFTWARE:: 01.7 cache.
-ENGENHARIA DE SOFTWARE:: 01.8 DNS.
-ENGENHARIA DE SOFTWARE:: 01.9 balanceamento de carga.
-ENGENHARIA DE SOFTWARE:: 01.10 tolerância a falhas.
-ENGENHARIA DE SOFTWARE:: 01.11 escalabilidade em sistemas web. 
-ENGENHARIA DE SOFTWARE:: 02 Princípios e práticas de DevOps 
-ENGENHARIA DE SOFTWARE:: 02.1 Princípios e práticas de DevSecOps, 
-ENGENHARIA DE SOFTWARE:: 02 Princípios e práticas de integração e entrega contínuas (CI/CD). 
-ENGENHARIA DE SOFTWARE:: 03 Técnicas de desenvolvimento seguro. 
-ENGENHARIA DE SOFTWARE:: 04 Testes de software. 
-ENGENHARIA DE SOFTWARE:: 04.1 Testes unitários.
-ENGENHARIA DE SOFTWARE:: 04.2 Testes de Integração.
-ENGENHARIA DE SOFTWARE:: 04.3 TDD. 
-ENGENHARIA DE SOFTWARE:: 04.4 BDD.
-ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software em camadas.
-ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software baseada em serviços.
-ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software microsserviços.
-ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software orquestração de serviços.
-ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software com API gateway.
-ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software orientação a eventos.
-ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de softwarecliente-servidor.
-ENGENHARIA DE SOFTWARE:: 05 Arquiteturas de software serverless. 
-ENGENHARIA DE SOFTWARE:: 06 Práticas de UX e UI design. 
-ENGENHARIA DE SOFTWARE:: 07 Programação assíncrona. 
-ENGENHARIA DE SOFTWARE:: 08 RESTful 
-ENGENHARIA DE SOFTWARE:: 08.1 e GraphQL. 
-ENGENHARIA DE SOFTWARE:: 09 Web services. 
-ENGENHARIA DE SOFTWARE:: 10 Padrões: GoF e
-ENGENHARIA DE SOFTWARE:: 10.1 Padrões:GRASP. 
-ENGENHARIA DE SOFTWARE:: 11 Git. 
-ENGENHARIA DE SOFTWARE:: 13 Transações distribuídas. 
-ENGENHARIA DE SOFTWARE:: 14 Distributed Ledger Technology (DLT).
-INFRAESTRUTURA EM TI:: 01 Conceitos de infraestrutura como código.
-INFRAESTRUTURA EM TI:: 01.1 automação de infraestrutura de TI. 
-INFRAESTRUTURA EM TI:: 02 Docker
-INFRAESTRUTURA EM TI:: 02.2 Kubernetes
-INFRAESTRUTURA EM TI:: 02.3 boas práticas para infraestrutura e orquestração de containers. 
-INFRAESTRUTURA EM TI:: 03 Serviços de Rede Microsoft Windows Server.
-INFRAESTRUTURA EM TI:: 03.1 DNS em Rede Microsoft Windows Server
-INFRAESTRUTURA EM TI:: 03.2 DHCP em Rede Microsoft Windows Server
-INFRAESTRUTURA EM TI:: 03.3 Radius em Rede Microsoft Windows Server
-INFRAESTRUTURA EM TI:: 03.4 Autenticação em Rede Microsoft Windows Server
-INFRAESTRUTURA EM TI:: 03.5 Certificados em Rede Microsoft Windows Server
-INFRAESTRUTURA EM TI:: 03.6 Active Directory (AD) em Rede Microsoft Windows Server
-INFRAESTRUTURA EM TI:: 04 Monitoração, observabilidade e análise de sistemas em produção
-INFRAESTRUTURA EM TI:: 04.1 ferramentas de monitoramento e logging
-INFRAESTRUTURA EM TI:: 04.2 Nagios
-INFRAESTRUTURA EM TI:: 04.3 Prometheus
-INFRAESTRUTURA EM TI:: 04.4 Grafana
-INFRAESTRUTURA EM TI:: 04.5 Elasticsearch
-INFRAESTRUTURA EM TI:: 04.6 Kibana
-INFRAESTRUTURA EM TI:: 04.7 Application Performance Monitoring (APM) 
-INFRAESTRUTURA EM TI:: 05 Protocolos da camada de aplicação, 
-INFRAESTRUTURA EM TI:: 05.1 Protocolo Simple Mail Transfer Protocol (SMTP), 
-INFRAESTRUTURA EM TI:: 05.2 Protocolo Hypertext Transfer Protocol (HTTP), 
-INFRAESTRUTURA EM TI:: 05.3 Protocolo Hypertext Transfer Protocol (HTTPS), 
-INFRAESTRUTURA EM TI:: 05.4 Protocolo SSL/TLS, 
-INFRAESTRUTURA EM TI:: 05.5 Protocolo Lightweight Directory Access Protocol (LDAP), 
-INFRAESTRUTURA EM TI:: 05.6 Protocolo Network File System (NFS), 
-INFRAESTRUTURA EM TI:: 05.7 Protocolo Server Message Block (SMB). 
-INFRAESTRUTURA EM TI:: 06 Tolerância a falhas e continuidade de operação. 
-INFRAESTRUTURA EM TI:: 07 Implantação e administração de serviços de nuvem (IaaS, PaaS e SaaS). 
-INFRAESTRUTURA EM TI:: 07.1 IaaS
-INFRAESTRUTURA EM TI:: 07.2 PaaS
-INFRAESTRUTURA EM TI:: 07.3 SaaS
-INFRAESTRUTURA EM TI:: 08 Administração e gerenciamento de ambientes de virtualização. 
-INFRAESTRUTURA EM TI:: 09 Administração e operação de sistemas operacionais Microsoft Windows Server e Linux. 
-INFRAESTRUTURA EM TI:: 10 Conceitos de LAN, 
-INFRAESTRUTURA EM TI:: 10.1 Conceitos deWAN.
-INFRAESTRUTURA EM TI:: 10.2 Conceitos de SDN. 
-INFRAESTRUTURA EM TI:: 11 Conceitos e ferramentas de orquestração e automação de infraestrutura
-INFRAESTRUTURA EM TI:: 11.1 Puppet. 
-INFRAESTRUTURA EM TI:: 11.2 Ansible.
-BANCOS DE DADOS:: 01 SGBDs SQL e NOSQL. 
-BANCOS DE DADOS:: 02 Modelagens de dados: 
-BANCOS DE DADOS:: 02.1 Modelagens de dados relacional, 
-BANCOS DE DADOS:: 02.2 Modelagens de dados multidimensional, 
-BANCOS DE DADOS:: 02.3 Modelagens de dados nosql.
-BANCOS DE DADOS:: 03 SQL Procedural Language 
-BANCOS DE DADOS:: 03.1 SQL Structured Query Language. 
-BANCOS DE DADOS:: 04 Arquitetura de Inteligência de Negócio.
-BANCOS DE DADOS:: 04.1 DataWarehouse.
-BANCOS DE DADOS:: 04.2 DataMart. 
-BANCOS DE DADOS:: 04.3 DataLake. 
-BANCOS DE DADOS:: 04.4 DataMesh.
-GESTÃO EM TI:: 01 Kanban. 
-GESTÃO EM TI:: 02 Scrum. 
-GESTÃO EM TI:: 03 Governança de Dados. 
-GESTÃO EM TI:: 04 ITIL v4
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1 Raciocínio lógico. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1.1 Estruturas lógicas. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1.2 Lógica de argumentação: analogias, inferências, deduções e conclusões. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 1.3 Lógica sentencial (ou proposicional). 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 10.3.1 Proposições simples e compostas. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 10.3.2 Tabelas-verdade. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 10.3.3 Equivalências. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 10.3.4 Leis de Morgan; problemas. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2 Noções de estatística. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.1 População e amostra. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.2 Histogramas e curvas de frequência. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.3 Medidas de posição: média, moda, mediana e separatrizes. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.4 Medidas de dispersão absoluta e relativa. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.5 Probabilidade condicional, independência. 
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: 2.6 Variável aleatória e funções de distribuição.
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição uniforme
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição normal
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição binomial
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição de Poisson
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição exponencial
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição gama
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição Qui-Quadrado
-NOÇÕES DE LÓGICA E ESTATÍSTICA:: Distribuição t de Student
-I MACROECONOMIA:: 1 Contas nacionais.
-I MACROECONOMIA:: 2 Agregados monetários. 
-I MACROECONOMIA:: 3 Multiplicador monetário, criação e destruição de moeda. 
-I MACROECONOMIA:: 4 Contas do sistema monetário. 
-I MACROECONOMIA:: 5 Balanço de pagamentos. 
-II MICROECONOMIA:: 1 Estrutura de mercado. 
-II MICROECONOMIA:: 1.1 Formas de organização da atividade econômica, o papel dos preços, custo de oportunidade e fronteiras das possibilidades de produção. 
-II MICROECONOMIA:: 2 Oferta e demanda. 
-II MICROECONOMIA:: 2.1 Curvas de indiferença. 
-II MICROECONOMIA:: 2.2 Restrição orçamentária. 
-II MICROECONOMIA:: 2.3 Equilíbrio do consumidor. 
-II MICROECONOMIA:: 2.4 Efeitos preço, renda e substituição. 
-II MICROECONOMIA:: 2.5 Curva de demanda. 
-II MICROECONOMIA:: 2.6 Elasticidade da demanda.
+Geral - 1 POLÍTICAS PÚBLICAS::1.1 Introdução às políticas públicas: conceitos e tipologias. 
+Geral - 1 POLÍTICAS PÚBLICAS::1.2 Ciclos de políticas públicas: agenda e formulação; processos de decisão; implementação, seus planos, projetos e programas; monitoramento e avaliação.
+Geral - 1 POLÍTICAS PÚBLICAS::1.3 Institucionalização das políticas em Direitos Humanos como políticas de Estado. 
+Geral - 1 POLÍTICAS PÚBLICAS::1.4 Federalismo e descentralização de políticas públicas no Brasil: organização e funcionamento dos sistemas de programas nacionais. 
+Geral - 2 DESAFIOS DO ESTADO DE DIREITO::2.1 Estado de direito e a Constituição Federal de 1988: consolidação da democracia, representação política e participação cidadã. 2.2 Divisão e coordenação de Poderes da República. 
+Geral - 2 DESAFIOS DO ESTADO DE DIREITO::2.3 Presidencialismo como sistema de governo: noções gerais, capacidades governativas e especificidades do caso brasileiro. 
+Geral - 2 DESAFIOS DO ESTADO DE DIREITO::2.4 Efetivação e reparação de Direitos Humanos: memória, autoritarismo e violência de Estado. 
+Geral - 2 DESAFIOS DO ESTADO DE DIREITO::2.5 Programa Nacional de Direitos Humanos PNDH-3 (Decreto nº 7.037/2009). 
+Geral - 2 DESAFIOS DO ESTADO DE DIREITO::2.6 Combate às discriminações, desigualdades e injustiças: de renda, regional, racial, etária e de gênero.
+Geral - 2 DESAFIOS DO ESTADO DE DIREITO::2.7 Desenvolvimento sustentável, meio ambiente e mudança climática. 
+Geral - 3 ÉTICA e INTEGRIDADE::3.1 Princípios e valores éticos do serviço público, seus direitos e deveres à luz do artigo 37 da Constituição Federal de 1988, e do Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994). 
+Geral - 3 ÉTICA e INTEGRIDADE::3.2 Governança pública e sistemas de governança (Decreto nº 9.203, de 22 de novembro de 2017). Gestão de riscos e medidas mitigatórias na Administração Pública. 
+Geral - 3 ÉTICA e INTEGRIDADE::3.3 Integridade pública (Decreto nº 11.529/2023). 3.4 Transparência e qualidade na gestão pública, cidadania e equidade social. 
+Geral - 3 ÉTICA e INTEGRIDADE::3.5 Governo eletrônico e seu impacto na sociedade e na Administração Pública. Lei nº 14.129/2021. 
+Geral - 3 ÉTICA e INTEGRIDADE::3.6 Acesso à informação. Lei nº 12.527/2011. 3.7 Transparência e imparcialidade nos usos da inteligência artificial no âmbito do serviço público. 
+Geral - 4 DIVERSIDADE E INCLUSÃO NA SOCIEDADE::4.1 Diversidade de sexo, gênero e sexualidade; diversidade étnico-racial; diversidade cultural. 
+Geral - 4 DIVERSIDADE E INCLUSÃO NA SOCIEDADE::4.2 Desafios sociopolíticos da inclusão de grupos vulnerabilizados: crianças e adolescentes; idosos; LGBTQIA+; pessoas com deficiências; pessoas em situação de rua, povos indígenas, comunidades quilombolas e demais minorias sociais. 
+Geral - 5 ADMINISTRAÇÃO PÚBLICA FEDERAL::5.1 Princípios constitucionais e normas que regem a administração pública (artigos de 37 a 41 da Constituição Federal de 1988). 
+Geral - 5 ADMINISTRAÇÃO PÚBLICA FEDERAL::5.2 Estrutura organizacional da Administração Pública Federal (Decreto Lei nº 200/1967). 5.3 Agentes públicos: Regime Jurídico Único (Lei nº 8.112/1990 e suas alterações). 
+Geral - 6 FINANÇAS PÚBLICAS::6.1 Atribuições econômicas do Estado. 
+Geral - 6 FINANÇAS PÚBLICAS::6.2 Fundamentos das finanças públicas, tributação e orçamento. 
+Geral - 6 FINANÇAS PÚBLICAS::6.3 Financiamento das Políticas Públicas: estrutura de receitas e despesas do Estado brasileiro. 
+Geral - 6 FINANÇAS PÚBLICAS::6.4 Noções de orçamento público: Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO) e Lei Orçamentária Anual (LOA). 
+Geral - 6 FINANÇAS PÚBLICAS::6.5 Federalismo fiscal no Brasil; Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000).
+ET1 – GESTÃO E GOVERNANÇA::1 Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas. 
+ET1 – GESTÃO E GOVERNANÇA::1.1 Balanced Scorecard (BSC). 
+ET1 – GESTÃO E GOVERNANÇA::1.2 Matriz SWOT. 
+ET1 – GESTÃO E GOVERNANÇA::1.3 Estabelecimento de objetivos e metas organizacionais. 
+ET1 – GESTÃO E GOVERNANÇA::1.4 Métodos de desdobramento de objetivos e metas e elaboração de planos de ação e mapas estratégicos. 
+ET1 – GESTÃO E GOVERNANÇA::1.5 Implementação de estratégias. 
+ET1 – GESTÃO E GOVERNANÇA::1.6 Análise de cenários. 
+ET1 – GESTÃO E GOVERNANÇA::1.7 Ferramentas de gestão. 
+ET1 – GESTÃO E GOVERNANÇA::1.8 Metodologias para medição de desempenho.
+ET1 – GESTÃO E GOVERNANÇA::1.9 Indicadores de desempenho: conceito, formulação e análise. 
+ET1 – GESTÃO E GOVERNANÇA::1.10 OKR - Detalhamento da ferramenta de avaliação de desempenho:. 
+ET1 – GESTÃO E GOVERNANÇA::2.1 Conceitos básicos de Gestão de projetos.
+ET1 – GESTÃO E GOVERNANÇA:: 2.2 Processos do PMBOK. 
+ET1 – GESTÃO E GOVERNANÇA::2.3 Gerenciamento da integração, do escopo, do tempo, de custos, da qualidade, de recursos humanos, de comunicações, de riscos, de aquisições, de partes interessadas. 
+ET1 – GESTÃO E GOVERNANÇA::2.4 Metodologias ágeis.
+ET1 – GESTÃO E GOVERNANÇA::3 Gestão de processos de negócio. 
+ET1 – GESTÃO E GOVERNANÇA::3.1 Conceitos da abordagem por processos. 
+ET1 – GESTÃO E GOVERNANÇA::3.2 Técnicas de mapeamento, análise, melhoria e integração de processos. 
+ET1 – GESTÃO E GOVERNANÇA::3.3 Modelagem de processos com BPMN (versão 2.0). 
+ET1 – GESTÃO E GOVERNANÇA::3.4 Desenho de serviços públicos.
+ET1 – GESTÃO E GOVERNANÇA::4 Gestão de riscos: princípios, objetos, técnicas, modelos nacionais e internacionais, integração ao planejamento. 
+ET1 – GESTÃO E GOVERNANÇA::4.1 Processo de Gestão de Riscos: comunicação, consulta, contextualização, identificação, análise, tratamento, monitoramento e retroalimentação. 
+ET1 – GESTÃO E GOVERNANÇA::4.2 Boas práticas de gestão de Riscos. 
+ET1 – GESTÃO E GOVERNANÇA::5 Inovação na gestão pública. 
+ET1 – GESTÃO E GOVERNANÇA::6 Governo eletrônico; transparência da administração pública; controle social e cidadania; accountability. 
+ET1 – GESTÃO E GOVERNANÇA::7 Comunicação na gestão pública. 
+ET1 – GESTÃO E GOVERNANÇA::8.1 Processos de compras e gestão de contratos. 
+ET1 – GESTÃO E GOVERNANÇA::8.2 Contratações de tecnologia da informação - Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022
+ET1 – GESTÃO E GOVERNANÇA::8.3 Sustentabilidade das contratações públicas. 
+ET1 – GESTÃO E GOVERNANÇA::8.4 Compras centralizadas no governo federal brasileiro 
+ET1 – GESTÃO E GOVERNANÇA::9 Organização sistêmica da administração pública federal. 
+ET1 – GESTÃO E GOVERNANÇA::9.1 Sistemas estruturantes e estruturadores da administração pública federal.
+ET2 – POLÍTICAS PÚBLICAS::1 O processo de elaboração de políticas. 1.1 O papel do Estado. 1.2 A burocracia e o Estado. 1.3 Poder, racionalidade e tomada de decisões. 
+ET2 – POLÍTICAS PÚBLICAS::1.4 O papel da burocracia e a discricionariedade no processo de formulação e implementação de políticas públicas. 
+ET2 – POLÍTICAS PÚBLICAS::2 Implementação de políticas públicas: problemas, dilemas e desafios. 
+ET2 – POLÍTICAS PÚBLICAS::2.1 Arranjos institucionais para implementação de políticas públicas. 
+ET2 – POLÍTICAS PÚBLICAS::3 Avaliação de políticas públicas. 
+ET2 – POLÍTICAS PÚBLICAS::3.1 Principais componentes do processo de avaliação. 
+ET2 – POLÍTICAS PÚBLICAS::3.2 Custo-benefício, escala, efetividade, impacto das políticas públicas. 
+ET2 – POLÍTICAS PÚBLICAS::3.3 Principais diretrizes da formulação, implementação e avaliação de políticas públicas. 
+ET2 – POLÍTICAS PÚBLICAS::4. Políticas de ciência, tecnologia e inovação. 
+ET2 – POLÍTICAS PÚBLICAS::4.1 Marco Legal de CT&I (Lei nº 13.243/2016).
+ET2 – POLÍTICAS PÚBLICAS::4.2 Política e Estratégia Nacional de CT&I. 
+ET2 – POLÍTICAS PÚBLICAS::4.3 Política Nacional de Inovação. 
+ET2 – POLÍTICAS PÚBLICAS::5. Políticas de Governo Digital – Lei nº 14.129/2021. Marco Civil da InternET– Lei nº 12.965/2014 e alterações. 
+ET2 – POLÍTICAS PÚBLICAS::Defesa do Usuário dos Serviços Públicos da Administração Pública – Lei nº 13.460/2017 e alterações. 
+ET2 – POLÍTICAS PÚBLICAS::5.1 Estratégia Nacional de Governo Digital - Decreto 11.260/22 e suas alterações; Decreto nº 10.332/2020. 
+ET2 – POLÍTICAS PÚBLICAS::5.2 Estratégia Brasileira para a Transformação Digital (Decreto 9319/18 e suas alterações).
+ET3 – GERÊNCIA DE TI::1 Segurança da informação. 
+ET3 – GERÊNCIA DE TI::1.1 Princípios e políticas em segurança da informação. 
+ET3 – GERÊNCIA DE TI::1.3 Classificação de informações. 
+ET3 – GERÊNCIA DE TI::1.4 Autenticação e controle de acesso. 
+ET3 – GERÊNCIA DE TI::1.5 Análise de vulnerabilidade. 
+ET3 – GERÊNCIA DE TI::1.6 Plano de continuidade de negócio. 
+ET3 – GERÊNCIA DE TI::1.7 Norma ISO 17799. 
+ET3 – GERÊNCIA DE TI::1.7 Normas ISO 27001. 
+ET3 – GERÊNCIA DE TI::1.8 Auditoria e conformidade. 
+ET3 – GERÊNCIA DE TI::2 Governança e Gestão de TI. 2.1 ITIL: fundamentos, suporte a serviços, entrega de serviços. 
+ET3 – GERÊNCIA DE TI::2.2 Fundamentos de COBIT. 
+ET3 – GERÊNCIA DE TI::2.3 Governança Digital. 
+ET3 – GERÊNCIA DE TI::2.4 Gestão de Relacionamento. 
+ET3 – GERÊNCIA DE TI::3 Sistemas operacionais. 
+ET3 – GERÊNCIA DE TI::3.1 Conceitos básicos: funções e estruturas de sistemas operacionais. 
+ET3 – GERÊNCIA DE TI::3.2 Gerenciamento de processos: escalonamento do processador, programação concorrente, deadlock, comunicação e sincronização. 
+ET3 – GERÊNCIA DE TI::3.3 Gerenciamento de memória: partições, realocação, memória virtual, swapping. 
+ET3 – GERÊNCIA DE TI::3.4 Sistemas de arquivos em tecnologia da informação. 
+ET3 – GERÊNCIA DE TI::4.1 Conceitos básicos de redes de computadores e Internet. 
+ET3 – GERÊNCIA DE TI::4.2 Camadas de protocolos e serviços: Camada Física: características do meio de transmissão, técnicas de transmissão. 
+ET3 – GERÊNCIA DE TI::4.2.2 Camada de aplicação: principais protocolos de rede. 
+ET3 – GERÊNCIA DE TI::4.2.3 Camada de Transporte: serviços, protocolos TCP e UDP, princípios do controle de congestionamento. 
+ET3 – GERÊNCIA DE TI::4.2.4 Camada de Rede: protocolos IPv4 e IPv6, algoritmos de roteamento. 
+ET3 – GERÊNCIA DE TI::4.2.5 Camada de enlace e redes locais: serviços oferecidos, protocolos de acesso múltiplo, endereçamento na camada de enlace. 
+ET3 – GERÊNCIA DE TI::4.3 Redes Ethernet. 
+ET3 – GERÊNCIA DE TI::4.4 Redes sem fio. 
+ET3 – GERÊNCIA DE TI::4.5 Redes móveis. 
+ET3 – GERÊNCIA DE TI::4.6 Princípios da Gerência de Redes.
+ET4 – DESENVOLVIMENTO DE SOFTWARE::1 Programação e estruturas de dados. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::1.2 Orientação a objetos: conceitos básicos, padrões de projeto. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::1.3 Algoritmos de busca e ordenação em java e python. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::1.4 Estruturas lineares: lista encadeada, pilha, fila. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::1.5 Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, filas de prioridades, árvores balanceadas. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE:: 2.1 Conceitos fundamentais de programação para a Web. Linguagens: HTML, XML, CSS, JavaScript. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::2.3 servidores e Frameworks de desenvolvimento para a Web. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::3. Desenvolvimento para plataformas móveis. Plataformas de programação.  Emuladores e padrões de programação para smartphones e tablets. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::3.3. Principais componentes de interface com o usuário no desenvolvimento para plataformas móveis. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::3.4 Tecnologias de persistência de dados em dispositivos móveis. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::4 Engenharia de software. 4.1 Processos ágeis. 4.2 Engenharia de requisitos. 4.3 Ideação e especificação ágil. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::4.4 Arquitetura MVC e princípios de projeto. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::4.6 Revisões de software modernas. ET4 – DESENVOLVIMENTO DE SOFTWARE::4.7 DevOps (controle de versões, integração contínua e deployment contínuo). 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::4.8 Testes de aceitação. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::5 Banco de dados. 5.1 Projeto de banco de dados: projeto conceitual, lógico e físico. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::5.2 A abordagem Entidade-Relacionamento (E-R). 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::4.3 Modelo relacional: conceitos, restrições de integridade, mapeamento de modelos E-R para esquemas relacionais 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::5.4 Dependências funcionais e normalização. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::5.5 Linguagem SQL: DDL, DML, restrições de integridade, visões, autorização de acesso. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::5.6 Sistemas de gerência de bancos de dados. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::5.7 Bancos de dados NoSQL: definição de NoSQL, orientação à agregados, tipos de SGBD NoSQL: chave valor, chave valor orientado à documentos, família de colunas, grafos. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::6 Arquitetura e tecnologias de sistemas de informação. 
+ET4 – DESENVOLVIMENTO DE SOFTWARE::6.2 Workflow e gerenciamento eletrônico de documentos.
+ET5 – IA:: 1.1 Big Data. 
+ET5 – IA::1.2 Bancos de dados na nuvem. 
+ET5 – IA::1.2.1 O paradigma de computação na nuvem. 
+ET5 – IA::1.2.2 Requisitos de gerência de dados na nuvem. 
+ET5 – IA::1.2.3 Categorias de bancos de dados na nuvem. 
+ET5 – IA::1.3 Infraestruturas para processamento distribuído de Big Data: Hadoop, Spark, Kafka. 
+ET5 – IA::2 Data Warehouse. 2.1 Definição e características de um Data Warehouse. 
+ET5 – IA:: 2.2 Data Mart. 
+ET5 – IA::2.3 Processamento de Transações em tempo real: OLTP e OLAP. 
+ET5 – IA::2.4 Modelagem Multidimensional. 
+ET5 – IA::2.5 Bancos de Dados Multidimensionais. 
+ET5 – IA::2.6 Projeto de Data Warehouse. 
+ET5 – IA::2.7 Conceitos de extração, transformação e carga (ETL).
+ET5 – IA::3 Descoberta de Conhecimento e Mineração de Dados. 
+ET5 – IA::3.1 Conceitos básicos do processo de descoberta de conhecimento em bancos de dados (KDD). 
+ET5 – IA::3.2 Metodologia de KDD. 3.3 Métodos de Data Mining. 
+ET5 – IA::3.4 Pré- processamento de dados. 
+ET5 – IA::3.5 Mineração de dados: classificação, regressão, detecção de agrupamentos, descoberta de regras de associação, sumarização, modelagem de dependências, detecção de tendências e exceções. 
+ET5 – IA::3.6 Visualização de Dados. 
+ET5 – IA::4 Aprendizado de máquina. 4.1 Tipos de aprendizado de máquina: aprendizado supervisionado, aprendizado não supervisionado e aprendizado por reforço. 
+ET5 – IA::4.2 Algoritmos de aprendizado de máquina: regressão, 
+ET5 – IA:: árvores de decisão 
+ET5 – IA::redes neurais 
+ET5 – IA::máquinas de vetor de suporte 
+ET5 – IA::algoritmos de agrupamento em IA.
+ET5 – IA::5 Estatística. 5.1 Medidas de tendência central. 5.2 Medidas separatrizes. 5.3 Medidas de dispersão. 
+ET5 – IA::5.4 Medidas de Forma: assimetria e curtose, medidas de associação entre variáveis quantitativas e qualitativas (coeficiente de correlação linear de Pearson e coeficiente de contingência de Pearson) 
+ET5 – IA::5.5 Gráficos, diagramas, tabelas, medidas descritivas (posição, dispersão, assimetria e curtose). 
+ET5 – IA::6 Noções de Probabilidade. 
+ET5 – IA::6.1 Probabilidade condicional e independência. 
+ET5 – IA::6.2 Variáveis aleatórias discretas e contínuas. 
+ET5 – IA::7 Noções de Inferência Estatística. 7.1 População e amostra. 7.2 Seleção de amostra. 7.3 Estatística e parâmetro. 7.4 Distribuições amostrais. 
+ET5 – IA::8 Noções de Estimação. 8.1 Estimação pontual. 8.2 Estimação intervalar. 
+ET5 – IA::9 Testes de hipóteses. 9.1 Teste sobre a média de uma população. 
+ET5 – IA::9.2 Teste para comparação de duas populações considerando amostras independentes. 
+ET5 – IA::9.3 Teste para comparação de duas populações considerando amostras dependentes (pareadas). 
+ET5 – IA::9.4 Testes de homogeneidade em estatística. 
+ET5 – IA::9.5 Teste de independência em estatística. 
+ET5 – IA::9.6 Teste para o coeficiente de correlação. 
+ET5 – IA::10 Noções sobre Regressão. 10.1 Diagrama de dispersão. 10.2 Ajuste da reta de regressão pelo método dos mínimos quadrados. 
+ET5 – IA::10.3 Regressão linear simples. 
+ET5 – IA::10.4 Intervalos de confiança e intervalo de predição. 
+ET5 – IA::11 Noções de amostragem. 11.1 Amostragem probabilística: técnicas de amostragem – amostragem aleatória simples, estratificada, sistemática e por conglomerados. 
+ET5 – IA::11.2 Amostragem não probabilística.
+ET5 – IA::12. Entidades Discretas e Contínuas; Algoritmos; Operações Lógicas, Aritméticas, Trigonométricas e Estatísticas

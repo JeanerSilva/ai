@@ -1,0 +1,45 @@
+1.5 Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, filas de prioridades, árvores balanceadas. 
+ -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre o tópico "1.5 Árvores" conforme solicitado:
+
+### 1.5 Árvores
+
+#### Formas de Representação
+- **Lista de Adjacência**: Cada nó tem uma lista de nós adjacentes.
+- **Matriz de Adjacência**: Uma matriz onde a posição (i, j) indica a presença de uma aresta entre os nós i e j.
+- **Representação de Pais**: Cada nó armazena um ponteiro para seu nó pai.
+- **Representação de Filhos**: Cada nó armazena ponteiros para seus filhos.
+
+#### Recursão em Árvores
+- **Definição**: Árvores são naturalmente recursivas, pois cada subárvore de uma árvore é uma árvore.
+- **Aplicações**: Percursos (pré-ordem, in-ordem, pós-ordem), inserção, remoção, busca.
+
+#### Árvores Binárias
+- **Definição**: Cada nó tem no máximo dois filhos, denominados filho esquerdo e filho direito.
+- **Tipos de Percursos**:
+  - **Pré-ordem**: Visita a raiz, depois a subárvore esquerda e depois a subárvore direita.
+  - **In-ordem**: Visita a subárvore esquerda, depois a raiz e depois a subárvore direita.
+  - **Pós-ordem**: Visita a subárvore esquerda, depois a subárvore direita e depois a raiz.
+
+#### Árvores Binárias de Busca (BST)
+- **Definição**: Uma árvore binária onde para cada nó, todos os elementos na subárvore esquerda são menores e todos os elementos na subárvore direita são maiores.
+- **Operações**:
+  - **Inserção**: Coloca o novo nó na posição correta mantendo a propriedade BST.
+  - **Busca**: Compara o valor buscado com o nó atual e decide se vai para a subárvore esquerda ou direita.
+  - **Remoção**: Pode envolver três casos - nó folha, nó com um filho, nó com dois filhos.
+
+#### Filas de Prioridades
+- **Definição**: Estrutura de dados onde cada elemento tem uma prioridade e a remoção de elementos é feita com base na prioridade.
+- **Implementação**: Frequentemente implementada usando heaps (árvores binárias completas).
+  - **Heap Máximo**: O maior elemento está na raiz.
+  - **Heap Mínimo**: O menor elemento está na raiz.
+
+#### Árvores Balanceadas
+- **Definição**: Árvores que mantêm sua altura pequena para garantir operações eficientes.
+- **Tipos Comuns**:
+  - **Árvores AVL**: Cada nó mantém um fator de balanceamento (diferença de altura entre subárvores esquerda e direita) de no máximo 1.
+  - **Árvores Red-Black**: Cada nó é vermelho ou preto e a árvore mantém propriedades que garantem um balanceamento aproximado.
+  - **Árvores B**: Árvores balanceadas de ordem maior que 2, usadas principalmente em sistemas de banco de dados e sistemas de arquivos.
+
+Esses são os principais pontos e conceitos sobre o tópico "1.5 Árvores" do seu edital. Se precisar de mais detalhes sobre algum item específico, sinta-se à vontade para perguntar!
+

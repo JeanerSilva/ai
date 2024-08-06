@@ -1,0 +1,59 @@
+8 Noções de Estimação. 8.1 Estimação pontual. 8.2 Estimação intervalar. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre Noções de Estimação, focando em Estimação Pontual e Estimação Intervalar.
+
+### 8 Noções de Estimação
+
+A estimação é uma parte fundamental da inferência estatística, que se preocupa em inferir propriedades de uma população com base em uma amostra. Existem dois tipos principais de estimação: pontual e intervalar.
+
+#### 8.1 Estimação Pontual
+
+**Definição:**
+A estimação pontual envolve a utilização de um único valor, chamado de estimador, para inferir um parâmetro desconhecido da população.
+
+**Principais Conceitos:**
+- **Estimador:** Uma função da amostra que fornece uma estimativa do parâmetro populacional. Por exemplo, a média amostral (\(\bar{x}\)) é um estimador da média populacional (\(\mu\)).
+- **Propriedades dos Estimadores:**
+  - **Vies:** Um estimador é considerado não viesado se a média de suas estimativas é igual ao valor do parâmetro populacional.
+  - **Consistência:** Um estimador é consistente se, à medida que o tamanho da amostra aumenta, ele converge em probabilidade para o valor do parâmetro populacional.
+  - **Eficiência:** Entre dois estimadores não viesados, o mais eficiente é aquele com a menor variância.
+  - **Suficiência:** Um estimador é suficiente se ele utiliza toda a informação relevante da amostra sobre o parâmetro.
+
+**Exemplos de Estimadores:**
+- Média amostral (\(\bar{x}\)) para a média populacional (\(\mu\)).
+- Proporção amostral (\(\hat{p}\)) para a proporção populacional (\(p\)).
+- Variância amostral (\(s^2\)) para a variância populacional (\(\sigma^2\)).
+
+#### 8.2 Estimação Intervalar
+
+**Definição:**
+A estimação intervalar fornece um intervalo de valores dentro do qual o parâmetro populacional é esperado estar, com um certo nível de confiança.
+
+**Principais Conceitos:**
+- **Intervalo de Confiança (IC):** Um intervalo calculado a partir da amostra que, com um certo nível de confiança (geralmente 95% ou 99%), contém o parâmetro populacional.
+- **Nível de Confiança:** A probabilidade de que o intervalo de confiança contenha o parâmetro populacional. Comumente denotado por \(1 - \alpha\), onde \(\alpha\) é o nível de significância.
+- **Erro Padrão:** A medida da variabilidade do estimador. É usado para calcular os limites do intervalo de confiança.
+- **Distribuição de Amostragem:** A distribuição dos valores do estimador em todas as possíveis amostras de uma determinada população. Por exemplo, a distribuição da média amostral é aproximadamente normal se o tamanho da amostra for grande (Teorema Central do Limite).
+
+**Cálculo de Intervalos de Confiança:**
+- **Para a média (\(\mu\)) com variância conhecida:**
+  \[
+  \bar{x} \pm Z_{\alpha/2} \left(\frac{\sigma}{\sqrt{n}}\right)
+  \]
+  onde \(Z_{\alpha/2}\) é o valor crítico da distribuição normal padrão.
+- **Para a média (\(\mu\)) com variância desconhecida:**
+  \[
+  \bar{x} \pm t_{\alpha/2, \, n-1} \left(\frac{s}{\sqrt{n}}\right)
+  \]
+  onde \(t_{\alpha/2, \, n-1}\) é o valor crítico da distribuição t de Student com \(n-1\) graus de liberdade.
+- **Para a proporção (\(p\)):**
+  \[
+  \hat{p} \pm Z_{\alpha/2} \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+  \]
+
+**Aspectos Essenciais:**
+- **Interpretação:** Um intervalo de confiança de 95% significa que, se repetirmos o processo de amostragem muitas vezes, aproximadamente 95% dos intervalos calculados conterão o verdadeiro parâmetro populacional.
+- **Largura do Intervalo:** Depende do nível de confiança e do tamanho da amostra. Maior confiança ou menor tamanho de amostra resultam em intervalos mais largos.
+
+Este resumo cobre os principais pontos e conceitos essenciais sobre estimação pontual e intervalar. Boa sorte nos seus estudos para o concurso!
+

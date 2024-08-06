@@ -1,0 +1,63 @@
+1.7 Norma ISO 17799. 
+ -
+Claro, posso te ajudar com isso! A ISO/IEC 17799 é uma norma internacional que fornece diretrizes para a gestão da segurança da informação. Ela foi substituída pela ISO/IEC 27002, mas ainda é relevante entender seus principais pontos, pois muitos conceitos permanecem aplicáveis. Aqui está um resumo conciso e direto ao ponto sobre a ISO/IEC 17799:
+
+### Principais Pontos e Conceitos da ISO/IEC 17799:
+
+1. **Objetivo**:
+   - Fornecer um conjunto de boas práticas para a gestão da segurança da informação.
+   - Ajudar as organizações a proteger suas informações de ameaças e vulnerabilidades.
+
+2. **Estrutura**:
+   - A norma é dividida em várias seções, cada uma abordando diferentes aspectos da segurança da informação.
+
+3. **Seções e Itens**:
+   - **Política de Segurança da Informação**:
+     - Definição de políticas de segurança alinhadas com os objetivos da organização.
+   - **Organização da Segurança da Informação**:
+     - Estrutura organizacional e responsabilidades.
+     - Coordenação da segurança da informação.
+   - **Gestão de Ativos**:
+     - Inventário de ativos.
+     - Classificação da informação.
+   - **Segurança em Recursos Humanos**:
+     - Antes, durante e após o término do emprego.
+   - **Segurança Física e do Ambiente**:
+     - Áreas seguras.
+     - Equipamentos de segurança.
+   - **Gestão das Operações e Comunicações**:
+     - Procedimentos operacionais.
+     - Proteção contra malware.
+     - Backup.
+     - Gestão de redes.
+   - **Controle de Acesso**:
+     - Política de controle de acesso.
+     - Gestão de direitos de acesso.
+   - **Aquisição, Desenvolvimento e Manutenção de Sistemas de Informação**:
+     - Requisitos de segurança para sistemas de informação.
+     - Segurança em processos de desenvolvimento e suporte.
+   - **Gestão de Incidentes de Segurança da Informação**:
+     - Relato e gestão de incidentes.
+     - Aprendizado com incidentes.
+   - **Gestão da Continuidade do Negócio**:
+     - Planejamento de continuidade.
+     - Testes e atualizações de planos.
+   - **Conformidade**:
+     - Conformidade com requisitos legais.
+     - Auditoria de sistemas de informação.
+
+### Aspectos Essenciais:
+
+- **Boas Práticas**: A norma fornece um conjunto de boas práticas que podem ser adaptadas conforme a necessidade da organização.
+- **Gestão de Riscos**: Enfatiza a importância de identificar, avaliar e tratar riscos de segurança da informação.
+- **Ciclo de Vida da Segurança**: Aborda a segurança da informação em todas as fases, desde a aquisição até a descontinuação de sistemas.
+- **Responsabilidade e Conscientização**: Destaca a importância de definir responsabilidades claras e promover a conscientização sobre segurança da informação entre todos os colaboradores.
+
+### Importância:
+
+- **Proteção de Dados**: Ajuda a proteger dados sensíveis contra acessos não autorizados, perda ou danos.
+- **Conformidade**: Auxilia na conformidade com leis e regulamentos relacionados à segurança da informação.
+- **Confiança**: Aumenta a confiança de clientes e parceiros ao demonstrar um compromisso com a segurança da informação.
+
+Espero que este resumo te ajude a entender melhor o conteúdo do seu edital sobre a ISO/IEC 17799! Se precisar de mais detalhes ou tiver outras dúvidas, estou à disposição.
+

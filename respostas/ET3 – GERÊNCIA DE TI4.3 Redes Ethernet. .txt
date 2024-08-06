@@ -1,0 +1,54 @@
+4.3 Redes Ethernet. 
+ -
+Claro, posso te ajudar com isso! Vamos ao resumo sobre Redes Ethernet, conforme solicitado:
+
+### Redes Ethernet
+
+**1. Conceito Básico:**
+- **Ethernet** é uma tecnologia de rede local (LAN) que permite a comunicação entre dispositivos em uma rede através de um protocolo de comunicação padrão.
+
+**2. Padrões e Protocolos:**
+- **IEEE 802.3**: É o padrão que define as especificações técnicas da Ethernet.
+- **CSMA/CD (Carrier Sense Multiple Access with Collision Detection)**: Método utilizado para controlar o acesso ao meio de transmissão e detectar colisões.
+
+**3. Tipos de Ethernet:**
+- **Ethernet Clássica**: Utiliza cabos coaxiais e tem velocidades de 10 Mbps.
+- **Fast Ethernet**: Atinge velocidades de até 100 Mbps, geralmente utilizando cabos de par trançado (UTP).
+- **Gigabit Ethernet**: Oferece velocidades de 1 Gbps, também utilizando cabos de par trançado ou fibra óptica.
+- **10 Gigabit Ethernet**: Atinge velocidades de 10 Gbps, geralmente utilizando fibra óptica.
+
+**4. Topologias de Rede:**
+- **Barramento**: Utilizada nas primeiras versões da Ethernet, onde todos os dispositivos compartilham um único cabo.
+- **Estrela**: Cada dispositivo está conectado a um switch central, que gerencia o tráfego de dados.
+- **Anel**: Menos comum em Ethernet, mas pode ser usada em algumas implementações específicas.
+
+**5. Equipamentos de Rede:**
+- **Switches**: Dispositivos que conectam múltiplos dispositivos em uma rede e utilizam endereços MAC para encaminhar dados.
+- **Hubs**: Dispositivos mais simples que retransmitem dados para todos os dispositivos conectados, sem distinção.
+- **Roteadores**: Dispositivos que conectam diferentes redes e encaminham pacotes de dados entre elas.
+
+**6. Endereçamento:**
+- **Endereço MAC (Media Access Control)**: Identificador único atribuído a cada interface de rede Ethernet, utilizado para a comunicação entre dispositivos na mesma rede.
+
+**7. Cabeamento:**
+- **Par Trançado (UTP/STP)**: Cabos com pares de fios trançados, comuns em redes Ethernet.
+- **Fibra Óptica**: Utilizada para transmissões de alta velocidade e longas distâncias.
+
+**8. Frame Ethernet:**
+- **Estrutura do Frame**: Inclui preâmbulo, endereço de destino, endereço de origem, tipo/longitud, dados e FCS (Frame Check Sequence).
+- **MTU (Maximum Transmission Unit)**: Tamanho máximo do frame Ethernet, geralmente 1500 bytes.
+
+**9. VLANs (Virtual Local Area Networks):**
+- **Segmentação de Rede**: Permite a criação de redes lógicas independentes dentro de uma mesma infraestrutura física, melhorando a segurança e a gestão do tráfego.
+
+**10. QoS (Quality of Service):**
+- **Prioritização de Tráfego**: Mecanismos para garantir que determinados tipos de tráfego (como voz e vídeo) tenham prioridade sobre outros.
+
+### Aspectos Essenciais:
+
+- **Desempenho e Escalabilidade**: Ethernet é conhecida por sua alta velocidade e capacidade de expansão.
+- **Custo-Benefício**: É uma tecnologia amplamente adotada devido ao seu baixo custo e facilidade de implementação.
+- **Compatibilidade**: Suporta uma ampla gama de dispositivos e tecnologias de rede.
+
+Este resumo cobre os principais pontos e conceitos essenciais sobre Redes Ethernet que você pode encontrar no seu edital. Boa sorte nos seus estudos e no concurso!
+

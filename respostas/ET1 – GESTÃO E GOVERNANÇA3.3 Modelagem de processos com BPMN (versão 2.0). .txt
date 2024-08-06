@@ -1,0 +1,64 @@
+3.3 Modelagem de processos com BPMN (versão 2.0). 
+ -
+Claro, vou te ajudar com um resumo conciso sobre a modelagem de processos com BPMN 2.0. BPMN (Business Process Model and Notation) é uma notação gráfica padronizada para modelagem de processos de negócios. A versão 2.0 trouxe várias melhorias e novos elementos. Aqui estão os principais pontos e conceitos essenciais:
+
+### Principais Conceitos e Elementos do BPMN 2.0:
+
+1. **Elementos Básicos**:
+   - **Eventos**: Representam algo que acontece durante o processo. Podem ser de início, intermediário ou fim.
+     - **Evento de Início**: Marca o começo do processo.
+     - **Evento Intermediário**: Ocorre entre o início e o fim do processo.
+     - **Evento de Fim**: Indica a conclusão do processo.
+
+   - **Atividades**: Representam o trabalho realizado dentro do processo.
+     - **Tarefa**: Uma unidade de trabalho atômica.
+     - **Subprocesso**: Uma atividade composta que pode ser detalhada em um diagrama separado.
+
+   - **Gateways**: Usados para controlar o fluxo do processo, determinando ramificações e junções.
+     - **Gateway Exclusivo (XOR)**: Permite apenas um caminho.
+     - **Gateway Paralelo (AND)**: Permite múltiplos caminhos simultâneos.
+     - **Gateway Inclusivo (OR)**: Permite um ou mais caminhos.
+
+   - **Fluxos**:
+     - **Fluxo de Sequência**: Conecta atividades, eventos e gateways.
+     - **Fluxo de Mensagem**: Representa a comunicação entre entidades diferentes.
+     - **Associação**: Conecta artefatos a elementos de fluxo.
+
+2. **Piscinas e Raias**:
+   - **Piscinas (Pools)**: Representam participantes no processo, como uma organização ou um sistema.
+   - **Raias (Lanes)**: Subdivisões dentro de uma piscina, representando papéis ou departamentos.
+
+3. **Artefatos**:
+   - **Objetos de Dados**: Representam informações usadas ou produzidas pelo processo.
+   - **Anotações**: Fornecem informações adicionais sobre o processo.
+   - **Grupos**: Agrupam elementos relacionados visualmente.
+
+4. **Conectores**:
+   - **Conectores de Dados**: Mostram a entrada e saída de dados entre atividades.
+   - **Conectores de Associação**: Ligam artefatos a elementos de fluxo.
+
+5. **Tipos de Tarefas**:
+   - **Tarefa de Usuário**: Executada por um humano com a ajuda de uma aplicação.
+   - **Tarefa de Serviço**: Executada por um serviço automatizado.
+   - **Tarefa de Script**: Executada por um script.
+   - **Tarefa de Envio/Recebimento de Mensagem**: Envolve a troca de mensagens.
+
+6. **Subprocessos**:
+   - **Subprocesso Incorporado**: Detalhado dentro do processo principal.
+   - **Subprocesso Reutilizável**: Pode ser reutilizado em diferentes processos.
+
+### Aspectos Essenciais:
+
+- **Padronização**: BPMN 2.0 é uma notação padronizada pela OMG (Object Management Group), garantindo consistência e clareza na modelagem de processos.
+- **Interoperabilidade**: Facilita a comunicação entre diferentes sistemas e organizações.
+- **Visualização**: Proporciona uma representação gráfica clara e compreensível dos processos de negócios.
+- **Detalhamento**: Permite diferentes níveis de detalhamento, desde uma visão geral até a especificação detalhada de subprocessos.
+
+### Aplicações:
+
+- **Análise de Processos**: Identificação de ineficiências e oportunidades de melhoria.
+- **Automação de Processos**: Base para a implementação de workflows automatizados.
+- **Documentação**: Registro formal dos processos de negócios.
+
+Espero que este resumo te ajude a entender melhor a modelagem de processos com BPMN 2.0 e a se preparar para o seu concurso!
+

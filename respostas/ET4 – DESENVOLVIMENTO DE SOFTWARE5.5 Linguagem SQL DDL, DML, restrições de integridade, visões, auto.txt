@@ -1,0 +1,56 @@
+5.5 Linguagem SQL: DDL, DML, restrições de integridade, visões, autorização de acesso. 
+ -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre o tópico "5.5 Linguagem SQL: DDL, DML, restrições de integridade, visões, autorização de acesso" conforme solicitado:
+
+### Linguagem SQL
+
+#### 1. **DDL (Data Definition Language)**
+   - **Objetivo**: Definir e modificar a estrutura dos objetos do banco de dados.
+   - **Principais comandos**:
+     - **CREATE**: Cria novos objetos no banco de dados (tabelas, índices, visões, etc.).
+     - **ALTER**: Modifica a estrutura de objetos existentes.
+     - **DROP**: Remove objetos do banco de dados.
+     - **TRUNCATE**: Remove todos os registros de uma tabela, mas mantém a estrutura.
+
+#### 2. **DML (Data Manipulation Language)**
+   - **Objetivo**: Manipular os dados dentro dos objetos do banco de dados.
+   - **Principais comandos**:
+     - **SELECT**: Recupera dados do banco de dados.
+     - **INSERT**: Insere novos dados em uma tabela.
+     - **UPDATE**: Atualiza dados existentes em uma tabela.
+     - **DELETE**: Remove dados de uma tabela.
+
+#### 3. **Restrições de Integridade**
+   - **Objetivo**: Garantir a precisão e a consistência dos dados no banco de dados.
+   - **Principais tipos**:
+     - **PRIMARY KEY**: Garante que cada registro em uma tabela seja único.
+     - **FOREIGN KEY**: Assegura a integridade referencial entre tabelas.
+     - **UNIQUE**: Garante que todos os valores em uma coluna sejam únicos.
+     - **NOT NULL**: Assegura que uma coluna não possa ter valores nulos.
+     - **CHECK**: Impõe uma condição que os valores em uma coluna devem satisfazer.
+
+#### 4. **Visões (Views)**
+   - **Objetivo**: Criar uma representação virtual de dados de uma ou mais tabelas.
+   - **Características**:
+     - **CREATE VIEW**: Define uma nova visão.
+     - **Vantagens**: Simplificação de consultas complexas, segurança (restrição de acesso a dados sensíveis), e reutilização de consultas.
+
+#### 5. **Autorização de Acesso**
+   - **Objetivo**: Controlar o acesso aos dados e operações no banco de dados.
+   - **Principais comandos**:
+     - **GRANT**: Concede permissões a usuários ou roles.
+     - **REVOKE**: Revoga permissões previamente concedidas.
+   - **Tipos de permissões**:
+     - **SELECT, INSERT, UPDATE, DELETE**: Permissões para manipulação de dados.
+     - **EXECUTE**: Permissão para executar procedimentos armazenados.
+     - **ALL PRIVILEGES**: Concede todas as permissões.
+
+### Resumo dos Principais Pontos
+- **DDL**: Define e modifica a estrutura do banco de dados.
+- **DML**: Manipula os dados dentro do banco de dados.
+- **Restrições de Integridade**: Garante a precisão e consistência dos dados.
+- **Visões**: Representações virtuais de dados para simplificação e segurança.
+- **Autorização de Acesso**: Controla quem pode acessar e manipular os dados.
+
+Espero que este resumo ajude você a entender melhor o conteúdo do seu edital. Boa sorte nos seus estudos para o concurso!
+

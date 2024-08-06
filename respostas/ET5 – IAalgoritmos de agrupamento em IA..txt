@@ -1,0 +1,51 @@
+algoritmos de agrupamento em IA.
+ -
+Claro, vou te ajudar com um resumo conciso sobre algoritmos de agrupamento em Inteligência Artificial (IA).
+
+### Algoritmos de Agrupamento em IA
+
+**Definição:**
+Agrupamento (ou clustering) é uma técnica de aprendizado não supervisionado usada para organizar um conjunto de objetos em grupos (clusters) de tal forma que objetos no mesmo grupo sejam mais semelhantes entre si do que com aqueles em outros grupos.
+
+**Principais Conceitos:**
+1. **Similaridade e Distância:** Medidas de similaridade (ou distância) são fundamentais para determinar como os objetos são agrupados. As mais comuns são a distância Euclidiana, Manhattan e Coseno.
+2. **Centroides:** Em muitos algoritmos, um centroide é um ponto que representa o centro de um cluster.
+3. **Número de Clusters:** Alguns algoritmos requerem que o número de clusters seja definido previamente, enquanto outros determinam isso automaticamente.
+
+**Principais Algoritmos de Agrupamento:**
+1. **K-means:**
+   - **Descrição:** Particiona os dados em K clusters, onde K é um parâmetro definido pelo usuário.
+   - **Processo:** Inicializa K centroides, atribui cada ponto ao cluster mais próximo, recalcula os centroides e repete até a convergência.
+   - **Vantagens:** Simples e eficiente para grandes conjuntos de dados.
+   - **Desvantagens:** Requer a definição prévia de K e pode convergir para mínimos locais.
+
+2. **Hierárquico:**
+   - **Descrição:** Cria uma árvore de clusters (dendrograma) que pode ser cortada em diferentes níveis para obter diferentes agrupamentos.
+   - **Tipos:** Aglomerativo (bottom-up) e divisivo (top-down).
+   - **Vantagens:** Não requer a definição prévia do número de clusters.
+   - **Desvantagens:** Pode ser computacionalmente caro para grandes conjuntos de dados.
+
+3. **DBSCAN (Density-Based Spatial Clustering of Applications with Noise):**
+   - **Descrição:** Agrupa pontos que estão densamente conectados e marca pontos isolados como ruído.
+   - **Parâmetros:** Epsilon (distância máxima para considerar pontos como vizinhos) e MinPts (número mínimo de pontos para formar um cluster).
+   - **Vantagens:** Identifica clusters de forma arbitrária e lida bem com ruído.
+   - **Desvantagens:** Sensível à escolha dos parâmetros.
+
+4. **Mean Shift:**
+   - **Descrição:** Move cada ponto para a média dos pontos em sua vizinhança até a convergência.
+   - **Vantagens:** Não requer a definição prévia do número de clusters.
+   - **Desvantagens:** Pode ser computacionalmente caro e sensível à escolha da largura da janela.
+
+5. **Gaussian Mixture Models (GMM):**
+   - **Descrição:** Assume que os dados são gerados a partir de uma mistura de várias distribuições gaussianas.
+   - **Processo:** Utiliza o algoritmo de Expectation-Maximization (EM) para estimar os parâmetros das distribuições.
+   - **Vantagens:** Flexível e pode modelar clusters de forma elíptica.
+   - **Desvantagens:** Requer a definição prévia do número de componentes.
+
+**Aspectos Essenciais:**
+- **Escolha do Algoritmo:** Depende da natureza dos dados, do tamanho do conjunto de dados e dos requisitos específicos da aplicação.
+- **Validação dos Clusters:** Métodos como a Silhouette Score, Davies-Bouldin Index e Elbow Method são usados para avaliar a qualidade dos clusters.
+- **Escalabilidade:** Alguns algoritmos são mais adequados para grandes conjuntos de dados, enquanto outros podem ser limitados pela complexidade computacional.
+
+Espero que este resumo te ajude a entender melhor os algoritmos de agrupamento em IA! Boa sorte nos seus estudos para o concurso!
+

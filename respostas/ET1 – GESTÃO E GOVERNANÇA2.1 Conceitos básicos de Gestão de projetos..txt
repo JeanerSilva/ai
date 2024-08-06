@@ -1,0 +1,54 @@
+2.1 Conceitos básicos de Gestão de projetos.
+ -
+Claro, vou te ajudar com um resumo conciso e direto ao ponto sobre os conceitos básicos de Gestão de Projetos, conforme solicitado. Aqui estão os principais pontos e conceitos essenciais:
+
+### Conceitos Básicos de Gestão de Projetos
+
+1. **Definição de Projeto**:
+   - Um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado único. Tem início e fim definidos, além de objetivos específicos.
+
+2. **Ciclo de Vida do Projeto**:
+   - **Iniciação**: Definição do projeto e obtenção de autorização.
+   - **Planejamento**: Estabelecimento do escopo, objetivos e ações necessárias.
+   - **Execução**: Coordenação de pessoas e recursos para realizar o plano.
+   - **Monitoramento e Controle**: Acompanhamento do progresso e desempenho, fazendo ajustes conforme necessário.
+   - **Encerramento**: Finalização de todas as atividades do projeto.
+
+3. **Áreas de Conhecimento em Gestão de Projetos**:
+   - **Integração**: Coordenação dos elementos do projeto.
+   - **Escopo**: Definição e controle do que está incluído e excluído do projeto.
+   - **Tempo**: Gerenciamento do cronograma do projeto.
+   - **Custo**: Planejamento e controle do orçamento.
+   - **Qualidade**: Garantia de que o projeto atenderá aos requisitos.
+   - **Recursos Humanos**: Organização e gerenciamento da equipe do projeto.
+   - **Comunicações**: Planejamento, distribuição e armazenamento das informações do projeto.
+   - **Riscos**: Identificação, análise e resposta aos riscos do projeto.
+   - **Aquisições**: Compra ou aquisição de produtos, serviços ou resultados.
+   - **Partes Interessadas**: Identificação e gerenciamento das expectativas das partes interessadas.
+
+4. **Principais Ferramentas e Técnicas**:
+   - **Gráficos de Gantt**: Visualização do cronograma do projeto.
+   - **PERT/CPM**: Técnicas para análise e representação do cronograma.
+   - **Matriz RACI**: Ferramenta para definir responsabilidades.
+   - **Análise SWOT**: Identificação de forças, fraquezas, oportunidades e ameaças.
+   - **EAP (Estrutura Analítica do Projeto)**: Decomposição do trabalho do projeto em partes menores e mais gerenciáveis.
+
+5. **Papéis e Responsabilidades**:
+   - **Gerente de Projetos**: Responsável pelo planejamento, execução e encerramento do projeto.
+   - **Patrocinador do Projeto**: Fornece recursos e apoio ao projeto.
+   - **Equipe do Projeto**: Conjunto de pessoas que trabalham para alcançar os objetivos do projeto.
+   - **Partes Interessadas**: Pessoas ou organizações que podem afetar ou ser afetadas pelo projeto.
+
+6. **Metodologias de Gestão de Projetos**:
+   - **Tradicional (Waterfall)**: Abordagem sequencial e linear.
+   - **Ágil (Agile)**: Abordagem iterativa e incremental, com foco na flexibilidade e adaptação.
+   - **Híbrida**: Combinação de metodologias tradicionais e ágeis.
+
+7. **Documentação Essencial**:
+   - **Termo de Abertura do Projeto**: Documento que autoriza formalmente o projeto.
+   - **Plano de Gerenciamento do Projeto**: Documento que descreve como o projeto será executado, monitorado e controlado.
+   - **Registro de Riscos**: Lista de todos os riscos identificados e suas respostas planejadas.
+   - **Relatórios de Progresso**: Atualizações regulares sobre o status do projeto.
+
+Esses são os principais conceitos e aspectos essenciais sobre Gestão de Projetos que você deve conhecer para o seu concurso. Boa sorte nos seus estudos!
+

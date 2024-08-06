@@ -1,0 +1,50 @@
+1 Segurança da informação. 
+ -
+Claro, posso te ajudar com isso! Abaixo está um resumo conciso e direto ao ponto sobre o tópico "Segurança da Informação", incluindo os principais pontos, conceitos e aspectos essenciais:
+
+### Segurança da Informação
+
+**1. Conceitos Fundamentais:**
+- **Confidencialidade:** Garantir que a informação seja acessível apenas por pessoas autorizadas.
+- **Integridade:** Assegurar que a informação não seja alterada de maneira não autorizada.
+- **Disponibilidade:** Garantir que a informação esteja acessível e utilizável sob demanda por uma entidade autorizada.
+- **Autenticidade:** Verificação da identidade de usuários e sistemas.
+- **Não-repúdio:** Garantia de que uma ação ou transação não possa ser negada posteriormente.
+
+**2. Ameaças e Vulnerabilidades:**
+- **Malware:** Software malicioso como vírus, worms, trojans, ransomware.
+- **Phishing:** Tentativas de obter informações sensíveis enganando os usuários.
+- **Ataques de Engenharia Social:** Manipulação psicológica para obter informações confidenciais.
+- **Ataques de Força Bruta:** Tentativas de adivinhar senhas através de tentativa e erro.
+- **Exploração de Vulnerabilidades:** Uso de falhas em sistemas para obter acesso não autorizado.
+
+**3. Medidas de Proteção:**
+- **Criptografia:** Uso de algoritmos para codificar informações, tornando-as inacessíveis a usuários não autorizados.
+- **Firewalls:** Sistemas que monitoram e controlam o tráfego de rede baseado em regras de segurança.
+- **Antivírus e Antimalware:** Programas que detectam e removem software malicioso.
+- **Controle de Acesso:** Políticas e tecnologias que restringem o acesso a informações e sistemas.
+- **Backup e Recuperação:** Procedimentos para cópia e restauração de dados em caso de perda ou corrupção.
+
+**4. Normas e Padrões:**
+- **ISO/IEC 27001:** Padrão internacional para sistemas de gestão de segurança da informação.
+- **NIST (National Institute of Standards and Technology):** Conjunto de diretrizes e padrões para segurança da informação.
+- **LGPD (Lei Geral de Proteção de Dados):** Legislação brasileira que regula o tratamento de dados pessoais.
+
+**5. Políticas de Segurança:**
+- **Política de Senhas:** Regras para criação, uso e gerenciamento de senhas.
+- **Política de Uso Aceitável:** Diretrizes sobre o uso aceitável de recursos de TI.
+- **Política de Backup:** Procedimentos para realização de backups regulares.
+- **Política de Resposta a Incidentes:** Planos de ação para lidar com incidentes de segurança.
+
+**6. Gestão de Riscos:**
+- **Identificação de Riscos:** Processo de reconhecimento de ameaças potenciais.
+- **Análise de Riscos:** Avaliação do impacto e probabilidade de riscos.
+- **Mitigação de Riscos:** Implementação de medidas para reduzir a probabilidade ou impacto dos riscos.
+- **Monitoramento Contínuo:** Acompanhamento constante das ameaças e vulnerabilidades.
+
+**7. Auditoria e Conformidade:**
+- **Auditorias de Segurança:** Revisões sistemáticas para avaliar a eficácia das medidas de segurança.
+- **Conformidade Legal:** Garantia de que as práticas de segurança estão em conformidade com leis e regulamentos aplicáveis.
+
+Esses são os principais pontos e conceitos que você deve entender sobre Segurança da Informação para o seu concurso. Boa sorte nos seus estudos!
+

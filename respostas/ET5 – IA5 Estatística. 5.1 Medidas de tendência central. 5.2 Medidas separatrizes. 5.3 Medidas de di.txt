@@ -1,0 +1,50 @@
+5 Estatística. 5.1 Medidas de tendência central. 5.2 Medidas separatrizes. 5.3 Medidas de dispersão. 
+ -
+Claro, vou te ajudar com um resumo conciso e direto ao ponto sobre o tópico de Estatística, conforme solicitado. Vamos abordar cada subitem do edital:
+
+### 5 Estatística
+
+#### 5.1 Medidas de Tendência Central
+As medidas de tendência central são valores que representam um conjunto de dados, indicando onde está o "centro" dos dados. As principais medidas são:
+
+- **Média Aritmética**: Soma de todos os valores dividida pelo número de valores.
+- **Mediana**: Valor que separa a metade superior da metade inferior dos dados ordenados.
+- **Moda**: Valor que aparece com maior frequência em um conjunto de dados.
+
+#### 5.2 Medidas Separatrizes
+As medidas separatrizes dividem um conjunto de dados em partes iguais. As principais são:
+
+- **Quartis**: Dividem os dados em quatro partes iguais. São três quartis: Q1 (25%), Q2 (50%, que é a mediana), e Q3 (75%).
+- **Quintis**: Dividem os dados em cinco partes iguais.
+- **Decis**: Dividem os dados em dez partes iguais.
+- **Percentis**: Dividem os dados em cem partes iguais.
+
+#### 5.3 Medidas de Dispersão
+As medidas de dispersão indicam o grau de variação ou dispersão dos dados em torno de uma medida de tendência central. As principais são:
+
+- **Amplitude**: Diferença entre o maior e o menor valor do conjunto de dados.
+- **Variância**: Média dos quadrados das diferenças entre cada valor e a média do conjunto de dados.
+- **Desvio Padrão**: Raiz quadrada da variância, indicando a dispersão média dos dados em relação à média.
+- **Coeficiente de Variação**: Razão entre o desvio padrão e a média, expressa em porcentagem, indicando a dispersão relativa dos dados.
+
+### Resumo dos Principais Pontos e Conceitos
+
+1. **Medidas de Tendência Central**:
+   - Média Aritmética
+   - Mediana
+   - Moda
+
+2. **Medidas Separatrizes**:
+   - Quartis (Q1, Q2, Q3)
+   - Quintis
+   - Decis
+   - Percentis
+
+3. **Medidas de Dispersão**:
+   - Amplitude
+   - Variância
+   - Desvio Padrão
+   - Coeficiente de Variação
+
+Esses são os conceitos essenciais que você precisa entender sobre cada subitem do tópico de Estatística no seu edital. Boa sorte nos seus estudos e no concurso!
+

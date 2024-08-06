@@ -1,0 +1,35 @@
+1.4 Autenticação e controle de acesso. 
+ -
+Claro, vou te ajudar com um resumo conciso e direto ao ponto sobre o tópico "1.4 Autenticação e controle de acesso". Aqui estão os principais pontos, conceitos e aspectos essenciais:
+
+### Autenticação
+1. **Definição**: Processo de verificar a identidade de um usuário, sistema ou entidade.
+2. **Métodos de Autenticação**:
+   - **Algo que você sabe**: Senhas, PINs.
+   - **Algo que você tem**: Cartões de acesso, tokens.
+   - **Algo que você é**: Biometria (impressão digital, reconhecimento facial).
+3. **Autenticação Multifator (MFA)**: Combinação de dois ou mais métodos de autenticação para aumentar a segurança.
+4. **Autenticação de Dois Fatores (2FA)**: Uso de dois métodos de autenticação, geralmente uma senha e um token ou biometria.
+5. **Single Sign-On (SSO)**: Permite que um usuário acesse múltiplos sistemas com uma única autenticação.
+
+### Controle de Acesso
+1. **Definição**: Processo de conceder ou negar permissões para acessar recursos.
+2. **Modelos de Controle de Acesso**:
+   - **Controle de Acesso Discricionário (DAC)**: O proprietário do recurso decide quem pode acessá-lo.
+   - **Controle de Acesso Obrigatório (MAC)**: Acesso baseado em políticas centralizadas, geralmente usadas em ambientes de alta segurança.
+   - **Controle de Acesso Baseado em Função (RBAC)**: Permissões são atribuídas com base nas funções dos usuários dentro da organização.
+   - **Controle de Acesso Baseado em Atributos (ABAC)**: Acesso baseado em atributos do usuário, do recurso e do ambiente.
+3. **Princípio do Menor Privilégio**: Conceder apenas as permissões necessárias para que um usuário execute suas tarefas.
+4. **Segregação de Funções (SoD)**: Dividir tarefas e privilégios entre diferentes pessoas para reduzir o risco de fraude ou erro.
+5. **Listas de Controle de Acesso (ACLs)**: Listas que especificam quais usuários ou sistemas têm permissão para acessar determinados recursos.
+6. **Políticas de Controle de Acesso**: Conjunto de regras que definem como os controles de acesso são aplicados e gerenciados.
+
+### Aspectos Essenciais
+1. **Confidencialidade**: Garantir que a informação seja acessível apenas por pessoas autorizadas.
+2. **Integridade**: Assegurar que a informação não seja alterada de forma não autorizada.
+3. **Disponibilidade**: Garantir que os recursos estejam disponíveis para os usuários autorizados quando necessário.
+4. **Auditoria e Monitoramento**: Registro e análise de atividades para detectar e responder a incidentes de segurança.
+5. **Gerenciamento de Identidades e Acessos (IAM)**: Conjunto de processos e tecnologias para gerenciar identidades digitais e controlar o acesso aos recursos.
+
+Esses são os principais pontos e conceitos sobre autenticação e controle de acesso que você deve entender para o seu concurso. Boa sorte nos estudos!
+

@@ -1,0 +1,43 @@
+4.6 Revisões de software modernas. ET4 – DESENVOLVIMENTO DE SOFTWARE -
+Claro, vou te ajudar com um resumo conciso sobre o tópico "4.6 Revisões de software modernas" no contexto de "ET4 – DESENVOLVIMENTO DE SOFTWARE". 
+
+### Revisões de Software Modernas
+
+As revisões de software modernas são práticas essenciais no desenvolvimento de software que visam garantir a qualidade, a funcionalidade e a manutenção do código. Elas envolvem a análise e a avaliação do código por outros desenvolvedores ou por ferramentas automatizadas. Aqui estão os principais pontos e conceitos:
+
+1. **Objetivos das Revisões de Software**:
+   - **Identificação de Defeitos**: Encontrar e corrigir erros no código antes que ele seja integrado ao sistema principal.
+   - **Melhoria da Qualidade**: Assegurar que o código segue os padrões de qualidade e boas práticas de programação.
+   - **Compartilhamento de Conhecimento**: Facilitar a disseminação de conhecimento entre os membros da equipe.
+   - **Conformidade com Requisitos**: Garantir que o código atende aos requisitos especificados.
+
+2. **Tipos de Revisões de Software**:
+   - **Revisão por Pares (Peer Review)**: Desenvolvedores revisam o código uns dos outros para identificar problemas e sugerir melhorias.
+   - **Revisão Formal**: Envolve um processo estruturado com reuniões e documentação formal, geralmente usada em ambientes críticos.
+   - **Revisão Informal**: Menos estruturada, pode ser uma simples leitura do código ou uma discussão rápida entre colegas.
+   - **Revisão Automatizada**: Utilização de ferramentas que analisam o código automaticamente para detectar problemas como bugs, vulnerabilidades de segurança e violações de estilo.
+
+3. **Processo de Revisão de Código**:
+   - **Preparação**: O autor do código prepara o material necessário para a revisão.
+   - **Distribuição**: O código é distribuído para os revisores.
+   - **Revisão Individual**: Cada revisor analisa o código de forma independente.
+   - **Reunião de Revisão**: Os revisores se reúnem para discutir os problemas encontrados e sugerir melhorias.
+   - **Correção**: O autor do código faz as correções necessárias com base no feedback recebido.
+   - **Follow-up**: Verificação se as correções foram implementadas corretamente.
+
+4. **Ferramentas de Revisão de Código**:
+   - **GitHub**: Oferece funcionalidades de pull requests e code reviews.
+   - **GitLab**: Similar ao GitHub, com ferramentas integradas de CI/CD.
+   - **Bitbucket**: Suporta revisões de código e integração com outras ferramentas Atlassian.
+   - **Crucible**: Ferramenta específica para revisões de código, integrada com o JIRA.
+   - **SonarQube**: Ferramenta de análise estática de código que ajuda a identificar problemas de qualidade.
+
+5. **Boas Práticas**:
+   - **Definir Critérios Claros**: Estabelecer critérios claros para o que deve ser revisado.
+   - **Manter Revisões Pequenas**: Revisões menores são mais fáceis de gerenciar e menos propensas a erros.
+   - **Foco na Qualidade**: Priorizar a qualidade do código em vez de apenas encontrar defeitos.
+   - **Feedback Construtivo**: Fornecer feedback de maneira construtiva e respeitosa.
+   - **Automatizar Sempre que Possível**: Utilizar ferramentas automatizadas para tarefas repetitivas e para garantir a consistência.
+
+Esses são os principais pontos e conceitos sobre revisões de software modernas no contexto do desenvolvimento de software. Espero que isso ajude nos seus estudos para o concurso!
+

@@ -1,0 +1,81 @@
+10.3 Regressão linear simples. 
+ -
+Claro, aqui está um resumo conciso e direto ao ponto sobre Regressão Linear Simples, conforme solicitado:
+
+### Regressão Linear Simples
+
+**Definição:**
+A regressão linear simples é uma técnica estatística usada para modelar a relação entre duas variáveis quantitativas. A variável dependente (Y) é prevista com base na variável independente (X).
+
+**Principais Conceitos:**
+
+1. **Equação da Regressão:**
+   - A equação da linha de regressão é dada por: \( Y = \beta_0 + \beta_1X + \epsilon \)
+     - \( Y \): Variável dependente (resposta)
+     - \( X \): Variável independente (preditor)
+     - \( \beta_0 \): Intercepto (valor de Y quando X = 0)
+     - \( \beta_1 \): Coeficiente de inclinação (taxa de mudança de Y em relação a X)
+     - \( \epsilon \): Termo de erro (diferença entre o valor observado e o valor previsto)
+
+2. **Objetivo:**
+   - Estimar os parâmetros \( \beta_0 \) e \( \beta_1 \) que minimizam a soma dos quadrados dos resíduos (diferenças entre os valores observados e os valores previstos).
+
+3. **Método dos Mínimos Quadrados:**
+   - Técnica usada para encontrar os valores de \( \beta_0 \) e \( \beta_1 \) que minimizam a soma dos quadrados dos resíduos.
+
+4. **Coeficiente de Determinação (R²):**
+   - Medida que indica a proporção da variabilidade na variável dependente que é explicada pela variável independente.
+   - Varia entre 0 e 1, onde valores próximos a 1 indicam um bom ajuste do modelo.
+
+5. **Assunções da Regressão Linear Simples:**
+   - Linearidade: A relação entre X e Y é linear.
+   - Independência: As observações são independentes umas das outras.
+   - Homocedasticidade: A variância dos resíduos é constante para todos os valores de X.
+   - Normalidade dos resíduos: Os resíduos seguem uma distribuição normal.
+
+6. **Interpretação dos Coeficientes:**
+   - \( \beta_0 \): Valor esperado de Y quando X é zero.
+   - \( \beta_1 \): Mudança esperada em Y para uma unidade de mudança em X.
+
+7. **Análise de Resíduos:**
+   - Verificação das assunções do modelo através da análise dos resíduos (gráficos de resíduos, testes de normalidade, etc.).
+
+8. **Aplicações:**
+   - Previsão de valores futuros.
+   - Identificação e quantificação de relações entre variáveis.
+   - Tomada de decisão baseada em dados quantitativos.
+
+### Lista de Itens Essenciais:
+
+1. **Equação da Regressão:**
+   - \( Y = \beta_0 + \beta_1X + \epsilon \)
+
+2. **Objetivo:**
+   - Estimar \( \beta_0 \) e \( \beta_1 \)
+
+3. **Método dos Mínimos Quadrados:**
+   - Minimização da soma dos quadrados dos resíduos
+
+4. **Coeficiente de Determinação (R²):**
+   - Proporção da variabilidade explicada
+
+5. **Assunções:**
+   - Linearidade
+   - Independência
+   - Homocedasticidade
+   - Normalidade dos resíduos
+
+6. **Interpretação dos Coeficientes:**
+   - \( \beta_0 \)
+   - \( \beta_1 \)
+
+7. **Análise de Resíduos:**
+   - Verificação das assunções
+
+8. **Aplicações:**
+   - Previsão
+   - Identificação de relações
+   - Tomada de decisão
+
+Espero que este resumo ajude a entender melhor o tópico de Regressão Linear Simples para o seu concurso!
+

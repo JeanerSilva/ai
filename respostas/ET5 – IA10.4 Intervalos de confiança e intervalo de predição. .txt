@@ -1,0 +1,66 @@
+10.4 Intervalos de confiança e intervalo de predição. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre intervalos de confiança e intervalos de predição, conforme solicitado.
+
+### Intervalos de Confiança
+
+**Conceito:**
+- Um intervalo de confiança é um intervalo estimado a partir dos dados da amostra que, com uma certa probabilidade (nível de confiança), contém o valor verdadeiro do parâmetro populacional.
+
+**Principais Pontos:**
+1. **Nível de Confiança:**
+   - Geralmente expresso em porcentagem (ex.: 95%, 99%).
+   - Indica a probabilidade de que o intervalo contenha o parâmetro verdadeiro.
+
+2. **Construção do Intervalo:**
+   - Baseado na distribuição amostral do estimador.
+   - Fórmula geral: Estimativa ± (Valor crítico * Erro padrão).
+
+3. **Valor Crítico:**
+   - Depende da distribuição da estatística (ex.: distribuição normal, t de Student).
+   - Para 95% de confiança, o valor crítico para a distribuição normal é aproximadamente 1.96.
+
+4. **Erro Padrão:**
+   - Mede a variabilidade da estimativa.
+   - Calculado como a desvio padrão da amostra dividido pela raiz quadrada do tamanho da amostra.
+
+5. **Interpretação:**
+   - Se repetirmos o processo de amostragem muitas vezes, cerca de 95% dos intervalos construídos conterão o verdadeiro parâmetro populacional.
+
+### Intervalos de Predição
+
+**Conceito:**
+- Um intervalo de predição é um intervalo estimado que prevê o valor de uma nova observação futura, com uma certa probabilidade.
+
+**Principais Pontos:**
+1. **Diferença do Intervalo de Confiança:**
+   - Intervalo de confiança refere-se ao parâmetro populacional.
+   - Intervalo de predição refere-se a uma nova observação individual.
+
+2. **Construção do Intervalo:**
+   - Considera tanto a variabilidade da estimativa do parâmetro quanto a variabilidade da nova observação.
+   - Fórmula geral: Previsão ± (Valor crítico * Erro padrão da previsão).
+
+3. **Erro Padrão da Previsão:**
+   - Inclui a variabilidade da estimativa do parâmetro e a variabilidade residual (erro da nova observação).
+
+4. **Valor Crítico:**
+   - Semelhante ao intervalo de confiança, depende da distribuição da estatística.
+
+5. **Interpretação:**
+   - Se repetirmos o processo de amostragem e previsão muitas vezes, cerca de 95% dos intervalos de predição construídos conterão a nova observação.
+
+### Aspectos Essenciais
+
+- **Assumir Normalidade:**
+  - Muitas vezes, assume-se que os dados seguem uma distribuição normal para simplificar os cálculos.
+  
+- **Tamanho da Amostra:**
+  - Intervalos de confiança e predição são mais precisos com amostras maiores.
+
+- **Aplicações:**
+  - Intervalos de confiança são usados para inferência sobre parâmetros populacionais.
+  - Intervalos de predição são usados para prever valores futuros ou novos dados.
+
+Espero que este resumo te ajude a entender melhor os conceitos de intervalos de confiança e intervalos de predição. Boa sorte nos seus estudos para o concurso!
+

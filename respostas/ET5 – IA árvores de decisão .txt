@@ -1,0 +1,88 @@
+ árvores de decisão 
+ -
+Claro, vou te ajudar com um resumo conciso sobre árvores de decisão, focando nos principais pontos, conceitos e aspectos essenciais.
+
+### Árvores de Decisão
+
+**Definição:**
+Árvores de decisão são modelos de previsão usados em estatística, mineração de dados e aprendizado de máquina. Elas utilizam um gráfico em forma de árvore de decisões e suas possíveis consequências, incluindo resultados de eventos, custos de recursos e utilidade.
+
+**Principais Conceitos:**
+
+1. **Nó Raiz (Root Node):**
+   - O ponto de partida da árvore. Representa a totalidade do conjunto de dados e é dividido em dois ou mais subconjuntos.
+
+2. **Nós Internos (Internal Nodes):**
+   - Representam testes ou decisões baseadas em atributos dos dados. Cada nó interno tem duas ou mais ramificações.
+
+3. **Folhas (Leaf Nodes):**
+   - Também chamadas de nós terminais, representam a classe ou valor de saída. Não possuem ramificações.
+
+4. **Ramos (Branches):**
+   - Conectam os nós e representam o resultado de um teste ou decisão.
+
+**Processo de Construção:**
+
+1. **Seleção do Atributo:**
+   - Escolher o atributo que melhor divide os dados. Métodos comuns incluem:
+     - **Ganho de Informação (Information Gain):** Baseado na entropia.
+     - **Índice Gini:** Medida de impureza.
+     - **Redução de Variância:** Usado em árvores de regressão.
+
+2. **Divisão Recursiva:**
+   - O processo de dividir os dados em subconjuntos menores recursivamente até que um critério de parada seja atingido (por exemplo, profundidade máxima da árvore ou número mínimo de amostras por folha).
+
+3. **Poda (Pruning):**
+   - Remoção de partes da árvore que não fornecem poder preditivo adicional para evitar overfitting. Pode ser feita de forma pré-poda (antes da construção completa) ou pós-poda (após a construção completa).
+
+**Vantagens:**
+
+- **Interpretação Simples:**
+  - Fácil de entender e interpretar, mesmo para não-especialistas.
+  
+- **Pouco Pré-processamento:**
+  - Requer pouca preparação dos dados (não precisa de normalização ou escalonamento).
+
+- **Trabalha com Dados Categóricos e Numéricos:**
+  - Pode lidar com diferentes tipos de dados sem necessidade de transformação.
+
+**Desvantagens:**
+
+- **Overfitting:**
+  - Árvores muito complexas podem se ajustar demais aos dados de treinamento e ter baixo desempenho em novos dados.
+
+- **Instabilidade:**
+  - Pequenas variações nos dados podem resultar em árvores completamente diferentes.
+
+**Aplicações:**
+
+- **Classificação:**
+  - Usadas para categorizar dados em classes distintas.
+  
+- **Regressão:**
+  - Usadas para prever valores contínuos.
+
+**Algoritmos Comuns:**
+
+- **ID3 (Iterative Dichotomiser 3):**
+  - Utiliza ganho de informação para a seleção de atributos.
+
+- **C4.5:**
+  - Extensão do ID3 que lida com dados contínuos e valores ausentes.
+
+- **CART (Classification and Regression Trees):**
+  - Utiliza índice Gini para classificação e redução de variância para regressão.
+
+**Critérios de Parada:**
+
+- **Profundidade Máxima da Árvore:**
+  - Limita o número de níveis na árvore.
+
+- **Número Mínimo de Amostras por Folha:**
+  - Define o número mínimo de amostras que um nó folha deve conter.
+
+- **Número Mínimo de Amostras para Divisão:**
+  - Define o número mínimo de amostras que um nó deve ter para ser dividido.
+
+Espero que este resumo te ajude a entender melhor o tópico de árvores de decisão para o seu concurso. Boa sorte nos estudos!
+

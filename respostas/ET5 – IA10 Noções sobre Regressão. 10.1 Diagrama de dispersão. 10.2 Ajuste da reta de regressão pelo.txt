@@ -1,0 +1,44 @@
+10 Noções sobre Regressão. 10.1 Diagrama de dispersão. 10.2 Ajuste da reta de regressão pelo método dos mínimos quadrados. 
+ -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre o tópico "Noções sobre Regressão" com foco nos subitens "Diagrama de dispersão" e "Ajuste da reta de regressão pelo método dos mínimos quadrados".
+
+### 10 Noções sobre Regressão
+
+#### 10.1 Diagrama de Dispersão
+- **Definição**: Um diagrama de dispersão é um gráfico que exibe a relação entre duas variáveis quantitativas. Cada ponto no gráfico representa um par de valores.
+- **Eixo X e Eixo Y**: A variável independente é plotada no eixo X (horizontal) e a variável dependente no eixo Y (vertical).
+- **Identificação de Padrões**: O diagrama de dispersão ajuda a identificar padrões, tendências e possíveis relações entre as variáveis.
+- **Tipos de Relações**:
+  - **Positiva**: Quando os pontos tendem a subir da esquerda para a direita.
+  - **Negativa**: Quando os pontos tendem a descer da esquerda para a direita.
+  - **Nenhuma Correlação**: Quando os pontos estão distribuídos aleatoriamente, sem um padrão claro.
+- **Outliers**: Pontos que se afastam significativamente do padrão geral podem ser identificados como outliers.
+
+#### 10.2 Ajuste da Reta de Regressão pelo Método dos Mínimos Quadrados
+- **Objetivo**: Encontrar a reta que melhor se ajusta aos dados no diagrama de dispersão, minimizando a soma dos quadrados das diferenças (resíduos) entre os valores observados e os valores previstos pela reta.
+- **Equação da Reta de Regressão**: \( y = a + bx \)
+  - **a (intercepto)**: Valor de \( y \) quando \( x \) é zero.
+  - **b (coeficiente angular)**: Inclinação da reta, indicando a mudança em \( y \) para uma unidade de mudança em \( x \).
+- **Cálculo dos Coeficientes**:
+  - **Coeficiente Angular (b)**: \( b = \frac{n(\sum xy) - (\sum x)(\sum y)}{n(\sum x^2) - (\sum x)^2} \)
+  - **Intercepto (a)**: \( a = \frac{\sum y - b(\sum x)}{n} \)
+  - Onde \( n \) é o número de pares de dados, \( \sum xy \) é a soma dos produtos de \( x \) e \( y \), \( \sum x \) e \( \sum y \) são as somas dos valores de \( x \) e \( y \), respectivamente, e \( \sum x^2 \) é a soma dos quadrados dos valores de \( x \).
+- **Resíduos**: Diferenças entre os valores observados e os valores previstos pela reta de regressão.
+- **Minimização dos Resíduos**: O método dos mínimos quadrados minimiza a soma dos quadrados dos resíduos, garantindo o melhor ajuste possível da reta aos dados.
+
+### Principais Pontos e Conceitos
+1. **Diagrama de Dispersão**:
+   - Gráfico de pontos que mostra a relação entre duas variáveis.
+   - Identificação de padrões e correlações.
+   - Eixos X (independente) e Y (dependente).
+   - Tipos de correlação: positiva, negativa, nenhuma.
+   - Identificação de outliers.
+
+2. **Ajuste da Reta de Regressão pelo Método dos Mínimos Quadrados**:
+   - Objetivo de encontrar a melhor reta que minimiza os resíduos.
+   - Equação da reta: \( y = a + bx \).
+   - Cálculo dos coeficientes \( a \) (intercepto) e \( b \) (coeficiente angular).
+   - Minimização da soma dos quadrados dos resíduos.
+
+Espero que esse resumo ajude você a entender melhor os conceitos de regressão, diagrama de dispersão e ajuste da reta pelo método dos mínimos quadrados. Boa sorte nos seus estudos para o concurso!
+

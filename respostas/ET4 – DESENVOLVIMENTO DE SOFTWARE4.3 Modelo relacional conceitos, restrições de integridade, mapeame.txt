@@ -1,0 +1,31 @@
+4.3 Modelo relacional: conceitos, restrições de integridade, mapeamento de modelos E-R para esquemas relacionais 
+ -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre o tópico "Modelo relacional: conceitos, restrições de integridade, mapeamento de modelos E-R para esquemas relacionais" conforme solicitado.
+
+### Modelo Relacional
+
+#### Conceitos Principais
+1. **Tabela (Relação)**: Estrutura básica do modelo relacional, composta por linhas (tuplas) e colunas (atributos).
+2. **Tupla**: Uma linha em uma tabela, representando um único registro.
+3. **Atributo**: Uma coluna em uma tabela, representando uma característica do registro.
+4. **Chave Primária (Primary Key)**: Um ou mais atributos que identificam unicamente uma tupla em uma tabela.
+5. **Chave Estrangeira (Foreign Key)**: Um ou mais atributos em uma tabela que referenciam a chave primária de outra tabela, estabelecendo uma relação entre as tabelas.
+6. **Esquema Relacional**: Conjunto de tabelas e as relações entre elas.
+
+#### Restrições de Integridade
+1. **Integridade de Entidade**: Assegura que a chave primária de uma tabela não pode conter valores nulos.
+2. **Integridade Referencial**: Garante que um valor de chave estrangeira deve corresponder a um valor existente na chave primária da tabela referenciada ou ser nulo.
+3. **Integridade de Domínio**: Assegura que os valores dos atributos estejam dentro de um conjunto específico de valores permitidos (domínio).
+4. **Restrições de Integridade de Usuário**: Regras específicas definidas pelo usuário para atender a requisitos particulares do negócio.
+
+#### Mapeamento de Modelos E-R para Esquemas Relacionais
+1. **Entidades Simples**: Cada entidade do modelo E-R é mapeada para uma tabela. Os atributos da entidade tornam-se as colunas da tabela.
+2. **Relacionamentos 1:1**: Pode ser implementado adicionando a chave primária de uma tabela como chave estrangeira na outra tabela ou criando uma nova tabela para o relacionamento.
+3. **Relacionamentos 1:N**: A chave primária da tabela do lado "1" é adicionada como chave estrangeira na tabela do lado "N".
+4. **Relacionamentos N:M**: Criar uma tabela intermediária (tabela de junção) que contém as chaves primárias das duas tabelas envolvidas no relacionamento.
+5. **Atributos Compostos**: Dividir os atributos compostos em atributos simples e mapear cada um como uma coluna separada.
+6. **Atributos Multivalorados**: Criar uma tabela separada para o atributo multivalorado, incluindo uma chave estrangeira que referencia a entidade original.
+7. **Generalização/Especialização**: Pode ser mapeada usando uma das três abordagens: tabela única (tabela pai com todos os atributos), tabelas separadas para cada subclasse, ou uma combinação de ambas.
+
+Esses são os principais pontos e conceitos essenciais sobre o modelo relacional, restrições de integridade e mapeamento de modelos E-R para esquemas relacionais. Se precisar de mais detalhes ou exemplos específicos, sinta-se à vontade para perguntar!
+

@@ -1,0 +1,68 @@
+6 Noções de Probabilidade. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre Noções de Probabilidade, que é um tópico comum em muitos editais de concursos. Aqui estão os principais pontos, conceitos e aspectos essenciais que você deve entender:
+
+### 1. Conceitos Básicos
+- **Experimento Aleatório**: Um processo ou ação que resulta em um ou mais resultados possíveis, onde não é possível prever com certeza qual será o resultado.
+- **Espaço Amostral (S)**: O conjunto de todos os resultados possíveis de um experimento aleatório.
+- **Evento (E)**: Qualquer subconjunto do espaço amostral. Pode ser um evento simples (um único resultado) ou um evento composto (vários resultados).
+
+### 2. Probabilidade de um Evento
+- **Definição Clássica**: Se todos os resultados no espaço amostral são igualmente prováveis, a probabilidade de um evento E é dada por:
+  \[
+  P(E) = \frac{\text{Número de resultados favoráveis a E}}{\text{Número total de resultados no espaço amostral}}
+  \]
+
+### 3. Propriedades da Probabilidade
+- **Intervalo de Probabilidade**: Para qualquer evento E, \(0 \leq P(E) \leq 1\).
+- **Evento Certo**: A probabilidade de um evento certo (que sempre ocorre) é 1.
+- **Evento Impossível**: A probabilidade de um evento impossível (que nunca ocorre) é 0.
+- **Complementar de um Evento**: Se E é um evento, o complementar de E (E') é o conjunto de todos os resultados no espaço amostral que não estão em E. A probabilidade do complementar é:
+  \[
+  P(E') = 1 - P(E)
+  \]
+
+### 4. Probabilidade Condicional
+- **Definição**: A probabilidade de um evento A dado que um evento B já ocorreu é:
+  \[
+  P(A|B) = \frac{P(A \cap B)}{P(B)}
+  \]
+  desde que \(P(B) > 0\).
+
+### 5. Independência de Eventos
+- **Eventos Independentes**: Dois eventos A e B são independentes se a ocorrência de um não afeta a ocorrência do outro. Matematicamente, isso é expresso como:
+  \[
+  P(A \cap B) = P(A) \cdot P(B)
+  \]
+
+### 6. Teorema da Probabilidade Total
+- **Definição**: Se \(B_1, B_2, \ldots, B_n\) são eventos mutuamente exclusivos e exaustivos (ou seja, um deles deve ocorrer), então para qualquer evento A:
+  \[
+  P(A) = \sum_{i=1}^{n} P(A|B_i) \cdot P(B_i)
+  \]
+
+### 7. Teorema de Bayes
+- **Definição**: Relaciona as probabilidades condicionais de eventos. Se \(B_1, B_2, \ldots, B_n\) são eventos mutuamente exclusivos e exaustivos, então:
+  \[
+  P(B_i|A) = \frac{P(A|B_i) \cdot P(B_i)}{\sum_{j=1}^{n} P(A|B_j) \cdot P(B_j)}
+  \]
+
+### 8. Distribuições de Probabilidade
+- **Distribuição Discreta**: Lista de todas as possíveis valores de uma variável aleatória discreta e suas probabilidades associadas.
+- **Distribuição Contínua**: Representada por uma função densidade de probabilidade (f(x)), onde a probabilidade de a variável assumir um valor dentro de um intervalo é a área sob a curva da função densidade nesse intervalo.
+
+### 9. Esperança Matemática (Valor Esperado)
+- **Definição**: Para uma variável aleatória X com possíveis valores \(x_1, x_2, \ldots, x_n\) e respectivas probabilidades \(p_1, p_2, \ldots, p_n\), a esperança matemática é:
+  \[
+  E(X) = \sum_{i=1}^{n} x_i \cdot p_i
+  \]
+
+### 10. Variância e Desvio Padrão
+- **Variância (Var(X))**: Mede a dispersão dos valores de uma variável aleatória em relação à sua média. Para uma variável aleatória X:
+  \[
+  \text{Var}(X) = E[(X - E(X))^2]
+  \]
+- **Desvio Padrão**: A raiz quadrada da variância, representando a dispersão média dos valores em relação à média.
+
+Esses são os principais
+

@@ -1,0 +1,70 @@
+1.7 Normas ISO 27001. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre a ISO 27001.
+
+### ISO 27001: Visão Geral
+
+A ISO 27001 é uma norma internacional que especifica os requisitos para um Sistema de Gestão de Segurança da Informação (SGSI). Ela é projetada para ajudar as organizações a proteger suas informações de forma sistemática e econômica, adotando uma abordagem baseada em risco.
+
+### Principais Pontos e Conceitos
+
+1. **Objetivo**: Proteger a confidencialidade, integridade e disponibilidade das informações.
+2. **SGSI (Sistema de Gestão de Segurança da Informação)**: Estrutura de políticas, processos e controles para gerenciar a segurança da informação.
+3. **Abordagem Baseada em Risco**: Identificação, avaliação e tratamento de riscos relacionados à segurança da informação.
+4. **Contexto da Organização**: Compreensão das necessidades e expectativas das partes interessadas e do ambiente em que a organização opera.
+5. **Liderança**: Envolvimento da alta direção no estabelecimento e manutenção do SGSI.
+6. **Planejamento**: Definição de objetivos de segurança da informação e planejamento para alcançá-los.
+7. **Suporte**: Recursos necessários, incluindo competência, conscientização, comunicação e documentação.
+8. **Operação**: Implementação e controle dos processos necessários para atender aos requisitos do SGSI.
+9. **Avaliação de Desempenho**: Monitoramento, medição, análise e avaliação do SGSI.
+10. **Melhoria**: Ações para abordar não conformidades e melhorar continuamente o SGSI.
+
+### Estrutura da Norma
+
+A ISO 27001 segue a estrutura de alto nível (HLS) comum a outras normas ISO, facilitando a integração com outros sistemas de gestão. A estrutura inclui:
+
+1. **Seção 0: Introdução**
+2. **Seção 1: Escopo**
+3. **Seção 2: Referências Normativas**
+4. **Seção 3: Termos e Definições**
+5. **Seção 4: Contexto da Organização**
+6. **Seção 5: Liderança**
+7. **Seção 6: Planejamento**
+8. **Seção 7: Suporte**
+9. **Seção 8: Operação**
+10. **Seção 9: Avaliação de Desempenho**
+11. **Seção 10: Melhoria**
+
+### Anexo A: Controles de Segurança
+
+O Anexo A da ISO 27001 lista 114 controles de segurança organizados em 14 categorias:
+
+1. **Políticas de Segurança da Informação**
+2. **Organização da Segurança da Informação**
+3. **Segurança de Recursos Humanos**
+4. **Gestão de Ativos**
+5. **Controle de Acesso**
+6. **Criptografia**
+7. **Segurança Física e do Ambiente**
+8. **Segurança Operacional**
+9. **Segurança nas Comunicações**
+10. **Aquisição, Desenvolvimento e Manutenção de Sistemas**
+11. **Relações com Fornecedores**
+12. **Gestão de Incidentes de Segurança da Informação**
+13. **Aspectos da Segurança da Informação na Gestão da Continuidade de Negócios**
+14. **Conformidade**
+
+### Certificação
+
+A certificação ISO 27001 é um processo pelo qual uma organização é avaliada por um organismo de certificação independente para verificar a conformidade com os requisitos da norma. A certificação demonstra o compromisso da organização com a segurança da informação.
+
+### Benefícios
+
+1. **Proteção de Informações Sensíveis**
+2. **Redução de Riscos**
+3. **Conformidade com Regulamentações**
+4. **Vantagem Competitiva**
+5. **Melhoria Contínua**
+
+Espero que este resumo te ajude a entender melhor a ISO 27001 e a se preparar para o seu concurso!
+

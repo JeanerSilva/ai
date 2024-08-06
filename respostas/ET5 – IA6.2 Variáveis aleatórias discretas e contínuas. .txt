@@ -1,0 +1,65 @@
+6.2 Variáveis aleatórias discretas e contínuas. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre variáveis aleatórias discretas e contínuas, conforme solicitado.
+
+### Variáveis Aleatórias
+
+**1. Definição:**
+   - **Variável Aleatória:** Uma função que associa a cada resultado de um experimento aleatório um número real.
+
+### Variáveis Aleatórias Discretas
+
+**2. Características:**
+   - **Valores Distintos:** Assumem valores específicos e distintos.
+   - **Conjunto Contável:** O conjunto de valores possíveis é contável (finito ou infinito contável).
+
+**3. Função de Probabilidade:**
+   - **Função de Massa de Probabilidade (FMP):** \( P(X = x_i) = p_i \), onde \( \sum p_i = 1 \).
+
+**4. Exemplos:**
+   - Número de caras ao lançar uma moeda várias vezes.
+   - Número de chamadas recebidas por um call center em uma hora.
+
+**5. Distribuições Comuns:**
+   - **Binomial:** Modela o número de sucessos em \( n \) tentativas independentes.
+   - **Poisson:** Modela o número de eventos ocorrendo em um intervalo fixo de tempo ou espaço.
+   - **Geometrica:** Modela o número de tentativas até o primeiro sucesso.
+
+### Variáveis Aleatórias Contínuas
+
+**6. Características:**
+   - **Valores Incontáveis:** Assumem qualquer valor em um intervalo contínuo.
+   - **Conjunto Incontável:** O conjunto de valores possíveis é incontável.
+
+**7. Função de Densidade:**
+   - **Função de Densidade de Probabilidade (FDP):** \( f(x) \), onde \( \int_{-\infty}^{\infty} f(x) \, dx = 1 \).
+
+**8. Exemplos:**
+   - Tempo de espera por um ônibus.
+   - Altura de indivíduos em uma população.
+
+**9. Distribuições Comuns:**
+   - **Normal:** Modela fenômenos naturais e é caracterizada pela curva em forma de sino.
+   - **Exponencial:** Modela o tempo entre eventos em um processo de Poisson.
+   - **Uniforme:** Todos os valores em um intervalo são igualmente prováveis.
+
+### Aspectos Essenciais
+
+**10. Função de Distribuição Acumulada (FDA):**
+   - **FDA para Discretas:** \( F(x) = P(X \leq x) = \sum_{x_i \leq x} p_i \).
+   - **FDA para Contínuas:** \( F(x) = P(X \leq x) = \int_{-\infty}^{x} f(t) \, dt \).
+
+**11. Esperança e Variância:**
+   - **Esperança (Média):** 
+     - Discreta: \( E(X) = \sum x_i p_i \).
+     - Contínua: \( E(X) = \int_{-\infty}^{\infty} x f(x) \, dx \).
+   - **Variância:**
+     - Discreta: \( Var(X) = \sum (x_i - E(X))^2 p_i \).
+     - Contínua: \( Var(X) = \int_{-\infty}^{\infty} (x - E(X))^2 f(x) \, dx \).
+
+**12. Propriedades:**
+   - **Linearidade da Esperança:** \( E(aX + b) = aE(X) + b \).
+   - **Independência:** Duas variáveis aleatórias \( X \) e \( Y \) são independentes se \( P(X \leq x, Y \leq y) = P(X \leq x)P(Y \leq y) \).
+
+Este resumo cobre os principais pontos e conceitos essenciais sobre variáveis aleatórias discretas e contínuas. Boa sorte nos seus estudos para o concurso!
+

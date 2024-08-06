@@ -1,0 +1,51 @@
+1.4 Estruturas lineares: lista encadeada, pilha, fila. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre estruturas lineares, focando em lista encadeada, pilha e fila.
+
+### Estruturas Lineares
+
+#### 1. Lista Encadeada
+- **Definição**: Estrutura de dados composta por nós, onde cada nó contém um valor (ou dados) e uma referência (ou ponteiro) para o próximo nó na sequência.
+- **Tipos**:
+  - **Simplesmente Encadeada**: Cada nó aponta para o próximo nó.
+  - **Duplamente Encadeada**: Cada nó aponta para o próximo e para o nó anterior.
+  - **Circular**: O último nó aponta para o primeiro nó, formando um ciclo.
+- **Operações Comuns**:
+  - **Inserção**: Adicionar um novo nó em qualquer posição.
+  - **Remoção**: Remover um nó existente.
+  - **Busca**: Encontrar um nó com um valor específico.
+  - **Travessia**: Percorrer todos os nós da lista.
+
+#### 2. Pilha (Stack)
+- **Definição**: Estrutura de dados que segue o princípio LIFO (Last In, First Out), onde o último elemento inserido é o primeiro a ser removido.
+- **Operações Comuns**:
+  - **Push**: Inserir um elemento no topo da pilha.
+  - **Pop**: Remover o elemento do topo da pilha.
+  - **Peek/Top**: Acessar o elemento no topo sem removê-lo.
+  - **IsEmpty**: Verificar se a pilha está vazia.
+- **Aplicações**: Algoritmos de backtracking, avaliação de expressões, gerenciamento de chamadas de função (pilha de chamadas).
+
+#### 3. Fila (Queue)
+- **Definição**: Estrutura de dados que segue o princípio FIFO (First In, First Out), onde o primeiro elemento inserido é o primeiro a ser removido.
+- **Tipos**:
+  - **Fila Simples**: Inserções ocorrem no final (traseira) e remoções no início (frente).
+  - **Fila Dupla (Deque)**: Inserções e remoções podem ocorrer em ambas as extremidades.
+  - **Fila de Prioridade**: Cada elemento tem uma prioridade associada, e a remoção ocorre com base na prioridade.
+- **Operações Comuns**:
+  - **Enqueue**: Inserir um elemento no final da fila.
+  - **Dequeue**: Remover um elemento do início da fila.
+  - **Front/Peek**: Acessar o elemento no início sem removê-lo.
+  - **IsEmpty**: Verificar se a fila está vazia.
+- **Aplicações**: Sistemas de gerenciamento de tarefas, filas de impressão, algoritmos de busca em largura (BFS).
+
+### Aspectos Essenciais
+- **Complexidade de Tempo**:
+  - **Lista Encadeada**: Inserção e remoção geralmente O(1) se a posição é conhecida; busca O(n).
+  - **Pilha**: Push e Pop são O(1).
+  - **Fila**: Enqueue e Dequeue são O(1).
+- **Uso de Memória**:
+  - **Lista Encadeada**: Pode ser mais eficiente em termos de memória para inserções e remoções frequentes.
+  - **Pilha e Fila**: Geralmente implementadas com arrays ou listas encadeadas, dependendo do uso específico.
+
+Esses são os principais pontos e conceitos sobre estruturas lineares, listas encadeadas, pilhas e filas. Boa sorte nos seus estudos para o concurso!
+

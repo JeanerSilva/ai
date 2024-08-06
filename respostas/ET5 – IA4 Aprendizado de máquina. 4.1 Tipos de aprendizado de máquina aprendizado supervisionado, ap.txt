@@ -1,0 +1,56 @@
+4 Aprendizado de máquina. 4.1 Tipos de aprendizado de máquina: aprendizado supervisionado, aprendizado não supervisionado e aprendizado por reforço. 
+ -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre os tipos de aprendizado de máquina mencionados no seu edital.
+
+### Aprendizado de Máquina
+
+**Aprendizado de máquina** é um subcampo da inteligência artificial que envolve a criação de algoritmos que permitem que computadores aprendam a partir de dados e façam previsões ou decisões sem serem explicitamente programados para realizar essas tarefas.
+
+#### Tipos de Aprendizado de Máquina
+
+1. **Aprendizado Supervisionado**
+   - **Definição**: O modelo é treinado com um conjunto de dados rotulados, ou seja, cada entrada de dados é associada a uma saída desejada.
+   - **Objetivo**: Aprender uma função que mapeia entradas para saídas com base nos exemplos fornecidos.
+   - **Exemplos de Algoritmos**:
+     - Regressão Linear
+     - Regressão Logística
+     - Máquinas de Vetores de Suporte (SVM)
+     - Árvores de Decisão
+     - Redes Neurais
+     - K-Nearest Neighbors (K-NN)
+   - **Aplicações**: Classificação de e-mails como spam ou não, reconhecimento de voz, diagnósticos médicos.
+
+2. **Aprendizado Não Supervisionado**
+   - **Definição**: O modelo é treinado com um conjunto de dados que não possui rótulos. O objetivo é encontrar padrões ou estruturas ocultas nos dados.
+   - **Objetivo**: Agrupar ou organizar os dados de alguma forma significativa sem orientação explícita.
+   - **Exemplos de Algoritmos**:
+     - K-Means Clustering
+     - Análise de Componentes Principais (PCA)
+     - Algoritmo de Agrupamento Hierárquico
+     - Redes Neurais Autoencoders
+   - **Aplicações**: Segmentação de clientes, detecção de anomalias, compressão de dados.
+
+3. **Aprendizado por Reforço**
+   - **Definição**: O modelo aprende a tomar decisões através de interações com um ambiente dinâmico, recebendo recompensas ou punições com base nas ações realizadas.
+   - **Objetivo**: Maximizar a recompensa acumulada ao longo do tempo, aprendendo uma política de ações que leva ao melhor resultado.
+   - **Elementos Principais**:
+     - **Agente**: O tomador de decisões.
+     - **Ambiente**: O mundo com o qual o agente interage.
+     - **Ações**: Conjunto de todas as ações possíveis que o agente pode realizar.
+     - **Recompensas**: Feedback recebido após a realização de uma ação.
+     - **Política**: Estratégia que o agente segue para escolher ações.
+   - **Exemplos de Algoritmos**:
+     - Q-Learning
+     - Deep Q-Networks (DQN)
+     - Algoritmos de Política Gradiente
+   - **Aplicações**: Jogos (como xadrez e Go), controle de robôs, sistemas de recomendação.
+
+### Aspectos Essenciais
+
+- **Dados**: A qualidade e a quantidade dos dados são cruciais para o desempenho dos modelos de aprendizado de máquina.
+- **Treinamento e Teste**: Dividir os dados em conjuntos de treinamento e teste é fundamental para avaliar a performance do modelo.
+- **Overfitting e Underfitting**: Overfitting ocorre quando o modelo se ajusta muito bem aos dados de treinamento, mas não generaliza bem para novos dados. Underfitting ocorre quando o modelo é muito simples para capturar a complexidade dos dados.
+- **Validação Cruzada**: Técnica usada para avaliar a capacidade de generalização do modelo, dividindo os dados em múltiplos subconjuntos e treinando/testando o modelo várias vezes.
+
+Espero que este resumo ajude você a entender melhor os conceitos essenciais sobre aprendizado de máquina e seus tipos. Boa sorte nos seus estudos para o concurso!
+

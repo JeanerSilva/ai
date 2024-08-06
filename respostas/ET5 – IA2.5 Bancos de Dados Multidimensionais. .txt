@@ -1,0 +1,59 @@
+2.5 Bancos de Dados Multidimensionais. 
+ -
+Claro, posso ajudar com isso! Vamos ao resumo sobre Bancos de Dados Multidimensionais:
+
+### Bancos de Dados Multidimensionais
+
+**Definição:**
+Bancos de Dados Multidimensionais (BDMs) são sistemas de gerenciamento de dados projetados para facilitar a análise de grandes volumes de dados, especialmente em contextos de Business Intelligence (BI) e Data Warehousing. Eles permitem a visualização e manipulação de dados em múltiplas dimensões, o que é ideal para análises complexas e relatórios.
+
+**Principais Conceitos:**
+
+1. **Dimensões:**
+   - Representam diferentes perspectivas ou categorias de dados, como tempo, localização, produto, etc.
+   - Cada dimensão pode ter hierarquias, como ano, trimestre, mês, dia na dimensão tempo.
+
+2. **Fatos:**
+   - São os dados numéricos ou métricas que se deseja analisar, como vendas, lucros, quantidades.
+   - Armazenados em tabelas de fatos, que contêm chaves estrangeiras para as dimensões.
+
+3. **Cubos de Dados:**
+   - Estruturas multidimensionais que permitem a visualização de dados em várias dimensões simultaneamente.
+   - Facilitam operações como drill-down (detalhamento), roll-up (agregação), slice (fatiamento) e dice (corte).
+
+4. **Modelagem Estrela (Star Schema):**
+   - Estrutura de modelagem de dados onde uma tabela de fatos central é conectada a várias tabelas de dimensões.
+   - Simples e eficiente para consultas.
+
+5. **Modelagem Floco de Neve (Snowflake Schema):**
+   - Variante do esquema estrela onde as tabelas de dimensões são normalizadas em múltiplas tabelas relacionadas.
+   - Reduz redundância, mas pode ser mais complexa para consultas.
+
+6. **OLAP (Online Analytical Processing):**
+   - Tecnologia que permite a análise rápida e interativa de dados multidimensionais.
+   - Tipos de OLAP:
+     - **MOLAP (Multidimensional OLAP):** Armazena dados em estruturas multidimensionais.
+     - **ROLAP (Relational OLAP):** Usa bancos de dados relacionais para armazenar dados e simula uma estrutura multidimensional.
+     - **HOLAP (Hybrid OLAP):** Combina MOLAP e ROLAP para aproveitar os benefícios de ambos.
+
+**Aspectos Essenciais:**
+
+- **Desempenho:** BDMs são otimizados para consultas complexas e agregações, oferecendo desempenho superior em análises comparado a bancos de dados relacionais tradicionais.
+- **Flexibilidade:** Permitem a exploração de dados em diferentes ângulos e níveis de detalhe, facilitando a descoberta de insights.
+- **Escalabilidade:** Projetados para lidar com grandes volumes de dados e múltiplas dimensões, suportando o crescimento dos dados ao longo do tempo.
+- **Ferramentas de BI:** Integram-se bem com ferramentas de BI, como Tableau, Power BI, e outras, para visualização e análise de dados.
+
+### Lista de Itens:
+
+1. **Dimensões**
+2. **Fatos**
+3. **Cubos de Dados**
+4. **Modelagem Estrela (Star Schema)**
+5. **Modelagem Floco de Neve (Snowflake Schema)**
+6. **OLAP (Online Analytical Processing)**
+   - MOLAP (Multidimensional OLAP)
+   - ROLAP (Relational OLAP)
+   - HOLAP (Hybrid OLAP)
+
+Espero que este resumo ajude você a entender melhor os Bancos de Dados Multidimensionais e a se preparar para o seu concurso! Se precisar de mais detalhes sobre algum ponto específico, sinta-se à vontade para perguntar.
+

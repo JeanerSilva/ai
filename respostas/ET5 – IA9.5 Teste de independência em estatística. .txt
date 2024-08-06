@@ -1,0 +1,53 @@
+9.5 Teste de independência em estatística. 
+ -
+Claro, vou te ajudar com um resumo conciso sobre o tópico "Teste de independência em estatística". 
+
+### Teste de Independência em Estatística
+
+O teste de independência é uma técnica estatística usada para determinar se duas variáveis categóricas são independentes ou se existe uma associação entre elas. O teste mais comum para isso é o **Teste Qui-Quadrado de Independência**.
+
+#### Principais Pontos e Conceitos:
+
+1. **Objetivo**:
+   - Verificar se existe uma relação significativa entre duas variáveis categóricas.
+
+2. **Hipóteses**:
+   - **Hipótese Nula (H0)**: As duas variáveis são independentes.
+   - **Hipótese Alternativa (H1)**: As duas variáveis são dependentes (há associação).
+
+3. **Tabela de Contingência**:
+   - Uma tabela que mostra a frequência de ocorrências para cada combinação de categorias das duas variáveis.
+   - Exemplo: Se estamos analisando a relação entre gênero (masculino, feminino) e preferência de produto (A, B, C), a tabela de contingência mostrará quantas pessoas de cada gênero preferem cada produto.
+
+4. **Cálculo do Qui-Quadrado**:
+   - Fórmula: \(\chi^2 = \sum \frac{(O_i - E_i)^2}{E_i}\)
+     - \(O_i\): Frequência observada.
+     - \(E_i\): Frequência esperada, calculada como \((\text{Total da linha} \times \text{Total da coluna}) / \text{Total geral}\).
+
+5. **Grau de Liberdade (df)**:
+   - Calculado como \((número de linhas - 1) \times (número de colunas - 1)\).
+
+6. **Valor Crítico e P-Valor**:
+   - O valor crítico é obtido de uma tabela de distribuição Qui-Quadrado com base no grau de liberdade e no nível de significância (geralmente 0,05).
+   - O p-valor é comparado com o nível de significância para decidir se rejeitamos ou não a hipótese nula.
+
+7. **Interpretação dos Resultados**:
+   - Se o valor calculado do Qui-Quadrado for maior que o valor crítico, ou se o p-valor for menor que o nível de significância, rejeitamos a hipótese nula, indicando que há uma associação entre as variáveis.
+   - Caso contrário, não rejeitamos a hipótese nula, indicando que não há evidência suficiente para afirmar que as variáveis são dependentes.
+
+#### Aspectos Essenciais:
+
+- **Assumptions**:
+  - As amostras devem ser aleatórias.
+  - As categorias devem ser mutuamente exclusivas.
+  - As frequências esperadas em cada célula da tabela de contingência devem ser suficientemente grandes (geralmente pelo menos 5).
+
+- **Aplicações**:
+  - Usado em pesquisas de mercado, estudos de comportamento, ciências sociais, entre outros, para entender a relação entre diferentes variáveis categóricas.
+
+- **Limitações**:
+  - Não fornece informações sobre a força ou a direção da associação, apenas se existe ou não uma associação.
+  - Pode ser influenciado por tamanhos de amostra pequenos ou grandes.
+
+Espero que este resumo te ajude a entender melhor o teste de independência em estatística! Se precisar de mais detalhes ou exemplos específicos, sinta-se à vontade para perguntar. Boa sorte nos seus estudos para o concurso!
+

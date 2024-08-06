@@ -1,0 +1,60 @@
+4.2 Algoritmos de aprendizado de máquina: regressão, 
+ -
+Claro, vou te ajudar com um resumo conciso sobre algoritmos de aprendizado de máquina focados em regressão. 
+
+### Algoritmos de Aprendizado de Máquina: Regressão
+
+**1. Definição:**
+   - **Regressão** é uma técnica de aprendizado de máquina supervisionado usada para prever valores contínuos. O objetivo é modelar a relação entre uma variável dependente (alvo) e uma ou mais variáveis independentes (preditores).
+
+**2. Principais Algoritmos de Regressão:**
+
+   - **Regressão Linear Simples:**
+     - Modelo mais básico de regressão.
+     - Relaciona uma variável dependente a uma única variável independente.
+     - Fórmula: \( y = \beta_0 + \beta_1x + \epsilon \), onde \( y \) é a variável dependente, \( x \) é a variável independente, \( \beta_0 \) é o intercepto, \( \beta_1 \) é o coeficiente de inclinação e \( \epsilon \) é o erro.
+
+   - **Regressão Linear Múltipla:**
+     - Extensão da regressão linear simples.
+     - Relaciona uma variável dependente a múltiplas variáveis independentes.
+     - Fórmula: \( y = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \beta_nx_n + \epsilon \).
+
+   - **Regressão Polinomial:**
+     - Modelo de regressão onde a relação entre a variável dependente e as variáveis independentes é modelada como um polinômio.
+     - Útil para capturar relações não lineares.
+     - Fórmula: \( y = \beta_0 + \beta_1x + \beta_2x^2 + ... + \beta_nx^n + \epsilon \).
+
+   - **Regressão Logística:**
+     - Usada para prever a probabilidade de uma variável dependente binária.
+     - Embora seja usada para classificação, é baseada em conceitos de regressão.
+     - Fórmula: \( \text{logit}(p) = \ln\left(\frac{p}{1-p}\right) = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \beta_nx_n \), onde \( p \) é a probabilidade do evento.
+
+   - **Regressão Ridge:**
+     - Variante da regressão linear que inclui uma penalização para os coeficientes.
+     - Ajuda a evitar overfitting.
+     - Fórmula: \( y = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \beta_nx_n + \lambda \sum_{i=1}^{n} \beta_i^2 \), onde \( \lambda \) é o parâmetro de regularização.
+
+   - **Lasso (Least Absolute Shrinkage and Selection Operator):**
+     - Similar à regressão Ridge, mas usa a penalização da soma dos valores absolutos dos coeficientes.
+     - Pode resultar em coeficientes exatamente zero, promovendo a seleção de características.
+     - Fórmula: \( y = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \beta_nx_n + \lambda \sum_{i=1}^{n} |\beta_i| \).
+
+   - **Elastic Net:**
+     - Combina as penalizações da regressão Ridge e Lasso.
+     - Útil quando há muitas variáveis correlacionadas.
+     - Fórmula: \( y = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \beta_nx_n + \lambda_1 \sum_{i=1}^{n} \beta_i^2 + \lambda_2 \sum_{i=1}^{n} |\beta_i| \).
+
+   - **Regressão de Vetores de Suporte (SVR):**
+     - Extensão do algoritmo de Máquinas de Vetores de Suporte (SVM) para problemas de regressão.
+     - Tenta encontrar um hiperplano que tenha a maior margem possível com um limite de erro tolerável.
+
+**3. Aspectos Essenciais:**
+
+   - **Erro e Métricas de Avaliação:**
+     - **Erro Quadrático Médio (MSE):** Média dos quadrados dos erros.
+     - **Erro Absoluto Médio (MAE):** Média dos valores absolutos dos erros.
+     - **R² (Coeficiente de Determinação):** Mede a proporção da variância na variável dependente que é previsível a partir das variáveis independentes.
+
+   - **Assumptions (Suposições):**
+     - Linearidade: A
+

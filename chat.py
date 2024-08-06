@@ -7,13 +7,10 @@ from helpers import *
 def cria_dissertacao(pergunta):
     try:
         messages = [
-            # {"role": "user", "content": f'''Sou um estudante para concurso do CESPE, agora Cebraspe. 
-            # Fale sobre {pergunta.strip()} para eu poder fazer uma 
-            # prova discursiva com 1 questão e 1 parecer'''}
-
-
-            {"role": "user", "content": f'''quero aprender sobre {pergunta.strip()}
-             Idenfidique e me retorne os 20% mais importantes aprendizados deste assunto que me ajudarão a compreender os 80% necessários'''}
+            {"role": "user", "content": f'''Estou estudando para um concurso e preciso de ajuda para entender melhor o conteúdo do meu edital. 
+             Pode me fornecer um resumo conciso e direto ao ponto sobre o seguinte tópico do edital: {pergunta.strip()}? 
+             Gostaria que o resumo incluísse os principais pontos, conceitos e aspectos essenciais sobre o tema.
+             Se houver uma lista, indique todos seus itens sem resumir ou apenas citar exemplos'''}
         ]
 
         response_subtopicos = openai.ChatCompletion.create(

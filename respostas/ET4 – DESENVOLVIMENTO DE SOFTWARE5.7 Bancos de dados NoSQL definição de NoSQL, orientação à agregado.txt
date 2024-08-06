@@ -1,0 +1,41 @@
+5.7 Bancos de dados NoSQL: definição de NoSQL, orientação à agregados, tipos de SGBD NoSQL: chave valor, chave valor orientado à documentos, família de colunas, grafos. 
+ -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre o tópico "Bancos de dados NoSQL" conforme solicitado:
+
+### Bancos de Dados NoSQL
+
+**Definição de NoSQL:**
+- **NoSQL**: Refere-se a uma classe de sistemas de gerenciamento de banco de dados que não seguem o modelo relacional tradicional. São projetados para lidar com grandes volumes de dados, alta velocidade de leitura e escrita, e escalabilidade horizontal.
+
+**Orientação à Agregados:**
+- **Agregados**: São unidades de dados que são manipuladas como um todo. Em bancos de dados NoSQL, os dados são frequentemente armazenados em estruturas que agrupam informações relacionadas, facilitando operações de leitura e escrita eficientes.
+
+**Tipos de SGBD NoSQL:**
+1. **Chave-Valor (Key-Value Stores):**
+   - **Definição**: Armazenam dados como pares de chave-valor, onde a chave é única e usada para recuperar o valor associado.
+   - **Exemplos**: Redis, DynamoDB.
+
+2. **Chave-Valor Orientado a Documentos (Document Stores):**
+   - **Definição**: Armazenam dados em documentos, geralmente no formato JSON, BSON ou XML. Cada documento é um conjunto de pares chave-valor e pode ter uma estrutura flexível.
+   - **Exemplos**: MongoDB, CouchDB.
+
+3. **Família de Colunas (Column Family Stores):**
+   - **Definição**: Armazenam dados em tabelas, mas diferentemente dos bancos de dados relacionais, as linhas podem ter um número variável de colunas. São otimizados para consultas em grandes volumes de dados.
+   - **Exemplos**: Apache Cassandra, HBase.
+
+4. **Grafos (Graph Databases):**
+   - **Definição**: Armazenam dados em estruturas de grafos, onde os dados são representados como nós (entidades) e arestas (relacionamentos). São ideais para modelar e consultar redes complexas de relacionamentos.
+   - **Exemplos**: Neo4j, OrientDB.
+
+### Principais Pontos e Conceitos:
+- **Escalabilidade Horizontal**: Capacidade de adicionar mais servidores para distribuir a carga de trabalho.
+- **Flexibilidade de Esquema**: Permite armazenar dados sem um esquema fixo, facilitando a adaptação a mudanças nos dados.
+- **Alta Disponibilidade e Particionamento**: Projetados para garantir que os dados estejam sempre disponíveis e distribuídos eficientemente.
+
+### Aspectos Essenciais:
+- **Desempenho**: NoSQL é otimizado para operações rápidas de leitura e escrita.
+- **Consistência Eventual**: Alguns sistemas NoSQL adotam o modelo de consistência eventual, onde os dados podem não ser imediatamente consistentes em todos os nós, mas eventualmente se tornam consistentes.
+- **Uso em Big Data**: Amplamente utilizados em aplicações que lidam com grandes volumes de dados e requerem alta performance e escalabilidade.
+
+Espero que este resumo ajude a esclarecer os principais pontos sobre bancos de dados NoSQL conforme o seu edital. Boa sorte nos seus estudos para o concurso!
+

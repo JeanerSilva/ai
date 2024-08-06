@@ -1,0 +1,49 @@
+6.2 Workflow e gerenciamento eletrônico de documentos.
+ -
+Claro, posso ajudar com isso! Vamos ao resumo sobre "Workflow e gerenciamento eletrônico de documentos":
+
+### Workflow e Gerenciamento Eletrônico de Documentos
+
+#### Workflow
+1. **Definição**: Workflow é a automação de processos de negócios, no qual documentos, informações ou tarefas são passados de um participante para outro para execução de ações, de acordo com um conjunto de regras procedurais.
+2. **Objetivos**:
+   - **Automatização**: Reduzir a intervenção manual em processos repetitivos.
+   - **Eficiência**: Aumentar a velocidade e a precisão dos processos.
+   - **Controle**: Melhorar o monitoramento e a rastreabilidade das atividades.
+3. **Componentes**:
+   - **Atividades**: Tarefas ou ações que precisam ser executadas.
+   - **Regras de Negócio**: Critérios que determinam o fluxo das atividades.
+   - **Participantes**: Pessoas ou sistemas que executam as atividades.
+4. **Tipos de Workflow**:
+   - **Ad-hoc**: Flexível, ajustado conforme necessário.
+   - **Administrativo**: Estruturado, com processos bem definidos.
+   - **Produção**: Altamente estruturado, usado em processos críticos e repetitivos.
+
+#### Gerenciamento Eletrônico de Documentos (GED)
+1. **Definição**: GED é o uso de sistemas informatizados para gerenciar documentos eletrônicos e digitais, facilitando a criação, armazenamento, recuperação e compartilhamento de documentos.
+2. **Objetivos**:
+   - **Organização**: Melhorar a organização e o acesso a documentos.
+   - **Segurança**: Proteger informações sensíveis e garantir a conformidade com regulamentações.
+   - **Eficiência**: Reduzir o tempo e os custos associados ao gerenciamento de documentos físicos.
+3. **Componentes**:
+   - **Captura**: Digitalização e importação de documentos.
+   - **Indexação**: Atribuição de metadados para facilitar a busca e recuperação.
+   - **Armazenamento**: Repositórios digitais seguros para guardar documentos.
+   - **Recuperação**: Ferramentas de busca e acesso rápido a documentos.
+   - **Distribuição**: Compartilhamento e envio de documentos eletronicamente.
+   - **Segurança**: Controle de acesso e proteção contra perda ou corrupção de dados.
+4. **Benefícios**:
+   - **Acesso Rápido**: Localização rápida de documentos.
+   - **Redução de Espaço**: Menor necessidade de armazenamento físico.
+   - **Melhoria na Colaboração**: Facilita o trabalho em equipe e o compartilhamento de informações.
+   - **Conformidade**: Ajuda a cumprir requisitos legais e regulamentares.
+
+### Aspectos Essenciais
+- **Integração**: A integração entre sistemas de workflow e GED é crucial para maximizar a eficiência e a eficácia dos processos de negócios.
+- **Automatização**: A automação de processos reduz erros humanos e aumenta a produtividade.
+- **Segurança e Conformidade**: Implementar medidas de segurança robustas e garantir que os processos estejam em conformidade com as regulamentações aplicáveis.
+- **Usabilidade**: Sistemas devem ser intuitivos e fáceis de usar para garantir a adoção pelos usuários.
+- **Monitoramento e Relatórios**: Ferramentas para monitorar o desempenho dos processos e gerar relatórios são essenciais para a melhoria contínua.
+
+Espero que este resumo ajude a esclarecer os principais pontos sobre Workflow e Gerenciamento Eletrônico de Documentos conforme solicitado no seu edital. Boa sorte nos seus estudos e no concurso!
+

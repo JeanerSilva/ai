@@ -1,0 +1,58 @@
+2.4 Metodologias ágeis.
+ -
+Claro, vou te ajudar com um resumo conciso sobre metodologias ágeis, conforme solicitado. 
+
+### Metodologias Ágeis
+
+**Conceito Geral:**
+Metodologias ágeis são abordagens para o desenvolvimento de software que enfatizam a flexibilidade, a colaboração e a entrega contínua de valor ao cliente. Elas surgiram como uma resposta às limitações dos métodos tradicionais de desenvolvimento, como o modelo cascata, que são mais rígidos e menos adaptáveis às mudanças.
+
+**Principais Pontos e Conceitos:**
+
+1. **Manifesto Ágil:**
+   - **Indivíduos e interações** mais que processos e ferramentas.
+   - **Software em funcionamento** mais que documentação abrangente.
+   - **Colaboração com o cliente** mais que negociação de contratos.
+   - **Responder a mudanças** mais que seguir um plano.
+
+2. **Princípios Ágeis:**
+   - Satisfação do cliente através da entrega contínua e rápida de software útil.
+   - Bem-vinda mudança de requisitos, mesmo tardiamente no desenvolvimento.
+   - Entrega frequente de software funcional, com uma preferência por períodos curtos.
+   - Colaboração diária entre negócios e desenvolvedores.
+   - Projetos são construídos em torno de indivíduos motivados.
+   - Conversa face a face é a forma mais eficiente e eficaz de comunicação.
+   - Software funcional é a principal medida de progresso.
+   - Desenvolvimento sustentável, mantendo um ritmo constante.
+   - Atenção contínua à excelência técnica e bom design.
+   - Simplicidade é essencial.
+   - As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizadas.
+   - Reflexão regular sobre como se tornar mais eficaz, ajustando o comportamento de acordo.
+
+3. **Principais Metodologias Ágeis:**
+   - **Scrum:**
+     - Estrutura que divide o trabalho em ciclos curtos chamados sprints.
+     - Papéis principais: Product Owner, Scrum Master e Time de Desenvolvimento.
+     - Eventos: Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective.
+   - **Kanban:**
+     - Método visual para gerenciar o trabalho conforme ele move através de um processo.
+     - Foco na visualização do fluxo de trabalho, limitando o trabalho em progresso (WIP) e melhorando a eficiência.
+   - **Extreme Programming (XP):**
+     - Práticas como desenvolvimento orientado a testes (TDD), programação em par, e integração contínua.
+     - Foco na melhoria da qualidade do software e na capacidade de resposta às mudanças.
+   - **Lean:**
+     - Enfatiza a eliminação de desperdícios, entrega rápida e melhoria contínua.
+     - Princípios como valor, fluxo de valor, fluxo, puxar e perfeição.
+   - **Crystal:**
+     - Conjunto de metodologias que variam conforme o tamanho do projeto e a criticidade do sistema.
+     - Foco na comunicação, simplicidade e feedback frequente.
+
+4. **Aspectos Essenciais:**
+   - **Iteratividade e Incrementalidade:** Desenvolvimento em pequenos ciclos, permitindo ajustes frequentes.
+   - **Colaboração e Comunicação:** Envolvimento constante do cliente e comunicação eficaz dentro da equipe.
+   - **Flexibilidade e Adaptabilidade:** Capacidade de responder rapidamente a mudanças nos requisitos.
+   - **Entrega Contínua:** Entrega frequente de incrementos de software funcional para obter feedback rápido.
+   - **Melhoria Contínua:** Revisão e ajuste contínuos dos processos e práticas para aumentar a eficiência e a qualidade.
+
+Esses são os principais pontos e conceitos sobre metodologias ágeis que você deve entender para o seu concurso. Boa sorte nos estudos!
+

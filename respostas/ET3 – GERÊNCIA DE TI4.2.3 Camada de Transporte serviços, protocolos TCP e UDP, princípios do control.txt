@@ -1,0 +1,39 @@
+4.2.3 Camada de Transporte: serviços, protocolos TCP e UDP, princípios do controle de congestionamento. 
+ -
+Claro, vou fornecer um resumo conciso e direto ao ponto sobre o tópico "Camada de Transporte: serviços, protocolos TCP e UDP, princípios do controle de congestionamento" conforme solicitado.
+
+### Camada de Transporte
+
+#### Serviços da Camada de Transporte
+1. **Multiplexação e Demultiplexação**: Permite que vários processos utilizem a rede simultaneamente, associando dados recebidos a processos específicos.
+2. **Transferência Confiável de Dados**: Garante que os dados sejam entregues corretamente e na ordem correta (principalmente no TCP).
+3. **Controle de Fluxo**: Evita que o remetente sobrecarregue o receptor com muitos dados de uma vez.
+4. **Controle de Congestionamento**: Evita que a rede fique sobrecarregada, regulando a quantidade de dados enviados.
+
+#### Protocolos TCP e UDP
+
+**TCP (Transmission Control Protocol)**
+- **Confiabilidade**: Garante a entrega dos dados sem erros e na ordem correta.
+- **Controle de Fluxo**: Utiliza janelas deslizantes para garantir que o remetente não sobrecarregue o receptor.
+- **Controle de Congestionamento**: Ajusta a taxa de envio de dados com base na capacidade da rede.
+- **Estabelecimento de Conexão**: Utiliza um processo de handshake de três vias (SYN, SYN-ACK, ACK) para estabelecer uma conexão antes de transmitir dados.
+- **Encerramento de Conexão**: Utiliza um processo de encerramento de quatro vias (FIN, ACK, FIN, ACK) para terminar a conexão.
+
+**UDP (User Datagram Protocol)**
+- **Não Confiável**: Não garante a entrega dos dados nem a ordem correta.
+- **Sem Controle de Fluxo**: Não possui mecanismos para evitar sobrecarga do receptor.
+- **Sem Controle de Congestionamento**: Não ajusta a taxa de envio de dados com base na capacidade da rede.
+- **Sem Estabelecimento de Conexão**: Envia dados diretamente sem estabelecer uma conexão prévia.
+- **Baixa Latência**: Ideal para aplicações que necessitam de transmissão rápida e podem tolerar perda de dados (ex.: streaming de vídeo, jogos online).
+
+#### Princípios do Controle de Congestionamento
+1. **Detecção de Congestionamento**: Identificação de sinais de congestionamento na rede, como aumento no tempo de resposta ou perda de pacotes.
+2. **Algoritmos de Controle de Congestionamento**:
+   - **AIMD (Additive Increase Multiplicative Decrease)**: Aumenta a taxa de envio de dados de forma aditiva até detectar congestionamento, então reduz multiplicativamente.
+   - **Slow Start**: Começa com uma taxa de envio baixa e aumenta exponencialmente até detectar congestionamento.
+   - **Congestion Avoidance**: Ajusta a taxa de envio de forma mais conservadora para evitar congestionamento.
+   - **Fast Recovery**: Recupera rapidamente a taxa de envio após detectar e responder ao congestionamento.
+3. **Feedback Implícito e Explícito**: Utiliza sinais indiretos (como tempo de resposta) ou diretos (mensagens de controle) para ajustar a taxa de envio.
+
+Esses são os principais pontos, conceitos e aspectos essenciais sobre a camada de transporte, os protocolos TCP e UDP, e os princípios do controle de congestionamento. Boa sorte nos seus estudos para o concurso!
+

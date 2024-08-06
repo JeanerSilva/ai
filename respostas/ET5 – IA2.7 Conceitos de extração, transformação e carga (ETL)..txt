@@ -1,0 +1,52 @@
+2.7 Conceitos de extração, transformação e carga (ETL).
+ -
+Claro, vou te ajudar com um resumo conciso e direto ao ponto sobre o tópico "Conceitos de extração, transformação e carga (ETL)". 
+
+### Conceitos de Extração, Transformação e Carga (ETL)
+
+**ETL** é um processo fundamental em sistemas de Data Warehousing e Business Intelligence, que envolve três etapas principais:
+
+1. **Extração (Extract)**:
+   - **Definição**: É o processo de coletar dados de várias fontes heterogêneas, como bancos de dados, arquivos, APIs, entre outros.
+   - **Objetivo**: Garantir que todos os dados necessários sejam capturados de forma eficiente e precisa.
+   - **Aspectos Essenciais**:
+     - Identificação das fontes de dados.
+     - Conexão com as fontes de dados.
+     - Coleta de dados brutos.
+
+2. **Transformação (Transform)**:
+   - **Definição**: É o processo de converter os dados extraídos em um formato adequado para análise e armazenamento.
+   - **Objetivo**: Melhorar a qualidade dos dados e adequá-los às necessidades do sistema de destino.
+   - **Aspectos Essenciais**:
+     - Limpeza de dados (remoção de duplicatas, correção de erros).
+     - Conversão de formatos de dados.
+     - Aplicação de regras de negócios.
+     - Agregação e sumarização de dados.
+     - Enriquecimento dos dados (adição de informações adicionais).
+
+3. **Carga (Load)**:
+   - **Definição**: É o processo de inserir os dados transformados no sistema de destino, como um Data Warehouse ou Data Mart.
+   - **Objetivo**: Garantir que os dados estejam disponíveis para análise e relatórios.
+   - **Aspectos Essenciais**:
+     - Escolha do método de carga (incremental ou total).
+     - Verificação da integridade dos dados.
+     - Monitoramento e registro do processo de carga.
+
+### Principais Pontos e Conceitos
+
+- **ETL Pipeline**: Sequência de processos ETL que movem dados de uma ou mais fontes para um ou mais destinos.
+- **Data Quality**: Importância de garantir a qualidade dos dados durante todo o processo ETL.
+- **Automação**: Uso de ferramentas e scripts para automatizar o processo ETL, aumentando a eficiência e reduzindo erros.
+- **Performance**: Considerações sobre a performance do processo ETL, como otimização de consultas e uso eficiente de recursos.
+- **Erro e Recuperação**: Mecanismos para lidar com falhas no processo ETL e garantir a recuperação dos dados.
+
+### Ferramentas Comuns de ETL
+
+- **Informatica PowerCenter**
+- **Microsoft SQL Server Integration Services (SSIS)**
+- **Talend**
+- **Apache Nifi**
+- **Pentaho Data Integration (Kettle)**
+
+Esses são os conceitos e aspectos essenciais sobre ETL que você precisa entender para o seu concurso. Boa sorte nos estudos!
+
